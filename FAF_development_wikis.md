@@ -1,0 +1,1 @@
+-   [Client wiki](https://github.com/faforever/client/wiki)
