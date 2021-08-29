@@ -1,3 +1,13 @@
+---
+title: Voicechat (Discord)
+description: 
+published: true
+date: 2021-08-29T00:19:06.557Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-29T00:03:21.476Z
+---
+
 ![](FAFDiscordServer1.png "fig:FAFDiscordServer1.png") FAF now has a
 Discord server that everyone can use to talk with their friends and clan
 mates!
