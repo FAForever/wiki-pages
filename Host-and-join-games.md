@@ -1,3 +1,13 @@
+---
+title: Host-and-join-games
+description: 
+published: true
+date: 2021-08-31T19:02:33.911Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:43:43.776Z
+---
+
 This tab in the lobby is how you start to play Forged Alliance with the
 client. As long as you have Supreme Commander Forged Alliance installed,
 no further setup is needed. Consult [this](Setting_Up_FAF "wikilink")
@@ -74,8 +84,6 @@ dialogue with a variety of options.
     it's focused (opened and closed again, or use tab).
 -   The mod list can be used to enable and disable *sim mods*. This can
     also be changed in-game if you wish.
-
-<!-- -->
 
 -   The options **Friends** and **Hidden** are currently unavailable.
 -   If the **password** checkbox is ticked, or **private** is used in
