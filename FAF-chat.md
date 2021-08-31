@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:34:29.843Z
+date: 2021-08-31T17:36:09.483Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -24,7 +24,7 @@ Write chat commands directly in chat, starting with "!" "#" or "/"
 5.  **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
 6.  **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
 7.  **!help** - Lists all available fafbot commands and their descriptions
-8.  **#REPLAYID** - Generated download link for [replay](Replay_Vault_%26_Live_Games#Game.2FReplay_ID "wikilink"), shows map played and lists all players.
+8.  **#REPLAYID** - Generated download link for [replay](/Replay-Vault-&-Live-Games), shows map played and lists all players.
 9.  **!kick** - used by channel operators for kicking user from channel
 10. **!ban** - used by channel operators for banning user from channel
 11. **/topic** - followed by text. Changes topic of a channel.
