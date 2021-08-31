@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T22:08:04.907Z
+date: 2021-08-31T22:10:53.480Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -45,16 +45,16 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="/user-group-icons/moderator-avatar.png"/><a href="User-Groups#FAF_Moderators"> FAF Moderators</a></li>
+<li><img src="/user-group-icons/moderator-avatar.png"/><a href="User-Groups#faf-moderators"> FAF Moderators</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/user-group-icons/trainer-avatar.png"/><a href="User_Groups#Trainers"> Trainers</a></li>
+<li><img src="/user-group-icons/trainer-avatar.png"/><a href="User-Groups#trainers"> Trainers</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/user-group-icons/cos-administration.png"/><a href="User_Groups#Council_of_Setons"> Council of Setons</a></li>
+<li><img src="/user-group-icons/cos-administration.png"/><a href="User-Groups#council-of-setons"> Council of Setons</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/user-group-icons/tournament-director.png"/><a href="User_Groups#Tournament_Directors"> Tournament Directors</a></li>
+<li><img src="/user-group-icons/tournament-director.png"/><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
 </ul></td>
 <td></td>
 </tr>
