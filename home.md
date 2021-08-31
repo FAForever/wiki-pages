@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:06:31.163Z
+date: 2021-08-31T12:09:53.232Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -78,9 +78,9 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink">Tournaments</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Gazui.PNG" title="fig:Gazui.PNG" width="20" alt="Gazui.PNG" /> <a href="Game_Modifications_(Mods)" title="wikilink">Game Modifications (Mods)</a></li>
-<li><img src="Replays_Icon.png" title="fig:File:Replays_Icon.png" alt="File:Replays_Icon.png" /> <a href="LiveReplay_server_and_replays" title="wikilink">LiveReplay server and replays</a></li>
-<li><img src="Discord-icon.png" title="fig:Discord-icon.png" width="25" alt="Discord-icon.png" /> <a href="Voicechat_(Discord)" title="wikilink">Voicechat</a></li>
+<li><img src="/information-icons/gazui.png" width="20"/><a href="Game-Modifications-(Mods)"> Game Modifications (Mods)</a></li>
+<li><img src="/information-icons/replays-icon.png"/><a href="LiveReplay-server-and-replays"> LiveReplay server and replays</a></li>
+<li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Voicechat</a></li>
 </ul></td>
 <td><ul>
 <li><img src="QAI.png" title="fig:QAI.png" width="25" alt="QAI.png" /> <a href="Bots" title="wikilink">Bots</a></li>
