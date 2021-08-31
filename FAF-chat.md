@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:18:04.897Z
+date: 2021-08-31T17:18:39.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -73,22 +73,14 @@ Right now, there are only few ways to get avatars. Here a list:
     -   Hosting [tournaments](Tournaments "wikilink")![<File:Tournament>Director.png](Tournament_Director.png "fig:File:Tournament Director.png")
 
 ## Player Status
+As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
+- Nothing: this player is just chatting or afk.
+- One sword: this player is currently in a game lobby.
+- Crossed swords: this player is playing a game.
 
-As you see in the picture, there can be one sword, crossed swords, or
-nothing next to each player's name.
+If you double click on a single sword, you will launch FA and join the player in the lobby that they are presently in.
 
--   Nothing: this player is just chatting or afk.
--   One sword: this player is currently in a game lobby.
--   Crossed swords: this player is playing a game.
-
-If you double click on a single sword, you will launch FA and join the
-player in the lobby that they are presently in.
-
-If you double click on crossed swords, you will launch FA and start
-watching the [livereplay](LiveReplay_server_and_replays "wikilink") from
-the beginning of their game.
+If you double click on crossed swords, you will launch FA and start watching the [livereplay](LiveReplay_server_and_replays "wikilink") from the beginning of their game.
 
 ## Joining Chat via Browser
-
-You can access it from any IRC client: [Chat / IRC
-Server](http://wiki.faforever.com/index.php?title=Chat_/_IRC_server)
+You can access it from any IRC client: [Chat / IRCServer](http://wiki.faforever.com/index.php?title=Chat_/_IRC_server)
