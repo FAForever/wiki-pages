@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T14:37:23.621Z
+date: 2021-08-31T14:38:52.096Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -223,8 +223,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 
 
 
--   2012: [3610](3610 "wikilink"), [3614](3614 "wikilink"),
-    [3615](3615 "wikilink"), [3620](3620 "wikilink")
 -   2013: [3622](https://www.faforever.com/2013/03/patch-3622-released),
     [3623](https://www.faforever.com/2013/03/3623-patch-quickfix),
     [3624](https://www.faforever.com/2013/04/patch-3624-released),
