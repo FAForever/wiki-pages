@@ -2,16 +2,13 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-08-31T14:57:53.315Z
+date: 2021-08-31T15:07:58.563Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
 ---
 
 # Complete changelog of all changes in 2013
-
-
-
 ## 3628
 This patch is a graphic enhancement patch only.
 
@@ -20,7 +17,6 @@ It introduce a better handling of the debris during explosions :
 http://www.youtube.com/watch?v=IybuyjVZc10
 
 It is also disabling bloom in all fidelity presets (bloom hide most of the nice particle effects, it may be reworked later).
-
 ## 3626
 The patch 3626 is now released.
 This patch is the result of months of work, and the first step of the “Next” project.
@@ -227,7 +223,6 @@ This a quickfix to 3624.
 - Reduced the Cerberus cybran DPS.
 - Removed the SCU teleport stun.
 - Added a teleport beacon on SCU teleport.
-
 ## 3624
 This is a quick fix, solving two small “imbalances” and some bugs, all thanks to Pip.
 
