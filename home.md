@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T11:35:43.722Z
+date: 2021-08-31T12:04:43.733Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -67,14 +67,14 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="Tutorials_Icon.png" title="fig:File:Tutorials_Icon.png" alt="File:Tutorials_Icon.png" /> <a href="Learning_SupCom" title="wikilink">Learning SupCom</a></li>
-<li><img src="Tutorials_Icon.png" title="fig:File:Tutorials_Icon.png" alt="File:Tutorials_Icon.png" /> <a href="Glossary" title="wikilink">Glossary</a></li>
-<li><img src="Tutorials_Icon.png" title="fig:File:Tutorials_Icon.png" alt="File:Tutorials_Icon.png" /> <a href="Changes_from_steam" title="wikilink">Changes from steam</a></li>
-<li><img src="Database.png" title="fig:Database.png" width="25" alt="Database.png" /> <a href="Unit_Database" title="wikilink">Unit Database</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Learning SupCom</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Changes from steam</a></li>
+<li><img src="/information-icons/database.png" width="25"/><a href="Unit-Database"> Unit Database</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Clan_War_Participant.png" title="fig:File:Clan_War_Participant.png" alt="File:Clan_War_Participant.png" /> <a href="Clans" title="wikilink">Clans</a></li>
-<li><img src="Livestreams_Icon.png" title="fig:File:Livestreams_Icon.png" alt="File:Livestreams_Icon.png" /> <a href="Casts&amp;Livestreams" title="wikilink">Casts&amp;Livestreams</a></li>
+<li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
+<li><img src="/information-icons/livestreams-icon.png" title="fig:File:Livestreams_Icon.png" alt="File:Livestreams_Icon.png" /> <a href="Casts&amp;Livestreams" title="wikilink">Casts&amp;Livestreams</a></li>
 <li><img src="Tournaments_Icon.png" title="fig:File:Tournaments_Icon.png" alt="File:Tournaments_Icon.png" /> <a href="Tournaments" title="wikilink">Tournaments</a></li>
 </ul></td>
 <td><ul>
