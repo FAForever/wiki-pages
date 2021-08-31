@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T10:53:55.735Z
+date: 2021-08-31T10:54:17.894Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -30,9 +30,9 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/faf-client-icons/tmm-icon.png"/><a href="The-Ladder"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/find-games-icon.png"/><a href="Host_and_join_games"> Host and join games</a></li>
-<li><img src="/faf-client-icons/uef-acu-mono.jpg" width="25"/><a href="Unit_Database"> Unit Database</a></li>
-<li><img src="/faf-client-icons/replays-icon.png"/><a href="Replay_Vault_&amp;_Live_Games"> Replay Vault &amp; Live Games</a></li>
+<li><img src="/faf-client-icons/find-games-icon.png"/><a href="Host-and-join-games"> Host and join games</a></li>
+<li><img src="/faf-client-icons/uef-acu-mono.jpg" width="25"/><a href="Unit-Database"> Unit Database</a></li>
+<li><img src="/faf-client-icons/replays-icon.png"/><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td></td>
 </tr>
