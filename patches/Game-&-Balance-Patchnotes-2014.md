@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2014
 description: 
 published: true
-date: 2021-08-31T15:26:46.544Z
+date: 2021-08-31T15:27:19.992Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:23:30.189Z
@@ -10,13 +10,14 @@ dateCreated: 2021-08-31T15:23:30.189Z
 
 # Complete changelog of all changes in 2014
 
-3636
-3634
-3633
-3632
-
-
-
+## 3636
+## 3634
+## 3633
+## 3632
+This is a quick fix release.
+- Fixed Broadsword Damage Per Second (was nerfed by mistake to 33% of the actual value).
+- Fixed a bug where units weren’t damaged when a personal shield was in recharge state.
+As usual, if you are playing on FAF, you already have the patch.
 
 ## 3631
 - Tons of little bug fixes in the interface.
