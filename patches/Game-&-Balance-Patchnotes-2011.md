@@ -2,7 +2,7 @@
 title: Game-&-Balance-Patchnotes-2011
 description: 
 published: true
-date: 2021-08-31T13:03:47.323Z
+date: 2021-08-31T13:04:55.208Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
@@ -129,3 +129,12 @@ dateCreated: 2021-08-31T12:44:10.511Z
 - T3 Submarine Hunter: Yathsou Decreased speed to 5 from 6
 - T2 Point Defense dps increased +10% damage
 - Seraphim cruiser direct fire Anti Air weapon and Seraphim T3 Anti Air cannon building weapon improved muzzle velocity.
+### AI
+- AI will now build firebases
+- AI will now build Percivals or Rhinos
+- AI can now consistently transport all valid units.
+- The AI unit groups that are assigned to guard bases will no longer attack all over the map
+- The AI now fires the Experimental nuke launcher more than once
+- AI now sends out more than only the first land scout
+- AI now can build the Megalith
+- Cheating AIs now actually use their experimental units
