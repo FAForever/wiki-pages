@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-08-31T14:46:17.963Z
+date: 2021-08-31T14:54:09.837Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
@@ -87,45 +87,45 @@ Thanks to Pip, ColonelSheppard, FunkOff and all the testers for their hard work 
 - UEF ASF : HP = 1850 (from 2600), mass cost = 350 (from 400),wreck value = 45% (from 90%)
 - Sera ASF : HP = 1800 (from 2550), mass cost = 350 (from 400),wreck value = 45% (from 90%)
 ### T2 units buff :
-Obsidian : +0.3 speed (2.6> 2.9)
-Rhino : +0.5 speed (2.7>3.2)
-Pillar : +0.3 speed (2.7>3)
-Ilshavoh : +0.1 speed (2.6>2.7)
-+100 HP to Hoplites.
-Cybran Firebeetle :
-damage radius = 4.5 (from 3.5)
-MaxRadius = 4.4 (from 4.5)
-Damage = 3000 (from 4500)
-Firing tolerance = 180 (from 4) ; it means the unit doesn’t have to face its target to explode.
-Firebeetles are now immune to each other explosion, meaning they are much more threatening in numbers.
-Added a button that makes instant death explosion, the same way CTRL+k does.
-SCUs
-Aeon SCU :
-gun upgrade gets +10 range (total = 40)
-UEF SCU :
-high ordonance upgrade  + 10 range (= 35)
-Cybran SCU:
-weapon upgrade gets + 10 range (= 35)
-EMP upgrade cost is reduced to 1000 mass (from 1500) and 2400 buildtime (from 4800) ;
-AOE is slightly buffed to 3 (from 2.5), duration is set to 4 (from 3) and ProjectileLifetimeUsesMultiplier becomes 1.30 (from 1.15) so that the longer range shot doesn’t disappear (because it doesn’t last long enough!!!).
-Seraphim SCU :
-Nano upgrade cost = 2500 mass (from 1500) because it adds 14000 HP to the health of the unit, so it should be more expensive than the others nano upgrade (and not cheaper). Even at this price, it’s the best defensive upgrade of all the SCU.
-Overcharge cost = 4500 mass (from 3000), energy cost = 300 000 (from 200 000), buildtime = 10000 (from 9000).
-Sensor upgrade : mass cost = 800 (from 1000), energy = 36000 (from 2000), new vision radius = 36 (from 45), new omni radius = 60 (from 80), adds +10 range to main weapon (but not to Overcharge weapon).
-T3 artilleries :
-20% mass reduction cost :
-Aeon Emissary : 73200 (from 91500)
-Cybran Disruptor: 69600 (from 87000)
-UEF Duke  : 72000 (from 90000)
-Seraphim Hovatham :70800 (from 88500)
-Game Enders (except Scathis)
-25% mass reduction cost :
-Salvation : 202500 (from 270000)
-Mavor : 224775 (from 299700)
-Seraphim Yolona Oss : 187650 (from 250200)
-Scathis :
-Energy = 1500000 (from 93000)
-Mass : 85000 (from 63000)
-Scathis is now amphibious (not floating !)
-Speed 1.5 (from 1)
+-Obsidian : +0.3 speed (2.6> 2.9)
+-Rhino : +0.5 speed (2.7>3.2)
+-Pillar : +0.3 speed (2.7>3)
+-Ilshavoh : +0.1 speed (2.6>2.7)
+-+100 HP to Hoplites.
+#### Cybran Firebeetle :
+-damage radius = 4.5 (from 3.5)
+-MaxRadius = 4.4 (from 4.5)
+-Damage = 3000 (from 4500)
+-Firing tolerance = 180 (from 4) ; it means the unit doesn’t have to face its target to explode.
+-Firebeetles are now immune to each other explosion, meaning they are much more threatening in numbers.
+-Added a button that makes instant death explosion, the same way CTRL+k does.
+#### SCUs
+##### Aeon SCU :
+- gun upgrade gets +10 range (total = 40)
+##### UEF SCU :
+- high ordonance upgrade  + 10 range (= 35)
+##### Cybran SCU:
+- weapon upgrade gets + 10 range (= 35)
+- EMP upgrade cost is reduced to 1000 mass (from 1500) and 2400 buildtime (from 4800) ;
+- AOE is slightly buffed to 3 (from 2.5), duration is set to 4 (from 3) and ProjectileLifetimeUsesMultiplier becomes 1.30 (from 1.15) so that the longer range shot doesn’t disappear (because it doesn’t last long enough!!!).
+##### Seraphim SCU :
+- Nano upgrade cost = 2500 mass (from 1500) because it adds 14000 HP to the health of the unit, so it should be more expensive than the others nano upgrade (and not cheaper). Even at this price, it’s the best defensive upgrade of all the SCU.
+- Overcharge cost = 4500 mass (from 3000), energy cost = 300 000 (from 200 000), buildtime = 10000 (from 9000).
+- Sensor upgrade : mass cost = 800 (from 1000), energy = 36000 (from 2000), new vision radius = 36 (from 45), new omni radius = 60 (from 80), adds +10 range to main weapon (but not to Overcharge weapon).
+### T3 artilleries :
+- 20% mass reduction cost :
+- Aeon Emissary: 73200 (from 91500)
+- Cybran Disruptor: 69600 (from 87000)
+- UEF Duke: 72000 (from 90000)
+- Seraphim Hovatham :70800 (from 88500)
+### Game Enders (except Scathis)
+- 25% mass reduction cost :
+- Salvation : 202500 (from 270000)
+- Mavor : 224775 (from 299700)
+- Seraphim Yolona Oss : 187650 (from 250200)
+### Scathis :
+- Energy = 1500000 (from 93000)
+- Mass : 85000 (from 63000)
+- Scathis is now amphibious (not floating !)
+- Speed 1.5 (from 1)
 
