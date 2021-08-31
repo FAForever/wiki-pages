@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:08:26.888Z
+date: 2021-08-31T19:09:48.767Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -33,47 +33,26 @@ This is how most games are played - simply double click on a game which you like
 - **FAF** - Default mod with older, stable patch.
 
 ### 2. Ladder 1v1
-This is the built-in Auto-Matchmaker system for 1v1. More information
-see the [1v1 Ladder](The_Ladder "wikilink") page.
+This is the built-in Auto-Matchmaker system for 1v1. More information see the [1v1 Ladder](The_Ladder "wikilink") page.
 
 ### 3. Co-Op Campaign & Custom Missions
-
-To learn more about the Co-Op Campaign and the all the Community made
-Custom Mission please go to the [Coop
-Missions](Coop_Missions "wikilink") page.
+To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [CoopMissions](Coop_Missions "wikilink") page.
 
 ### Playing With AI
-
-If you wish to play vs ai , simply host your own game, and add AI
-players instead of real ones. It's that simple! FAF comes with sorian
-AI, so you dont need to install it, and you can have any combination of
-human and AI players, as you wish.
+If you wish to play vs ai , simply host your own game, and add AI players instead of real ones. It's that simple! FAF comes with sorian AI, so you dont need to install it, and you can have any combination of human and AI players, as you wish.
 
 ## Hosting Games
-
-![](HostGameDialogue.png "fig:HostGameDialogue.png") You can host a game
-by double clicking the icons on the left of the window to open a game
-dialogue with a variety of options.
-
--   The title bar sets the game title which can be seen in the games
-    tab.
--   The preview shows how it will look.
--   The map drop-down is used to select a map. You can also change this
-    in-game if you wish. Arrow keys can be used to scroll through it if
-    it's focused (opened and closed again, or use tab).
--   The mod list can be used to enable and disable *sim mods*. This can
-    also be changed in-game if you wish.
-
--   The options **Friends** and **Hidden** are currently unavailable.
--   If the **password** checkbox is ticked, or **private** is used in
-    the game title, the padlock icon will appear instead of the map
-    preview.
-    -   It will also be hidden from the Find Games list if that
-        particular user has the **Hide Private Games** checkbox ticked.
+![](HostGameDialogue.png "fig:HostGameDialogue.png") You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
+- The title bar sets the game title which can be seen in the games tab.
+- The preview shows how it will look.
+- The map drop-down is used to select a map. You can also change this in-game if you wish. Arrow keys can be used to scroll through it if it's focused (opened and closed again, or use tab).
+- The mod list can be used to enable and disable *sim mods*. This can also be changed in-game if you wish.
+- The options **Friends** and **Hidden** are currently unavailable.
+- If the **password** checkbox is ticked, or **private** is used in the game title, the padlock icon will appear instead of the map preview.
+		- It will also be hidden from the Find Games list if that particular user has the **Hide Private Games** checkbox ticked.
 
 ## Video tutorial
-
-Video tutorial created by Heaven on hosting and playing on FAF, called
+SVideo tutorial created by Heaven on hosting and playing on FAF, called
 [Default and Ranked Settings](https://youtu.be/BpSH12DdoFM), where he
 explains how to host a lobby on default settings, and how to tell
 whether someone else hosted a game on default settings. He also
