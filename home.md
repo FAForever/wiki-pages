@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:21:44.648Z
+date: 2021-08-31T12:29:00.332Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -188,6 +188,45 @@ dateCreated: 2021-08-31T09:44:13.010Z
 ------------------------------------------------------------------------
 
 ## Game & Balance Patchnotes
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="Patches-2011"> 2011</a></li>
+<li><a href="Patches-2012"> 2012</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Patches-2013"> 2013</a></li>
+<li><a href="Patches-2014"> 2014</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Patches-2015"> 2015</a></li>
+<li><a href="Patches-2016"> 2016</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Patches-2017"> 2017</a></li>
+<li><a href="Patches-2018"> 2018</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Patches-2019"> 2019</a></li>
+<li><a href="Patches-2020"> 2020</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Patches-2021"> 2021</a></li>
+<li><a href="Patches-2011"> 2022</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
 
 -   2011: [3605](3605 "wikilink"), [3606](3606 "wikilink"),
     [3608](3608 "wikilink"), [3609](3609 "wikilink")
