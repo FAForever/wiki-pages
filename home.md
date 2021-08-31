@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T10:24:50.310Z
+date: 2021-08-31T10:30:34.450Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -11,10 +11,10 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <div style='text-align: center;font-size: 20px'>
 
 **Welcome to the Forged Alliance Forever Wiki.**
-
+![site_banner.png](/site_banner.png)
 </div>
 
-__NOTOC__ ![](Supcom_FA_Logo.jpg "fig:Supcom_FA_Logo.jpg")
+![](Supcom_FA_Logo.jpg "fig:Supcom_FA_Logo.jpg")
 
 ## <img src="FAF_Logo2.png" title="fig:FAF_Logo2.png" width="50" alt="FAF_Logo2.png" /> **FAF Client**
 
