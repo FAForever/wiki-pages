@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T15:09:41.629Z
+date: 2021-08-31T15:09:52.429Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -222,13 +222,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 
-
--   2013: [3622](https://www.faforever.com/2013/03/patch-3622-released),
-    [3623](https://www.faforever.com/2013/03/3623-patch-quickfix),
-    [3624](https://www.faforever.com/2013/04/patch-3624-released),
-    [3625](https://www.faforever.com/2013/04/patch-3625),
-    [3626](https://www.faforever.com/2013/07/patch-3626-next),
-    [3628](https://www.faforever.com/2013/08/patch-3628-fx-enhancement)
 -   2014:
     [3629](https://www.faforever.com/2014/02/patch-3629-release-candidate-1),
     [3630](https://www.faforever.com/2014/03/patch-3630),
