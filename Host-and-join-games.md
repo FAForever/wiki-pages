@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:25:19.651Z
+date: 2021-08-31T19:25:30.311Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -33,7 +33,7 @@ This is how most games are played - simply double click on a game which you like
 - **FAF** - Default mod with older, stable patch.
 
 ### 2. Ladder 1v1
-This is the built-in Auto-Matchmaker system for 1v1. More information see the [1v1 Ladder](The_Ladder "wikilink") page.
+This is the built-in Auto-Matchmaker system for 1v1. More information see the [1v1 Ladder](/The-Ladder) page.
 
 ### 3. Co-Op Campaign & Custom Missions
 To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [CoopMissions](Coop_Missions "wikilink") page.
