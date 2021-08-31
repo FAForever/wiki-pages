@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:24:57.174Z
+date: 2021-08-31T19:25:19.651Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -28,7 +28,7 @@ Coop Campaign missions can be hosted at the [Coop Missions](/Coop-Missions) Tab 
 
 ### 1. Custom Games
 
-This is how most games are played - simply double click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](Global_Ranking "wikilink") requirements, and you may have trouble vs players who are much higher rated than you.
+This is how most games are played - simply double click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](/Global-Ranking) requirements, and you may have trouble vs players who are much higher rated than you.
 - **FAF (Beta)** - This is a default mod with the newest patch available.
 - **FAF** - Default mod with older, stable patch.
 
