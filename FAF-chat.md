@@ -1,65 +1,42 @@
-<figure>
-<img src="Myxir_wiki_chat2.png" title="Myxir_wiki_chat2.png" width="1800" alt="Myxir_wiki_chat2.png" /><figcaption aria-hidden="true">Myxir_wiki_chat2.png</figcaption>
-</figure>
+---
+title: FAF-chat
+description: 
+published: true
+date: 2021-08-31T17:12:57.918Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:43:19.686Z
+---
 
+![chat-tab2.png](/chat-tab2.png)
 ## Chat tabs
+1.  #aeolus is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chatrules](FAF_Client/Forum_Rules "wikilink"). 
+2.  Chatrooms without a # are private, such as direct messages to other players.
 
-1.  #aeolus is the default channel that every player automatically joins
-    when they start FAF. The main chat is English only, so please don't
-    use other languages there. Also follow the
-    [chatrules](FAF_Client/Forum_Rules "wikilink").
-2.  Chatrooms without a # are private, such as direct messages to other
-    players.
-
-You can open up a private chat with a player by double clicking his name
-in the name list.
-
+You can open up a private chat with a player by double clicking his name in the name list.
 ## Chat commands
-
 Write chat commands directly in chat, starting with "!" "#" or "/"
 
-1.  **/me** - followed by text. Speaks in the 3rd person. eg. *User
-    followed by text*.
-2.  **!seen** - followed by username. Shows when was user last time
-    online, it is case sensitive.
-3.  **!streams** - Shows all currently online
-    [streams](Livestreams "wikilink") of Forged Alliance. (Twitch,
-    HitBox, etc)
-4.  **!casts** - Shows last five Youtube Supreme Commander videos. (In
-    order to get your video on this list, type in name of the video
-    either "Supreme Commander" or "Forged Alliance")
-5.  **!trainers** - PMs you a list of currently online
-    [trainers](User_Groups#Trainers "wikilink").
-6.  **!mods** - PMs you a list of currently online
-    [moderators](User_Groups#FAF_Moderators "wikilink").
-7.  **!help** - Lists all available fafbot commands and their
-    descriptions
-8.  **#REPLAYID** - Generated download link for
-    [replay](Replay_Vault_%26_Live_Games#Game.2FReplay_ID "wikilink"),
-    shows map played and lists all players.
+1.  **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
+2.  **!seen** - followed by username. Shows when was user last time online, it is case sensitive.
+3.  **!streams** - Shows all currently online [streams](Livestreams "wikilink") of Forged Alliance. (Twitch, HitBox, etc)
+4.  **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
+5.  **!trainers** - PMs you a list of currently online [trainers](User_Groups#Trainers "wikilink").
+6.  **!mods** - PMs you a list of currently online [moderators](User_Groups#FAF_Moderators "wikilink").
+7.  **!help** - Lists all available fafbot commands and their descriptions
+8.  **#REPLAYID** - Generated download link for [replay](Replay_Vault_%26_Live_Games#Game.2FReplay_ID "wikilink"), shows map played and lists all players.
 9.  **!kick** - used by channel operators for kicking user from channel
 10. **!ban** - used by channel operators for banning user from channel
 11. **/topic** - followed by text. Changes topic of a channel.
 
--   **!kick**,**!ban** and **/topic** commands can be used in your clan
-    chat channel if the channel is
-    [registered](Chat_/_IRC_server#How_to_register_Clan_channel "wikilink")
-    to your [IRC](Chat_/_IRC_server "wikilink")
+**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](Chat_/_IRC_server#How_to_register_Clan_channel "wikilink") to your [IRC](Chat_/_IRC_server "wikilink")
 
 ## Player list
-
-In the top is the search window. It will try to find online players who
-are currently in the chat, and display how many players are online while
-you don't search.
-
--   There is an option to assign randomly colored names to each player,
-    but this will only override gray and dark gray colors
+In the top is the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
+-   There is an option to assign randomly colored names to each player, but this will only override gray and dark gray colors
 
 ### [Clans](Clans "wikilink")
-
--   Players that are a part of a clan have their clan tags in front of
-    their names. (Example \[e\] for Empire clan \[BC\] Bad Company,
-    etc.)
+-   Players that are a part of a clan have their clan tags in front of their names. (Example \[e\] for Empire clan \[BC\] Bad Company, etc.)
 
 ### User Name Change and Name History
 
