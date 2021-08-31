@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:20:54.048Z
+date: 2021-08-31T19:22:26.959Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -12,7 +12,7 @@ This tab in the lobby is how you start to play Forged Alliance with the client. 
 
 ## Game Title
 - XvX - Showing for how many player per team is game hosted. (example 1v1, 4v4)
-- XXX - XXXX (XXXX+) - [Global Rating](Global_Ranking "wikilink") Limitations (example 800-1500, 1200+)
+- XXX - XXXX (XXXX+) - [Global Rating](/Global-Ranking) Limitations (example 800-1500, 1200+)
 
 ## Play Tab
 If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
