@@ -2,7 +2,7 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-08-31T16:42:18.064Z
+date: 2021-08-31T16:43:08.643Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -32,4 +32,4 @@ Double click on hosted game in order to join it. Enter any password as normal.
 3) **Leaderboards**
 Here you can see the best times for selected mission. Watching these can give you a lot of information on how to beat a mission if you're struggling with it!
 
-![coop-missions.png](/coop-missions.png)## Explanation
+![coop-missions.png](/coop-missions.png)
