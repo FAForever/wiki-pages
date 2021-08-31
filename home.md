@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T11:11:37.580Z
+date: 2021-08-31T11:35:43.722Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -45,7 +45,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="/user-group-icons/moderator-avatar.png"/><a href="User_Groups#FAF_Moderators"> FAF Moderators</a></li>
+<li><img src="/user-group-icons/moderator-avatar.png"/><a href="User-Groups#FAF_Moderators"> FAF Moderators</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/user-group-icons/trainer-avatar.png"/><a href="User_Groups#Trainers"> Trainers</a></li>
@@ -61,7 +61,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## <img src="Beginner_Information.png" title="fig:Beginner_Information.png" width="50" alt="Beginner_Information.png" /> **Useful Information**
+## **Useful Information**
 
 <table>
 <tbody>
