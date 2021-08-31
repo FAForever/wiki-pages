@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:04:43.733Z
+date: 2021-08-31T12:05:41.671Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -74,7 +74,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
-<li><img src="/information-icons/livestreams-icon.png" title="fig:File:Livestreams_Icon.png" alt="File:Livestreams_Icon.png" /> <a href="Casts&amp;Livestreams" title="wikilink">Casts&amp;Livestreams</a></li>
+<li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Casts & Livestreams</a></li>
 <li><img src="Tournaments_Icon.png" title="fig:File:Tournaments_Icon.png" alt="File:Tournaments_Icon.png" /> <a href="Tournaments" title="wikilink">Tournaments</a></li>
 </ul></td>
 <td><ul>
