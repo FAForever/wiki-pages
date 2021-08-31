@@ -2,7 +2,7 @@
 title: Game-&-Balance-Patchnotes-2011
 description: 
 published: true
-date: 2021-08-31T13:03:27.674Z
+date: 2021-08-31T13:03:47.323Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
@@ -124,3 +124,8 @@ dateCreated: 2021-08-31T12:44:10.511Z
 - Transferred 2600 from the Harbringer’s shield to its health
 - Eye of Rhianne remote viewing radius decreased from 45 to 25.
 - T4 Experimental Aircraft Carrier: CZAR : -Increased health to 58000 from 48000 -Decreased crash damage from 15000 to 10000
+#### Seraphim
+- Seraphim T3 Engineer build rate increased to 20 from 15
+- T3 Submarine Hunter: Yathsou Decreased speed to 5 from 6
+- T2 Point Defense dps increased +10% damage
+- Seraphim cruiser direct fire Anti Air weapon and Seraphim T3 Anti Air cannon building weapon improved muzzle velocity.
