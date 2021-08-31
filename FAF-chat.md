@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:24:15.963Z
+date: 2021-08-31T17:28:47.453Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:43:19.686Z
 
 ![chat-tab2.png](/chat-tab2.png)
 ## Chat tabs
-1.  #aeolus is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chatrules](FAF_Client/Forum_Rules "wikilink"). 
+1.  #aeolus is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chat rules](https://faforever.com/rules). 
 2.  Chatrooms without a # are private, such as direct messages to other players.
 
 You can open up a private chat with a player by double clicking his name in the name list.
