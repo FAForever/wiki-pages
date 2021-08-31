@@ -2,7 +2,7 @@
 title: Game-&-Balance-Patchnotes-2011
 description: 
 published: true
-date: 2021-08-31T13:16:56.017Z
+date: 2021-08-31T13:17:26.319Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
@@ -33,14 +33,6 @@ dateCreated: 2021-08-31T12:44:10.511Z
 - Fixed Seraphim destroyer, UEF Atlantis and Aeon Exp Battleship wreckages. They now sink and wreck on the sea floor properly.
 - Fixed a transport bug/exploit.
 - fix for the UEF ACU build drones. Now the destruction of one drone does not adversely affect the other. Further, drones are     automatically re-built upon death at their original cost (160 mass, 1600 energy). Drone re-building takes 10 seconds and does not interfere with other ACU processes, such as moving, shooting or constructing.
-
-
-
-
-
-
-
-
 
 ## 3608
 ### New Features
