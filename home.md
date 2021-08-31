@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:13:26.438Z
+date: 2021-08-31T12:20:36.051Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -98,20 +98,20 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="Editor_splash2.png" title="fig:Editor_splash2.png" width="40" alt="Editor_splash2.png" /> <a href="Map_Editor" title="wikilink">GPG Map Editor</a></li>
-<li><img src="FAF_Editor_iconsmall.png" title="fig:FAF_Editor_iconsmall.png" width="40" alt="FAF_Editor_iconsmall.png" /> <a href="FA_Forever_Map_Editor" title="wikilink">FA Forever Map Editor</a></li>
+<li><img src="/map-and-mod-icons/gpg-map-editor.png" width="40"/><a href="Map-Editor"> GPG Map Editor</a></li>
+<li><img src="/map-and-mod-icons/faf-map-editor.png" width="40"/><a href="FA-Forever-Map-Editor"> FA Forever Map Editor</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Mission_Scripting" title="wikilink">Mission Scripting</a></li>
-<li><a href="Adaptive_Maps" title="wikilink">Adaptive Maps</a></li>
+<li><a href="Mission-Scripting"> Mission Scripting</a></li>
+<li><a href="Adaptive-Maps"> Adaptive Maps</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Mod_Autor.png" title="fig:File:Mod Autor.png" alt="File:Mod Autor.png" /> <a href="Modding" title="wikilink">Modding</a></li>
-<li><a href="AI_Modding" title="wikilink">AI Modding</a></li>
+<li><a href="Modding"> Modding</a></li>
+<li><a href="AI-Modding"> AI Modding</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Bug_reporting_and_testing" title="wikilink">Bug reporting and testing</a></li>
-<li><a href="FAF_Development" title="wikilink">FAF Development</a></li>
+<li><a href="Bug-reporting-and-testing"> Bug reporting and testing</a></li>
+<li><a href="FAF-Development"> FAF Development</a></li>
 </ul></td>
 <td></td>
 </tr>
