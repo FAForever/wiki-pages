@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:13:02.441Z
+date: 2021-08-31T12:13:26.438Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -92,7 +92,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## <img src="Beginner_Information.png" title="fig:Beginner_Information.png" width="50" alt="Beginner_Information.png" /> **Map & Mod Making**
+## **Map & Mod Making**
 
 <table>
 <tbody>
