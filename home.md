@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T15:55:53.865Z
+date: 2021-08-31T16:00:15.509Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -251,13 +251,3 @@ dateCreated: 2021-08-31T09:44:13.010Z
     [3714](3714 "wikilink"), [3715](3715 "wikilink"),
     [3716](3716 "wikilink"), [3717](3717 "wikilink"),
     [3718](http://patchnotes.faforever.com/3718.html)
-
-## Client Releases
-
--   2020: [1.2.2](1.2.2 "wikilink"), [1.2.3](1.2.3 "wikilink")
-
-## Misc.
-
--   [FAF on facebook](http://www.facebook.com/ForgedAllianceForever)
--   [History Of Supreme
-    Commander](History_Of_Supreme_Commander "wikilink")
