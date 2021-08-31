@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:25:30.311Z
+date: 2021-08-31T19:25:40.884Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -36,7 +36,7 @@ This is how most games are played - simply double click on a game which you like
 This is the built-in Auto-Matchmaker system for 1v1. More information see the [1v1 Ladder](/The-Ladder) page.
 
 ### 3. Co-Op Campaign & Custom Missions
-To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [CoopMissions](Coop_Missions "wikilink") page.
+To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [CoopMissions](/Coop-Missions) page.
 
 ### Playing With AI
 If you wish to play vs ai , simply host your own game, and add AI players instead of real ones. It's that simple! FAF comes with sorian AI, so you dont need to install it, and you can have any combination of human and AI players, as you wish.
