@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T10:23:43.402Z
+date: 2021-08-31T10:24:50.310Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -27,7 +27,7 @@ __NOTOC__ ![](Supcom_FA_Logo.jpg "fig:Supcom_FA_Logo.jpg")
 <li><img src="Maps_Icon.png" title="fig:File:Maps Icon.png" alt="File:Maps Icon.png" /> <a href="Map_&amp;_Mod_Vault" title="wikilink">Map &amp; Mod Vault</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Chat_Icon.png" title="fig:File:Chat_Icon.png" alt="File:Chat_Icon.png" /> <a href="FAF_chat" title="wikilink">FAF chat</a></li>
+<li><img src="Chat_Icon.png" title="fig:File:Chat_Icon.png" alt="File:Chat_Icon.png" /> <a href="FAF-chat" title="wikilink">FAF chat</a></li>
 <li><img src="Leaderboards_Icon.png" title="fig:File:Leaderboards Icon.png" alt="File:Leaderboards Icon.png" /> <a href="Leaderboards_and_Rating" title="wikilink">Leaderboards and Rating</a></li>
 <li><img src="XP_League_Champion.png" title="fig:XP_League_Champion.png" width="35" alt="XP_League_Champion.png" /> <a href="The_Ladder" title="wikilink">1v1 Ladder</a></li>
 </ul></td>
