@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-08-31T14:54:09.837Z
+date: 2021-08-31T14:56:05.523Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
@@ -22,10 +22,33 @@ dateCreated: 2021-08-31T14:46:17.963Z
 
 
 ## 3624
+This is a quick fix, solving two small “imbalances” and some bugs, all thanks to Pip.
 
+### Balance change :
+- Mantis: turret turn = 100 (from 120), +10 compared to 3621 and before.
+- Titan Health and shield HP switch was forgotten.
+- Adding a blast radius effect (not dealing any damage) after a SCU teleport.
+- Adding a 10 seconds stun after a SCU teleport.
+### Bug fixes :
+#### Colors :
+- Fixed order of colors so that blue and red are first (for automatch).
+- Changed red to “Cybran red”.
+- Removed light green that is too similar to white.
+- Changed light grey into a darker grey.
+- Checked that all the first 8 colors are not to difficult to distinguish for common color blind people.
+### In-Game fixes :
+- Fixed SAM homing missile not reaching their target with the new Area of Effect.
+- Fixed Aeon ships with Oblivion weapon (Destroyer, Battleship, Tempest) missing when turning.
+- Fixed the Rhino and Cerberus projectiles not able to hit moving targets.
+- Cerberus and Rhino lasers are now visible even if you don’t see the “source”.
+- Fixed the UEF Janus dropping its bombs often in a small zone in front of the target, dealing no damage or almost
 
 ## 3623
-
+This patch is a quickfix release for 3622
+- A tree blueprint was missing a line.
+- Fixed : Score not displaying at the end of the game.
+- Fixed : Sera ACU and SCU nano were overriding regen.
+- Aeon Chrono Damperer radius was not 35.
 
 ## 3622
 This is a huge patch, addressing all kind of bugs and balance problems.
