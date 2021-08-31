@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2014
 description: 
 published: true
-date: 2021-08-31T15:23:30.189Z
+date: 2021-08-31T15:26:22.049Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:23:30.189Z
@@ -15,7 +15,60 @@ dateCreated: 2021-08-31T15:23:30.189Z
 3633
 3632
 3631
-3630
+
+
+
+
+## 3630
+### Exploits & bug fixes
+- Removed dbg_ShowAiPathSpline console command from the game. That command was allowing to see units movements under the fog of war, without triggering the “XX has tried to cheat” warning/error.
+- Fixed an exploit were carriers where able to transport any other carrier unit (ie. fatboy, air transports,..) by ground assisting with the carrier and reclaiming the other unit.
+- Fixed a bug introduced by the “Duplicating building with wreckages” exploit fix, where building lower/higher tech building over wreckages were canceled.
+- Fixed a bug/exploit where splash damage were transferred twice when a shield collapse (noticeable with the Seraphim T4 bomber, but also affecting all area of effect damage).
+- Fixed a bug where bombers stop dropping bombs after ground attack on trees.
+- Cybran T3 gunships now make a sound when destroyed.
+- UEF depth charges now make a sound when launched.
+### Performances
+- Improved path finding late-game. Previously, some units weren’t answering to move order.
+- Fixed a lot of AI related script errors (should slightly improve performances with AIs).
+### AI
+- Implemented Duncan fixes for AI. Most of them were already there, but the standard AI should behave slightly better (Sorian AI is still way better).
+### UI
+- Hotbuild & GazUI mods are now implemented in FA :
+- Press F1 to rebind keys. A lot of new selection options are now available (Select idling scouts, select all land factories on screen, select all air without transports,….).
+- New options are now available in the option menu. They are described in the tool-tip. (Big strategic icons, “draggable” build queues, rotating templates, better economic panel, ..)
+- SCU manager is implemented. You have a little icon in the avatar panel (below score) to do upgrades sequentially on SCUs. Two paths are available and configurable : Combat & Engineer. You can also bind the “SCU marker” (F1) shortcut to automatically upgrade SCUs near that marker.
+- Hotbuild is a new build mode allowing you to press several time a key to go through all kind of buildings. Works also to build units in factories through the same shortcut. Check the Hotbuilding section of the keymapper (F1)
+### Balance tweaks
+- Aurora fire randomness while moving reduced to 0.1 from 0.6. It’s likely that the value will be tweaked in the future.
+- Engineer will reclaim mass extractors wreck instead of getting the “half-built” bonus when building a lower tech mass extractor than the wreckage. Using the half-rebuilt bonus is always a mistake economically-wise and shouldn’t be allowed.
+### Important note for current users of GazUI/Hotbuild.
+It’s very likely that a mod version of GAZUI will mess with your game.
+
+Using your current hotbuild mod shouldn’t do anything bad, except that the mod is messing with key-binding. So use it at your own risk.
+
+#### GazUI
+All your options should be keep the same way as before. You will get new options for selecting units, as well as fixes for big Strategic icons option and SCU manager fixes.
+
+#### Hotbuild
+The existing mod was more an hack than a mod.
+
+But the new way of key binding hotbuild will allow you to rebind it more easily and really fast. The order of the options in they key bind menu (F1) is the same as the original mod.
+
+Meaning that to have the default key bind of the original mod for US keyboard, you should bind, in order:
+
+W,E,R,T,Y,U
+S,D,F,G,H,J,K,L
+Z,X,C,V,B,N,M
+
+As you can see, it is the key in the order of your keyboard 🙂
+
+The integrated mod will take care of binding the corresponding shift/alt combos.
+If there is a shortcut on one of these combo (ie. shift-W is already used), the combo won’t be made, and a warning will show in the log (game.log) :
+
+WARNING: Shift-W is already bind
+
+You can be okay with that or unbind the key. It will retry to make the hotbuild combo immediately (you don’t need to restart FA or your game).
 
 
 ## 3629
