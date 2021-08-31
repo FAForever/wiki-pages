@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:04:42.050Z
+date: 2021-08-31T19:08:26.888Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -11,45 +11,28 @@ dateCreated: 2021-08-31T09:43:43.776Z
 This tab in the lobby is how you start to play Forged Alliance with the client. As long as you have Supreme Commander Forged Alliance installed, no further setup is needed. Consult [this](/Setting-Up-FAF) for more info on setup. Remember, you need to start the game through this client for all the improvements to work.
 
 ## Game Title
-
--   XvX - Showing for how many player per team is game hosted. (example
-    1v1, 4v4)
--   XXX - XXXX (XXXX+) - [Global Rating](Global_Ranking "wikilink")
-    Limitations (example 800-1500, 1200+)
+- XvX - Showing for how many player per team is game hosted. (example 1v1, 4v4)
+- XXX - XXXX (XXXX+) - [Global Rating](Global_Ranking "wikilink") Limitations (example 800-1500, 1200+)
 
 ## Play Tab
+If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
 
-If you have any trouble joining or connecting to someone visit
-[Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
+Coop Campaign missions can be hosted at the [CoopMissions](Coop_Missions "wikilink") Tab & Ladder Games Can be Joined via the [1v1 Ladder](The_Ladder "wikilink") Tab.
 
-Coop Campaign missions can be hosted at the [Coop
-Missions](Coop_Missions "wikilink") Tab & Ladder Games Can be Joined via
-the [1v1 Ladder](The_Ladder "wikilink") Tab.
-
-<figure>
-<img src="Myxir_fafwiki_game1.PNG" title="Myxir_fafwiki_game1.PNG" width="1200" alt="Myxir_fafwiki_game1.PNG" /><figcaption aria-hidden="true">Myxir_fafwiki_game1.PNG</figcaption>
-</figure>
+![faf-game.png](/faf-game.png)
 
 ## Game Types
-
--   1\. Custom Games
--   2\. Ladder 1v1
--   3\. Co-op
+- 1) Custom Games
+- 2) Team Matchmaker
+- 3) Co-op
 
 ### 1. Custom Games
 
-This is how most games are played - simply double click on a game which
-you like the look of and you will join it! However, bear in mind the
-game titles - some have [rating](Global_Ranking "wikilink")
-requirements, and you may have trouble vs players who are much higher
-rated than you.
-
--   **FAF (Beta)** - This is a default mod with the newest patch
-    available.
--   **FAF** - Default mod with older, stable patch.
+This is how most games are played - simply double click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](Global_Ranking "wikilink") requirements, and you may have trouble vs players who are much higher rated than you.
+- **FAF (Beta)** - This is a default mod with the newest patch available.
+- **FAF** - Default mod with older, stable patch.
 
 ### 2. Ladder 1v1
-
 This is the built-in Auto-Matchmaker system for 1v1. More information
 see the [1v1 Ladder](The_Ladder "wikilink") page.
 
