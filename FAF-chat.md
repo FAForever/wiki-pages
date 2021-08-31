@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:12:57.918Z
+date: 2021-08-31T17:13:33.912Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -39,16 +39,11 @@ In the top is the search window. It will try to find online players who are curr
 -   Players that are a part of a clan have their clan tags in front of their names. (Example \[e\] for Empire clan \[BC\] Bad Company, etc.)
 
 ### User Name Change and Name History
+If you would like to change your username, you can do it here: <https://www.faforever.com/account/username/change> or by typing "!link namechange" and QAI will link the page above.
 
-If you would like to change your username, you can do it here:
-<https://www.faforever.com/account/username/change> or by typing "!link
-namechange" and QAI will link the page above.
+This will not affect your friends list or your account in any way, as the nickname is linked to your unique user ID.
 
-This will not affect your friends list or your account in any way, as
-the nickname is linked to your unique user ID.
-
--   If someone from your friends list renames, you won't see him/her
-    there until you restart FAF.
+-   If someone from your friends list renames, you won't see him/her there until you restart FAF.
 
 User names are visible to everyone, and therefore must be kept clean and
 age-appropriate. You can only rename once every 30 days - if a moderator
