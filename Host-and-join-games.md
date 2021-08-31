@@ -2,17 +2,13 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:02:33.911Z
+date: 2021-08-31T19:04:42.050Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
 ---
 
-This tab in the lobby is how you start to play Forged Alliance with the
-client. As long as you have Supreme Commander Forged Alliance installed,
-no further setup is needed. Consult [this](Setting_Up_FAF "wikilink")
-for more info on setup. Remember, you need to start the game through
-this client for all the improvements to work.
+This tab in the lobby is how you start to play Forged Alliance with the client. As long as you have Supreme Commander Forged Alliance installed, no further setup is needed. Consult [this](/Setting-Up-FAF) for more info on setup. Remember, you need to start the game through this client for all the improvements to work.
 
 ## Game Title
 
