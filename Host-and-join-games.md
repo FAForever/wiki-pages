@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:09:48.767Z
+date: 2021-08-31T19:12:01.527Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -42,7 +42,7 @@ To learn more about the Co-Op Campaign and the all the Community made Custom Mis
 If you wish to play vs ai , simply host your own game, and add AI players instead of real ones. It's that simple! FAF comes with sorian AI, so you dont need to install it, and you can have any combination of human and AI players, as you wish.
 
 ## Hosting Games
-![](HostGameDialogue.png "fig:HostGameDialogue.png") You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
+You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
 - The title bar sets the game title which can be seen in the games tab.
 - The preview shows how it will look.
 - The map drop-down is used to select a map. You can also change this in-game if you wish. Arrow keys can be used to scroll through it if it's focused (opened and closed again, or use tab).
@@ -52,8 +52,4 @@ If you wish to play vs ai , simply host your own game, and add AI players instea
 		- It will also be hidden from the Find Games list if that particular user has the **Hide Private Games** checkbox ticked.
 
 ## Video tutorial
-SVideo tutorial created by Heaven on hosting and playing on FAF, called
-[Default and Ranked Settings](https://youtu.be/BpSH12DdoFM), where he
-explains how to host a lobby on default settings, and how to tell
-whether someone else hosted a game on default settings. He also
-discusses which non default settings still are keeping the game ranked.
+Video tutorial created by Heaven on hosting and playing on FAF, called [Default and Ranked Settings](https://youtu.be/BpSH12DdoFM), where he explains how to host a lobby on default settings, and how to tell whether someone else hosted a game on default settings. He also discusses which non default settings still are keeping the game ranked.
