@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:18:39.083Z
+date: 2021-08-31T17:24:03.473Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -54,24 +54,22 @@ The rating shown in the lobby is always your [GlobalRanking](Global_Ranking "wik
 ## Avatars
 You can view all existing avatars on [thispage.](https://jeremy.faforever.com/avatars)
 Right now, there are only few ways to get avatars. Here a list:
--   Be a famous [caster](http://forums.faforever.com/forums/viewtopic.php?f=2&t=8199) ![<File:Shoutcaster>Avatar.png](Shoutcaster_Avatar.png "fig:File:Shoutcaster Avatar.png") or streamer ![<File:Streamer_Avatar.png>](Streamer_Avatar.png "fig:File:Streamer_Avatar.png")
--   Participate in a tournament ![<File:Tournament>Participant.png](Tournament_Participant.png "fig:File:Tournament Participant.png"), the easiest way to get an avatar.
--   Test the game code (playing FAF develop mod and reporting bugs)![<File:GameCodeTester.png>](GameCodeTester.png "fig:File:GameCodeTester.png")
--   Be first, second or third in your [league](The_Ladder#Leagues_and_Divisions "wikilink").
--   Be the first, second or third in your [division](The_Ladder#Leagues_and_Divisions "wikilink"), league and division avatars are only temporary and don't exist now.
--   Personal avatar, usually reserved for [admins and mods](User_Groups#FAF_Moderators "wikilink")
--   For donating to the FAF server, you get The Cookie ![<File:Cookie>Avatar.png](Cookie_Avatar.png "fig:File:Cookie Avatar.png")
--   For donating to the [Galactic War](Galactic_War "wikilink") project, you were able to get an avatar in the past but this is no longer the case
--   For winning a [tournament](Tournaments "wikilink"), [avatars](Tournaments#All_Avatars_For_Tournament_Winners "wikilink") are given. Usually temporary ones for [BlitzTournament](Tournaments#Blitz "wikilink"), [WWPCTournaments](World_Wide_People's_Championship "wikilink"), sometimes permanent ones for big tournaments ([The IMBA Cup](The_IMBA_Cup "wikilink") gave the ![<File:IMBA> Cup Champion.png](IMBA_Cup_Champion.png "fig:File:IMBA Cup Champion.png")'IMBA Cup Champion', [Rise of the Immortals Trophy](Rise_of_the_Immortals_Trophy "wikilink") gave the ![<File:ACU> Sniper.png](ACU_Sniper.png "fig:File:ACU Sniper.png")'ACU Sniper')
--   [Factionface](Tournaments#All_Avatars_For_Tournament_Winners "wikilink")![<File:Dostya.png>](Dostya.png "fig:File:Dostya.png") avatars are usually for second place in a tournament, faction logo ![<File:UEF>Avatar.png](UEF_Avatar.png "fig:File:UEF Avatar.png") for third.
--   You also can get an avatar for contributing to the FAF project:
-    -   Making a featured mod ![<File:Mod>Autor.png](Mod_Autor.png "fig:File:Mod Autor.png")
-    -   Making a [map](Map_Editor "wikilink")![<File:Mapautor.png>](Mapautor.png "fig:File:Mapautor.png")
-    -   Contributing to the FAF code ![<File:FAF>Developer.png](FAF_Developer.png "fig:File:FAF Developer.png")
-    -   Writing Wiki articles ![<File:De> Wiki Tabl'(e)dit'r.png](De_Wiki_Tabl'_(e)dit'r.png "fig:File:De Wiki Tabl' (e)dit'r.png")
-    -   Making a [theme](Lobby_Customization "wikilink") for the [FAFLobby](Main_Page#FAF_Client "wikilink")
-    -   Hosting [tournaments](Tournaments "wikilink")![<File:Tournament>Director.png](Tournament_Director.png "fig:File:Tournament Director.png")
-
+- Be a famous caster or streamer 
+- Participate in a tournament, the easiest way to get an avatar.
+- Test the game code (playing FAF develop mod and reporting bugs).
+- Be first, second or third in your league.
+- Be the first, second or third in your division, league and division avatars are only temporary and don't exist now.
+- Personal avatar, usually reserved for admins and mods
+- For donating to the FAF server, you get The Cookie
+- For donating to the Galactic War project, you were able to get an avatar in the past but this is no longer the case
+- For winning a tournament, avatars are given. Usually temporary ones for BlitzTournament, WWPCTournaments, sometimes permanent ones for big tournaments like Legends of the Stars.
+- Factionface avatars are usually for second place in a tournament, faction logo for third.
+- You also can get an avatar for contributing to the FAF project:
+	- Making a featured mod 
+	- Making a map
+	- Contributing to the FAF code 
+	- Writing Wiki articles 
+	- Hosting tournaments
 ## Player Status
 As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
 - Nothing: this player is just chatting or afk.
