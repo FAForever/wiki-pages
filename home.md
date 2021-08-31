@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T10:54:17.894Z
+date: 2021-08-31T11:11:37.580Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -39,22 +39,22 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## <img src="User_Icon.png" title="fig:User_Icon.png" width="45" alt="User_Icon.png" /> **User Groups**
+## **User Groups**
 
 <table>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="Moderator_Avatar.png" title="fig:File:Moderator Avatar.png" alt="File:Moderator Avatar.png" /> <a href="User_Groups#FAF_Moderators" title="wikilink">FAF Moderators</a></li>
+<li><img src="/user-group-icons/moderator-avatar.png"/><a href="User_Groups#FAF_Moderators"> FAF Moderators</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Personal_Trainer_Avatar.png" title="fig:File:Personal_Trainer_Avatar.png" alt="File:Personal_Trainer_Avatar.png" /> <a href="User_Groups#Trainers" title="wikilink">Trainers</a></li>
+<li><img src="/user-group-icons/trainer-avatar.png"/><a href="User_Groups#Trainers"> Trainers</a></li>
 </ul></td>
 <td><ul>
-<li><img src="CoS_Administration_New.png" title="fig:File:CoS Administration New.png" alt="File:CoS Administration New.png" /> <a href="User_Groups#Council_of_Setons" title="wikilink">Council of Setons</a></li>
+<li><img src="/user-group-icons/cos-administration.png"/><a href="User_Groups#Council_of_Setons"> Council of Setons</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Tournament_Director.png" title="fig:File:Tournament Director.png" alt="File:Tournament Director.png" /> <a href="User_Groups#Tournament_Directors" title="wikilink">Tournament Directors</a></li>
+<li><img src="/user-group-icons/tournament-director.png"/><a href="User_Groups#Tournament_Directors"> Tournament Directors</a></li>
 </ul></td>
 <td></td>
 </tr>
