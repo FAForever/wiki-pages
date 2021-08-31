@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:45:57.081Z
+date: 2021-08-31T17:46:29.756Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -35,7 +35,7 @@ Write chat commands directly in chat, starting with "!" "#" or "/"
 In the top is the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
 -   There is an option to assign randomly colored names to each player, but this will only override gray and dark gray colors
 
-### [Clans](Clans "wikilink")
+### [Clans](/Clans)
 -   Players that are a part of a clan have their clan tags in front of their names. (Example \[e\] for Empire clan \[BC\] Bad Company, etc.)
 
 ### User Name Change and Name History
