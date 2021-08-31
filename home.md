@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:05:41.671Z
+date: 2021-08-31T12:06:31.163Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -75,7 +75,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
 <li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Casts & Livestreams</a></li>
-<li><img src="Tournaments_Icon.png" title="fig:File:Tournaments_Icon.png" alt="File:Tournaments_Icon.png" /> <a href="Tournaments" title="wikilink">Tournaments</a></li>
+<li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink">Tournaments</a></li>
 </ul></td>
 <td><ul>
 <li><img src="Gazui.PNG" title="fig:Gazui.PNG" width="20" alt="Gazui.PNG" /> <a href="Game_Modifications_(Mods)" title="wikilink">Game Modifications (Mods)</a></li>
