@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T15:09:52.429Z
+date: 2021-08-31T15:10:36.365Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -198,7 +198,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="/patches/Game-&-Balance-Patchnotes-2013"> 2013</a></li>
-<li><a href="Patches-2014"> 2014</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2014"> 2014</a></li>
 </ul></td>
 <td><ul>
 <li><a href="Patches-2015"> 2015</a></li>
