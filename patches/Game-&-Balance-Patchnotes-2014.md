@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2014
 description: 
 published: true
-date: 2021-08-31T15:27:19.992Z
+date: 2021-08-31T15:33:52.019Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:23:30.189Z
@@ -11,8 +11,150 @@ dateCreated: 2021-08-31T15:23:30.189Z
 # Complete changelog of all changes in 2014
 
 ## 3636
+It’s been a long time in the making, but patch 3636 is here at last. It’s a patch motivated by exploits and bugs that were in 3634, and as such there are no direct balance changes included. These will be developed as part of the next patch, 3637.
+
+This patch also includes a new 2.5 lobby by Xinnony with major improvements.  Please note we do know of one bug with the new lobby related to CPU scores.   It’s being worked as you read this.
+
+Everyone in all the teams working behind the scenes for FAF hopes you have a great time. Enjoy!
+
+### Exploit Fixes
+- Fixed infinite economy exploit
+- Fixed free ACU upgrade exploit
+- Security exploits with simcallbacks
+- Fixed UEF Drone upgrade exploits
+### Bug Fixes
+- Continental Fixes:
+	Fixed units firing from transport
+	Fixed Continental not dying to Nukes with the shield up
+	Improved fix for units being transported taking no damage while the shield is up
+	Fixed UEF T3 Mobile AA being able to fire from Continental, and reduced projectile number
+	T3 Seraphim Mobile Artillery given proper ‘ARTILLERY’ designation
+	Fix adjacency buffs working when unit is turned off
+	Fixed Cybran ACU with Laser upgrade being unable to ever fire the weapon after being transported, and improve targeting further
+- Cybran ACU Fixes:
+	>Fixed Cybran ACU with Torpedo upgrade firing at the floor after being transported
+	Fixed Cybran ACU Torpedo upgrade firing while the ACU’s feet are only just underwater
+	Fixed Cybran ACU being unable to be shot by Torpedoes with only its feet in the water
+- Other Fixes:
+	>Fixed Seraphim ACU dying when dropped from Transport after being picked up while firing
+	Fixed Seraphim ACU shot being visible through FoW
+	Fixed invalid preview range of SMDs
+	Fixed Aeon T1 Bomber targeting subsurface units
+	Given units now get correct experience points
+	Given units are returned to their original owner in share until death
+	UI-mods are now refreshed before launch
+### Game Improvements
+- Personal Shields now protect units also under bubble shields
+- Personal Shields now protect units properly from splash weaponry
+- Bubble Shields now interact with splash weaponry properly
+- Replay sync support
+- Hotbuild ‘upgrade’ key now takes engy-mod into account
+- Attempt to fix bomblet spread on bombers such as UEF and Cybran T1 Bombers
+- Attempt to fix Seraphim T1 Mobile AA’s aim
+- Improved autobalance with random spawns in lobby
+- SMD can be paused
+- New “No Walls” Unit Restriction
+- Improved the Unit Restrictions menu descriptions, including localisation
+- Improved the Attack-Move feature (Factory Attack-Move Engineer behaviour left alone)
+- Made factory queue templates more accessible, the save button was hidden when the factory wasn’t paused
+- Show replay-ID in score
+- Less UI-lag
+- Some sim-speed improvements
+- Remove ACU score bump, ACU kills now score 5000
+### Contributors:
+- Sheeo
+- a_vehicle
+- Crotalus
+- Pip
+- IceDreamer
+- thygrrr
+- PattogoTehen
+- RK4000
+- Eximius
+- Xinonny
+
+We’d like to extend special thanks to these users for their assistance with translations
+- Navax
+- Alex1911
+- Preytor
+
+### Lobby
+- Add Changelog dialog
+- Add numbers of Restriction in OptionContainer
+- Add new view in ModManager
+- Add ‘Show system message’ option for see (connecting players, go observers, disconnected, …)
+- Add ‘Player Swapped’ message
+- Add ‘Connected with xxx (with FAF Proxy)’ message see if is connected with FAFproxy
+- Add 1250 and 1500 Units Caps
+- Fix Preset not loaded correctly (exemple FinalRushPro)
+- Fix ModManager crash sometime
+- Fix a bug in Game Options, the new value is reset if you scroll the list
+- Fix sometime a PresetLobby not loaded (caused by map not available)
+- Fix ‘CH’ and ‘VA’ flag country
+- Fix yellow country
+- Replace Checkbox to Radiobox in ModManager
+- Replace the ‘world’ flag country
+- Delete ‘Player go to Slot’ message
+- Delete ‘Player go to Observer’ message
+- Remember a options ‘Hide default Options’
+- Show message if map is not available in PresetLobby
+- SpeedUp UpdateGame(), merge 3 loops
+- Typo in ‘Lobby options’
+- The ConnectDialog lasts until the lobby is fully loaded
+- Typo ‘x mods UI’ to ‘x UI mods’ (KRAMP idea)
+- Now you can see and select only the color available
+- Transparent color the ACU in Minimap (just the grey color, not the black border)
+- Add new restrictions (NoEngineeringStation+EnhancementDrone), (NoEyeofRhianneandSoothsayer)
+- Typos in PresetLobby
+
+I’d like to extend a thank you to all FAF-contributors that didn’t directly contribute to patch 3636. We wouldn’t have come -this far without them! Also a big thank you to Ze_PilOt.
+
+- Sheeo
+
+
 ## 3634
+### Lobby 2.4 (Xinnony)
+- Fixed the “Yellow Country Flag” bug.
+- Fixed an issue with mods & load preset option.
+- Background modding support.
+- Fixed wide-screen skin not resizing correctly.
+- Mod Manager enhancements.
+- Small changes in the Faction Selector.
+- Fixed the Options panel not showing “Advanced Map Options” and “Global Options” correctly.
+- Removed AI and Team options in the Option panel.
+- “Hide default Options” was not working properly.
+- “Host Game Options” was not set correctly in the option panel.
+- Add a ‘(default)’ text in Host Options.
+- Changed the color of “Observers in Game” label if you are not the Host.
+- Added a ‘No rule (click for edit)’ only for the Host.
+### T3 Mobile AA.
+- Added the T3 AA in the megalith build panel.
+- the Seraphim T3 mobile wasn’t able to hit a Soul Ripper.
+- T3 Mobile AA balance adjustments based on feedback (more range, DPS nerf for the Seraphim one, and small other tweaks).
+### Small balance changes
+- The UEF satellite will now be destroyed when hit by a nuke.
+- Damage buff for the Mavor : 2 Dukes + t3 pgens are now not better than a Mavor.
+### Bug Fixes
+- Improvements to Cybran ACU laser (by Resin_Smoker)
+- Aeon Destroyer and Battleship visual effects improvements (by Resin_Smoker).
+- Fix for Megalith not attacking a naval target because it stays in range of the primary weapon.
+- More fixes to shields.
+Contributors (on top of those already cited in the changelog) : Sheeo, Pip and Icedreamer. And all the players who gave feedback & seek bugs!
+
 ## 3633
+This patch should be considered a “Beta patch”. We will iterate it during a month until we are happy with the changes introduced.
+- Introducing T3 Mobile Anti-Air. If you don’t like them, there is a restriction category inside the lobby to remove them.
+- Aeon T3 Support Air factory costs and storage corrected
+- Cybran T3 Support Naval factory buildtime corrected
+- UEF T3 Transport shield fix to avoid units to receive damages.
+- Aeon Battleship charge reduced to 0.1 (from 0.5).
+- T3 SAMs don’t hurt friendly units anymore.
+- Fix for spillover damage for shields.
+- Fixing some unit descriptions.
+If you have comments or fixes to propose, you can propose them in the forum.
+
+Fixes must be submitted with code, as a pull request in the repository or they won’t be considered (check “external contributors” forum).
+
 ## 3632
 This is a quick fix release.
 - Fixed Broadsword Damage Per Second (was nerfed by mistake to 33% of the actual value).
