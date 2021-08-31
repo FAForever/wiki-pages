@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:20:36.051Z
+date: 2021-08-31T12:21:44.648Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -163,7 +163,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 
 ## **Tournaments**
 
-### ![<File:Tournaments_Icon.png>](Tournaments_Icon.png "fig:File:Tournaments_Icon.png")[Tournaments](Tournaments "wikilink")
 
 <table>
 <tbody>
