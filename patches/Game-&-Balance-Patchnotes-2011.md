@@ -2,7 +2,7 @@
 title: Game-&-Balance-Patchnotes-2011
 description: 
 published: true
-date: 2021-08-31T13:02:11.741Z
+date: 2021-08-31T13:03:27.674Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
@@ -117,3 +117,10 @@ dateCreated: 2021-08-31T12:44:10.511Z
 - Increased Cybran Deceiver (t2 mobile stealth generator) speed, acceleration and brake to match the values of other factions t2 mobile shields 
 - T2 Point Defense dps increased damage to 13
 - Firebeetle changed to deal 4500 damage, health lowered to 300, Firing tolerance increased to 100.
+#### Aeon
+- Aeon T3 Engineer build rate increased to 20 from 15
+- Mercy fuel increased from 70 to 110
+- Restorer max airspeed reduced to 8 from 10, health reduced to 6500 from 7200 and anti ground damage per shot reduced to 24 from 32. AA weapon damage increased to 71 \* 2 from 65 \* 2. • Restorers cost 50% + 400 more energy than a Air Superiority fighter now.
+- Transferred 2600 from the Harbringer’s shield to its health
+- Eye of Rhianne remote viewing radius decreased from 45 to 25.
+- T4 Experimental Aircraft Carrier: CZAR : -Increased health to 58000 from 48000 -Decreased crash damage from 15000 to 10000
