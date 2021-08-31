@@ -1,3 +1,13 @@
+---
+title: World-Wide-Peoples-Championship
+description: 
+published: true
+date: 2021-08-31T10:21:04.989Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:46:04.932Z
+---
+
 **The infinite tournament with avatar & money rewards**
 
 TA4Life hosted WWPC back in the days and it slowly died. LEXTOC and
@@ -41,8 +51,6 @@ Other infinite tournaments:
 -   First week: knockouts get played.
 -   Second week: champions BO5's get played.
 
-<!-- -->
-
 -   -   Sometimes it happens people with different timezones can't match
         up before the given deadline. When this happens contact the TD.
 
@@ -68,8 +76,6 @@ Other infinite tournaments:
 5.  This map gets chosen by the current champion
 
 -   (if draw, challanger choose next map)
-
-<!-- -->
 
 -   You may not play a map in the BO5 for the champions title more than
     once.
