@@ -2,7 +2,7 @@
 title: Game-&-Balance-Patchnotes-2011
 description: 
 published: true
-date: 2021-08-31T13:08:22.175Z
+date: 2021-08-31T13:16:56.017Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
@@ -10,8 +10,45 @@ dateCreated: 2021-08-31T12:44:10.511Z
 
 # Complete Changelog of all chnages in 2011
 
+## 3609
+### FAF-related changes and fixes
+- Title screen and replay files are displaying the correct patch version.
+- Fixed scores reported incorrectly when Autoteam = none and random = on.
+- Removing the reset of unit cap on each hosted game to 500.
+- changed the ranked unit cap to 1000.
+### New Features
+- Added Sorian AI. Sorian AI is now available to use in FAF. (YOU MUST UNINSTALL SORIAN AI MOD AND LEM IF YOU HAVE THEM.)
+- added new and improved random faction generating function that doesn't give seraphim 75% of the time
+- Added engineer wrecks on the water
+- Added Autoget as mandatory and enabled for all players. (Units are automatically given, if share is enabled, 20 seconds after death.)
+- Added tech-less icons for energy storages so they are easier to find
+- All structures now leave wrecks when destroyed in the water.
+- New lobby textures from Moritz
+### Bug Fixes
+- fixed aeon hover sheild floating wreckage bug (fix in default units).
+- fixed ACU upgrades exploit
+- Fixed UEF ACU nano regen upgrade... it no longer gets overwritten by veterancy.
+- Adjusted the seraphim T2 destroyer anti-torp further. It's performance is now improved.
+- TML weapon on strategic missile subs now have the correct range ring
+- Fixed Seraphim destroyer, UEF Atlantis and Aeon Exp Battleship wreckages. They now sink and wreck on the sea floor properly.
+- Fixed a transport bug/exploit.
+- fix for the UEF ACU build drones. Now the destruction of one drone does not adversely affect the other. Further, drones are     automatically re-built upon death at their original cost (160 mass, 1600 energy). Drone re-building takes 10 seconds and does not interfere with other ACU processes, such as moving, shooting or constructing.
 
 
+
+
+
+
+
+
+
+## 3608
+### New Features
+-	New scoring system
+- All hover and amphibious combat units will now leave wreckage when destroyed on or under the water.
+- All ACUs and Engineers have a visual ring indicating their build radius when selected.
+- Seraphim T3 Sniper now has a range ring for it's "Sniper Mode" and a visual effect to indicate when it is active.
+- All T1 torpedo launchers can now shoot at targets directly beneath them.
 
 ## 3606
 
