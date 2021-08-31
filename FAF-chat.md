@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:28:47.453Z
+date: 2021-08-31T17:30:38.530Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -19,7 +19,7 @@ Write chat commands directly in chat, starting with "!" "#" or "/"
 
 1.  **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
 2.  **!seen** - followed by username. Shows when was user last time online, it is case sensitive.
-3.  **!streams** - Shows all currently online [streams](Livestreams "wikilink") of Forged Alliance. (Twitch, HitBox, etc)
+3.  **!streams** - Shows all currently online [streams](Casts&Livestrems) of Forged Alliance. (Twitch, HitBox, etc)
 4.  **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
 5.  **!trainers** - PMs you a list of currently online [trainers](User_Groups#Trainers "wikilink").
 6.  **!mods** - PMs you a list of currently online [moderators](User_Groups#FAF_Moderators "wikilink").
