@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:24:03.473Z
+date: 2021-08-31T17:24:15.963Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -52,7 +52,7 @@ User names are visible to everyone, and therefore must be kept clean and age-app
 The rating shown in the lobby is always your [GlobalRanking](Global_Ranking "wikilink"). You can learn more here: [Leagues and Divisions](The_Ladder#Leagues_and_Divisions "wikilink")
 
 ## Avatars
-You can view all existing avatars on [thispage.](https://jeremy.faforever.com/avatars)
+You can view all existing avatars on [this page.](https://jeremy.faforever.com/avatars)
 Right now, there are only few ways to get avatars. Here a list:
 - Be a famous caster or streamer 
 - Participate in a tournament, the easiest way to get an avatar.
