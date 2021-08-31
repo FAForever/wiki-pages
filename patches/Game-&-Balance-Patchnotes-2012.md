@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2012
 description: 
 published: true
-date: 2021-08-31T15:05:45.623Z
+date: 2021-08-31T15:06:17.382Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:14:48.329Z
@@ -12,6 +12,12 @@ dateCreated: 2021-08-31T14:14:48.329Z
 
 
 ## 3620
+### Bug fixes
+- Fixed some aiming problems with Aeon boats, specifically those with Oblivion Cannon (T2 Destroyer, T3 Battleship).
+- Fixed Sonar range rings not being drawn for T1 Scouts.
+- Fixed Stealth range rings not correctly displaying the actual extent of the Stealth Field.
+### Balance
+- T1 Bombers' energy cost changed to 2250 (From 1400).
 
 ## 3615
 ### Known issues
