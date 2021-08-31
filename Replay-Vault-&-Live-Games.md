@@ -2,7 +2,7 @@
 title: Replay Vault & Live Games
 description: 
 published: true
-date: 2021-08-31T21:52:42.653Z
+date: 2021-08-31T21:54:53.497Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:51.199Z
@@ -16,10 +16,7 @@ Every game you play is automatically saved online and offline. You can also watc
 ## Live Games
 ![live-games.png](/live-games.png)
 ### 1. Replays tab
-
-Go here if you want to look at live replays, browse the local vault, or
-the online vault. Currently, "Live Games" is selected.
-
+Go here if you want to look at live replays, browse the local vault, or the online vault. Currently, "Live Games" is selected.
 ### 2. Active games
 
 All active games are shown, including 'private' ones. The picture on the
