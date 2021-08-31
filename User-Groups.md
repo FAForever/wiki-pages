@@ -1,4 +1,14 @@
-## ![<File:CoS> Administration New.png](CoS_Administration_New.png "fig:File:CoS Administration New.png") Council of Setons
+---
+title: User-Groups
+description: 
+published: true
+date: 2021-08-31T22:22:05.152Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:45:45.963Z
+---
+
+## Council of Setons
 
 Forged Alliance Forever (FAF) is a community project of players and
 contributors who want to sustain and advance the game Supreme Commander:
