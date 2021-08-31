@@ -1,3 +1,13 @@
+---
+title: Main-Page
+description: 
+published: true
+date: 2021-08-31T09:45:36.555Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:44:13.010Z
+---
+
 <div style='text-align: center;font-size: 20px'>
 
 **Welcome to the Forged Alliance Forever Wiki.**
