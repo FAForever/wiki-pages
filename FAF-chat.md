@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:39:25.935Z
+date: 2021-08-31T17:39:40.422Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -29,7 +29,7 @@ Write chat commands directly in chat, starting with "!" "#" or "/"
 10. **!ban** - used by channel operators for banning user from channel
 11. **/topic** - followed by text. Changes topic of a channel.
 
-**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](Chat-/-IRC-server) to your [IRC](Chat_/_IRC_server "wikilink")
+**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/Chat-/-IRC-server) to your [IRC](Chat_/_IRC_server "wikilink")
 
 ## Player list
 In the top is the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
