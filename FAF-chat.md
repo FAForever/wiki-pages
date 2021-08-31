@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:31:55.924Z
+date: 2021-08-31T17:33:39.250Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -21,7 +21,7 @@ Write chat commands directly in chat, starting with "!" "#" or "/"
 2.  **!seen** - followed by username. Shows when was user last time online, it is case sensitive.
 3.  **!streams** - Shows all currently online [streams](/Casts&Livestreams ) of Forged Alliance. (Twitch, HitBox, etc)
 4.  **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
-5.  **!trainers** - PMs you a list of currently online [trainers](User_Groups#Trainers "wikilink").
+5.  **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
 6.  **!mods** - PMs you a list of currently online [moderators](User_Groups#FAF_Moderators "wikilink").
 7.  **!help** - Lists all available fafbot commands and their descriptions
 8.  **#REPLAYID** - Generated download link for [replay](Replay_Vault_%26_Live_Games#Game.2FReplay_ID "wikilink"), shows map played and lists all players.
