@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T12:09:53.232Z
+date: 2021-08-31T12:13:02.441Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -75,7 +75,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
 <li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Casts & Livestreams</a></li>
-<li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink">Tournaments</a></li>
+<li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink"> Tournaments</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/gazui.png" width="20"/><a href="Game-Modifications-(Mods)"> Game Modifications (Mods)</a></li>
@@ -83,9 +83,9 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Voicechat</a></li>
 </ul></td>
 <td><ul>
-<li><img src="QAI.png" title="fig:QAI.png" width="25" alt="QAI.png" /> <a href="Bots" title="wikilink">Bots</a></li>
-<li><img src="Chat_Icon.png" title="fig:File:Chat Icon.png" alt="File:Chat Icon.png" /> <a href="Chat_/_IRC_server" title="wikilink">Connect to Aeolus via IRC</a></li>
-<li><img src="1ula41330944573.png" title="fig:1ula41330944573.png" width="40" alt="1ula41330944573.png" /> <a href="Rating_System" title="wikilink">Rating System</a></li>
+<li><img src="/information-icons/qai.png" width="25"/><a href="Bots">Bots</a></li>
+<li><img src="/information-icons/chat-icon.png"/><a href="Chat-/-IRC_server"> Connect to Aeolus via IRC</a></li>
+<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Rating System</a></li>
 </ul></td>
 <td></td>
 </tr>
