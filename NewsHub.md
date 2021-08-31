@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-08-31T16:37:50.927Z
+date: 2021-08-31T16:39:08.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -12,17 +12,23 @@ The NewsHub is the new and improved One Stop shot for all FAF news, It is mostly
 
 ![newshub.png](/newshub.png)
 
-**1) Topbar** Here is where Some Important Information that needed to be displayed, This can be from Server Updates
+**1) Topbar**
+Here is where Some Important Information that needed to be displayed, This can be from Server Updates
 
-**2) Normal Article** The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
+**2) Normal Article**
+The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
 
-**3) Hero Article** The Hero article is uses when something big has happened in the community or Tournament Winners E.G. Balance & Game Patch’s, Big Tournament Announcements and Much more.
+**3) Hero Article**
+The Hero article is uses when something big has happened in the community or Tournament Winners E.G. Balance & Game Patch’s, Big Tournament Announcements and Much more.
 
-**4) Right Side Panel** The Right side Panel is a section were information is more likely to stay when the news is updated.
+**4) Right Side Panel**
+The Right side Panel is a section were information is more likely to stay when the news is updated.
 
-**5,6,7) Left, Mid and Right Sidebar** This is the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
+**5,6,7) Left, Mid and Right Sidebar**
+This is the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
 
-**Information** Here are the Specifications for all the sizes for all the section if you would need a post on the NewsHub...
+**Information**
+Here are the Specifications for all the sizes for all the section if you would need a post on the NewsHub...
 
 All Images need to be 96 DPI
 
@@ -34,10 +40,7 @@ All Images need to be 96 DPI
 6) Mid Sidebar 300x600
 7) Right Sidebar - 250x800
 
-For the left and Right sidebar the graphic should fade at the bottom to
-a solid background colour. I run this same background colour to the edge
-of the screen. They can actually have any height, but the height I
-provided is a good arbitrary height.
+For the left and Right sidebar the graphic should fade at the bottom to a solid background colour. I run this same background colour to the edge of the screen. They can actually have any height, but the height I provided is a good arbitrary height.
 
 Article Heading Font:
 <https://fonts.google.com/specimen/Electrolize?query=electr>
