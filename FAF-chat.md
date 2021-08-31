@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:51:17.114Z
+date: 2021-08-31T17:51:53.822Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -81,4 +81,4 @@ If you double click on a single sword, you will launch FA and join the player in
 If you double click on crossed swords, you will launch FA and start watching the [live replay](/LiveReplay-server-and-replays) from the beginning of their game.
 
 ## Joining Chat via Browser
-You can access it from any IRC client: [Chat / IRCServer](http://wiki.faforever.com/index.php?title=Chat_/_IRC_server)
+You can access it from any IRC client: [IRCServer](/IRC-server)
