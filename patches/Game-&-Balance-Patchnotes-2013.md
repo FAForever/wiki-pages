@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-08-31T14:56:05.523Z
+date: 2021-08-31T14:56:30.189Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
@@ -19,7 +19,10 @@ dateCreated: 2021-08-31T14:46:17.963Z
 
 
 ## 3625
-
+This a quickfix to 3624.
+- Reduced the Cerberus cybran DPS.
+- Removed the SCU teleport stun.
+- Added a teleport beacon on SCU teleport.
 
 ## 3624
 This is a quick fix, solving two small “imbalances” and some bugs, all thanks to Pip.
