@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:12:01.527Z
+date: 2021-08-31T19:16:17.698Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -43,7 +43,8 @@ If you wish to play vs ai , simply host your own game, and add AI players instea
 
 ## Hosting Games
 You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
-- The title bar sets the game title which can be seen in the games tab.
+![hosting-games.png](/hosting-games.png)
+1) - The title bar sets the game title which can be seen in the games tab.
 - The preview shows how it will look.
 - The map drop-down is used to select a map. You can also change this in-game if you wish. Arrow keys can be used to scroll through it if it's focused (opened and closed again, or use tab).
 - The mod list can be used to enable and disable *sim mods*. This can also be changed in-game if you wish.
