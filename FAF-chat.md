@@ -2,7 +2,7 @@
 title: FAF-chat
 description: 
 published: true
-date: 2021-08-31T17:47:25.423Z
+date: 2021-08-31T17:47:41.359Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -49,7 +49,7 @@ User names are visible to everyone, and therefore must be kept clean and age-app
 -   You can find out a user's name history with the following link: <http://app.faforever.com/faf/userName.php?name=ENTERNAMEHERE>
 
 ## Rating, League, and Division
-The rating shown in the lobby is always your [Global Ranking](Global-Ranking). You can learn more here: [Leagues and Divisions](The_Ladder#Leagues_and_Divisions "wikilink")
+The rating shown in the lobby is always your [Global Ranking](/Global-Ranking). You can learn more here: [Leagues and Divisions](The_Ladder#Leagues_and_Divisions "wikilink")
 
 ## Avatars
 You can view all existing avatars on [this page.](https://jeremy.faforever.com/avatars)
