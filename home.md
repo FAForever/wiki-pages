@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T10:30:34.450Z
+date: 2021-08-31T10:49:42.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -14,27 +14,25 @@ dateCreated: 2021-08-31T09:44:13.010Z
 ![site_banner.png](/site_banner.png)
 </div>
 
-![](Supcom_FA_Logo.jpg "fig:Supcom_FA_Logo.jpg")
-
-## <img src="FAF_Logo2.png" title="fig:FAF_Logo2.png" width="50" alt="FAF_Logo2.png" /> **FAF Client**
+## **FAF Client**
 
 <table>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="Whats_New_Icon.png" title="fig:File:Whats New Icon.png" alt="File:Whats New Icon.png" /> <a href="NewsHub" title="wikilink">NewsHub</a></li>
-<li><img src="Coop_Icon.png" title="fig:Coop_Icon.png" width="25" alt="Coop_Icon.png" /> <a href="Coop_Missions" title="wikilink">Coop Missions</a></li>
-<li><img src="Maps_Icon.png" title="fig:File:Maps Icon.png" alt="File:Maps Icon.png" /> <a href="Map_&amp;_Mod_Vault" title="wikilink">Map &amp; Mod Vault</a></li>
+<li><img src="/faf-client-icons/newshub-icon.png"/><a href="NewsHub"> NewsHub</a></li>
+<li><img src="/faf-client-icons/coop-icon.png"/><a href="Coop_Missions"> Coop Missions</a></li>
+<li><img src="/faf-client-icons/maps-icon.png"/><a href="Map_&amp;_Mod_Vault"> Map &amp; Mod Vault</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Chat_Icon.png" title="fig:File:Chat_Icon.png" alt="File:Chat_Icon.png" /> <a href="FAF-chat" title="wikilink">FAF chat</a></li>
-<li><img src="Leaderboards_Icon.png" title="fig:File:Leaderboards Icon.png" alt="File:Leaderboards Icon.png" /> <a href="Leaderboards_and_Rating" title="wikilink">Leaderboards and Rating</a></li>
-<li><img src="XP_League_Champion.png" title="fig:XP_League_Champion.png" width="35" alt="XP_League_Champion.png" /> <a href="The_Ladder" title="wikilink">1v1 Ladder</a></li>
+<li><img src="/faf-client-icons/fafchat-icon.png"/><a href="FAF-chat"> FAF chat</a></li>
+<li><img src="/faf-client-icons/leaderboards-icon.png"/><a href="Leaderboards_and_Rating"> Leaderboards and Rating</a></li>
+<li><img src="/faf-client-icons/tmm-icon.png"/><a href="The_Ladder"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
-<li><img src="Find_Games_Icon.png" title="fig:File:Find Games Icon.png" alt="File:Find Games Icon.png" /> <a href="Host_and_join_games" title="wikilink">Host and join games</a></li>
-<li><img src="UEF_ACU_MONO.jpg" title="fig:UEF_ACU_MONO.jpg" width="25" alt="UEF_ACU_MONO.jpg" /> <a href="Unit_Database" title="wikilink">Unit Database</a></li>
-<li><img src="Replays_Icon.png" title="fig:File:Replays Icon.png" alt="File:Replays Icon.png" /> <a href="Replay_Vault_&amp;_Live_Games" title="wikilink">Replay Vault &amp; Live Games</a></li>
+<li><img src="/faf-client-icons/find-games-icon.png"/><a href="Host_and_join_games"> Host and join games</a></li>
+<li><img src="/faf-client-icons/uef-acu-mono.jpg" width="25"/><a href="Unit_Database"> Unit Database</a></li>
+<li><img src="/faf-client-icons/replays-icon.png"/><a href="Replay_Vault_&amp;_Live_Games"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td></td>
 </tr>
