@@ -2,7 +2,7 @@
 title: Game-&-Balance-Patchnotes-2011
 description: 
 published: true
-date: 2021-08-31T13:00:24.064Z
+date: 2021-08-31T13:02:11.741Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
@@ -109,3 +109,11 @@ dateCreated: 2021-08-31T12:44:10.511Z
 - Billy reload timeout increased to avoid rapid firing through assisting
 - Increase Shield ship cost by 30% from 1040M 10400E to 1300M 13000E
 - Decrease T3 Air Transport costs by 30% (final E cost further adjusted by other changes)
+#### Cybran
+- Cybran Hoplite health decreased from 650 to 450.
+- Cybran Engineering Stations: T1 cost increased to 500M 2500E from 450M 2250E. T2 build rate decreased to 25 from 30. T3 build rate decreased to 35 from 45.
+- T1 Assault Bot: Mantis : Increased turret yaw speed to 90
+- T2 Shield Generator: ED5 : Decreased mass cost to 1800, decreased energy cost to 26666, decreased build time to 1400, increased shield health to 15000
+- Increased Cybran Deceiver (t2 mobile stealth generator) speed, acceleration and brake to match the values of other factions t2 mobile shields 
+- T2 Point Defense dps increased damage to 13
+- Firebeetle changed to deal 4500 damage, health lowered to 300, Firing tolerance increased to 100.
