@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2014
 description: 
 published: true
-date: 2021-08-31T15:26:22.049Z
+date: 2021-08-31T15:26:46.544Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:23:30.189Z
@@ -14,10 +14,16 @@ dateCreated: 2021-08-31T15:23:30.189Z
 3634
 3633
 3632
-3631
 
 
 
+
+## 3631
+- Tons of little bug fixes in the interface.
+- Key binding panel is more robust now.
+- When binding a hotbuild key, if the shift/alt key combo is already binded, you will get an option to unbind them so hotbuild will be able use them.
+- You can now rotate the templates that are done through hotbuild.
+- The balance tweaks & some exploits were not really fixed in 3630 due to a bad merge of the code. They are now in 3631.
 
 ## 3630
 ### Exploits & bug fixes
