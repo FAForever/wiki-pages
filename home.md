@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T15:10:36.365Z
+date: 2021-08-31T15:37:18.770Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -222,14 +222,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 
--   2014:
-    [3629](https://www.faforever.com/2014/02/patch-3629-release-candidate-1),
-    [3630](https://www.faforever.com/2014/03/patch-3630),
-    [3631](https://www.faforever.com/2014/03/patch-3621),
-    [3632](https://www.faforever.com/2014/03/forged-alliance-patch-3632),
-    [3633](http://www.faforever.com/2014/08/patch-3633-changelogs/#.VMFosS6bGBA),
-    [3634](http://www.faforever.com/2014/08/patch-3634-changelog/#.VMFoqi6bGBA),
-    [3636](http://www.faforever.com/2014/12/patch-3636-is-here/#.VMFoHC6bGBA)
 -   2015: [3637](3637 "wikilink"), [3638](3638 "wikilink"),
     [3639](3639 "wikilink"), [3640](3640 "wikilink"),
     [3641](3641 "wikilink"), [3642](3642 "wikilink"),
