@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-08-31T19:16:17.698Z
+date: 2021-08-31T19:20:54.048Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -44,13 +44,12 @@ If you wish to play vs ai , simply host your own game, and add AI players instea
 ## Hosting Games
 You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
 ![hosting-games.png](/hosting-games.png)
-1) - The title bar sets the game title which can be seen in the games tab.
-- The preview shows how it will look.
-- The map drop-down is used to select a map. You can also change this in-game if you wish. Arrow keys can be used to scroll through it if it's focused (opened and closed again, or use tab).
-- The mod list can be used to enable and disable *sim mods*. This can also be changed in-game if you wish.
-- The options **Friends** and **Hidden** are currently unavailable.
-- If the **password** checkbox is ticked, or **private** is used in the game title, the padlock icon will appear instead of the map preview.
-		- It will also be hidden from the Find Games list if that particular user has the **Hide Private Games** checkbox ticked.
+1) - The title bar sets the game title which can be seen in the custom games tab.
+2) - Password alows you to lock the game & a tick box to only show to friend on your Friend list
+3) - Here you select the game type that you wish to play
+4) - Here is where you can selct any UI or SIM mod you want to you game host
+5) - Here is where you can slecet the map you would like to play
+6) - this is the New Map Generator tool that will alow you to generate a new map automaticaly
 
 ## Video tutorial
 Video tutorial created by Heaven on hosting and playing on FAF, called [Default and Ranked Settings](https://youtu.be/BpSH12DdoFM), where he explains how to host a lobby on default settings, and how to tell whether someone else hosted a game on default settings. He also discusses which non default settings still are keeping the game ranked.
