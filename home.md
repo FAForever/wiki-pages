@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T16:00:15.509Z
+date: 2021-08-31T22:08:04.907Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -125,12 +125,12 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tr class="odd">
 <td><h3 id="lobby">Lobby</h3>
 <ul>
-<li><a href="Setting_Up_FAF" title="wikilink">How do i set up the client?</a></li>
-<li><a href="Setting_Up_FAF_Linux" title="wikilink">How do i set up the client on Linux?</a></li>
-<li><a href="Where_are_the_replays" title="wikilink">Where are the replays?</a></li>
-<li><a href="Map_Vault" title="wikilink">How to download Maps</a></li>
-<li><a href="Replay_Vault_&amp;_Live_Games#Game/Replay_ID" title="wikilink">How can I open replay by ID?</a></li>
-<li><a href="FAF_Client/Forum_Rules" title="wikilink">FAF Client and Forum Rules</a></li>
+<li><a href="Setting-Up-FAF">How do i set up the client?</a></li>
+<li><a href="Setting-Up-FAF-Linux">How do i set up the client on Linux?</a></li>
+<li><a href="Where-are-the-replays">Where are the replays?</a></li>
+<li><a href="Map-Vault">How to download Maps</a></li>
+<li><a href="Replay-Vault-&-Live-Games#Game/Replay-ID" title="wikilink">How can I open replay by ID?</a></li>
+<li><a href="FAF-Client/Forum_Rules" title="wikilink">FAF Client and Forum Rules</a></li>
 <li><a href="User_Groups#FAF_Moderators" title="wikilink">List of Moderators</a></li>
 <li><a href="How_do_i_play_FAF_offline?" title="wikilink">How do i play FAF offline?</a></li>
 </ul>
