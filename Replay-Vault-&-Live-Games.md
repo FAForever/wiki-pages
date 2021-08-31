@@ -1,20 +1,20 @@
+---
+title: Replay Vault & Live Games
+description: 
+published: true
+date: 2021-08-31T21:52:42.653Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:44:51.199Z
+---
+
 ## General
 
-Every game you play is automatically saved online and offline. You can
-also watch any live game that is currently being played. Click the
-"Replays" tab to show them or check out the links posted below. **If a
-game was played with a non-featured mod, you will have to have this mod
-available on your local system, otherwise there will be desyncs or other
-unpredictable problems. There is currently no mechanism in place to
-automatically download and update non-featured mods for you when you
-attempt to watch a game with them enabled.**
+Every game you play is automatically saved online and offline. You can also watch any live game that is currently being played. Click the "Replays" tab to show them or check out the links posted below.
+**If a game was played with a non-featured mod, you will have to have this mod available on your local system, otherwise there will be desyncs or other unpredictable problems. There is currently no mechanism in place to automatically download and update non-featured mods for you when you attempt to watch a game with them enabled.**
 
 ## Live Games
-
-<figure>
-<img src="ReplaysLive.JPG" title="ReplaysLive.JPG" width="1400" alt="ReplaysLive.JPG" /><figcaption aria-hidden="true">ReplaysLive.JPG</figcaption>
-</figure>
-
+![live-games.png](/live-games.png)
 ### 1. Replays tab
 
 Go here if you want to look at live replays, browse the local vault, or
