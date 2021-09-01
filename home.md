@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-08-31T22:23:18.433Z
+date: 2021-09-01T11:11:09.252Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><img src="/faf-client-icons/newshub-icon.png"/><a href="NewsHub"> NewsHub</a></li>
+<li><i class="fas fa-rss-square"></i><a href="NewsHub"> NewsHub</a></li>
 <li><img src="/faf-client-icons/coop-icon.png"/><a href="Coop-Missions"> Coop Missions</a></li>
 <li><img src="/faf-client-icons/maps-icon.png"/><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
 </ul></td>
