@@ -1,3 +1,13 @@
+---
+title: Learning-SupCom
+description: 
+published: true
+date: 2021-09-03T09:58:47.825Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:44:03.279Z
+---
+
 This page is intended to help you learn how to play Forged Alliance. The
 game has many different aspects and game types so information on the
 game has been split into various sections for your convenience. For
@@ -260,7 +270,6 @@ outdated, but they can be usefull nonetheless.
     however it is out of date and does not contain accurate values.
     [1](http://supcom.wikia.com/wiki/Main_Page)
 
-<!-- -->
 
 -   [An Unofficial Forged Alliance
     Guide](http://supcomfaguide.uw.hu/index.html)
@@ -272,12 +281,9 @@ economy efficiency.
 -   [The Strategy of Supreme
     Commander](https://web.archive.org/web/20120502070859/http://forums.gaspowered.com/viewtopic.php?f=2&t=52617)
 
-<!-- -->
 
 -   [Supreme Commander: A guide for normal
     people](https://web.archive.org/web/20120709135302/http://forums.gaspowered.com/viewtopic.php?t=23624url)
-
-<!-- -->
 
 -   [To Scale Olympus
     (Archived)](https://web.archive.org/web/20120709060829/http://forums.gaspowered.com/viewtopic.php?f=2&t=27171%20url)
