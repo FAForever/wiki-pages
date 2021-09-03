@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:25:03.390Z
+date: 2021-09-03T10:29:23.509Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -36,22 +36,16 @@ Microing units effectively can be a difficult task, but with the right knowledge
 
 This section covers everything you need to know about playing ladder matches and 1v1 games. This part is split into 5 guides: a general guide for 1v1, and 4 faction specific guides, designed to be read after the general guide.
 
-- ![random_faction.png](/random_faction.png) [General 1v1 Guide](/General-1v1-Guide)
+- [General 1v1 Guide](/General-1v1-Guide)
 
-In order to minimize overlap between the faction specific guides, the
-common information has been gathered into this general purpose guide.
+In order to minimize overlap between the faction specific guides, the common information has been gathered into this general purpose guide.
 
-These guides are here to show you specific strategies, and help you play
-to their strengths:
+These guides are here to show you specific strategies, and help you play to their strengths:
 
--   <img src="Aeon.png" title="fig:Aeon.png" width="40" alt="Aeon.png" />
-    [Aeon 1v1 Guide](Aeon_1v1_Guide "wikilink")
--   <img src="Cybran.png" title="fig:Cybran.png" width="40" alt="Cybran.png" />
-    [Cybran 1v1 Guide](Cybran_1v1_Guide "wikilink")
--   <img src="Seraphim.png" title="fig:Seraphim.png" width="40" alt="Seraphim.png" />
-    [Seraphim 1v1 Guide](Seraphim_1v1_Guide "wikilink")
--   <img src="Uef.png" title="fig:Uef.png" width="40" alt="Uef.png" />
-    [UEF 1v1 Guide](UEF_1v1_Guide "wikilink")
+- [Aeon 1v1 Guide](Aeon-1v1-Guide)
+- [Cybran 1v1 Guide](Cybran-1v1-Guide)
+- [Seraphim 1v1 Guide](Seraphim-1v1-Guide)
+- [UEF 1v1 Guide](UEF-1v1-Guide)
 
 ### Teamgame and map specific information
 
