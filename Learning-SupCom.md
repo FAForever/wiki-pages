@@ -2,59 +2,41 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T09:58:47.825Z
+date: 2021-09-03T10:01:28.707Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
 ---
 
-This page is intended to help you learn how to play Forged Alliance. The
-game has many different aspects and game types so information on the
-game has been split into various sections for your convenience. For
-information on the client and not the game, please visit the [Main
-Page](Main_Page "wikilink")
+This page is intended to help you learn how to play Forged Alliance. The game has many different aspects and game types so information on the game has been split into various sections for your convenience. For information on the client and not the game, please visit the [Main Page](home)
 
 ## The FAF Guide
 
-This wiki contains one complete guide to playing Forged Alliance, with
-the FAF client. The guide in this wiki is split into different sections,
-which are constantly being worked on and should provide a comprehensive
-coverage of the game and its various aspects.
+This wiki contains one complete guide to playing Forged Alliance, with the FAF client. The guide in this wiki is split into different sections, which are constantly being worked on and should provide a comprehensive coverage of the game and its various aspects.
 
 ### Setting up Supreme Commander: Forged Alliance and the FAF client
 
-If you need information on how to setup Supreme Commander: Forged
-Alliance and the FAF client, please read [Setting Up
-FAF](Setting_Up_FAF "wikilink").
+If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](Setting_Up_FAF "wikilink").
 
 ### Introduction and Basic Game Mechanics
 
-This is intended for players new to Supreme Commander, but if you are a
-returning player this could be useful as it provides a sound knowledge
-base and encourages good habits.
+This is intended for players new to Supreme Commander, but if you are a returning player this could be useful as it provides a sound knowledge base and encourages good habits.
 
--   [Beginner's Guide to Forged
-    Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink")
+- [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink")
 
-Here is a guide for new players who want to improve and compete within
-the community.
+Here is a guide for new players who want to improve and compete within the community.
 
--   [Three Essential Habits for the New
-    Player](Three_Essential_Habits_for_the_New_Player "wikilink")
+- [Three Essential Habits for the New Player](Three_Essential_Habits_for_the_New_Player "wikilink")
 
-Microing units effectively can be a difficult task, but with the right
-knowledge it can give you a huge advantage.
+Microing units effectively can be a difficult task, but with the right knowledge it can give you a huge advantage.
 
--   [Unit Micro](Unit_Micro "wikilink")
+- [Unit Micro](Unit_Micro "wikilink")
 
 ### In depth 1v1 Guide
 
-This section covers everything you need to know about playing ladder
-matches and 1v1 games. This part is split into 5 guides: a general guide
-for 1v1, and 4 faction specific guides, designed to be read after the
-general guide.
+This section covers everything you need to know about playing ladder matches and 1v1 games. This part is split into 5 guides: a general guide for 1v1, and 4 faction specific guides, designed to be read after the general guide.
 
--   <img src="Random_Faction.png" title="fig:Random_Faction.png" width="40" alt="Random_Faction.png" />
+- <img src="Random_Faction.png" title="fig:Random_Faction.png" width="40" alt="Random_Faction.png" />
     [General 1v1 Guide](General_1v1_Guide "wikilink")
 
 In order to minimize overlap between the faction specific guides, the
