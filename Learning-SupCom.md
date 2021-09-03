@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:29:23.509Z
+date: 2021-09-03T10:32:27.902Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -51,24 +51,15 @@ These guides are here to show you specific strategies, and help you play to thei
 
 ### Reference materials and detailed game mechanics
 
-This section is for specific information on units, game mechanics and
-other facts and numbers which are useful to know when playing Forged
-Alliance.
+This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 
--   For an overview of the factions in Supreme Commander visit: [Faction
-    Information](Faction_Information "wikilink")
--   To learn more about the specific economy of Supreme Commander visit:
-    [Adjacency Bonus](Adjacency_Bonus "wikilink")
--   For specific Information regarding the Engy mod patch visit: [Engy
-    Mod](Game_Modifications_(Mods)#Engy_Mod "wikilink")
--   To view unit stats, anc compare units with each other, visit: [Unit
-    Database](Unit_Database "wikilink")
--   To see unit stats and calculations visit: [FA Stats And
-    Calculations](FA_Stats_And_Calculations "wikilink")
--   To view specific info about tactical and strategic missiles, visit:
-    [Missiles](Missiles "wikilink")
--   Capacity of several air transports: [Air
-    Transport](Air_Transport "wikilink")
+- For an overview of the factions in Supreme Commander visit: [Faction Information](Faction_Information)
+- To learn more about the specific economy of Supreme Commander visit:   [Adjacency Bonus](Adjacency_Bonus)
+- For specific Information regarding the Engy mod patch visit: [Engy Mod](Game_Modifications_(Mods)#Engy_Mod)
+- To view unit stats, anc compare units with each other, visit: [Unit Database](Unit_Database)
+- To see unit stats and calculations visit: [FA Stats And Calculations](FA_Stats_And_Calculations)
+- To view specific info about tactical and strategic missiles, visit: [Missiles](Missiles)
+- Capacity of several air transports: [Air Transport](Air_Transport)
 
 ## <img src="Video_Tutorials.png" title="fig:Video_Tutorials.png" width="60" alt="Video_Tutorials.png" /> Tutorial Videos
 
