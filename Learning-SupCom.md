@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T13:22:40.041Z
+date: 2021-09-03T13:23:51.258Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -145,27 +145,3 @@ They mainly provide introductive information, and some could be
 outdated, but they can be usefull nonetheless.
 
 - The [SupCom Wiki](http://supcom.wikia.com/wiki/Main_Page) is a comprehensive resource about Supreme Commander, however it is out of date and does not contain accurate values.
-
--   [An Unofficial Forged Alliance
-    Guide](http://supcomfaguide.uw.hu/index.html)
-
-
-A well layed out guide, this gives a nice introduction into unit and
-economy efficiency.
-
--   [The Strategy of Supreme
-    Commander](https://web.archive.org/web/20120502070859/http://forums.gaspowered.com/viewtopic.php?f=2&t=52617)
-
-
--   [Supreme Commander: A guide for normal
-    people](https://web.archive.org/web/20120709135302/http://forums.gaspowered.com/viewtopic.php?t=23624url)
-
--   [To Scale Olympus
-    (Archived)](https://web.archive.org/web/20120709060829/http://forums.gaspowered.com/viewtopic.php?f=2&t=27171%20url)
-
-
-This provides a good overview of some of the core concepts of playing
-Supreme Commander, but a couple of things are not entirely accurate.
-
--   [Eco Video
-    Tutorial](https://web.archive.org/web/20120709135752/http://forums.gaspowered.com/viewtopic.php?t=25140url)
