@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:01:51.659Z
+date: 2021-09-03T10:02:16.685Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -16,7 +16,7 @@ This wiki contains one complete guide to playing Forged Alliance, with the FAF c
 
 ### Setting up Supreme Commander: Forged Alliance and the FAF client
 
-If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](Setting_Up_FAF "wikilink").
+If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/Setting-Up-FAF).
 
 ### Introduction and Basic Game Mechanics
 
