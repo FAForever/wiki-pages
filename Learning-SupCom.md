@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:46:45.634Z
+date: 2021-09-03T11:13:49.414Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -62,8 +62,6 @@ This section is for specific information on units, game mechanics and other fact
 - Capacity of several air transports: [Air Transport](Air_Transport)
 
 ## Tutorial Videos
-
-<iframe width="1190" height="678" src="https://www.youtube.com/embed/KZdTcv5laYQ?list=PL0nxuIUIjpFvick5J104tWlbRyTBLGDXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Basics
 
