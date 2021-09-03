@@ -1,3 +1,13 @@
+---
+title: Beginners-Guide-to-Forged-Alliance
+description: 
+published: true
+date: 2021-09-03T10:10:12.076Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:42:16.497Z
+---
+
 **First of all, welcome to FAF! We are happy to have you!**
 
 The idea behind this guide is to show new players the ultimate basics,
@@ -395,7 +405,6 @@ of what you can counter with what to get started:
     -   Zthuee's = Frigates (This counts for maps where the seraphim
         artillery can go over the water)
 
-<!-- -->
 
 -   Tech 2
     -   Gunships = T2 Mobile Anti-Air (Don't cover the whole map with T2
@@ -406,14 +415,12 @@ of what you can counter with what to get started:
     -   TML = TMD (Don't wait till the TML is finished... Protect your
         T2 mexes asap against TML, especially in teamgames!)
 
-<!-- -->
 
 -   Tech 3
     -   Artillery = Artillery (Large numbers of T2 and T3 shields can
         stave off artillery fire for a while but you need to act before
         more start firing at your base. Counter with the same unit!)
 
-<!-- -->
 
 -   Experimental Tech
     -   Land experimentals = air and other land experimentals (T3 air
