@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:32:27.902Z
+date: 2021-09-03T10:33:06.130Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -61,15 +61,12 @@ This section is for specific information on units, game mechanics and other fact
 - To view specific info about tactical and strategic missiles, visit: [Missiles](Missiles)
 - Capacity of several air transports: [Air Transport](Air_Transport)
 
-## <img src="Video_Tutorials.png" title="fig:Video_Tutorials.png" width="60" alt="Video_Tutorials.png" /> Tutorial Videos
+## Tutorial Videos
 
 ### Basics
 
-Playlist of tutorials created by Colonel Sheppard - [link
-here](http://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0).
-As you can notice some of the videos are not mentioned below, that is
-because they are outdated also here you can find some new ones that
-aren't in that playlist. What you can find there:
+Playlist of tutorials created by Colonel Sheppard - [link here](http://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0).
+As you can notice some of the videos are not mentioned below, that is because they are outdated also here you can find some new ones that aren't in that playlist. What you can find there:
 
 <table>
 <tbody>
