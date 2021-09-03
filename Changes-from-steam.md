@@ -1,11 +1,16 @@
-Over the years, FAF made a bunch of changes to original game balance as
-it was in the GPG lobby. The steam version introduces a few changes of
-its own, this article describes key differences between Steam and FAF
-balance. You can also check other useful sources below:
+---
+title: Changes-from-steam
+description: 
+published: true
+date: 2021-09-03T13:29:34.332Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:42:24.933Z
+---
 
--   [Integrated
-    mods](Game_Modifications_(Mods)#Integrated_Mods "wikilink")
--   [Unit database](https://unitdb.faforever.com/)
+Over the years, FAF made a bunch of changes to original game balance as it was in the GPG lobby. The steam version introduces a few changes of its own, this article describes key differences between Steam and FAF balance. You can also check other useful sources below:
+- [Integrated-mods](Game-Modifications-(Mods)#integrated-mods)
+- [Unit database](https://unitdb.faforever.com/)
 
 ## Bugfixes
 
