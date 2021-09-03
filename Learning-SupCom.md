@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T11:13:49.414Z
+date: 2021-09-03T13:22:40.041Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -121,35 +121,11 @@ As you can notice some of the videos are not mentioned below, that is because th
 </tbody>
 </table>
 
-## ![<File:Replay.png>](Replay.png "fig:File:Replay.png") Replay Analysis
+## Replay Analysis
 
-It's always the same, you lost a game and you are asking yourself: Why?
-Why have I lost? You are looking at the
-[replay](Replay_Vault_&_Live_Games "wikilink") again and again, but
-there is no answer ...
+It's always the same, you lost a game and you are asking yourself: Why? Why have I lost? You are looking at the [replay](Replay-Vault-&-Live-Games) again and again, but there is no answer ...
 
-FAF offers these options:
-
--   [Replay Analysis
-    Thread](http://forums.faforever.com/forums//viewtopic.php?f=40&t=3936)
-    on forum, where you can post your replays. The [Trainer
-    team](User_Groups#Trainers "wikilink") and all other players who
-    will like to help, will try to have a look on your replay and give
-    you a feedback about your game.
--   [Gameplay Video
-    Review](https://www.youtube.com/playlist?list=PLTEDjzjPnGIoOHYKxH1O5eEZ4ZTDSahgp)
-    from speed2. You can submit your replays into [this forum
-    thread](http://forums.faforever.com/forums//viewtopic.php?f=40&t=9136).
-    Done videos will get posted in same forum thread and on his [Youtube
-    channel](https://www.youtube.com/user/speed2cz/).
--   [Replay
-    Reviews](https://www.youtube.com/playlist?list=PLxH0oefiZR_XF8RsUGVS2ItNoe2IErDDW)
-    from Heaven. You can submit your replays [on his
-    Discord](https://discord.gg/NndWzkc). Completed reviews will get
-    posted on his [YouTube
-    channel](https://www.youtube.com/channel/UCJYYaFbqPqbNkvgJAqrhC2A).
-    Please follow the [submission
-    rules](https://www.youtube.com/watch?v=hx2P62SPNxI)!
+FAF offers Replay Analysis avalable in #gameplay-and-training channel on the FAF Discord all other players who will like to help, will try to have a look on your replay and give you a feedback about your game.
 
 ## Other Help
 
@@ -158,26 +134,9 @@ playing Supreme Commander, updated to the lates information and FAF
 patches, these other resources may be usefull in offering a different
 persective on the game, helping you gain a deeper understanding of it.
 
-### ![<File:Pizza> Avatar.png](Pizza_Avatar.png "fig:File:Pizza Avatar.png") Zock Lessons
 
-One of the top Supreme Commander players offering
-[lessons](https://www.youtube.com/playlist?list=PLJclJGPtIxW1Znl4idf8EEdHMnTzDJ810).
-(For a fixed hourly rate) More information
-[here](http://forums.faforever.com/forums//viewtopic.php?f=40&t=7596).
-
-### ![<File:Replay.png>](Replay.png "fig:File:Replay.png") Replays
-
--   Here is a
-    [download](http://forums.faforever.com/forums/download/file.php?id=1620)
-    to some educational replays which cover various topics, ranging from
-    game basics to information on specific units, and micro.
--   This [replay](http://forums.faforever.com/download/file.php?id=2293)
-    contains templates which you can copy out of there while watching it
-    and selecting the buildings > add to template.
--   To install replays: On the top right of the FAF client, options ->
-    show paths -> show replays folder -> drag the replay file into this
-    folder. The replay will then appear in the replays tab under local
-    archive.
+### Replays
+To install replays: On the top right of the FAF client, options ->     show paths -> show replays folder -> drag the replay file into this     folder. The replay will then appear in the replays tab under local     archive.
 
 ### External Guides
 
@@ -185,10 +144,7 @@ There are a number of guides not on this wiki, here are a few of them.
 They mainly provide introductive information, and some could be
 outdated, but they can be usefull nonetheless.
 
--   The SupCom Wiki is a comprehensive resource about Supreme Commander,
-    however it is out of date and does not contain accurate values.
-    [1](http://supcom.wikia.com/wiki/Main_Page)
-
+- The [SupCom Wiki](http://supcom.wikia.com/wiki/Main_Page) is a comprehensive resource about Supreme Commander, however it is out of date and does not contain accurate values.
 
 -   [An Unofficial Forged Alliance
     Guide](http://supcomfaguide.uw.hu/index.html)
