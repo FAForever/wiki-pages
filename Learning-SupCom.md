@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:13:49.996Z
+date: 2021-09-03T10:25:03.390Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -36,8 +36,7 @@ Microing units effectively can be a difficult task, but with the right knowledge
 
 This section covers everything you need to know about playing ladder matches and 1v1 games. This part is split into 5 guides: a general guide for 1v1, and 4 faction specific guides, designed to be read after the general guide.
 
-- <img src="Random_Faction.png" title="fig:Random_Faction.png" width="40" alt="Random_Faction.png" />
-    [General 1v1 Guide](General_1v1_Guide "wikilink")
+- ![random_faction.png](/random_faction.png) [General 1v1 Guide](/General-1v1-Guide)
 
 In order to minimize overlap between the faction specific guides, the
 common information has been gathered into this general purpose guide.
