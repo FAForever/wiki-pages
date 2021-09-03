@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:33:06.130Z
+date: 2021-09-03T10:46:45.634Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -63,58 +63,16 @@ This section is for specific information on units, game mechanics and other fact
 
 ## Tutorial Videos
 
+<iframe width="1190" height="678" src="https://www.youtube.com/embed/KZdTcv5laYQ?list=PL0nxuIUIjpFvick5J104tWlbRyTBLGDXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Basics
 
 Playlist of tutorials created by Colonel Sheppard - [link here](http://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0).
 As you can notice some of the videos are not mentioned below, that is because they are outdated also here you can find some new ones that aren't in that playlist. What you can find there:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4 id="game_mechanics">Game Mechanics</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=0QhM7oC-t7U">User Interface</a></li>
-<li><a href="https://www.youtube.com/watch?v=m5HJa9N_9ww">Setting up Hotkeys + UI</a></li>
-<li><a href="https://www.youtube.com/watch?v=X9h5VBnhyW8">Economy</a></li>
-<li><a href="https://www.youtube.com/watch?v=ow1PSPO8Wc8">Build Range</a></li>
-<li><a href="https://www.youtube.com/watch?v=-NO4Ljc8uUs">Templates</a></li>
-<li><a href="https://www.youtube.com/watch?v=A2w0n4YVJng">Reclaim</a> <a href="https://www.youtube.com/watch?v=_uPjOxCTEng">#Part2</a></li>
-<li><a href="https://www.youtube.com/watch?v=lYWos5t24sY">Overcharge</a></li>
-<li><a href="https://www.youtube.com/watch?v=6c-Czs1G8T0">Automatic overcharge</a></li>
-<li><a href="https://youtu.be/68rnegj924E">New overcharge</a></li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=ahSDG_YcKnE">Engineers</a></li>
-<li><a href="https://www.youtube.com/watch?v=_6c77KHH3eM">Transports &amp; Ghetto Gunships</a></li>
-<li><a href="https://www.youtube.com/watch?v=-GQuFgutQLQ">More Transport Commands</a></li>
-<li><a href="https://www.youtube.com/watch?v=2XJOrVB01ZA">Defenses</a> <a href="https://www.youtube.com/watch?v=hH1aVrWIn_0">Detailed</a></li>
-<li><a href="https://www.youtube.com/watch?v=_nwNRn0E19U">Walling Point Defenses</a></li>
-<li><a href="https://www.youtube.com/watch?v=zy1GC1IRnpk">Adjacency</a> (<a href="Adjacency_Bonus" title="wikilink">Current Values</a>)</li>
-<li><a href="https://www.youtube.com/watch?v=7ajLy2ShcoI">Cheat Menu</a> (spawning units)</li>
-</ul></td>
-<td><h4 id="unit_presentation">Unit Presentation</h4>
-<ul>
-<li><a href="https://youtu.be/KZdTcv5laYQ">ACUs</a></li>
-<li><a href="https://www.youtube.com/watch?v=Rw1i_kNg7xU">Gun ACU Comparison Chart (Subjective &amp; WIP; read comments!)</a></li>
-<li><a href="https://www.youtube.com/watch?v=LasuxvJlHaY">SACUs</a></li>
-<li><a href="https://www.youtube.com/watch?v=kRi-Br4iKaE">T1 Land Units</a></li>
-<li><a href="https://www.youtube.com/watch?v=u4F6DmQmp_k&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=2">How to Compose a Standard T1 Army</a></li>
-<li><a href="https://www.youtube.com/watch?v=q4Rjl0jFgDI">T2 Land Units</a> (<a href="http://content.faforever.com/patchnotes/3684.html#mml">MML</a> and <a href="http://content.faforever.com/patchnotes/3696.html#maa">Beetle</a> changes)</li>
-<li><a href="https://www.youtube.com/watch?v=jD1IJh_bd1E&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=9">How to Compose a Standard T2 Army</a></li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=ijrOq1dQPGw">T3 Land Units</a></li>
-<li><a href="https://www.youtube.com/watch?v=-dirlOA1Gfs&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=10">How to Compose a Standard T3 Army</a></li>
-<li><a href="https://www.youtube.com/watch?v=ePFfw0p3Xd8&amp;index=8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS">Land Units Comparison Chart (Subjective)</a></li>
-<li><a href="https://www.youtube.com/watch?v=m1exHM6oPQg">Air Units</a></li>
-<li><a href="https://goo.gl/mGXRGm">Air Units Comparison Chart (Subjective)</a></li>
-<li><a href="https://www.youtube.com/watch?v=1wDUGpyzjvg">Naval Units</a></li>
-<li><a href="https://goo.gl/wEM45s">Naval Units Comparison Chart (Subjective)</a></li>
-<li><a href="https://www.youtube.com/watch?v=IVnMGWjp94s">T4 Land and Air Experimentals</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+**Game Mechanics:** [Playlist of Videos](https://youtube.com/playlist?list=PL0nxuIUIjpFtqrviMFar6WIi3aUYbH_JW)
+
+**Unit Presentation:** [Playlist of Videos](https://youtube.com/playlist?list=PL0nxuIUIjpFvick5J104tWlbRyTBLGDXn)
 
 ### Advanced Tutorials
 
