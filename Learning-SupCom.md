@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-09-03T10:10:34.035Z
+date: 2021-09-03T10:12:13.563Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -26,7 +26,7 @@ This is intended for players new to Supreme Commander, but if you are a returnin
 
 Here is a guide for new players who want to improve and compete within the community.
 
-- [Three Essential Habits for the New Player](Three_Essential_Habits_for_the_New_Player "wikilink")
+- [Three Essential Habits for the New Player](/Three-Essential-Habits-for-the-New-Player)
 
 Microing units effectively can be a difficult task, but with the right knowledge it can give you a huge advantage.
 
