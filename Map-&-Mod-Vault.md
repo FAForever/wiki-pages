@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-08-31T18:51:29.443Z
+date: 2021-09-04T08:37:42.222Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -16,8 +16,7 @@ In the map vault, you will find every map available for Forged Alliance. All map
 ### 1. Search tab
 You can search for map names here, you dont have to enter the full name. You can also use filters.
 ### 2. Uploading Maps
-For Information Uploading Maps please check out the Rule's
-[Here](https://forums.faforever.com/viewtopic.php?f=2&t=17873)
+For Information Uploading Maps please check out the Rule's [Here](https://forums.faforever.com/viewtopic.php?f=2&t=17873)
 ### 3. Map Sections
 Here the Map Vault is split into different sections to help you out looking for maps.
 - M&M Team Top Picks : It is a list of Curated Maps that the Content Creator have put time and effort into their work.
