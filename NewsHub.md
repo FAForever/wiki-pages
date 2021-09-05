@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-08-31T16:39:16.772Z
+date: 2021-09-05T18:07:37.784Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -47,5 +47,4 @@ Article Heading Font:
 
 Badge Font <https://fonts.google.com/specimen/Russo+One?query=russo>
 
-Please Visit the Promotions Discord For any more questions
-[here](https://discord.gg/CYztfPz)
+Please Visit the Promotions Discord For any more questions [here](https://discord.gg/CYztfPz)
