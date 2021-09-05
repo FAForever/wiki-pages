@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-09-03T09:54:06.058Z
+date: 2021-09-05T18:05:56.450Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -86,11 +86,11 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 ## FAF Moderators
 
-These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](FAF_chat#Chat_commands "wikilink") to be given a list of online moderators.
+These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](FAF-chat#Chat-commands) to be given a list of online moderators.
 
-You can make reports to the moderators by using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfeg4ywc4JVC4frnpkPi6udTRpPqti0d4lH1DEmlRhWOnpagg/viewform?c=0&w=1)
+You can make reports to the moderators by using [this form](https://www.faforever.com/account/report)
 
-If you are interested in joining the moderator team you can write a PM (private message) on the forums to the "IRC Moderators" group [as shown here](https://i.imgur.com/5KPmGJx.png) detailing on why you think you would make a good addition to the team, which timezone you live in and what sort of commitment you are able to make if you are selected.
+If you are interested in joining the moderator team you can write a PM (private message) to the Currenly Active Moderator Councilor detailing on why you think you would make a good addition to the team, which timezone you live in and what sort of commitment you are able to make if you are selected.
 
 Current moderators:
 
@@ -106,7 +106,7 @@ Current moderators:
 - **angelofd347h**
 - **nemir**
 
-**Important:** *QAI* and *AeonCommander* are [chat bots](FAF_chat#Chat_commands "wikilink")!
+**Important:** *QAI* and *AeonCommander* are [chat bots](FAF-chat#Chat-commands)!
 
 IRC moderators (These are irc-only moderators)
 
@@ -136,26 +136,26 @@ IRC moderators (These are irc-only moderators)
 
 This is the updated list of Trainers.
 
-For more information on trainers please read the forum link [here](http://forums.faforever.com/viewtopic.php?f=40&t=16380)
+These people are trainers who can teach you how to play Supreme Commander. PM them in [FAF Chat](FAF-chat) and ask for a lesson!
 
-These people are trainers who can teach you how to play Supreme Commander. PM them in [FAF chat](FAF_chat "wikilink") and ask for a lesson!
+Names Provided here are the names they go by on the FAF Discord.
 
-*To track down their name change, go [here.](FAF_chat#User_Name_Change_and_Name_History "wikilink")*
-
-| Clan        | Name\[s\]                                                                                               | Country | Language                 | Time Zone | Comments                                                                |
-|-------------|---------------------------------------------------------------------------------------------------------|---------|--------------------------|-----------|-------------------------------------------------------------------------|
-| **\[J¢p\]** | **biass [\[](http://app.faforever.com/faf/userName.php?name=biassFA)\]**                                | AUS     | English                  | GMT+10    | Training for \<1500 rated players, specializing in 1v1.                 |
-| **\[SC\]**  | **Endranii (RandomWheelchair) [\[](http://app.faforever.com/faf/userName.php?name=RandomWheelchair)\]** | POL     | English/Polish           | GMT+1     | Training for 1000-1500 rated players, specializing in Seton's gameplay. |
-| **\[GB\]**  | **F-Odin[\[](http://app.faforever.com/faf/userName.php?name=F-Odin)\]**                                 | UK      | English                  | GMT       | Training for \<1500 rated players, specializing in teamgames.           |
-| **\[PLD\]** | **Inspektor_Kot[\[](http://app.faforever.com/faf/userName.php?name=Inspektor_Kot)\]**                   | RU      | Russian                  | GMT+3     | Training for \<1600 rated players, specializing in 1v1.                 |
-| **\[EDC\]** | **Explosive [\[](http://app.faforever.com/faf/userName.php?name=Explosive)\]**                          | GER     | English/German           | GMT+1     | Training for \<1400 rated players, prefers voice chat.                  |
-| **\[J¢p\]** | **theeggroll [\[](http://app.faforever.com/faf/userName.php?name=theeggroll)\]**                        | USA     | English                  | GMT-8     | Training for \<1400 rated players                                       |
-| **\[TTD\]** | **Sladow [\[](http://app.faforever.com/faf/userName.php?name=Sladow)\]**                                | GER     | German/English           | GMT+1     | Training for \<1600 rated players, specializing in teamgames.           |
-| **\[SCR\]** | **Resistance [\[](http://app.faforever.com/faf/userName.php?name=Resistance)\]**                        | MD      | English/Russian/Romanian | GMT+2     | Training for 0-1500 rated players                                       |
-|             | **Gorthaur [\[](http://app.faforever.com/faf/userName.php?name=Gorthaur)\]**                            | GER     | German/English           | GMT+1     | Training for \<1200 Global/Ladder rated players, specializing teamgames |
-|             | **HintHunter [\[](http://app.faforever.com/faf/userName.php?name=HintHunter)\]**                        | CRO     | Croatian/English         | GMT+1     | Training for \<1100 global/ladder rated players                         |
-| **\[PLD\]** | **LimeZ3 [\[](http://app.faforever.com/faf/userName.php?name=LimeZ3)\]**                                | LV      | Russian/English          | GMT+2     | Training for \<1600 Ladder/Teamgames rated players.                     |
-| **\[EDC\]** | **Javi [\[](http://app.faforever.com/faf/userName.php?name=Javi)\]**                                    | USA     | Spanish/English          | GMT-4     | Training for \<1000 Ladder rated players.                               |
+- **Morax** 
+- **Emerald** 
+- **Javi**
+- **HintHunter**
+- **Deribus**
+- **Tagada**
+- **Inspektor_Kot**
+- **Sladow**
+- **Explosive**
+- **F-Odin**
+- **Terminal**
+- **Resistance**
+- **Cheeseberry** 
+- **Aulex**  
+- **LimeZ3**     
+- **Gorthaur**      
 
 List of trainers happy to help you!
 
