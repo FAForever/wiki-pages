@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T22:49:54.369Z
+date: 2021-09-08T22:51:17.671Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -100,16 +100,16 @@ dateCreated: 2021-09-08T22:36:42.319Z
 	>- Turret Yaw Speed: 60 → 90
 	>- DPS: 400 → 334
 - Titan
-            Health: 2200 → 2550
-            Shield: 1200 → 600
-            Recharge Time: 60 → 15
-            Regen Rate: 9 → 20
-            Speed: 4 → 3.8
-            Acceleration: 4 → 4.2
-            Range: 20 → 22
-            Muzzle Velocity: 30 → 35
-            Turn rate: 150 → 120
-            Target Priorities: Titan now prioritises T3 over T2 over T1 instead of the reverse.
+	>- Health: 2200 → 2550
+	>- Shield: 1200 → 600
+	>- Recharge Time: 60 → 15
+	>- Regen Rate: 9 → 20
+	>- Speed: 4 → 3.8
+	>- Acceleration: 4 → 4.2
+	>- Range: 20 → 22
+	>- Muzzle Velocity: 30 → 35
+	>- Turn rate: 150 → 120
+	>- Target Priorities: Titan now prioritises T3 over T2 over T1 instead of the reverse.
         Brick
             Health: 9000 → 7500
             BuildTime: 6000 → 4800
