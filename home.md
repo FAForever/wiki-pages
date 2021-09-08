@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T10:29:19.877Z
+date: 2021-09-08T10:29:39.223Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -24,9 +24,9 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="The-Ladder"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host and join games</a></li>
-<li><img src="/faf-client-icons/uef-acu-mono.jpg" width=35px><a href="Unit-Database"> Unit Database</a></li>
-<li><img src="/faf-client-icons/replays-icon.png"><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
+<li><a href="Host-and-join-games"> Host and join games</a></li>
+<li><a href="Unit-Database"> Unit Database</a></li>
+<li><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host and join games</a></li>
