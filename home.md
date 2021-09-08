@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T11:56:59.792Z
+date: 2021-09-08T11:57:22.428Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -44,16 +44,16 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Written Guides</a></li>
+<li><a href="Learning-SupCom"> Written Guides</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink"> Detaild Game Mechanics</a></li>
+<li><a href="Tournaments" title="wikilink"> Detaild Game Mechanics</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Basic's Videos</a></li>
+<li><a href="Voicechat-(Discord)"> Basic's Videos</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Advanced Videos</a></li>
+<li><a href="Rating-System"> Advanced Videos</a></li>
 </ul></td>
 <td></td>
 </tr>
