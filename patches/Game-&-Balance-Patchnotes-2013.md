@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-09-08T13:53:18.630Z
+date: 2021-09-08T13:54:44.631Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
@@ -19,8 +19,7 @@ http://www.youtube.com/watch?v=IybuyjVZc10
 It is also disabling bloom in all fidelity presets (bloom hide most of the nice particle effects, it may be reworked later).
 
 ## 3626
-The patch 3626 is now released.
-This patch is the result of months of work, and the first step of the “Next” project.
+The patch 3626 is now released. This patch is the result of months of work, and the first step of the “Next” project.
 
 A few months ago, a indiegogo campaign was launched to make Galactic War happening, but also bringing FA to the next step.
 
