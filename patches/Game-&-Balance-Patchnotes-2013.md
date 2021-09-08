@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-09-08T13:48:37.010Z
+date: 2021-09-08T13:53:18.630Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
@@ -17,6 +17,7 @@ It introduce a better handling of the debris during explosions :
 http://www.youtube.com/watch?v=IybuyjVZc10
 
 It is also disabling bloom in all fidelity presets (bloom hide most of the nice particle effects, it may be reworked later).
+
 ## 3626
 The patch 3626 is now released.
 This patch is the result of months of work, and the first step of the “Next” project.
@@ -87,58 +88,58 @@ Multiple t2/t3 factories and t2/t3 engies to build and assist are now cost effic
 - BuildTime = 500 (from 625)
 #### UEF
 - nano upgrade :
-	- 1200 mass
+>	- 1200 mass
 	- 44800 energy
 	- 1400 buildtime
 	- 60 regen.
 ### T1 units
-- Aurora is missing a bit less and better handling. Muzzle charge delay reduced to 0.1 .
+- Aurora is missing a bit less and better handling. Muzzle charge delay reduced to 0.1
 - Medusa Firing Randomness increased to 1.35 (from 1.2)
 ### T2 units
 #### General change
 - Target priorities changed : Rhino, Ilshavoh, Riptides, Blazes : target Tech 3, tech 2 then Tech 1 instead of Tech 1 then tech 2 then tech 3.
 #### Aeon t2
 - Blaze
-	- Speed to 4.3 (from 3.7)
+>	- Speed to 4.3 (from 3.7)
 	- Muzzle velocity up to 45 (from 40)
 	- Firing tolerance reduced to 0 (from 2) to increase hit rate.
 - Aeon T2 mobile shield
-	- energy consumption decreased to 75 (from 125)
+>	- energy consumption decreased to 75 (from 125)
 	- size reduced to 15 (from 16).
 - Aeon Obsidian
-	- health = 1250 hp (from 1000)
+>	- health = 1250 hp (from 1000)
 	- shield = 1500 (from 1750)
 	- shield recharge start time = 3 seconds from 1 second
 	- muzzle charge delay reduced to 0.1
 	- speed reverted to 2.6 (from 2.9)
 	- turret yaw speed reduced to 75 (from 90).
 - Aeon Destroyer Exodus
-	- muzzle charge delay = 0.1 (from 0.5);
+>	- muzzle charge delay = 0.1 (from 0.5);
 	- turret yaw speed = readjusted to 100 (from 160)
 #### Cybran T2
 - Rhino :
-	- Health = 1900 hp (from 1150)
+>	- Health = 1900 hp (from 1150)
 	- MaxSpeed/max acceleration/maxBrake = 2.7 (from 3.2)
 	- Damage = 25 (from 16), rate of fire = 1.8 (from 2) = 90 DPS (from 64)
 	- BuildCostEnergy = 1500 (from 990); BuildCostMass = 297 (from 198)
 	- BuildTime = 1320 (from 880) ; surface threat level = 5 (from 3)
 	- veterancy = 8/16/24/32/40 (from 7/14/21/28/35)
 - Cerberus :
-	- damage reduced to 10 from 11 = DPS reduced to 100 DPS (from 110)
+>	- damage reduced to 10 from 11 = DPS reduced to 100 DPS (from 110)
 #### Seraphim t2
 - Yenzyne (Seraphim T2 hover tank)
-	- speed up to 4.3 (from 3.7)
+>	- speed up to 4.3 (from 3.7)
 	- 200 damages (from 175) for 50 DPS (from 43)
 	- range increased to 20 (from 18)
 	- firing tolerance = 1 (from 2),
 	- turret yaw speed = 110 (from 90)
 - Ilshavoh
-	- speed reverted to 2.5 (from 2.7)
+>	- speed reverted to 2.5 (from 2.7)
 #### UEF t2
 - UEF mobile shield
-	- size slightly increased to 17 (from 16)
+>	- size slightly increased to 17 (from 16)
 - Pillar
-	- rate of fire = 0.8 (from 0.75)
+>	- rate of fire = 0.8 (from 0.75)
 	- DPS = 56 (from 52.5)
 ### T3 units
 #### General change: Veterancy adjustments.
@@ -149,7 +150,7 @@ Multiple t2/t3 factories and t2/t3 engies to build and assist are now cost effic
 
 #### Strategic submarines rework.
 - For all strat subs :
-	- nuke launcher adjustments : 3.3 speed (from 2.5)
+>	- nuke launcher adjustments : 3.3 speed (from 2.5)
 	- range reduced to 410 (from 1024)
 	- nuke price is similar to static ones:
 	- BuildCostEnergy = 1350000 (from 1764000)
@@ -157,31 +158,31 @@ Multiple t2/t3 factories and t2/t3 engies to build and assist are now cost effic
 	- BuildTime = 324000 (from 453600) = 5 minutes (from 7 minutes)
 #### Sera Battleship Nuke
 - cost = same as old strat sub costs.
-- damage reduced to 25000 (from 70000)
-- BuildCostEnergy = 1764000, (from 1920000)
-- BuildCostMass = 16800 (from 19200)
-- BuildTime = 453600 (from 518400) = 7 minutes (from 8 minutes)
+>	- damage reduced to 25000 (from 70000)
+	- BuildCostEnergy = 1764000, (from 1920000)
+	- BuildCostMass = 16800 (from 19200)
+	- BuildTime = 453600 (from 518400) = 7 minutes (from 8 minutes)
 #### Aeon t3
 - Harbinger will now reclaim when on patrol.
 - Aeon Battleship
-	- muzzle charge delay = 0.1 (from 0.5)
+>	- muzzle charge delay = 0.1 (from 0.5)
 - Torrent Missile Ship
-	- AOE = 2 (same as regular tac missile, from 1.5)
+>	- AOE = 2 (same as regular tac missile, from 1.5)
 - Aeon snipers 
-	- mass cost reduced to 640 (from 800).
+>	- mass cost reduced to 640 (from 800).
 	- buildtime to 3600 (from 4800).
 	- doesn’t need to deploy, inacurate when moving.
 	- 1350 damages (from 1300) to prevent massive overkill on Percival.
 	- strategic icon is now a straight horizontal line
 - Aeon strat sub 
-	- tac missile range increased to 175 (from 128),
+>	- tac missile range increased to 175 (from 128),
 	- missile hp
 	- OE increased to 3 (from 2)
 #### Seraphim t3
 - Othuum Thau canon (the slow and weak weapon with 100 DPS) range = 32 (from 25) with indirect fire (yellow) ring.
 - Sera t3 shield : mass cost slightly reduced to 540 (from 640)
 - Sera sniper :
-	- mass cost reduced to 640 (from 800)
+>	- mass cost reduced to 640 (from 800)
 	- buildtime to 3600 (from 4800)
 	- has a turret now
 	- inacurate when moving (0.8)
@@ -189,17 +190,17 @@ Multiple t2/t3 factories and t2/t3 engies to build and assist are now cost effic
 	- strategic icon is now a straight horizontal line
 #### UEF t3
 - Percival
-	- Builtime increase to 6000 (from 4800)
+>	- Builtime increase to 6000 (from 4800)
 	- uses a new strategic icon (x) to distinguish it from Titan (+)
 - Continental (T3 transport)
-	- shield energy consumption = 400 (from 250)
+>	- shield energy consumption = 400 (from 250)
 	- veteran adjusted to : 12/24/36/48/60 (from 3/6/9/12/15)
 	- energy price normalized with other t3 air units (cf.3603 patch) : 52500 energy (same as Broadsword, less than Restorer) (from 29531 energy). Reason: GPG forgot the Continental when they made all t3 air units much more energy demanding in 3603.
 - UEF strat sub 
-	- tac missile range increased to 175 (from 128)
+>	- tac missile range increased to 175 (from 128)
 #### Cybran t3
 - Brick :
-	- Builtime increase to 6000 (from 4800)
+>	- Builtime increase to 6000 (from 4800)
 	- uses a new strategic icon (x) to distinguish it from Loyalist (+)
 - Cybran Strategic sub gets stealth + Tac missile range increased to 200 (from 150)
 ### T4 units
