@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-09-08T13:38:45.191Z
+date: 2021-09-08T13:39:49.152Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -51,7 +51,7 @@ To find a mod, simply type in it's name into the search bar, and if it doesn't a
 Click on Manage Active Mods Button to open the selection.
 ![active-mod-manager.png](/active-mod-manager.png)
 You can select from the top UI or SIM. As long as the Mod is highlighted in blue it is selected.
-## Mod types
+## Mod types {.tabset}
 There are two types of mods; Sim mods and UI mods.
 
 ### [UI Mods](/Game-Modifications-(Mods)#UI-Mods)
