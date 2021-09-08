@@ -1,3 +1,13 @@
+---
+title: General-1v1-Guide
+description: 
+published: true
+date: 2021-09-08T12:21:25.436Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:43:36.850Z
+---
+
 The purpose of this guide is to provide you with basic instructions on
 how to play 1v1, specifically ladder. It's implied that you have already
 read the [Beginner's Guide to Forged
@@ -119,7 +129,6 @@ easily.
     your land factories. Just be sure to unpause your factories and/or
     continue upgrading your economy once you complete the new project.
 
-<!-- -->
 
 -   If you decide to spend your mass by building T2 mexes, be ready to
     spend the mass once the mexes finish. A T2 mex will give you 6 mass
@@ -128,7 +137,6 @@ easily.
     You should prepare engineers for a project of your choosing. This
     could be units, factories, pgens, or ACU upgrades.
 
-<!-- -->
 
 -   The best way to avoid overflowing mass is to have large amounts of
     buildpower available (engineers).
@@ -150,7 +158,6 @@ easily.
     you may have. Once your stall is fixed remember to unpause these
     things.
 
-<!-- -->
 
 -   If you find yourself overflowing power, you have a couple places
     where you can quickly spend large amounts of it. Air production and
@@ -162,7 +169,6 @@ easily.
     upgrade to get the benefit and it means your ACU will not be active
     but they have the potential to be extremely strong.
 
-<!-- -->
 
 -   Take great care building T2 pgens once you gain access to them. They
     are quite expensive and building extra ones can make you stall
@@ -373,31 +379,26 @@ build T2 sonars around the map.
 -   Before attacking evaluate if the attack will pay off or the reclaim
     left from units will only feed your opponent.
 
-<!-- -->
 
 -   Try to always know what your opponent is up to, as then it's only a
     matter of knowing the counter to his actions and good micro/macro.
 
-<!-- -->
 
 -   Don't "learn" maps, instead learn the game. A good player with deep
     game understanding will do great on any map, a player that focuses
     on map learning won't improve nearly as fast.
 
-<!-- -->
 
 -   Use your faction's advantages. You will learn about them as you get
     more familiar with the game but a lot of them are already in
     different guides, including the ones I linked above.
 
-<!-- -->
 
 -   Don't overcommit with ACU. Even though not using your ACU for its
     firepower might seem as the mistake, and often it is so, in many
     cases it's too dangerous to use it aggressively, you need to "feel"
     when to play passively and when not.
 
-<!-- -->
 
 -   Build power is also a resource, sometimes killing a group of
     engineers can make more difference than raiding mexes.
@@ -409,7 +410,6 @@ build T2 sonars around the map.
     Beginner's Guide to Forged Alliance, and play a couple games to get
     a feel for the game. Next step would be to read this guide.
 
-<!-- -->
 
 -   After every game go and watch the replay, see what caused you to
     lose and be honest with yourself. Watch replays of people \~300
@@ -420,13 +420,11 @@ build T2 sonars around the map.
     picking things up from them will be quite difficult, but they are
     often a good source of build orders.
 
-<!-- -->
 
 -   Watch POV streams and videos, those will help you pick up things you
     couldn't pick up yourself from watching replays. It's a great way to
     entertain yourself and learn by watching a different point of view.
 
-<!-- -->
 
 -   There is a whole lot more to talk about, but those things will be
     talked about in future guides, or you can learn these more advanced
