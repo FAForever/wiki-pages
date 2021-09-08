@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T13:19:53.598Z
+date: 2021-09-08T20:23:25.954Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -217,12 +217,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
--   2016: [3652](3652 "wikilink"), [3654](3654 "wikilink"),
-    [3656](3656 "wikilink"), [3658](3658 "wikilink"),
-    [3660](3660 "wikilink"), [3662](3662 "wikilink"),
-    [3663](3663 "wikilink"), [3664](3664 "wikilink"),
-    [3665](3665 "wikilink"), [3666](3666 "wikilink"),
-    [3667](3667 "wikilink")
 -   2017: [3668](3668 "wikilink"), [3669](3669 "wikilink"),
     [3670](3670 "wikilink"), [3671](3671 "wikilink"),
     [3672](3672 "wikilink"), [3674](3674 "wikilink"),
