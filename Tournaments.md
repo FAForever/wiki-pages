@@ -2,7 +2,7 @@
 title: Tournaments
 description: 
 published: true
-date: 2021-09-08T08:07:09.226Z
+date: 2021-09-08T08:07:25.081Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:35.852Z
