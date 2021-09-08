@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-09-05T18:05:56.450Z
+date: 2021-09-08T13:27:37.147Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -32,6 +32,7 @@ These are the current members of the council:
 - ![cos-creative.png](/cos-icons/cos-creative.png) Creative Councillor: 
 		**Balthazar** (former: **biass**, **Morax**, **SilentWar**)
 
+## Tabs {.tabset}
 ### FAF Councillors Pledge
 
 All Councillors make a symbolic pledge to mark the assumption of their
@@ -51,7 +52,7 @@ As a nominee for The Players Councillor, I pledge that:
 
 Every Councillor additionally pledges towards their own responsibilities:
 
-#### Promoters Councillor
+### Promoters Councillor
 
 As a nominee for the Promoters Councillor, I pledge that:
 
@@ -63,7 +64,7 @@ As a nominee for the Promoters Councillor, I pledge that:
 >- I understand that if I am unable to perform accordingly, I will be replaced.
 >- I will handle all translations for the FAF announcements.
 
-#### Players Councillor
+### Players Councillor
 
 The Players Councillor is a member of the Council of Setons, who will be elected by the community to work on these  responsibilities:
 
@@ -73,7 +74,7 @@ The Players Councillor is a member of the Council of Setons, who will be elected
 >- Gather feedback from the FAF project community to determine their top desires and problems.
 >- Present and represent this information in the best interests of the players to the Council of Setons.
 
-#### Moderation Councillor
+### Moderation Councillor
 
 The Moderators Councillor is a member of the Council of Setons and is working on These Responsibilities:
 
@@ -84,7 +85,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 >- Approving of new avatars/control over given avatars
 >- Uphold the community rules in the game, chat and forums
 
-## FAF Moderators
+### FAF Moderators
 
 These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](FAF-chat#Chat-commands) to be given a list of online moderators.
 
@@ -115,7 +116,7 @@ IRC moderators (These are irc-only moderators)
 - **NarNerdPower**
 - **Viking**
 
-### **Past Moderators**
+#### **Past Moderators**
 - Exotic_Retard (RetardedIRC)
 - PhilipJFry
 - Com (VoRCom)
@@ -132,7 +133,7 @@ IRC moderators (These are irc-only moderators)
 - Upcast
 - Laticlave
 
-## Trainers
+### Trainers
 
 This is the updated list of Trainers.
 
@@ -159,7 +160,7 @@ Names Provided here are the names they go by on the FAF Discord.
 
 List of trainers happy to help you!
 
-## Tournament Directors
+### Tournament Directors
 
 This is a list of people who host [Tournaments](Tournaments "wikilink") on FAF. If you want to become one of them you can sign up by joining the [PC Discord](Voicechat_(Discord)#Other_Discord_Server "wikilink") and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
