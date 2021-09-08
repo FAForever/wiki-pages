@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T20:23:25.954Z
+date: 2021-09-08T20:25:12.817Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -201,16 +201,16 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="/patches/Game-&-Balance-Patchnotes-2016"> 2016</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Patches-2017"> 2017</a></li>
-<li><a href="Patches-2018"> 2018</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2017"> 2017</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2018"> 2018</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Patches-2019"> 2019</a></li>
-<li><a href="Patches-2020"> 2020</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2019"> 2019</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2020"> 2020</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Patches-2021"> 2021</a></li>
-<li><a href="Patches-2011"> 2022</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2021"> 2021</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2022"> 2022</a></li>
 </ul></td>
 <td></td>
 </tr>
