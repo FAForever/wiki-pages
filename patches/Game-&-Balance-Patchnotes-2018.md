@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T22:36:42.319Z
+date: 2021-09-08T22:42:44.496Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -26,6 +26,7 @@ dateCreated: 2021-09-08T22:36:42.319Z
 	>- BuildTime: 1750 → 2450
 	>- ShieldMaxHealth: 29000 → 25000
 	>- ShieldRegenRate: 37 → 32
+
 **UEF**
 - Nano-Repair System
 	>- NewHealth: 2000 → 1500
@@ -36,6 +37,7 @@ dateCreated: 2021-09-08T22:36:42.319Z
 - Shield Generator Field
 	>- BuildCostMass: 3000 → 3600
 	>- BuildTime: 2800 → 3400
+
 **Seraphim**
 - Refracting Chronotron Amplifier
 	>- AdditionalDamage: 750 → 620
@@ -46,36 +48,37 @@ dateCreated: 2021-09-08T22:36:42.319Z
 	>- BuildCostMass: 1200 → 1800
 	>- BuildTime: 1200 → 1800
 	>- NewHealth: 3000 → 2000
-        Enhanced Nano-Repair System
-            BuildCostMass: 4500 → 5800
-            BuildTime: 4200 → 4600
-    T3 Land Combat
-        Harbinger
-            Health: 4600 → 3050
-            Shield Health: 1300 → 1000
-            Shield Regen Rate: 9 → 30
-            Shield Recharge Time: 63 → 40
-            ShieldRegenStartTime: 3 → 2
-            Power Drain: 25 → 30
-            BuildTime: 4500 → 3600
-            Speed: 3 → 2.85
-            Acceleration: 3 → 3.2
-            Turn Rate: 120 → 130
-            Damage: 300 → 320
-            Rate of Fire: 1.25 → 1
-            Range: 28 → 26
-            Muzzle Velocity: 30 → 40
-            DPS: 375 → 320
-        Othuum
-            Health: 6700 → 5000
-            Acceleration: 2.6 → 3.5
-            SizeY: 0.45 → 0.65
-            SizeZ: 2.0 → 2.3
-            First 2 Guns:
-                Damage: 75 → 39
-                Muzzle Velocity: 35 → 40
-                Turret Yaw Speed: 90 → 120
-                Combined DPS: 300 → 156
+- Enhanced Nano-Repair System
+	>- BuildCostMass: 4500 → 5800
+	>- BuildTime: 4200 → 4600
+
+**T3 Land Combat**
+- Harbinger
+	>- Health: 4600 → 3050
+	>- Shield Health: 1300 → 1000
+	>- Shield Regen Rate: 9 → 30
+	>- Shield Recharge Time: 63 → 40
+	>- ShieldRegenStartTime: 3 → 2
+	>- Power Drain: 25 → 30
+	>- BuildTime: 4500 → 3600
+	>- Speed: 3 → 2.85
+	>- Acceleration: 3 → 3.2
+	>- Turn Rate: 120 → 130
+	>- Damage: 300 → 320
+	>- Rate of Fire: 1.25 → 1
+	>- Range: 28 → 26
+	>- Muzzle Velocity: 30 → 40
+	>- DPS: 375 → 320
+- Othuum
+	>- Health: 6700 → 5000
+	>- Acceleration: 2.6 → 3.5
+	>- SizeY: 0.45 → 0.65
+  >- SizeZ: 2.0 → 2.3
+  >- First 2 Guns:
+		- Damage: 75 → 39
+		- Muzzle Velocity: 35 → 40
+		-	Turret Yaw Speed: 90 → 120
+           Combined DPS: 300 → 156
             3rd Gun:
                 Damage: 400 → 525
                 Range: 32 → 28
