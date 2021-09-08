@@ -2,7 +2,7 @@
 title: New Starter Written Guides
 description: 
 published: true
-date: 2021-09-08T13:14:37.185Z
+date: 2021-09-08T13:17:03.171Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T12:15:09.463Z
