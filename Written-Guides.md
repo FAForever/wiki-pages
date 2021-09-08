@@ -2,7 +2,7 @@
 title: New Starter Written Guides
 description: 
 published: true
-date: 2021-09-08T12:26:20.997Z
+date: 2021-09-08T13:14:37.185Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T12:15:09.463Z
@@ -43,10 +43,10 @@ These guides are here to show you specific strategies, and help you play to thei
 ### Reference materials and detailed game mechanics
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 
-- For an overview of the factions in Supreme Commander visit: Faction Information
-- To learn more about the specific economy of Supreme Commander visit: Adjacency Bonus
-- For specific Information regarding the Engy mod patch visit: Engy Mod
-- To view unit stats, anc compare units with each other, visit: Unit Database
-- To see unit stats and calculations visit: FA Stats And Calculations
-- To view specific info about tactical and strategic missiles, visit: Missiles
-- Capacity of several air transports: Air Transport
+- For an overview of the factions in Supreme Commander visit: [Faction Information](Faction-Information)
+- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](Adjacency-Bonus)
+- For specific Information regarding the Engy mod patch visit: [Engy Mod](Engy-Mod)
+- To view unit stats, anc compare units with each other, visit: [Unit Database](Unit-Database)
+- To see unit stats and calculations visit: [FA Stats And Calculations](FA-Stats-And-Calculations)
+- To view specific info about tactical and strategic missiles, visit: [Missiles](Missiles)
+- Capacity of several air transports: [Air Transport](Air-Transport)
