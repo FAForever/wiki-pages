@@ -2,13 +2,226 @@
 title: Game & Balance Patchnotes 2016
 description: 
 published: true
-date: 2021-09-08T20:00:06.259Z
+date: 2021-09-08T20:17:33.908Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-02T15:31:25.811Z
 ---
 
 # Complete changelog of all changes in 2016 {.tabset}
+
+
+## 3662
+### Welcome to the patchnotes for the 3662 patch.
+These are the less controversial changes from the finished patch that will get released now. The more controversial changes will be decided after a community vote about the general direction and organization of balancing.
+
+It contains a few bugfixes, some adjustments, additions and improvements to changes of the last patch and new things like the Janus that finally gets some real love.
+
+We wish you good luck and much fun playing with the new patch!
+
+-- The balanceteam
+
+### Land
+
+**Thistle:**
+While the bomber changes of the first part can either be beneficial for aeon players and their auroras or not, the t2 nerfs were definitely welcome for them. To even this out a little bit, aeon t1 mma will now not survive a single bomb like the others, and can tank less damage in ground battles, but gets a small compensation in range.
+>Health: 360 → 250
+Range: 32 → 35
+
+### Air
+
+**Janus:**
+The janus bomber already saw significant improvements to its accuracy in the first part of the patch, but it wasn't the end of the process. This change re-works the bomber's firing cycle to ensure a large, even spread. The goal is to make it a more versatile and useful (and being made fun of less) unit, while being different to the other t2 bombers. Where the other t2 bombers are most useful to take out single targets, the role of the janus will lie more in taking out large armies with its AOE.
+>Number of Bomb Carpets: 2 → 3
+DoTTime (Damage over Time Time, yes that's how it's called): 2.5 → 4
+Total Damage (if all bombs hit, for which you need to hit multiple units): 1200 → 1800
+
+**T1 Bombers**
+>After observing the bomber changes from the last patch for a while now, and with a greater number of games to judge them, we are able to finetune the new bombers a little bit more.
+Mass cost: 120 → 105
+Energy cost: 2400 → 2450
+Build time: 800 → 700
+
+**Mercy:**
+>Mercies shouldn't circle in the air for a long time and run out of fuel before landing anymore.
+
+### Structures
+
+**Aeon TMD:**
+The last bugfixes with the Aeon TMD caused it to be even better at stopping missiles than it should have been.
+>Rate of fire: 0.32 → 0.25
+
+**T2 Land HQ:**
+This is another change where we are able to finetune the numbers as we got more information and feedback about the change since the last patch.
+>Mass cost: 1280 → 1170
+Energy cost: 11200 → 9100
+
+**Airstaging Platform:**
+We decreased the staging 'size' of most aircraft to make docking an easier and quicker process. Air staging platforms are now able to service more higher tech planes at once.
+
+### ACUs
+**RAS & ARAS:**
+Nerfs to RAS have been discussed for a long time, as the powerful RAS had a couple of negative effects like a much faster jump to T3 air, especially in teamgames. Along with this, RAS SCUs become more expensive in power to make it a bit less easy decision to choose between them or massfabs in the lategame.
+>ACU RAS:
+>- BuildTime: 1400 → 2800
+>- Energy cost: 150000 → 175000
+>- Aeon income: 18 mass, 2700 energy → 1700 energy
+>- Seraphim income: 16 mass, 3000 energy → 2000 energy
+>- UEF income: 14 mass, 3300 energy → 2500 energy
+>- Cybran income: 12 mass, 3500 energy → 2700 energy
+
+>SCU RAS:
+>- Energy cost: 60000 → 90000
+
+**T2 & T3 Upgrade:**
+The tech upgrades get some of their regen back to give ACUs an easy way to regenerate health again, but without making it able to compete with the Nano upgrades. The HP nerf for the T2 ACU gets reduced slightly to reduce the negative effects of it, but is replaced with a small cost increase for the dominant upgrade.
+
+>T2 Upgrade:
+>- Health Regeneration: 0 → +10
+>- Health: +1500 → +2000
+>- Energy cost: 18000 → 21000
+>- Mass cost: 720 → 800
+>- Build Time: 900 → 1000
+
+>T3 Upgrade:
+>- Health Regeneration: 0 → +20
+
+**UEF ACU:**
+Several ACU upgrades got reduced cost to allow them to be built earlier and allow for more aggressive ACU action. Especially regarding the nerfs to the T2 upgrade last patch, which reduced the power of both, attacking and defending ACUs, this changes should give players who like to play more aggressive additional tools.
+>Nano-Repair System:
+>- Energy cost: 44800 → 24000
+>- Mass cost: 1200 → 800
+>- Build time: 1400 → 800
+>- Health: +2000
+>- Health Regeneration: +60 → +40
+
+**Seraphim ACU:**
+>Nano-Repair System:
+>- Energy cost: 90000 → 42000
+>- Mass cost: 2000 → 1200
+>- Build time: 2800 → 1200
+>- Health Regeneration: +75 → +60
+>- Health: 6000 → 3000
+
+**Aeon ACU:**
+While the first aeon shield was in a good place, the second one was largely unused. The old second shield got removed completely, the old first shield got moved to be now the second shield. The new first shield is a moderately strong and cheap mid-game upgrade.
+>Personal Shield Generator:
+>- Energy cost: 93750 → 35000
+>- Mass cost: 1500 → 1000
+>- Build time: 1750 → 1000
+>- Shield Health: 29000 → 8000
+>- Shield Upkeep: 250 → 150
+>- ShieldRechargeTime: 160 → 65
+>- ShieldRegenRate: 37 → 30
+
+>Heavy Shield Generator:
+>- Energy cost: 1000000 → 93750
+>- Mass cost: 4500 → 1500
+>- Build time: 3500 → 1750
+>- Shield Health: 44000 → 29000
+>- Shield Upkeep: 500 → 250
+>- ShieldRechargeTime: 200 → 160
+>- ShieldRegenRate: 44 → 37
+
+### Bug Fixes
+**Flapjack:**
+- The Flapjack now does friendly fire damage like all other MMLs.
+**Selen:**
+- The Selen stealth mechanic has been further improved. Manual toggle shifts selection priority and toggles weapon off now. Motion toggles stealth.
+**Aeon naval TMD:**
+- Aeon TMD on ships was broken following the previous patch's change to the mechanics of aeon tmd. It should be fixed with this patch.
+**Transport drop acceleration:**
+- Units will no longer accelerate out of a transport at a target with pre-given orders. This was mainly used when dropping firebeetles to snipe ACUs.
+
+### BlackOps Cloak VFX
+The visual effects for cloaked units from the BlackOps mod series have been added to the main game. You can see them at work when your Selen, Mole or Cybran ACU/sACU is cloaked!
+
+
+
+
+
+
+
+
+
+## 3660
+### Lobby
+- Fixed team number switching slots alongside a player
+- Added new feature: Kick Reasons. When kicking a player from your lobby, you get a new dialog. You may type in a reason for the kick to notify the player. If you blank it, or leave the message as presented, it will play the old message.
+- Fixed Cheat and Build multipliers for AIs showing 1.0 - 1.9 two times
+- Fixed rating labels being shown on the minimap when teams are not set to 'Fixed'
+- Made it clearer that there's a search filter in the map selection
+- Added new unit share conditions for interesting new gameplay. "Full Share" and "Share Until Death" have been joined by "Traitors", which gifts all your units to the player who killed you (Very interesting for FFA games), "Defectors", which is the opposite of Full Share, gifting your units to the highest scoring enemy, and "Civilian Desertion", which gifts your units to a neutral civilian AI, if there is one.
+- Improved the tooltip when hovering over your score in the lobby. It will now show a more detailed explanation including your rating deviation
+- Fixed the position of the load button in Skirmish mode when launching offline
+- Fixed 'Odd vs Even' autoteam button for random faction being the same as the 'Top vs Bottom'
+- Fixed new players joining a lobby being unable to see closed slots as being closed
+- Fixed auto team settings not working for games with >8 players
+- Changed 'Remove Player' to 'Kick Player' for clarity
+- Removed nonfunctional 15 and 30 minute no-rush options
+- Fixed the game crashing if you attempted to save a new preset
+### Coop
+- Fixed cinematics playing in coop games
+- Improved AI sACU usage
+- Fixed objective protection timer
+- Fixed information sent to the server for leaderboard purposes
+### Gameplay
+- Improved Selen toggle. It now behaves with no abilities by default, then when toggled on it hides and shows based on motion as before
+- Added dummy weapon to Aeon T2 Transport to allow LABs to be targeted to specific enemies
+- Allowed UEF T2 Transport to be given targets while landed on water
+- Enabled templates to be created with modded units as the primary unit
+- New feature: Delayed Unit Transfer. Hold shift while giving a unit to another player to have it transfer once it finishes the command queue. Partiicularly useful when used with transports
+- New feature: You can now cap mass extractors with storage by right-clicking a T2 or T3 mex, or double-shift-right-clicking an upgrading T1 or T2 mex, with an Engineer
+- New feature: All ACUs now begin the game pointed towards the centre of the map, making things fairer between north and south on most maps
+- Greatly improved teleport visuals for all ACUs and sACUs. Some of these effects are only used in coop
+- T2 Artillery should more rarely shoot the floor in front of themselves in odd terrain situations
+- Fixed Mermaid being unable to be hit by Neptune and Seraphim Destroyer fire
+- Share Until Death now kills your walls as well. All other modes leave them intact
+### Bugs
+- Fixed units carried by UEF T2 Gunship from firing from inside a carrier
+- Fixed Salvation fire rate slowing at max adjacency instead of speeding up
+- Fixed units being able to fire at aircraft docked inside carriers, damaging the carrier
+- Fixed games not ending properly with AIs
+- Fixed Continental not dying to nukes (Again)
+- Fixed upgraded structures not being targetable via radar blip
+- Fixed shared unit cap taking civilian armies into account when sharing on player death
+- Fixed UEF sACU AOE upgrade removal reducing the AOE too far
+- Fixed the Spiderbot's laser beam getting stuck on temporarily while the unit executed the death animation
+- Fixed the Cybran ACU wandering off long distance when told to assist various buildings with an enemy in the rough vicinity. It will still happen if the unit is much closer, but we should no longer have ACUs walking across the map to go kill themselves on enemy PD
+- Fixed Seraphim ACU weapon trail showing when zoomed out
+- Fixed Neptune Class weapon getting stuck on during death sequence
+- Fixed a large number of projectiles showing the trails through fog of war
+- Fixed T3 Mobile Artillery not quite being able to fire to the edge of their radius in some circumstances
+- Fixed Siren ground toggle weapon using air weapon target priorities
+- Fixed an error in timer resolution in coop mode
+### UI
+- Fixed UEF Engineering station strategic icon not matching the tech level
+- Added missing strategic build icons used in "Bigger" mode
+- Fixed displayed abilities on several units
+- Fixed unit descriptions on support factories displaying for the wrong ones
+- Fixed game quality displaying a corrupted string
+- Fixed the scroll button in ACU enhancements freezing the tooltip popup action
+- Added mod icon support for various UI elements
+- Added build mode support for SCU presets
+- Fixed a large number of tooltips not having proper localization
+- Added some tooltips to features previously missing them
+- Added ability to toggle reclaim labels. Set to Alt-R by default. You may have to bind this manually in the F1 menu.
+- Massively improved reclaim label implementation to remove lag when zooming or panning
+- Fixed a bug which caused the menu to block the top-left of the screen in ladder games
+### Other
+- Removed obsolete strategic icons and corrected file paths inside Hotstats module
+- Fixed custom FAF player colours conflicting with Steam launcher
+- Added German translation to FAF
+### Contributors
+Crotalus
+Exotic-Retard
+IceDreamer
+Ithilis
+Justify87
+SlinkingAnt
+Speed2
+Uveso
+
 
 ## 3658
 ### Exploits
