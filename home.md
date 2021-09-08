@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T11:37:19.558Z
+date: 2021-09-08T11:38:27.297Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -42,7 +42,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 
 <table>
 <tbody>
-<tr class="odd">
+<tr>
 <td><ul>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Learning SupCom</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
