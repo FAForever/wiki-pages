@@ -2,14 +2,13 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-09-06T17:13:54.593Z
+date: 2021-09-08T13:44:27.540Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T12:44:10.511Z
 ---
 
-# Complete Changelog of all chnages in 2011
-
+# Complete Changelog of all chnages in 2011 {.tabset}
 ## 3609
 ### FAF-related changes and fixes
 - Title screen and replay files are displaying the correct patch version.
