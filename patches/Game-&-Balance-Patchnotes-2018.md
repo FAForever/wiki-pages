@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T22:54:08.687Z
+date: 2021-09-08T23:15:58.998Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -123,106 +123,106 @@ dateCreated: 2021-09-08T22:36:42.319Z
 		-	Turret Yaw Speed: 60 → 90
 		-	DPS: 375 → 312.5
 - Loyalist
-            Health: 3100 → 3000
-            Speed: 4 → 3.8
-            Acceleration: 4 → 4.2
-            EMP explosion on death:
-                Duration: 2s → 1.4s
-                Affected by Stun: Mobile Units → Mobile Units - except for T4 and ACUs
-            1st Weapon (Disintegrator Pulse Laser):
-                Damage: 175 → 150
-                Range: 25 → 20
-                DPS: 175 → 150
-            2nd Weapon (Heavy Electron Bolter):
-                Damage: 12 → 14
-                Range: 25 → 20
-                Muzzle Velocity: 40 → 35
-                TurretYawSpeed: 90 → 120
-                DPS: 30 → 35
+	>- Health: 3100 → 3000
+	>- Speed: 4 → 3.8
+	>- Acceleration: 4 → 4.2
+	>- EMP explosion on death:
+		- Duration: 2s → 1.4s
+		- Affected by Stun: Mobile Units → Mobile Units - except for T4 and ACUs
+	>- 1st Weapon (Disintegrator Pulse Laser):
+		- Damage: 175 → 150
+		- Range: 25 → 20
+		- DPS: 175 → 150
+	>- 2nd Weapon (Heavy Electron Bolter):
+		- Damage: 12 → 14
+		- Range: 25 → 20
+		- Muzzle Velocity: 40 → 35
+		- TurretYawSpeed: 90 → 120
+		- DPS: 30 → 35
 
-T3 Ranged Units
-            Sprite Striker
-                Mass Cost: 640 → 720
-                Build Time: 3600 → 4000
-                Health: 450 → 500
-                Speed: 3 → 2.85
-                Sizex: 0.8 → 0.95
-                SizeY: 1.15 → 1.35
-                SizeZ: 0.6 → 0.8
-                Firing Randomness while moving: 0.5 → 0.3
-                Rate of Fire: 0.142 → 0.15
-                MuzzleVelocity: 120 → 90
-                TurretYawSpeed: 90 → 110
-                Usha-Ah
-                Mass Cost: 640 → 800
-                Energy Cost: 8000 → 8800
-                Build Time: 3600 → 4300
-                Health: 500 → 700
-                Speed: 3 → 2.5
-                Acceleration: 3 → 2.5
-                UniformScale: 0.08 → 0.095
-                SizeX: 0.35 → 0.45
-                SizeY: 1.2 → 1.55
-                SizeZ: 0.7 → 0.9
-                Default Fire Mode:
-                    Firing Randomness while moving: 0.25 → 0.4
-                    Rate of Fire: 0.2 → 0.25
-                    Firing Tolerance: 0.5 → 3
-                    Muzzle Velocity: 120 → 80
-                    TurretYawSpeed: 90 → 70
-                Ranged Fire Mode:
-                    Firing Randomness while moving: 0.5 → 0.2
-                    Rate of Fire: 0.07 → 0.066
-                    TurretYawSpeed: 90 → 50
-        T3 Mobile Artillery
-            Build time is reduced for T3 mobile artillery.
-            Build Time: 4800 → 4300
-    Experimental Units
-        Cybran
-            Monkeylord
-                Build Time: 15750 → 27500
-                Mass Cost: 19000 → 20000
-            Megalith
-                Build Time: 18750 → 60 625
-            Soul Ripper
-                Build Time: 20000 → 56250
-            Scathis
-                Build Time: 50000 → 80000
-        UEF
-            Fatboy
-                Build Time: 21 000 → 47 500
-                Shield Recharge Time: 160 → 120
-                Shield Regen Rate: 64 → 100
-                Power Upkeep cost: 500 → 600
-            Atlantis
-                Build Time: 14 400 → 20 500
-            Novax Center
-                Build Time: 25 000 → 30 000
-        Aeon
-            Galactic Colossus
-                Power Cost: 343 750 → 330 000
-                Build Time: 20 625 → 51500
-                Claws:
-                    Fixed a bug with the claws, credit to EQ.
-                    Rate of Fire: 1 → 0.15
-            Czar
-                Build Time: 33 750 → 50 625
-            Tempest
-                Build Time: 14 400 → 28 000
-                Muzzle Velocity: 28 → 35
-        Seraphim
-            Ythotha
-                Build Time: 18750 → 46 875
-                Mass Cost: 25 000 → 26 500
-                Power Cost: 312 500 → 330 000
-                Phason Beam Generator Damage: 8000 → 6000
-                Gatling Plasma Cannon Damage: 550 → 610
-                Heavy Sinn Unthe Cannon Damage: 1200 → 1850
-                Flak Damage: 39 → 46
-                Flak Range: 25 → 21
-            Ahwassa
-                Build Time: 36000 → 67500
-    Navy
+**T3 Ranged Units**
+- Sprite Striker
+	>- Mass Cost: 640 → 720
+	>- Build Time: 3600 → 4000
+	>- Health: 450 → 500
+	>- Speed: 3 → 2.85
+	>- Sizex: 0.8 → 0.95
+	>- SizeY: 1.15 → 1.35
+	>- SizeZ: 0.6 → 0.8
+	>- Firing Randomness while moving: 0.5 → 0.3
+	>- Rate of Fire: 0.142 → 0.15
+	>- MuzzleVelocity: 120 → 90
+	>- TurretYawSpeed: 90 → 110
+- Usha-Ah
+	>- Mass Cost: 640 → 800
+	>- Energy Cost: 8000 → 8800
+	>- Build Time: 3600 → 4300
+	>- Health: 500 → 700
+	>- Speed: 3 → 2.5
+	>- Acceleration: 3 → 2.5
+	>- UniformScale: 0.08 → 0.095
+	>- SizeX: 0.35 → 0.45
+	>- SizeY: 1.2 → 1.55
+	>- SizeZ: 0.7 → 0.9
+	>- Default Fire Mode:
+		- Firing Randomness while moving: 0.25 → 0.4
+		- Rate of Fire: 0.2 → 0.25
+		- Firing Tolerance: 0.5 → 3
+		- Mzzle Velocity: 120 → 80
+		- TurretYawSpeed: 90 → 70
+	>- Ranged Fire Mode:
+		- Firing Randomness while moving: 0.5 → 0.2
+		- Rate of Fire: 0.07 → 0.066
+		- TurretYawSpeed: 90 → 50
+**T3 Mobile Artillery**
+- Build time is reduced for T3 mobile artillery.
+- Build Time: 4800 → 4300
+**Experimental Units**
+- Cybran
+	>- Monkeylord
+		- Build Time: 15750 → 27500
+		- Mass Cost: 19000 → 20000
+	>- Megalith
+		- Build Time: 18750 → 60 625
+	>- Soul Ripper
+		- Build Time: 20000 → 56250
+	>- Scathis
+		- Build Time: 50000 → 80000
+- UEF
+	>- Fatboy
+		- Build Time: 21 000 → 47 500
+		- Shield Recharge Time: 160 → 120
+		- Shield Regen Rate: 64 → 100
+		- Power Upkeep cost: 500 → 600
+	>- Atlantis
+		- Build Time: 14 400 → 20 500
+	>- Novax Center
+		- Build Time: 25 000 → 30 000
+- Aeon
+	>- Galactic Colossus
+		- Power Cost: 343 750 → 330 000
+		- Build Time: 20 625 → 51500
+		- Claws:
+			- Fixed a bug with the claws, credit to EQ.
+			- Rate of Fire: 1 → 0.15
+	>- Czar
+		- Build Time: 33 750 → 50 625
+	>- Tempest
+		- Build Time: 14 400 → 28 000
+		- Muzzle Velocity: 28 → 35
+- Seraphim
+	>- Ythotha
+		- Build Time: 18750 → 46 875
+		- Mass Cost: 25 000 → 26 500
+		- Per Cost: 312 500 → 330 000
+		- Phason Beam Generator Damage: 8000 → 6000
+		- Gatling Plasma Cannon Damage: 550 → 610
+		- Heavy Sinn Unthe Cannon Damage: 1200 → 1850
+		- Fak Damage: 39 → 46
+		- Flak Range: 25 → 21
+	>- Ahwassa
+		- Build Time: 36000 → 67500
+**Navy**
         Battleships
             Seraphim
                 FiringRandomness: 0.3 → 0.25
