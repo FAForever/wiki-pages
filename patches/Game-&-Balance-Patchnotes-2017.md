@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T22:07:03.706Z
+date: 2021-09-08T22:07:32.761Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -57,10 +57,10 @@ PhilipJFry
 			Mass Build Cost: 240 → 300
 			Build Time: 1600 → 2000
 			Damage: 12 → 16
-      
 		- T3 Gunships
 			Cybran T3 Gunships have a personal stealth ability instead of radar jamming.
     - UEF T3 Gunships have radar jamming.
+    
     Novax Satellite
         Speed: 6 → 9
         Radar Range: 70 → 150
