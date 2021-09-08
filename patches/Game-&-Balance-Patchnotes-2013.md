@@ -2,13 +2,13 @@
 title: Game & Balance Patchnotes 2013
 description: 
 published: true
-date: 2021-08-31T15:09:21.506Z
+date: 2021-09-08T13:48:37.010Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:46:17.963Z
 ---
 
-# Complete changelog of all changes in 2013
+# Complete changelog of all changes in 2013 {.tabset}
 ## 3628
 This patch is a graphic enhancement patch only.
 
