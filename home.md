@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T10:29:08.312Z
+date: 2021-09-08T10:29:19.877Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -20,8 +20,8 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="FAF-chat"> FAF chat</a></li>
-<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards-and-Rating"> Leaderboards and Rating</a></li>
-<li><img src="/faf-client-icons/tmm-icon.png"><a href="The-Ladder"> Team Matchmaker</a></li>
+<li><a href="Leaderboards-and-Rating"> Leaderboards and Rating</a></li>
+<li><a href="The-Ladder"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host and join games</a></li>
