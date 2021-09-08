@@ -1,3 +1,13 @@
+---
+title: Tournaments
+description: 
+published: true
+date: 2021-09-08T08:07:09.226Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:45:35.852Z
+---
+
 <s>= Challonge = Tournaments are normally managed on Challonge. You can
 view past tournaments
 [here](http://challonge.com/games/supreme-commander-forged-alliance/tournaments)
@@ -79,7 +89,6 @@ rating](Leaderboards_and_Rating "wikilink") limitations. Usual time for
     -   3\. place: [Faction Logo
         Avatar](Tournaments#All_Avatars_For_Tournament_Winners "wikilink")
 
-<!-- -->
 
 -   Previous Champions:
     -   **Ceneraii** ([Full
