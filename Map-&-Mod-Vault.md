@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-09-05T18:10:32.783Z
+date: 2021-09-08T13:38:45.191Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -54,10 +54,10 @@ You can select from the top UI or SIM. As long as the Mod is highlighted in blue
 ## Mod types
 There are two types of mods; Sim mods and UI mods.
 
-### [UI Mods](Game-Modifications-(Mods)#UI-Mods)
+### [UI Mods](/Game-Modifications-(Mods)#UI-Mods)
 
 UI mods are mods which are activated on a per-person basis and have no effect on other players in the game. As the name implies, they are usually changes and enhancements to the UI and can make playing the game easier. UI mods should never make a game unrated.
 
-### [Sim Mods](Game-Modifications-(Mods)#Sim-Mods)
+### [Sim Mods](/Game-Modifications-(Mods)#Sim-Mods)
 
 Sim mods are mods which affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game, such as [TheNomads](The_Nomads "wikilink") and [Black Ops](Black_Ops "wikilink"). Most Sim mods make a game unrated. See [When is the gamerated?](Global_Ranking#When_is_the_game_rated.3F "wikilink")
