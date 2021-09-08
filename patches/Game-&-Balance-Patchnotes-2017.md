@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T22:09:07.671Z
+date: 2021-09-08T22:12:42.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -71,28 +71,26 @@ PhilipJFry
     
 	- Flapjack
 		- Volley size: 3 → 2
-    Seraphim T1 submarines
-        Torpedo Defense Rate of Fire 0.05 → 0.2
-    Massfabs
-        T2 Massfabs
-            mass cost: 100 → 200
-            power drain: 150 → 100
-        T3 Massfabs
-            mass cost: 3000 → 4000
-            power cost: 65000 → 120000
-            build time: 4988 → 5000
-            power drain: 3500 → 1500
-            mass gain: 12 → 16
-            adjacency bonus on 1x1, 2x2, 3x3 structures buffed to 20%
-            adjacency bonus on 5x5 structures buffed to 3.75%
-
-Contributors
-
-    Exotic-Retard
-    IceDreamer
-    JaggedAppliance
-    MrNukealizer
-    PhilipJFry
+	- Seraphim T1 submarines
+		- Torpedo Defense Rate of Fire 0.05 → 0.2
+	- Massfabs
+		- T2 Massfabs
+			>mass cost: 100 → 200
+			power drain: 150 → 100
+		- T3 Massfabs
+			>mass cost: 3000 → 4000
+			power cost: 65000 → 120000
+			build time: 4988 → 5000
+			power drain: 3500 → 1500
+			mass gain: 12 → 16
+			adjacency bonus on 1x1, 2x2, 3x3 structures buffed to 20%
+			adjacency bonus on 5x5 structures buffed to 3.75%
+### Contributors
+Exotic-Retard
+IceDreamer
+JaggedAppliance
+MrNukealizer
+PhilipJFry
 
 
 ## 3686
