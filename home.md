@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T11:35:28.209Z
+date: 2021-09-08T11:35:46.941Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -32,28 +32,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/cos-icons/cos-moderation.png"><a href="User-Group#faf-moderators"> FAF Moderators</a></li>
 <li><img src="/personal_trainer_avatar.png"><a href="User-Group#trainers"> Trainers</a></li>
 <li><img src="/tournament_director.png"><a href="User-Group#tournament-directors"> Tournament Directors</a></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## **User Groups**
-
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><a href="User-Groups#faf-moderators"> FAF Moderators</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#trainers"> Trainers</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#council-of-setons"> Council of Setons</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
 </ul></td>
 <td></td>
 </tr>
