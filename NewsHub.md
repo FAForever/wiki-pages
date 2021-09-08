@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-09-05T18:07:37.784Z
+date: 2021-09-08T07:59:48.478Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -21,7 +21,7 @@ The Normal article the Base News articles will be under E.G New Video Out, Ladde
 **3) Hero Article**
 The Hero article is uses when something big has happened in the community or Tournament Winners E.G. Balance & Game Patch’s, Big Tournament Announcements and Much more.
 
-**4) Right Side Panel**
+**4) [Right Side Panel](/Right-Side-Panel)**
 The Right side Panel is a section were information is more likely to stay when the news is updated.
 
 **5,6,7) Left, Mid and Right Sidebar**
