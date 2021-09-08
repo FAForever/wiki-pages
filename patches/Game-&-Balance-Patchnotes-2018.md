@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T22:42:44.496Z
+date: 2021-09-08T22:45:48.962Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -78,13 +78,13 @@ dateCreated: 2021-09-08T22:36:42.319Z
 		- Damage: 75 → 39
 		- Muzzle Velocity: 35 → 40
 		-	Turret Yaw Speed: 90 → 120
-           Combined DPS: 300 → 156
-            3rd Gun:
-                Damage: 400 → 525
-                Range: 32 → 28
-                Muzzle Velocity: 30 → 40
-                DPS: 100 → 131
-            Torpedo Weapon:
+		- Combined DPS: 300 → 156
+	>- 3rd Gun:
+		- Damage: 400 → 525
+		- Range: 32 → 28
+		- Muzzle Velocity: 30 → 40
+		- DPS: 100 → 131
+	>- Torpedo Weapon:
                 Range: 32 → 28
             Target Priorities: Othuum now prioritises T3 over T2 over T1 instead of the reverse.
         Percival
