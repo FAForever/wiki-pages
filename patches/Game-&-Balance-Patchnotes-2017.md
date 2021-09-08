@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T22:19:09.565Z
+date: 2021-09-08T22:20:54.041Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -43,49 +43,46 @@ dateCreated: 2021-09-08T20:45:18.342Z
 - Fixed Czar beam not vanishing on death
 
 ### UI
--    Changed Salvation to be categorized as an experimental instead of a t3 building
--    Fixed ACU power consumption not correct after Overcharge
--    Fixed and improved the sim dialog window
--    Fixed rendering of reload bars
--    Fixed bug with the notify overlay in replays
--    Fixed a bug where using split-screen mode would break reclaim labels
--    Added personal stealth to HARMS ability list
--    Adjusted some army colours. A new Order Green, a slightly lighter dark blue, and a golden Seraphim colour from the campaign.
--    Fixed Attack-Move icon being greyed out permanently
--    Fixed veterancy UI not showing for non-default screen layouts
--    Fixed Bulwark dummy shield range ring being the wrong size
--    Allowed mod icon support for ACU upgrades
--    Refined some UI tips. Engineers now display "Engineering Suite" only, with "Reclaims" and "Repairs" being saved for special case units like the Harbinger
+- Changed Salvation to be categorized as an experimental instead of a t3 building
+- Fixed ACU power consumption not correct after Overcharge
+- Fixed and improved the sim dialog window
+- Fixed rendering of reload bars
+- Fixed bug with the notify overlay in replays
+- Fixed a bug where using split-screen mode would break reclaim labels
+- Added personal stealth to HARMS ability list
+- Adjusted some army colours. A new Order Green, a slightly lighter dark blue, and a golden Seraphim colour from the campaign.
+- Fixed Attack-Move icon being greyed out permanently
+- Fixed veterancy UI not showing for non-default screen layouts
+- Fixed Bulwark dummy shield range ring being the wrong size
+- Allowed mod icon support for ACU upgrades
+- Refined some UI tips. Engineers now display "Engineering Suite" only, with "Reclaims" and "Repairs" being saved for special case units like the Harbinger
 
-Lobby
+### Lobby
+- Changed background faction images to widescreen versions
+- Fixed missing dependency bug for non hosts in lobbies
+- Overhauled and refined the mod manager
 
-    Changed background faction images to widescreen versions
-    Fixed missing dependency bug for non hosts in lobbies
-    Overhauled and refined the mod manager
+### Other
+- Fixed typo in Novax center bones
+- Prevented the execution of certain game-breaking console commands
+- Allow AI to rebuild upgraded engineering stations in coop missions
+- Added game time to the log every 30 seconds
+- Added timeout for the overcharge ready notification message to avoid voice spam
+- Added rotation animation to the t2 aeon power generator
+- Fixed blacklist for coop maps
+- Added more naval templates to OpAI
+- Updated mod blacklist
 
-Other
-
-    Fixed typo in Novax center bones
-    Prevented the execution of certain game-breaking console commands
-    Allow AI to rebuild upgraded engineering stations in coop missions
-    Added game time to the log every 30 seconds
-    Added timeout for the overcharge ready notification message to avoid voice spam
-    Added rotation animation to the t2 aeon power generator
-    Fixed blacklist for coop maps
-    Added more naval templates to OpAI
-    Updated mod blacklist
-
-Contributors
-
-    basdawimp
-    CookieNoob
-    Hussar
-    IceDreamer
-    MrNukealizer
-    PhilipJFry
-    Speed2
-    supcomBlackMaster
-    Uveso
+### Contributors
+basdawimp
+CookieNoob
+Hussar
+IceDreamer
+MrNukealizer
+PhilipJFry
+Speed2
+supcomBlackMaster
+Uveso
 
 ## 3690
 ### Bugs
