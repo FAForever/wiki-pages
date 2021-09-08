@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-09-08T13:41:15.627Z
+date: 2021-09-08T13:43:08.396Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -48,12 +48,13 @@ It can be accessed through the "Vaults" tab in the lobby and contains a large am
 To find a mod, simply type in it's name into the search bar, and if it doesn't appear, press the "Server Search" button which will look through the whole mod list.
 
 ### Managing Mods
-Click on Manage Active Mods Button to open the selection.
-![active-mod-manager.png](/active-mod-manager.png)
-You can select from the top UI or SIM. As long as the Mod is highlighted in blue it is selected.
-## Mod types {.tabset}
 There are two types of mods; Sim mods and UI mods.
 
+Click on Manage Active Mods Button to open the selection.
+You can select from the top UI or SIM. As long as the Mod is highlighted in blue it is selected.
+![active-mod-manager.png](/active-mod-manager.png)
+
+## Mod types {.tabset}
 ### UI Mods
 
 [UI mods](/Game-Modifications-(Mods)#UI-Mods) are mods which are activated on a per-person basis and have no effect on other players in the game. As the name implies, they are usually changes and enhancements to the UI and can make playing the game easier. UI mods should never make a game unrated.
@@ -61,3 +62,5 @@ There are two types of mods; Sim mods and UI mods.
 ### SIM Mods
 
 [Sim mods](/Game-Modifications-(Mods)#Sim-Mods) are mods which affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game, such as [TheNomads](The_Nomads "wikilink") and [Black Ops](Black_Ops "wikilink"). Most Sim mods make a game unrated. See [When is the gamerated?](Global_Ranking#When_is_the_game_rated.3F "wikilink")
+
+
