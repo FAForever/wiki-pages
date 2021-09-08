@@ -2,13 +2,13 @@
 title: Game & Balance Patchnotes 2014
 description: 
 published: true
-date: 2021-08-31T15:33:52.019Z
+date: 2021-09-08T13:49:06.206Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:23:30.189Z
 ---
 
-# Complete changelog of all changes in 2014
+# Complete changelog of all changes in 2014 {.tabset}
 
 ## 3636
 It’s been a long time in the making, but patch 3636 is here at last. It’s a patch motivated by exploits and bugs that were in 3634, and as such there are no direct balance changes included. These will be developed as part of the next patch, 3637.
