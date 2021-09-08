@@ -2,18 +2,13 @@
 title: Game & Balance Patchnotes 2016
 description: 
 published: true
-date: 2021-09-02T15:31:25.811Z
+date: 2021-09-08T13:49:36.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-02T15:31:25.811Z
 ---
 
-# Complete changelog of all changes in 2016
-
-
-
-
-
+# Complete changelog of all changes in 2016 {.tabset}
 
 ## 3658
 ### Exploits
