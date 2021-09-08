@@ -2,7 +2,7 @@
 title: NewsHub Right Side Information Panel
 description: This is where all the long term links are stored for players to be able to access!
 published: true
-date: 2021-09-08T08:12:46.955Z
+date: 2021-09-08T08:13:08.109Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T08:05:03.475Z
@@ -18,7 +18,7 @@ To alow for stuff to be costaly updated in a better format eveything will be mov
 
 [Tournaments](/Tournaments)
 
-[FAQ]()
+[FAQ](https://forum.faforever.com/category/18/frequently-asked-questions)
 
 [FAF Projects](/Projects)
 
