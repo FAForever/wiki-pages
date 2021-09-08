@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T20:45:18.342Z
+date: 2021-09-08T20:46:25.738Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -10,8 +10,15 @@ dateCreated: 2021-09-08T20:45:18.342Z
 
 # Complete changelog of all changes in 2016 {.tabset}
 
-
-
+## 3681
+### Bugs
+- Fixed always loading the default or last map, which broke COOP
+- Fixed a typo which broke All Faction Templates
+### Other
+- Reverted the changes to lobby text showing faction colours due to community feedback. This feature will reappear as an option in the future.
+### Contributors
+Icedreamer
+MrNukealizer
 ## 3680
 ### Gameplay
 - New feature: Dead air unit wrecks now bounce off shields. The amount of bounce depends on the unit's momentum and angle of approach. Some of the crash damage is transferred to the shield. Unit wrecks can only bounce once. Doesn't affect Experimentals.
