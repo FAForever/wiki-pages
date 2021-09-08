@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T22:07:47.970Z
+date: 2021-09-08T22:09:07.671Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -58,18 +58,19 @@ PhilipJFry
 			Build Time: 1600 → 2000
 			Damage: 12 → 16
 		- T3 Gunships
-			Cybran T3 Gunships have a personal stealth ability instead of radar jamming.
+			- Cybran T3 Gunships have a personal stealth ability instead of radar jamming.
 		- UEF T3 Gunships have radar jamming.
     
-    Novax Satellite
-        Speed: 6 → 9
-        Radar Range: 70 → 150
-        Omni Range: 0 → 50
-        Energy Cost: 80000 → 160000
-        Mass Cost: 5000 → 10000
-        Build Time: 15000 → 30000
-    Flapjack
-        Volley size: 3 → 2
+	- Novax Satellite
+		>Speed: 6 → 9
+		Radar Range: 70 → 150
+		Omni Range: 0 → 50
+		Energy Cost: 80000 → 160000
+		Mass Cost: 5000 → 10000
+		Build Time: 15000 → 30000
+    
+	- Flapjack
+		- Volley size: 3 → 2
     Seraphim T1 submarines
         Torpedo Defense Rate of Fire 0.05 → 0.2
     Massfabs
