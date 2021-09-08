@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T21:46:22.628Z
+date: 2021-09-08T21:48:11.035Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -14,192 +14,17 @@ dateCreated: 2021-09-08T20:45:18.342Z
 
 
 
-
-
-
-## 3688
-### Balance
-**Veterancy**
-- Until now the veterancy system worked in such a way that the tech level of the units killed determined how many veterancy points a unit was given, and only the unit that got the killing blow would get the veterancy point(s).
-- With this patch we are moving from that tech-based system to a mass based system. That means your units will get veterancy based on the mass of the unit that is killed. Your unit also doesn't need to get the killing blow to get veterancy. Once a unit dies all the units which damaged it will get veterancy points based on how much damage they did to that unit. There are also multipliers to adjust how much veterancy certain classes of units will require to vet up. We will watch closely for cases where veterancy may move to fast or too slow in certain fights and make any adjustments necessary in upcoming patches.
-- The mass value of the ACU has been reduced to 2000 to avoid getting insane veterancy by killing an ACU
-- The amount of veterancy points that the ACU gains from higher tech units is reduced to avoid vetting too fast by overcharging mass heavy land units.
-- Experimental units only need to kill 50% of their own worth in mass to gain one veterancy rank.
-- Regular units need to destroy 200% of their own worth in mass to gain one veterancy rank.
-- Destroying a transport gives veterancy points for the cargo as well as the transport itself.
-- Unified regeneration values.
-	>T1 +1 -> 1, 2, 3, 4, 5 regeneration
-	T2 +3 -> 3, 6, 9, 12, 15 regeneration
-	T3/ACUs +6 -> 6, 12, 18, 24, 30 regeneration
-	SACUs +9 -> 9, 18, 27, 36, 45 regeneration
-	T4 +25 -> 25, 50, 75, 100, 125 regeneration
-
-- Shields
-	>- Smoothed out shield recharge from once per second lumps to once per tick.
-
-- Gunships
-	- Seraphim T2 Gunship
-		>Health: 864 → 1080
-		Power Build Cost: 4800 → 6000
-		Mass Build Cost: 240 → 300
-		Build Time: 1600 → 2000
-		Damage: 12 → 16
-        
-	- T3 Gunships
-		- Cybran T3 Gunships have a personal stealth ability instead of radar jamming.
-		- UEF T3 Gunships have radar jamming.
-    
-- Novax Satellite
-	>Speed: 6 → 9
-	Radar Range: 70 → 150
-	Omni Range: 0 → 50
-	Energy Cost: 80000 → 160000
-	Mass Cost: 5000 → 10000
-	Build Time: 15000 → 30000
-  
-- Flapjack
-	>Volley size: 3 → 2
-   
-- Seraphim T1 submarines
-	>Torpedo Defense Rate of Fire 0.05 → 0.2
-
-- Massfabs
-	- T2 Massfabs
-		>mass cost: 100 → 200
-    power drain: 150 → 100
-	- T3 Massfabs
-    >mass cost: 3000 → 4000
-    power cost: 65000 → 120000
-    build time: 4988 → 5000
-    power drain: 3500 → 1500
-    mass gain: 12 → 16
-    adjacency bonus on 1x1, 2x2, 3x3 structures buffed to 20%
-    adjacency bonus on 5x5 structures buffed to 3.75%
+## 3689
+### Bugs
+- Veterancy
+	- Fixed a bug that caused units to give 100% veterancy points instead of a fraction depending on their remaining HP on death when getting destroyed by self-destruction.
+	- Fixed ACUs giving too much veterancy to other ACUs when being killed.
+	- Fixed shields recharging many times faster than intended.
 
 ### Contributors
 Exotic-Retard
-IceDreamer
-JaggedAppliance
 MrNukealizer
 PhilipJFry
-
-## 3686
-### Lobby
--Changed "Hide Obsolete" filter in map selection to be enabled by default
-- Hide maps if a newer version is available locally
-- Fixed the title change option locking if you enter an empty string
-- Fixed lobby chat not behaving as expected when multi-line messages are entered
-- Allowed lobby chat to correctly handle variable font sizes
-- Fixed lobby flags being stretched
-- Fixed lobby presets not handling unit restrictions correctly
-- Fixed lobby autoteams button not syncing with the selected game options correctly
-- Added a warning to the host if they have selected an outdated map, asking them to update it
-- Fixed observers being unable to click the observer/player toggle button after being moved to observer while ready
-- Added a button to close all unoccupied open slots or open all closed slots
-- Fixed a bug where the mod manager UI could break if the host has a mod with an incomplete info file
-
-### Bugs
-- Fixed an error caused by empty gunships
-- Fixed the spacing when tiling rotated templates being off in some situations
-- Fixed a bug which caused only one engineer of a group ordered to rebuild a wreck to actually attempt the task
-- Fixed HARMS sinking more than once in some situations
-- Fixed deleted orders reappearing if spread command is used
-- Added safeguards against a rare exploit which allowed bypassing of the share conditions
-- Fixed orders bugging out sometimes if units in the selection died
-- Fixed an error caused by a czar dying with units in the hold
-- Prevented air units sometimes sinking below the map after bouncing off a shield
-- Fixed game exit behaviour sometimes erroring or throwing logspam
-- Fixed Czar targeting hover units with depth charges
-- Fixed only one Overcharge shot being fired when multiple Overcharge commands are queued
-- Fixed Novax Center being unable to build a replacement satellite after a satellite is destroyed blocking a nuke
-- Fixed Novax satellite disappearing before hitting the ground after the control center is destroyed
-- Fixed subs stopping too close to their targets when given an Attack Move order
-- Fixed a bug that caused Hives (and possibly other Cybran units) to instantly capture a unit in some situations
-- Increased Cybran SACU projectile lifetime so it can hit targets at the edge of its upgraded range
-- Fixed some instances of transported units not dying when their transport dies
-### Gameplay
-- New Feature: Integrated a vastly improved version of the popular Notify mod
-	- Notify Features
-		- Notify started as a way to allow ACU upgrade progress to be communicated nicely to the team. FAF has taken it to the next level.
-		- Support for sending notifications about ACU upgrades, Factory Tech upgrades (HQs), Experimental construction, and Nuke and T3 Artillery construction
-		- By default, you will see notifications about ACU upgrades only, as well as an ETA overlay at the location of the upgrading ACUs
-		- Toggles available to define which types of messages you want to see come in from allies
-		- Notify messages limited to only show the first of each HQ type, Experimental (Non game-ender), Nuke, or T3 Artillery to avoid spamming the chat with notifications late-game
-	- Notify UI
-		- Selecting your ACU will show any upgrades it has completed for each slot above the UI in the bottom left corner
-		- There is an in-game customisation menu UI. It can be accessed via the main menu, or with a key bind. Default binding is CTRL-ALT-F1
-		- Full customisation of all Notify messages is enabled, including resetting to default
-		- All message types are broadcast at all times. The menu allows you to customise which messages you see, using toggle buttons at the top of the customiser.
-		- Colour of Notify messages can be changed inside the chat window
-	- Upgrade Queuing
-		- ACU Upgrades can now be queued up the same as any other construction project
-		- Unfortunately, due to an engine limitation, upgrades cannot be UN-queued (You can only stop the ACU, cancelling the in-progress work orders)
-		- ACUs can queue buildings from an uncompleted tech level if the upgrade is queued
-		- Hotbuild has the ability to correctly access the uncompleted tech level buildings tooltip
-	- Blacklisted all previous Notify mod versions
-- Significantly improved unit formations
-	-	Changed land and naval formations to give large units extra space instead of forcing the whole group to spread out
-	- Moved submarines so they sit between surface vessels instead of directly under them
-	- Changed air formation shape to spread units out more evenly and make large formations wider instead of a long line
-	- Made guard formation denser so more units can stay close to the target
-	- Changed shield distribution in guard formation to more efficiently cover the target and other guarding units
-	- Fixed several unit filter issues that caused units to get the wrong positions or even be excluded from a formation altogether
-	- Rearranged land and naval formations to give some units better positions
-- Improved spread attack. It now handles most order types.
-- Changed the timeout on player attention pings to be per-player instead of on a global cooldown
-- Fixed and optimised TML leading for AIs
-- Increased the depth at which Megalith and Ythotha appear to be submerged in water instead of walking on land
-- Reverted the Energy hotbuild cycling through to Storage, in response to popular demand.
-- T3 Sonar can now be given assist commands. Primarily useful so they can guard a unit and stay with it.
-
-### UI
-- Added full support for UTF character set in the lobby, game chat, and other typing interfaces. This enables Russian, Chinese, Japanese, and all manner of other characters.
-- Fixed ShowNetworkStats not closing in some situations
-- Fixed the construction menu pause button not changing colour with factional skins
-- Added an option to have fonts change colour according to faction
-- Fixed observers not seeing the correct unit regen number for units with veterancy, upgrades, or other regen changes
-- Detail view no longer shows a cost/tick breakdown for some units incorrectly
-- Made loading screen hints more readable by adding a drop shadow effect
-- Fixed a bug causing build mode to exit when a template is ordered
-- Added a hotbuild key for T3 Mobile AA
-- Fixed a hotbuild bug causing errors when certain units were upgraded
-- Fixed hotbuild key label for support factory upgrades being on the wrong icon
-- Fixed zoom pop key action not functioning
-- Fixed reclaim overlay sometimes showing reclaim out of the playable areas
-- Put silo count/capactity label at the top of the button to avoid it being obscured by the hotkey label
-- Added an option to disable hotkey labels
-- Fixed factory templates not displaying icons for mod units
-- Fixed missing UI elements in replays or when the Use Factional UI Skin option is disabled
-- Removed "Quick Tip" prefix from the tips which show on the loading screen
-- Added T3 MAA to the hotkey description
-
-### Other
--    Updated mods blacklist
--    Updated maps blacklist
--    Random spawn locations are no longer accurate in the UI to prevent UI mods from cheating
--    New random spawn modes have been added which mark opponents' spawn locations so all players can see where everyone is
-- Fixed an issue with offline COOP not working as intended
-- Significant improvements and bugfixes for COOP AI capabilities
-- Properly hide failed bonus objectives in COOP
-- Optimised Sorian-AI-related code a little
-- Optimised AIX-related code a little
-- Fixed kill objectives not working as intended in COOP
-- Fixed Torpedo Boat ID being incorrect from an AI perspective, causing them not to work properly
-- Added additional AI Naval platoon templates
-- Removed the hyphen from "Air Superiority Fighter" unit type to make it the same across all factions
-
-### Contributors
-CookieNoob
-Crispweed
-Crotalus
-dk0x
-IceDreamer
-JaggedAppliance
-MrNukealizer
-PhilipJFry
-speed2
-TheKeyBlue
-Uveso
 
 
 ## 3684
@@ -208,8 +33,7 @@ Uveso
 - Fixed a typo which broke some FX on the Ythotha
 ### Gameplay(Balance)
 **Janus**
->- Corrected miscalculation in total damage.
->- Fire pulse count decreased 15 → 10
+>- Corrected miscalculation in total damage. Fire pulse count decreased 15 → 10
 
 **Reclaim**
 >- Time taken to reclaim unit wrecks doubled. Props and living units unaffected
@@ -217,126 +41,99 @@ Uveso
 
 **T1 Land/Air Factory + T2 Land/Air Support**
 > Aeon Health increased 3100 → 3200
-
-> **Cybran**
->- Health increased 2500 → 2750
->- Regen increased 6 → 9
+> Cybran
+	>- Health increased 2500 → 2750
+	>- Regen increased 6 → 9
 
 **T1 Naval Factory**
->- Aeon Health increased 3100 → 3700
->- UEF Health increased 4000 → 4500
->- Seraphim Health increased 3500 → 4000
-
-> **Cybran**
+>Aeon Health increased 3100 → 3700
+>UEF Health increased 4000 → 4500
+>Seraphim Health increased 3500 → 4000
+>Cybran
 >- Health increased 2500 → 3200
->- Regen increased 6 → 10
-
-**T2 Land/Air HQ + T3 Land/Air Support**
->- Aeon Health increased 6200 → 6400
->- Cybran Health increased 5000 → 5500
-
-**T2 Naval Support**
->- Aeon Health increased 5000 → 6400
->- UEF Health increased 6500 → 8000
->- Seraphim Health increased 5500 → 7000
-
-> **Cybran**
->- Health increased 4000 → 5500
->- Regen increased 12 → 20
-
-**T2 Naval HQ**
->- Aeon Health increased 10000 → 12800
->- UEF Health increased 13000 → 16000
->- Seraphim Health increased 11000 → 14000
-
-> Cybran
->- Health increased 8000 → 11000
->- Regen increased 30 → 40
-
-**T3 Land/Air HQ**
->- Aeon Health increased 12400 → 12800
->- Cybran Health increased 10000 → 11000
-
-**T3 Naval Support**
->- Aeon Health decreased 13000 → 12800
->- UEF Health decreased 17000 → 16000
->- Cybran Regen increased 30 → 40
->- Seraphim Health decreased 15000 → 14000
-
-**T3 Naval HQ**
->- Aeon Health increased 20000 → 21000
->- Cybran Health increased 16000 → 17000
->- Seraphim Health increased 22000 → 23000
-
-**Hydrocarbon**
->- Cybran Regen decreased 6 → 5
-
-**Mass Storage**
->- Cybran Regen decreased 4 → 3
-
-**Seraphim ACU Second Gun Upgrade**
->- Mass cost increased 3500 → 4800
->- Energy cost decreased 300000 → 270000
->- Damage bonus increased 400 → 750
->- Damage radius increased 2 → 2.
-
-**Veterancy**
-- Increased veterancy regen values for Experimentals across the board
-- Fixed longstanding bug causing Veterancy to heal far too much health
-- Introduced new veterancy mechanics to allow fine control over instant heal effect
-- Old system: 1st Vet = Heal for max HP * 0.1. 2nd Vet = Heal for max HP * 0.2 ... etc
-- New system: Unchanged for ACUs. Other units heal max HP * 0.1 each time
-
-**MMLs**
+Regen increased 6 → 10
+T2 Land/Air HQ + T3 Land/Air Support
+Aeon Health increased 6200 → 6400
+Cybran Health increased 5000 → 5500
+T2 Naval Support
+Aeon Health increased 5000 → 6400
+UEF Health increased 6500 → 8000
+Seraphim Health increased 5500 → 7000
+Cybran
+Health increased 4000 → 5500
+Regen increased 12 → 20
+T2 Naval HQ
+Aeon Health increased 10000 → 12800
+UEF Health increased 13000 → 16000
+Seraphim Health increased 11000 → 14000
+Cybran
+Health increased 8000 → 11000
+Regen increased 30 → 40
+T3 Land/Air HQ
+Aeon Health increased 12400 → 12800
+Cybran Health increased 10000 → 11000
+T3 Naval Support
+Aeon Health decreased 13000 → 12800
+UEF Health decreased 17000 → 16000
+Cybran Regen increased 30 → 40
+Seraphim Health decreased 15000 → 14000
+T3 Naval HQ
+Aeon Health increased 20000 → 21000
+Cybran Health increased 16000 → 17000
+Seraphim Health increased 22000 → 23000
+Hydrocarbon
+Cybran Regen decreased 6 → 5
+Mass Storage
+Cybran Regen decreased 4 → 3
+Seraphim ACU Second Gun Upgrade
+Mass cost increased 3500 → 4800
+Energy cost decreased 300000 → 270000
+Damage bonus increased 400 → 750
+Damage radius increased 2 → 2.
+Veterancy
+Increased veterancy regen values for Experimentals across the board
+Fixed longstanding bug causing Veterancy to heal far too much health
+Introduced new veterancy mechanics to allow fine control over instant heal effect
+Old system: 1st Vet = Heal for max HP * 0.1. 2nd Vet = Heal for max HP * 0.2 ... etc
+New system: Unchanged for ACUs. Other units heal max HP * 0.1 each time
+MMLs
 Aeon
->- Missile HP increased 1 → 2
->- Missile motion parameters changed to be slower
-
+Missile HP increased 1 → 2
+Missile motion parameters changed to be slower
 UEF
->- Now fires 3 missiles in a salvo, 1.8 seconds apart, every 10 seconds
->- Effective DPS increased 60 → 90
-
+Now fires 3 missiles in a salvo, 1.8 seconds apart, every 10 seconds
+Effective DPS increased 60 → 90
 Seraphim
->- Missile motion parameters changed to be faster
->- MuzzleVelocity increased 3 → 4
->- RateOfFire increased 0.15 → 0.1666. Firing cycle from 1 shot every 6.7s to one shot every 6 seconds
->- Effective DPS increased 60.4 → 67.5
-
+Missile motion parameters changed to be faster
+MuzzleVelocity increased 3 → 4
+RateOfFire increased 0.15 → 0.1666. Firing cycle from 1 shot every 6.7s to one shot every 6 seconds
+Effective DPS increased 60.4 → 67.5
 Sparky
->- Reintroduced Energy drain of 15 for running Jammer
-
+Reintroduced Energy drain of 15 for running Jammer
 Novax Satellite
->- Crash damage decreased 3000 → 1000
-
+Crash damage decreased 3000 → 1000
 UEF T1 Bomber
->- Bomb DoT Duration increased 1.5 → 4.2. Damage remains the same, just more spread out in time T2 Static Flak
->- Aeon MuzzleVelocity increased 30 → 35
->- UEF MuzzleVelocity increased 25 → 35
->- Cybran MuzzleVelocity increased 20 → 30
-
-> Seraphim
->- MuzzleVelocity increased 25 → 35
->- AOE increased 3 → 4
->- FiringRandomness decreased 2.5 → 2
-
+Bomb DoT Duration increased 1.5 → 4.2. Damage remains the same, just more spread out in time T2 Static Flak
+Aeon MuzzleVelocity increased 30 → 35
+UEF MuzzleVelocity increased 25 → 35
+Cybran MuzzleVelocity increased 20 → 30
+Seraphim
+MuzzleVelocity increased 25 → 35
+AOE increased 3 → 4
+FiringRandomness decreased 2.5 → 2
 Crab Eggs
-- Corrected T3 Engineer Egg to match new values for the main unit from previous patches
-- BuildTime of all eggs reduced by 50%
-
+Corrected T3 Engineer Egg to match new values for the main unit from previous patches
+BuildTime of all eggs reduced by 50%
 Megalith
->- BuildRate decreased 180 → 45
->- Combined with egg changes, effectively doubles egg build time, and reduces Megalith reclaim rate to 25% of before
-
+BuildRate decreased 180 → 45
+Combined with egg changes, effectively doubles egg build time, and reduces Megalith reclaim rate to 25% of before
 Aurora
->- FiringRandomnessWhileMoving increased 0.1 → 0.3
-
+FiringRandomnessWhileMoving increased 0.1 → 0.3
 Harbinger
->- BuildRate increased 3 → 5
-
+BuildRate increased 3 → 5
 Aeon ACU
->- First Shield upgrade recharge time increased 65 → 90
-
-### Contributors
+First Shield upgrade recharge time increased 65 → 90
+Contributors
 Crotalus
 IceDreamer
 JaggedAppliance
