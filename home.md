@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T10:31:29.942Z
+date: 2021-09-08T10:32:56.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -30,8 +30,8 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="User-Group#faf-moderators"> FAF Moderators</a></li>
-<li><img src="/faf-client-icons/uef-acu-mono.jpg" width=35px><a href="Unit-Database"> Unit Database</a></li>
-<li><img src="/faf-client-icons/replays-icon.png"><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
+<li><a href="User-Group#trainers"> Unit Database</a></li>
+<li><a href="User-Group#tournament-directors"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td></td>
 </tr>
