@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T22:46:51.362Z
+date: 2021-09-08T22:49:54.369Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -87,19 +87,19 @@ dateCreated: 2021-09-08T22:36:42.319Z
 	>- Torpedo Weapon:
 		- Range: 32 → 28
 	>- Target Priorities: Othuum now prioritises T3 over T2 over T1 instead of the reverse.
-        Percival
-            Health: 9300 → 7200
-            BuildTime: 6000 → 4800
-            Speed: 2 → 2.1
-            Acceleration: → 2.1
-            TurnRate: 60 → 70
-            Damage: 1600 → 1670
-            Rate of Fire: 0.25 → 0.2
-            Range: 35 → 34
-            Muzzle Velocity: 35 → 38
-            Turret Yaw Speed: 60 → 90
-            DPS: 400 → 334
-        Titan
+- Percival
+	>- Health: 9300 → 7200
+	>- BuildTime: 6000 → 4800
+	>- Speed: 2 → 2.1
+	>- Acceleration: → 2.1
+	>- TurnRate: 60 → 70
+	>- Damage: 1600 → 1670
+	>- Rate of Fire: 0.25 → 0.2
+	>- Range: 35 → 34
+	>- Muzzle Velocity: 35 → 38
+	>- Turret Yaw Speed: 60 → 90
+	>- DPS: 400 → 334
+- Titan
             Health: 2200 → 2550
             Shield: 1200 → 600
             Recharge Time: 60 → 15
