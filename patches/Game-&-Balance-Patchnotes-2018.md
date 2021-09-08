@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T22:51:49.900Z
+date: 2021-09-08T22:54:08.687Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -110,19 +110,19 @@ dateCreated: 2021-09-08T22:36:42.319Z
 	>- Muzzle Velocity: 30 → 35
 	>- Turn rate: 150 → 120
 	>- Target Priorities: Titan now prioritises T3 over T2 over T1 instead of the reverse.
-        Brick
-            Health: 9000 → 7500
-            BuildTime: 6000 → 4800
-            Speed: 2 → 2.3
-            Acceleration: 2 → 2.3
-            TurnRate: 60 → 65
-            Main Weapon:
-                Damage: 150 → 125
-                Range: 35 → 32
-                MuzzleVelocity: 35 → 42
-                Turret Yaw Speed: 60 → 90
-                DPS: 375 → 312.5
-        Loyalist
+- Brick
+	>- Health: 9000 → 7500
+	>- BuildTime: 6000 → 4800
+	>- Speed: 2 → 2.3
+	>- Acceleration: 2 → 2.3	
+	>- TurnRate: 60 → 65
+	>- Main Weapon:
+		- Damage: 150 → 125
+		-	Range: 35 → 32
+		-	MuzzleVelocity: 35 → 42
+		-	Turret Yaw Speed: 60 → 90
+		-	DPS: 375 → 312.5
+- Loyalist
             Health: 3100 → 3000
             Speed: 4 → 3.8
             Acceleration: 4 → 4.2
@@ -139,7 +139,8 @@ dateCreated: 2021-09-08T22:36:42.319Z
                 Muzzle Velocity: 40 → 35
                 TurretYawSpeed: 90 → 120
                 DPS: 30 → 35
-        T3 Ranged Units
+
+T3 Ranged Units
             Sprite Striker
                 Mass Cost: 640 → 720
                 Build Time: 3600 → 4000
