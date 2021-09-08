@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T22:21:42.075Z
+date: 2021-09-08T22:23:23.624Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -11,10 +11,21 @@ dateCreated: 2021-09-08T20:45:18.342Z
 # Complete changelog of all changes in 2016 {.tabset}
 
 
+## 3695
+### Other
+- Reverted 3694's changes
+- This patch is identical to patch 3693
+### Contributors
+Ozonex
+CookieNoob
 
-
-
-
+## 3694
+### Other
+- Added christmas-related content, like reclaimable gifts.
+- Renamed the Galactic Colossus accordingly
+### Contributors
+Ozonex
+CookieNoob
 
 ## 3693
 ### Lobby
