@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-09-08T13:27:37.147Z
+date: 2021-09-08T13:31:31.009Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -19,18 +19,18 @@ with the responsibility to guide the FAF community project.
 
 These are the current members of the council:
 
-- ![cos-balance.png](/cos-icons/cos-balance.png) Balance Councillor: 
-		**Petricpwnz** (former: **JaggedAppliance**, and **Zockyzock**)
-- ![cos-moderation.png](/cos-icons/cos-moderation.png) Moderators Councillor:
-		**Giebmasse** (former: **Gorton**. **Voodoo**)
-- ![cos-player.png](/cos-icons/cos-player.png) Players Councillor: 
-		**Morax** (former: **FtXCommando** **Tokyto_**)
-- ![cos-game.png](/cos-icons/cos-game.png) Games Councillor: 
-		**Keyser** (former: **IceDreamer**)
-- ![cos-promo.png](/cos-icons/cos-promo.png) Promotions Councillor: 
-		**Fury** (former: **Nine**, **Ze Dogfather**, **Mountain**, and **JJs_AI**)
-- ![cos-creative.png](/cos-icons/cos-creative.png) Creative Councillor: 
-		**Balthazar** (former: **biass**, **Morax**, **SilentWar**)
+- ![cos-balance.png](/cos-icons/cos-balance.png) **Balance Councillor:** 
+	>	**Petricpwnz** (former: **JaggedAppliance**, and **Zockyzock**)
+- ![cos-moderation.png](/cos-icons/cos-moderation.png) **Moderators Councillor:**
+	>	**Giebmasse** (former: **Gorton**. **Voodoo**)
+- ![cos-player.png](/cos-icons/cos-player.png) **Players Councillor:** 
+	>	**Morax** (former: **FtXCommando** **Tokyto_**)
+- ![cos-game.png](/cos-icons/cos-game.png) **Games Councillor:** 
+	>	**Keyser** (former: **IceDreamer**)
+- ![cos-promo.png](/cos-icons/cos-promo.png) **Promotions Councillor:** 
+	>	**Fury** (former: **Nine**, **Ze Dogfather**, **Mountain**, and **JJs_AI**)
+- ![cos-creative.png](/cos-icons/cos-creative.png) **Creative Councillor:** 
+	>	**Balthazar** (former: **biass**, **Morax**, **SilentWar**)
 
 ## Tabs {.tabset}
 ### FAF Councillors Pledge
