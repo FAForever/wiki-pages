@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T20:46:25.738Z
+date: 2021-09-08T20:47:08.876Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -10,6 +10,35 @@ dateCreated: 2021-09-08T20:45:18.342Z
 
 # Complete changelog of all changes in 2016 {.tabset}
 
+
+
+
+
+
+
+
+
+
+## 3682
+### Bugs
+- Fixed a typo that is probably responsible for the rare sim freeze bug that has been happening since 3680
+### Gameplay
+- Fixed several unit restriction settings restricting units that did not make sense
+- Hotbuild power generators key now also cycles through to power storage
+- Fixed hotbuild select nearest scout not selecting the nearest one, and not selecting spy planes
+### UI
+- Added a new button to the F10/Main Options dropdown ingame to access the key bindings popup directly in case you remapped F1
+- Updated the wording of several loading tips
+### Contributors
+CookieNoob
+Fast-Thick-Pants
+Hussar
+IceDreamer
+PhilipJFry
+Speed2
+
+Special Thanks
+MrNukealizer
 ## 3681
 ### Bugs
 - Fixed always loading the default or last map, which broke COOP
