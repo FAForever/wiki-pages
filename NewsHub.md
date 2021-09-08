@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-09-08T09:00:20.486Z
+date: 2021-09-08T13:36:20.717Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -42,9 +42,10 @@ All Images need to be 96 DPI
 
 For the left and Right sidebar the graphic should fade at the bottom to a solid background colour. I run this same background colour to the edge of the screen. They can actually have any height, but the height I provided is a good arbitrary height.
 
-Article Heading Font:
-<https://fonts.google.com/specimen/Electrolize?query=electr>
+Article Heading [Font](https://fonts.google.com/specimen/Electrolize?query=electr)
 
-Badge Font <https://fonts.google.com/specimen/Russo+One?query=russo>
+Badge [Font](https://fonts.google.com/specimen/Russo+One?query=russo)
 
 Please Visit the Promotions Discord For any more questions [here](https://discord.gg/CYztfPz)
+
+For any News Posting Request you can use the Google Form Request [link](https://forms.gle/y9jyPLiWHr9ELXrk9)
