@@ -2,14 +2,13 @@
 title: Game & Balance Patchnotes 2012
 description: 
 published: true
-date: 2021-08-31T15:06:21.478Z
+date: 2021-09-08T13:45:05.055Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:14:48.329Z
 ---
 
-# Complete Changelog of all changes in 2012
-
+# Complete Changelog of all changes in 2012 {.tabset}
 
 ## 3620
 ### Bug fixes
