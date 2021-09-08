@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T11:34:31.827Z
+date: 2021-09-08T11:35:28.209Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -30,8 +30,8 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><img src="/cos-icons/cos-moderation.png"><a href="User-Group#faf-moderators"> FAF Moderators</a></li>
-<li><img src="/cos-icons/personal_trainer_avatar.png"><a href="User-Group#trainers"> Trainers</a></li>
-<li><img src="/faf-client-icons/replays-icon.png"><a href="User-Group#tournament-directors"> Tournament Directors</a></li>
+<li><img src="/personal_trainer_avatar.png"><a href="User-Group#trainers"> Trainers</a></li>
+<li><img src="/tournament_director.png"><a href="User-Group#tournament-directors"> Tournament Directors</a></li>
 </ul></td>
 <td></td>
 </tr>
