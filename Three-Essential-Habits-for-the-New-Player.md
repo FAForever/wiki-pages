@@ -1,3 +1,13 @@
+---
+title: Three-Essential-Habits-for-the-New-Player
+description: 
+published: true
+date: 2021-09-08T12:16:58.491Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:45:31.195Z
+---
+
 Hello and welcome to our little community that is Forged Alliance
 Forever! This guide is intended to give you, the brand new player, what
 you need to begin your FAF career as a competitive player, both for the
@@ -184,7 +194,6 @@ keep in mind with these habits:
     away from the game if you feel you are not doing your best, and to
     come back later.
 
-<!-- -->
 
 -   Rating will be an issue early on, as many players will have
     restrictions on what skill level can enter their lobbies, but this
@@ -196,7 +205,6 @@ keep in mind with these habits:
     players with similar ranking as you, as there are many of them in
     our community, you are not alone!
 
-<!-- -->
 
 -   Do not take ranking seriously, especially at a low elo that you will
     be at. It is something that you will start to care about as you rise
@@ -207,7 +215,6 @@ keep in mind with these habits:
     should never be an excuse to act out in a way that is disrespectful
     and crude, as you will only make the experience miserable.
 
-<!-- -->
 
 -   Team games and ladder are very different elements of FAF, and you
     should remember this as you apply these principles to your play
