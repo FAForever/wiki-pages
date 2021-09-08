@@ -2,7 +2,7 @@
 title: Casts&Livestreams
 description: 
 published: true
-date: 2021-09-08T09:02:43.322Z
+date: 2021-09-08T09:02:56.217Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:23.244Z
@@ -14,7 +14,7 @@ To help out with all of the content creators this page is going to be a complete
 
 Any Name that is in Italic are Semi-Active
 
-# Streaners
+# Streamers
 
 ## Twitch
 
