@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T13:15:24.989Z
+date: 2021-09-08T13:16:12.441Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -45,9 +45,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tr>
 <td><ul>
 <li><a href="Written-Guides"> Written Guides</a></li>
-</ul></td>
-<td><ul>
-<li><a href="Game-Mechanics">Game Mechanics</a></li>
 </ul></td>
 <td><ul>
 <li><a href="Basics-Videos"> Basic's Videos</a></li>
