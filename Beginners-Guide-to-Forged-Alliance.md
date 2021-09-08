@@ -2,7 +2,7 @@
 title: Beginners-Guide-to-Forged-Alliance
 description: 
 published: true
-date: 2021-09-03T10:10:12.076Z
+date: 2021-09-08T13:25:11.942Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:16.497Z
@@ -17,13 +17,12 @@ into a game right away and have some basic knowledge.
 If you are looking for some more resources as a new player, please
 consult:
 
-[Learning SupCom](Learning_SupCom "wikilink")
+[New Starter Written Guides](/Written-Guides)
 
 [Three Essential Habits for the New
-Player](Three_Essential_Habits_for_the_New_Player "wikilink")
+Player](/Three-Essential-Habits-for-the-New-Player)
 
-If you still need to setup Forged Alliance and the FAF client: [Setting
-Up FAF](Setting_Up_FAF "wikilink").
+If you still need to setup Forged Alliance and the FAF client: [Setting Up FAF](/Setting-Up-FAF).
 
 ## Introduction
 
