@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2017
 description: 
 published: true
-date: 2021-09-08T22:20:54.041Z
+date: 2021-09-08T22:21:42.075Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T20:45:18.342Z
@@ -13,6 +13,14 @@ dateCreated: 2021-09-08T20:45:18.342Z
 
 
 
+
+
+
+## 3693
+### Lobby
+- Fixed the lobby changelog appearing every time
+### Contributors
+IceDreamer
 
 ## 3692
 ### Shared Armies
