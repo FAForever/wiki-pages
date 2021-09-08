@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-08T10:29:39.223Z
+date: 2021-09-08T10:29:59.036Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -14,19 +14,19 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr>
 <td><ul>
-<li><a href="NewsHub"> NewsHub</a></li>
-<li><a href="Coop-Missions"> Coop Missions</a></li>
-<li><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
+<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> NewsHub</a></li>
+<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Coop Missions</a></li>
+<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAF-chat"> FAF chat</a></li>
-<li><a href="Leaderboards-and-Rating"> Leaderboards and Rating</a></li>
-<li><a href="The-Ladder"> Team Matchmaker</a></li>
+<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF chat</a></li>
+<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards-and-Rating"> Leaderboards and Rating</a></li>
+<li><img src="/faf-client-icons/tmm-icon.png"><a href="The-Ladder"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Host-and-join-games"> Host and join games</a></li>
-<li><a href="Unit-Database"> Unit Database</a></li>
-<li><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
+<li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host and join games</a></li>
+<li><img src="/faf-client-icons/uef-acu-mono.jpg" width=35px><a href="Unit-Database"> Unit Database</a></li>
+<li><img src="/faf-client-icons/replays-icon.png"><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host and join games</a></li>
