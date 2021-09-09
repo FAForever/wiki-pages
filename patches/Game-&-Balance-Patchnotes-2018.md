@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-09T00:19:34.670Z
+date: 2021-09-09T00:21:12.701Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -11,6 +11,33 @@ dateCreated: 2021-09-08T22:36:42.319Z
 # Complete changelog of all changes in 2018 {.tabset}
 
 ## 3702
+### Lobby
+- Added a feedback button for the ladder map pool in the score screen
+- Improved changelog popup
+### UI
+- Disable notify during cinematics
+### Gameplay
+- Allow walls to be handed over in fullshare games
+- Allow switching to different target priorities for units
+- Improved AI
+### Bugs
+- Improved the aiming of the sera pd
+- Fixed AI not rebuilding satellite
+- Fixed a bug causing capture to keep the upgrade progress
+- Fixed several rare bugs that were causing a crash
+- Removed CZAR from AA fighter hotkey
+### Other
+- Improved parser to allow complex default target priorities for weapons
+- Updated mod blacklist
+- Optimized unit range rings
+### Contributors
+Faether
+Strogo
+Uveso
+speed2
+Exotic_Retard
+PhilipJFry
+keyser
 
 ## 3701
 ### Bugs
