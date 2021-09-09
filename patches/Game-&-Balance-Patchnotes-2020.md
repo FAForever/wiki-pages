@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2020
 description: 
 published: true
-date: 2021-09-09T09:37:22.165Z
+date: 2021-09-09T09:53:54.179Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-09T09:34:44.396Z
@@ -11,7 +11,22 @@ dateCreated: 2021-09-09T09:34:44.396Z
 # Complete changelog of all changes in 2020 {.tabset}
 
 
+## 3718
+See Patchnote [here](http://patchnotes.faforever.com/3718.html)
 
+## 3717
+### Hotfix
+- Fixed coop not working
+- Fixed all games being unrated
+### Contributor
+KionX
+Askaholic
+
+## 3716
+### Hotfix
+- Fixed cybran arty explosion when hitting shields
+### Contributor
+Keyser
 
 ## 3715
 ###Bugs
