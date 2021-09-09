@@ -2,14 +2,14 @@
 title: LUADOC 1.5.3599
 description: 
 published: true
-date: 2021-09-09T15:04:15.075Z
+date: 2021-09-09T15:06:00.988Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-09T15:04:15.075Z
 ---
 
 # LUADOC 1.5.3599
-
+## Sim
 ## Sim{.tabset}
 ### `Sim.<global>`
 - AddBuildRestriction
@@ -1479,11 +1479,13 @@ INFO: bool = UnitWeapon:HasTarget()
 moho.weapon_methods
 INFO:
 
+## Unsafe
 ## Unsafe {.tabset}
 ### `Unsafe.<global>`
 SHGetFolderPath
 INFO: (name, create?) -- Interface to Win32 SHGetFolderPath api
 
+## User
 ## User {.tabset}
 ### `User.<global>`
 AddBlinkyBox
@@ -2461,6 +2463,7 @@ INFO: RemoveSelectionSet(string) -- remove a selection set name from a unit
 SetCustomName
 INFO: SetCustomName(string) -- Set a custom name for the unit
 
+## Core
 ## Core{.tabset}
 ### `Core.<global>`
 AITarget
