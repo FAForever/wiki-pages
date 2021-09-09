@@ -2,7 +2,7 @@
 title: LUADOC 1.5.3599
 description: 
 published: true
-date: 2021-09-09T15:06:00.988Z
+date: 2021-09-09T15:09:46.151Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-09T15:04:15.075Z
@@ -12,70 +12,70 @@ dateCreated: 2021-09-09T15:04:15.075Z
 ## Sim
 ## Sim{.tabset}
 ### `Sim.<global>`
-- AddBuildRestriction
+AddBuildRestriction
 INFO: AddBuildRestriction(army,category) - Add a category to the restricted list
-- ArmyGetHandicap
+ArmyGetHandicap
 INFO: army
-- ArmyInitializePrebuiltUnits
+ArmyInitializePrebuiltUnits
 INFO: army
-- ArmyIsCivilian
+ArmyIsCivilian
 INFO: ArmyIsCivilian(army)
-- ArmyIsOutOfGame
+ArmyIsOutOfGame
 INFO: ArmyIsOutOfGame(army) -- return true iff the indicated army has been defeated.
-- AttachBeamEntityToEntity
+AttachBeamEntityToEntity
 INFO: AttachBeamEntityToEntity(self, bone, other, bone, army, blueprint)
-- AttachBeamToEntity
+AttachBeamToEntity
 INFO: AttachBeamToEntity(emitter, entity, tobone, army )
-- AudioSetLanguage
+AudioSetLanguage
 INFO: AudioSetLanguage(name)
-- ChangeUnitArmy
+ChangeUnitArmy
 INFO: ChangeUnitArmy(unit,armyIndex) Change a unit's army
-- CheatsEnabled
+CheatsEnabled
 INFO: Return true iff cheats are enabled
 Logs the cheat attempt no matter what.
-- CoordinateAttacks
+CoordinateAttacks
 INFO: CoordinateAttacks
-- CreateAimController
+CreateAimController
 INFO: CreateAimController(weapon, label, turretBone, [barrelBone], [muzzleBone])
-- CreateAnimator
+CreateAnimator
 INFO: CreateAnimator(unit) -- create a manipulator for playing animations
-- CreateAttachedBeam
+CreateAttachedBeam
 INFO: CreateAttachedBeam(entity, bone, army, length, thickness, texture_filename)
-- CreateAttachedEmitter
+CreateAttachedEmitter
 INFO: CreateAttachedEmitter(entity, bone, army, emitter_blueprint)
-- CreateBeamEmitter
+CreateBeamEmitter
 INFO: emitter = CreateBeamEmitter(blueprint,army)
-- CreateBeamEmitterOnEntity
+CreateBeamEmitterOnEntity
 INFO: emitter = CreateBeamEmitterOnEntity(entity, tobone, army, blueprint )
-- CreateBeamEntityToEntity
+CreateBeamEntityToEntity
 INFO: CreateBeamEntityToEntity(entity, bone, other, bone, army, blueprint) 
-- CreateBeamToEntityBone
+CreateBeamToEntityBone
 INFO: CreateBeamToEntityBone(entity, bone, other, bone, army, thickness, texture_filename)
-- CreateBuilderArmController
+CreateBuilderArmController
 INFO: CreateBuilderArmController(unit,turretBone, [barrelBone], [aimBone])
-- CreateCollisionDetector
+CreateCollisionDetector
 INFO: CreateCollisionDetector(unit) -- create a collision detection manipulator
-- CreateDecal
+CreateDecal
 INFO: handle = CreateDecal(position, heading, textureName1, textureName2, type, sizeX, sizeZ, lodParam, duration, army, fidelity)
-- CreateEconomyEvent
+CreateEconomyEvent
 INFO: event = CreateEconomyEvent(unit, energy, mass, timeInSeconds)
-- CreateEmitterAtBone
+CreateEmitterAtBone
 INFO: CreateEmitterAtBone(entity, bone, army, emitter_blueprint)
-- CreateEmitterAtEntity
+CreateEmitterAtEntity
 INFO: CreateEmitterAtEntity(entity,army,emitter_bp_name)
-- CreateEmitterOnEntity
+CreateEmitterOnEntity
 INFO: CreateEmitterOnEntity(entity,army,emitter_bp_name)
-- CreateFootPlantController
+CreateFootPlantController
 INFO: CreateFootPlantController(unit, footBone, kneeBone, hipBone, [straightLegs], [maxFootFall])
-- CreateInitialArmyUnit
+CreateInitialArmyUnit
 INFO: CreateInitialArmyUnit(armyName, initialUnitName
-- CreateLightParticle
+CreateLightParticle
 INFO: CreateLightParticle(entity, bone, army, size, lifetime, textureName, rampName)
-- CreateLightParticleIntel
+CreateLightParticleIntel
 INFO: CreateLightParticle(entity, bone, army, size, lifetime, textureName, rampName)
-- CreateProp
+CreateProp
 INFO: CreateProp(location,prop_blueprint_id)
-- CreatePropHPR
+CreatePropHPR
 INFO: blueprint, x, y, z, heading, pitch, roll
 CreateResourceDeposit
 INFO: type, x, y, z, size
