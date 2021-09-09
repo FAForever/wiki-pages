@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-09T10:56:06.061Z
+date: 2021-09-09T10:57:24.452Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -116,7 +116,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tr class="odd">
 <td><h3 id="lobby">Lobby</h3>
 <ul>
-<li><a href="Setting-Up-FAF">How do i set up the client?</a></li>
+<li><a href="Setting-Up-FAF">Setting up the Client on Windows & Linux </a></li>
 <li><a href="Setting-Up-FAF-Linux">How do i set up the client on Linux?</a></li>
 <li><a href="Where-are-the-replays">Where are the replays?</a></li>
 <li><a href="Map-Vault">How to download Maps</a></li>
