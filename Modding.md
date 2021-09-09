@@ -1,44 +1,33 @@
+---
+title: Modding
+description: 
+published: true
+date: 2021-09-09T14:33:42.486Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:44:35.455Z
+---
+
 ## Introduction
 
-Supreme Commander is extensible by
-[mods](Game_Modifications_(Mods) "wikilink"), which can alter the whole
-gameplay (like PhantomX for example), change the balance of units,
-display information to the user or make the user automatically do things
-like renaming units or send messages to his allies when he starts
-upgrading. This is a page for you to get a basic idea of modding FA.
+Supreme Commander is extensible by [mods](Game-Modifications-(Mods)), which can alter the whole gameplay (like PhantomX for example), change the balance of units, display information to the user or make the user automatically do things like renaming units or send messages to his allies when he starts upgrading. This is a page for you to get a basic idea of modding FA.
 
-See also [Tips for Modding
-Efficiently](Tips_for_Modding_Efficiently "wikilink").
+See also [Tips for Modding Efficiently](Tips-for-Modding-Efficiently).
 
 ### What we need
 
--   The Supcom FA installation files
--   A texteditor, preferably one with syntax highlighting. Notepad++ or
-    Sublime do fine, a full IDE like IntelliJ with a LUA plugin is fine
-    aswell
--   Basic LUA knowledge
+- The Supcom FA installation files
+- A texteditor, preferably one with syntax highlighting. Notepad++ or Sublime do fine, a full IDE like IntelliJ with a LUA plugin is fine aswell
+- Basic LUA knowledge
 
 ### Basic information
-
--   Supcom FA is using LUA
--   Mods are usually stored in C:\\Users\\%USERNAME%\\Documents\\My
-    Games\\Gas Powered Games\\Supreme Commander Forged Alliance\\Mods
--   Every mod needs a mod_info.lua file in its folder, containing infos
-    such as Name, Description, UID etc.
--   Mods usually have a hook folder (usually /hook, can be configured to
-    have another path in the mod_info) which contains all files that the
-    user is hooking to (overwriting or adding code)
--   There is a SIM and a UI mod category. Sim mods affect everybody and
-    usually alter the gameplay, so as example PhantomX and any
-    balancemod is a sim mod. UI mods don't affect other players
-    (directly), as example notify is messaging them about your upgrade,
-    but it's not altering their game
--   The game files (.scd) aswell as the FAF mod files (.nx2, ...) are
-    all just renamed .zip files. You can copy them somewhere to work
-    with, rename their extension and unzip them to see their content.
--   You can use the default hotkey F9 to open the live LOG in your game,
-    and use LOG(text), SPEW(text) or WARN(text) in your code to print to
-    it
+- Supcom FA is using LUA
+- Mods are usually stored in C:\\Users\\%USERNAME%\\Documents\\MyGames\\Gas Powered Games\\Supreme Commander Forged Alliance\\Mods
+- Every mod needs a mod_info.lua file in its folder, containing infos such as Name, Description, UID etc.
+- Mods usually have a hook folder (usually /hook, can be configured to have another path in the mod_info) which contains all files that the user is hooking to (overwriting or adding code)
+- There is a SIM and a UI mod category. Sim mods affect everybody and usually alter the gameplay, so as example PhantomX and any balancemod is a sim mod. UI mods don't affect other players (directly), as example notify is messaging them about your upgrade,   but it's not altering their game
+- The game files (.scd) aswell as the FAF mod files (.nx2, ...) are all just renamed .zip files. You can copy them somewhere to work with, rename their extension and unzip them to see their content.
+- You can use the default hotkey F9 to open the live LOG in your game, and use LOG(text), SPEW(text) or WARN(text) in your code to print to it
 
 ### Other sources
 
