@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-09T00:15:37.886Z
+date: 2021-09-09T00:17:56.256Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -17,8 +17,46 @@ dateCreated: 2021-09-08T22:36:42.319Z
 ## 3700
 
 ## 3699
+### Lobby
+- Added an option for coloured name in the chat
+- Fixed units restriction menu
+- Removed a player color that is too similar to civilian colour
+### Gameplay
+- Removed friendly collisions
+- Allowed the selection of upgradable/offensive building and all experimentals while they are being built
+- Improved AI
+- Saved upgrade progress of building and exp/T3 arty build progression after transfer for game with full share condition
+### Bugs
+- Fixed units losing veterancy after transfer
+- Fixed nuke being deflected by aeon TMD
+- Fixed HARMS not being seen by surface units while being built
+- Fixed satellite weapon firing when retargeting
+- Fixed OC not impacting on mobile shield
+- Fixed the way wreckages spawn from map script
+- Fixed ythotha lightning being triggered by alt-delete and by the wreck spawn from map script
+- Fixed mobile shield stopping when assisting friendly units and enemy units are nearby
+- Fixed strats killing each other when bomb connect with opponent asf, by making them immune to allies strat
+- Fixed kennel's drones not being paused after transfer
+- Fixed kennel spawning drone after transfer
+### Contributors
+Hussar
+keyser
+Strogo
+Uveso
+Rackover
+JeroenDeDauw
+Zkov96
+c0_okieZ
+Crotalus
+Exotic_Retard
+PhilipJFry
 
 ## 3698
+### Bug
+- Remove AI Takeover from ladder as it is intended to be an option for custom games
+
+### Contributors
+TheAdDad
 
 ## 3697
 ### Lobby
