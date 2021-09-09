@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-09-09T15:23:14.885Z
+date: 2021-09-09T15:28:20.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -91,39 +91,40 @@ Filled example
 Our way into modding the game is hooking. Hooking in FA is basically file concatenation, that means that the file we're hooking to will be extended by our file.
 
 Paths:
+```lua
 `\lua\ui\game\selection.lua is a UI side file handling what happens when we (de)select units`
 `C:\Users\%USERNAME%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Mods\examplemod\hook\lua\ui\game\selection.lua is the full path to my own file, how i hook it`
 `"/mods/examplemod/" is the path the mod can find its own files later`
-
+```
 Ok so now i want to hook that file, i have created an empty selection.lua in the path as mentioned above. As said, hooking is file concatenation, so my empty file will be added at the bottom of the original selection.lua. Now i can overwrite a function, let's take PlaySelectionSound, which is playing the sounds of a selection when you select something.
-
+```lua
 `-- original selection.lua file`
 `function PlaySelectionSound(newSelection)`
 `   -- the newSelection parameter is the table of units`
 `   -- original code not displayed`
 `end`
-
+```
 Let's say i want it to do nothing, so i can just destructively hook (overwrite) it completely in my own selection.lua:
-
+```lua
 `-- my own selection.lua file in /mods/examplemod/hook/lua/ui/game`
 `function PlaySelectionSound(newSelection)`
 `end`
-
+```
 As this is simple file concatenation, my own function has the exact same name of the original function, but is mentioned later and is thus overwriting it. In result, nothing happens, no sound is played.
 
 If i want to add something, instead of overwrite, i can construtively hook the function by saving a reference and calling the "old" function via that
-
+```lua
 `-- my own selection.lua file in /mods/examplemod/hook/lua/ui/game`
 `local oldPlaySelectionSound = PlaySelectionSound`
 `function PlaySelectionSound(newSelection)`
 `   oldPlaySelectionSound(newSelection)`
 `   -- here i can execute my own code`
 `end`
-
+```
 ## FAQ
 
-`Q: I can't find files in the /lua path which should be there! Where are they?`
-`A: Likely in the mohodata or schook folders (.scd files), they are mounted to the /lua path aswell`
+Q: I can't find files in the /lua path which should be there! Where are they?
+A: Likely in the mohodata or schook folders (.scd files), they are mounted to the /lua path aswell
 
 ## Debugging
 
@@ -150,6 +151,3 @@ Now, when you open up your game again, you will find that your console (F9) will
 ## Further Reading
 modding [Shaders](Shaders "wikilink")
 modding [Emitters](Modding_Emitters "wikilink")
-
-\[<http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study>\|
-overview how the engine renders the game\]
