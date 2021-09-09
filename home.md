@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-09T10:20:08.611Z
+date: 2021-09-09T10:56:06.061Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -29,7 +29,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/faf-client-icons/replays-icon.png"><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/cos-icons/cos-moderation.png"><a href="User-Groups#faf-moderators"> FAF Moderators</a></li>
+<li><img src="/cos-icons/cos-moderation.png"><a href="User-Groups"> User Groups</a></li>
 <li><img src="/personal_trainer_avatar.png"><a href="User-Groups#trainers"> Trainers</a></li>
 <li><img src="/tournament_director.png"><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
 </ul></td>
@@ -51,9 +51,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <td><ul>
 <li><a href="Advanced-Videos"> Advanced Videos</a></li>
 </ul></td>
-<td><ul>
-<li><a href="FAQ"> Frequently Asked Questions (FAQ)</a></li>
-</ul></td>
 <td></td>
 </tr>
 </tbody>
@@ -67,7 +64,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Learning SupCom</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Changes from steam</a></li>
-<li><img src="/information-icons/database.png" width="25"/><a href="Unit-Database"> Unit Database</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
