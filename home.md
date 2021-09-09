@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-09T10:16:06.168Z
+date: 2021-09-09T10:16:45.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -215,28 +215,3 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tr>
 </tbody>
 </table>
-
--   2017: [3668](3668 "wikilink"), [3669](3669 "wikilink"),
-    [3670](3670 "wikilink"), [3671](3671 "wikilink"),
-    [3672](3672 "wikilink"), [3674](3674 "wikilink"),
-    [3675](3675 "wikilink"), [3676](3676 "wikilink"),
-    [3677](3677 "wikilink"), [3680](3680 "wikilink"),
-    [3681](3681 "wikilink"), [3682](3682 "wikilink"),
-    [3684](3684 "wikilink"), [3686](3686 "wikilink"),
-    [3688](3688 "wikilink"), [3689](3689 "wikilink"),
-    [3690](3690 "wikilink"), [3692](3692 "wikilink"),
-    [3693](3693 "wikilink"), [3694](3694 "wikilink"),
-    [3695](3695 "wikilink")
--   2018: [3696](3696 "wikilink"), [3697](3697 "wikilink"),
-    [3698](3698 "wikilink"), [3699](3699 "wikilink"),
-    [3700](3700 "wikilink"), [3701](3701 "wikilink"),
-    [3702](3702 "wikilink")
--   2019: [3703](3703 "wikilink"), [3704](3704 "wikilink"),
-    [3705](3705 "wikilink"), [3706](3706 "wikilink"),
-    [3707](3707 "wikilink"), [3708](3708 "wikilink"),
-    [3709](3709 "wikilink")
--   2020: [3710](3710 "wikilink"), [3711](3711 "wikilink"),
-    [3712](3712 "wikilink"), [3713](3713 "wikilink"),
-    [3714](3714 "wikilink"), [3715](3715 "wikilink"),
-    [3716](3716 "wikilink"), [3717](3717 "wikilink"),
-    [3718](http://patchnotes.faforever.com/3718.html)
