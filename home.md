@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-09T10:16:45.854Z
+date: 2021-09-09T10:18:32.132Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -39,7 +39,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 ## Tutorials & Guides 
-
 <table>
 <tbody>
 <tr>
@@ -58,7 +57,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 ## **Useful Information**
-
 <table>
 <tbody>
 <tr>
@@ -89,7 +87,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 ## **Map & Mod Making**
-
 <table>
 <tbody>
 <tr class="odd">
@@ -115,7 +112,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 ## **Frequently Asked Questions (FAQ)**
-
 <table>
 <tbody>
 <tr class="odd">
@@ -158,8 +154,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </table>
 
 ## **Tournaments**
-
-
 <table>
 <tbody>
 <tr class="odd">
@@ -181,10 +175,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-------------------------------------------------------------------------
-
 ## Game & Balance Patchnotes
-
 <table>
 <tbody>
 <tr class="odd">
