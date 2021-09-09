@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-09-09T15:56:02.876Z
+date: 2021-09-09T16:02:06.739Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -151,3 +151,6 @@ Now, when you open up your game again, you will find that your console (F9) will
 ## Further Reading
 modding [Shaders](Shaders "wikilink")
 modding [Emitters](Modding_Emitters "wikilink")
+
+## Other Resorces
+
