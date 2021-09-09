@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-09-09T14:33:42.486Z
+date: 2021-09-09T15:15:31.509Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -29,8 +29,10 @@ See also [Tips for Modding Efficiently](Tips-for-Modding-Efficiently).
 - The game files (.scd) aswell as the FAF mod files (.nx2, ...) are all just renamed .zip files. You can copy them somewhere to work with, rename their extension and unzip them to see their content.
 - You can use the default hotkey F9 to open the live LOG in your game, and use LOG(text), SPEW(text) or WARN(text) in your code to print to it
 
-### Other sources
+### Information Sources
+- Here you can find a bunch of Functions in this [LUCADOC](/LUADOC)
 
+- Here are some more Lua Global Functions [Lua.Globals][/LUAGLOBALS]
 -   <http://supcom.wikia.com/wiki/LUADOC_1.5.3599> here you can find a
     bunch of functions
 -   <https://www.dropbox.com/s/7jpdpptw3ygonwb/fa.lua.globals.xlsx?dl=0>
