@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-09T00:17:56.256Z
+date: 2021-09-09T00:19:34.670Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -13,8 +13,27 @@ dateCreated: 2021-09-08T22:36:42.319Z
 ## 3702
 
 ## 3701
+### Bugs
+- Fixed bug that caused the Kennel structure to stay after being upgraded which resulted into having two buildings stacked upon each other
+### Gameplay
+- Changed Novax Sat fix in order to not potentially break mods
+- Updated mod blacklist
+- Removed smoke effect on the water surface caused by wrecks on the bottom of the ocean
+### Lobby
+- Moved current patch number in the lobby to a more visible location
+- Allow Users to open the Changelog by clicking on the patch number in the game lobby
+- Allow Users to open the changelog on github by adding a button to the changelog popup in the lobby
+### Contributors
+speed2
+Strogo
+Exotic-Retard
+PhilipJFry
 
 ## 3700
+### Bug
+- Fixed bug that caused users to get stuck when trying to host/join a game
+### Contributors
+speed2
 
 ## 3699
 ### Lobby
