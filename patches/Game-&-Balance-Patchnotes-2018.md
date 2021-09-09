@@ -1,8 +1,8 @@
 ---
-title: Game & Balance Patchnotes 2019
+title: Game & Balance Patchnotes 2018
 description: 
 published: true
-date: 2021-09-09T00:21:12.701Z
+date: 2021-09-09T09:11:53.184Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
