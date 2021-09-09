@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2020
 description: 
 published: true
-date: 2021-09-09T09:34:44.396Z
+date: 2021-09-09T09:37:22.165Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-09T09:34:44.396Z
@@ -12,6 +12,66 @@ dateCreated: 2021-09-09T09:34:44.396Z
 
 
 
+
+## 3715
+###Bugs
+- Fixed bigger strat icons
+- Fixed the eye of Rhianne giving permanent vision underwater
+- Fixed explosion decals spawn when structure dies
+- Fixed chat and minimap repositionning when resizing the game
+- Fixed explosion killing trees
+- Fixed explosion decals spawn with arty/bomber projectiles
+- Fixed mermaid torpedo hitbox
+- Fixed game slowdown on long AI games
+- Fixed wrong game rating reward
+- Fixed lag watching replay at fast speed and improved ingame performances
+- Fixed wreckages' hitbox positionning
+### Loby
+- Allowed single player lobby to get the features from the multiplayer lobby
+- Adapted autolobby for team matchmaker
+- Improved russian translation of the lobby
+### Gameplay
+- Added an alternative hotkey layout using cycle when building unit in factory
+- Added a hotkey to access factory template (unit queue template in factory)
+- Allowed to bind action to the "chevron" key
+### Improved AI
+- Prevented reclaim from cancelling death animation when the unit is killed by a shot (doesn't apply to volatile structure)
+- Added experimental armor to air/navy/structure experimental
+- Removed beetle armor
+### Other
+- Improved unit description in game
+- Updated resource structure description
+- Improved usability of the cheat menu
+- Allowed cheat menu to spawn modded unit
+- Improved the loading tips
+- Moved faction data out of the functions
+- Added topological sorting for mods
+- Added shaders for the SCTA
+- Improved scripted army movement
+
+### Contributors
+KionX
+speed2
+BlackYps
+The-Balthazar
+keyser
+Uveso
+Askaholic
+AugSphere
+FemtoZetta
+Dragun123
+ugandarowanda
+Jip
+Kazbek
+
+## 3714
+See the Balance Changes [Here](https://github.com/FAForever/fa/blob/develop/changelog.md#patch-3714-3-may-2020) 
+
+## 3713
+### Bugs
+- Fix a bug allowing to generate resources for free
+### Contributors
+speed2
 
 ## 3712
 ### Bugs
