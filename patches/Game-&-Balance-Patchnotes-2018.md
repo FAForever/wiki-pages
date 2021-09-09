@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2019
 description: 
 published: true
-date: 2021-09-08T23:15:58.998Z
+date: 2021-09-09T00:10:05.329Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-08T22:36:42.319Z
@@ -174,9 +174,11 @@ dateCreated: 2021-09-08T22:36:42.319Z
 		- Firing Randomness while moving: 0.5 → 0.2
 		- Rate of Fire: 0.07 → 0.066
 		- TurretYawSpeed: 90 → 50
+
 **T3 Mobile Artillery**
 - Build time is reduced for T3 mobile artillery.
 - Build Time: 4800 → 4300
+
 **Experimental Units**
 - Cybran
 	>- Monkeylord
@@ -222,116 +224,113 @@ dateCreated: 2021-09-08T22:36:42.319Z
 		- Flak Range: 25 → 21
 	>- Ahwassa
 		- Build Time: 36000 → 67500
+
 **Navy**
-        Battleships
-            Seraphim
-                FiringRandomness: 0.3 → 0.25
-                MuzzleVelocity: 30 → 40
-            Aeon
-                TurnRate: 35 → 40
-                MaxSpeed: 3.6 → 3.7
-                Range: 100 → 105
-        Cybran Carrier
-            Fixed the aim on the Anti Air weapon of the carrier.
-        Bulwark
-            Damage Overspill: 15% → 25%
-            Recharge time: 35 → 40
-        Shard
-            Health: 750 → 80
-    Structures
-        T3 Land HQs
-            Mass Cost: 4 920 → 5 220
-            Power Cost: 43 900 → 47 400
-            Build Time: 11 000 → 12 100
-        Ravager
-            Health: 7500 → 6500
-            Mass Cost: 1 800 → 2 000
-            Power Cost: 16 000 → 17 600
-            Build Time: 1 500 → 2000
-        T3 Static Artillery
-            UEF/Cybran/Seraphim/Aeon Range: 750/700/825/900 → 825
-        Cybran
-            Damage: 4600 → 3700
-            Rate of Fire: 0.1 → 0.13
-        T3 Mass Fabricator
-            Adjacency from storage: 4.1667% → 3%
-            Adjacency for SML: 20% → 12.5%
-    Miscellaneous
-        T1 Mobile Anti Air
-            Aeon
-                Mass Cost: 55 → 50
-                Damage: 10 → 8
-            UEF
-                Mass Cost: 55 → 50
-                Damage: 16 → 14
-            Seraphim
-                Mass Cost: 55 → 50
-                Damage: 8 → 14
-            Cybran
-                Mass Cost: 55 → 50
-                Damage: 10 → 9
-        Fire Beetle
-            Damage: 3500 → 1500
-            AoE: 4.5 → 6
-            Transport class: 2 → 1
-            Stun ability added. Duration → 2s. Stuns all units except Experimentals
-            Friendly Fire → Disabled
-            Health: 300 → 500
-        T2 Transports
-            Mass Cost: 300 → 330
-            Power Cost: 12000 → 13200
-            Speed: 15 → 14.3
-        Aurora
-            FiringRandomnessWhileMoving: 0.3 → 0.1
-            MuzzleVelocity: 30 → 25
-        Ahwassa
-            BombDropThreshold: 4 → 20
-        T1 Bombers
-            RandomBreakOffDistanceMult: 1 → 1.5
-        Selen
-            Removed the Power drain from the stealth/cloak ability while not moving.
+- Battleships
+	>- Seraphim
+		- FiringRandomness: 0.3 → 0.25
+		- MuzzleVelocity: 30 → 40
+	>- Aeon
+		- TurnRate: 35 → 40
+		- MaxSpeed: 3.6 → 3.7
+		- Range: 100 → 105
+- Cybran Carrier
+	>- Fixed the aim on the Anti Air weapon of the carrier.
+- Bulwark
+	>- Damage Overspill: 15% → 25%
+	>- Recharge time: 35 → 40
+- Shard
+	>- Health: 750 → 80
 
+**Structures:**
+- T3 Land HQs
+	>- Mass Cost: 4 920 → 5 220
+	>- Power Cost: 43 900 → 47 400
+	>- Build Time: 11 000 → 12 100
+- Ravager
+	>- Health: 7500 → 6500
+	>- Mass Cost: 1 800 → 2 000
+	>- Power Cost: 16 000 → 17 600
+	>- Build Time: 1 500 → 2000
+- T3 Static Artillery
+	>- UEF/Cybran/Seraphim/Aeon Range: 750/700/825/900 → 825
+	>- Cybran
+		- Damage: 4600 → 3700
+		- Rate of Fire: 0.1 → 0.13
+	>- T3 Mass Fabricator
+		- Adjacency from storage: 4.1667% → 3%
+		- Adjacency for SML: 20% → 12.5%
+- Miscellaneous
+	>- T1 Mobile Anti Air
+		- Aeon
+			- Mass Cost: 55 → 50
+			- Damage: 10 → 8
+		- UEF
+			- Mass Cost: 55 → 50
+			- Damage: 16 → 14
+		- Seraphim
+			- Mass Cost: 55 → 50
+			- Damage: 8 → 14
+		- Cybran
+			- Mass Cost: 55 → 50
+			-	Damage: 10 → 9
+	>- Fire Beetle
+			- Damage: 3500 → 1500
+			- AoE: 4.5 → 6
+			- Transport class: 2 → 1
+			- Stun ability added. Duration → 2s. Stuns all units except Experimentals
+			- Friendly Fire → Disabled
+			- Health: 300 → 500
+	>- T2 Transports
+			- Mass Cost: 300 → 330
+			- Power Cost: 12000 → 13200
+			- Speed: 15 → 14.3
+	>- Aurora
+			- FiringRandomnessWhileMoving: 0.3 → 0.1
+			- MuzzleVelocity: 30 → 25
+	>- Ahwassa
+			- BombDropThreshold: 4 → 20
+	>- T1 Bombers
+			- RandomBreakOffDistanceMult: 1 → 1.5
+	>- Selen
+			- Removed the Power drain from the stealth/cloak ability while not moving.
+### Gameplay
+- Civilian Structures
+	- Adjusted Civilian Building Mass values to make them more consistent. Civilian buildings will give 50-150 mass.
+- Cybran Shield
+	- Added the ED4 Shield to the list of buildable structures and to the hotbuild keygroup for shields.
+- Overcharge
+	- The damage dealt by overcharge now scales with the amount of energy drained from storage.
+	- Overcharge will drain as much energy as is required to kill any unit within the area of effect of the OC, or 90% of your stored energy.
+	- One energy storage is required to unlock Overcharge.
+	- One storage is required to kill T1 and T2 land units.
+	- Up to three storages will be required to kill T3 land units.
+	- The range of the Area of Effect is now displayed when using Overcharge.
+	- The OC indicator will turn orange if you do not have enough energy in storage to kill the unit under the cursor.
+	- The OC indicator will turn green if you have enough energy in storage to kill the unit under the cursor.
+	- The maximum damage is 15k at a cost of ~45k energy
+	- Damage vs buildings and vs commanders is unchanged from the previous system. We have added new icons to indicate whether you have enough energy to kill the unit under your cursor.
+	- Gray is for idle, Orange means you dont have enough energy to kill and green means you will kill the unit if you OC it.
+- Veterancy
+	- The vet gained from buildings was too high, leading to problems especially with ACU TML.
+	- Veterancy gained from damaging non-combat buildings is reduced by 50%
+	- Only a single vet level can be gained for any one kill.
+- Teleport
+	- Teleporting takes 5 seconds longer. The animation at the teleport destination is unchanged.
 
-Gameplay
-
-    Civilian Structures
-        Adjusted Civilian Building Mass values to make them more consistent. Civilian buildings will give 50-150 mass.
-    Cybran Shield
-        Added the ED4 Shield to the list of buildable structures and to the hotbuild keygroup for shields.
-    Overcharge
-        The damage dealt by overcharge now scales with the amount of energy drained from storage.
-        Overcharge will drain as much energy as is required to kill any unit within the area of effect of the OC, or 90% of your stored energy.
-        One energy storage is required to unlock Overcharge.
-        One storage is required to kill T1 and T2 land units.
-        Up to three storages will be required to kill T3 land units.
-        The range of the Area of Effect is now displayed when using Overcharge.
-        The OC indicator will turn orange if you do not have enough energy in storage to kill the unit under the cursor.
-        The OC indicator will turn green if you have enough energy in storage to kill the unit under the cursor.
-        The maximum damage is 15k at a cost of ~45k energy
-        Damage vs buildings and vs commanders is unchanged from the previous system. We have added new icons to indicate whether you have enough energy to kill the unit under your cursor.
-        Gray is for idle, Orange means you dont have enough energy to kill and green means you will kill the unit if you OC it.
-    Veterancy
-        The vet gained from buildings was too high, leading to problems especially with ACU TML.
-        Veterancy gained from damaging non-combat buildings is reduced by 50%
-        Only a single vet level can be gained for any one kill.
-    Teleport
-        Teleporting takes 5 seconds longer. The animation at the teleport destination is unchanged.
-
-Bug Fixes
-
-    Nuke trajectory is now corrected so it travels parallel to the ground.
-    Selens will no longer lose their radar when there is a power stall.
-    Units with personal shields that are unloading from transports will now take damage on their health when hit.
-    The seraphim T2 torp defence wreck is no longer invisible.
+### Bug Fixes
+- Nuke trajectory is now corrected so it travels parallel to the ground.
+- Selens will no longer lose their radar when there is a power stall.
+- Units with personal shields that are unloading from transports will now take damage on their health when hit.
+- The seraphim T2 torp defence wreck is no longer invisible.
 
 Contributors
-
-    CookieNoob
-    Exotic Retard
-    JaggedAppliance
-    MrNukealizer
-    Petricpwnz
-    PhilipJFry
-    speed2
-    Strogo
-    Uveso
+CookieNoob
+Exotic Retard
+JaggedAppliance
+MrNukealizer
+Petricpwnz
+PhilipJFry
+speed2
+Strogo
+Uveso
