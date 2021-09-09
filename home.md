@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-09T09:54:19.132Z
+date: 2021-09-09T10:16:06.168Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -210,7 +210,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="/patches/Game-&-Balance-Patchnotes-2021"> 2021</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2022"> 2022</a></li>
 </ul></td>
 <td></td>
 </tr>
