@@ -2,7 +2,7 @@
 title: Replay Vault & Live Games
 description: 
 published: true
-date: 2021-09-09T14:28:06.267Z
+date: 2021-09-10T10:33:00.923Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:51.199Z
@@ -24,10 +24,6 @@ All active games are shown, including 'private' ones. The picture on the very le
 ### 3. More information
 
 If you click a replay, a list with all players in the game will appear. Disconnected players will no longer be shown in this list. Click one of the names to view the live game, or right-click for more options.
-
-### 4. Gamemod played
-
-On the very right you can see the mod played in this game. "FAF" is a normal game, "[1v1 Ladder](The_Ladder "wikilink")" is a ranked game, and so on.
 
 ### Important things about livereplays:
 - Livereplays will sometimes stop if the player you clicked leaves. If this happens, you can always switch to another player's livereplay, and fast forward back to where you were.
