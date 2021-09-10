@@ -2,7 +2,7 @@
 title: Replay Vault & Live Games
 description: 
 published: true
-date: 2021-09-10T10:33:00.923Z
+date: 2021-09-10T10:34:08.109Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:51.199Z
@@ -27,7 +27,7 @@ If you click a replay, a list with all players in the game will appear. Disconne
 
 ### Important things about livereplays:
 - Livereplays will sometimes stop if the player you clicked leaves. If this happens, you can always switch to another player's livereplay, and fast forward back to where you were.
-- You cannot save livereplays locally after you watch the game. You have to download them from the [online vault](Replay_Vault_&_Live_Games#Online_Vault "wikilink") when they are finished; note the map or players in order to find it again, or just have a look on top of the Vault a few seconds after the game is finished.
+- You cannot save livereplays locally after you watch the game. You have to download them from the [online vault](Replay-Vault-&-Live-Games#Online-Vault) when they are finished; note the map or players in order to find it again, or just have a look on top of the Vault a few seconds after the game is finished.
 - If the game stops at some point, it could be because the game is paused.
 
 ## Local Vault
@@ -63,7 +63,7 @@ or
 
 - http://content.faforever.com/faf/vault/replay_vault/replay.php?id=ENTERIDHERE
 
-or write [chat command](FAF_chat#Chat_commands "wikilink") into [main chat (#aeolus)](FAF_chat "wikilink") to generate download link
+or write [chat command](/FAF-chat#Chat-commands) into [main chat (#aeolus)](/FAF-chat) to generate download link
 
 -   #ENTERIDHERE
 
