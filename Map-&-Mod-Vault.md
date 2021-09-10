@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-09-08T13:43:08.396Z
+date: 2021-09-10T10:29:59.823Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -12,19 +12,26 @@ dateCreated: 2021-08-31T09:44:14.939Z
 
 In the map vault, you will find every map available for Forged Alliance. All maps downloaded via map vault are saved in this folder:
 `C:\Users\%UserName%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Maps`
-![maps.png](/maps.png)
-### 1. Search tab
-You can search for map names here, you dont have to enter the full name. You can also use filters.
-### 2. Uploading Maps
+
+![mapvault.png](/mapvault.png)
+### 1 Map Search query
+You can search for map by the folowing Using the filterd Search
+- Name
+- Author
+- Upload Date
+- Width
+- Height
+- Max Players: to
+
+This Alows you to filiter down to the spesific maps you are looking for.
+### 2 Manage Installed Maps
+![installedmaps.png](/installedmaps.png)
+
+this little pop up when you click the button alows you to us to look down the lsit and any maps you no long want you jsut click oin the bin icon next to it and the map is uninstalled.
+### 3 Uploading Maps
 For Information Uploading Maps please check out the Rule's [Here](https://forums.faforever.com/viewtopic.php?f=2&t=17873)
-### 3. Map Sections
-Here the Map Vault is split into different sections to help you out looking for maps.
-- M&M Team Top Picks : It is a list of Curated Maps that the Content Creator have put time and effort into their work.
-- Most Liked : This goes by the reviews left on the map download page. Depending on what the reviews are will decide where it places in the list.
-- Most Recent : Theses are new maps that have been recently added to the map vault by people.
-- Most Played : This Quite self-explanatory, it the maps that have had the most game played on.
-- Ladder Maps : This is the list of maps that are in the Current 1v1 Ladder Pool.
-### 4. Map Summary
+
+### 4 Map Info
 Here you can see Some basic Information about the map
 - Name of the Map
 - Preview Image of the map
