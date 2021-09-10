@@ -2,7 +2,7 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-08-31T16:43:08.643Z
+date: 2021-09-10T09:40:47.223Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -33,3 +33,18 @@ Double click on hosted game in order to join it. Enter any password as normal.
 Here you can see the best times for selected mission. Watching these can give you a lot of information on how to beat a mission if you're struggling with it!
 
 ![coop-missions.png](/coop-missions.png)
+
+### Mission List
+| FA         | Supcom 1 - UEF | Supcom 1 - Aeon | Supcom 1 - Cybran | FAF Custom                |
+| ---------- | -------------- | --------------- | ----------------- | ------------------------- |
+| Black Day  | Black Earth    | Joust           | Liberation        | Prothyon - 16             |
+| Dawn       | Snow Blind     | Machine Purge   | Arifact           | Fort Clarke Assault       |
+| Red Flag   | Metal Shark    | High Tide       | Defrag            | Theta Civilian Rescue     |
+| Meltdown   | Vaccine        | Enity           | Mainframe Tango   | Novax Station Assaault    |
+| Mind Games | Forge          | Shining Star    | Unlock            | Operation Tha-Atha-Aez    |
+| Overlord   | Stone Wall     | Beginnings      | Freedom           | Haven's Invasion          |
+|            |                |                 |                   | Operation Rescue          |
+|            |                |                 |                   | Operation Uhthe-Thuum-QAI |
+|            |                |                 |                   | Operaion Yath-Aez         |
+|            |                |                 |                   | Operaion Loz-Shavoh-Kael  |
+|            |                |                 |                   | Operation Trident         |
