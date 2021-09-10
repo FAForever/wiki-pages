@@ -2,7 +2,7 @@
 title: Unit-Database
 description: 
 published: true
-date: 2021-08-31T19:35:58.303Z
+date: 2021-09-10T09:53:37.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:40.961Z
@@ -25,8 +25,10 @@ In order to calculate how long its going to take to build a unit we are going to
 
 To get the real value in seconds we are going to use this formula:
 - Build time / Build Rate = Our value in seconds
-	>Example:
-	T3 engy building Monkeylord:
-	15750 / 30 = 525 (sec)
-	525 / 60 = 8 min 45 sec
+> Example:
+T3 engy building Monkeylord:
+15750 / 30 = 525 (sec)
+525 / 60 = 8 min 45 sec
+{.is-info}
+
 
