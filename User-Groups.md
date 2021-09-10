@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-09-10T08:34:01.444Z
+date: 2021-09-10T09:56:21.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -86,7 +86,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 > {.is-info}
 ### FAF Moderators
 
-These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](FAF-chat#Chat-commands) to be given a list of online moderators.
+These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](/FAF-chat#Chat-commands) to be given a list of online moderators.
 
 You can make reports to the moderators by using [this form](https://www.faforever.com/account/report)
 
@@ -106,7 +106,7 @@ Current moderators:
 - **angelofd347h**
 - **nemir**
 
-**Important:** *QAI* and *AeonCommander* are [chat bots](FAF-chat#Chat-commands)!
+**Important:** *QAI* and *AeonCommander* are [chat bots](/FAF-chat#Chat-commands)!
 
 IRC moderators (These are irc-only moderators)
 
@@ -136,7 +136,7 @@ IRC moderators (These are irc-only moderators)
 
 This is the updated list of Trainers.
 
-These people are trainers who can teach you how to play Supreme Commander. PM them in [FAF Chat](FAF-chat) and ask for a lesson!
+These people are trainers who can teach you how to play Supreme Commander. PM them in [FAF Chat](/FAF-chat) and ask for a lesson!
 
 Names Provided here are the names they go by on the FAF Discord.
 
@@ -161,7 +161,7 @@ List of trainers happy to help you!
 
 ### Tournament Directors
 
-This is a list of people who host [Tournaments](Tournaments "wikilink") on FAF. If you want to become one of them you can sign up by joining the [PC Discord](Voicechat_(Discord)#Other_Discord_Server "wikilink") and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
+This is a list of people who host [Tournaments](Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
 - **Swkoll**
 - **Inspektor_Kot**
