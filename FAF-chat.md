@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-08-31T18:52:38.006Z
+date: 2021-09-10T08:39:14.742Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -46,14 +46,13 @@ This will not affect your friends list or your account in any way, as the nickna
 -   If someone from your friends list renames, you won't see him/her there until you restart FAF.
 
 User names are visible to everyone, and therefore must be kept clean and age-appropriate. You can only rename once every 30 days - if a moderator has to ask you to change your name, you'll be unable to chat until you can rename. Use common sense, and if you're having trouble coming up with a name on your own, try a service such as <http://rinkworks.com/namegen/>!
--   You can find out a user's name history with the following link: <http://app.faforever.com/faf/userName.php?name=ENTERNAMEHERE>
 
 ## Rating, League, and Division
 The rating shown in the lobby is always your [Global Ranking](/Global-Ranking). You can learn more here: Leagues and Divisions
 
 ## Avatars
-You can view all existing avatars on [this page.](https://jeremy.faforever.com/avatars)
 Right now, there are only few ways to get avatars. Here a list:
+***Add Image of All the avatars***
 - Be a famous caster or streamer 
 - Participate in a tournament, the easiest way to get an avatar.
 - Test the game code (playing FAF develop mod and reporting bugs).
@@ -73,6 +72,7 @@ Right now, there are only few ways to get avatars. Here a list:
 ## Player Status
 As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
 - Nothing: this player is just chatting or afk.
+- One Gold Sword: this player is currenly hosting a game.
 - One sword: this player is currently in a game lobby.
 - Crossed swords: this player is playing a game.
 
