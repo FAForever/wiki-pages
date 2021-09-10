@@ -2,7 +2,7 @@
 title: Replay Vault & Live Games
 description: 
 published: true
-date: 2021-09-10T10:34:08.109Z
+date: 2021-09-10T10:34:28.760Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:51.199Z
@@ -27,7 +27,7 @@ If you click a replay, a list with all players in the game will appear. Disconne
 
 ### Important things about livereplays:
 - Livereplays will sometimes stop if the player you clicked leaves. If this happens, you can always switch to another player's livereplay, and fast forward back to where you were.
-- You cannot save livereplays locally after you watch the game. You have to download them from the [online vault](Replay-Vault-&-Live-Games#Online-Vault) when they are finished; note the map or players in order to find it again, or just have a look on top of the Vault a few seconds after the game is finished.
+- You cannot save livereplays locally after you watch the game. You have to download them from the [online vault](Replay-Vault-&-Live-Games) when they are finished; note the map or players in order to find it again, or just have a look on top of the Vault a few seconds after the game is finished.
 - If the game stops at some point, it could be because the game is paused.
 
 ## Local Vault
