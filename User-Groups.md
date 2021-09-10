@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-09-10T09:56:21.922Z
+date: 2021-09-10T12:39:22.769Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -84,7 +84,8 @@ The Moderators Councillor is a member of the Council of Setons and is working on
  Approving of new avatars/control over given avatars
  Uphold the community rules in the game, chat and forums
 > {.is-info}
-### FAF Moderators
+
+## FAF Moderators
 
 These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](/FAF-chat#Chat-commands) to be given a list of online moderators.
 
@@ -92,47 +93,21 @@ You can make reports to the moderators by using [this form](https://www.faforeve
 
 If you are interested in joining the moderator team you can write a PM (private message) to the Currenly Active Moderator Councilor detailing on why you think you would make a good addition to the team, which timezone you live in and what sort of commitment you are able to make if you are selected.
 
-Current moderators:
 
-- **Giebmasse**
-- **Gorton** (VoR_GoR, Tyr)
-- **Voodoo** (Scruffy)
-- **Resistance**
-- **Swkoll**
-- **Deribus**
-- **Legion Darrath**
-- **Tex**
-- **archsimkat**
-- **angelofd347h**
-- **nemir**
+| Current Moderators |
+| ------------------ |
+| Giebmasse          | Gorton             | Voodoo             | Resistance         |
+| Swkoll             | Deribus            | Legion Darrath     | Tex                |
+| archsimkat         | angelofd347h       | nemir              |                    |
+
+
+| IRC Moderators |
+| -------------- |
+| Medicraze      | SiwaonaDaphnewen | NarNerdPower | Viking |
 
 **Important:** *QAI* and *AeonCommander* are [chat bots](/FAF-chat#Chat-commands)!
 
-IRC moderators (These are irc-only moderators)
-
-- **Medicraze**
-- **SiwaonaDaphnewen**
-- **NarNerdPower**
-- **Viking**
-
-#### **Past Moderators**
-- Exotic_Retard (RetardedIRC)
-- PhilipJFry
-- Com (VoRCom)
-- Deering (Deering_,kangarooing)
-- Jackherer (Pollos_Hermanos)
-- lextoc
-- Nombringer (BringerofNoms)
-- SiNs
-- speed2 (speed2_IRC)
-- TAG_UBER (TAG_UBER_)
-- ToejamS
-- Viking
-- VioletAnia
-- Upcast
-- Laticlave
-
-### Trainers
+## Trainers
 
 This is the updated list of Trainers.
 
@@ -140,26 +115,14 @@ These people are trainers who can teach you how to play Supreme Commander. PM th
 
 Names Provided here are the names they go by on the FAF Discord.
 
-- **Morax** 
-- **Emerald** 
-- **Javi**
-- **HintHunter**
-- **Deribus**
-- **Tagada**
-- **Inspektor_Kot**
-- **Sladow**
-- **Explosive**
-- **F-Odin**
-- **Terminal**
-- **Resistance**
-- **Cheeseberry** 
-- **Aulex**  
-- **LimeZ3**     
-- **Gorthaur**      
+| Active Trainers |
+| --------------- |
+| Morax           | Emerald         | Javi | HintHunter |
+| Deribus         | Tagada          | Inspektor\_Kot | Sladow |
+| Explosive       | F-Odin          | Terminal | Resistance |
+| Cheeseberry     | Aulex           | LimeZ3 | Gorthaur |
 
-List of trainers happy to help you!
-
-### Tournament Directors
+## Tournament Directors
 
 This is a list of people who host [Tournaments](Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
