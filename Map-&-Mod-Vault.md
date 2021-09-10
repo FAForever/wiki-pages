@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-09-10T10:30:53.471Z
+date: 2021-09-10T10:31:19.939Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -61,7 +61,8 @@ Click on Manage Active Mods Button to open the selection.
 You can select from the top UI or SIM. As long as the Mod is highlighted in blue it is selected.
 ![active-mod-manager.png](/active-mod-manager.png)
 
-## Mod types {.tabset}
+## Mod Types
+## {.tabset}
 ### UI Mods
 
 [UI mods](/Game-Modifications-(Mods)#UI-Mods) are mods which are activated on a per-person basis and have no effect on other players in the game. As the name implies, they are usually changes and enhancements to the UI and can make playing the game easier. UI mods should never make a game unrated.
