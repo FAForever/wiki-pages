@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-10T09:52:43.503Z
+date: 2021-09-16T21:46:51.317Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -77,7 +77,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/qai.png" width="25"/><a href="Bots">Bots</a></li>
-<li><img src="/information-icons/chat-icon.png"/><a href="Chat-/-IRC_server"> Connect to Aeolus via IRC</a></li>
+<li><img src="/information-icons/chat-icon.png"/><a href="Chat-/-IRC-server"> Connect to Aeolus via IRC</a></li>
 <li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Rating System</a></li>
 </ul></td>
 <td></td>
