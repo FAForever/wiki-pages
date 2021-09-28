@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-09-10T08:39:14.742Z
+date: 2021-09-28T15:46:16.499Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -10,33 +10,33 @@ dateCreated: 2021-08-31T09:43:19.686Z
 
 ![chat-tab2.png](/chat-tab2.png)
 ## Chat tabs
-1.  #aeolus is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chat rules](https://faforever.com/rules). 
-2.  Chatrooms without a # are private, such as direct messages to other players.
+- #aeolus is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chat rules](https://faforever.com/rules). 
+- Chatrooms without a # are private, such as direct messages to other players.
 
 You can open up a private chat with a player by double clicking his name in the name list.
 ## Chat commands
 Write chat commands directly in chat, starting with "!" "#" or "/"
 
-1.  **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
-2.  **!seen** - followed by username. Shows when was user last time online, it is case sensitive.
-3.  **!streams** - Shows all currently online [streams](/Casts&Livestreams ) of Forged Alliance. (Twitch, HitBox, etc)
-4.  **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
-5.  **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
-6.  **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
-7.  **!help** - Lists all available fafbot commands and their descriptions
-8.  **#REPLAYID** - Generated download link for [replay](/Replay-Vault-&-Live-Games), shows map played and lists all players.
-9.  **!kick** - used by channel operators for kicking user from channel
-10. **!ban** - used by channel operators for banning user from channel
-11. **/topic** - followed by text. Changes topic of a channel.
+- **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
+- **!seen** - followed by username. Shows when was user last time online, it is case sensitive.
+- **!streams** - Shows all currently online [streams](/Casts&Livestreams ) of Forged Alliance. (Twitch, HitBox, etc)
+- **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
+- **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
+- **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
+- **!help** - Lists all available fafbot commands and their descriptions
+- **#REPLAYID** - Generated download link for [replay](/Replay-Vault-&-Live-Games), shows map played and lists all players.
+- **!kick** - used by channel operators for kicking user from channel
+- **!ban** - used by channel operators for banning user from channel
+- **/topic** - followed by text. Changes topic of a channel.
 
 **!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/IRC-server) to your IRC.
 
 ## Player list
-In the top is the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
--   There is an option to assign randomly colored names to each player, but this will only override gray and dark gray colors
+On the Right hand side the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
+- There is an option to assign randomly colored names to each player, but this will only override gray and dark gray colors
 
 ### [Clans](/Clans)
--   Players that are a part of a clan have their clan tags in front of their names. (Example \[e\] for Empire clan \[BC\] Bad Company, etc.)
+-   Players that are a part of a clan have their clan tags in front of their names. (Example \[\] for Empire clan \[BC\] Bad Company, etc.)
 
 ### User Name Change and Name History
 If you would like to change your username, you can do it here: <https://www.faforever.com/account/username/change> or by typing "!link namechange" and QAI will link the page above.
