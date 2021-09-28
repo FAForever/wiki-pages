@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-16T21:46:51.317Z
+date: 2021-09-28T14:52:30.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -38,18 +38,18 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## Tutorials & Guides 
+## Tutorials, Guides & FAQ 
 <table>
 <tbody>
 <tr>
 <td><ul>
-<li><a href="Written-Guides"> New Starter Written Guides</a></li>
+<li><a href="Written-Guides"> Written Guides</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Basics-Videos"> Basic's Videos</a></li>
+<li><a href="Basics-Videos"> Videos</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Advanced-Videos"> Advanced Videos</a></li>
+<li><a href="FAQ"> FAQ</a></li>
 </ul></td>
 <td></td>
 </tr>
