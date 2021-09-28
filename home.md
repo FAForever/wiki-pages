@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-28T15:18:02.972Z
+date: 2021-09-28T15:25:07.088Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -12,35 +12,36 @@ dateCreated: 2021-08-31T09:44:13.010Z
 
 # {.tabset}
 
+## FAF Client
 <table>
 <tbody>
 <tr>
 <td><ul>
 <li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> NewsHub</a></li>
 <li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Coop Missions</a></li>
-<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF chat</a></li>
 <li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Leaderboards</a></li>
-<li><img src="/faf-client-icons/tmm-icon.png"><a href="The-Ladder"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host & Join</a></li>
 <li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> Unit Database</a></li>
-<li><img src="/faf-client-icons/replays-icon.png"><a href="Replay-Vault-&-Live-Games"> Replay Vault &amp; Live Games</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/cos-icons/cos-moderation.png"><a href="User-Groups"> User Groups</a></li>
-<li><img src="/personal_trainer_avatar.png"><a href="User-Groups#trainers"> Trainers</a></li>
-<li><img src="/tournament_director.png"><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
+<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
+<li><img src="/faf-client-icons/tmm-icon.png"><a href="The-Ladder"> Team Matchmaker</a></li>
+</ul></td>
+<td><ul>
+<li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Replays &amp; Live Games</a></li>
+<li><a href="The-Ladder"> Tutorials Tab</a></li>
 </ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## Tutorials, Guides & FAQ 
+## Guides, User Groups & FAQ  
 <table>
 <tbody>
 <tr>
@@ -52,6 +53,15 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="FAQ"> FAQ</a></li>
+</ul></td>
+<td><ul>
+<li><a href="FAQ"> User Groups</a></li>
+</ul></td>
+<td><ul>
+<li><a href="FAQ"> Trainers</a></li>
+</ul></td>
+<td><ul>
+<li><a href="FAQ"> Tournament Directores</a></li>
 </ul></td>
 <td></td>
 </tr>
