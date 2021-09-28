@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-09-10T08:58:45.979Z
+date: 2021-09-28T15:48:08.364Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -15,9 +15,11 @@ This tab in the lobby is how you start to play Forged Alliance with the client. 
 - XXX - XXXX (XXXX+) - [Global Rating](/Global-Ranking) Limitations (example 800-1500, 1200+)
 
 ## Play Tab
-If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
-Coop Campaign missions can be hosted at the [Coop Missions](/Coop-Missions) Tab & Ladder Games Can be Joined via the [1v1 Ladder](/The-Ladder) Tab.
+
 ![game-panel.png](/game-panel.png)
+If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
+Coop Campaign missions can be hosted at the [Co-op](/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/The-Ladder) Tab.
+
 
 ## Game Modes
 - Matchmaker
