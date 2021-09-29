@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-29T10:05:26.232Z
+date: 2021-09-29T10:23:27.353Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -53,13 +53,13 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="FAQ"> FAQ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAQ"> User Groups</a></li>
+<li><a href="User-Groups"> User Groups</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAQ"> Trainers</a></li>
+<li><a href="User-Groups#trainers"> Trainers</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAQ"> Tournament Directores</a></li>
+<li><a href="User-Groups#tournament-directors"> Tournament Directores</a></li>
 </ul></td>
 <td></td>
 </tr>
