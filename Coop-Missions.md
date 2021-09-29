@@ -2,7 +2,7 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-09-10T09:40:47.223Z
+date: 2021-09-29T10:01:31.913Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -35,16 +35,12 @@ Here you can see the best times for selected mission. Watching these can give yo
 ![coop-missions.png](/coop-missions.png)
 
 ### Mission List
-| FA         | Supcom 1 - UEF | Supcom 1 - Aeon | Supcom 1 - Cybran | FAF Custom                |
-| ---------- | -------------- | --------------- | ----------------- | ------------------------- |
-| Black Day  | Black Earth    | Joust           | Liberation        | Prothyon - 16             |
-| Dawn       | Snow Blind     | Machine Purge   | Arifact           | Fort Clarke Assault       |
-| Red Flag   | Metal Shark    | High Tide       | Defrag            | Theta Civilian Rescue     |
-| Meltdown   | Vaccine        | Enity           | Mainframe Tango   | Novax Station Assaault    |
-| Mind Games | Forge          | Shining Star    | Unlock            | Operation Tha-Atha-Aez    |
-| Overlord   | Stone Wall     | Beginnings      | Freedom           | Haven's Invasion          |
-|            |                |                 |                   | Operation Rescue          |
-|            |                |                 |                   | Operation Uhthe-Thuum-QAI |
-|            |                |                 |                   | Operaion Yath-Aez         |
-|            |                |                 |                   | Operaion Loz-Shavoh-Kael  |
-|            |                |                 |                   | Operation Trident         |
+| FA         	| Supcom 1 - UEF 	| Supcom 1 - Aeon 	| Supcom 1 - Cybran 	| FAF Custom             	| Seraphim Campagin         	|
+|------------	|----------------	|-----------------	|-------------------	|------------------------	|---------------------------	|
+| Black Day  	| Black Earth    	| Joust           	| Liberation        	| Prothyon - 16          	| Operaion Yath-Aez         	|
+| Dawn       	| Snow Blind     	| Machine Purge   	| Arifact           	| Fort Clarke Assault    	| Operation Tha-Atha-Aez    	|
+| Red Flag   	| Metal Shark    	| High Tide       	| Defrag            	| Theta Civilian Rescue  	| Operation Uhthe-Thuum-QAI 	|
+| Meltdown   	| Vaccine        	| Enity           	| Mainframe Tango   	| Novax Station Assaault 	| Operaion Loz-Shavoh-Kael  	|
+| Mind Games 	| Forge          	| Shining Star    	| Unlock            	| Haven's Invasion       	|                           	|
+| Overlord   	| Stone Wall     	| Beginnings      	| Freedom           	| Operation Trident      	|                           	|
+|            	|                	|                 	|                   	| Operation Rescue       	|                           	|
