@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-09-29T10:23:27.353Z
+date: 2021-10-07T18:06:46.668Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -43,9 +43,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <table>
 <tbody>
 <tr>
-<td><ul>
-<li><a href="Written-Guides"> Written Guides</a></li>
-</ul></td>
 <td><ul>
 <li><a href="Videos-Guides"> Videos</a></li>
 </ul></td>
