@@ -2,7 +2,7 @@
 title: FA-Forever-Map-Editor
 description: 
 published: true
-date: 2021-10-07T20:37:49.926Z
+date: 2021-10-07T21:11:43.420Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -24,22 +24,27 @@ You can download the current version [here](https://github.com/ozonexo3/FAForeve
 
 ## Setting up the editor
 
-Before using the editor you need to set up your preferences.
-
-![faf_mapeditor_preferences.png](/faf_mapeditor_preferences.png)
-
 ### Preferences
+![faf_mapeditor_preferences.png](/faf_mapeditor_preferences.png){.align-center}
 Before loading any map you must specify the paths to your game and maps folder.
 
-- **Sup Com Forged Alliance installation path** - Path to where the game is installed. It will also work with vanilla Supreme Commander, but always use Forged Alliance to get access to all the new assets. Use **"..."** to open folder browser. When using **Default** button editor will try to find the path by itself.
-- **Maps folder path** - Path to where all maps are stored. The Alpha version can only load maps from that folder, so if you have maps in a different folder, you need to change this path or move the maps to the specified folder.
-- **Backup folder** - Path where backups of old maps files will be moved. If empty, backups will be saved in *FAForeverMapEditor_Data/MapsBackup/*.
-- **Undo steps** - Maximum number of steps saved in memory for Undo and Redo.
-- **Play map** - Settings for using *File/Play map*. You can select a **faction** and disable **Fog of war**.
-- **Markers 2D** - This will scale markers up when they camera is away. Use this feature to better see all markers on the map. 
-- **Heigtmap brush Clamp** - This will not allow for painting higher or lower than 50 units from lowest/highest point on the map to prevent "black plane bug". This bug has been fixed for FAF so this is no longer required
-- **UI Scale** - Change scale of editors UI
-
+>**Sup Com Forged Alliance installation path**
+Path to where the game is installed. It will also work with vanilla Supreme Commander, but always use Forged Alliance to get access to all the new assets. Use **"..."** to open folder browser. When using **Default** button editor will try to find the path by itself.
+**Maps folder path**
+Path to where all maps are stored. The Alpha version can only load maps from that folder, so if you have maps in a different folder, you need to change this path or move the maps to the specified folder.
+**Backup folder**
+Path where backups of old maps files will be moved. If empty, backups will be saved in *FAForeverMapEditor_Data/MapsBackup/*.
+**Undo steps**
+Maximum number of steps saved in memory for Undo and Redo.
+**Play map**
+Settings for using *File/Play map*. You can select a **faction** and disable **Fog of war**.
+**Markers 2D**
+This will scale markers up when they camera is away. Use this feature to better see all markers on the map. 
+**Heigtmap brush Clamp**
+This will not allow for painting higher or lower than 50 units from lowest/highest point on the map to prevent "black plane bug". This bug has been fixed for FAF so this is no longer required
+**UI Scale**
+Change scale of editors UI
+{.is-info}
 ### Editor LOG
 
 When the editor crashes or behaves in strange way it may be useful to send log to the developer. You can find them here:
@@ -56,21 +61,23 @@ You can find them in:
 
 ### Symmetry
 
-The editor supports several symmetry options for editing maps. You need to select the right one before making changes to the map, because everything you do will be symmetrical based on selected settings. To open symmetry settings go to *Symmetry/Symmetry settings...*.
+The editor supports several symmetry options for editing maps.
+You need to select the right one before making changes to the map, because everything you do will be symmetrical based on selected settings.
+To open symmetry settings go to *Symmetry/Symmetry settings...*.
 
-Tolerance is how far in game units the editor will search for symmetrical objects when selected. Matching objects will be selected as orange. If it can't find a matching object it will display a gray selection where it should be.
+Tolerance is how far in game units the editor will search for symmetrical objects when selected.
+Matching objects will be selected as orange. If it can't find a matching object it will display a gray selection where it should be.
 
 | Setting                            | Symmetry effect                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| X                                  | Mirrors items on the left side of the map to the right side                                                                                                                                                                                                                                                                                                                                  |
-| Z                                  | Mirrors items on the top of the map to the bottom of the map                                                                                                                                                                                                                                                                                                                                 |
-| X + Z                              | Mirrors top to bottom and left to right (or the reverse)                                                                                                                                                                                                                                                                                                                                     |
+| <kbd>X</kbd>                                  | Mirrors items on the left side of the map to the right side                                                                                                                                                                                                                                                                                                                                  |
+| <kbd>Z</kbd>                                  | Mirrors items on the top of the map to the bottom of the map                                                                                                                                                                                                                                                                                                                                 |
+| <kbd>X</kbd> + <kbd>Z</kbd>                              | Mirrors top to bottom and left to right (or the reverse)                                                                                                                                                                                                                                                                                                                                     |
 | Diagonal (Top Left + Bottom Right) | Mirrors the top left to bottom right (and reverse)                                                                                                                                                                                                                                                                                                                                           |
 | Diagonal (Bottom Left + Top Right) | Mirrors the bottom left to top right (and reverse)                                                                                                                                                                                                                                                                                                                                           |
 | Diagonal + Diagonal                | Similar to X+Z except it mirrors on the diagonals/                                                                                                                                                                                                                                                                                                                                           |
 | Center by angle (2-16)             | This mirrors directly to the opposite side through the middle of the map. Rotation steps indicates how many units will be placed. For example, 2 will only place the one you have and one mirrored. 4 will place the one you have and three more. For example, with a rotation of 4: If you place a unit in the South East, it will place one in the North East, South West, and North West. |
 |                                    |                                                                                                                                                                                                                                                                                                                                                                                              |
-
 
 ## Useful shortuts
 
@@ -85,10 +92,10 @@ Tolerance is how far in game units the editor will search for symmetrical object
 | <kbd>Left Ctl</kbd> + <kbd>D</kbd>      | Duplicate selected objects                                                                                                         |
 | <kbd>Left Shift</kbd>            | Smooth brush, Add selection                                                                                                        |
 | <kbd>Left Alt</kbd>              | Invert brush, Erase, Unselect                                                                                                      |
-| <kbd>B + <kbd>LMB or <kbd>W + <kbd>LMB    | Dragging over terrain will change brush size                                                                                       |
-| <kbd>V + <kbd>LMB or <kbd>S + <kbd>LMB    | Dragging over terrain will change brush strength                                                                                   |
-| <kbd>Q or <kbd>+</kbd>                | Increase brush target value                                                                                                        |
-| <kbd>A or <kbd>-</kbd>                | Decrease brush target value                                                                                                        |
+| <kbd>B</kbd> + <kbd>LMB</kbd> or <kbd>W</kbd> + <kbd>LMB</kbd>    | Dragging over terrain will change brush size                                                                                       |
+| <kbd>V</kbd> + <kbd>LMB</kbd> or <kbd>S</kbd> + <kbd>LMB</kbd>    | Dragging over terrain will change brush strength                                                                                   |
+| <kbd>Q</kbd> or <kbd>+</kbd>                | Increase brush target value                                                                                                        |
+| <kbd>A</kbd> or <kbd>-</kbd>                | Decrease brush target value                                                                                                        |
 | <kbd>TAB</kbd>                  | Next brush type                                                                                                                    |
 | <kbd>1-4</kbd>            | Select brush type                                                                                                                  |
 | <kbd>CTRL</kbd> + <kbd>LMB</kbd>            | Sample target height for heightmap brush (pipette)                                                                                 |
@@ -108,16 +115,23 @@ Tolerance is how far in game units the editor will search for symmetrical object
 ## Create a new map
 To create new map use *File/New Map*.
 ![faf_mapeditor_newmap.png](/faf_mapeditor_newmap.png){.align-right}
-- **Name** - Name of the map. This will be also used to name folders and files. See below for correct map naming conventions.
-- **Description** - Long description of the map. You can describe the history of the map here.
-- **Texture set** - Set of stratum textures loaded to new map. If you know how do you want your map to look like, then select best set.
-- **Type** - Type of map. Use Skirmish for Multiplayer maps
-- **Width** / **Height** - Size of the map. When selected sizes are not square editor will create square map and clip it using Area.
-- **Initial height** - Initial height of whole heightmap. Try to use the lowest value possible, but remember to leave some space if you want to have water on the map.
-- **Water** - Toggle it on if you want to have water on your map. This can be changed later if you change your mind.
-	- **Water Elevation** - the height at which the water level is.
-	- **Depth Elevation** - the height at which the water is darker.
-	- **Abyss Elevation** - the height at which the water is very dark.
+
+> #### **Name**
+> Name of the map. This will be also used to name folders and files. See below for correct map naming conventions.
+> #### **Description**
+> Long description of the map. You can describe the history of the map here.
+> #### **Texture set**
+> Set of stratum textures loaded to new map. If you know how do you want your map to look like, then select best set.
+>	**Type**
+> Type of map. Use Skirmish for Multiplayer maps
+> - **Width** / **Height**
+> Size of the map. When selected sizes are not square editor will create square map and clip it using Area.
+> - **Initial height** - Initial height of whole heightmap. Try to use the lowest value possible, but remember to leave some space if you want to have water on the map.
+> - **Water** - Toggle it on if you want to have water on your map. This can be changed later if you change your mind.
+>	- **Water Elevation** - the height at which the water level is.
+>	- **Depth Elevation** - the height at which the water is darker.
+>	- **Abyss Elevation** - the height at which the water is very dark.
+{.is-info}
 
 New map created in FAF Map Editor will be saved as:
 
