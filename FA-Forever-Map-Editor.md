@@ -2,7 +2,7 @@
 title: FA-Forever-Map-Editor
 description: 
 published: true
-date: 2021-10-07T20:18:35.671Z
+date: 2021-10-07T20:19:56.789Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -105,7 +105,7 @@ Tolerance is how far in game units the editor will search for symmetrical object
 | Left alt + V/H button | Toggle visibility of other layer/decal                                                                                             |
 | P                     | Parent selection to group                                                                                                          |
 
-## Create a new map
+## Create a new map{.tabset}
 To create new map use *File/New Map*.
 ![faf_mapeditor_newmap.png](/faf_mapeditor_newmap.png)
 
