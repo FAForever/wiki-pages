@@ -2,7 +2,7 @@
 title: FA-Forever-Map-Editor
 description: 
 published: true
-date: 2021-10-07T20:26:12.870Z
+date: 2021-10-07T20:37:49.926Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -105,10 +105,9 @@ Tolerance is how far in game units the editor will search for symmetrical object
 | <kbd>Left alt</kbd> + <kbd>V/H button</kbd> | Toggle visibility of other layer/decal                                                                                             |
 | <kbd>P</kbd>                     | Parent selection to group                                                                                                          |
 
-## Create a new map{.tabset}
+## Create a new map
 To create new map use *File/New Map*.
-![faf_mapeditor_newmap.png](/faf_mapeditor_newmap.png)
-
+![faf_mapeditor_newmap.png](/faf_mapeditor_newmap.png){.align-right}
 - **Name** - Name of the map. This will be also used to name folders and files. See below for correct map naming conventions.
 - **Description** - Long description of the map. You can describe the history of the map here.
 - **Texture set** - Set of stratum textures loaded to new map. If you know how do you want your map to look like, then select best set.
@@ -128,13 +127,14 @@ New map created in FAF Map Editor will be saved as:
 
 Editor fix map folder and file names, but you should still remember how that works.
 
-Ignoring your map folder name, after uploading to vault, the map folder will be renamed according to the map name, but with spaces replaced with '_'. For example: A map's name is "Yet Another Gap". And map files are named "yetanothergap_scenario.lua", etc. The map will be uploaded to the vault and will be playable, but every time someone tries to host it from FAF, not from lobby settings, the Four-Corners map will be hosted instead. This bug will annoy people and prevent your map from being added to ladder pool. It happens because the mapbfolder will be renamed to "yet_another_gap.v0666" and FAF will search for yet_another_gap_scenarion.lua.
+Ignoring your map folder name, after uploading to vault, the map folder will be renamed according to the map name, but with spaces replaced with '_'.
+>For example: A map's name is "Yet Another Gap". And map files are named "yetanothergap_scenario.lua", etc. The map will be uploaded to the vault and will be playable, but every time someone tries to host it from FAF, not from lobby settings, the Four-Corners map will be hosted instead. This bug will annoy people and prevent your map from being added to ladder pool. It happens because the mapbfolder will be renamed to "yet_another_gap.v0666" and FAF will search for yet_another_gap_scenarion.lua.
 
 So a proper map should be named like this:
 *maps/good_map.v0001/good_map_scenario.lua*
 
 ## Basic map settings
-![fafmapeditor_map_scenario.png](/fafmapeditor_map_scenario.png)
+![fafmapeditor_map_scenario.png](/fafmapeditor_map_scenario.png){.align-right}
 Can be found in *Map/Scenario* menu.
 
 - **Name** - Map name displayed in game
@@ -159,7 +159,7 @@ If you need to open **v60** map in vanilla or old tools, you can export skybox d
 The heightmap is the base of whole terrain. It defines height for every place on the map. You can use built-in tools to edit it, or export/import to work with other software. 
 
 ### Heightmap brush
-![fafmapeditor_terrain_heightmap_brush.png](/fafmapeditor_terrain_heightmap_brush.png)
+![fafmapeditor_terrain_heightmap_brush.png](/fafmapeditor_terrain_heightmap_brush.png){.align-right}
 - **Brush size** - Size of the brush that we want to paint with. You can change it by holding down the **B** key and dragging over ''game view'.
 - **Brush strength** - Strength with which brush changes are applied to terrain. You can change it by holding down the **V** key and  dragging over ''game view'.
 
@@ -180,7 +180,7 @@ Additional values
 Brush **shape** are brush images loaded from Structure/Brush folder. Read more here: [Custom brushes](FA_Forever_Map_Editor#Custom_brushes "wikilink")
 
 ### Heightmap tools
-![fafmapeditor_terrain_heightmap_brush.png](/fafmapeditor_terrain_heightmap_brush.png)
+![fafmapeditor_terrain_heightmap_brush.png](/fafmapeditor_terrain_heightmap_brush.png){.align-right}
 -   **Set terrain height** - Change height of whole terrain to the chosen value.
 -   **Add height** - Move heightmap up or down by the chosen value. Positive value will move it up, negative will move it down.
 -   **Export in size** - Will export heightmap in different width and height. Useful for transfering heightmap between maps of different Size. It can also scale height values when selecting **Scale Height**.
@@ -231,7 +231,7 @@ To change area first select area you want to paint from the list on the left and
 Textures define colors of your map. Game allows you to chose from many textures for many different biomes. Remember that the appearance of the texture depends on the lighting setting.
 
 ### Texture layers
-![fafmapeditor_textures_layers.png](/fafmapeditor_textures_layers.png)
+![fafmapeditor_textures_layers.png](/fafmapeditor_textures_layers.png){.align-right}
 There are total of 10 layers
 -   Lower - is the lowest, base layer, that is visible, when nothing else is painted
 -   Layers 1-4 - Default painting layers. You can assign same textures like for Lower and paint them over terrain
