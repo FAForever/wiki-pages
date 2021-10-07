@@ -2,7 +2,7 @@
 title: FA-Forever-Map-Editor
 description: 
 published: true
-date: 2021-10-07T20:19:56.789Z
+date: 2021-10-07T20:26:12.870Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -76,34 +76,34 @@ Tolerance is how far in game units the editor will search for symmetrical object
 
 | Key                   | Function                                                                                                                           |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| W                     | ![faf_mapeditor_movetool.png](/faf_mapeditor_movetool.png) Switch to Move tool         |
-| E                     | ![faf_mapeditor_rotatetool.png](/faf_mapeditor_rotatetool.png) Switch to Rotate tool |
-| R                     | ![faf_mapeditor_scaletool.png](/faf_mapeditor_scaletool.png) Switch to Scale tool     |
-| T                     | ![faf_mapeditor_snaptogrid.png](/faf_mapeditor_snaptogrid.png) Toggle snap to grid   |
-| Left Control + C      | Copy selection                                                                                                                     |
-| Left Control + V      | Paste copied content                                                                                                               |
-| Left Control + D      | Duplicate selected objects                                                                                                         |
-| Left Shift            | Smooth brush, Add selection                                                                                                        |
-| Left Alt              | Invert brush, Erase, Unselect                                                                                                      |
-| B + LMB or W + LMB    | Dragging over terrain will change brush size                                                                                       |
-| V + LMB or S + LMB    | Dragging over terrain will change brush strength                                                                                   |
-| Q or +                | Increase brush target value                                                                                                        |
-| A or -                | Decrease brush target value                                                                                                        |
-| TAB                   | Next brush type                                                                                                                    |
-| 1, 2, 3, 4            | Select brush type                                                                                                                  |
-| CTRL + LMB            | Sample target height for heightmap brush (pipette)                                                                                 |
-| CTRL + RMB            | Sample minimum height for heightmap brush (pipette)                                                                                |
-| CTRL + MMB            | Sample maximum height for heightmap brush (pipette)                                                                                |
-| Shift + Select        | Add to selection                                                                                                                   |
-| Left Alt + Select     | Remove from selection                                                                                                              |
-| Home                  | Restart camera                                                                                                                     |
-| Delete                | Remove seleted objects                                                                                                             |
-| C                     | Connect selected AI Markers                                                                                                        |
-| D                     | Disconnect selected AI Markers                                                                                                     |
-| H                     | Hide selected decal types                                                                                                          |
-| Shift + H             | Unhide selected decal types                                                                                                        |
-| Left alt + V/H button | Toggle visibility of other layer/decal                                                                                             |
-| P                     | Parent selection to group                                                                                                          |
+| <kbd>W</kbd>                     | ![faf_mapeditor_movetool.png](/faf_mapeditor_movetool.png) Switch to Move tool         |
+| <kbd>E</kbd>                     | ![faf_mapeditor_rotatetool.png](/faf_mapeditor_rotatetool.png) Switch to Rotate tool |
+| <kbd>E</kbd>                     | ![faf_mapeditor_scaletool.png](/faf_mapeditor_scaletool.png) Switch to Scale tool     |
+| <kbd>T</kbd>                     | ![faf_mapeditor_snaptogrid.png](/faf_mapeditor_snaptogrid.png) Toggle snap to grid   |
+| <kbd>Left Ctl</kbd> + <kbd>C</kbd>      | Copy selection                                                                                                                     |
+| <kbd>Left Ctl</kbd> + <kbd>V</kbd>      | Paste copied content                                                                                                               |
+| <kbd>Left Ctl</kbd> + <kbd>D</kbd>      | Duplicate selected objects                                                                                                         |
+| <kbd>Left Shift</kbd>            | Smooth brush, Add selection                                                                                                        |
+| <kbd>Left Alt</kbd>              | Invert brush, Erase, Unselect                                                                                                      |
+| <kbd>B + <kbd>LMB or <kbd>W + <kbd>LMB    | Dragging over terrain will change brush size                                                                                       |
+| <kbd>V + <kbd>LMB or <kbd>S + <kbd>LMB    | Dragging over terrain will change brush strength                                                                                   |
+| <kbd>Q or <kbd>+</kbd>                | Increase brush target value                                                                                                        |
+| <kbd>A or <kbd>-</kbd>                | Decrease brush target value                                                                                                        |
+| <kbd>TAB</kbd>                  | Next brush type                                                                                                                    |
+| <kbd>1-4</kbd>            | Select brush type                                                                                                                  |
+| <kbd>CTRL</kbd> + <kbd>LMB</kbd>            | Sample target height for heightmap brush (pipette)                                                                                 |
+| <kbd>CTRL + RMB</kbd>           | Sample minimum height for heightmap brush (pipette)                                                                                |
+| <kbd>CTRL + MMB</kbd>           | Sample maximum height for heightmap brush (pipette)                                                                                |
+| <kbd>Shift + Select</kbd>        | Add to selection                                                                                                                   |
+| <kbd>Left Alt + Select</kbd>     | Remove from selection                                                                                                              |
+| <kbd>Home</kbd>                  | Restart camera                                                                                                                     |
+| <kbd>Delete</kbd>                | Remove seleted objects                                                                                                             |
+| <kbd>C</kbd>                     | Connect selected AI Markers                                                                                                        |
+| <kbd>D</kbd>                     | Disconnect selected AI Markers                                                                                                     |
+| <kbd>H</kbd>                     | Hide selected decal types                                                                                                          |
+| <kbd>Shift</kbd> + <kbd>H</kbd>             | Unhide selected decal types                                                                                                        |
+| <kbd>Left alt</kbd> + <kbd>V/H button</kbd> | Toggle visibility of other layer/decal                                                                                             |
+| <kbd>P</kbd>                     | Parent selection to group                                                                                                          |
 
 ## Create a new map{.tabset}
 To create new map use *File/New Map*.
