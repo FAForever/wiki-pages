@@ -1,50 +1,37 @@
-![](Adjacency.jpg "fig:Adjacency.jpg") The Adjacency Bonus is a [game
-mechanic](Learning_SupCom#Tutorial_Videos "wikilink") in Supreme
-Commander which gives discounts and production bonuses to structures
-positioned next to each other. The nature of the bonus depends on both
-of the structures, and can be very useful. Mass or energy can saved or
-produced, leading to a total of 4 possible bonuses.
+---
+title: Adjacency-Bonus
+description: 
+published: true
+date: 2021-10-13T06:35:26.628Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:41:57.317Z
+---
+
+![](Adjacency.jpg "fig:Adjacency.jpg") The Adjacency Bonus is a [game mechanic](Learning_SupCom#Tutorial_Videos "wikilink") in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
 
 ## General
 
-![](Adjacency_Diagram.png "fig:Adjacency_Diagram.png") To have and
-adjacency bonus, there must be two structures placed next to each other;
-one giving the bonus and one receiving it.
+![](Adjacency_Diagram.png "fig:Adjacency_Diagram.png") To have an adjacency bonus, there must be two structures placed next to each other; one giving the bonus and one receiving it.
 
 -   Any structure which produces a resource is a bonus giver.
--   Any structure consuming a resource is a bonus receiver, including
-    other bonus givers (upgrading mass extractors)
--   Additionally, Storages are bonus givers to resource producing
-    buildings.
--   Doubling the number of adjacent bonus givers next to a structure
-    doubles the adjacency bonus on that structure.
+-   Any structure consuming a resource is a bonus receiver, including other bonus givers (upgrading mass extractors)
+-   Additionally, Storages are bonus givers to resource producing buildings.
+-   Doubling the number of adjacent bonus givers next to a structure doubles the adjacency bonus on that structure.
 
-The Bonus amount is dependent on the number of bonus givers which can
-fit around a bonus receiver. (minimum:4 maximum:16) This means that the
-larger a bonus receiver the more bonus givers must be next to it to give
-the same bonus.
+The Bonus amount is dependent on the number of bonus givers which can fit around a bonus receiver. (minimum:4 maximum:16) This means that the larger a bonus receiver the more bonus givers must be next to it to give the same bonus.
 Examples:
 
--   A factory surrounded by 16 T1 power generators receives the same
-    discount as a radar surrounded by 4 T1 power generators.
--   A mass extractor surrounded by 4 storages receives the same
-    percentage production bonus as a T3 mass fabricator surrounded by 12
-    mass storages.
+- A factory surrounded by 16 T1 power generators receives the same discount as a radar surrounded by 4 T1 power generators.
+- A mass extractor surrounded by 4 storages receives the same percentage production bonus as a T3 mass fabricator surrounded by 12 mass storages.
 
 ## Consumption Bonus
 
-A structure which produces a resource gives a discount to all structures
-next to it which consume that resource. It should be noted that only
-structures receive this bonus, **not any engineers or engineering
-stations assisting them**.
+A structure which produces a resource gives a discount to all structures next to it which consume that resource. It should be noted that only structures receive this bonus, **not any engineers or engineering stations assisting them**.
 
 ### <img src="Mass_Icon.png" title="fig:Mass_Icon.png" width="30" alt="Mass_Icon.png" /> Mass
 
-The values in this table are given for **one** mass producing structure
-next to a 4x4 building; more mass producing structures would increase
-the discount. The typical discount value is to give you an idea of what
-you would most commonly see in game, and should not be used for
-calculations.
+The values in this table are given for **one** mass producing structure next to a 4x4 building; more mass producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in game, and should not be used for calculations.
 
 | Mass Producing Structures                                                                                                                      | Discount Percentage | Typical Discount value                                                  | Comments                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,13 +45,7 @@ Buildings which give mass discount bonuses
 
 ### <img src="Energy_Icon.png" title="fig:Energy_Icon.png" width="30" alt="Energy_Icon.png" /> Energy
 
-The percentage discount value depends on how much of the structure in
-question is surrounded by power generators - as structures can be of
-different sizes, different numbers of pgens fit around them. This means
-that a factory that is 50% surrounded with 8 T1 pgens will receive the
-same bonus as, a radar surrounded by 2 T1 pgens - 12.5% for both.
-In this table the discount percentages are shown for a **fully
-surrounded** structure.
+The percentage discount value depends on how much of the structure in question is surrounded by power generators - as structures can be of different sizes, different numbers of pgens fit around them. This means that a factory that is 50% surrounded with 8 T1 pgens will receive the same bonus as, a radar surrounded by 2 T1 pgens - 12.5% for both. In this table the discount percentages are shown for a **fully surrounded** structure.
 
 <table>
 <caption>Buildings which give Energy discount bonuses</caption>
@@ -121,17 +102,11 @@ surrounded** structure.
 
 Buildings which give Energy discount bonuses
 
-It should be noted that mass extractors consume energy to generate mass,
-but T1 pgens should only be used for adjacency when the extractor is
-upgrading from T1 to T2 very early in the game, to save some energy
-while upgrading.
+It should be noted that mass extractors consume energy to generate mass, but T1 pgens should only be used for adjacency when the extractor is upgrading from T1 to T2 very early in the game, to save some energy while upgrading.
 
 ## Production Bonus
 
-Any structure which produces a resource, when placed next to a storage
-of that resource, will produce a bonus percentage of that resource. This
-is most commonly seen when mass extractor are surrounded by storages to
-increase their mass income.
+Any structure which produces a resource, when placed next to a storage of that resource, will produce a bonus percentage of that resource. This is most commonly seen when mass extractor are surrounded by storages to increase their mass income. 
 
 -   Bonus is 12,5% per fully surrounded side by storages.
     -   Maximum is 50% bonus income for fully surrounded building by
@@ -160,43 +135,23 @@ Buildings which are affected by mass storages
 
 Buildings which are affected by Energy storages
 
-Note: Adjacency Bonus should be used well-considered. Players with
-little experience tend to surround hydrocarbon power plants with energy
-storages to get 50% more energy, or similar things. The bonus you want
-to have, can quickly turn into an economic disadvantage if you try to
-profit that way. Keep in mind the costs of 12 energy storages which
-amount to 14400 energy and 3000 mass. It would take 5 minutes until you
-profit from the energy bonus. The mass covers about the costs of a T3
-power generator which would produce 2500 energy instead of 50.
+Note: Adjacency Bonus should be used well-considered. Players with little experience tend to surround hydrocarbon power plants with energy storages to get 50% more energy, or similar things. The bonus you want to have, can quickly turn into an economic disadvantage if you try to profit that way. Keep in mind the costs of 12 energy storages which amount to 14400 energy and 3000 mass. It would take 5 minutes until you profit from the energy bonus. The mass covers about the costs of a T3 power generator which would produce 2500 energy instead of 50.
 
 ## Weapon Bonuses
 
-Placing Power Generators next to energy-consuming weapons will reduce
-the reload time of the weapon, the duration of energy consumption as a
-result, and the energy consumption itself. All static artilleries
-benefit from the rate of fire bonus and energy drain reduction. UEF T3
-Point Defense is an exception and only gains a reduction in energy
-drain.
+Placing Power Generators next to energy-consuming weapons will reduce the reload time of the weapon, the duration of energy consumption as a result, and the energy consumption itself. All static artilleries benefit from the rate of fire bonus and energy drain reduction. UEF T3 Point Defense is an exception and only gains a reduction in energy drain.
 
-The values in the following tables are given when a unit is completely
-surrounded by a specific power generator.
+The values in the following tables are given when a unit is completely surrounded by a specific power generator.
 
 ### Rate Of Fire Bonus
 
-When placed next to power generators, static artillery units gain a rate
-of fire bonus which can be very significant, especially when considering
-that a 60% reload time can be achieved, and how much cheaper 4 T3 power
-generators are than a T3 artillery installation. The reduction of a
-reload time can be calculated with the following scheme if a unit is
-fully surrounded with the same type of power generators:
+When placed next to power generators, static artillery units gain a rate of fire bonus which can be very significant, especially when considering that a 60% reload time can be achieved, and how much cheaper 4 T3 power generators are than a T3 artillery installation. The reduction of a reload time can be calculated with the following scheme if a unit is fully surrounded with the same type of power generators:
 
 -   10% discount for T1 power generators.
 -   20% discount for T2 power generators/hydrocarbon power plant.
 -   40% discount for T3 Power generators.
 
-The Aeon T3 Rapid-fire Artillery can achieve the maximum possible reload
-time discount (42%) because you can place a T1 power generator on each
-side in addition to a T3 power generator.
+The Aeon T3 Rapid-fire Artillery can achieve the maximum possible reload time discount (42%) because you can place a T1 power generator on each side in addition to a T3 power generator.
 
 This table shows all possible time values:
 
@@ -212,13 +167,7 @@ Reload Time discount on Artillery structures
 
 ### Energy Consumption Reduction
 
-The rate of fire bonus reduces the time structures consume energy, but
-will also increase the frequency of energy consumption as a result of
-the increased fire rate. But in addition to that, powergenerators give a
-general discount on energy consumption to static artilleries. Making
-decisions around this behaviour is not recommended as the energy
-reduction is very low compared to the resources invested. This table is
-mostly to provide you information of how it works.
+The rate of fire bonus reduces the time structures consume energy, but will also increase the frequency of energy consumption as a result of the increased fire rate. But in addition to that, powergenerators give a general discount on energy consumption to static artilleries. Making decisions around this behaviour is not recommended as the energy reduction is very low compared to the resources invested. This table is mostly to provide you information of how it works.
 
 | Energy Producing Structures                                                                                                                                                    | Discount Percentage | Typical Discount value                                                        | Comments                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
