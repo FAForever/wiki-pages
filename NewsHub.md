@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-09-28T15:29:24.640Z
+date: 2021-10-14T17:06:29.565Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -19,10 +19,25 @@ Here is where Some Important Information that needed to be displayed, This can b
 The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
 
 **3) Hero Article**
-The Hero article is uses when something big has happened in the community or Tournament Winners E.G. Balance & Game Patch’s, Big Tournament Announcements and Much more.
+The Hero article is uses when something big has happened in the community or Tournament Winners E.G.
+Balance & Game Patch’s, Big Tournament Announcements and Much more.
 
 **4) [Right Side Panel](/Right-Side-Panel)**
-The Right side Panel is a section were information is more likely to stay when the news is updated.
+The Information panel is where the Promotions Team and Set up a long term link for useful Information for the community to use.
+Until now it has just been linking to a mix of pages on the website and the forum.
+
+- [FAF Streamers & Casters](/Casts&Livestreams)
+- [Tournaments](/Tournaments)
+- [FAQ](https://forum.faforever.com/category/18/frequently-asked-questions)
+- [FAF Projects](https://wikijs.faforever.com/en/Projects)
+- [Team Matchmaker](/TMM)
+- [Development](/FAF-Development)
+- [Creative](/Creative)
+- [Contribute](/Contribute)
+- [Promotions](/Promotions)
+- [From the Internet](/From-the-Internet)
+
+
 
 **5,6,7) Left, Mid and Right Sidebar**
 This is the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
@@ -39,7 +54,9 @@ This is the Sidebars that can be used for Big Promotion of Upcoming Tournaments 
 >6) Mid Sidebar 300x600
 >7) Right Sidebar - 250x800
 >
->For the left and Right sidebar the graphic should fade at the bottom to a solid background colour. I run this same background colour to the edge of the screen. They can actually have any height, but the height I provided is a good arbitrary height.
+>For the left and Right sidebar the graphic should fade at the bottom to a solid background colour.
+I run this same background colour to the edge of the screen.
+They can actually have any height, but the height I provided is a good arbitrary height.
 >
 >Article Heading [Font](https://fonts.google.com/specimen/Electrolize?query=electr)
 >
