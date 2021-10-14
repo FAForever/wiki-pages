@@ -2,13 +2,13 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-10-07T18:06:46.668Z
+date: 2021-10-14T16:55:11.222Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
 ---
 
-![wiki-banner.jpg](/wiki-banner.jpg)
+![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
 
 ## FAF Client
 <table>
