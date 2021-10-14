@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-09-29T10:27:42.499Z
+date: 2021-10-14T17:44:20.316Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -55,7 +55,7 @@ Every Councillor additionally pledges towards their own responsibilities:
 
 As a nominee for the Promoters Councillor, I pledge that:
 
-> I will be as active as possible to dedicate to the responsibility of this role.
+> I will be as active as possible to dedicate myself to the responsibility of this role.
  I will attend as many developer conferences as possible to discuss all topics related to the FAF council.
  I will advertise all new content that FAF provides using all available social media platforms.
  I will deal with any complaints related to the promotional role with professionalism.
@@ -87,11 +87,11 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 ## FAF Moderators
 
-These people are the moderators who are responsible for rules in-game, in the chat, and in the forum. They're also very willing to help you with anything, so if you have questions you can PM (private message) them. You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](/FAF-chat#Chat-commands) to be given a list of online moderators.
+These people are the moderators who are responsible for rules in-game, in the chat, and the forum. They're also very willing to help you with anything, so if you have questions you can PM them (private message). You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](/FAF-chat#Chat-commands) to be given a list of online moderators.
 
 You can make reports to the moderators by using [this form](https://www.faforever.com/account/report)
 
-If you are interested in joining the moderator team you can write a PM (private message) to the Currenly Active Moderator Councilor detailing on why you think you would make a good addition to the team, which timezone you live in and what sort of commitment you are able to make if you are selected.
+If you are interested in joining the moderator team you can write a PM (private message) to the Currenly Active Moderator Councilor detailing on why you think you would make a good addition to the team, which timezone you live in and what sort of commitment you can make if you are selected.
 
 
 | Current Moderators |
