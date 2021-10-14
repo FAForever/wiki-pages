@@ -2,15 +2,16 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-10-14T17:06:29.565Z
+date: 2021-10-14T17:07:29.106Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
 ---
 
-The NewsHub is the new and improved One Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team. The NewsHub can be accessed Via the Client and via the browser here
-
 ![newshub.png](/newshub.png)
+
+The NewsHub is the new and improved One Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team.
+The NewsHub can be accessed Via the Client and via the browser [here](https://www.faforever.com/newshub)
 
 **1) Topbar**
 Here is where Some Important Information that needed to be displayed, This can be from Server Updates
