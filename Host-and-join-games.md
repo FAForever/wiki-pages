@@ -2,13 +2,14 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2021-09-28T15:48:08.364Z
+date: 2021-10-14T17:29:07.146Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
 ---
 
-This tab in the lobby is how you start to play Forged Alliance with the client. As long as you have Supreme Commander Forged Alliance installed, no further setup is needed. Consult [this](/Setting-Up-FAF) for more info on setup. Remember, you need to start the game through this client for all the improvements to work.
+This tab in the lobby is how you start to play Forged Alliance with the client. As long as you have Supreme Commander Forged Alliance installed, no further setup is needed.
+Consult [this](/Setting-Up-FAF) for more info on setup. Remember, you need to start the game through this client for all the improvements to work.
 
 ## Game Title
 - XvX - Showing for how many player per team is game hosted. (example 1v1, 4v4)
@@ -18,8 +19,7 @@ This tab in the lobby is how you start to play Forged Alliance with the client. 
 
 ![game-panel.png](/game-panel.png)
 If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
-Coop Campaign missions can be hosted at the [Co-op](/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/The-Ladder) Tab.
-
+Coop Campaign missions can be hosted at the [Co-Op](/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/The-Ladder) Tab.
 
 ## Game Modes
 - Matchmaker
@@ -27,19 +27,20 @@ Coop Campaign missions can be hosted at the [Co-op](/Coop-Missions) Tab & Ladder
 - Co-op
 
 ### Matchmaker
-The Matchmaker is the Over arching replacement of the Ladder secion as it now encompases the 1v1 & 2v2 matchmaking, and also has plans for a 3v3 & 4v4. For Mor inforion about the Matchmaker See the [Team Matchmaker](/TMM) page.
+The Matchmaker is the Over arching replacement of the Ladder secion as it now encompases the 1v1 & 2v2 matchmaking, and also has plans for a 3v3 & 4v4. For Mor information about the Matchmaker See the [Team Matchmaker](/TMM) page.
 
 ### Custom Games
 This is how most games are played - simply double click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](/Global-Ranking) requirements, and you may have trouble vs players who are much higher rated than you.
-- **FAF** - this is the defualt selected game type which is the most stable.
-- **FAF (Beta)** - This is a mod with the newest patch available.
-- **FAF Development** - This is the experimental mod for game changes that can breack games/balance.
+- **FAF** - This is the default game type which is the most stable.
+- **FAF (Beta)** - This is a mod with the newest Balance patch available.
+- **FAF Development** - This is the Experimental branch for testing new Game updates & features.
 
 ### Co-Op Campaign & Custom Missions
 To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [Coop Missions](/Coop-Missions) page.
 
 ### Playing With AI
-If you wish to play vs ai , simply host your own game, and add AI players instead of real ones. It's that simple! FAF comes with sorian AI, so you dont need to install it, and you can have any combination of human and AI players, as you wish.
+If you wish to play vs ai , simply host your own game, and add AI players instead of real ones.
+It's that simple! FAF comes with sorian AI, so you dont need to install it, and you can have any combination of human and AI players, as you wish.
 
 ## Hosting Games
 You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
