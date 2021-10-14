@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-09-28T15:46:16.499Z
+date: 2021-10-14T17:16:54.118Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:43:19.686Z
 
 ![chat-tab2.png](/chat-tab2.png)
 ## Chat tabs
-- #aeolus is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chat rules](https://faforever.com/rules). 
+- `#aeolus` is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also follow the [chat rules](https://faforever.com/rules). 
 - Chatrooms without a # are private, such as direct messages to other players.
 
 You can open up a private chat with a player by double clicking his name in the name list.
@@ -53,14 +53,12 @@ The rating shown in the lobby is always your [Global Ranking](/Global-Ranking). 
 ## Avatars
 Right now, there are only few ways to get avatars. Here a list:
 ***Add Image of All the avatars***
-- Be a famous caster or streamer 
+- Be a Caster  or Streamer 
 - Participate in a tournament, the easiest way to get an avatar.
 - Test the game code (playing FAF develop mod and reporting bugs).
 - Be first, second or third in your league.
-- Be the first, second or third in your division, league and division avatars are only temporary and don't exist now.
 - Personal avatar, usually reserved for admins and mods
-- For donating to the FAF server, you get The Cookie
-- For donating to the Galactic War project, you were able to get an avatar in the past but this is no longer the case
+- For donating to the FAF you get The Cookie
 - For winning a tournament, avatars are given. Usually temporary ones for BlitzTournament, WWPCTournaments, sometimes permanent ones for big tournaments like Legends of the Stars.
 - Factionface avatars are usually for second place in a tournament, faction logo for third.
 - You also can get an avatar for contributing to the FAF project:
@@ -72,9 +70,9 @@ Right now, there are only few ways to get avatars. Here a list:
 ## Player Status
 As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
 - Nothing: this player is just chatting or afk.
-- One Gold Sword: this player is currenly hosting a game.
-- One sword: this player is currently in a game lobby.
-- Crossed swords: this player is playing a game.
+- One Gold Sword ![host.png](/images/client-icons/host.png): this player is currenly hosting a game.
+- One sword ![lobby.png](/images/client-icons/lobby.png): this player is currently in a game lobby.
+- Crossed swords ![playing.png](/images/client-icons/playing.png): this player is playing a game.
 
 If you double click on a single sword, you will launch FA and join the player in the lobby that they are presently in.
 
