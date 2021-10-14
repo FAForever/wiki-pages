@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-10-14T17:16:54.118Z
+date: 2021-10-14T17:25:23.271Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -53,20 +53,20 @@ The rating shown in the lobby is always your [Global Ranking](/Global-Ranking). 
 ## Avatars
 Right now, there are only few ways to get avatars. Here a list:
 ***Add Image of All the avatars***
-- Be a Caster  or Streamer 
-- Participate in a tournament, the easiest way to get an avatar.
-- Test the game code (playing FAF develop mod and reporting bugs).
+- Be a Caster ![caster_avatar.png](/images/client-icons/avatars/caster_avatar.png) or Streamer ![streamer_avatar.png](/images/client-icons/avatars/streamer_avatar.png)
+- Participate in a tournament ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png), the easiest way to get an avatar.
+- Test the game code (playing FAF develop mod and reporting bugs). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
 - Be first, second or third in your league.
 - Personal avatar, usually reserved for admins and mods
-- For donating to the FAF you get The Cookie
+- For donating to the FAF you get The Cookie ![cookie_avatar.png](/images/client-icons/avatars/cookie_avatar.png)
 - For winning a tournament, avatars are given. Usually temporary ones for BlitzTournament, WWPCTournaments, sometimes permanent ones for big tournaments like Legends of the Stars.
-- Factionface avatars are usually for second place in a tournament, faction logo for third.
+- Faction face ![dostya.png](/images/client-icons/avatars/dostya.png) avatars are usually for second place in a tournament, faction logo ![uef_avatar.png](/images/client-icons/avatars/uef_avatar.png) for third.
 - You also can get an avatar for contributing to the FAF project:
-	- Making a featured mod 
-	- Making a map
-	- Contributing to the FAF code 
-	- Writing Wiki articles 
-	- Hosting tournaments
+	- Making a featured mod ![mod_autor.png](/images/client-icons/avatars/mod_autor.png)
+	- Making a map ![mapautor.png](/images/client-icons/avatars/mapautor.png)
+	- Contributing to the FAF code ![faf_developer.png](/images/client-icons/avatars/faf_developer.png)
+	- Writing Wiki articles ![wiki-editor.png](/images/client-icons/avatars/wiki-editor.png)
+	- Hosting tournaments ![tournament_director.png](/images/client-icons/avatars/tournament_director.png)
 ## Player Status
 As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
 - Nothing: this player is just chatting or afk.
