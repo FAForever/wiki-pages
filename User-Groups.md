@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-10-14T17:44:20.316Z
+date: 2021-10-16T19:52:59.527Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -85,7 +85,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
  Uphold the community rules in the game, chat and forums
 > {.is-info}
 
-## FAF Moderators
+## ![moderator_avatar.png](/images/client-icons/avatars/moderator_avatar.png) FAF Moderators
 
 These people are the moderators who are responsible for rules in-game, in the chat, and the forum. They're also very willing to help you with anything, so if you have questions you can PM them (private message). You can identify the mods by their white names, they can also be found at the top of the user list or by using !mods [command](/FAF-chat#Chat-commands) to be given a list of online moderators.
 
@@ -107,7 +107,7 @@ If you are interested in joining the moderator team you can write a PM (private 
 
 **Important:** *QAI* and *AeonCommander* are [chat bots](/FAF-chat#Chat-commands)!
 
-## Trainers
+## ![personal_trainer_avatar.png](/images/client-icons/avatars/personal_trainer_avatar.png) Trainers
 
 This is the updated list of Trainers.
 
@@ -122,7 +122,7 @@ Names Provided here are the names they go by on the FAF Discord.
 | Explosive       | F-Odin  | Terminal			| Resistance |
 | Cheeseberry     | Aulex   | LimeZ3 				| Gorthaur	 |
 
-## Tournament Directors
+## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Tournament Directors
 
 This is a list of people who host [Tournaments](Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
