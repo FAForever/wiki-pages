@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T19:05:47.981Z
+date: 2021-10-24T19:09:51.286Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -214,13 +214,13 @@ Sim mods are mods which affect the game itself and are activated on a per-game b
 
 These mods can be hosted directly from [Find Games](/Host-and-join-games) Tab. 
 
--   ![blackops_avatar.png](/images/modding/blackops_avatar.png) [Black Ops](Black_Ops "wikilink")
--   [Civilians Defence](Civilians_Defence "wikilink")
--   [Claustrophobia](Claustrophobia "wikilink")
--   [King of the Hill](King_of_the_Hill "wikilink")
--   ![labwars_champion.png](/images/modding/labwars_champion.png) [LABwars](LABwars "wikilink")
--   [Murder Party](Murder_Party "wikilink")
--   ![nomads_avatar.png](/images/modding/nomads_avatar.png) [The Nomads](The_Nomads "wikilink")
--   ![phantom_avatar.png](/images/modding/phantom_avatar.png) [Phantom](Phantom "wikilink")
--   [Vanilla](Vanilla "wikilink")
--   [Coop 1v1](Coop_1v1 "wikilink")
+-   ![blackops_avatar.png](/images/modding/blackops_avatar.png) Black Ops
+-   Civilians_Defence
+-   Claustrophobia
+-   King of the Hill
+-   ![labwars_champion.png](/images/modding/labwars_champion.png) LABwars
+-   Murder Party
+-   ![nomads_avatar.png](/images/modding/nomads_avatar.png) The Nomads
+-   ![phantom_avatar.png](/images/modding/phantom_avatar.png) Phantom
+-   Vanilla
+-   Coop 1v1
