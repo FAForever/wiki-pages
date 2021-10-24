@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-24T23:49:56.223Z
+date: 2021-10-24T23:52:06.623Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -459,27 +459,15 @@ The main consideration you have with Cybran units at this stage is that Corsairs
 - Statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=DRA0202,URA0203">T2 Fighter/Bomber and Gunship</a>
 
 ### ![<File:T3> land.png](T3_land.png "fig:File:T3 land.png") Tech 3 Land
+<img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" /><img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" />
+In even matches, and particularly on less open maps and/or maps with high resources, Tech 3 Land will be required to win games. The Brick and Loyalist are both strong units for different tasks – the Loyalist is incredibly quick and can wipe out T1 and T2 armies or outlying mexes very quickly if you have T3 faster than your opponent. Try and use a handful of Loyalists to immediately exploit your tech advantage when you know you have one. Once front line T3 units start to appear in numbers, the Loyalist can still be used to get around armies and raid, but should generally stop being your unit of choice. They can also suicide in the middle of enemy armies, where their death explosion will stun enemy units.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" /><img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" /> In even matches, and particularly on less open maps and/or maps with high resources, Tech 3 Land will be required to win games. The Brick and Loyalist are both strong units for different tasks – the Loyalist is incredibly quick and can wipe out T1 and T2 armies or outlying mexes very quickly if you have T3 faster than your opponent. Try and use a handful of Loyalists to immediately exploit your tech advantage when you know you have one. Once front line T3 units start to appear in numbers, the Loyalist can still be used to get around armies and raid, but should generally stop being your unit of choice. They can also suicide in the middle of enemy armies, where their death explosion will stun enemy units.</p>
-<ul>
-<li>Statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0303">Loyalist</a></li>
-</ul>
-<p><img src="A_T3_Harbinger.PNG" title="fig:A_T3_Harbinger.PNG" width="50" alt="A_T3_Harbinger.PNG" /><img src="Sera_T3_Tank.png" title="fig:Sera_T3_Tank.png" width="50" alt="Sera_T3_Tank.png" /><img src="UEF_T3_Armored_Assault_Bot.png" title="fig:UEF_T3_Armored_Assault_Bot.png" width="50" alt="UEF_T3_Armored_Assault_Bot.png" /> The Brick is more likely to be the mainstay of your Cybran-style play at the full-T3 stage. They are vulnerable to a well-microed Harbinger in a 1v1 and, like everything else, will struggle against the Percival. However their high rate of fire means low overkill when fighting against large numbers of enemy units and will overwhelm Harbingers assuming something like an equal mass investment after you start getting a few Bricks together. It’s a little known fact that the much-maligned Othuum is actually the most mass efficient T3 unit in the game, but it has only 60% of the Brick’s range on its main guns, so avoid getting in to range of Sera T3 and you should be able to win decisive engagements, particularly earlier in the T3 stage before your enemy has had the chance to assemble a large number T3 tanks and mobile shields.</p>
-<ul>
-<li>Comparison of all T3 Assault Bots and Tanks <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=UAL0303,XRL0305,XEL0305,XSL0303">here.</a></li>
-</ul>
-<p>The slow speed of the Brick means that you may need to transport your first units to the front lines, particularly if you are being heavily raided by Ilshavoh, Loyalists, Titans or especially Harbingers, which Aeon players will often rush for when they can and will kill your Loyalists. To absolutely maximise an early tech advantage, or just to cause general disruption, you can also consider using a mobile stealth and a T2 transport to drop a Brick in to your enemy’s T2 eco (but away from their ACU), perhaps in addition to the early raiding using Loyalists.</p></td>
-</tr>
-</tbody>
-</table>
+- Statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0303">Loyalist</a>
+<img src="A_T3_Harbinger.PNG" title="fig:A_T3_Harbinger.PNG" width="50" alt="A_T3_Harbinger.PNG" /><img src="Sera_T3_Tank.png" title="fig:Sera_T3_Tank.png" width="50" alt="Sera_T3_Tank.png" /><img src="UEF_T3_Armored_Assault_Bot.png" title="fig:UEF_T3_Armored_Assault_Bot.png" width="50" alt="UEF_T3_Armored_Assault_Bot.png" /> The Brick is more likely to be the mainstay of your Cybran-style play at the full-T3 stage. They are vulnerable to a well-microed Harbinger in a 1v1 and, like everything else, will struggle against the Percival. However their high rate of fire means low overkill when fighting against large numbers of enemy units and will overwhelm Harbingers assuming something like an equal mass investment after you start getting a few Bricks together. It’s a little known fact that the much-maligned Othuum is actually the most mass efficient T3 unit in the game, but it has only 60% of the Brick’s range on its main guns, so avoid getting in to range of Sera T3 and you should be able to win decisive engagements, particularly earlier in the T3 stage before your enemy has had the chance to assemble a large number T3 tanks and mobile shields.
+
+- Comparison of all T3 Assault Bots and Tanks <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=UAL0303,XRL0305,XEL0305,XSL0303">here.</a>
+
+The slow speed of the Brick means that you may need to transport your first units to the front lines, particularly if you are being heavily raided by Ilshavoh, Loyalists, Titans or especially Harbingers, which Aeon players will often rush for when they can and will kill your Loyalists. To absolutely maximise an early tech advantage, or just to cause general disruption, you can also consider using a mobile stealth and a T2 transport to drop a Brick in to your enemy’s T2 eco (but away from their ACU), perhaps in addition to the early raiding using Loyalists.
 
 ### ![<File:T3_air.png>](T3_air.png "fig:File:T3_air.png") Experimentals and Tech 3 Air
 
