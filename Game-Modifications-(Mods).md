@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T16:17:41.992Z
+date: 2021-10-24T16:20:36.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -202,7 +202,7 @@ Latest version can be found in the first post of [this forum thread.](https://fo
 
 ### <img src="/images/modding/ta_music_icon.png" width="40" /> [Total Annihilation Music Mod](/Total_Annihilation_Music_Mod)
 
-### <img src="/images/modding/sc_music_icon.png" width="40" /> [Supreme Commander Music Mod](Supreme_Commander_Music_Mod "wikilink")
+### <img src="/images/modding/sc_music_icon.png" width="40" /> [Supreme Commander Music Mod](/Supreme_Commander_Music_Mod)
 
 ## Sim Mods
 
