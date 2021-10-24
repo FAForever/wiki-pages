@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-24T23:30:57.849Z
+date: 2021-10-24T23:49:56.223Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -318,7 +318,7 @@ Sooner you learn them the better for you, it might look there's too many names b
 </tbody>
 </table>
 
-## Early Game
+## Early Game{.tabset}
 
 ### Summary
 
@@ -330,34 +330,27 @@ Sooner you learn them the better for you, it might look there's too many names b
 
 ### <img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /> Mantis
 
-> While you have LABs that can be used in the opening 90-120 seconds of the game due to their low build time, your main tank (actually another bot technically) is nearly as fast and will win if it runs in to an early lab from your enemy. The top speed of all LABs is 4.0 (remember that your Hunter has the lowest HP), the Mantis is 3.7, the Thaam is 3.5, the Striker is 3.4 and the Aurora is 2.9. The Mantis generally is about even with or slightly better than the Thaam in a straight fight, as it has 2 DPS more and 10 HP less, and is half way between a Striker and a LAB for speed.
->
->	- Comparison of all T1 tanks, and all LABs.
->  
-> This means you should be able to shut down enemy raids if you scout well and delay their expansion more effectively by getting your units in to annoying places quickly, and then staying alive when a superior force arrives to chase them off. You can often get in behind your enemy's early tanks and ACU to cause serious disruption and gain a potentially game-winning advantage.
-> The slow turret speed of the Mantis does complicate this advantage - it's quite possible to lose to an enemy Mantis that your opponent is not paying attention to if you micro your own Mantis badly in a 1v1. Generally speaking you want to approach or run away from your enemy's tank in a zig zag. You will usually either escape with your superior speed or win the fight. You should avoid charging past the enemy tank or causing very sharp changes of direction. Your turret may fail to track the target and stop firing for a crucial amount of time.
-{.is-info}
+While you have LABs that can be used in the opening 90-120 seconds of the game due to their low build time, your main tank (actually another bot technically) is nearly as fast and will win if it runs in to an early lab from your enemy. The top speed of all LABs is 4.0 (remember that your Hunter has the lowest HP), the Mantis is 3.7, the Thaam is 3.5, the Striker is 3.4 and the Aurora is 2.9. The Mantis generally is about even with or slightly better than the Thaam in a straight fight, as it has 2 DPS more and 10 HP less, and is half way between a Striker and a LAB for speed.
+- Comparison of all T1 tanks, and all LABs.
+
+This means you should be able to shut down enemy raids if you scout well and delay their expansion more effectively by getting your units in to annoying places quickly, and then staying alive when a superior force arrives to chase them off. You can often get in behind your enemy's early tanks and ACU to cause serious disruption and gain a potentially game-winning advantage.
+
+The slow turret speed of the Mantis does complicate this advantage - it's quite possible to lose to an enemy Mantis that your opponent is not paying attention to if you micro your own Mantis badly in a 1v1. Generally speaking you want to approach or run away from your enemy's tank in a zig zag. You will usually either escape with your superior speed or win the fight. You should avoid charging past the enemy tank or causing very sharp changes of direction. Your turret may fail to track the target and stop firing for a crucial amount of time.
 
 ### ![<File:Air.png>](Air.png "fig:File:Air.png") Air
-
 <img src="Cybran_T1_Interceptor.png" title="fig:Cybran_T1_Interceptor.png" width="50" alt="Cybran_T1_Interceptor.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" /><img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png"/>
-> Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arguably the worst in the game (although possibly slightly better than the UEF Scorcher), with the lowest damage and bad accuracy. Early bombers can still win you games with good build orders and a slow counter from the enemy, but if your opponent is dodging their engineers and you are not countering this with good micro, you may find yourself making multiple passes on engineers for no kills. Keep in mind that bad micro can allow stationary or un-dodged engineers survive a pass for a variety of reasons.
-> 
-> You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.
->
-> Comparison of all interceptors, Bombers and statistics of T1 Gunship Jester
-{.is-info}
+Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arguably the worst in the game (although possibly slightly better than the UEF Scorcher), with the lowest damage and bad accuracy. Early bombers can still win you games with good build orders and a slow counter from the enemy, but if your opponent is dodging their engineers and you are not countering this with good micro, you may find yourself making multiple passes on engineers for no kills. Keep in mind that bad micro can allow stationary or un-dodged engineers survive a pass for a variety of reasons.
 
+You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.
 
+- Comparison of all interceptors, Bombers and statistics of T1 Gunship Jester
 
 ### <img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /> Auroras and Zthuees <img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" />
 
 <img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" />
-> On amphibious maps, you will have trouble against Aeon and Seraphim. If you expect units to be appearing across a body of water, you need to make early frigates if you can, and fortunately your frigate is the most mass efficient one of the four factions, but you will be behind on land units if you do this due to the high mass investment required for naval units. You may also have some success with early Jesters if you can secure air control. Fortunately for Cybran (and UEF), a number of these maps have been removed from the [map pool](Ladder_Map_Pool "wikilink"), meaning being blindsided by this is less likely now.
-{.is-info}
+On amphibious maps, you will have trouble against Aeon and Seraphim. If you expect units to be appearing across a body of water, you need to make early frigates if you can, and fortunately your frigate is the most mass efficient one of the four factions, but you will be behind on land units if you do this due to the high mass investment required for naval units. You may also have some success with early Jesters if you can secure air control. Fortunately for Cybran (and UEF), a number of these maps have been removed from the [map pool](Ladder_Map_Pool "wikilink"), meaning being blindsided by this is less likely now.
 
-## Small maps
-
+## Small maps{.tabset}
 A lot of games on small maps in particular are decided by the "basics" - better raiding, eco balance, unit micro and knowing when to attack, when to upgrade your ACU/land factory/eco or how to take advantage of it when your opponent does these things. You can't do this stuff worse than your opponent and expect to win often. Cybran is a bit under rated on small land maps due to the low hit points of their units. However Cybran offers you unique ways to win.
 
 ### Summary
@@ -372,163 +365,98 @@ A lot of games on small maps in particular are decided by the "basics" - better 
 
 ### ![<File:Ping> attack.png](Ping_attack.png "fig:File:Ping attack.png") Aggression
 
->Mantis let you raid frequently, particularly on open small maps. After front lines have been established, Mantis are able to get to the front lines quicker, and out of fights that you realise at the start you probably shouldn't be taking. This allows you to "poke" your enemy with little bits of aggression, allowing you to fluster your opponent, or to make him push when he thinks he has you on the run - straight towards your fast-moving reinforcements. You are also able to bail your ACU out of tight spots due to the speed of the Mantis, although you should also bear in mind that your ACU will have a HP disadvantage if it's not a mirror match. {.is-info}
+Mantis let you raid frequently, particularly on open small maps. After front lines have been established, Mantis are able to get to the front lines quicker, and out of fights that you realise at the start you probably shouldn't be taking. This allows you to "poke" your enemy with little bits of aggression, allowing you to fluster your opponent, or to make him push when he thinks he has you on the run - straight towards your fast-moving reinforcements. You are also able to bail your ACU out of tight spots due to the speed of the Mantis, although you should also bear in mind that your ACU will have a HP disadvantage if it's not a mirror match. 
 
 ### <img src="Cybran_T1_Arty.png" title="fig:Cybran_T1_Arty.png" width="50" alt="Cybran_T1_Arty.png" /> Medusa
 
-> Your artillery is a very interesting little unit, thanks to its stun and its firing randomness. It has awful DPS, and when you combine with how frequently a single Medusa will miss a target, your artillery is pretty deficient compared to other factions at its most common job of killing enemy point defence in groups of one or two arty. However, once large armies have been assembled, a decent amount of Medusa in your mix will turn that into an advantage, as large groups of units are weakened and stunned, giving your tanks a quick cleanup job. ACUs will also have more trouble avoiding damage as they find themselves surrounded by stunned tanks on low HP and being unable to dodge all the fire. Medusa can also kill large groups of Aurora in one volley, and have the same speed and higher range then the Aeon tank, which is primarily used for kiting.
->
-> Knowing when to get large numbers of Medusa requires a bit of experience, but when there are choke points, such as on Crag Dunes or Winter Duel, and/or large armies on the field, including Tech 2 armies, the value of the Medusa increases greatly.
->
-> Comparison of all T1 Artilleries
-{.is-info}
+Your artillery is a very interesting little unit, thanks to its stun and its firing randomness. It has awful DPS, and when you combine with how frequently a single Medusa will miss a target, your artillery is pretty deficient compared to other factions at its most common job of killing enemy point defence in groups of one or two arty. However, once large armies have been assembled, a decent amount of Medusa in your mix will turn that into an advantage, as large groups of units are weakened and stunned, giving your tanks a quick cleanup job. ACUs will also have more trouble avoiding damage as they find themselves surrounded by stunned tanks on low HP and being unable to dodge all the fire. Medusa can also kill large groups of Aurora in one volley, and have the same speed and higher range then the Aeon tank, which is primarily used for kiting.
+
+Knowing when to get large numbers of Medusa requires a bit of experience, but when there are choke points, such as on Crag Dunes or Winter Duel, and/or large armies on the field, including Tech 2 armies, the value of the Medusa increases greatly.
+
+- Comparison of all T1 Artilleries
 
 ### ![<File:T1_air.png>](T1_air.png "fig:File:T1_air.png") Air
 <img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png"/>
->When you have clear air dominance and a more developed economy, the Jester becomes a fairly low risk, high reward unit. It requires significant attention to counter, as it can easily run away from large groups of mobile AA or a static AA, and any attempt to snipe it with interceptors should trigger a dogfight that gives you an even greater air advantage, while the Jester's HP may allow it to survive anyway. You can use the Jester for all sorts of things - killing engineers and outlying mexes, trimming down T1 armies that haven't got an AA in the mix or cleaning up land raids you have missed without having to divert units from the front line. In larger numbers, it also allows you to snipe an ACU without having to get a Tech 2 factory, something only Cybran can do. Having an assisted air factory with a significant number of Jesters in the mix can also be very effective on open small maps, particularly if you are using mobile AA in your army to help your possibly small number of interceptors in their crucial job of keeping the air-to-ground DPS alive.
-> 
-> There is still room for using the T1 bomber - it is quicker to kill enemy power generators with a group of 3 bombers, which cost 240 mass, than it is to use a Jester, which costs 200. The small mass investment of the bomber also makes it a safer option for pressuring expanding engineers when air control is still not decisively in your favour. In addition, when you notice your enemy doesn't have an air factory and you do, and you need to use this advantage or be overwhelmed by tanks, a good tactic can be to get a bomber or two first to immediately start killing engineers and damaging units before waiting through the longer build time of the Jester to start causing more serious damage, at a higher cost.
->
-> Comparison of all Interceptors, Bombers and statistics of T1 Gunship Jester
+When you have clear air dominance and a more developed economy, the Jester becomes a fairly low risk, high reward unit. It requires significant attention to counter, as it can easily run away from large groups of mobile AA or a static AA, and any attempt to snipe it with interceptors should trigger a dogfight that gives you an even greater air advantage, while the Jester's HP may allow it to survive anyway. You can use the Jester for all sorts of things - killing engineers and outlying mexes, trimming down T1 armies that haven't got an AA in the mix or cleaning up land raids you have missed without having to divert units from the front line. In larger numbers, it also allows you to snipe an ACU without having to get a Tech 2 factory, something only Cybran can do. Having an assisted air factory with a significant number of Jesters in the mix can also be very effective on open small maps, particularly if you are using mobile AA in your army to help your possibly small number of interceptors in their crucial job of keeping the air-to-ground DPS alive.
+ 
+There is still room for using the T1 bomber - it is quicker to kill enemy power generators with a group of 3 bombers, which cost 240 mass, than it is to use a Jester, which costs 200. The small mass investment of the bomber also makes it a safer option for pressuring expanding engineers when air control is still not decisively in your favour. In addition, when you notice your enemy doesn't have an air factory and you do, and you need to use this advantage or be overwhelmed by tanks, a good tactic can be to get a bomber or two first to immediately start killing engineers and damaging units before waiting through the longer build time of the Jester to start causing more serious damage, at a higher cost.
+
+- Comparison of all Interceptors, Bombers and statistics of T1 Gunship Jester
 
 ### ![<File:Upgrade> Icon.png](Upgrade_Icon.png "fig:File:Upgrade Icon.png") Upgrading
+<img src="Cybran_T2_Tank.png" title="fig:Cybran_T2_Tank.png" width="50" alt="Cybran_T2_Tank.png" />
+Generally, deciding when to get a Tech 2 land factory or an ACU gun/engineering suite and deciding when to start upgrading mexes is governed by the same rules for Cybran as for other factions. Rushing a T2 factory is viable as a single Rhino is quite capable of wiping out a stream of T1 tanks away from the enemy ACU, but remember that the Rhino is the least mass efficient T2 tank on its own, and generally works best in larger armies with significant numbers of Medusa in the mix to stun enemy units, effectively increasing the Rhinos' HP. This transition is easier to manage after gaining an advantage with your early Mantis before upgrading to Tech 2.
+ 
+- Comparison of all T2 Tanks and Bots <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0202,URL0203,UEL0202,UEL0203,UAL0202,XAL0203,XSL0202,XSL0203">here</a>
+ 
+<img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Cybran_T2_Rocket_Bot.png" title="fig:Cybran_T2_Rocket_Bot.png" width="50" alt="Cybran_T2_Rocket_Bot.png" /> 
+On small, open maps against Aeon, rushing Tech 2 land is an important part of countering Auroras for all factions, but Cybran has the Hoplite, which is able to kill an Aurora in one shot and has a significant range and speed advantage. It can be combined with stealth to kite in the early T2 phase against any faction, although micro mistakes are incredibly costly due to the low HP of the Hoplite. The Aeon ACU can be upgraded with the gun range and sensor suite (or double gun if you don’t use stealth) to counter this, so try not to overinvest after you start winning against Auroras with Hoplites unless you will be able to stop these upgrades.
+ 
+- Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=UAL0201,DRL0204">Aurora/Hoplite</a>
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T2_Tank.png" title="fig:Cybran_T2_Tank.png" width="50" alt="Cybran_T2_Tank.png" /> Generally, deciding when to get a Tech 2 land factory or an ACU gun/engineering suite and deciding when to start upgrading mexes is governed by the same rules for Cybran as for other factions. Rushing a T2 factory is viable as a single Rhino is quite capable of wiping out a stream of T1 tanks away from the enemy ACU, but remember that the Rhino is the least mass efficient T2 tank on its own, and generally works best in larger armies with significant numbers of Medusa in the mix to stun enemy units, effectively increasing the Rhinos' HP. This transition is easier to manage after gaining an advantage with your early Mantis before upgrading to Tech 2.</p>
-<ul>
-<li>Comparison of all T2 Tanks and Bots <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0202,URL0203,UEL0202,UEL0203,UAL0202,XAL0203,XSL0202,XSL0203">here</a></li>
-</ul>
-<p><img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Cybran_T2_Rocket_Bot.png" title="fig:Cybran_T2_Rocket_Bot.png" width="50" alt="Cybran_T2_Rocket_Bot.png" /> On small, open maps against Aeon, rushing Tech 2 land is an important part of countering Auroras for all factions, but Cybran has the Hoplite, which is able to kill an Aurora in one shot and has a significant range and speed advantage. It can be combined with stealth to kite in the early T2 phase against any faction, although micro mistakes are incredibly costly due to the low HP of the Hoplite. The Aeon ACU can be upgraded with the gun range and sensor suite (or double gun if you don’t use stealth) to counter this, so try not to overinvest after you start winning against Auroras with Hoplites unless you will be able to stop these upgrades.</p>
-<ul>
-<li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=UAL0201,DRL0204">Aurora/Hoplite</a></li>
-</ul>
-<p><img src="Cybran_T2_Mobile_Bomb.png" title="fig:Cybran_T2_Mobile_Bomb.png" width="50" alt="Cybran_T2_Mobile_Bomb.png" /> Getting Tech 2 also allows you to (ab)use Cybran Fire Beetles and the static TML launcher. Fire Beetles allow you to snipe ACUs that push your base at the head of an army and don't notice the units in your mix. You can also, as at patch 3640, load 4 Fire Beetles (14,000 damage) in to a T1 transport with a mobile stealth unit, if you load the stealth unit first, or 6 Fire Beetles (21,000 damage) without stealth. Abuse this cheese as you see fit.</p>
-<ul>
-<li>Statistics of TML Launcher, Fire Beetles, Mobile Stealth <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URB2108,XRL0302,URL0306">here.</a></li>
-</ul>
-<p><img src="Cybran_T2_MML.png" title="fig:Cybran_T2_MML.png" width="50" alt="Cybran_T2_MML.png" /><img src="Cybran_T2_PD.png" title="fig:Cybran_T2_PD.png" width="50" alt="Cybran_T2_PD.png" /><img src="Cybran_T2_Static_Shield.png" title="fig:Cybran_T2_Static_Shield.png" width="50" alt="Cybran_T2_Static_Shield.png" /> The Cybran TML and its missile splitting ability allows you to snipe a TMD with your first missile and then kill the T2 economy it was protecting if you make a stockpile of missiles. This won't work as well if your enemy makes double TMD in front of possible TML targets. The Viper MML (and 80 mass mobile stealth) helps you compensate for the dire Cerberus DPS and low HP shields in a battle of PD creeps. The splitting MML will overwhelm TMD and let through more missiles than other factions when you have massed reasonable numbers of Vipers.</p>
-<ul>
-<li>Statistics of Mobile Missile Launcher, T2 Point Defense and Static Shield <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0111,URB2301,URB4202">here.</a>
-<ul>
-<li>Shield can be <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URB4204,URB4205,URB4206,URB4207">upgraded 4 times.</a></li>
-</ul></li>
-</ul>
-<p>You should note that the Cybran ACU is the only one that can't have both T2 Engineering and 200 DPS, so you have to make a decision about this and try to avoid getting in to too many mid/late game ACU fights. If you notice an attempted double upgrade, remember to punish your enemy by killing their army or their eco, or forcing them to cancel with a push, as you can't match the HP/DPS on your own ACU. The stealth upgrade can be used to allow your gun ACU to be more aggressive when your enemy doesn't have line of sight to the ACU in front of their army army, or to avoid getting kited by an Aeon double-gun ACU. Remember to avoid letting your enemy scout a stealth+gun ACU with air if you can.</p></td>
-</tr>
-</tbody>
-</table>
+<img src="Cybran_T2_Mobile_Bomb.png" title="fig:Cybran_T2_Mobile_Bomb.png" width="50" alt="Cybran_T2_Mobile_Bomb.png" /> Getting Tech 2 also allows you to (ab)use Cybran Fire Beetles and the static TML launcher. Fire Beetles allow you to snipe ACUs that push your base at the head of an army and don't notice the units in your mix. You can also, as at patch 3640, load 4 Fire Beetles (14,000 damage) in to a T1 transport with a mobile stealth unit, if you load the stealth unit first, or 6 Fire Beetles (21,000 damage) without stealth. Abuse this cheese as you see fit.
+ 
+Statistics of TML Launcher, Fire Beetles, Mobile Stealth <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URB2108,XRL0302,URL0306">here.</a>
+ 
+<img src="Cybran_T2_MML.png" title="fig:Cybran_T2_MML.png" width="50" alt="Cybran_T2_MML.png" /><img src="Cybran_T2_PD.png" title="fig:Cybran_T2_PD.png" width="50" alt="Cybran_T2_PD.png" /><img src="Cybran_T2_Static_Shield.png" title="fig:Cybran_T2_Static_Shield.png" width="50" alt="Cybran_T2_Static_Shield.png" />
+The Cybran TML and its missile splitting ability allows you to snipe a TMD with your first missile and then kill the T2 economy it was protecting if you make a stockpile of missiles. This won't work as well if your enemy makes double TMD in front of possible TML targets. The Viper MML (and 80 mass mobile stealth) helps you compensate for the dire Cerberus DPS and low HP shields in a battle of PD creeps. The splitting MML will overwhelm TMD and let through more missiles than other factions when you have massed reasonable numbers of Vipers.
+ 
+Statistics of Mobile Missile Launcher, T2 Point Defense and Static Shield <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0111,URB2301,URB4202">here.</a>
+ 
+Shield can be <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URB4204,URB4205,URB4206,URB4207">upgraded 4 times.</a>
+ 
+You should note that the Cybran ACU is the only one that can't have both T2 Engineering and 200 DPS, so you have to make a decision about this and try to avoid getting in to too many mid/late game ACU fights. If you notice an attempted double upgrade, remember to punish your enemy by killing their army or their eco, or forcing them to cancel with a push, as you can't match the HP/DPS on your own ACU. The stealth upgrade can be used to allow your gun ACU to be more aggressive when your enemy doesn't have line of sight to the ACU in front of their army army, or to avoid getting kited by an Aeon double-gun ACU. Remember to avoid letting your enemy scout a stealth+gun ACU with air if you can.
 
 ### ![<File:Aeon.png>](Aeon.png "fig:File:Aeon.png") Aeon
+If you play a number of games against Aeon players of your own level on small maps, particularly open ones, you will have experienced some painful defeats. Like all factions, Cybran T1 will have problems with Auroras once they reach a critical mass and are used to kite your tanks, or your ACU, which can lead to some very annoying deaths. You do have the advantage of a huge speed advantage over the Aurora in the early game, so you may be able to get a decisive advantage by forcing your enemy to respond to raids and splitting their tanks, which gives you more favourable engagements.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>If you play a number of games against Aeon players of your own level on small maps, particularly open ones, you will have experienced some painful defeats. Like all factions, Cybran T1 will have problems with Auroras once they reach a critical mass and are used to kite your tanks, or your ACU, which can lead to some very annoying deaths. You do have the advantage of a huge speed advantage over the Aurora in the early game, so you may be able to get a decisive advantage by forcing your enemy to respond to raids and splitting their tanks, which gives you more favourable engagements.</p>
-<p>If your enemy is able to stay in the game or get ahead during this phase, Medusa become even more important than usual in giving you a fighting chance at the T1 level. This is only really a temporary measure. You need to win air and kill the Auroras with Jesters or, more usually, T1 bombers, which can kill multiple Auroras in one pass. This is particularly devastating if you use multiple bombers with spread attack (shift-click multiple targets and hit shift+G by default).</p>
-<p>You should also try and get Tech 2 before your enemy either starts to get dominance with Auroras or their own Tech 2. If you are comfortable kiting with Hoplites, ideally with mobile stealth in the mix, you should be able to destroy Aurora armies taking little or no losses. Rhinos will also cut straight through an Aurora army. However, once your enemy has Obsidians, particularly combined with mobile shields, they are very tough for your Rhinos and Medusa to beat in a straight fight and will take a long time to die to kiting Hoplites. Obsidians are big mass investments so are vulnerable to overcharge if you can manage it, but can quickly kill even an upgraded Cybran ACU, especially if supported by double gun or range+omni Aeon ACU. If a critical mass of Obsidians, shields and upgraded ACU is reached, you are in serious trouble and need to snipe T2 power (which will shut off Aeon shields and give you an opening), the HQ factory or the ACU itself to win.</p>
-<p>For more information, see the <a href="Aeon_1v1_Guide" title="wikilink">Aeon 1v1 Guide</a>.</p></td>
-</tr>
-</tbody>
-</table>
+If your enemy is able to stay in the game or get ahead during this phase, Medusa become even more important than usual in giving you a fighting chance at the T1 level. This is only really a temporary measure. You need to win air and kill the Auroras with Jesters or, more usually, T1 bombers, which can kill multiple Auroras in one pass. This is particularly devastating if you use multiple bombers with spread attack (shift-click multiple targets and hit shift+G by default).
 
-## Medium maps
+You should also try and get Tech 2 before your enemy either starts to get dominance with Auroras or their own Tech 2. If you are comfortable kiting with Hoplites, ideally with mobile stealth in the mix, you should be able to destroy Aurora armies taking little or no losses. Rhinos will also cut straight through an Aurora army. However, once your enemy has Obsidians, particularly combined with mobile shields, they are very tough for your Rhinos and Medusa to beat in a straight fight and will take a long time to die to kiting Hoplites. Obsidians are big mass investments so are vulnerable to overcharge if you can manage it, but can quickly kill even an upgraded Cybran ACU, especially if supported by double gun or range+omni Aeon ACU. If a critical mass of Obsidians, shields and upgraded ACU is reached, you are in serious trouble and need to snipe T2 power (which will shut off Aeon shields and give you an opening), the HQ factory or the ACU itself to win.
+
+For more information, see the <a href="Aeon_1v1_Guide" title="wikilink">Aeon 1v1 Guide</a>.
+
+## Medium maps{.tabset}
 
 <img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /><img src="Cybran_T1_LAB.png" title="fig:Cybran_T1_LAB.png" width="50" alt="Cybran_T1_LAB.png" />
-The theme of aggressive Mantis use in the early game and on small maps
-continues, and becomes most important, on 10x10 maps. The likelihood of
-getting early LABs to unguarded engineers that Mantis cannot reach is
-even lower on larger maps, and if the map is open then having units in
-more places, denying more expansions, is easier with Cybran. Remember to
-use your Mantis to defend enemy raids, it should be harder for enemy
-units to get in behind your forces and start killing expansions and
-expanding engineers. The period of raiding on a medium sized map will
-generally continue for longer, particularly if you get on top and use a
-Cybran style to get ahead.
+The theme of aggressive Mantis use in the early game and on small maps continues, and becomes most important, on 10x10 maps. The likelihood of getting early LABs to unguarded engineers that Mantis cannot reach is even lower on larger maps, and if the map is open then having units in more places, denying more expansions, is easier with Cybran. Remember to use your Mantis to defend enemy raids, it should be harder for enemy units to get in behind your forces and start killing expansions and expanding engineers. The period of raiding on a medium sized map will generally continue for longer, particularly if you get on top and use a Cybran style to get ahead.
 
 <img src="Cybran_T1_Arty.png" title="fig:Cybran_T1_Arty.png" width="50" alt="Cybran_T1_Arty.png" />
-Larger maps may also delay the point at which large armies will start to
-face off, and therefore the time you should start making more artillery.
-This point often coincides with the point at which you get Tech 2 land,
-when your Tech 1 land production should switch to largely or wholly
-Medusa in any case.
+Larger maps may also delay the point at which large armies will start to face off, and therefore the time you should start making more artillery. This point often coincides with the point at which you get Tech 2 land, when your Tech 1 land production should switch to largely or wholly Medusa in any case.
 
 <img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" />
-The slow travel time of the Jester becomes more of a factor – it is
-easier to detect it before it gets to crucial engineers and mexes, and
-you may have to choose between having air units out of position to
-defend it, or having it picked off before it has paid for itself. It
-still provides you with the opportunity to have a gunship, and indeed
-possibly an air snipe, without upgrading your air factory and still has
-a place on medium sized maps to raid and exploit an air advantage.
+The slow travel time of the Jester becomes more of a factor – it is easier to detect it before it gets to crucial engineers and mexes, and you may have to choose between having air units out of position to defend it, or having it picked off before it has paid for itself. It still provides you with the opportunity to have a gunship, and indeed possibly an air snipe, without upgrading your air factory and still has a place on medium sized maps to raid and exploit an air advantage. 
 
-A number of high-mass or particularly defensive maps will more often
-require some of the advice found in the Large Maps section.
+A number of high-mass or particularly defensive maps will more often require some of the advice found in the Large Maps section.
 
 ### Summary
-
--   T2 Cybran land needs a critical mass of Rhinos and Medusas to be
-    effective.
--   Managing this transition can be easier if you cause disruption with
-    the speed of the Mantis or a handful of other faster T2 units.
--   Cybran T2 air can be very strong while T1 land is still being used
-    against you, and is more effective at sniping eco, flak and ACUs
-    than other factions’ T2 Air.
--   Be prepared to use, and counter, T3 rushes in high eco games.
--   High eco maps also let you build early Monkeylords.
--   Disrupt UEF players transitioning to T3 land as much as possible.
--   The Revanant T3 bomber has stealth mode, which allows for ACU snipes
-    with little warning.
--   Click on the sections below for more information.
+- T2 Cybran land needs a critical mass of Rhinos and Medusas to be effective.
+- Managing this transition can be easier if you cause disruption with the speed of the Mantis or a handful of other faster T2 units.
+- Cybran T2 air can be very strong while T1 land is still being used against you, and is more effective at sniping eco, flak and ACUs than other factions’ T2 Air.
+- Be prepared to use, and counter, T3 rushes in high eco games.
+- High eco maps also let you build early Monkeylords.
+- Disrupt UEF players transitioning to T3 land as much as possible.
+- The Revanant T3 bomber has stealth mode, which allows for ACU snipes with little warning.
+- Click on the sections below for more information.
 
 ### ![<File:T2> land.png](T2_land.png "fig:File:T2 land.png") Tech 2 Land
+While wins against opponents of your own level are quite achievable by focusing on a large Mantis spam to control the map and overwhelm your enemy, you will have to win many games at Tech 2, particularly if your enemy rushes it and/or the map is less open or high-mass. The Rhino sits somewhere between the speedy, cheap Pillar and the serious DPS and HP of the Obsidian and Ilshavoh, which also has a slight range advantage. You need a critical mass of Rhinos and Medusas (ideally built in approximately even numbers) to be able to trade evenly or better at Tech 2. If you are unable to gain an advantage at the T1 stage to transition to this point, you may want to try using some of the other units to get ahead – although simple good unit movement with your first Rhinos and scouting can work in most cases.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>While wins against opponents of your own level are quite achievable by focusing on a large Mantis spam to control the map and overwhelm your enemy, you will have to win many games at Tech 2, particularly if your enemy rushes it and/or the map is less open or high-mass. The Rhino sits somewhere between the speedy, cheap Pillar and the serious DPS and HP of the Obsidian and Ilshavoh, which also has a slight range advantage. You need a critical mass of Rhinos and Medusas (ideally built in approximately even numbers) to be able to trade evenly or better at Tech 2. If you are unable to gain an advantage at the T1 stage to transition to this point, you may want to try using some of the other units to get ahead – although simple good unit movement with your first Rhinos and scouting can work in most cases.</p>
-<p>One option is the Wagner, which has the speed of the Mantis and slightly more DPS than the Rhino, at the cost of not quite enough HP to be as efficient as the Rhino in a straight fight. This unit allows you to kill enemy T1 tanks, expanding engineers and outlying mexes quickly, and the fact that it can hide under water allows you to avoid defenders even more effectively than with Mantis. You may be able to build an early handful of Wagners and kill engineers and T1 mexes in the enemy base itself and you are likely to cause your enemy to divert units from the front line, which can give you a strategic or psychological advantage. Watch the <a href="https://goo.gl/5cAJ41">Rhinos or Wagners</a> quick tip for additional advice on when to build which of the two tanks.</p>
-<p>The Hoplite, as outlined above, can kite very effectively if you pay constant attention. The low muzzle velocity, DPS and hit points mean that this requires lots of attention and no mistakes to work. It is generally easier to use these units early in the Tech 2 phase to counter Auroras or to raid and distract while you build up your main Rhino and Medusa force.</p>
-<p>A final word on stealth – as outlined above it is a serious force multiplier for Hoplites and can be used to allow your drops and snipes to avoid detection and enjoy more success. It is sometimes problematically fast when used in conjunction with slow moving Rhinos and Medusas, or Bricks at the T3 stage, but it has a psychological effect on your enemy if they know it’s there, as they have to scout more often and pay more attention to their scouting. This can lead to less successful management of other units. It can also, sometimes, cause game-changing mistakes as your enemy pushes at a small force or an empty space on radar, only to find a large army where they didn’t expect it, or to be too late to stop your tanks rolling in to their base. Deceivers can also hide your T2 PD and Vipers from radar in a tower creep, giving you an advantage in a PD war.</p></td>
-</tr>
-</tbody>
-</table>
+One option is the Wagner, which has the speed of the Mantis and slightly more DPS than the Rhino, at the cost of not quite enough HP to be as efficient as the Rhino in a straight fight. This unit allows you to kill enemy T1 tanks, expanding engineers and outlying mexes quickly, and the fact that it can hide under water allows you to avoid defenders even more effectively than with Mantis. You may be able to build an early handful of Wagners and kill engineers and T1 mexes in the enemy base itself and you are likely to cause your enemy to divert units from the front line, which can give you a strategic or psychological advantage. Watch the <a href="https://goo.gl/5cAJ41">Rhinos or Wagners</a> quick tip for additional advice on when to build which of the two tanks.
+
+The Hoplite, as outlined above, can kite very effectively if you pay constant attention. The low muzzle velocity, DPS and hit points mean that this requires lots of attention and no mistakes to work. It is generally easier to use these units early in the Tech 2 phase to counter Auroras or to raid and distract while you build up your main Rhino and Medusa force.
+
+A final word on stealth – as outlined above it is a serious force multiplier for Hoplites and can be used to allow your drops and snipes to avoid detection and enjoy more success. It is sometimes problematically fast when used in conjunction with slow moving Rhinos and Medusas, or Bricks at the T3 stage, but it has a psychological effect on your enemy if they know it’s there, as they have to scout more often and pay more attention to their scouting. This can lead to less successful management of other units. It can also, sometimes, cause game-changing mistakes as your enemy pushes at a small force or an empty space on radar, only to find a large army where they didn’t expect it, or to be too late to stop your tanks rolling in to their base. Deceivers can also hide your T2 PD and Vipers from radar in a tower creep, giving you an advantage in a PD war.
 
 ### ![<File:T2_air.png>](T2_air.png "fig:File:T2_air.png") Tech 2 Air
+<img src="Cybran_T2_Gunship.png" title="fig:Cybran_T2_Gunship.png" width="50" alt="Cybran_T2_Gunship.png" /><img src="Cybran_T2_Fighter_Bomber.png" title="fig:Cybran_T2_Fighter_Bomber.png" width="50" alt="Cybran_T2_Fighter_Bomber.png" />
+Using T1 bombers in the early phase of the game and winning air control as standard for all factions is an important part of Cybran play. You may look to use the Jester, as outlined above, to exploit an air advantage, although the slow travel time can be an issue.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T2_Gunship.png" title="fig:Cybran_T2_Gunship.png" width="50" alt="Cybran_T2_Gunship.png" /><img src="Cybran_T2_Fighter_Bomber.png" title="fig:Cybran_T2_Fighter_Bomber.png" width="50" alt="Cybran_T2_Fighter_Bomber.png" /> Using T1 bombers in the early phase of the game and winning air control as standard for all factions is an important part of Cybran play. You may look to use the Jester, as outlined above, to exploit an air advantage, although the slow travel time can be an issue.</p>
-<p>Tech 2 air is more likely to become part of your play on medium sized maps than on smaller maps. General solid T2 airplay is important, such as using gunships to kill units and expansions that are undefended by T2 flak when you have an air advantage, using 2 fighterbombers to snipe T2 power, 1 fighterbomber to snipe TMD, or sniping an exposed ACU with a larger group of fighterbombers and/or gunships.</p>
-<p>The main consideration you have with Cybran units at this stage is that Corsairs and Renegades have splash damage. For Renegades this can be incredibly useful and makes the gunships especially strong against T1 land units and, in the case of Corsairs and their forward-firing missiles, T2 flak. This means that if you’ve rushed T2 Air and conceded a land advantage, you will may have a slightly easier time recovering or minimising damage. Corsair splash damage and range also makes snipes on ACUs harder to dodge and, with some expert micro, allow you to avoid flying over air defences by doubling your units back after they fire, but before they’ve flown over the target.</p>
-<ul>
-<li>Statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=DRA0202,URA0203">T2 Fighter/Bomber and Gunship</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Tech 2 air is more likely to become part of your play on medium sized maps than on smaller maps. General solid T2 airplay is important, such as using gunships to kill units and expansions that are undefended by T2 flak when you have an air advantage, using 2 fighterbombers to snipe T2 power, 1 fighterbomber to snipe TMD, or sniping an exposed ACU with a larger group of fighterbombers and/or gunships.
+
+The main consideration you have with Cybran units at this stage is that Corsairs and Renegades have splash damage. For Renegades this can be incredibly useful and makes the gunships especially strong against T1 land units and, in the case of Corsairs and their forward-firing missiles, T2 flak. This means that if you’ve rushed T2 Air and conceded a land advantage, you will may have a slightly easier time recovering or minimising damage. Corsair splash damage and range also makes snipes on ACUs harder to dodge and, with some expert micro, allow you to avoid flying over air defences by doubling your units back after they fire, but before they’ve flown over the target.
+
+- Statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=DRA0202,URA0203">T2 Fighter/Bomber and Gunship</a>
 
 ### ![<File:T3> land.png](T3_land.png "fig:File:T3 land.png") Tech 3 Land
 
