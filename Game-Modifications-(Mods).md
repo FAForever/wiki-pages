@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T16:14:55.042Z
+date: 2021-10-24T16:17:41.992Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -200,7 +200,7 @@ This mod improves the readability and visibility of the strategic icons, adjusti
 
 Latest version can be found in the first post of [this forum thread.](https://forums.faforever.com/viewtopic.php?t=2740)
 
-### <img src="/images/modding/ta_music_icon.png" width="40" /> [Total Annihilation Music Mod](Total_Annihilation_Music_Mod "wikilink")
+### <img src="/images/modding/ta_music_icon.png" width="40" /> [Total Annihilation Music Mod](/Total_Annihilation_Music_Mod)
 
 ### <img src="/images/modding/sc_music_icon.png" width="40" /> [Supreme Commander Music Mod](Supreme_Commander_Music_Mod "wikilink")
 
