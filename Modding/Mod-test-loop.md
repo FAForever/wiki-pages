@@ -2,7 +2,7 @@
 title: Mod-test-loop
 description: 
 published: true
-date: 2021-10-24T20:46:55.544Z
+date: 2021-10-24T20:47:54.603Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:29.962Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:44:29.962Z
 
 ## Introduction
 
-All of the ideas in this document and more and included in the [ModBootstrap mod](ModBootstrap_mod "wikilink") in the mod vault. Consider using it to get started.
+All of the ideas in this document and more and included in the [ModBootstrap mod](/Modding/ModBootstrap-mod) in the mod vault. Consider using it to get started.
 
 When modding it is very useful to create a mod test loop. This is a structure that will instantly invoke your code when you save changes to a file. That way you don't have to restart FA to test your changes.
 
