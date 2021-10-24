@@ -2,7 +2,7 @@
 title: Tips-for-Modding-Efficiently
 description: 
 published: true
-date: 2021-10-24T20:44:49.333Z
+date: 2021-10-24T20:45:30.548Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:32.416Z
@@ -51,7 +51,7 @@ You can restart a skirmish with ctrl-f10.
 
 ## Creating a test loop
 
-Create a [mod test loop](mod_test_loop "wikilink") that allows you to test your code instantly.
+Create a [mod test loop](/Modding/Mod-test-loop) that allows you to test your code instantly.
 
 ## Dealing with errors
 
