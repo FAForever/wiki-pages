@@ -2,203 +2,55 @@
 title: General-1v1-Guide
 description: 
 published: true
-date: 2021-09-08T12:21:25.436Z
+date: 2021-10-24T22:40:01.709Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
 ---
 
-The purpose of this guide is to provide you with basic instructions on
-how to play 1v1, specifically ladder. It's implied that you have already
-read the [Beginner's Guide to Forged
-Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink"), the [Three
-Essential Habits for the New
-Player](Three_Essential_Habits_for_the_New_Player "wikilink"), and the
-[Unit Micro](Unit_Micro "wikilink") guides and have a general
-understanding of the basic game mechanics and terms.
+The purpose of this guide is to provide you with basic instructions on how to play 1v1, specifically ladder. It's implied that you have already read the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink"), the [Three Essential Habits for the New Player](Three_Essential_Habits_for_the_New_Player "wikilink"), and the [Unit Micro](Unit_Micro "wikilink") guides and have a general understanding of the basic game mechanics and terms.
 
 ## Basic strategy
 
-You should start by building a land factory and following up with one of
-the basic build orders shown in the [Beginner's Guide to Forged
-Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink"). Depending on
-the size of the map you spawned on, the queue of your first factory
-might vary greatly. If it is a 5x5 you will need some early engineers
-and units, but later on your first factory can mostly build tanks
-(assuming you can keep your engineers alive). On 10x10 maps you will
-require some more early engineers along with a few units, but later on
-the factory can just build engineers. On 20x20 maps your first factory
-can make only engineers, leaving the combat units for factories built
-later. Your first engineers should build the mexes in your base that
-your ACU will not, begin building a hydro if one is available, reclaim
-any large rocks/wrecks near your base, and begin expanding to mexes
-outside of your base. Expanding engineers are vulnerable to your
-opponent's units so they should have an escort. A single tank escorting
-an engineer should be enough early on, but do not forget to bring along
-a scout for extra vision and radar.
+You should start by building a land factory and following up with one of the basic build orders shown in the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink"). Depending on the size of the map you spawned on, the queue of your first factory might vary greatly. If it is a 5x5 you will need some early engineers and units, but later on your first factory can mostly build tanks (assuming you can keep your engineers alive). On 10x10 maps you will require some more early engineers along with a few units, but later on the factory can just build engineers. On 20x20 maps your first factory can make only engineers, leaving the combat units for factories built later. Your first engineers should build the mexes in your base that your ACU will not, begin building a hydro if one is available, reclaim any large rocks/wrecks near your base, and begin expanding to mexes outside of your base. Expanding engineers are vulnerable to your opponent's units so they should have an escort. A single tank escorting an engineer should be enough early on, but do not forget to bring along a scout for extra vision and radar.
 
-The very early portion of your build is now complete. You have completed
-your 2nd factory, and have one or two engineers expanding with escorts.
-What now? Depending on your build and on the map you may have some mass
-still stored up. Look at your ecobar and see how much mass you have
-remaining. If you have more than 100 mass stored up and are not losing
-mass rapidly, feel free to build an additional pgen and a land factory
-or if you chose to go for 2 land factories, 2-4 more pgens and an air
-factory.
+The very early portion of your build is now complete. You have completed your 2nd factory, and have one or two engineers expanding with escorts. What now? Depending on your build and on the map you may have some mass still stored up. Look at your ecobar and see how much mass you have remaining. If you have more than 100 mass stored up and are not losing mass rapidly, feel free to build an additional pgen and a land factory or if you chose to go for 2 land factories, 2-4 more pgens and an air factory.
 
-So now your ecobar should be mostly out of mass, whether after your
-early build or after constructing some extra structures. Your ACU should
-leave your base now. There is no more mass to spend until your expanding
-engineers build more mexes or reclaim. But where should it go? Often
-there is a cluster of mexes somewhat close to your spawn, your ACU is
-perfect for securing that. Remember your ACU is about as strong as 20
-tanks! Make sure when you leave your base that you will have some
-engineers ready in your base by the time you get mass, in a pinch you
-can build a factory with your ACU while it's on the way to the
-expansion, but you would rather not.
+So now your ecobar should be mostly out of mass, whether after your early build or after constructing some extra structures. Your ACU should leave your base now. There is no more mass to spend until your expanding engineers build more mexes or reclaim. But where should it go? Often there is a cluster of mexes somewhat close to your spawn, your ACU is perfect for securing that. Remember your ACU is about as strong as 20 tanks! Make sure when you leave your base that you will have some engineers ready in your base by the time you get mass, in a pinch you can build a factory with your ACU while it's on the way to the expansion, but you would rather not.
 
-After a while you will get some mass from your newly built mexes, and
-you will have a couple engineers in your base waiting to use it. The
-best thing to spend your newly gained mass on at this point would be
-extra land factories. Be aware, as you spend more and more mass, you
-will need more and more energy. You should be generally okay if you
-build 1 pgen for every land factory you build from this point on. For
-each air factory you will need 4 adjacent pgens. You should also begin
-building a row of pgens at the back of your base with 1 or 2 engineers,
-these will satisfy your new engineers building things, various upgrades,
-etc. Sooner or later you will be spending more mass than you are
-gaining, at that point you will need to manage your economy. You can
-either pause or cancel projects, depending on your preference. The first
-thing to pause would be the engineers building pgens (assuming you
-aren't stalling power). If you are still stalling mass after pausing
-pgen production, pause engineers building factories and if you are still
-stalling a lot of mass, pause some of the factories. You can unpause
-them once you get more mass.
+After a while you will get some mass from your newly built mexes, and you will have a couple engineers in your base waiting to use it. The best thing to spend your newly gained mass on at this point would be extra land factories. Be aware, as you spend more and more mass, you will need more and more energy. You should be generally okay if you build 1 pgen for every land factory you build from this point on. For each air factory you will need 4 adjacent pgens. You should also begin building a row of pgens at the back of your base with 1 or 2 engineers, these will satisfy your new engineers building things, various upgrades, etc. Sooner or later you will be spending more mass than you are gaining, at that point you will need to manage your economy. You can either pause or cancel projects, depending on your preference. The first thing to pause would be the engineers building pgens (assuming you aren't stalling power). If you are still stalling mass after pausing pgen production, pause engineers building factories and if you are still stalling a lot of mass, pause some of the factories. You can unpause them once you get more mass.
 
 <img src="Twin_rivers_rally_point.png" title="fig:Twin_rivers_rally_point.png" width="700" alt="Twin_rivers_rally_point.png" />
-Now, let's talk about units. Let's move all the way back to those first
-combat units; they are defending your expanding engineers. You can also
-raid with them instead, but that leaves your engineers vulnerable, pick
-your poison. How about your units coming out of your newer land
-factories? The rally point from those factories should be somewhere
-central, with good access to both your and your opponent's expansions.
-That way your units are at least a bit closer to where you want them to
-be instead of being right in your base. The queue of your land factories
-should be 1 scout, 5 tanks. You can add an anti-air or an artillery unit
-if necessary.
+Now, let's talk about units. Let's move all the way back to those first combat units; they are defending your expanding engineers. You can also raid with them instead, but that leaves your engineers vulnerable, pick your poison. How about your units coming out of your newer land
+factories? The rally point from those factories should be somewhere central, with good access to both your and your opponent's expansions. That way your units are at least a bit closer to where you want them to be instead of being right in your base. The queue of your land factories should be 1 scout, 5 tanks. You can add an anti-air or an artillery unit if necessary.
 
-You should find some use for the units you build, don't let them just
-sit somewhere doing nothing. Either send them to raid your opponent or
-protect your expansions. Once you start accumulating more units you can
-do more daring raids to your opponent's expansions, try not to waste the
-units though. Or if your opponent is raiding you, send your units to
-defend your expansions. Some PDs are okay at defence, but you shouldn't
-build too many of them, 1 or 2 on an expansion should be more than
-enough if you also send your units. Consider PD more of a support unit
-rather than your primary defense force. You can also take your ACU on
-the frontlines, its power as a combat unit should be used, but be
-careful. Keep your army close to it and if you are clearly winning,
-consider sending it back to your base so you don't accidentally get
-killed and lose the game.
+You should find some use for the units you build, don't let them just sit somewhere doing nothing. Either send them to raid your opponent or protect your expansions. Once you start accumulating more units you can do more daring raids to your opponent's expansions, try not to waste the units though. Or if your opponent is raiding you, send your units to defend your expansions. Some PDs are okay at defence, but you shouldn't build too many of them, 1 or 2 on an expansion should be more than enough if you also send your units. Consider PD more of a support unit rather than your primary defense force. You can also take your ACU on the frontlines, its power as a combat unit should be used, but be careful. Keep your army close to it and if you are clearly winning, consider sending it back to your base so you don't accidentally get killed and lose the game.
 
-If T1 land and air alone won't win you the game or you wish to gain a
-tech advantage or just build higher tier mexes, see below in “teching”
-for some advice on when it is okay to tech.
+If T1 land and air alone won't win you the game or you wish to gain a tech advantage or just build higher tier mexes, see below in “teching” for some advice on when it is okay to tech.
 
 ### Early aggression
 
-If you wish to be aggressive very early on, you can make some LABs. If
-you use LABs, make them somewhere in your first 5 units. They are
-considerably worse than tanks so they can mainly kill engineers without
-an escort. Consider pairing them with scouts to find engineers more
-easily.
+If you wish to be aggressive very early on, you can make some LABs. If you use LABs, make them somewhere in your first 5 units. They are considerably worse than tanks so they can mainly kill engineers without an escort. Consider pairing them with scouts to find engineers more easily.
 
 ## Eco balance
 
 ### Balancing mass
-
--   As stated above, pausing the engineers constructing pgens and
-    factories is a good way to get out of a small stall or at the very
-    least make you stall less. You can use reclaim to build more stuff
-    than your income would normally allow, just don't rely on it too
-    much as you do not want to stall once the reclaim stops. Keep an eye
-    on your ecobar and adjust your active buildpower (engineers)
-    accordingly. If you need mass for a specific project (tech, upgrade,
-    ecoing, emergency PD), you can temporarily pause something that is
-    taking up a lot of mass, such as mex/factory upgrades or some of
-    your land factories. Just be sure to unpause your factories and/or
-    continue upgrading your economy once you complete the new project.
-
-
--   If you decide to spend your mass by building T2 mexes, be ready to
-    spend the mass once the mexes finish. A T2 mex will give you 6 mass
-    per second, which is as much as 3 T1 mexes. You should make sure you
-    are not only spending your newly gained mass on more and more mexes.
-    You should prepare engineers for a project of your choosing. This
-    could be units, factories, pgens, or ACU upgrades.
-
-
--   The best way to avoid overflowing mass is to have large amounts of
-    buildpower available (engineers).
+- As stated above, pausing the engineers constructing pgens and factories is a good way to get out of a small stall or at the very least make you stall less. You can use reclaim to build more stuff than your income would normally allow, just don't rely on it too much as you do not want to stall once the reclaim stops. Keep an eye on your ecobar and adjust your active buildpower (engineers) accordingly. If you need mass for a specific project (tech, upgrade, ecoing, emergency PD), you can temporarily pause something that is taking up a lot of mass, such as mex/factory upgrades or some of your land factories. Just be sure to unpause your factories and/or continue upgrading your economy once you complete the new project.
+- If you decide to spend your mass by building T2 mexes, be ready to spend the mass once the mexes finish. A T2 mex will give you 6 mass per second, which is as much as 3 T1 mexes. You should make sure you are not only spending your newly gained mass on more and more mexes. You should prepare engineers for a project of your choosing. This could be units, factories, pgens, or ACU upgrades.
+- The best way to avoid overflowing mass is to have large amounts of buildpower available (engineers).
 
 ### Balancing power
-
--   You want enough, but not too much. Why? Because the cost of pgens
-    adds up, and every extra one you build will cost you mass you could
-    have spent on something else. On maps with little mass, you may want
-    to build a row of pgens with just 1 engineer. On maps with more
-    mass, 2-3 engineers making a pgen line should be enough. On high
-    mass maps 4-5 engineers on the pgen line is usually enough. If you
-    stall power, you can take some idle engineers and build a few pgens
-    with them to fix your stall (do note that they will also take power
-    to construct pgens, so your power stall will get worse temporarily).
-    When stalling power, it is often a good idea to pause air factories
-    so you can get your pgens up faster. This is because air costs more
-    energy while land costs more mass. You can also disable any radars
-    you may have. Once your stall is fixed remember to unpause these
-    things.
-
-
--   If you find yourself overflowing power, you have a couple places
-    where you can quickly spend large amounts of it. Air production and
-    ACU upgrades are the two major ways to spend energy. For air you can
-    assist an existing factory with engineers or build new air
-    factories. Since air costs very little mass, it is a good way to use
-    your extra energy without hurting your mass income too much. ACU
-    upgrades are a bigger investment since you have to complete the
-    upgrade to get the benefit and it means your ACU will not be active
-    but they have the potential to be extremely strong.
-
-
--   Take great care building T2 pgens once you gain access to them. They
-    are quite expensive and building extra ones can make you stall
-    enough for your opponent to take advantage of your smaller armies.
+- You want enough, but not too much. Why? Because the cost of pgens adds up, and every extra one you build will cost you mass you could have spent on something else. On maps with little mass, you may want to build a row of pgens with just 1 engineer. On maps with more mass, 2-3 engineers making a pgen line should be enough. On high mass maps 4-5 engineers on the pgen line is usually enough. If you stall power, you can take some idle engineers and build a few pgens with them to fix your stall (do note that they will also take power to construct pgens, so your power stall will get worse temporarily). When stalling power, it is often a good idea to pause air factories so you can get your pgens up faster. This is because air costs more energy while land costs more mass. You can also disable any radars you may have. Once your stall is fixed remember to unpause these things.
+- If you find yourself overflowing power, you have a couple places where you can quickly spend large amounts of it. Air production and ACU upgrades are the two major ways to spend energy. For air you can assist an existing factory with engineers or build new air factories. Since air costs very little mass, it is a good way to use your extra energy without hurting your mass income too much. ACU upgrades are a bigger investment since you have to complete the upgrade to get the benefit and it means your ACU will not be active but they have the potential to be extremely strong.
+- Take great care building T2 pgens once you gain access to them. They are quite expensive and building extra ones can make you stall enough for your opponent to take advantage of your smaller armies.
 
 ## Map control
 
-Half of the map belongs to you, the other half to your opponent. Not
-taking your own half is a sure way to lose the game. Your ACU can expand
-after your early build order to 1 or 2 expansions, depending on the map,
-and your escorted engineers will take the rest. However, your opponent
-will try to deny these expansions on your side of the map by raiding
-them and you should do the same. While your ACU is expanding, your units
-should be either defending your expansions or raiding your opponent's.
-Once your ACU is done expanding you can send it to attack your opponent
-(along with a land army of course).
+Half of the map belongs to you, the other half to your opponent. Not taking your own half is a sure way to lose the game. Your ACU can expand after your early build order to 1 or 2 expansions, depending on the map, and your escorted engineers will take the rest. However, your opponent will try to deny these expansions on your side of the map by raiding them and you should do the same. While your ACU is expanding, your units should be either defending your expansions or raiding your opponent's. Once your ACU is done expanding you can send it to attack your opponent (along with a land army of course).
 
-It can be quite difficult to gain control of mexes that are on your
-opponent's side of the map, thus, it is often enough to just deny them
-from your opponent (raiding). If you can keep your expansions intact and
-raid some of your opponent's expansions, you will be in a good position
-to win the game. Sometimes people might sacrifice map control for higher
-tech or a snipe. If you are able to scout well, you can avoid these
-nasty surprises (more on that below).
+It can be quite difficult to gain control of mexes that are on your opponent's side of the map, thus, it is often enough to just deny them from your opponent (raiding). If you can keep your expansions intact and raid some of your opponent's expansions, you will be in a good position to win the game. Sometimes people might sacrifice map control for higher tech or a snipe. If you are able to scout well, you can avoid these nasty surprises (more on that below).
 
-<File:Loki> type 1.png\|300px\|The red line roughly shows how the map
-will be divided between the players, depending on how they decide to
-play it. Yellow arrows show ACU expansion(s). Black arrows show ACU
-attack routes. <File:Loki> type 2.png\|300px\|ACU movement can have a
-big impact on how the map will be divided.
+<File:Loki> type 1.png\|300px\|The red line roughly shows how the map will be divided between the players, depending on how they decide to play it. Yellow arrows show ACU expansion(s). Black arrows show ACU attack routes. <File:Loki> type 2.png\|300px\|ACU movement can have a big impact on how the map will be divided.
 
 ## Reclaim
 
