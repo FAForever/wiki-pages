@@ -2,7 +2,7 @@
 title: General-1v1-Guide
 description: 
 published: true
-date: 2021-10-24T22:40:01.709Z
+date: 2021-10-24T22:40:12.565Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
@@ -54,11 +54,7 @@ It can be quite difficult to gain control of mexes that are on your opponent's s
 
 ## Reclaim
 
-Reclaim can be seen when holding down ctrl and shift. Reclaim gives you
-a brief mass boost. Two types of reclaim exist. The type that is there
-when you spawn, and that which is created as you fight (wrecks). Natural
-reclaim consists usually of a few big rocks and from a large amount of
-small rocks spread around. Sometimes there are some wrecks near the
+Reclaim can be seen when holding down ctrl and shift. Reclaim gives you a brief mass boost. Two types of reclaim exist. The type that is there when you spawn, and that which is created as you fight (wrecks). Natural reclaim consists usually of a few big rocks and from a large amount of mall rocks spread around. Sometimes there are some wrecks near the
 middle of the map. You can boost your early mass (you are able to build
 more in your base before you leave) with reclaim that is close to your
 base.
