@@ -2,14 +2,14 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T16:23:17.791Z
+date: 2021-10-24T19:05:47.981Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
 ---
 
 # Game Modifications (Mods)
-The FAF lobby contains an integrated [Mod Vault](Mod_Vault "wikilink") where many mods can be found, and manages them automatically for you. In **exceptional** cases, mods can be downloaded from the forums, but for general use, consult the [Mod Vault](Mod_Vault "wikilink"). Here is an introduction to some of the available game modifications for FAF.
+The FAF lobby contains an integrated [Mod Vault](/Map-&-Mod-Vault#mod-vault) where many mods can be found, and manages them automatically for you. In **exceptional** cases, mods can be downloaded from the forums, but for general use, consult the [Mod Vault](Mod_Vault "wikilink"). Here is an introduction to some of the available game modifications for FAF.
 
 ## Integrated Mods
 
