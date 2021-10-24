@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T20:50:51.236Z
+date: 2021-10-24T20:51:32.405Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -119,7 +119,7 @@ This mod has been improved and now it is integrated with FAF game. It shows more
 
 ### <img src="/sorian_icon.jpg" width="40"/> Sorian AI
 
-This is an advanced AI which poses much more of a challenge, and in general simply plays better. To use the mod, simply [host a game](Host_and_join_games "wikilink") and add AI players, selecting one of the Sorian AI options.
+This is an advanced AI which poses much more of a challenge, and in general simply plays better. To use the mod, simply [host a game](/Host-and-join-games) and add AI players, selecting one of the Sorian AI options.
 
 ### Split Attack
 
