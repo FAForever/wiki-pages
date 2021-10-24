@@ -2,7 +2,7 @@
 title: Unit Micro
 description: 
 published: true
-date: 2021-10-24T22:05:56.316Z
+date: 2021-10-24T22:24:16.615Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-24T21:47:57.307Z
@@ -143,77 +143,62 @@ If you meet frontloaded units of your opponent you have to not allow them to use
 
 ### Firestates
 In FA there are 3 fire states.
-
 - ![return_fire.png](/images/learning/return_fire.png) Return fire - the default fire mode, acts as you would expect it to, all units start engaging as soon as they are able to.
-- ![return_fire.png](/images/learning/return_fire.png)
+- ![ground_fire.png](/images/learning/ground_fire.png) Ground fire - the same as return fire with 1 exception, if you use the attack command on the ground units will attack the ground spot instead of attack moving to that point. This is why it's recommended to use alt+right click for attack moving.
+- ![holdfire.png](/images/learning/hold_fire.png) Hold fire - turns your units into pacifism activists of modern society and puts pink glasses on them. Useful for when you want to sneak some stealthy units through and don't want to give yourself out by accidentally shooting something. Used with units like Monkeylord (cybran T4). Alternatively can be used to stop accidental teamdamage.
 
-
-    Ground fire - the same as return fire with 1 exception, if you use the attack command on the ground units will attack the ground spot instead of attack moving to that point. This is why it's recommended to use alt+right click for attack moving.
-
-
-
-    Hold fire - turns your units into pacifism activists of modern society and puts pink glasses on them. Useful for when you want to sneak some stealthy units through and don't want to give yourself out by accidentally shooting something. Used with units like Monkeylord (cybran T4). Alternatively can be used to stop accidental teamdamage.
-
-
-Radar vs Direct visual; Stealth, Cloak, Omni, Radar, Sonar, Jammer
+### Radar vs Direct visual; Stealth, Cloak, Omni, Radar, Sonar, Jammer
 
 There are 2 main visions in game: direct vision and radar vision. Direct vision is present on all units and is what they can "see". Radar vision can be divided into radar and sonar vision. There are also 2 types of concealing technology: stealth and cloak. Stealth hides you from both radar and sonar vision. Cloak hides you from direct vision. If you can get both (on cybran commander for example) the only way to spot you would be using an omni vision.
+- Direct vision shows which units are present, what kinda of units they are and other info such as HP. It does not detect submerged units.
+- Radar vision spots all non-stealthed land, air and surfaced naval units, but only identifies a units type (land/sea/air), not the exact unit. It does not detect submerged units.
+- Omni vision is the type of radar vision that uncovers all stealthed and cloaked units. Present on all commanders, t3 radar, spy planes and GC (aeon T4 bot).
+- To fight stealth you either need to keep a constant direct vision on them or to have an omni sensor nearby.
+- Some units like cybran T1 scout have cloak but no stealth, to see them you just need to have a radar.
+- Seraphim T1 scouts if put on hold fire mode get cloak and stealth if not moving and are extremely hard to discover.
+- Sonar spots any emerged and submerged navy that doesn't have stealth.
+- Submerged units can't be spotted with direct vision if your units are looking while standing on the ground. They can be seen if you go into the water hovewer.
+- In addition to this, units have a water vision radius. this is exactly the same as normal vision but can detect submerged units. Typically it has a shorter range. There is no UI to distinguish it from normal vision.
+- Cybran have a T3 perimeter monitoring system which gives direct vision in solid range but you still need to have an omni as this direct vision doesn't help vs cloak and underwater units.
+- Jammer is a feature present on some units like UEF t1 frigate, creates a fake radar signatures making it seem as thought you have more units than you really do.
 
-    Direct vision shows which units are present, what kinda of units they are and other info such as HP. It does not detect submerged units.
-    Radar vision spots all non-stealthed land, air and surfaced naval units, but only identifies a units type (land/sea/air), not the exact unit. It does not detect submerged units.
-    Omni vision is the type of radar vision that uncovers all stealthed and cloaked units. Present on all commanders, t3 radar, spy planes and GC (aeon T4 bot).
-    To fight stealth you either need to keep a constant direct vision on them or to have an omni sensor nearby.
-    Some units like cybran T1 scout have cloak but no stealth, to see them you just need to have a radar.
-    Seraphim T1 scouts if put on hold fire mode get cloak and stealth if not moving and are extremely hard to discover.
-    Sonar spots any emerged and submerged navy that doesn't have stealth.
-    Submerged units can't be spotted with direct vision if your units are looking while standing on the ground. They can be seen if you go into the water hovewer.
-    In addition to this, units have a water vision radius. this is exactly the same as normal vision but can detect submerged units. Typically it has a shorter range. There is no UI to distinguish it from normal vision.
-    Cybran have a T3 perimeter monitoring system which gives direct vision in solid range but you still need to have an omni as this direct vision doesn't help vs cloak and underwater units.
-    Jammer is a feature present on some units like UEF t1 frigate, creates a fake radar signatures making it seem as thought you have more units than you really do.
-
-Weapon range vs Visual range
+### Weapon range vs Visual range
 
 Units don't have the same vision range as weapon range. Most of the time your weapon range is much greater than the vision range. This means that to effectively make use of your range you need to have a constant radar coverage of the area near your units.
+- Always mix in some land scouts with your land forces, especially it's important for aeon on t1 stage, as their auroras have more range than other t1 units and to benefit from that you need to be able to shoot farther than your direct vision sees.
+- Try to have as much radars as possible, t1 radar is very cheap and extremely necessary.
+- Always have a sonar or frigates (they have sonar and radar) when playing navy.
+- This mechanic becomes much more obvious when you get some high-tier artillery as they have immense range but standard small vision, you will most likely need omni and air scouts to effectively use your arty.
 
-    Always mix in some land scouts with your land forces, especially it's important for aeon on t1 stage, as their auroras have more range than other t1 units and to benefit from that you need to be able to shoot farther than your direct vision sees.
-    Try to have as much radars as possible, t1 radar is very cheap and extremely necessary.
-    Always have a sonar or frigates (they have sonar and radar) when playing navy.
-    This mechanic becomes much more obvious when you get some high-tier artillery as they have immense range but standard small vision, you will most likely need omni and air scouts to effectively use your arty.
-
-Firing randomness
+### Firing randomness
 
 In FA shooting mechanics are not hit-scan and you can dodge any projectile. They of course have their own physics. In general this randomness is negligible on most units but it's useful to know which units have big firing randomness to not get dissapointed in the critical moment.
+- The bigger the range the more effect firing randomness will have, this is why T3 artillery and such are usually not very accurate.
+- You can try to use ground fire to slightly change the target of fire if you see that your units are clearly misbehaving and not getting their shots in the proper place.
+- Firing randomness in most prominent on artillery-type units but is also present for units with direct fire. A good example would be cybran destroyer, it often misses a lot of shots when firing at small targets, so be careful with chosing your target.
 
-    The bigger the range the more effect firing randomness will have, this is why T3 artillery and such are usually not very accurate.
-    You can try to use ground fire to slightly change the target of fire if you see that your units are clearly misbehaving and not getting their shots in the proper place.
-    Firing randomness in most prominent on artillery-type units but is also present for units with direct fire. A good example would be cybran destroyer, it often misses a lot of shots when firing at small targets, so be careful with chosing your target.
-
-EMP
+### EMP
 
 EMP is a mechanic that allows you to stun enemy units for a short period of time. It's rare and only a few units have it.
 Aeon ACU upgrade: chrono dampener
 Stuns when acu shoots, has a seperate reload time
+- Cybran t1 arty, medusa - will stun any t1-t2 unit (including navy and air, excluding buildings) that it hits directly. Very powerful in big numbers.
+- Cybran t3 bot, loyalist - will explode and stun any enemy units in close proximity after it's death. By the time of writing this guide it stuns absolutely everything including even ACUs and even some air units. This is potentially to be rebalanced.
+- Cybran t2 transport, firefly - has a weak stun gun that will shoot and consistently stun single unit up to t2 tier. Rarely useful but you can try something creative with it.
+- Cybran nuke - has an EMP radius that slightly exceeds the damage radius. A commander lucky enough to escape the nuke can be air-sniped more easily while stunned.
+- Aeon t1 bomber - stuns weak units over a short time period.
+- Aeon commander upgrade, chrono dampener, will continuously stun all units except T4, ACU and buildings upon your commander shooting. Trivia: Technically not a real EMP, since the stasis freezes the units in time.
+- Having a personal shield doesn't stop the EMP.
 
-    Cybran t1 arty, medusa - will stun any t1-t2 unit (including navy and air, excluding buildings) that it hits directly. Very powerful in big numbers.
-    Cybran t3 bot, loyalist - will explode and stun any enemy units in close proximity after it's death. By the time of writing this guide it stuns absolutely everything including even ACUs and even some air units. This is potentially to be rebalanced.
-    Cybran t2 transport, firefly - has a weak stun gun that will shoot and consistently stun single unit up to t2 tier. Rarely useful but you can try something creative with it.
-    Cybran nuke - has an EMP radius that slightly exceeds the damage radius. A commander lucky enough to escape the nuke can be air-sniped more easily while stunned.
-    Aeon t1 bomber - stuns weak units over a short time period.
-    Aeon commander upgrade, chrono dampener, will continuously stun all units except T4, ACU and buildings upon your commander shooting. Trivia: Technically not a real EMP, since the stasis freezes the units in time.
-    Having a personal shield doesn't stop the EMP.
+### Individual Units vs Groups
 
-Individual Units vs Groups
-
-    Individual - are easy to micro, don't have pathfinding problems except getting stuck in terrain.
-    Attack Move, Patrol, Assist - If ordered to a big group of units they can easily misbehave, for instance an ASF force put on patrol will chase a single spy plane flying by and suicide into enemy cruisers. If assisting something big groups of units spread out a lot which can be used to advantage (avoiding splash) but also disorganises your forces. Engineers of course act differently, they clump up to assist the building of something. On attack move units can clump up and become a target for splash.
-    Order Sequences - we already looked into unit behaviour using different movement types in the Formation basics. Big unit groups as a result of bad pathfinding tend to get messy and get in a way of each other when executing movement orders, this especially stands for sequences of orders. This is why if you are in big face to face engagements it's recommended to give small orders so that the formation of units doesn't break.
-
-Standard move order
-Spread move order
+- Individual - are easy to micro, don't have pathfinding problems except getting stuck in terrain.
+- Attack Move, Patrol, Assist - If ordered to a big group of units they can easily misbehave, for instance an ASF force put on patrol will chase a single spy plane flying by and suicide into enemy cruisers. If assisting something big groups of units spread out a lot which can be used to advantage (avoiding splash) but also disorganises your forces. Engineers of course act differently, they clump up to assist the building of something. On attack move units can clump up and become a target for splash.
+- Order Sequences - we already looked into unit behaviour using different movement types in the Formation basics. Big unit groups as a result of bad pathfinding tend to get messy and get in a way of each other when executing movement orders, this especially stands for sequences of orders. This is why if you are in big face to face engagements it's recommended to give small orders so that the formation of units doesn't break.
 
 The default hotkey for "spreading" is shift+g. To do it you have to select a group of units, issue an order and still holding shift use the spread command.
 
-    Group Spread Attack - Select a group of units, holding shift queue several attack orders on different enemy units and then use the spread command. Now using a special algorithm your attack sequence will get shuffled for each individual unit, resulting in your force attacking all of the queued enemy units right away instead of one after another. Useful when you have units with splash to hit many different units at once.
-    Group Spread Move - As illustrated on pictures, issue a move order for your force then press the spread command and the move command will split into individual move commands for every unit. The way game mechanics work this will allow them to basically ignore pathfinding and each unit will move to the destination point as quickly as possible. The downside is that upon reaching your destination your units will be very clumped up and if you don't pay attention anything with splash can devastate them.
+- Group Spread Attack - Select a group of units, holding shift queue several attack orders on different enemy units and then use the spread command. Now using a special algorithm your attack sequence will get shuffled for each individual unit, resulting in your force attacking all of the queued enemy units right away instead of one after another. Useful when you have units with splash to hit many different units at once.
+- Group Spread Move - As illustrated on pictures, issue a move order for your force then press the spread command and the move command will split into individual move commands for every unit. The way game mechanics work this will allow them to basically ignore pathfinding and each unit will move to the destination point as quickly as possible. The downside is that upon reaching your destination your units will be very clumped up and if you don't pay attention anything with splash can devastate them.
 
 
