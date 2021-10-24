@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T20:50:37.059Z
+date: 2021-10-24T20:50:51.236Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -22,7 +22,7 @@ Only T1 engies were viable to produce higher tech units or assisting buildings. 
 - The normal factory is renamed to T2/T3 factory Headquarters.
 - If you have at least one Headquarters, you can now build some new, cheap factories (called support factories)
 - If you lose all Headquarters, these support factories can make only t1 units until you make a new HQ.
-- Many units had their build power adjusted, check the [Unit Database](/Unit_Database) for more details.
+- Many units had their build power adjusted, check the [Unit Database](/Unit-Database) for more details.
 - You can remove support factories in the restriction menu of the FA lobby, it will disable this mechanic.
 
 ### Hotbuild
