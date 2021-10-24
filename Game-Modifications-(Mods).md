@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T20:51:32.405Z
+date: 2021-10-24T20:51:56.961Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -162,7 +162,7 @@ Improved unit sorting in the selection panel.
 
 UI mods are mods which are activated on a per-person basis and have no effect on other players in the game. As the name implies, they are usually changes and enhancements to the UI and can make playing the game easier. UI mods should never make a game unrated.
 
-**If not stated else, these mods can be downloaded directly from [Mod Vault](Mod_Vault "wikilink").**
+**If not stated else, these mods can be downloaded directly from [Mod Vault](/Map-&-Mod-Vault).**
 
 ### <img src="/images/modding/youtube-icon-full_color.png" width="30"/> [Comprehensive UI Mod Video Guide](https://goo.gl/bjJM2t)
 
