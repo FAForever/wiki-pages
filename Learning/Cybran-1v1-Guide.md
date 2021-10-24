@@ -1,27 +1,22 @@
-This page is intended to help you learn how to play Cybran in 1v1s. It
-is long, so it may be more useful to check specific sections that you
-are curious about and/or reading the Summary sections only, instead of
-reading it all at once. A lot of the content in this guide also applies
-to team games, where you can also mix your units with other factions'
-tech to create really interesting, hard to beat combinations.
+---
+title: Cybran-1v1-Guide
+description: 
+published: true
+date: 2021-10-24T23:30:57.849Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:42:47.388Z
+---
 
-Cybran is the most common faction among the top 100 1v1 ladder players
-due to it being strong in most situations, particularly inside the first
-30 minutes when the vast majority of high level 1v1s are decided. There
-are very few stages of the game where Cybran is uncounterably strong,
-but aside from certain amphibious maps you should be very competitive in
-nearly all situations. As a general rule, you have more options
-available to you as Cybran, due to having unique units, such as the
-Jester and the Fire Beetle, and units with special abilities, such as
-stealth and splitting tactical missiles.
+This page is intended to help you learn how to play Cybran in 1v1s. It is long, so it may be more useful to check specific sections that you are curious about and/or reading the Summary sections only, instead of reading it all at once. A lot of the content in this guide also applies to team games, where you can also mix your units with other factions' tech to create really interesting, hard to beat combinations.
+
+Cybran is the most common faction among the top 100 1v1 ladder players due to it being strong in most situations, particularly inside the first 30 minutes when the vast majority of high level 1v1s are decided. There are very few stages of the game where Cybran is uncounterably strong, but aside from certain amphibious maps you should be very competitive in nearly all situations. As a general rule, you have more options available to you as Cybran, due to having unique units, such as the Jester and the Fire Beetle, and units with special abilities, such as stealth and splitting tactical missiles.
 
 The aggressive, flexible play style is also quite a lot of fun.
 
 ## List of Unit Names
 
-Sooner you learn them the better for you, it might look there's too many
-names but they are frequently used by players. There is a list of those
-used in this tutorial.
+Sooner you learn them the better for you, it might look there's too many names but they are frequently used by players. There is a list of those used in this tutorial.
 
 <table>
 <thead>
@@ -328,132 +323,73 @@ used in this tutorial.
 ### Summary
 
 <img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" /><img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" />
-
--   Raid early and often on land maps, the T1 Assault Bot **Mantis** has
-    a massive speed advantage.
--   Don't depend on your bomber's success, or be really good at your
-    bomber micro.
--   Getting a T1 Gunship **Jester** after securing very early air
-    control can also win you the game if you keep it alive.
--   Click on the sections below for more information.
+- Raid early and often on land maps, the T1 Assault Bot **Mantis** has a massive speed advantage.
+- Don't depend on your bomber's success, or be really good at your bomber micro.
+- Getting a T1 Gunship **Jester** after securing very early air control can also win you the game if you keep it alive.
+- Click on the sections below for more information.
 
 ### <img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /> Mantis
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>While you have LABs that can be used in the opening 90-120 seconds of the game due to their low build time, your main tank (actually another bot technically) is nearly as fast and will win if it runs in to an early lab from your enemy. The top speed of all LABs is 4.0 (remember that your Hunter has the lowest HP), the Mantis is 3.7, the Thaam is 3.5, the Striker is 3.4 and the Aurora is 2.9. The Mantis generally is about even with or slightly better than the Thaam in a straight fight, as it has 2 DPS more and 10 HP less, and is half way between a Striker and a LAB for speed.</p>
-<ul>
-<li>Comparison of all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0107,UAL0201,UEL0201,XSL0201">T1 tanks</a>, and all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0106,UEL0106,UAL0106">LABs.</a></li>
-</ul>
-<p>This means you should be able to shut down enemy raids if you scout well and delay their expansion more effectively by getting your units in to annoying places quickly, and then staying alive when a superior force arrives to chase them off. You can often get in behind your enemy's early tanks and ACU to cause serious disruption and gain a potentially game-winning advantage.</p>
-<p>The slow turret speed of the Mantis does complicate this advantage - it's quite possible to lose to an enemy Mantis that your opponent is not paying attention to if you micro your own Mantis badly in a 1v1. Generally speaking you want to approach or run away from your enemy's tank in a zig zag. You will usually either escape with your superior speed or win the fight. You should avoid charging past the enemy tank or causing very sharp changes of direction. Your turret may fail to track the target and stop firing for a crucial amount of time.</p></td>
-</tr>
-</tbody>
-</table>
+> While you have LABs that can be used in the opening 90-120 seconds of the game due to their low build time, your main tank (actually another bot technically) is nearly as fast and will win if it runs in to an early lab from your enemy. The top speed of all LABs is 4.0 (remember that your Hunter has the lowest HP), the Mantis is 3.7, the Thaam is 3.5, the Striker is 3.4 and the Aurora is 2.9. The Mantis generally is about even with or slightly better than the Thaam in a straight fight, as it has 2 DPS more and 10 HP less, and is half way between a Striker and a LAB for speed.
+>
+>	- Comparison of all T1 tanks, and all LABs.
+>  
+> This means you should be able to shut down enemy raids if you scout well and delay their expansion more effectively by getting your units in to annoying places quickly, and then staying alive when a superior force arrives to chase them off. You can often get in behind your enemy's early tanks and ACU to cause serious disruption and gain a potentially game-winning advantage.
+> The slow turret speed of the Mantis does complicate this advantage - it's quite possible to lose to an enemy Mantis that your opponent is not paying attention to if you micro your own Mantis badly in a 1v1. Generally speaking you want to approach or run away from your enemy's tank in a zig zag. You will usually either escape with your superior speed or win the fight. You should avoid charging past the enemy tank or causing very sharp changes of direction. Your turret may fail to track the target and stop firing for a crucial amount of time.
+{.is-info}
 
 ### ![<File:Air.png>](Air.png "fig:File:Air.png") Air
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T1_Interceptor.png" title="fig:Cybran_T1_Interceptor.png" width="50" alt="Cybran_T1_Interceptor.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" /><img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" /></p>
-<p>Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arguably the worst in the game (although possibly slightly better than the UEF Scorcher), with the lowest damage and bad accuracy. Early bombers can still win you games with good build orders and a slow counter from the enemy, but if your opponent is dodging their engineers and you are not countering this with good micro, you may find yourself making multiple passes on engineers for no kills. Keep in mind that bad micro can allow stationary or un-dodged engineers survive a pass for a variety of reasons.</p>
-<p>You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.</p>
-<ul>
-<li>Comparison of all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URA0102,UAA0102,UEA0102,XSA0102">Interceptors</a>, <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URA0103,UAA0103,UEA0103,XSA0103">Bombers</a> and statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=XRA0105">T1 Gunship Jester</a>.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<img src="Cybran_T1_Interceptor.png" title="fig:Cybran_T1_Interceptor.png" width="50" alt="Cybran_T1_Interceptor.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" /><img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png"/>
+> Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arguably the worst in the game (although possibly slightly better than the UEF Scorcher), with the lowest damage and bad accuracy. Early bombers can still win you games with good build orders and a slow counter from the enemy, but if your opponent is dodging their engineers and you are not countering this with good micro, you may find yourself making multiple passes on engineers for no kills. Keep in mind that bad micro can allow stationary or un-dodged engineers survive a pass for a variety of reasons.
+> 
+> You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.
+>
+> Comparison of all interceptors, Bombers and statistics of T1 Gunship Jester
+{.is-info}
+
+
 
 ### <img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /> Auroras and Zthuees <img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" />
 
-| Click to see details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" /> On amphibious maps, you will have trouble against Aeon and Seraphim. If you expect units to be appearing across a body of water, you need to make early frigates if you can, and fortunately your frigate is the most mass efficient one of the four factions, but you will be behind on land units if you do this due to the high mass investment required for naval units. You may also have some success with early Jesters if you can secure air control. Fortunately for Cybran (and UEF), a number of these maps have been removed from the [map pool](Ladder_Map_Pool "wikilink"), meaning being blindsided by this is less likely now. |
+<img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" />
+> On amphibious maps, you will have trouble against Aeon and Seraphim. If you expect units to be appearing across a body of water, you need to make early frigates if you can, and fortunately your frigate is the most mass efficient one of the four factions, but you will be behind on land units if you do this due to the high mass investment required for naval units. You may also have some success with early Jesters if you can secure air control. Fortunately for Cybran (and UEF), a number of these maps have been removed from the [map pool](Ladder_Map_Pool "wikilink"), meaning being blindsided by this is less likely now.
+{.is-info}
 
 ## Small maps
 
-A lot of games on small maps in particular are decided by the "basics" -
-better raiding, eco balance, unit micro and knowing when to attack, when
-to upgrade your ACU/land factory/eco or how to take advantage of it when
-your opponent does these things. You can't do this stuff worse than your
-opponent and expect to win often. Cybran is a bit under rated on small
-land maps due to the low hit points of their units. However Cybran
-offers you unique ways to win.
+A lot of games on small maps in particular are decided by the "basics" - better raiding, eco balance, unit micro and knowing when to attack, when to upgrade your ACU/land factory/eco or how to take advantage of it when your opponent does these things. You can't do this stuff worse than your opponent and expect to win often. Cybran is a bit under rated on small land maps due to the low hit points of their units. However Cybran offers you unique ways to win.
 
 ### Summary
-
--   Use small groups of Mantis to continue to raid when possible.
--   The more stable the front lines appear, the more Medusa you make -
-    doubly so once you get Rhinos.
--   Be aggressive with your Mantis armies, pressure your enemy when
-    their army is out of position and retreat when your advantage
-    disappears.
--   Use Jesters when you have enough of a lead in air to spare time for
-    building them.
--   Don't let your enemy upgrade their ACU too heavily without punishing
-    them for it.
--   Be as disruptive as possible against Aeon players – avoid letting
-    them assemble a critical mass of units.
--   If you get behind, or into a turtley stalemate, start considering
-    the options for sniping ACUs and T2 eco.
--   Click on the sections below for more information.
+- Use small groups of Mantis to continue to raid when possible.
+- The more stable the front lines appear, the more Medusa you make - doubly so once you get Rhinos.
+- Be aggressive with your Mantis armies, pressure your enemy when their army is out of position and retreat when your advantage disappears.
+- Use Jesters when you have enough of a lead in air to spare time for building them.
+- Don't let your enemy upgrade their ACU too heavily without punishing them for it.
+- Be as disruptive as possible against Aeon players – avoid letting them assemble a critical mass of units.
+- If you get behind, or into a turtley stalemate, start considering the options for sniping ACUs and T2 eco.
+- Click on the sections below for more information.
 
 ### ![<File:Ping> attack.png](Ping_attack.png "fig:File:Ping attack.png") Aggression
 
-| Click to see details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mantis let you raid frequently, particularly on open small maps. After front lines have been established, Mantis are able to get to the front lines quicker, and out of fights that you realise at the start you probably shouldn't be taking. This allows you to "poke" your enemy with little bits of aggression, allowing you to fluster your opponent, or to make him push when he thinks he has you on the run - straight towards your fast-moving reinforcements. You are also able to bail your ACU out of tight spots due to the speed of the Mantis, although you should also bear in mind that your ACU will have a HP disadvantage if it's not a mirror match. |
+>Mantis let you raid frequently, particularly on open small maps. After front lines have been established, Mantis are able to get to the front lines quicker, and out of fights that you realise at the start you probably shouldn't be taking. This allows you to "poke" your enemy with little bits of aggression, allowing you to fluster your opponent, or to make him push when he thinks he has you on the run - straight towards your fast-moving reinforcements. You are also able to bail your ACU out of tight spots due to the speed of the Mantis, although you should also bear in mind that your ACU will have a HP disadvantage if it's not a mirror match. {.is-info}
 
 ### <img src="Cybran_T1_Arty.png" title="fig:Cybran_T1_Arty.png" width="50" alt="Cybran_T1_Arty.png" /> Medusa
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Your artillery is a very interesting little unit, thanks to its stun and its firing randomness. It has awful DPS, and when you combine with how frequently a single Medusa will miss a target, your artillery is pretty deficient compared to other factions at its most common job of killing enemy point defence in groups of one or two arty. However, once large armies have been assembled, a decent amount of Medusa in your mix will turn that into an advantage, as large groups of units are weakened and stunned, giving your tanks a quick cleanup job. ACUs will also have more trouble avoiding damage as they find themselves surrounded by stunned tanks on low HP and being unable to dodge all the fire. Medusa can also kill large groups of Aurora in one volley, and have the same speed and higher range then the Aeon tank, which is primarily used for kiting.</p>
-<p>Knowing when to get large numbers of Medusa requires a bit of experience, but when there are choke points, such as on Crag Dunes or Winter Duel, and/or large armies on the field, including Tech 2 armies, the value of the Medusa increases greatly.</p>
-<ul>
-<li>Comparison of all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0103,UAL0103,UEL0103,XSL0103">T1 Artilleries</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+> Your artillery is a very interesting little unit, thanks to its stun and its firing randomness. It has awful DPS, and when you combine with how frequently a single Medusa will miss a target, your artillery is pretty deficient compared to other factions at its most common job of killing enemy point defence in groups of one or two arty. However, once large armies have been assembled, a decent amount of Medusa in your mix will turn that into an advantage, as large groups of units are weakened and stunned, giving your tanks a quick cleanup job. ACUs will also have more trouble avoiding damage as they find themselves surrounded by stunned tanks on low HP and being unable to dodge all the fire. Medusa can also kill large groups of Aurora in one volley, and have the same speed and higher range then the Aeon tank, which is primarily used for kiting.
+>
+> Knowing when to get large numbers of Medusa requires a bit of experience, but when there are choke points, such as on Crag Dunes or Winter Duel, and/or large armies on the field, including Tech 2 armies, the value of the Medusa increases greatly.
+>
+> Comparison of all T1 Artilleries
+{.is-info}
 
 ### ![<File:T1_air.png>](T1_air.png "fig:File:T1_air.png") Air
-
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" /> When you have clear air dominance and a more developed economy, the Jester becomes a fairly low risk, high reward unit. It requires significant attention to counter, as it can easily run away from large groups of mobile AA or a static AA, and any attempt to snipe it with interceptors should trigger a dogfight that gives you an even greater air advantage, while the Jester's HP may allow it to survive anyway. You can use the Jester for all sorts of things - killing engineers and outlying mexes, trimming down T1 armies that haven't got an AA in the mix or cleaning up land raids you have missed without having to divert units from the front line. In larger numbers, it also allows you to snipe an ACU without having to get a Tech 2 factory, something only Cybran can do. Having an assisted air factory with a significant number of Jesters in the mix can also be very effective on open small maps, particularly if you are using mobile AA in your army to help your possibly small number of interceptors in their crucial job of keeping the air-to-ground DPS alive.</p>
-<p>There is still room for using the T1 bomber - it is quicker to kill enemy power generators with a group of 3 bombers, which cost 240 mass, than it is to use a Jester, which costs 200. The small mass investment of the bomber also makes it a safer option for pressuring expanding engineers when air control is still not decisively in your favour. In addition, when you notice your enemy doesn't have an air factory and you do, and you need to use this advantage or be overwhelmed by tanks, a good tactic can be to get a bomber or two first to immediately start killing engineers and damaging units before waiting through the longer build time of the Jester to start causing more serious damage, at a higher cost.</p>
-<ul>
-<li>Comparison of all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URA0102,UAA0102,UEA0102,XSA0102">Interceptors</a>, <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URA0103,UAA0103,UEA0103,XSA0103">Bombers</a> and statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=XRA0105">T1 Gunship Jester</a>.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png"/>
+>When you have clear air dominance and a more developed economy, the Jester becomes a fairly low risk, high reward unit. It requires significant attention to counter, as it can easily run away from large groups of mobile AA or a static AA, and any attempt to snipe it with interceptors should trigger a dogfight that gives you an even greater air advantage, while the Jester's HP may allow it to survive anyway. You can use the Jester for all sorts of things - killing engineers and outlying mexes, trimming down T1 armies that haven't got an AA in the mix or cleaning up land raids you have missed without having to divert units from the front line. In larger numbers, it also allows you to snipe an ACU without having to get a Tech 2 factory, something only Cybran can do. Having an assisted air factory with a significant number of Jesters in the mix can also be very effective on open small maps, particularly if you are using mobile AA in your army to help your possibly small number of interceptors in their crucial job of keeping the air-to-ground DPS alive.
+> 
+> There is still room for using the T1 bomber - it is quicker to kill enemy power generators with a group of 3 bombers, which cost 240 mass, than it is to use a Jester, which costs 200. The small mass investment of the bomber also makes it a safer option for pressuring expanding engineers when air control is still not decisively in your favour. In addition, when you notice your enemy doesn't have an air factory and you do, and you need to use this advantage or be overwhelmed by tanks, a good tactic can be to get a bomber or two first to immediately start killing engineers and damaging units before waiting through the longer build time of the Jester to start causing more serious damage, at a higher cost.
+>
+> Comparison of all Interceptors, Bombers and statistics of T1 Gunship Jester
 
 ### ![<File:Upgrade> Icon.png](Upgrade_Icon.png "fig:File:Upgrade Icon.png") Upgrading
 
