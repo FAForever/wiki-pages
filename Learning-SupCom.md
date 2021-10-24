@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-10-24T22:25:48.450Z
+date: 2021-10-24T22:26:46.478Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -22,7 +22,7 @@ If you need information on how to setup Supreme Commander: Forged Alliance and t
 
 This is intended for players new to Supreme Commander, but if you are a returning player this could be useful as it provides a sound knowledge base and encourages good habits.
 
-- [Beginner's Guide to Forged Alliance](/learning/Beginners-Guide-to-Forged-Alliance)
+- [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance)
 
 Here is a guide for new players who want to improve and compete within the community.
 
