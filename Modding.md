@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-10-24T20:53:11.627Z
+date: 2021-10-24T20:53:54.844Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -31,7 +31,7 @@ See also [Tips for Modding Efficiently](/Modding/Tips-for-Modding-Efficiently).
 
 ### Lua Information
 - Here you can find a bunch of Functions in this [LUCADOC](/Modding/LUADOC)
-- Here are some more Lua Global Functions [Lua.Globals](/LUAGLOBALS)
+- Here are some more Lua Global Functions [Lua.Globals](/Modding/LUAGLOBALS)
 
 ### Differences to default LUA
 
