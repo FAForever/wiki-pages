@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-24T23:52:06.623Z
+date: 2021-10-24T23:56:41.608Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -463,91 +463,53 @@ The main consideration you have with Cybran units at this stage is that Corsairs
 In even matches, and particularly on less open maps and/or maps with high resources, Tech 3 Land will be required to win games. The Brick and Loyalist are both strong units for different tasks – the Loyalist is incredibly quick and can wipe out T1 and T2 armies or outlying mexes very quickly if you have T3 faster than your opponent. Try and use a handful of Loyalists to immediately exploit your tech advantage when you know you have one. Once front line T3 units start to appear in numbers, the Loyalist can still be used to get around armies and raid, but should generally stop being your unit of choice. They can also suicide in the middle of enemy armies, where their death explosion will stun enemy units.
 
 - Statistics of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URL0303">Loyalist</a>
-<img src="A_T3_Harbinger.PNG" title="fig:A_T3_Harbinger.PNG" width="50" alt="A_T3_Harbinger.PNG" /><img src="Sera_T3_Tank.png" title="fig:Sera_T3_Tank.png" width="50" alt="Sera_T3_Tank.png" /><img src="UEF_T3_Armored_Assault_Bot.png" title="fig:UEF_T3_Armored_Assault_Bot.png" width="50" alt="UEF_T3_Armored_Assault_Bot.png" /> The Brick is more likely to be the mainstay of your Cybran-style play at the full-T3 stage. They are vulnerable to a well-microed Harbinger in a 1v1 and, like everything else, will struggle against the Percival. However their high rate of fire means low overkill when fighting against large numbers of enemy units and will overwhelm Harbingers assuming something like an equal mass investment after you start getting a few Bricks together. It’s a little known fact that the much-maligned Othuum is actually the most mass efficient T3 unit in the game, but it has only 60% of the Brick’s range on its main guns, so avoid getting in to range of Sera T3 and you should be able to win decisive engagements, particularly earlier in the T3 stage before your enemy has had the chance to assemble a large number T3 tanks and mobile shields.
+<img src="A_T3_Harbinger.PNG" title="fig:A_T3_Harbinger.PNG" width="50" alt="A_T3_Harbinger.PNG" /><img src="Sera_T3_Tank.png" title="fig:Sera_T3_Tank.png" width="50" alt="Sera_T3_Tank.png" /><img src="UEF_T3_Armored_Assault_Bot.png" title="fig:UEF_T3_Armored_Assault_Bot.png" width="50" alt="UEF_T3_Armored_Assault_Bot.png" />
+The Brick is more likely to be the mainstay of your Cybran-style play at the full-T3 stage. They are vulnerable to a well-microed Harbinger in a 1v1 and, like everything else, will struggle against the Percival. However their high rate of fire means low overkill when fighting against large numbers of enemy units and will overwhelm Harbingers assuming something like an equal mass investment after you start getting a few Bricks together. It’s a little known fact that the much-maligned Othuum is actually the most mass efficient T3 unit in the game, but it has only 60% of the Brick’s range on its main guns, so avoid getting in to range of Sera T3 and you should be able to win decisive engagements, particularly earlier in the T3 stage before your enemy has had the chance to assemble a large number T3 tanks and mobile shields.
 
 - Comparison of all T3 Assault Bots and Tanks <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=UAL0303,XRL0305,XEL0305,XSL0303">here.</a>
 
 The slow speed of the Brick means that you may need to transport your first units to the front lines, particularly if you are being heavily raided by Ilshavoh, Loyalists, Titans or especially Harbingers, which Aeon players will often rush for when they can and will kill your Loyalists. To absolutely maximise an early tech advantage, or just to cause general disruption, you can also consider using a mobile stealth and a T2 transport to drop a Brick in to your enemy’s T2 eco (but away from their ACU), perhaps in addition to the early raiding using Loyalists.
 
 ### ![<File:T3_air.png>](T3_air.png "fig:File:T3_air.png") Experimentals and Tech 3 Air
+<img src="Cybran_T3_Strat.png" title="fig:Cybran_T3_Strat.png" width="50" alt="Cybran_T3_Strat.png" /><img src="Cybran_T4_Monkey_Bot.png" title="fig:Cybran_T4_Monkey_Bot.png" width="50" alt="Cybran_T4_Monkey_Bot.png" /><img src="Cybran_T3_ASF.png" title="fig:Cybran_T3_ASF.png" width="50" alt="Cybran_T3_ASF.png" />
+Generally T3 Air and Experimentals are much rarer as a genuine level of contest on medium sized maps. They are seen in matchups that are particularly even and/or high eco. This is generally a game-breaking rush for one player or the other, as the first person to T3 Air or T4 is able to gain a decisive advantage fairly quickly when the travel time for these units is limited to a medium sized map. Alternatively, the attempt to rush T4 or T3 Air may lose you the game if you are overrun while you invest your resources, as will wasting the units while your opponent exploits other advantages. Generally speaking these strategies are a way to break a game you are already ahead in when done correctly. Occasionally an even T3 Air or T4 phase of the game will occur on medium sized maps, but this is more common in bigger games and is discussed below.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T3_Strat.png" title="fig:Cybran_T3_Strat.png" width="50" alt="Cybran_T3_Strat.png" /><img src="Cybran_T4_Monkey_Bot.png" title="fig:Cybran_T4_Monkey_Bot.png" width="50" alt="Cybran_T4_Monkey_Bot.png" /><img src="Cybran_T3_ASF.png" title="fig:Cybran_T3_ASF.png" width="50" alt="Cybran_T3_ASF.png" />Generally T3 Air and Experimentals are much rarer as a genuine level of contest on medium sized maps. They are seen in matchups that are particularly even and/or high eco. This is generally a game-breaking rush for one player or the other, as the first person to T3 Air or T4 is able to gain a decisive advantage fairly quickly when the travel time for these units is limited to a medium sized map. Alternatively, the attempt to rush T4 or T3 Air may lose you the game if you are overrun while you invest your resources, as will wasting the units while your opponent exploits other advantages. Generally speaking these strategies are a way to break a game you are already ahead in when done correctly. Occasionally an even T3 Air or T4 phase of the game will occur on medium sized maps, but this is more common in bigger games and is discussed below.</p>
-<p>Cybran has a big advantage in a T4 rush, as it has a high DPS, stealthy, cheap, fast-moving experimental in the Monkeylord. On high mass maps it’s quite possible to have a Monkeylord completed by the 20 minute mark. If you are able to get an ACU Resource Allocation System (RAS) upgrade or T3 power generator, you can convert a full T2 or early T3 eco into a Monkeylord in a few minutes, particularly if you pause all other construction and temporarily don’t have any mexes upgrading.</p>
-<p>Cybran strategic bombers, along with the ASF, can be stealthed. This allows you to snipe ACUs, HQs, T2 mexes (bear in mind you will need two Cybran bombers per T2 mex though) and power generators with little or no warning if you can stop your enemy scouting, or they are sluggish to respond.</p></td>
-</tr>
-</tbody>
-</table>
+Cybran has a big advantage in a T4 rush, as it has a high DPS, stealthy, cheap, fast-moving experimental in the Monkeylord. On high mass maps it’s quite possible to have a Monkeylord completed by the 20 minute mark. If you are able to get an ACU Resource Allocation System (RAS) upgrade or T3 power generator, you can convert a full T2 or early T3 eco into a Monkeylord in a few minutes, particularly if you pause all other construction and temporarily don’t have any mexes upgrading.
+
+Cybran strategic bombers, along with the ASF, can be stealthed. This allows you to snipe ACUs, HQs, T2 mexes (bear in mind you will need two Cybran bombers per T2 mex though) and power generators with little or no warning if you can stop your enemy scouting, or they are sluggish to respond.
 
 ### <img src="UEF_T3_Armored_Assault_Bot.png" title="fig:UEF_T3_Armored_Assault_Bot.png" width="50" alt="UEF_T3_Armored_Assault_Bot.png" /> Percivals
+<img src="Cybran_T3_Mobile_Arty.png" title="fig:Cybran_T3_Mobile_Arty.png" width="50" alt="Cybran_T3_Mobile_Arty.png" /><img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" /><img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" /><img src="Cybran_T4_Monkey_Bot.png" title="fig:Cybran_T4_Monkey_Bot.png" width="50" alt="Cybran_T4_Monkey_Bot.png" /><img src="Cybran_SCU.png" title="fig:Cybran_SCU.png" width="50" alt="Cybran_SCU.png" />
+Very little can be done against a massed army of Percivals. They can simply kill Bricks in one volley once there are 6 of them, a Monkeylord-worth of Percivals can kill the Monkeylord in two shots, and they have the same range and speed as the Brick. When you find yourself against a UEF opponent who is transitioning to T3 you need to delay the moment that they can assemble a Percival army. This could include using Loyalists to raid, Brick drops and/or pushing with your T2 if you can to force them to split their early Percies. You an also seriously disrupt their eco by sniping power when they are upgrading to, or starting T3, or even sniping the HQ on an upgrade can give you a critical advantage. You may also be able to wear down Percival armies as they assemble with T3 mobile artillery (make sure you kill your enemy's T3 arty if they make any). This can also help to apply mental pressure as your enemy's units will constantly be taking damage, and they may start giving you winnable engagements either due to Percivals being on lower health or simply from a bad decision. Using some of these ideas to get an advantage during the T3 transition is important against all factions, but it’s especially important to try against UEF.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T3_Mobile_Arty.png" title="fig:Cybran_T3_Mobile_Arty.png" width="50" alt="Cybran_T3_Mobile_Arty.png" /><img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" /><img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" /><img src="Cybran_T4_Monkey_Bot.png" title="fig:Cybran_T4_Monkey_Bot.png" width="50" alt="Cybran_T4_Monkey_Bot.png" /><img src="Cybran_SCU.png" title="fig:Cybran_SCU.png" width="50" alt="Cybran_SCU.png" />Very little can be done against a massed army of Percivals. They can simply kill Bricks in one volley once there are 6 of them, a Monkeylord-worth of Percivals can kill the Monkeylord in two shots, and they have the same range and speed as the Brick. When you find yourself against a UEF opponent who is transitioning to T3 you need to delay the moment that they can assemble a Percival army. This could include using Loyalists to raid, Brick drops and/or pushing with your T2 if you can to force them to split their early Percies. You an also seriously disrupt their eco by sniping power when they are upgrading to, or starting T3, or even sniping the HQ on an upgrade can give you a critical advantage. You may also be able to wear down Percival armies as they assemble with T3 mobile artillery (make sure you kill your enemy's T3 arty if they make any). This can also help to apply mental pressure as your enemy's units will constantly be taking damage, and they may start giving you winnable engagements either due to Percivals being on lower health or simply from a bad decision. Using some of these ideas to get an advantage during the T3 transition is important against all factions, but it’s especially important to try against UEF.</p>
-<p>If you’ve given yourself an advantage, you may well be able to win the game with Bricks. Otherwise, if you have managed to get early T3 engineering either out of the factory or on your ACU, you can also potentially build a T3 power generator (or get the RAS upgrade) and rush a Monkeylord to take advantage of any disruption you’ve caused at this stage of the game.</p>
-<p>If you fail to stop a Percival army assembling, you may need to consider sniping the ACU or making a serious raid on their eco. The use of Rambo SCUs, combined with highly active micro (and possibly stealth) will allow you to kite and slowly kill large groups of Percivals. However if you stop the kiting and sideways movement of the SCUs, they will not last long. It may be worth trying to skip any meaningful T3 land production for a Quantum Gate, however this may not be possible if the UEF player has rushed for T3 in the first place. This is a high risk, high attention counter, and any fights against Percies need to start well away from critical structures. Another concern is that if the UEF player responds with their own Rambo SCUs, there is very little you can do to stop them.</p></td>
-</tr>
-</tbody>
-</table>
+If you’ve given yourself an advantage, you may well be able to win the game with Bricks. Otherwise, if you have managed to get early T3 engineering either out of the factory or on your ACU, you can also potentially build a T3 power generator (or get the RAS upgrade) and rush a Monkeylord to take advantage of any disruption you’ve caused at this stage of the game.
+
+If you fail to stop a Percival army assembling, you may need to consider sniping the ACU or making a serious raid on their eco. The use of Rambo SCUs, combined with highly active micro (and possibly stealth) will allow you to kite and slowly kill large groups of Percivals. However if you stop the kiting and sideways movement of the SCUs, they will not last long. It may be worth trying to skip any meaningful T3 land production for a Quantum Gate, however this may not be possible if the UEF player has rushed for T3 in the first place. This is a high risk, high attention counter, and any fights against Percies need to start well away from critical structures. Another concern is that if the UEF player responds with their own Rambo SCUs, there is very little you can do to stop them.
 
 ### ![<File:Upgrade> Icon.png](Upgrade_Icon.png "fig:File:Upgrade Icon.png") Upgrading
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>The million dollar, 3000-rating question is when to get each of your options, if at all. There’s no getting away from the fact that it depends on your map, and what the situation in each specific game is. This is a tough question in general – you can try to outspend your opponent on mass extractors, outspam them at T1, push everywhere with T2, make surgical strikes throughout and especially when you have recently upgraded to Tech 2 or 3, or rush a Monkeylord. In the end playing experience, watching replays, talking to better players and trying to coach yourself to think better is important no matter the faction.</p>
-<p>As a Cybran player, certain things should have a bit of an influence on your thinking. Upgrading mexes means that you are investing in 5 or so minutes’ time - a T2 mex takes 3 minutes 45 seconds to repay the mass cost, which you may otherwise have turned in to units, possibly securing more T1 mass points and getting the extra mass more cheaply. It's worth bearing in mind that a T2 upgrade is worth 18 Mantis or 3 Rhinos in mass. Making the decision means a slowing or ending of your Mantis aggression, or a delay in getting a critical mass of T2. When the critical mass comes, it will be much stronger for your eco play as reinforcements will arrive more quickly.</p>
-<p>Your T1 aggression should also slow, or come to an end, when you upgrade your land factory. Remember that this, plus the sight of a T2 HQ, will allow your enemy to get their own T2 if they have not been decisively beaten. Against Aeon and particularly Seraphim, this means the arrival of units that will completely dominate your units in small numbers. Playing as Cybran gives you plenty of ways to handle this transition well, but you need to remember them so you don’t fall behind. On the other hand, rushing T2 land or air also gives you the opportunity to snipe enemy eco before they have made TMD in sufficient numbers to counter Cybran TML.</p>
-<p>You also need to be aware of factions that will rush Tech 3, particularly on high eco and/or less open maps. Many good Aeon players will look to get Harbingers as early as possible as they are fast and will reliably beat anything with good micro until larger T3 armies are massed. You need to try and survive this period, or delay it happening, until your Brick army is ready. As discussed in the Percivals section, you may also have to contend with a T3 rush from UEF players. You should be ready to rush T3 yourself on these maps, both as a counter and to use your Loyalists and Bricks offensively. As outlined above, it’s also important to delay T3 rushes.</p>
-<p>One option for delaying T3 rushes is to get your T2 air earlier than you might otherwise have done as a Cybran player. Cybran T2 air can defend better against T1 land than other factions’ T2 Air, and the Corsair is the best sniping fighterbomber. Often, this is used to end the game with an ACU snipe, but you should consider T2 power or HQ sniping, which can seriously delay T3 land and secure an air advantage for you and can be done with little resource investment. Getting T2 air when behind in land units is still quite a risky move.</p></td>
-</tr>
-</tbody>
-</table>
+The million dollar, 3000-rating question is when to get each of your options, if at all. There’s no getting away from the fact that it depends on your map, and what the situation in each specific game is. This is a tough question in general – you can try to outspend your opponent on mass extractors, outspam them at T1, push everywhere with T2, make surgical strikes throughout and especially when you have recently upgraded to Tech 2 or 3, or rush a Monkeylord. In the end playing experience, watching replays, talking to better players and trying to coach yourself to think better is important no matter the faction.
 
-## Naval Maps
+As a Cybran player, certain things should have a bit of an influence on your thinking. Upgrading mexes means that you are investing in 5 or so minutes’ time - a T2 mex takes 3 minutes 45 seconds to repay the mass cost, which you may otherwise have turned in to units, possibly securing more T1 mass points and getting the extra mass more cheaply. It's worth bearing in mind that a T2 upgrade is worth 18 Mantis or 3 Rhinos in mass. Making the decision means a slowing or ending of your Mantis aggression, or a delay in getting a critical mass of T2. When the critical mass comes, it will be much stronger for your eco play as reinforcements will arrive more quickly.
 
-There are a number of medium sized maps that suit Cybran, not due to
-their openness but due to the large bodies of water. Cybran navy at the
-Tech 1 and Tech 2 level is arguably the strongest in the game due to
-Cybran's typical flexibility and use of stealth, and in most 1v1s Tech 1
-and Tech 2 navy is enough to secure victory.
+Your T1 aggression should also slow, or come to an end, when you upgrade your land factory. Remember that this, plus the sight of a T2 HQ, will allow your enemy to get their own T2 if they have not been decisively beaten. Against Aeon and particularly Seraphim, this means the arrival of units that will completely dominate your units in small numbers. Playing as Cybran gives you plenty of ways to handle this transition well, but you need to remember them so you don’t fall behind. On the other hand, rushing T2 land or air also gives you the opportunity to snipe enemy eco before they have made TMD in sufficient numbers to counter Cybran TML.
+
+You also need to be aware of factions that will rush Tech 3, particularly on high eco and/or less open maps. Many good Aeon players will look to get Harbingers as early as possible as they are fast and will reliably beat anything with good micro until larger T3 armies are massed. You need to try and survive this period, or delay it happening, until your Brick army is ready. As discussed in the Percivals section, you may also have to contend with a T3 rush from UEF players. You should be ready to rush T3 yourself on these maps, both as a counter and to use your Loyalists and Bricks offensively. As outlined above, it’s also important to delay T3 rushes.
+
+One option for delaying T3 rushes is to get your T2 air earlier than you might otherwise have done as a Cybran player. Cybran T2 air can defend better against T1 land than other factions’ T2 Air, and the Corsair is the best sniping fighterbomber. Often, this is used to end the game with an ACU snipe, but you should consider T2 power or HQ sniping, which can seriously delay T3 land and secure an air advantage for you and can be done with little resource investment. Getting T2 air when behind in land units is still quite a risky move.
+
+## Naval Maps{.tabset}
+
+There are a number of medium sized maps that suit Cybran, not due to their openness but due to the large bodies of water. Cybran navy at the Tech 1 and Tech 2 level is arguably the strongest in the game due to Cybran's typical flexibility and use of stealth, and in most 1v1s Tech 1 and Tech 2 navy is enough to secure victory.
 
 ### Summary
 
 <img src="Cybran_T1_Frigate.png" title="fig:Cybran_T1_Frigate.png" width="50" alt="Cybran_T1_Frigate.png" /><img src="Cybran_T2_Stealth_Boat.png" title="fig:Cybran_T2_Stealth_Boat.png" width="50" alt="Cybran_T2_Stealth_Boat.png" />
-
--   The [Trident
-    frigate](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0103)
-    is mass efficient at killing other navy units, with great AA. Use it
-    to get ahead or win at the T1 stage, then as intelligence and a
-    meatshield support for T2.
--   Use
-    [stealth](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0305,URL0306,XRS0205,URB4203)
-    to greatly reduce the damage taken by your navy at range during the
-    T2 phase.
--   Try and gain a decisive advantage before the T3 stage, particularly
-    against the [UEF](Faction_Information#UEF "wikilink").
--   Always consider upgrading your ACU for naval combat - for the cost
-    of a destroyer, it could win you the game.
--   Click on the sections below for more information.
+- The [Trident frigate](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0103) is mass efficient at killing other navy units, with great AA. Use it to get ahead or win at the T1 stage, then as intelligence and a meatshield support for T2.
+- Use [stealth](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0305,URL0306,XRS0205,URB4203) to greatly reduce the damage taken by your navy at range during the T2 phase.
+- Try and gain a decisive advantage before the T3 stage, particularly against the [UEF](Faction_Information#UEF "wikilink").
+- Always consider upgrading your ACU for naval combat - for the cost of a destroyer, it could win you the game.
+- Click on the sections below for more information.
 
 ### ![<File:T1_navy.png>](T1_navy.png "fig:File:T1_navy.png") Tech 1
 
