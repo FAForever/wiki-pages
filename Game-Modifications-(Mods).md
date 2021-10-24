@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T15:59:50.643Z
+date: 2021-10-24T16:14:55.042Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -194,7 +194,7 @@ Automatically switches Mass Fabricators on/off.
 
 Disables minimap when zoomed out.
 
-### <img src="/images/modding/asi_icon.png" width="40"/> [Advanced Strategic Icons](Advanced_Strategic_Icons "wikilink")
+### <img src="/images/modding/asi_icon.png" width="40"/> [Advanced Strategic Icons](/Game-Modifications-(Mods)/Advanced_Strategic_Icons)
 
 This mod improves the readability and visibility of the strategic icons, adjusting them to fit higher resolutions while offering changable sizes, color highlighting for key structures and intuitive symbols.
 
