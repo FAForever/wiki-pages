@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-10-24T22:49:51.837Z
+date: 2021-10-24T23:57:29.876Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -42,8 +42,8 @@ In order to minimize overlap between the faction specific guides, the common inf
 
 These guides are here to show you specific strategies, and help you play to their strengths:
 
-- [Aeon 1v1 Guide](Aeon-1v1-Guide)
-- [Cybran 1v1 Guide](Cybran-1v1-Guide)
+- [Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide)
+- [Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide)
 - [Seraphim 1v1 Guide](Seraphim-1v1-Guide)
 - [UEF 1v1 Guide](UEF-1v1-Guide)
 
