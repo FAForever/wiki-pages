@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-10-24T16:22:51.446Z
+date: 2021-10-24T16:23:17.791Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -212,7 +212,7 @@ Sim mods are mods which affect the game itself and are activated on a per-game b
 
 ## Featured Mods
 
-These mods can be hosted directly from [Find Games](Host-and-join-games) Tab. 
+These mods can be hosted directly from [Find Games](/Host-and-join-games) Tab. 
 
 -   ![blackops_avatar.png](/images/modding/blackops_avatar.png) [Black Ops](Black_Ops "wikilink")
 -   [Civilians Defence](Civilians_Defence "wikilink")
