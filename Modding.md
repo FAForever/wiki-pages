@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-10-24T10:45:08.637Z
+date: 2021-10-24T19:13:05.158Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -149,5 +149,5 @@ Click yes and close the archive.
 Now, when you open up your game again, you will find that your console (F9) will provide error exceptions related to "LazyVars".
 
 ## Further Reading
-modding [Shaders](Shaders "wikilink")
+modding [Shaders](/Modding/Shaders "wikilink")
 modding [Emitters](Modding_Emitters "wikilink")
