@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-10-24T10:37:59.161Z
+date: 2021-10-24T10:45:08.637Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -40,8 +40,8 @@ There are some things different to default LUA:
 - it's not necessary but still possible to use "for i, v in ipairs(mytable) do", "for i, v in mytable do" works aswell
 
 ### Sim and UI
-
-![](Sim-ui.png "fig:Sim-ui.png") Basically, this game is divided in two interacting components, Sim and UI. Both are moddable, here is some info:
+![sim-ui.png](/images/modding/sim-ui.png){.align-right}
+Basically, this game is divided in two interacting components, Sim and UI. Both are moddable, here is some info:
 - The Sim (simulation) of the game happens for every player and is deterministic, so the same input will always yield the same result, that is why the players in a multiplayer game usually do not desync. Many mods introduce changes that affect all players equally, every balance change does this.
 - The UI (user interface) component only has a part of the information that the Sim side is calculating. For example which units the user has, their health and vet points, and what they are ordered to. Orders about your opponent's units are also calculated on your PC, in the Sim, but your UI has no info about it. The UI also displays these infos, resulting for example in the ecopanel or the scoreboard.
 
@@ -123,8 +123,8 @@ If i want to add something, instead of overwrite, i can construtively hook the f
 ```
 ## FAQ
 
-Q: I can't find files in the /lua path which should be there! Where are they?
-A: Likely in the mohodata or schook folders (.scd files), they are mounted to the /lua path aswell
+>Q: I can't find files in the /lua path which should be there! Where are they?
+>A: Likely in the mohodata or schook folders (.scd files), they are mounted to the /lua path aswell
 
 ## Debugging
 
@@ -136,14 +136,14 @@ This is quite a common issue with FA. Usually, LazyVars are related to the User 
 
 The first thing you need to do is find out what's causing your error. LazyVars don't provide any helpful error exceptions by default, but this can be changed.
 
-Navigate to: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Supreme Commander Forged Alliance\\gamedata and open mohodata.scd with either 7zip or WinRAR.
+Navigate to: C:\\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance\gamedata and open mohodata.scd with either 7zip or WinRAR.
 
 Once you have opened the SCD file, find a file called 'lazyvar.lua' and open it with any text editor (Recommended: Notepad++ or Sublime Text 3) Be sure to make a back-up of this file before you make any changes as this may cause you to desync in public games when playing FAF.
 
 With the file open, locate the variable "ExtendedErrorMessages = false" and change it to "ExtendedErrorMessages = true".
 
-Save the file and a nice message should pop up: [1](https://i.gyazo.com/dca0f1768fc5ec5808b58b45809f92b0.png)
-
+Save the file and a nice message should pop up:
+![dca0f1768fc5ec5808b58b45809f92b0.png](/images/modding/dca0f1768fc5ec5808b58b45809f92b0.png)
 Click yes and close the archive.
 
 Now, when you open up your game again, you will find that your console (F9) will provide error exceptions related to "LazyVars".
@@ -151,6 +151,3 @@ Now, when you open up your game again, you will find that your console (F9) will
 ## Further Reading
 modding [Shaders](Shaders "wikilink")
 modding [Emitters](Modding_Emitters "wikilink")
-
-## Other Resorces
-
