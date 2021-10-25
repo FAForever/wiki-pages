@@ -2,7 +2,7 @@
 title: UEF-1v1-Guide
 description: 
 published: true
-date: 2021-10-25T15:03:50.255Z
+date: 2021-10-25T15:10:35.510Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:37.233Z
@@ -11,163 +11,50 @@ dateCreated: 2021-08-31T09:45:37.233Z
 ![](/images/learning/uef/uef.png "fig:Uef.png"){.align-right}This page is a guide to help you play the UEF faction in a 1v1 scenario. If you haven't already, read the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink") and the [General 1v1 Guide](General_1v1_Guide "wikilink") first.
 
 UEF is the considered the ‘basic human’ faction of the game and has generally higher health –lower speed units on comparison to other factions, they focus on a more defensive play style; and you will find that the faction needs to reach higher level tech to gain access to their unique units.
-- <img src="/images/learning/uef/uef_t3_pd.png" title="fig:UEF_T3_PD.png" width="50" align="centre" alt="UEF_T3_PD.png" />
-    The Ravager point defence. (The minigun turret)
-- <img src="UEF_T3_Transport.png" title="fig:UEF_T3_Transport.png" width="50" alt="UEF_T3_Transport.png" />
-    The Continental heavy air transport. (Carries 28 T1 units)
-- <img src="UEF_T3_MML.png" title="fig:UEF_T3_MML.png" width="50" alt="UEF_T3_MML.png" />
-    The Spearhead mobile missile platform. (Massive mobile missile
-    salvos)
-- <img src="UEF_T3_Battlecruiser.png‎" title="fig:UEF_T3_Battlecruiser.png‎" width="50" alt="UEF_T3_Battlecruiser.png‎" />
-    The Neptune class Battlecruiser. (Essentially a T3 Laser Destroyer)
+- <img src="/images/learning/uef/uef_t3_pd.png" width="50" align="center"/> The Ravager point defence. (The minigun turret)
+- <img src="/images/learning/uef/uef_t3_transport.png" width="50" align="center"/> The Continental heavy air transport. (Carries 28 T1 units)
+- <img src="/images/learning/uef/uef_t3_mml.png" width="50" align="center"/> The Spearhead mobile missile platform. (Massive mobile missile salvos)
+- <img src="/images/learning/uef/uef_t3_battlecruiser.png" width="50" align="center"/> The Neptune class Battlecruiser. (Essentially a T3 Laser Destroyer)
 
-<img src="UEF_T3_Heavy_Assault_Bot.png" title="fig:UEF_T3_Heavy_Assault_Bot.png" width="50" alt="UEF_T3_Heavy_Assault_Bot.png" /><img src="UEF_T3_Battleship.png" title="fig:UEF_T3_Battleship.png" width="50" alt="UEF_T3_Battleship.png" />
-All reside in the T3 stage and reaching those higher levels gives you
-far more advantage over opponents in other factions. Combined with the
-T3 Bot Percival, quite possibly the strongest single land unit in the
-game, mass for mass with 9000 hp and 1600 damage per a single shot;
-often results in the UEF’s enemies being placed on a countdown timer,
-with 1v1’s reaching T3 often resulting in UEF victory if the opponent
-has not reached a large enough advantage. You also have the longest
-ranged battleship, and some powerful T3 air tools if the game reaches
-that stage, but without Advanced Resource Allocation System (ARAS)
-upgrade on your ACU you could find yourself lacking ability to rush as
-fast as other factions without keeping some of your old Generators
-around.
+All reside in the T3 stage and reaching those higher levels gives you far more advantage over opponents in other factions. Combined with the T3 Bot Percival, quite possibly the strongest single land unit in the game, mass for mass with 9000 hp and 1600 damage per a single shot; often results in the UEF’s enemies being placed on a countdown timer, with 1v1’s reaching T3 often resulting in UEF victory if the opponent has not reached a large enough advantage. You also have the longest ranged battleship, and some powerful T3 air tools if the game reaches that stage, but without Advanced Resource Allocation System (ARAS) upgrade on your ACU you could find yourself lacking ability to rush as fast as other factions without keeping some of your old Generators around.
 
-<img src="UEF_T4_Mobile_Factory.png‎" title="fig:UEF_T4_Mobile_Factory.png‎" width="50" alt="UEF_T4_Mobile_Factory.png‎" /><img src="UEF_T4_Static_Arty.png" title="fig:UEF_T4_Static_Arty.png" width="50" alt="UEF_T4_Static_Arty.png" /><img src="UEF_T4_Satellite_Center.png" title="fig:UEF_T4_Satellite_Center.png" width="50" alt="UEF_T4_Satellite_Center.png" /><img src="UEF_T4_Aircraft_Carrier.png" title="fig:UEF_T4_Aircraft_Carrier.png" width="50" alt="UEF_T4_Aircraft_Carrier.png" />
-Hitting the T4 stage gives UEF the Fatboy, a mobile factory with 4
-battleship level cannons. Providing a lot of damage from a huge distance
-as the unit rains down shells from afar, but with little hp and only a
-shield to defend it makes the Fatboy very vulnerable without energy,
-Intel, or air cover.
+Hitting the T4 stage gives UEF the Fatboy, a mobile factory with 4 battleship level cannons. Providing a lot of damage from a huge distance as the unit rains down shells from afar, but with little hp and only a shield to defend it makes the Fatboy very vulnerable without energy, Intel, or air cover. 
 
 But you need those three to win no matter the faction, so…
 
-You also have the Mavor, the largest gun in the game with unlimited
-range and unlimited time to build if your eco is trash, and the Novax
-satellite. Which cannot be destroyed unless the enemy comes into your
-base and destroys it's control station. But how one would manage to
-complete one of these weapons in a 1v1 game without losing from the
-mass/energy investment is beyond me.
+You also have the Mavor, the largest gun in the game with unlimited range and unlimited time to build if your eco is trash, and the Novax satellite. Which cannot be destroyed unless the enemy comes into your base and destroys it's control statioSn. But how one would manage to complete one of these weapons in a 1v1 game without losing from the mass/energy investment is beyond me.
 
-The final T4 you own is the Atlantis, a giant sub that makes planes, it
-dies to its mass worth in regular subs and ground firing battleships at
-it will cause major damage, so be careful where you use it.
+The final T4 you own is the Atlantis, a giant sub that makes planes, it dies to its mass worth in regular subs and ground firing battleships at it will cause major damage, so be careful where you use it. 
 
-However, all these units being higher tech does not mean you should play
-defensively until then.
+However, all these units being higher tech does not mean you should play defensively until then.
 
-While you are possibly slower than other factions, you still need that
-vital map control, reclaim, and mexes to win games, not only this, but
-you have the worst TMD. And the second worst T2 shield, so other
-factions have plenty of viable options to bust open your firebases. Keep
-fighting as you would with another faction, and make sure you cover
-potential raiding areas.
+While you are possibly slower than other factions, you still need that vital map control, reclaim, and mexes to win games, not only this, but you have the worst TMD. And the second worst T2 shield, so other factions have plenty of viable options to bust open your firebases. Keep fighting as you would with another faction, and make sure you cover potential raiding areas. 
 
-Anyway, into the somewhat detailed breakdown. This will probably be land
-focused with some comments to the other three branches if they are
-actually needed.
+Anyway, into the somewhat detailed breakdown. This will probably be land focused with some comments to the other three branches if they are actually needed.
 
-## ![<File:Tech> 1 Icon.png](Tech_1_Icon.png "fig:File:Tech 1 Icon.png") Tech 1
+## Tech 1
 
-<img src="UEF_T1_Scout.png" title="fig:UEF_T1_Scout.png" width="50" alt="UEF_T1_Scout.png" />
-In the T1 stage, you have the *Snoop*, a little bikelike vehicle with 4
-dps and 29hp. That is your land scout, and you will be making these at
-almost any point in the game, this unit provides your hordes of tanks to
-see potential defenses and units. They spot targets for your AA and
-artillery, making solitary PD almost 100% useless if you don’t try and
-wade through it.
+In the T1 stage, you have the *Snoop*, a little bikelike vehicle with 4 dps and 29hp. That is your land scout, and you will be making these at almost any point in the game, this unit provides your hordes of tanks to see potential defenses and units. They spot targets for your AA and artillery, making solitary PD almost 100% useless if you don’t try and wade through it.
 
-<img src="UEF_T1_LAB.png" title="fig:UEF_T1_LAB.png" width="50" alt="UEF_T1_LAB.png" />
-You then have the *Mech Marine*. A LAB (Light Assault Bot) It is the
-weakest unit statwise in your army, having low hp, 75, and reasonable
-dps (almost the same as t1 tanks) at 23. They build quickly and move
-fast, though, so they can be built and used to fight early-game on small
-maps. It's usually viable to raid with any LAB, of any faction (UEF,
-AEON, CYB) on maps that are 5x5 or 10x10km, but it is
-map-dependant.Common use includes sending a few of these out early to
-attempt to kill off engineers to hamper your enemies start. Do not
-expect them to survive against t1 tanks, they will die in 2-3 shots
-without micro. All LABs can also enter tranports and have the unique
-ability to fire while inside, creating a "Ghetto Gunship".
+You then have the *Mech Marine*. A LAB (Light Assault Bot) It is the weakest unit statwise in your army, having low hp, 75, and reasonable dps (almost the same as t1 tanks) at 23. They build quickly and move fast, though, so they can be built and used to fight early-game on small maps. It's usually viable to raid with any LAB, of any faction (UEF, AEON, CYB) on maps that are 5x5 or 10x10km, but it is map-dependant.Common use includes sending a few of these out early to attempt to kill off engineers to hamper your enemies start. Do not expect them to survive against t1 tanks, they will die in 2-3 shots without micro. All LABs can also enter tranports and have the unique ability to fire while inside, creating a "Ghetto Gunship".
 
-<img src="UEF_T1_Tank.png" title="fig:UEF_T1_Tank.png" width="50" alt="UEF_T1_Tank.png" /><img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /><img src="Sera_T1_Tank.png" title="fig:Sera_T1_Tank.png" width="50" alt="Sera_T1_Tank.png" /><img src="UEF_T1_Mobile_Arty.png" title="fig:UEF_T1_Mobile_Arty.png" width="50" alt="UEF_T1_Mobile_Arty.png" />
-The vehicle that will be doing all the fighting for the UEF T1 stage is
-the *Striker*. It’s the most generic tank in the game, and it has
-slightly more hp than the other tanks, leading to it winning 1v1 fights,
-and the firerate of the Striker makes it easy to dodge enemy tank shots,
-while still hitting your own as the turret can move fast enough to deal
-with your movement. However, the Aeon Aurora in numbers of \>3 will
-easily win over your strikers, as they do again all other t1 land units
-due to their range and easy ability to move backwards without turning.
-They are slower than other t1 tanks, and if an aeon opponent does not
-pay attention you can catch them. Aurora have such low hp that if you
-can get into range, and you are not heavily outnumbered when doing so,
-you will win easily. It's important to note that dodging from side to
-side with your entire force simply by clicking to the left and the right
-as they move will avoid many shots from aurora as you engage/run away.
+The vehicle that will be doing all the fighting for the UEF T1 stage is the *Striker*. It’s the most generic tank in the game, and it has slightly more hp than the other tanks, leading to it winning 1v1 fights, and the firerate of the Striker makes it easy to dodge enemy tank shots, while still hitting your own as the turret can move fast enough to deal with your movement. However, the Aeon Aurora in numbers of \>3 will easily win over your strikers, as they do again all other t1 land units due to their range and easy ability to move backwards without turning. They are slower than other t1 tanks, and if an aeon opponent does not pay attention you can catch them. Aurora have such low hp that if you can get into range, and you are not heavily outnumbered when doing so, you will win easily. It's important to note that dodging from side to side with your entire force simply by clicking to the left and the right as they move will avoid many shots from aurora as you engage/run away.
 
-This doesn’t mean that a Striker can go 3v1 against Mantis or Thaams, as
-the numbers really have to escalate for the hp bonus to stack up, being
-only a meager 30/20 hp extra respectively, scout and anticipate enemy
-movements to block raids or force your way into expansions, your choice.
+This doesn’t mean that a Striker can go 3v1 against Mantis or Thaams, as the numbers really have to escalate for the hp bonus to stack up, being only a meager 30/20 hp extra respectively, scout and anticipate enemy movements to block raids or force your way into expansions, your choice.
 
-Sporting probably the most meaningless single unit ability in the game,
-the *Lobo* is a higher damage, slower firing artillery unit with a
-‘fragcam’ that gives the shells vision when they land for a brief
-second. It may be amusing to watch a PD die but you should probably be
-looking at something else by then. The lobo is very good against
-stationary targets, as it does a large amount of damage with a single
-shot, and it's accurate. It's weak against moving ones due to the low
-rate of fire, as it is easy to dodge. Blocking units with strikers or
-building placements will allow lobos to hit more and deal large damage.
+Sporting probably the most meaningless single unit ability in the game, the *Lobo* is a higher damage, slower firing artillery unit with a ‘fragcam’ that gives the shells vision when they land for a brief second. It may be amusing to watch a PD die but you should probably be looking at something else by then. The lobo is very good against stationary targets, as it does a large amount of damage with a single shot, and it's accurate. It's weak against moving ones due to the low rate of fire, as it is easy to dodge. Blocking units with strikers or building placements will allow lobos to hit more and deal large damage.
 
-<img src="UEF_T1_Bomber.png" title="fig:UEF_T1_Bomber.png" width="50" alt="UEF_T1_Bomber.png" /><img src="UEF_T1_Frigate.png" title="fig:UEF_T1_Frigate.png" width="50" alt="UEF_T1_Frigate.png" />
-On a side note, the UEF bomber uses napalm and instead of dropping a
-single accurate bomb like Aeon or Seraphim bombers, it drops its load in
-a thick line so it's ideal for killing clusters but not as good for
-killing ACUs (they can dodge the bombs). Your frigate has jamming,
-meaning enemy frigates will sometimes shoot the fake blips instead of
-your boats.
+On a side note, the UEF bomber uses napalm and instead of dropping a single accurate bomb like Aeon or Seraphim bombers, it drops its load in a thick line so it's ideal for killing clusters but not as good for killing ACUs (they can dodge the bombs). Your frigate has jamming, meaning enemy frigates will sometimes shoot the fake blips instead of your boats.
 
 (Also, build walls)
 
-At this point, you would have used your **ACU** in combat, and is
-possibly the best at doing what unupgraded commanders do, which is tank
-damage. The UEF acu has the highest base HP and is very versatile,
-allowing you to have very powerful combinations such as Gun + T2 +
-Shield, RAS + T3 + Shield, and even a tml launcher that fires either
-regular missiles or nukes.
+At this point, you would have used your **ACU** in combat, and is possibly the best at doing what unupgraded commanders do, which is tank damage. The UEF acu has the highest base HP and is very versatile, allowing you to have very powerful combinations such as Gun + T2 + Shield, RAS + T3 + Shield, and even a tml launcher that fires either regular missiles or nukes.
 
-Your gun upgrade does double damage instead of shooting twice as fast,
-and this is especially good against aurora, as it will 1 shot them. It
-also won't overkill tanks like other gun upgrades do, as they will fire
-1 more shot than is required to kill units due to the rate of fire,
-shooting an extra shot before the last shot destroys a unit. Gun is very
-effective vs t1/t2 armies, the range increase allowing overcharges and
-easy destruction of t1 units from a safe range. The kills from this give
-veterancy, which in turn allows more use of the ACU as a front line
-unit. The T2 upgrade can act as an addition to this usage, the hp and
-regen it provides allows for a much tankier combat acu vs t1 and t2,
-with the added bonus of buildpower for t1 buildings and the ability to
-make t2 (usually, pds and shields) The t2 upgrade on its own still
-provides hp and regen, and is inevitably essential in any game, for the
-hp, regen, and safety that extra builpower grants. UEF t2 pd are strong
-against t1 units, as their 3 shots will hit clumps of enemies rather
-than just 1, usually killing multiple t1 tanks in single shots. A UEF
-player pushing can build these to augment his forces while in the field,
-but remember when and when not to use t2 pd - if you need dps near you,
-you want to build t1 pd. If you want to deny an area/ long range
-pushing/fire support, build t2 pd. It's important to note that point
-defence is not cost efficient, and you still need an army. Obsidians and
-Ilshavoh can solo t1 pd easily.
+Your gun upgrade does double damage instead of shooting twice as fast, and this is especially good against aurora, as it will 1 shot them. It also won't overkill tanks like other gun upgrades do, as they will fire 1 more shot than is required to kill units due to the rate of fire, shooting an extra shot before the last shot destroys a unit. Gun is very effective vs t1/t2 armies, the range increase allowing overcharges and easy destruction of t1 units from a safe range. The kills from this give veterancy, which in turn allows more use of the ACU as a front line unit. The T2 upgrade can act as an addition to this usage, the hp and  regen it provides allows for a much tankier combat acu vs t1 and t2,  with the added bonus of buildpower for t1 buildings and the ability to  make t2 (usually, pds and shields) The t2 upgrade on its own still provides hp and regen, and is inevitably essential in any game, for the hp, regen, and safety that extra builpower grants. UEF t2 pd are strong against t1 units, as their 3 shots will hit clumps of enemies rather than just 1, usually killing multiple t1 tanks in single shots. A UEF player pushing can build these to augment his forces while in the field, but remember when and when not to use t2 pd - if you need dps near you, you want to build t1 pd. If you want to deny an area/ long range pushing/fire support, build t2 pd. It's important to note that point defence is not cost efficient, and you still need an army. Obsidians and Ilshavoh can solo t1 pd easily.
 
-Being able to get both the gun and T2 upgrades can really help make your
-ACU a dangerous weapon in many open maps, and some may consider using
-the Shoulder drones or Shielding to add extra advantages.
+Being able to get both the gun and T2 upgrades can really help make your ACU a dangerous weapon in many open maps, and some may consider using the Shoulder drones or Shielding to add extra advantages.
 
-## ![<File:Tech> 2 Icon.png](Tech_2_Icon.png "fig:File:Tech 2 Icon.png") Tech 2
+## Tech 2
 
 When you hit Tech 2, you have three different direct fire land units to
 choose from, the *Pillar*, which is a Striker with 5 times the hp, more
