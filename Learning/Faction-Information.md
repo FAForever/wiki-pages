@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T21:49:46.151Z
+date: 2021-10-25T22:11:25.626Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -179,138 +179,92 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 	- <img src="/images/learning/cybran/cybran_t3_perimiter_monitoring_system.png" width="50" align="center"/> **Monitoring System** - Provides vision over huge area. 
 	- <img src="/images/learning/cybran/cybran_t3_sonar.png" width="50" align="center"/> **Sonar** - Big stealth field. Maintaining the field costs a fair bit of power.
 - **Land:**
-	- <img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" />
-        **Siege Assault Bot** - Fast bot with small range. Useful for
-        early raiding. Can deflect cruise missiles. Stuns everything
-        except ACUs and experimentals in a small range when dies.
-	- <img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" />
-        **Armoured Assault Bot** - Strong and slow with large range and
-        rapid fire rate. Better if combined with Stealth.
-	- <img src="Cybran_T3_Mobile_Arty.png" title="fig:Cybran_T3_Mobile_Arty.png" width="50" alt="Cybran_T3_Mobile_Arty.png" />
-        **Artillery** - Largest splash from all mobile artillery but
-        lowest damage.
+	- <img src="/images/learning/cybran/cybran_t3_siege_assault_bot.png" width="50" align="center"/> **Siege Assault Bot** - Fast bot with small range. Useful for early raiding. Can deflect cruise missiles. Stuns everything except ACUs and experimentals in a small range when dies.
+	- <img src="/images/learning/cybran/cybran_t3_armored_assault_bot.png" width="50" align="center"/> **Armoured Assault Bot** - Strong and slow with large range and rapid fire rate. Better if combined with Stealth.
+	- <img src="/images/learning/cybran/cybran_t3_mobile_arty.png" width="50" align="center"/> **Artillery** - Largest splash from all mobile artillery but lowest damage.
 - **Air:**
-	- <img src="Cybran_T3_ASF.png" title="fig:Cybran_T3_ASF.png" width="50" alt="Cybran_T3_ASF.png" />
-        **ASF** - Personal Stealth.
-	- <img src="Cybran_T3_Strat.png" title="fig:Cybran_T3_Strat.png" width="50" alt="Cybran_T3_Strat.png" />
-        **Strategic Bomber** - Biggest splash from all T3 bombers but
-        lowest damage. Personal stealth.
-	- <img src="Cybran_T3_Gunship.png" title="fig:Cybran_T3_Gunship.png" width="50" alt="Cybran_T3_Gunship.png" />
-        **Gunship** - Jamming
+	- <img src="/images/learning/cybran/cybran_t3_asf.png" width="50" align="center" /> **ASF** - Personal Stealth.
+	- <img src="/images/learning/cybran/cybran_t3_strat.png" width="50" align="center"/> **Strategic Bomber** - Biggest splash from all T3 bombers but lowest damage. Personal stealth.
+	- <img src="/images/learning/cybran/cybran_t3_gunship.png" width="50" align="center" /> *Gunship** - Jamming
 - **Naval:**
-	- <img src="Cybran_T3_Battleship.png" title="fig:Cybran_T3_Battleship.png" width="50" alt="Cybran_T3_Battleship.png" />
-        **Battleship** - Good range, high fire rate. Only battleship
-        with torpedoes.
-	- <img src="Cybran_T3_Aircraft_Carrier.png" title="fig:Cybran_T3_Aircraft_Carrier.png" width="50" alt="Cybran_T3_Aircraft_Carrier.png" />
-        **Aircraft Carrier** - Can carry, build and repair aircraft.
-        Good AA.
-	- <img src="Cybran_T3_Nuke_Sub.png" title="fig:Cybran_T3_Nuke_Sub.png" width="50" alt="Cybran_T3_Nuke_Sub.png" />
-        **Strategic Submarine** - Can build nukes. Has personal stealth,
-        torpedoes and cruise missiles.
+	- <img src="/images/learning/cybran/cybran_t3_battleship.png" width="50" align="center" /> **Battleship** - Good range, high fire rate. Only battleship with torpedoes.
+	- <img src="/images/learning/cybran/cybran_t3_aircraft_carrier.png" width="50" align="center" /> **Aircraft Carrier** - Can carry, build and repair aircraft. Good AA.
+	- <img src="/images/learning/cybran/cybran_t3_nuke_sub.png" width="50" align="center" /> **Strategic Submarine** - Can build nukes. Has personal stealth, torpedoes and cruise missiles.
 
-#### ![<File:Tech> 4 Icon.png](Tech_4_Icon.png "fig:File:Tech 4 Icon.png") Tech 4 – Experimental
-
--   <img src="Cybran_T4_Monkey_Bot.png" title="fig:Cybran_T4_Monkey_Bot.png" width="50" alt="Cybran_T4_Monkey_Bot.png" />
-    **Monkey Lord** - Cheapest land experimental. Low HP. Has a stealth
-    field. Short range, high damage laser. Good for early T4 stage.
--   <img src="Cybran_T4_Mega_Bot.png" title="fig:Cybran_T4_Mega_Bot.png" width="50" alt="Cybran_T4_Mega_Bot.png" />
-    **Megalith** - Heavy direct fire experimental with a lot of HP.
-    Can't shoot backwards, but can be microed to move back while
-    shooting. Can produce some T2 and T3 units.
--   <img src="Cybran_T4_Gunship.png" title="fig:Cybran_T4_Gunship.png" width="50" alt="Cybran_T4_Gunship.png" />
-    **Soul Ripper** - Strong experimental gunship. Good splash damage
-    against groups of units.
--   <img src="Cybran_T4_Mobile_Arty.png" title="fig:Cybran_T4_Mobile_Arty.png" width="50" alt="Cybran_T4_Mobile_Arty.png" />
-    **Scathis** - Rapid firing artillery with a shorter range and far
-    less accuracy than T3 artillery but with huge dps. Cybran game
-    ender. Can move, and is amphibious.
+#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+- <img src="/images/learning/cybran/cybran_t4_monkey_bot.png" width="50" align="center" /> **Monkey Lord** - Cheapest land experimental. Low HP. Has a stealth field. Short range, high damage laser. Good for early T4 stage.
+- <img src="/images/learning/cybran/cybran_t4_mega_bot.png" width="50" align="center" /> **Megalith** - Heavy direct fire experimental with a lot of HP. Can't shoot backwards, but can be microed to move back while shooting. Can produce some T2 and T3 units.
+- <img src="/images/learning/cybran/cybran_t4_gunship.png" width="50" align="center" /> **Soul Ripper** - Strong experimental gunship. Good splash damage against groups of units. 
+- <img src="/images/learning/cybran/cybran_t4_mobile_arty.png" width="50" align="center" /> **Scathis** - Rapid firing artillery with a shorter range and far less accuracy than T3 artillery but with huge dps. Cybran game ender. Can move, and is amphibious.
 
 ## ![<File:aeon.png>](aeon.png "fig:File:aeon.png") Aeon
-
-Hardest faction to play. Require lot of micro. Good choice for playing
-on air spot due to versatility.
+Hardest faction to play. Require lot of micro. Good choice for playing on air spot due to versatility.
 
 ### Description
-
--   <img src="A_ACU.PNG" title="fig:A_ACU.PNG" width="50" alt="A_ACU.PNG" />
-    **ACU** - Decent HP, has two gun upgrades and better range that
-    other faction's gun upgrade, double shield upgrade. Chrono upgrade
-    that stuns units. Double RAS.
--   <img src="A_SACU.PNG" title="fig:A_SACU.PNG" width="50" alt="A_SACU.PNG" />
-    **SACU** - Bad in combat since only one gun upgrade available.
-    Double shield upgrade or nano repair.
-    -   RAS upgrade, teleport, sacrificial system.
+- <img src="A_ACU.PNG" title="fig:A_ACU.PNG" width="50" alt="A_ACU.PNG" /> **ACU** - Decent HP, has two gun upgrades and better range that other faction's gun upgrade, double shield upgrade. Chrono upgrade that stuns units. Double RAS.
+- <img src="A_SACU.PNG" title="fig:A_SACU.PNG" width="50" alt="A_SACU.PNG" /> **SACU** - Bad in combat since only one gun upgrade available. Double shield upgrade or nano repair.
+-   RAS upgrade, teleport, sacrificial system.
 
 #### ![<File:Tech> 1 Icon.png](Tech_1_Icon.png "fig:File:Tech 1 Icon.png") Tech 1
-
--   **Land:**
-    -   <img src="A_T1_L_Scout.PNG" title="fig:A_T1_L_Scout.PNG" width="50" alt="A_T1_L_Scout.PNG" />
-        **Scout** - Hover, can go over water.
-    -   <img src="A_LAB.PNG" title="fig:A_LAB.PNG" width="50" alt="A_LAB.PNG" />
-        **Light Assault Bot** - Can shoot from transports.
-    -   <img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" />
-        **Aurora Tank** - Longer range than other tanks, but low HP and
-        slower speed. Hover, can go over water.
-    -   <img src="A_T1_L_Arty.PNG" title="fig:A_T1_L_Arty.PNG" width="50" alt="A_T1_L_Arty.PNG" />
-        **Artillety** - Most accurate from T1 artillery, no splash.
--   **Air:**
-    -   <img src="A_T1_Bomber.PNG" title="fig:A_T1_Bomber.PNG" width="50" alt="A_T1_Bomber.PNG" />
-        **Bomber** - Slightly worse than Seraphim, stuns units.
--   **Naval:**
-    -   <img src="A_Frigate.PNG" title="fig:A_Frigate.PNG" width="50" alt="A_Frigate.PNG" />
-        **Frigate** - Has torpedo defence, no AA.
-    -   <img src="A_T1_AA_Boat.PNG" title="fig:A_T1_AA_Boat.PNG" width="50" alt="A_T1_AA_Boat.PNG" />
-        **AA boat** - Very fast boat with good AA.
+- **Land:**
+	- <img src="A_T1_L_Scout.PNG" title="fig:A_T1_L_Scout.PNG" width="50" alt="A_T1_L_Scout.PNG" /> **Scout** - Hover, can go over water.
+	- <img src="A_LAB.PNG" title="fig:A_LAB.PNG" width="50" alt="A_LAB.PNG" /> **Light Assault Bot** - Can shoot from transports. 
+	- <img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /> **Aurora Tank** - Longer range than other tanks, but low HP and slower speed. Hover, can go over water.
+	- <img src="A_T1_L_Arty.PNG" title="fig:A_T1_L_Arty.PNG" width="50" alt="A_T1_L_Arty.PNG" /> **Artillety** - Most accurate from T1 artillery, no splash. 
+- **Air:**
+	- <img src="A_T1_Bomber.PNG" title="fig:A_T1_Bomber.PNG" width="50" alt="A_T1_Bomber.PNG" /> **Bomber** - Slightly worse than Seraphim, stuns units.
+- **Naval:**
+	- <img src="A_Frigate.PNG" title="fig:A_Frigate.PNG" width="50" alt="A_Frigate.PNG" /> **Frigate** - Has torpedo defence, no AA.
+	- <img src="A_T1_AA_Boat.PNG" title="fig:A_T1_AA_Boat.PNG" width="50" alt="A_T1_AA_Boat.PNG" /> **AA boat** - Very fast boat with good AA.
 
 #### ![<File:Tech> 2 Icon.png](Tech_2_Icon.png "fig:File:Tech 2 Icon.png") Tech 2
-
--   **Buildings:**
-    -   <img src="A_T2_PD.PNG" title="fig:A_T2_PD.PNG" width="50" alt="A_T2_PD.PNG" />
+- **Buildings:**
+	- <img src="A_T2_PD.PNG" title="fig:A_T2_PD.PNG" width="50" alt="A_T2_PD.PNG" />
         **Point Defense** – Strong PD that is not blocked by terrain,
         slow rate of fire, splash damage. Best dps.
-    -   <img src="A_T2_Shield.PNG" title="fig:A_T2_Shield.PNG" width="50" alt="A_T2_Shield.PNG" />
+	- <img src="A_T2_Shield.PNG" title="fig:A_T2_Shield.PNG" width="50" alt="A_T2_Shield.PNG" />
         **Static Shield** - Strong shield but small radius. Can't be
         upgraded to T3.
-    -   <img src="A_TMD.PNG" title="fig:A_TMD.PNG" width="50" alt="A_TMD.PNG" />
+	- <img src="A_TMD.PNG" title="fig:A_TMD.PNG" width="50" alt="A_TMD.PNG" />
         **TMD** - Deflect missiles, can counter infinite number of
         missiles at once, weak against rapid fire missiles. Can't stop
         missile aiming for way further.
-    -   Aeon had no Engineering Station
--   **Land:**
-    -   <img src="A_T2_Obsidian.PNG" title="fig:A_T2_Obsidian.PNG" width="50" alt="A_T2_Obsidian.PNG" />
+	-   Aeon had no Engineering Station
+- **Land:**
+	- <img src="A_T2_Obsidian.PNG" title="fig:A_T2_Obsidian.PNG" width="50" alt="A_T2_Obsidian.PNG" />
         **Obsidian Tank** - Strong shielded tank with slow fire rate but
         high damage.
-    -   <img src="A_T2_Blaze.PNG" title="fig:A_T2_Blaze.PNG" width="50" alt="A_T2_Blaze.PNG" />
+	- <img src="A_T2_Blaze.PNG" title="fig:A_T2_Blaze.PNG" width="50" alt="A_T2_Blaze.PNG" />
         **Blaze Tank** - Fast hover tank, can go on water.
-    -   <img src="A_T2_M_AA.PNG" title="fig:A_T2_M_AA.PNG" width="50" alt="A_T2_M_AA.PNG" />
+	- <img src="A_T2_M_AA.PNG" title="fig:A_T2_M_AA.PNG" width="50" alt="A_T2_M_AA.PNG" />
         **Mobile Flak AA** - Hover, can go over water.
-    -   <img src="A_T2_MML.PNG" title="fig:A_T2_MML.PNG" width="50" alt="A_T2_MML.PNG" />
+	- <img src="A_T2_MML.PNG" title="fig:A_T2_MML.PNG" width="50" alt="A_T2_MML.PNG" />
         **Mobile Missile Launcher** - Worst from all factions. Slow fire
         rate.
-    -   <img src="A_T2_L_Shield.PNG" title="fig:A_T2_L_Shield.PNG" width="50" alt="A_T2_L_Shield.PNG" />
+	- <img src="A_T2_L_Shield.PNG" title="fig:A_T2_L_Shield.PNG" width="50" alt="A_T2_L_Shield.PNG" />
         **Mobile Shield** - Hover, can go over water.
--   **Air:**
-    -   <img src="A_Swiftwind.PNG" title="fig:A_Swiftwind.PNG" width="50" alt="A_Swiftwind.PNG" />
+- **Air:**
+	-   <img src="A_Swiftwind.PNG" title="fig:A_Swiftwind.PNG" width="50" alt="A_Swiftwind.PNG" />
         **Swiftwind Combat Figher** - Dedicated AA fighter. Best T2 AA.
-    -   <img src="A_T2_Gunship.PNG" title="fig:A_T2_Gunship.PNG" width="50" alt="A_T2_Gunship.PNG" />
+	-   <img src="A_T2_Gunship.PNG" title="fig:A_T2_Gunship.PNG" width="50" alt="A_T2_Gunship.PNG" />
         **Gunship** - High accuracy.
-    -   <img src="A_Mercy.PNG" title="fig:A_Mercy.PNG" width="50" alt="A_Mercy.PNG" />
+	-   <img src="A_Mercy.PNG" title="fig:A_Mercy.PNG" width="50" alt="A_Mercy.PNG" />
         **Mercy** - Suicide aircraft with low HP that deals lot of
         damage. Used for sniping ACU and other high value targets.
-    -   <img src="A_T2_Torpedo_Bomber.PNG" title="fig:A_T2_Torpedo_Bomber.PNG" width="50" alt="A_T2_Torpedo_Bomber.PNG" />
+	-   <img src="A_T2_Torpedo_Bomber.PNG" title="fig:A_T2_Torpedo_Bomber.PNG" width="50" alt="A_T2_Torpedo_Bomber.PNG" />
         **Torpedo Bomber** - Drops depth charge. Can't be used in
         shallow water.
-    -   <img src="A_T2_Transport.PNG" title="fig:A_T2_Transport.PNG" width="50" alt="A_T2_Transport.PNG" />
+	-   <img src="A_T2_Transport.PNG" title="fig:A_T2_Transport.PNG" width="50" alt="A_T2_Transport.PNG" />
         **Transport** - Slightly better than Cybran, can carry up to
         2T3 + 4T1 or 1T3+4T2 units.
--   **Naval:**
-    -   <img src="A_T2_Sub.PNG" title="fig:A_T2_Sub.PNG" width="50" alt="A_T2_Sub.PNG" />
+- **Naval:**
+	-   <img src="A_T2_Sub.PNG" title="fig:A_T2_Sub.PNG" width="50" alt="A_T2_Sub.PNG" />
         **Submarine Hunter** - Good torpedos and torpedo defence.
-    -   <img src="A_Destroyer.PNG" title="fig:A_Destroyer.PNG" width="50" alt="A_Destroyer.PNG" />
+	-   <img src="A_Destroyer.PNG" title="fig:A_Destroyer.PNG" width="50" alt="A_Destroyer.PNG" />
         **Destroyer** - Big range, slow fire rate, high damage. It's
         shots are easy to dodge. Torpedos, torpedo defence and depth
         charges (ignore torpedo defense).
-    -   <img src="A_Cruiser.PNG" title="fig:A_Cruiser.PNG" width="50" alt="A_Cruiser.PNG" />
+	-   <img src="A_Cruiser.PNG" title="fig:A_Cruiser.PNG" width="50" alt="A_Cruiser.PNG" />
         **Cruiser** - Good AA, can shoot at naval and land targets with
         a weak gun.
 
