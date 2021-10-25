@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T21:36:15.965Z
+date: 2021-10-25T21:40:35.448Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -161,35 +161,16 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 	- <img src="/images/learning/cybran/cbran_t2_mml.png" width="50" align="center"/> **Mobile Missile Launcher** - Best from all factions. Rapid firing with low damage but missiles splits into 3 when hit by TMD.
 	- <img src="/images/learning/cybran/cybran_t2_mobile_bomb.png" width="50" align="center"/> **Mobile Bomb** - Low HP and medium damage, big explosions stun all units (except experimentals) that survive the explosion. Devastating with transports.
 	- <img src="/images/learning/cybran/cybran_t2_mobile_stealth.png" width="50" align="center"/> **Mobile Stealth Field** - Cybran is the only faction with mobile stealth field. Great Support for T2 and T3 units hiding them from enemy radars.
--   **Air:**
-    -   <img src="Cybran_T2_Fighter_Bomber.png" title="fig:Cybran_T2_Fighter_Bomber.png" width="50" alt="Cybran_T2_Fighter_Bomber.png" />
-        **Figher/Bomber** - Great bomber with splash damage. Weak AA.
-        hard to dodge, best fighter/bomber for sniping.
-    -   <img src="Cybran_T2_Gunship.png" title="fig:Cybran_T2_Gunship.png" width="50" alt="Cybran_T2_Gunship.png" />
-        **Gunship** - Big splash damage, great against group of T1/T2
-        units.
-    -   <img src="Cybran_T2_Torpedo_Bomber.png" title="fig:Cybran_T2_Torpedo_Bomber.png" width="50" alt="Cybran_T2_Torpedo_Bomber.png" />
-        **Torpedo Bomber** - Drops torpedos directly on ships, can't be
-        countered by torpedo defence.
-    -   <img src="Cybran_T2_Transport.png" title="fig:Cybran_T2_Transport.png" width="50" alt="Cybran_T2_Transport.png" />
-        **Transport** - Worst of all factions. Can carry up to 4T2 + 2T1
-        or 2T3 + 2T1 units. Can stun T1 and T2 units.
--   **Naval:**
-    -   <img src="Cybran_T2_Sub_Hunter.png" title="fig:Cybran_T2_Sub_Hunter.png" width="50" alt="Cybran_T2_Sub_Hunter.png" />
-        **Submarine Hunter** - Personal stealth. Good torpedo damage and
-        decent torpedo defence.
-    -   <img src="Cybran_T2_Destroyer.png" title="fig:Cybran_T2_Destroyer.png" width="50" alt="Cybran_T2_Destroyer.png" />
-        **Destroyer** - One of the best. Large range, fast rate of fire.
-        Can't shoot backward. Great if combined with stealth. Best
-        torpedo defence. Can walk slowly on land.
-    -   <img src="Cybran_T2_Cruiser.png" title="fig:Cybran_T2_Cruiser.png" width="50" alt="Cybran_T2_Cruiser.png" />
-        **Cruiser** - Worst AA since missiles are fired with a slow
-        initial velocity. AA gun can be switched to shoot on naval or
-        land. Direct fire weapon with decent damage. Can repair
-        aircraft.
-    -   <img src="Cybran_T2_Stealth_Boat.png" title="fig:Cybran_T2_Stealth_Boat.png" width="50" alt="Cybran_T2_Stealth_Boat.png" />
-        **Stealth Boat** - One of the advantages of Cybran navy.
-        Excellent torpedo defence. Creates a small stealth field.
+- **Air:**
+	- <img src="/images/learning/cybran/cybran_t2_fighter_bomber.png" width="50" align="center"/> **Figher/Bomber** - Great bomber with splash damage. Weak AA. hard to dodge, best fighter/bomber for sniping.
+	- <img src="/images/learning/cybran/cybran_t2_gunship.png" width="50" align="center"/> **Gunship** - Big splash damage, great against group of T1/T2 units.
+	- <img src="/images/learning/cybran/cybran_t2_torpedo_bomber.png" width="50" align="center"/> **Torpedo Bomber** - Drops torpedos directly on ships, can't be countered by torpedo defence.
+	- <img src="/images/learning/cybran/cybran_t2_transport.png" width="50" align="center"/> **Transport** - Worst of all factions. Can carry up to 4T2 + 2T1 or 2T3 + 2T1 units. Can stun T1 and T2 units.
+- **Naval:**
+	- <img src="/images/learning/cybran/cybran_t2_sub_hunter.png" width="50" align="center"/> **Submarine Hunter** - Personal stealth. Good torpedo damage and decent torpedo defence.
+	- <img src="/images/learning/cybran/cybran_t2_destroyer.png" width="50" align="center"/> **Destroyer** - One of the best. Large range, fast rate of fire. Can't shoot backward. Great if combined with stealth. Best torpedo defence. Can walk slowly on land.
+	- <img src="/images/learning/cybran/cybran_t2_cruiser.png" width="50" align="center"/> **Cruiser** - Worst AA since missiles are fired with a slow initial velocity. AA gun can be switched to shoot on naval or land. Direct fire weapon with decent damage. Can repair aircraft.
+	- <img src="/images/learning/cybran/cybran_t2_stealth_boat.png" width="50" align="center"/> **Stealth Boat** - One of the advantages of Cybran navy. Excellent torpedo defence. Creates a small stealth field.
 
 #### ![<File:Tech> 3 Icon.png](Tech_3_Icon.png "fig:File:Tech 3 Icon.png") Tech 3
 
