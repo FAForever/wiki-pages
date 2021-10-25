@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T19:10:02.890Z
+date: 2021-10-25T20:33:45.679Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -94,78 +94,35 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 	- <img src="/images/learning/sera/sera_t1_sub.png" width="50" align="center"/> **Submarine** - Worst subs, since it can lose in 1v1 against other subs. The only T1 submarine with torpedo defence.
 
 #### <img src="/images/learning/tech_2_icon.png"> Tech 2
--   **Buildings:**
-    -   <img src="Sera_T2_PD.png" title="fig:Sera_T2_PD.png" width="50" alt="Sera_T2_PD.png" />
-        **Point Defense** - Uses a laser so it never misses or wastes
-        any DPS, making it the best anti-T1 T2 point defence, but the
-        low profile means it can be blocked by uneven terrain.
-    -   <img src="Sera_T2_Torpedo_Launcher.png" title="fig:Sera_T2_Torpedo_Launcher.png" width="50" alt="Sera_T2_Torpedo_Launcher.png" />
-        **Torpedo Launcher** - The only torpedo launcher with torpedo
-        defense, it has also lower HP.
-    -   <img src="Sera_T2_Static_Shield.png" title="fig:Sera_T2_Static_Shield.png" width="50" alt="Sera_T2_Static_Shield.png" />
-        **Static Shield** - Best shields in the game, expensive, but the
-        biggest and the strongest
-    -   <img src="Sera_T2_Sonar.png" title="fig:Sera_T2_Sonar.png" width="50" alt="Sera_T2_Sonar.png" />
-        **Sonar** - Best T2 sonar, since they don't have T3 sonar.
-    -   Seraphim has no Engineering Stations
--   **Land:**
-    -   <img src="Sera_T2_Assault_Bot.png" title="fig:Sera_T2_Assault_Bot.png" width="50" alt="Sera_T2_Assault_Bot.png" />
-        **Assault Bot** - Slow, but it has a great firing cycle for
-        killing T1 and T2, plenty of HP, and kicks out a tonne of
-        damage. best T2 land unit. Consider as a T2.5.
-    -   <img src="Sera_T2_Hover_Tank.png" title="fig:Sera_T2_Hover_Tank.png" width="50" alt="Sera_T2_Hover_Tank.png" />
-        **Hover Tank** - Very fast hover tank with frontloaded firing
-        cycle and good HP.
-    -   <img src="Sera_T2_AA.png" title="fig:Sera_T2_AA.png" width="50" alt="Sera_T2_AA.png" />
-        **Floating AA Flak** - Amphibious so it can support your navy.
--   **Air:**
-    -   <img src="Sera_T2_Torpedo_Bomber.png" title="fig:Sera_T2_Torpedo_Bomber.png" width="50" alt="Sera_T2_Torpedo_Bomber.png" />
-        **Torpedo Bomber** - Worst torpedo bomber. Only T2 torpedo
-        bomber that can be countered by torpedo defence. Drop far from
-        the boat, can result in hitting the ground.
-    -   <img src="Sera_T2_Transport.png" title="fig:Sera_T2_Transport.png" width="50" alt="Sera_T2_Transport.png" />
-        **Transport** - The best T2 transport of all factions. Can carry
-        16 T1 units or 8 T2 units or 4 T3 units.
-    -   <img src="Sera_T2_Fighter_Bomber.png" title="fig:Sera_T2_Fighter_Bomber.png" width="50" alt="Sera_T2_Fighter_Bomber.png" />
-        **Fighter Bomber** - Does good damage, but is easily dodgeable.
-        Good against buildings. Not great fighter.
--   **Naval:**
-    -   <img src="Sera_T2_Destroyer.png" title="fig:Sera_T2_Destroyer.png" width="50" alt="Sera_T2_Destroyer.png" />
-        **Destroyer** - Not only does this fire lasers which never miss
-        and never waste any damage, but the unit can be submerged to
-        become invulnerable to surface fire. Best destroyer with micro.
-        Poor at killing bases, since the lasers hit the terrain a lot.
-    -   <img src="Sera_T2_Cruiser.png" title="fig:Sera_T2_Cruiser.png" width="50" alt="Sera_T2_Cruiser.png" />
-        **Cruiser** - Flak AA and the cruise missiles can be fired
-        individually with good micro to kill very efficiently. Less
-        effective against tmd.
+- **Buildings:**
+	- <img src="/images/learning/sera/sera_t2_pd.png" width="50" align="center"/> **Point Defense** - Uses a laser so it never misses or wastes any DPS, making it the best anti-T1 T2 point defence, but the low profile means it can be blocked by uneven terrain.
+	- <img src="/images/learning/sera/sera_t2_torpedo_launcher.png" width="50" align="center"/> **Torpedo Launcher** - The only torpedo launcher with torpedo  defense, it has also lower HP.
+	- <img src="/images/learning/sera/sera_t2_static_shield.png" width="50" align="center"/> **Static Shield** - Best shields in the game, expensive, but the  biggest and the strongest
+	- <img src="/images/learning/sera/sera_t2_sonar.png" width="50" align="center"/> **Sonar** - Best T2 sonar, since they don't have T3 sonar. 
+	- Seraphim has no Engineering Stations
+- **Land:**
+	- <img src="/images/learning/sera/sera_t2_assault_bot.png" width="50" align="center"/> **Assault Bot** - Slow, but it has a great firing cycle for killing T1 and T2, plenty of HP, and kicks out a tonne of damage. best T2 land unit. Consider as a T2.5.
+	- <img src="/images/learning/sera/sera_t2_hover_tank.png" width="50" align="center"/> **Hover Tank** - Very fast hover tank with frontloaded firing cycle and good HP.
+	- <img src="/images/learning/sera/sera_t2_aa.png" width="50" align="center"/>  **Floating AA Flak** - Amphibious so it can support your navy. 
+- **Air:**
+	- <img src="/images/learning/sera/sera_t2_torpedo_bomber.png" width="50" align="center"/> **Torpedo Bomber** - Worst torpedo bomber. Only T2 torpedo bomber that can be countered by torpedo defence. Drop far from the boat, can result in hitting the ground.
+	- <img src="/images/learning/sera/sera_t2_transport.png" width="50" align="center"/> **Transport** - The best T2 transport of all factions. Can carry 16 T1 units or 8 T2 units or 4 T3 units.
+	- <img src="/images/learning/sera/sera_t2_fighter_bomber.png" width="50" align="center"/> **Fighter Bomber** - Does good damage, but is easily dodgeable. Good against buildings. Not great fighter.
+- **Naval:**
+	- <img src="/images/learning/sera/sera_t2_destroyer.png" width="50" align="center"/>
+        **Destroyer** - Not only does this fire lasers which never miss and never waste any damage, but the unit can be submerged to become invulnerable to surface fire. Best destroyer with micro. Poor at killing bases, since the lasers hit the terrain a lot.
+	- <img src="/images/learning/sera/sera_t2_cruiser.png" width="50" align="center"/>  **Cruiser** - Flak AA and the cruise missiles can be fired individually with good micro to kill very efficiently. Less effective against tmd.
 
-#### ![<File:Tech> 3 Icon.png](Tech_3_Icon.png "fig:File:Tech 3 Icon.png") Tech 3
-
--   **Buildings:**
-    -   <img src="Sera_T3_Static_Shield.png" title="fig:Sera_T3_Static_Shield.png" width="50" alt="Sera_T3_Static_Shield.png" />
-        **Static Shield** - Best shields in the game, expensive, but the
-        biggest and the strongest.
-    -   Seraphim has no T3 sonar.
--   **Land:**
-    -   <img src="Sera_T3_Tank.png" title="fig:Sera_T3_Tank.png" width="50" alt="Sera_T3_Tank.png" />
-        **Tanks** - Has trouble with uneven terrain and is generally
-        outclassed by the Siege bots, but has the highest DPS of any T3
-        Land once you get it fully in range, and is brilliant in a
-        well-mixed army.
-    -   <img src="Sera_T3_Mobile_Shield.png" title="fig:Sera_T3_Mobile_Shield.png" width="50" alt="Sera_T3_Mobile_Shield.png" />
-        **Mobile Shield** - Only T3 mobile shield, it's big, it's
-        strong, and it hovers so it's amphibious too.
-    -   <img src="Sera_T3_Sniper_Bot.png" title="fig:Sera_T3_Sniper_Bot.png" width="50" alt="Sera_T3_Sniper_Bot.png" />
-        **Sniper Bots** - Inaccurate while moving. Manual toggle between
-        normal and sniper modes, with sniper mode firing higher damage
-        shots at longer range, but less frequently. Good with T3 mobile
-        shield to protect them from bombers.
--   **Naval:**
-    -   <img src="Sera_T3_Sub_Hunter.png" title="fig:Sera_T3_Sub_Hunter.png" width="50" alt="Sera_T3_Sub_Hunter.png" />
-        **Submarine Hunter** - The only T3 combat submarine, it's fast,
-        it's got ridiculous torpedoes, and it has astonishing AA weapons
-        when surfaced.
+#### <img src="/images/learning/tech_3_icon.png"/> Tech 3
+- **Buildings:**
+	- <img src="/images/learning/sera/sera_t3_static_shield.png" width="50" align="center"/> **Static Shield** - Best shields in the game, expensive, but the  biggest and the strongest.
+	- Seraphim has no T3 sonar.
+- **Land:**
+	- <img src="/images/learning/sera/sera_t3_tank.png" width="50" align="center"/>  **Tanks** - Has trouble with uneven terrain and is generally outclassed by the Siege bots, but has the highest DPS of any T3 Land once you get it fully in range, and is brilliant in a well-mixed army.
+	- <img src="/images/learning/sera/sera_t3_mobile_shield.png" width="50" align="center"/> **Mobile Shield** - Only T3 mobile shield, it's big, it's strong, and it hovers so it's amphibious too.
+	- <img src="/images/learning/sera/sera_t3_sniper_bot.png" width="50" align="center"/> **Sniper Bots** - Inaccurate while moving. Manual toggle between  normal and sniper modes, with sniper mode firing higher damage shots at longer range, but less frequently. Good with T3 mobile shield to protect them from bombers.
+- **Naval:**
+	- <img src="/images/learning/sera/sera_t3_sub_hunter.png" width="50" align="center"/> **Submarine Hunter** - The only T3 combat submarine, it's fast, it's got ridiculous torpedoes, and it has astonishing AA weapons when surfaced.
     -   <img src="Sera_T3_Battleship.png" title="fig:Sera_T3_Battleship.png" width="50" alt="Sera_T3_Battleship.png" />
         **Battleship** - Solid all-around battleship, but also doubles
         as a mobile nuke platform instead of a nuke sub.
