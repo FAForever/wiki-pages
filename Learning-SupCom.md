@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-10-25T23:10:05.758Z
+date: 2021-10-25T23:10:32.216Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -110,7 +110,7 @@ As you can notice some of the videos are not mentioned below, that is because th
 
 ## Replay Analysis
 
-It's always the same, you lost a game and you are asking yourself: Why? Why have I lost? You are looking at the [replay](Replay-Vault-&-Live-Games) again and again, but there is no answer ...
+It's always the same, you lost a game and you are asking yourself: Why? Why have I lost? You are looking at the [replay](/Replay-Vault-&-Live-Games) again and again, but there is no answer ...
 
 FAF offers Replay Analysis avalable in #gameplay-and-training channel on the FAF Discord all other players who will like to help, will try to have a look on your replay and give you a feedback about your game.
 
