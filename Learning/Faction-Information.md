@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T18:53:19.366Z
+date: 2021-10-25T18:57:07.809Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -70,32 +70,11 @@ The "Turtle" faction, a name coined because this faction plays best with a slow,
 	- <img src="/images/learning/uef/uef_t3_battleship.png" width="50" align="center"/> **Battleship** - The best battleship in the game, this unit has the highest range, great damage and good HP. There are no torpedoes, nor torpedo defences, the AA is pitiful and the firing cycle of one salvo every 20 seconds makes it vulnerable to T2 hover tanks and T1 frigates.
 	- UEF has no 'traditional' T3 aircraft carrier. However, the experimental submarine Atlantis (see below) allows for production, storing and refueling of planes.
 
-#### ![<File:Tech> 4 Icon.png](Tech_4_Icon.png "fig:File:Tech 4 Icon.png") Tech 4 – Experimental
-
--   <img src="UEF_T4_Mobile_Factory.png_‎_‎" title="fig:UEF_T4_Mobile_Factory.png_‎_‎" width="50" alt="UEF_T4_Mobile_Factory.png_‎_‎" />
-    **Fatboy** – It's slow, has a large hit area, and has comparably low
-    HP. It has a bubble shield to protect itself and your army, as a
-    mobile factory it can build an army by itself and can refuel and
-    repair your aircraft. This is not a direct fire unit, it is a long
-    range artillery and should live behind the bulk of your army,
-    raining huge damage from a long distance. Extremely vulnerable to
-    attack from air.
--   <img src="UEF_T4_Aircraft_Carrier.png_‎_‎" title="fig:UEF_T4_Aircraft_Carrier.png_‎_‎" width="50" alt="UEF_T4_Aircraft_Carrier.png_‎_‎" />
-    **Atlantis** – Submersible aircraft carrier capable of building its
-    own planes. Can be used for a sneaky air attack, but its also cheap,
-    has good HP, huge vision radius, and long-range, high-damage
-    Torpedoes. One tool to counter Seraphim's T3 sub hunters.
--   <img src="UEF_T4_Satellite_Center.png_‎_‎" title="fig:UEF_T4_Satellite_Center.png_‎_‎" width="50" alt="UEF_T4_Satellite_Center.png_‎_‎" />
-    **Defense Satellite** – This unique unit is a building which spawns
-    a satellite. It can fly anywhere on the map and fire a laser down in
-    bursts. The satellite cannot be destroyed other than having a nuke
-    collide with it or destroying the building. The only other way to
-    kill it is to hit ground underneath it with a Yolona Oss missile.
--   <img src="UEF_T4_Static_Arty.png_‎_‎" title="fig:UEF_T4_Static_Arty.png_‎_‎" width="50" alt="UEF_T4_Static_Arty.png_‎_‎" />
-    **Mavor** – Experimental Strategic Artillery. This unit has
-    practically unlimited range, outstanding damage, and is extremely
-    accurate even firing at a very high distance. One of the most
-    expensive units in the game.
+#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+- <img src="/images/learning/uef/uef_t4_mobile_factory.png" width="50" align="center"/> **Fatboy** – It's slow, has a large hit area, and has comparably low HP. It has a bubble shield to protect itself and your army, as a mobile factory it can build an army by itself and can refuel and repair your aircraft. This is not a direct fire unit, it is a long range artillery and should live behind the bulk of your army, raining huge damage from a long distance. Extremely vulnerable to attack from air.
+- <img src="/images/learning/uef/uef_t4_aircraft_carrier.png" width="50" align="center"/> **Atlantis** – Submersible aircraft carrier capable of building its own planes. Can be used for a sneaky air attack, but its also cheap, has good HP, huge vision radius, and long-range, high-damage Torpedoes. One tool to counter Seraphim's T3 sub hunters.
+- <img src="/images/learning/uef/uef_t4_satellite_center.png" width="50" align="center"/> **Defense Satellite** – This unique unit is a building which spawns a satellite. It can fly anywhere on the map and fire a laser down in bursts. The satellite cannot be destroyed other than having a nuke collide with it or destroying the building. The only other way to kill it is to hit ground underneath it with a Yolona Oss missile.
+- <img src="/images/learning/uef/uef_t4_static_arty.png" width="50" align="center"/> **Mavor** – Experimental Strategic Artillery. This unit has practically unlimited range, outstanding damage, and is extremely accurate even firing at a very high distance. One of the most expensive units in the game.
 
 ## ![<File:seraphim.png>](seraphim.png "fig:File:seraphim.png") Seraphim
 
