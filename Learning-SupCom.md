@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-10-25T22:41:20.368Z
+date: 2021-10-25T23:04:55.318Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -41,7 +41,7 @@ These guides are here to show you specific strategies, and help you play to thei
 ### Reference materials and detailed game mechanics
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 - For an overview of the factions in Supreme Commander visit: [Faction Information](/Learning/Faction-Information)
-- To learn more about the specific economy of Supreme Commander visit:   [Adjacency Bonus](Adjacency_Bonus)
+- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](Adjacency_Bonus)
 - For specific Information regarding the Engy mod patch visit: [Engy Mod](Game_Modifications_(Mods)#Engy_Mod)
 - To view unit stats, anc compare units with each other, visit: [Unit Database](Unit_Database)
 - To see unit stats and calculations visit: [FA Stats And Calculations](FA_Stats_And_Calculations)
