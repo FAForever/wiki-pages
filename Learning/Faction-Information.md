@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T22:34:06.175Z
+date: 2021-10-25T22:34:29.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -213,8 +213,8 @@ Hardest faction to play. Require lot of micro. Good choice for playing on air sp
 - **Air:**
 	- <img src="/images/learning/aeon/a_t1_bomber.png" width="50" align="center"/> **Bomber** - Slightly worse than Seraphim, stuns units.
 - **Naval:**
-	- <img src="/images/learning/aeon/A_Frigate.PNG" width="50" align="center"/> **Frigate** - Has torpedo defence, no AA.
-	- <img src="/images/learning/aeon/A_T1_AA_Boat.PNG" width="50" align="center"/> **AA boat** - Very fast boat with good AA.
+	- <img src="/images/learning/aeon/a_frigate.png" width="50" align="center"/> **Frigate** - Has torpedo defence, no AA.
+	- <img src="/images/learning/aeon/a_t1_aa_boat.png" width="50" align="center"/> **AA boat** - Very fast boat with good AA.
 
 #### ![<File:Tech> 2 Icon.png](Tech_2_Icon.png "fig:File:Tech 2 Icon.png") Tech 2
 - **Buildings:**
