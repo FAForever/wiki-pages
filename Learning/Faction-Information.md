@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T21:11:36.585Z
+date: 2021-10-25T21:36:15.965Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -128,85 +128,39 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - <img src="/images/learning/sera/sera_t4_assault_bot.png" width="50" align="center"/> **Ythotha Assault Bot** - Great against groups of units with a high splash damage 'Ball of doom' cannon. When destroyed releases a highly destructive orb of lightning energy that attack any unit or structure nearby for 30 seconds.
 - <img src="/images/learning/sera/sera_t4_bomber.png" width="50" align="center"/> **Ahwassa Bomber** - Absurdly powerful bomber, it's vulnerable to interception but if this thing drops, you can assume the target died.
 - <img src="/images/learning/sera/sera_t4_nuke.png" width="50" align="center"/> **Nuke Launcher** - Hyper-expensive game-ender class mega-nuke. Each missile takes two anti-nuke missiles to defend it, the nukes load faster, they do more damage and they have a frankly ridiculous AOE.
-## ![<File:cybran.png>](cybran.png "fig:File:cybran.png") Cybran
-
-"Hit and run" Faction that is harder to master. Require more micro than
-UEF and Seraphim. Weakest ACU. Fast units that are good to combine
-mobile stealth. Worst static shields and no mobile shields. Best Cruise
-Missiles, they split into 3 smaller when hit by TMD.
-
+## <img src="/images/learning/cybran/cybran.png"> Cybran
+"Hit and run" Faction that is harder to master. Require more micro than UEF and Seraphim. Weakest ACU. Fast units that are good to combine mobile stealth. Worst static shields and no mobile shields. Best Cruise Missiles, they split into 3 smaller when hit by TMD.
 ### Description
+- <img src="/images/learning/cybran/cybran_acu.png" width="50" align="center"/> **ACU** - Least HP but slightly higher regen. Gun and tech upgrade on same arm, so you can't have both. Laser or torpedo upgrade. Stealth and expensive cloak upgrade. This ACU is best for telesnipe.
+- <img src="/images/learning/cybran/cybran_scu.png" width="50" align="center"/> **SACU** - Decent combat unit. Gun upgrade can stun units. Best nano repair upgrade. Can have AA sam upgrade or cloak upgrade.
+	- RAS upgrade and Rapid Fabricator.
 
--   <img src="Cybran_ACU.png" title="fig:Cybran_ACU.png" width="50" alt="Cybran_ACU.png" />
-    **ACU** - Least HP but slightly higher regen. Gun and tech upgrade
-    on same arm, so you can't have both. Laser or torpedo upgrade.
-    Stealth and expensive cloak upgrade. This ACU is best for telesnipe.
--   <img src="Cybran_SCU.png" title="fig:Cybran_SCU.png" width="50" alt="Cybran_SCU.png" />
-    **SACU** - Decent combat unit. Gun upgrade can stun units. Best nano
-    repair upgrade. Can have AA sam upgrade or cloak upgrade.
-    -   RAS upgrade and Rapid Fabricator.
-
-#### ![<File:Tech> 1 Icon.png](Tech_1_Icon.png "fig:File:Tech 1 Icon.png") Tech 1
-
--   **Land:**
-    -   <img src="Cybran_T1_Scout.png" title="fig:Cybran_T1_Scout.png" width="50" alt="Cybran_T1_Scout.png" />
-        **Scout** - Cloaked.
-    -   <img src="Cybran_T1_LAB.png" title="fig:Cybran_T1_LAB.png" width="50" alt="Cybran_T1_LAB.png" />
-        **Light Assault Bot** - Can shoot from transports.
-    -   <img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" />
-        **Assault Bot** - Faster than T1 tanks.
-    -   <img src="Cybran_T1_Arty.png" title="fig:Cybran_T1_Arty.png" width="50" alt="Cybran_T1_Arty.png" />
-        **Artillery** - Worst accuracy, stuns T1 and T2 units, has good
-        aoe.
-    -   <img src="Cybran_T1_Mobile_AA.png" title="fig:Cybran_T1_Mobile_AA.png" width="50" alt="Cybran_T1_Mobile_AA.png" />
-        **Mobile AA** - 2 Fire modes: Shoots air or land units.
--   **Air:**
-    -   <img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" />
-        **Bomber** - Decent.
-    -   <img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" />
-        **Gunship** - Only faction with T1 gunship.
--   **Naval:**
-    -   <img src="Cybran_T1_Frigate.png" title="fig:Cybran_T1_Frigate.png" width="50" alt="Cybran_T1_Frigate.png" />
-        **Frigate** - Known as best frigate. Good AA.
-
-#### ![<File:Tech> 2 Icon.png](Tech_2_Icon.png "fig:File:Tech 2 Icon.png") Tech 2
-
--   **Buildings:**
-    -   <img src="Cybran_T2_PD.png" title="fig:Cybran_T2_PD.png" width="50" alt="Cybran_T2_PD.png" />
-        **Point Defense** - Cheapest but weakest from all factions. Can
-        be blocked by terrain.
-    -   <img src="Cybran_T2_TML.png" title="fig:Cybran_T2_TML.png" width="50" alt="Cybran_T2_TML.png" />
-        **Tactical Missile Launcher** - Best from all factions. Missiles
-        split into 3 smaller ones when hit by TMD.
-    -   <img src="Cybran_T2_TMD.png" title="fig:Cybran_T2_TMD.png" width="50" alt="Cybran_T2_TMD.png" />
-        **TMD** - Best from all factions.
-    -   <img src="Cybran_T2_Static_Shield.png" title="fig:Cybran_T2_Static_Shield.png" width="50" alt="Cybran_T2_Static_Shield.png" />
-        **Static Shield** - Weakest from all factions, but also
-        cheapest. Can be upgraded 4 times.
-    -   <img src="Cybran_T2_Engineering_Station.png" title="fig:Cybran_T2_Engineering_Station.png" width="50" alt="Cybran_T2_Engineering_Station.png" />
-        **Engineering Station** - Assist everything in its range, can be
-        upgraded 2 times.
--   **Land:**
-    -   <img src="Cybran_T2_Rocket_Bot.png" title="fig:Cybran_T2_Rocket_Bot.png" width="50" alt="Cybran_T2_Rocket_Bot.png" />
-        **Rocket Bot** - Big range with low damage. Great if combined
-        with mobile stealth field.
-    -   <img src="Cybran_T2_Tank.png" title="fig:Cybran_T2_Tank.png" width="50" alt="Cybran_T2_Tank.png" />
-        **Tank Rhino** - Strong tank. Good if mixed with T1 artillery.
-    -   <img src="Cybran_T2_Hover_Tank.png" title="fig:Cybran_T2_Hover_Tank.png" width="50" alt="Cybran_T2_Hover_Tank.png" />
-        **Tank Wagner** - Very fast amphibious tank that travels on the
-        seafloor instead of on the surface.
-    -   <img src="Cybran_T2_MML.png" title="fig:Cybran_T2_MML.png" width="50" alt="Cybran_T2_MML.png" />
-        **Mobile Missile Launcher** - Best from all factions. Rapid
-        firing with low damage but missiles splits into 3 when hit by
-        TMD.
-    -   <img src="Cybran_T2_Mobile_Bomb.png" title="fig:Cybran_T2_Mobile_Bomb.png" width="50" alt="Cybran_T2_Mobile_Bomb.png" />
-        **Mobile Bomb** - Low HP and medium damage, big explosions stun
-        all units (except experimentals) that survive the explosion.
-        Devastating with transports.
-    -   <img src="Cybran_T2_Mobile_Stealth.png" title="fig:Cybran_T2_Mobile_Stealth.png" width="50" alt="Cybran_T2_Mobile_Stealth.png" />
-        **Mobile Stealth Field** - Cybran is the only faction with
-        mobile stealth field. Great Support for T2 and T3 units hiding
-        them from enemy radars.
+#### <img src="/images/learning/tech_1_icon.png"> Tech 1
+- **Land:**
+	- <img src="/images/learning/cybran/cybran_t1_scout.png" width="50" align="center"/> **Scout** - Cloaked.
+	- <img src="/images/learning/cybran/cybran_t1_lab.png" width="50" align="center" /> **Light Assault Bot** - Can shoot from transports.
+	- <img src="/images/learning/cybran/cybran_t1_assault_bot.png" width="50" align="center"/> **Assault Bot** - Faster than T1 tanks.
+	- <img src="/images/learning/cybran/cybran_t1_arty.png" width="50" align="center"/> **Artillery** - Worst accuracy, stuns T1 and T2 units, has good aoe.
+	- <img src="/images/learning/cybran/cybran_t1_mobile_aa.png" width="50" align="center"/> **Mobile AA** - 2 Fire modes: Shoots air or land units.
+- **Air:**
+	- <img src="/images/learning/cybran/cybran_t1_bomber.png" width="50" align="center"/> **Bomber** - Decent.
+	- <img src="/images/learning/cybran/cybran_t1_gunship.png" width="50" align="center"/> **Gunship** - Only faction with T1 gunship.
+- **Naval:**
+	- <img src="/images/learning/cybran/cybran_t1_frigate.png" width="50" align="center"/> **Frigate** - Known as best frigate. Good AA.
+#### <img src="/images/learning/tech_2_icon.png"> Tech 2
+- **Buildings:**
+	- <img src="/images/learning/cybran/cybran_t2_pd.png" width="50" align="center"/> **Point Defense** - Cheapest but weakest from all factions. Can be blocked by terrain.
+	- <img src="/images/learning/cybran/cybran_t2_tml.png" width="50" align="center"/> **Tactical Missile Launcher** - Best from all factions. Missiles split into 3 smaller ones when hit by TMD.
+	- <img src="/images/learning/cybran/cybran_t2_tmd.png" width="50" align="center"/>  **TMD** - Best from all factions.
+	- <img src="/images/learning/cybran/cybran_t2_static_shield.png" width="50" align="center"/> **Static Shield** - Weakest from all factions, but also cheapest. Can be upgraded 4 times.
+	- <img src="/images/learning/cybran/cybran_t2_engineering_station.png" width="50" align="center"/> **Engineering Station** - Assist everything in its range, can be upgraded 2 times.
+- **Land:**
+	- <img src="/images/learning/cybran/cybran_t2_rocket_bot.png" width="50" align="center"/> **Rocket Bot** - Big range with low damage. Great if combined with mobile stealth field.
+	- <img src="/images/learning/cybran/cybran_t2_tank.png" width="50" align="center"/> **Tank Rhino** - Strong tank. Good if mixed with T1 artillery. 
+	- <img src="/images/learning/cybran/cybran_t2_hover_tank.png" width="50" align="center"/> **Tank Wagner** - Very fast amphibious tank that travels on the seafloor instead of on the surface.
+	- <img src="/images/learning/cybran/cbran_t2_mml.png" width="50" align="center"/> **Mobile Missile Launcher** - Best from all factions. Rapid firing with low damage but missiles splits into 3 when hit by TMD.
+	- <img src="/images/learning/cybran/cybran_t2_mobile_bomb.png" width="50" align="center"/> **Mobile Bomb** - Low HP and medium damage, big explosions stun all units (except experimentals) that survive the explosion. Devastating with transports.
+	- <img src="/images/learning/cybran/cybran_t2_mobile_stealth.png" width="50" align="center"/> **Mobile Stealth Field** - Cybran is the only faction with mobile stealth field. Great Support for T2 and T3 units hiding them from enemy radars.
 -   **Air:**
     -   <img src="Cybran_T2_Fighter_Bomber.png" title="fig:Cybran_T2_Fighter_Bomber.png" width="50" alt="Cybran_T2_Fighter_Bomber.png" />
         **Figher/Bomber** - Great bomber with splash damage. Weak AA.
