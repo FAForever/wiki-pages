@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T18:50:18.995Z
+date: 2021-10-25T18:53:19.366Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -65,21 +65,10 @@ The "Turtle" faction, a name coined because this faction plays best with a slow,
 - **Air:**
 	- <img src="/images/learning/uef/uef_t3_gunship.png" width="50" align="center"/> **Gunships** – High damage and lots of HP, but virtually no AA.
 	- <img src="/images/learning/uef/uef_t3_transport.png" width="50" align="center"/> **Transports** – The only T3 Transport, this unit is fast, has powerful anti-air, is shielded, and can carry 6 T3 units or an entire army of lower tech. Consumes high amounts of energy to keep the personal shield alive.
--   **Naval:**
-	-   <img src="UEF_T3_Battlecruiser.png_‎_‎" title="fig:UEF_T3_Battlecruiser.png_‎_‎" width="50" alt="UEF_T3_Battlecruiser.png_‎_‎" />
-        **Battlecruiser** – A unit that strikes fear into T2 navies,
-        combined with the T2 shield boat and torpedo boat this creates a
-        strong counter to T1 and T2 navy. Has high range and powerful
-        beam-weapons. It is beaten by battleships.
-	-   <img src="UEF_T3_Battleship.png_‎_‎" title="fig:UEF_T3_Battleship.png_‎_‎" width="50" alt="UEF_T3_Battleship.png_‎_‎" />
-        **Battleship** - The best battleship in the game, this unit has
-        the highest range, great damage and good HP. There are no
-        torpedoes, nor torpedo defences, the AA is pitiful and the
-        firing cycle of one salvo every 20 seconds makes it vulnerable
-        to T2 hover tanks and T1 frigates.
-	-   UEF has no 'traditional' T3 aircraft carrier. However, the
-        experimental submarine Atlantis (see below) allows for
-        production, storing and refueling of planes.
+- **Naval:**
+	- <img src="/images/learning/uef/uef_t3_battlecruiser.png" width="50" align="center"/> **Battlecruiser** – A unit that strikes fear into T2 navies, combined with the T2 shield boat and torpedo boat this creates a strong counter to T1 and T2 navy. Has high range and powerful beam-weapons. It is beaten by battleships.
+	- <img src="/images/learning/uef/uef_t3_battleship.png" width="50" align="center"/> **Battleship** - The best battleship in the game, this unit has the highest range, great damage and good HP. There are no torpedoes, nor torpedo defences, the AA is pitiful and the firing cycle of one salvo every 20 seconds makes it vulnerable to T2 hover tanks and T1 frigates.
+	- UEF has no 'traditional' T3 aircraft carrier. However, the experimental submarine Atlantis (see below) allows for production, storing and refueling of planes.
 
 #### ![<File:Tech> 4 Icon.png](Tech_4_Icon.png "fig:File:Tech 4 Icon.png") Tech 4 – Experimental
 
