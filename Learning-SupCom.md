@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-10-25T23:09:29.007Z
+date: 2021-10-25T23:10:05.758Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -46,7 +46,7 @@ This section is for specific information on units, game mechanics and other fact
 - To view unit stats, anc compare units with each other, visit: [Unit Database](/Unit-Database)
 - To see unit stats and calculations visit: [FA Stats And Calculations](/Learning/FA-Stats-And-Calculations)
 - To view specific info about tactical and strategic missiles, visit: [Missiles](/Learning/Missiles)
-- Capacity of several air transports: [Air Transport](Air_Transport)
+- Capacity of several air transports: [Air Transport](/Learning/Air-Transport)
 
 ## Tutorial Videos
 
