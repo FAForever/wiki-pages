@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T20:33:45.679Z
+date: 2021-10-25T21:11:36.585Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -123,26 +123,11 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 	- <img src="/images/learning/sera/sera_t3_sniper_bot.png" width="50" align="center"/> **Sniper Bots** - Inaccurate while moving. Manual toggle between  normal and sniper modes, with sniper mode firing higher damage shots at longer range, but less frequently. Good with T3 mobile shield to protect them from bombers.
 - **Naval:**
 	- <img src="/images/learning/sera/sera_t3_sub_hunter.png" width="50" align="center"/> **Submarine Hunter** - The only T3 combat submarine, it's fast, it's got ridiculous torpedoes, and it has astonishing AA weapons when surfaced.
-    -   <img src="Sera_T3_Battleship.png" title="fig:Sera_T3_Battleship.png" width="50" alt="Sera_T3_Battleship.png" />
-        **Battleship** - Solid all-around battleship, but also doubles
-        as a mobile nuke platform instead of a nuke sub.
-
-#### ![<File:Tech> 4 Icon.png](Tech_4_Icon.png "fig:File:Tech 4 Icon.png") Tech 4 – Experimental
-
--   <img src="Sera_T4_Assault_Bot.png" title="fig:Sera_T4_Assault_Bot.png" width="50" alt="Sera_T4_Assault_Bot.png" />
-    **Ythotha Assault Bot** - Great against groups of units with a high
-    splash damage 'Ball of doom' cannon. When destroyed releases a
-    highly destructive orb of lightning energy that attack any unit or
-    structure nearby for 30 seconds.
--   <img src="Sera_T4_Bomber.png" title="fig:Sera_T4_Bomber.png" width="50" alt="Sera_T4_Bomber.png" />
-    **Ahwassa Bomber** - Absurdly powerful bomber, it's vulnerable to
-    interception but if this thing drops, you can assume the target
-    died.
--   <img src="Sera_T4_Nuke.png" title="fig:Sera_T4_Nuke.png" width="50" alt="Sera_T4_Nuke.png" />
-    **Nuke Launcher** - Hyper-expensive game-ender class mega-nuke. Each
-    missile takes two anti-nuke missiles to defend it, the nukes load
-    faster, they do more damage and they have a frankly ridiculous AOE.
-
+	- <img src="/images/learning/sera/sera_t3_battleship.png" width="50" align="center"/> **Battleship** - Solid all-around battleship, but also doubles as a mobile nuke platform instead of a nuke sub.
+#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+- <img src="/images/learning/sera/sera_t4_assault_bot.png" width="50" align="center"/> **Ythotha Assault Bot** - Great against groups of units with a high splash damage 'Ball of doom' cannon. When destroyed releases a highly destructive orb of lightning energy that attack any unit or structure nearby for 30 seconds.
+- <img src="/images/learning/sera/sera_t4_bomber.png" width="50" align="center"/> **Ahwassa Bomber** - Absurdly powerful bomber, it's vulnerable to interception but if this thing drops, you can assume the target died.
+- <img src="/images/learning/sera/sera_t4_nuke.png" width="50" align="center"/> **Nuke Launcher** - Hyper-expensive game-ender class mega-nuke. Each missile takes two anti-nuke missiles to defend it, the nukes load faster, they do more damage and they have a frankly ridiculous AOE.
 ## ![<File:cybran.png>](cybran.png "fig:File:cybran.png") Cybran
 
 "Hit and run" Faction that is harder to master. Require more micro than
