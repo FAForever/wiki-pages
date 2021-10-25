@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-25T14:49:50.439Z
+date: 2021-10-25T14:51:37.859Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -40,9 +40,8 @@ You may be tempted to use an early Jester, which can work very well if your oppo
 On amphibious maps, you will have trouble against Aeon and Seraphim. If you expect units to be appearing across a body of water, you need to make early frigates if you can, and fortunately your frigate is the most mass efficient one of the four factions, but you will be behind on land units if you do this due to the high mass investment required for naval units. You may also have some success with early Jesters if you can secure air control. Fortunately for Cybran (and UEF), a number of these maps have been removed from the [map pool](Ladder_Map_Pool "wikilink"), meaning being blindsided by this is less likely now.
 
 ## Small Maps
-## Small Maps{.tabset}
 A lot of games on small maps in particular are decided by the "basics" - better raiding, eco balance, unit micro and knowing when to attack, when to upgrade your ACU/land factory/eco or how to take advantage of it when your opponent does these things. You can't do this stuff worse than your opponent and expect to win often. Cybran is a bit under rated on small land maps due to the low hit points of their units. However Cybran offers you unique ways to win.
-
+## Small Maps{.tabset}
 ### Summary
 - Use small groups of Mantis to continue to raid when possible.
 - The more stable the front lines appear, the more Medusa you make - doubly so once you get Rhinos.
@@ -90,7 +89,6 @@ You should also try and get Tech 2 before your enemy either starts to get domina
 For more information, see the <a href="/learning/Aeon-1v1-Guide">Aeon 1v1 Guide</a>.
 
 ## Medium Maps
-## Medium maps{.tabset}
 The theme of aggressive Mantis use in the early game and on small maps continues, and becomes most important, on 10x10 maps. The likelihood of getting early LABs to unguarded engineers that Mantis cannot reach is even lower on larger maps, and if the map is open then having units in more places, denying more expansions, is easier with Cybran. Remember to use your Mantis to defend enemy raids, it should be harder for enemy units to get in behind your forces and start killing expansions and expanding engineers. The period of raiding on a medium sized map will generally continue for longer, particularly if you get on top and use a Cybran style to get ahead.
 
 Larger maps may also delay the point at which large armies will start to face off, and therefore the time you should start making more artillery. This point often coincides with the point at which you get Tech 2 land, when your Tech 1 land production should switch to largely or wholly Medusa in any case.
@@ -98,7 +96,7 @@ Larger maps may also delay the point at which large armies will start to face of
 The slow travel time of the Jester becomes more of a factor – it is easier to detect it before it gets to crucial engineers and mexes, and you may have to choose between having air units out of position to defend it, or having it picked off before it has paid for itself. It still provides you with the opportunity to have a gunship, and indeed possibly an air snipe, without upgrading your air factory and still has a place on medium sized maps to raid and exploit an air advantage. 
 
 A number of high-mass or particularly defensive maps will more often require some of the advice found in the Large Maps section.
-
+## Medium maps{.tabset}
 ### Summary
 - T2 Cybran land needs a critical mass of Rhinos and Medusas to be effective.
 - Managing this transition can be easier if you cause disruption with the speed of the Mantis or a handful of other faster T2 units.
@@ -158,9 +156,8 @@ You also need to be aware of factions that will rush Tech 3, particularly on hig
 One option for delaying T3 rushes is to get your T2 air earlier than you might otherwise have done as a Cybran player. Cybran T2 air can defend better against T1 land than other factions’ T2 Air, and the Corsair is the best sniping fighterbomber. Often, this is used to end the game with an ACU snipe, but you should consider T2 power or HQ sniping, which can seriously delay T3 land and secure an air advantage for you and can be done with little resource investment. Getting T2 air when behind in land units is still quite a risky move.
 
 ## Naval Maps
-## Naval Maps{.tabset}
 There are a number of medium sized maps that suit Cybran, not due to their openness but due to the large bodies of water. Cybran navy at the Tech 1 and Tech 2 level is arguably the strongest in the game due to Cybran's typical flexibility and use of stealth, and in most 1v1s Tech 1 and Tech 2 navy is enough to secure victory.
-
+## Naval Maps{.tabset}
 ### Summary
 - The [Trident frigate](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0103) is mass efficient at killing other navy units, with great AA. Use it to get ahead or win at the T1 stage, then as intelligence and a meatshield support for T2.
 - Use [stealth](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0305,URL0306,XRS0205,URB4203) to greatly reduce the damage taken by your navy at range during the T2 phase.
@@ -200,10 +197,8 @@ Air play is very important on naval maps. Frigates are everywhere, which makes s
 T2 air is more useful against navy, as torpedo bombers and Corsairs can actually mass efficiently snipe cruisers, particularly in smaller numbers. The missiles of the Corsair allow it to apply more damage than other fighterbombers, particularly when sniping ships protected by some anti-air. They are less mass efficient than torpedo bombers, but more flexible as they can also hit hovering units, targets on land and deal splash damage, which can be valuable when killing engineers assisting a factory.
 
 ## Large Maps
-## Large Maps{.tabset}
-
 Most large map 1v1s are an incredible drain on your multitasking. They often play like a number of simultaneous 10x10 maps. As a result they often have a similar play time as the more high-eco defensive medium-sized maps. The commonly played 1v1 20km maps all involve at least some element of naval play, as only Crossfire Canal has more land than water of the current common 20km 1v1 maps. T3 Air becomes much more common, and important - you probably won't win a 20x20 game if you lose a big ASF fight. There is generally less of an investment in land - drops and T2 amphibious raiding are more common than a full T3 land army. The general strengths and play style of Cybran remain - you want to decide the game earlier rather than later with your aggressive, flexible T2 options. This aggression must be effective against good players, or the reclaim from the fights will simply feed the late game eco and tech that you will have more difficulty killing. You have a clear T3 naval disadvantage to the UEF. You have a possible air disadvantage due to your lack of an Advanced Resource Allocation System (ARAS) upgrade on your ACU, which slows the necessary increase in mid/late game ASF production compared to Seraphim and particularly Aeon, who are likely to have secured air superiority already during any T2 phase with their Swift Winds.
-
+## Large Maps{.tabset}
 ### Summary
 - Getting an advantage, if not victory, before the late game is more important for Cybran. A strong T2 navy, stealthed drops and Corsairs help.
 - T3 air control is critical on most 20k maps, try and get there as early as you can afford to compensate for your lack of ARAS.
