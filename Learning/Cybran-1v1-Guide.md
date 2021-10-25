@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-24T23:56:41.608Z
+date: 2021-10-25T00:00:51.271Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -512,40 +512,23 @@ There are a number of medium sized maps that suit Cybran, not due to their openn
 - Click on the sections below for more information.
 
 ### ![<File:T1_navy.png>](T1_navy.png "fig:File:T1_navy.png") Tech 1
+<img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" /><img src="Cybran_T1_Frigate.png" title="fig:Cybran_T1_Frigate.png" width="50" alt="Cybran_T1_Frigate.png" />
+Should you have survived the early game phase reasonably intact against Auroras and Zthuees, you will suddenly have a massive advantage against an opponent that has over invested in floating land units. Remember when sending your frigates off to plow through streams of Zthuee that you should queue up a zigzag movement to avoid artillery shells. Aurora will simply die horribly to frigates, which you should have invested more in if you appear to be having trouble with T1 amphibious units in the early game.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="A_T1_Tank.PNG" title="fig:A_T1_Tank.PNG" width="50" alt="A_T1_Tank.PNG" /><img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" /><img src="Cybran_T1_Frigate.png" title="fig:Cybran_T1_Frigate.png" width="50" alt="Cybran_T1_Frigate.png" /> Should you have survived the early game phase reasonably intact against Auroras and Zthuees, you will suddenly have a massive advantage against an opponent that has over invested in floating land units. Remember when sending your frigates off to plow through streams of Zthuee that you should queue up a zigzag movement to avoid artillery shells. Aurora will simply die horribly to frigates, which you should have invested more in if you appear to be having trouble with T1 amphibious units in the early game.</p>
-<p>Cybran frigates are the most mass efficient in the game, with excellent anti-air as well. You can use this to gain a considerable naval advantage – make sure to build and use your submarines as you need – only as a counter for other submarines. If you are losing on subs and winning on frigates, this means you can probably raid your enemy’s naval production.</p>
-<ul>
-<li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0103,UAS0103,UES0103,XSS0103">T1 Frigates</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Cybran frigates are the most mass efficient in the game, with excellent anti-air as well. You can use this to gain a considerable naval advantage – make sure to build and use your submarines as you need – only as a counter for other submarines. If you are losing on subs and winning on frigates, this means you can probably raid your enemy’s naval production.
+- Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0103,UAS0103,UES0103,XSS0103">T1 Frigates</a>
 
 ### ![<File:T2_navy.png>](T2_navy.png "fig:File:T2_navy.png") Tech 2
+<img src="Cybran_T2_Destroyer.png" title="fig:Cybran_T2_Destroyer.png" width="50" alt="Cybran_T2_Destroyer.png" />
+Regardless of whether or not you secure an advantage with your frigates, you will probably need Tech 2 on naval maps, as these units can confirm that you win navy and also start destroying eco much more effectively. The Salem destroyer is a useful all round destroyer, with strong anti-air and anti-torpedo defence, with the one blind spot of being unable to fire directly backwards, which means you can lose them to bad micro. Try not to directly retreat them from danger when you have to move backwards, and avoid sending them in ahead of a frigate so they do not get surrounded or easily targeted.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T2_Destroyer.png" title="fig:Cybran_T2_Destroyer.png" width="50" alt="Cybran_T2_Destroyer.png" /> Regardless of whether or not you secure an advantage with your frigates, you will probably need Tech 2 on naval maps, as these units can confirm that you win navy and also start destroying eco much more effectively. The Salem destroyer is a useful all round destroyer, with strong anti-air and anti-torpedo defence, with the one blind spot of being unable to fire directly backwards, which means you can lose them to bad micro. Try not to directly retreat them from danger when you have to move backwards, and avoid sending them in ahead of a frigate so they do not get surrounded or easily targeted.</p>
-<p><img src="Cybran_T2_Stealth_Boat.png" title="fig:Cybran_T2_Stealth_Boat.png" width="50" alt="Cybran_T2_Stealth_Boat.png" /><img src="Cybran_T3_Sonar.png" title="fig:Cybran_T3_Sonar.png" width="50" alt="Cybran_T3_Sonar.png" /> Your main advantage with in a T2 naval duel as a Cybran player is stealth. If you are able to get a Mermaid stealth boat or a T3 sonar (which requires T2 power to run, but will give you sonar coverage of the entire map) with your destroyers and frigates and deny air spotters, you will have a huge advantage. You can deny these spotters with your own interceptors or a cruiser, but if the enemy is persistent they should be able to get sporadic intel on your navy. When they are unable to do this, you will have near immunity from damage, as most naval fights at least start out of vision radius. Don’t charge in, especially with your destroyers, and kite when you can (remembering the blind spot for Salems) to exploit this to the full.</p>
-<ul>
-<li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0201,UAS0201,UES0201,XSS0201">T2 Destroyers</a></li>
-</ul>
-<p><img src="Cybran_T2_Sub_Hunter.png" title="fig:Cybran_T2_Sub_Hunter.png" width="50" alt="Cybran_T2_Sub_Hunter.png" /><img src="Sera_T2_Destroyer.png" title="fig:Sera_T2_Destroyer.png" width="50" alt="Sera_T2_Destroyer.png" /><img src="UEF_T2_Torpedo_Boat.png" title="fig:UEF_T2_Torpedo_Boat.png" width="50" alt="UEF_T2_Torpedo_Boat.png" /> The stealthy Barracuda sub can also win you games, particularly against Seraphim at balance patch 3640, as they are very efficient against Sera destroyers, who are the only Seraphim T2 anti-sub unit. Barracudas are particularly strong if you can kite with them and stay out of vision radius – all factions lack a naval omni unit other than the ACU itself. If you go for this option remember to focus heavily on your sub spam – any surface units will die quickly to focus fire from the destroyers. Surface units include engineers and naval yards, so if you are losing navy to Seraphim the transition, you may not want to use Subs to win at T2. You can also use Barracudas against a UEF player that neglects to build Cooper torpedo boats, but it is not difficult to fix this mistake so be cautious about overinvesting in this case. Both UEF and Seraphim can be beaten by a normal surface Cybran navy at T2.</p>
+<img src="Cybran_T2_Stealth_Boat.png" title="fig:Cybran_T2_Stealth_Boat.png" width="50" alt="Cybran_T2_Stealth_Boat.png" /><img src="Cybran_T3_Sonar.png" title="fig:Cybran_T3_Sonar.png" width="50" alt="Cybran_T3_Sonar.png" />
+Your main advantage with in a T2 naval duel as a Cybran player is stealth. If you are able to get a Mermaid stealth boat or a T3 sonar (which requires T2 power to run, but will give you sonar coverage of the entire map) with your destroyers and frigates and deny air spotters, you will have a huge advantage. You can deny these spotters with your own interceptors or a cruiser, but if the enemy is persistent they should be able to get sporadic intel on your navy. When they are unable to do this, you will have near immunity from damage, as most naval fights at least start out of vision radius. Don’t charge in, especially with your destroyers, and kite when you can (remembering the blind spot for Salems) to exploit this to the full.
+
+- Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0201,UAS0201,UES0201,XSS0201">T2 Destroyers</a>
+
+<img src="Cybran_T2_Sub_Hunter.png" title="fig:Cybran_T2_Sub_Hunter.png" width="50" alt="Cybran_T2_Sub_Hunter.png" /><img src="Sera_T2_Destroyer.png" title="fig:Sera_T2_Destroyer.png" width="50" alt="Sera_T2_Destroyer.png" /><img src="UEF_T2_Torpedo_Boat.png" title="fig:UEF_T2_Torpedo_Boat.png" width="50" alt="UEF_T2_Torpedo_Boat.png" />
+The stealthy Barracuda sub can also win you games, particularly against Seraphim at balance patch 3640, as they are very efficient against Sera destroyers, who are the only Seraphim T2 anti-sub unit. Barracudas are particularly strong if you can kite with them and stay out of vision radius – all factions lack a naval omni unit other than the ACU itself. If you go for this option remember to focus heavily on your sub spam – any surface units will die quickly to focus fire from the destroyers. Surface units include engineers and naval yards, so if you are losing navy to Seraphim the transition, you may not want to use Subs to win at T2. You can also use Barracudas against a UEF player that neglects to build Cooper torpedo boats, but it is not difficult to fix this mistake so be cautious about overinvesting in this case. Both UEF and Seraphim can be beaten by a normal surface Cybran navy at T2.</p>
 <ul>
 <li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=,XRS0204XAS0204,XES0102,XSS0201">T2 Submarines/Torpedo Boat</a>
 <ul>
