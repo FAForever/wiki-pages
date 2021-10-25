@@ -2,50 +2,48 @@
 title: Adjacency-Bonus
 description: 
 published: true
-date: 2021-10-25T22:50:09.065Z
+date: 2021-10-25T23:00:09.695Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
 ---
 
 # Adjacency Bonus
-<img src="/images/learning/adjacency/adjacency.jpg" width="420" align="right"/> 
+
 The Adjacency Bonus is a [game mechanic](/Learning_SupCom#Tutorial_Videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
 
 ## General
+<img src="/images/learning/adjacency/adjacency_diagram.png" width="450" align="right"/> 
+To have an adjacency bonus, there must be two structures placed next to each other; one giving the bonus and one receiving it.
 
-![](Adjacency_Diagram.png "fig:Adjacency_Diagram.png") To have an adjacency bonus, there must be two structures placed next to each other; one giving the bonus and one receiving it.
-
--   Any structure which produces a resource is a bonus giver.
--   Any structure consuming a resource is a bonus receiver, including other bonus givers (upgrading mass extractors)
--   Additionally, Storages are bonus givers to resource producing buildings.
--   Doubling the number of adjacent bonus givers next to a structure doubles the adjacency bonus on that structure.
+- Any structure which produces a resource is a bonus giver.
+- Any structure consuming a resource is a bonus receiver, including other bonus givers (upgrading mass extractors)
+- Additionally, Storages are bonus givers to resource producing buildings.
+- Doubling the number of adjacent bonus givers next to a structure doubles the adjacency bonus on that structure.
 
 The Bonus amount is dependent on the number of bonus givers which can fit around a bonus receiver. (minimum:4 maximum:16) This means that the larger a bonus receiver the more bonus givers must be next to it to give the same bonus.
 Examples:
-
 - A factory surrounded by 16 T1 power generators receives the same discount as a radar surrounded by 4 T1 power generators.
 - A mass extractor surrounded by 4 storages receives the same percentage production bonus as a T3 mass fabricator surrounded by 12 mass storages.
 
 ## Consumption Bonus
-
 A structure which produces a resource gives a discount to all structures next to it which consume that resource. It should be noted that only structures receive this bonus, **not any engineers or engineering stations assisting them**.
 
-### <img src="Mass_Icon.png" title="fig:Mass_Icon.png" width="30" alt="Mass_Icon.png" /> Mass
+### <img src="/images/learning/adjacency/mass_icon.png" width="30"/> Mass
 
 The values in this table are given for **one** mass producing structure next to a 4x4 building; more mass producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in game, and should not be used for calculations.
 
 | Mass Producing Structures                                                                                                                      | Discount Percentage | Typical Discount value                                                  | Comments                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="UEF_T1_Mass_Extractor.png" title="fig:UEF_T1_Mass_Extractor.png" width="40" alt="UEF_T1_Mass_Extractor.png" /> T1 Mass Extractor     | 7.5%                | 0.3-1 ![<File:Mass_Icon.png>](Mass_Icon.png "fig:File:Mass_Icon.png")   | Useful next to T1 Land Factories, if you're not going to eco much.                                                                                  |
-| <img src="UEF_T2_Mass_Extractor.png" title="fig:UEF_T2_Mass_Extractor.png" width="40" alt="UEF_T2_Mass_Extractor.png" /> T2 Mass Extractor     | 10%                 | 1-2 ![<File:Mass_Icon.png>](Mass_Icon.png "fig:File:Mass_Icon.png")     | Useful next to T2 Land Factories.                                                                                                                   |
-| <img src="UEF_T3_Mass_Extractor.png" title="fig:UEF_T3_Mass_Extractor.png" width="40" alt="UEF_T3_Mass_Extractor.png" /> T3 Mass Extractor     | 12.5%               | 2-4 ![<File:Mass_Icon.png>](Mass_Icon.png "fig:File:Mass_Icon.png")     | Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%.                                                                          |
-| <img src="UEF_T2_Mass_Fabricator.png" title="fig:UEF_T2_Mass_Fabricator.png" width="40" alt="UEF_T2_Mass_Fabricator.png" /> T2 Mass Fabricator | 1.25%               | 0.1-0.3 ![<File:Mass_Icon.png>](Mass_Icon.png "fig:File:Mass_Icon.png") | Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply.                                                                |
-| <img src="UEF_T3_Mass_Fabricator.png" title="fig:UEF_T3_Mass_Fabricator.png" width="40" alt="UEF_T3_Mass_Fabricator.png" /> T3 Mass Fabricator | 20%                 | 2-4 ![<File:Mass_Icon.png>](Mass_Icon.png "fig:File:Mass_Icon.png")     | Useful next to T3 factories and high mass consuming structures (20/s or more). Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%. |
+| <img src="/images/learning/adjacency/uef_t1_mass_extractor.png" width="40" align="center"/> T1 Mass Extractor     | 7.5%                | 0.3-1 ![<File:Mass_Icon.png>](/images/learning/adjacency/mass_icon.png)   | Useful next to T1 Land Factories, if you're not going to eco much.                                                                                  |
+| <img src="/images/learning/adjacency/uef_t2_mass_extractor.png" width="40" align="center"/> T2 Mass Extractor     | 10%                 | 1-2 ![<File:Mass_Icon.png>](/images/learning/adjacency/mass_icon.png)     | Useful next to T2 Land Factories.                                                                                                                   |
+| <img src="/images/learning/adjacency/uef_t3_mass_extractor.png" width="40" align="center" /> T3 Mass Extractor     | 12.5%               | 2-4 ![<File:Mass_Icon.png>](/images/learning/adjacency/mass_icon.png)     | Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%.                                                                          |
+| <img src="/images/learning/adjacency/uef_t2_mass_fabricator.png" width="40" align="center" /> T2 Mass Fabricator | 1.25%               | 0.1-0.3 ![<File:Mass_Icon.png>](/images/learning/adjacency/mass_icon.png) | Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply.                                                                |
+| <img src="/images/learning/adjacency/uef_t3_mass_fabricator.png" width="40" align="center" /> T3 Mass Fabricator | 20%                 | 2-4 ![<File:Mass_Icon.png>](/images/learning/adjacency/mass_icon.png)     | Useful next to T3 factories and high mass consuming structures (20/s or more). Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%. |
 
 Buildings which give mass discount bonuses
 
-### <img src="Energy_Icon.png" title="fig:Energy_Icon.png" width="30" alt="Energy_Icon.png" /> Energy
+### <img src="/images/learning/adjacency/energy_icon.png" width="30" /> Energy
 
 The percentage discount value depends on how much of the structure in question is surrounded by power generators - as structures can be of different sizes, different numbers of pgens fit around them. This means that a factory that is 50% surrounded with 8 T1 pgens will receive the same bonus as, a radar surrounded by 2 T1 pgens - 12.5% for both. In this table the discount percentages are shown for a **fully surrounded** structure.
 
