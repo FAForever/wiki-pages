@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T18:57:07.809Z
+date: 2021-10-25T19:04:17.259Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -76,25 +76,14 @@ The "Turtle" faction, a name coined because this faction plays best with a slow,
 - <img src="/images/learning/uef/uef_t4_satellite_center.png" width="50" align="center"/> **Defense Satellite** – This unique unit is a building which spawns a satellite. It can fly anywhere on the map and fire a laser down in bursts. The satellite cannot be destroyed other than having a nuke collide with it or destroying the building. The only other way to kill it is to hit ground underneath it with a Yolona Oss missile.
 - <img src="/images/learning/uef/uef_t4_static_arty.png" width="50" align="center"/> **Mavor** – Experimental Strategic Artillery. This unit has practically unlimited range, outstanding damage, and is extremely accurate even firing at a very high distance. One of the most expensive units in the game.
 
-## ![<File:seraphim.png>](seraphim.png "fig:File:seraphim.png") Seraphim
-
-The other 'Beginner' faction, the Seraphim generally make up for their
-lack of unique units with extremely powerful all-rounders. Who needs a
-specialist shield killer when you can just blow the front door down?
+## <img src="/images/learning/sera/seraphim.png"> Seraphim
+The other 'Beginner' faction, the Seraphim generally make up for their lack of unique units with extremely powerful all-rounders. Who needs a specialist shield killer when you can just blow the front door down?
 
 ### Description
-
--   <img src="Sera_ACU.png" title="fig:Sera_ACU.png" width="50" alt="Sera_ACU.png" />
-    **ACU** - Good HP, fearsome TML upgrade, and access to dual-RAS,
-    dual-repair, a restoration field for your units, or dual-gun
-    upgrades, this is a very powerful ACU.
--   <img src="Sera_SCU.png" title="fig:Sera_SCU.png" width="50" alt="Sera_SCU.png" />
-    **SACU** - Overcharge and shield upgrades make this one of the
-    strongest combatants of any type in the entire game, but it's highly
-    micro dependant. Also has teleporter access. Has no RAS.
+- <img src="/images/learning/sera/sera_acu.png" width="50" align="center"/> **ACU** - Good HP, fearsome TML upgrade, and access to dual-RAS, dual-repair, a restoration field for your units, or dual-gun upgrades, this is a very powerful ACU.
+- <img src="/images/learning/sera/sera_scu.png" width="50" align="center"/> **SACU** - Overcharge and shield upgrades make this one of the strongest combatants of any type in the entire game, but it's highly micro dependant. Also has teleporter access. Has no RAS.
 
 #### ![<File:Tech> 1 Icon.png](Tech_1_Icon.png "fig:File:Tech 1 Icon.png") Tech 1
-
 -   **Land:**
     -   <img src="Sera_T1_Scout.png" title="fig:Sera_T1_Scout.png" width="50" alt="Sera_T1_Scout.png" />
         **Combat Scout** - While standing still, this unit is stealthed
