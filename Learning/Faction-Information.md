@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T19:04:17.259Z
+date: 2021-10-25T19:08:50.250Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -83,24 +83,13 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - <img src="/images/learning/sera/sera_acu.png" width="50" align="center"/> **ACU** - Good HP, fearsome TML upgrade, and access to dual-RAS, dual-repair, a restoration field for your units, or dual-gun upgrades, this is a very powerful ACU.
 - <img src="/images/learning/sera/sera_scu.png" width="50" align="center"/> **SACU** - Overcharge and shield upgrades make this one of the strongest combatants of any type in the entire game, but it's highly micro dependant. Also has teleporter access. Has no RAS.
 
-#### ![<File:Tech> 1 Icon.png](Tech_1_Icon.png "fig:File:Tech 1 Icon.png") Tech 1
--   **Land:**
-    -   <img src="Sera_T1_Scout.png" title="fig:Sera_T1_Scout.png" width="50" alt="Sera_T1_Scout.png" />
-        **Combat Scout** - While standing still, this unit is stealthed
-        and cloaked, meaning it's undetectable except by omni sensors.
-        This can be used to provide reliable intel, or if standing on a
-        mass spot will prevent engineers from building upon it. This
-        unit takes the Seraphim's LAB spot as well as scout.
-    -   <img src="Sera_T1_Arty.png" title="fig:Sera_T1_Arty.png" width="50" alt="Sera_T1_Arty.png" />
-        **Floating Artillery** Costs more than other T1 mobile
-        artillery, but it's amphibious, has a nice firing cycle, and
-        does very good damage.
--   **Air:**
-    -   <img src="Sera_T1_Bomber.png" title="fig:Sera_T1_Bomber.png" width="50" alt="Sera_T1_Bomber.png" />
-        **Bomber** - The best T1 bomber.
-    -   <img src="Sera_T1_Transport.png" title="fig:Sera_T1_Transport.png" width="50" alt="Sera_T1_Transport.png" />
-        **Transport** - The best T1 transport. Can carry up to 8 T1 or 4
-        T2 units.
+#### <img src="/images/learning/tech_1_icon.png"/> Tech 1
+- **Land:**
+	- <img src="/images/learning/sera/sera_t1_scout.png" width="50" align="center"/> **Combat Scout** - While standing still, this unit is stealthed and cloaked, meaning it's undetectable except by omni sensors. This can be used to provide reliable intel, or if standing on a mass spot will prevent engineers from building upon it. This unit takes the Seraphim's LAB spot as well as scout.
+	- <img src="/images/learning/sera/sera_t1_arty.png" width="50" align="center"/> **Floating Artillery** Costs more than other T1 mobile artillery, but it's amphibious, has a nice firing cycle, and does very good damage.
+- **Air:**
+	- <img src="/images/learning/sera/sera_t1_bomber.png" width="50" align="center"/> **Bomber** - The best T1 bomber.
+	- <img src="/images/learning/sera/sera_t1_transport.png" width="50" align="center"/> **Transport** - The best T1 transport. Can carry up to 8 T1 or 4 T2 units.
 -   **Naval:**
     -   <img src="Sera_T1_Sub.png" title="fig:Sera_T1_Sub.png" width="50" alt="Sera_T1_Sub.png" />
         **Submarine** - Worst subs, since it can lose in 1v1 against
