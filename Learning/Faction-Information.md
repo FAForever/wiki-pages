@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T21:40:35.448Z
+date: 2021-10-25T21:49:46.151Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -172,45 +172,39 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 	- <img src="/images/learning/cybran/cybran_t2_cruiser.png" width="50" align="center"/> **Cruiser** - Worst AA since missiles are fired with a slow initial velocity. AA gun can be switched to shoot on naval or land. Direct fire weapon with decent damage. Can repair aircraft.
 	- <img src="/images/learning/cybran/cybran_t2_stealth_boat.png" width="50" align="center"/> **Stealth Boat** - One of the advantages of Cybran navy. Excellent torpedo defence. Creates a small stealth field.
 
-#### ![<File:Tech> 3 Icon.png](Tech_3_Icon.png "fig:File:Tech 3 Icon.png") Tech 3
-
--   **Buildings:**
-    -   <img src="Cybran_T3_HARMS.png" title="fig:Cybran_T3_HARMS.png" width="50" alt="Cybran_T3_HARMS.png" />
-        **Torpedo Launcher** - Only T3 torpedo launcher in game. Very
-        strong, submersed. Can be groundfired by battleships.
-    -   Cybran has no T3 shields but T2 shield can be upgraded 4 times.
-    -   <img src="Cybran_T3_Perimiter_Monitoring_System.png" title="fig:Cybran_T3_Perimiter_Monitoring_System.png" width="50" alt="Cybran_T3_Perimiter_Monitoring_System.png" />
-        **Monitoring System** - Provides vision over huge area.
-    -   <img src="Cybran_T3_Sonar.png" title="fig:Cybran_T3_Sonar.png" width="50" alt="Cybran_T3_Sonar.png" />
-        **Sonar** - Big stealth field. Maintaining the field costs a
-        fair bit of power.
--   **Land:**
-    -   <img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" />
+#### <img src="/images/learning/tech_3_icon.png"> Tech 3
+- **Buildings:**
+	- <img src="/images/learning/cybran/cybran_t3_harms.png" width="50" align="center"/> **Torpedo Launcher** - Only T3 torpedo launcher in game. Very strong, submersed. Can be groundfired by battleships.
+	- Cybran has no T3 shields but T2 shield can be upgraded 4 times.
+	- <img src="/images/learning/cybran/cybran_t3_perimiter_monitoring_system.png" width="50" align="center"/> **Monitoring System** - Provides vision over huge area. 
+	- <img src="/images/learning/cybran/cybran_t3_sonar.png" width="50" align="center"/> **Sonar** - Big stealth field. Maintaining the field costs a fair bit of power.
+- **Land:**
+	- <img src="Cybran_T3_Siege_Assault_Bot.png" title="fig:Cybran_T3_Siege_Assault_Bot.png" width="50" alt="Cybran_T3_Siege_Assault_Bot.png" />
         **Siege Assault Bot** - Fast bot with small range. Useful for
         early raiding. Can deflect cruise missiles. Stuns everything
         except ACUs and experimentals in a small range when dies.
-    -   <img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" />
+	- <img src="Cybran_T3_Armored_Assault_Bot.png" title="fig:Cybran_T3_Armored_Assault_Bot.png" width="50" alt="Cybran_T3_Armored_Assault_Bot.png" />
         **Armoured Assault Bot** - Strong and slow with large range and
         rapid fire rate. Better if combined with Stealth.
-    -   <img src="Cybran_T3_Mobile_Arty.png" title="fig:Cybran_T3_Mobile_Arty.png" width="50" alt="Cybran_T3_Mobile_Arty.png" />
+	- <img src="Cybran_T3_Mobile_Arty.png" title="fig:Cybran_T3_Mobile_Arty.png" width="50" alt="Cybran_T3_Mobile_Arty.png" />
         **Artillery** - Largest splash from all mobile artillery but
         lowest damage.
--   **Air:**
-    -   <img src="Cybran_T3_ASF.png" title="fig:Cybran_T3_ASF.png" width="50" alt="Cybran_T3_ASF.png" />
+- **Air:**
+	- <img src="Cybran_T3_ASF.png" title="fig:Cybran_T3_ASF.png" width="50" alt="Cybran_T3_ASF.png" />
         **ASF** - Personal Stealth.
-    -   <img src="Cybran_T3_Strat.png" title="fig:Cybran_T3_Strat.png" width="50" alt="Cybran_T3_Strat.png" />
+	- <img src="Cybran_T3_Strat.png" title="fig:Cybran_T3_Strat.png" width="50" alt="Cybran_T3_Strat.png" />
         **Strategic Bomber** - Biggest splash from all T3 bombers but
         lowest damage. Personal stealth.
-    -   <img src="Cybran_T3_Gunship.png" title="fig:Cybran_T3_Gunship.png" width="50" alt="Cybran_T3_Gunship.png" />
+	- <img src="Cybran_T3_Gunship.png" title="fig:Cybran_T3_Gunship.png" width="50" alt="Cybran_T3_Gunship.png" />
         **Gunship** - Jamming
--   **Naval:**
-    -   <img src="Cybran_T3_Battleship.png" title="fig:Cybran_T3_Battleship.png" width="50" alt="Cybran_T3_Battleship.png" />
+- **Naval:**
+	- <img src="Cybran_T3_Battleship.png" title="fig:Cybran_T3_Battleship.png" width="50" alt="Cybran_T3_Battleship.png" />
         **Battleship** - Good range, high fire rate. Only battleship
         with torpedoes.
-    -   <img src="Cybran_T3_Aircraft_Carrier.png" title="fig:Cybran_T3_Aircraft_Carrier.png" width="50" alt="Cybran_T3_Aircraft_Carrier.png" />
+	- <img src="Cybran_T3_Aircraft_Carrier.png" title="fig:Cybran_T3_Aircraft_Carrier.png" width="50" alt="Cybran_T3_Aircraft_Carrier.png" />
         **Aircraft Carrier** - Can carry, build and repair aircraft.
         Good AA.
-    -   <img src="Cybran_T3_Nuke_Sub.png" title="fig:Cybran_T3_Nuke_Sub.png" width="50" alt="Cybran_T3_Nuke_Sub.png" />
+	- <img src="Cybran_T3_Nuke_Sub.png" title="fig:Cybran_T3_Nuke_Sub.png" width="50" alt="Cybran_T3_Nuke_Sub.png" />
         **Strategic Submarine** - Can build nukes. Has personal stealth,
         torpedoes and cruise missiles.
 
