@@ -2,7 +2,7 @@
 title: UEF-1v1-Guide
 description: 
 published: true
-date: 2021-10-25T15:10:35.510Z
+date: 2021-10-25T18:02:22.002Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:37.233Z
@@ -56,107 +56,32 @@ Being able to get both the gun and T2 upgrades can really help make your ACU a d
 
 ## Tech 2
 
-When you hit Tech 2, you have three different direct fire land units to
-choose from, the *Pillar*, which is a Striker with 5 times the hp, more
-range and DPS. It is a decent and effective mainline unit and is the
-cheapest regular tank at the T2 stage (100 less mass then a Cybran
-Rhino) offering you an affordable T2 unit to spam in very high numbers,
-use these units to your advantage.
+When you hit Tech 2, you have three different direct fire land units to choose from, the *Pillar*, which is a Striker with 5 times the hp, more range and DPS. It is a decent and effective mainline unit and is the cheapest regular tank at the T2 stage (100 less mass then a Cybran Rhino) offering you an affordable T2 unit to spam in very high numbers, use these units to your advantage.
 
-Next is the *Mongoose*, a fast raiding bot with lower hp and higher
-range, allowing you to kite most t1. Similar to the Cybran Hoplite, it
-is a long range bot used for kiting - avoid direct engagements with them
-and keep your distance - they are weak to bombing runs and also swarms
-of t1 tanks that get in too close, although a secondary grenade launcher
-can offer some saving aoe. These are not recommended for newer players
-due to the attention required to use them effectively, they require lots
-of apm and good radar coverage so try not to use many to start off.
+Next is the *Mongoose*, a fast raiding bot with lower hp and higher range, allowing you to kite most t1. Similar to the Cybran Hoplite, it is a long range bot used for kiting - avoid direct engagements with them and keep your distance - they are weak to bombing runs and also swarms of t1 tanks that get in too close, although a secondary grenade launcher can offer some saving aoe. These are not recommended for newer players due to the attention required to use them effectively, they require lots of apm and good radar coverage so try not to use many to start off.
 
-*Riptides* are the other unit, with lower range and higher hp. It is
-your hover unit and it’s weapon gives almost no overkill, being a
-constant hail of bullets. It’s also more expensive than the two
-aforementioned units, and isn’t common in most land based games. It can
-be used as a raiding unit due to its speed but on land its use is highly
-situational.
+*Riptides* are the other unit, with lower range and higher hp. It is your hover unit and it’s weapon gives almost no overkill, being a constant hail of bullets. It’s also more expensive than the two aforementioned units, and isn’t common in most land based games. It can be used as a raiding unit due to its speed but on land its use is highly situational. 
 
-You have a generic flak gun called the *Sky Boxer* and a generic mobile
-missile launcher called the *Flapjack*, you also have a generic mobile
-shield called the *Parashield* which have similar equivalents in the
-other factions.
+You have a generic flak gun called the *Sky Boxer* and a generic mobile missile launcher called the *Flapjack*, you also have a generic mobile shield called the *Parashield* which have similar equivalents in the other factions.
 
-And then, towering above other T2 units, is the *Sparky*. It's a field
-engineer, and has more buildpower then the base engineer but can only
-build defenses. \[They have almost twice the buildpower of normal t2
-engies, and are very, very fast. Faster than most t2 tanks. They can
-make all point defences, shield generators, tml, tmd, walls. They can be
-built from land, air or naval factories. It has jamming, radar,
-defensive weapons, can hover, can reclaim, and can pull off entire PD
-creeps just as good as your ACU. Because you should always be trying to
-lay your hands on as much reclaim as possible, the Sparky gives a
-massive advantage and can trample raids with some micro. You can also
-reclaim enemy units while they are still alive for additional damage.
-Sparkies are also useful in drops where you build point defences in the
-enemy base.
+And then, towering above other T2 units, is the *Sparky*. It's a field engineer, and has more buildpower then the base engineer but can only build defenses. \[They have almost twice the buildpower of normal t2 engies, and are very, very fast. Faster than most t2 tanks. They can make all point defences, shield generators, tml, tmd, walls. They can be built from land, air or naval factories. It has jamming, radar, defensive weapons, can hover, can reclaim, and can pull off entire PD creeps just as good as your ACU. Because you should always be trying to lay your hands on as much reclaim as possible, the Sparky gives a massive advantage and can trample raids with some micro. You can also reclaim enemy units while they are still alive for additional damage. Sparkies are also useful in drops where you build point defences in the enemy base.
 
-Your *Bulwark* T2 shield boat is a powerful unit and confers a massive
-bubble around your boats, providing massive advantages in the water. The
-UEF does not have a T2 submarine, but instead has a torpedo boat. These
-are extremely effective against submarines, at the cost of being
-vulnerable to surface fire. They have one of the best torpedo defenses
-in the game and are the perfect unit to build against submersible units.
+Your *Bulwark* T2 shield boat is a powerful unit and confers a massive bubble around your boats, providing massive advantages in the water. The UEF does not have a T2 submarine, but instead has a torpedo boat. These are extremely effective against submarines, at the cost of being vulnerable to surface fire. They have one of the best torpedo defenses in the game and are the perfect unit to build against submersible units. 
 
-Your gunship can lift single T1/2 units with a clamp, which can be used
-to drop engies or Pillars without having a transport.
+Your gunship can lift single T1/2 units with a clamp, which can be used to drop engies or Pillars without having a transport.
 
-## ![<File:Tech> 3 Icon.png](Tech_3_Icon.png "fig:File:Tech 3 Icon.png") Tech 3
+## Tech 3
 
-Tech 3 is where a UEF player really starts to get ahead. If you get it
-early, you can deal crippling damage to your enemy. The most important
-unit is the *Percival* mentioned earlier, 1600 damage means small
-numbers of this bot will straight up kill ACU’s in a few hits, and large
-mobs will kill T4 units with low casualties. It’s good, use it.
+Tech 3 is where a UEF player really starts to get ahead. If you get it early, you can deal crippling damage to your enemy. The most important unit is the *Percival* mentioned earlier, 1600 damage means small numbers of this bot will straight up kill ACU’s in a few hits, and large mobs will kill T4 units with low casualties. It’s good, use it. 
 
-To make up for the one thing the Percival does not have (speed), you
-have the *Titan*. It’s a fast raiding bot with a shield and two fast
-firing guns. In comparison with the Loyalist, it’s garbage but Titans
-can maneuver and flank around to kill supporting units, engineers, or
-mexes. Use its speed, it’s all it has. If you have been spamming Pillars
-like we suggested, making the swap straight up to the far more effective
-Percival is a better option.
+To make up for the one thing the Percival does not have (speed), you have the *Titan*. It’s a fast raiding bot with a shield and two fast firing guns. In comparison with the Loyalist, it’s garbage but Titans can maneuver and flank around to kill supporting units, engineers, or mexes. Use its speed, it’s all it has. If you have been spamming Pillars like we suggested, making the swap straight up to the far more effective Percival is a better option.
 
-You have the
-[Demolisher](https://supcom.fandom.com/wiki/UEF_T3_Mobile_Heavy_Artillery)
-for a mobile artillery piece, and that is generic too, but T3 mobile
-arty rips through firebases and you will want to deploy these against
-static opponents. you also have the
-[Spearhead](https://supcom.fandom.com/wiki/UEF_T3_Mobile_Missile_Platform)
-if you prefer missiles over shells, they are extremely cheap and better
-at dealing with buildings, but useless against mobile units, unlike the
-Demolishers. You also have the *Cougar*, which has two miniguns to snipe
-out air units really well; use it against strategic bombers and
-fighter-bombers. Against gunships, however, your mobile T2 flak is more
-efficient as it's AOE damage can harm many gunships at once.
+You have the [Demolisher](https://supcom.fandom.com/wiki/UEF_T3_Mobile_Heavy_Artillery) for a mobile artillery piece, and that is generic too, but T3 mobile arty rips through firebases and you will want to deploy these against static opponents. you also have the [Spearhead](https://supcom.fandom.com/wiki/UEF_T3_Mobile_Missile_Platform) if you prefer missiles over shells, they are extremely cheap and better at dealing with buildings, but useless against mobile units, unlike the Demolishers. You also have the *Cougar*, which has two miniguns to snipe out air units really well; use it against strategic bombers and fighter-bombers. Against gunships, however, your mobile T2 flak is more efficient as it's AOE damage can harm many gunships at once.
 
-You also have the benefits mentioned at the start of the guide, and
-those are also immensely powerful. Creeping Ravagers is a solid move if
-you have the eco and do it before the enemy can respond with artillery.
-The Continental can drop six percivals at a time, doing so requires you
-to have T3 air; but if your enemy does not have considerable anti-air,
-you can land 9600 damage per volley wherever you choose, killing most
-ACU's in under 2 volleys. Percivals are faster than ACUs too, if you’re
-playing against UEF in T3, be careful.
+You also have the benefits mentioned at the start of the guide, and those are also immensely powerful. Creeping Ravagers is a solid move if you have the eco and do it before the enemy can respond with artillery. The Continental can drop six percivals at a time, doing so requires you to have T3 air; but if your enemy does not have considerable anti-air, you can land 9600 damage per volley wherever you choose, killing most ACU's in under 2 volleys. Percivals are faster than ACUs too, if you’re playing against UEF in T3, be careful.
 
-Your T3 battleship is the best because of its range and your T3 gunships
-tank really well. You also have the aforementioned Battlecruiser, which
-is extremely powerful against T2 and T1 naval and hover units. In
-combination with frigates and shield boats, the UEF T3 navy is the
-strongest in the game.
+Your T3 battleship is the best because of its range and your T3 gunships tank really well. You also have the aforementioned Battlecruiser, which is extremely powerful against T2 and T1 naval and hover units. In combination with frigates and shield boats, the UEF T3 navy is the strongest in the game.
 
-To rehash, UEF units are slower with more hp, they have good options on
-the land and you are allowed to focus on gaining high tech levels to
-gain advantages. You have a good range of defensive buildings, but don’t
-rely on them too much, and also, build walls.
+To rehash, UEF units are slower with more hp, they have good options on the land and you are allowed to focus on gaining high tech levels to gain advantages. You have a good range of defensive buildings, but don’t rely on them too much, and also, build walls.
 
-If you have any questions about UEF in ladder, you can always ask in
-[#Aeolus](FAF_chat "wikilink"), or a
-[trainer](User_Groups#Trainers "wikilink").
+If you have any questions about UEF in ladder, you can always ask in [#Aeolus](FAF_chat "wikilink"), or a [trainer](User_Groups#Trainers "wikilink").
