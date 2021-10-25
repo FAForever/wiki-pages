@@ -2,7 +2,7 @@
 title: Learning-SupCom
 description: 
 published: true
-date: 2021-10-25T15:00:12.181Z
+date: 2021-10-25T18:02:53.460Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
@@ -45,7 +45,7 @@ These guides are here to show you specific strategies, and help you play to thei
 - [Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide)
 - [Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide)
 - [Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide)
-- [UEF 1v1 Guide](UEF-1v1-Guide)
+- [UEF 1v1 Guide](/Learning/UEF-1v1-Guide)
 
 ### Teamgame and map specific information
 
