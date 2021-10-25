@@ -1,192 +1,83 @@
-This page presents an overview of general faction diversity. It outlines
-the overall strengths and weaknesses of each faction, and highlights
-some of their more unique units. The units that are extremely similar
-throughout the factions are not included on this page. Detailed
-statistics about every unit in the game can be found in the [Unit
-Database](Unit_Database "wikilink").
+---
+title: Faction-Information
+description: 
+published: true
+date: 2021-10-25T18:49:56.675Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:43:23.243Z
+---
 
-## ![<File:uef.png>](uef.png "fig:File:uef.png") UEF
+This page presents an overview of general faction diversity. It outlines the overall strengths and weaknesses of each faction, and highlights some of their more unique units. The units that are extremely similar throughout the factions are not included on this page. Detailed statistics about every unit in the game can be found in the [Unit Database](Unit-Database).
 
-The "Turtle" faction, a name coined because this faction plays best with
-a slow, steady, grinding style. Good for beginners together with
-Seraphim thanks to very solid, largely uncomplicated units, a strong ACU
-at all stages of the game, and units which do exceptionally well with
-little to no micro.
+## <img src="/images/learning/uef/uef.png" width="50" align="top"/> UEF
+
+The "Turtle" faction, a name coined because this faction plays best with a slow, steady, grinding style. Good for beginners together with Seraphim thanks to very solid, largely uncomplicated units, a strong ACU at all stages of the game, and units which do exceptionally well with little to no micro.
 
 ### Description
+- <img src="/images/learning/uef/uef_acu.png" width="50" align="center"/> **ACU** – Has in the early game stage the highest amount of HP compared to the other ACUs. Its shield upgrade is on the back slot, while the RAS upgrade is on the arm slot, which makes it possible to get shield and RAS simultaneously. The same is possible for gun and T2, which are located on the arm slots. Hence the UEF ACU can also be a very good forward unit with the ACUs shield and gun upgrade, which can hold its own in most fights.
+- <img src="/images/learning/uef/uef_scu.png" width="50" align="center"/> **SACU** – Extremely powerful in combat (after getting upgraded), with high DPS, area of effect damage, and dual shield upgrades to create a bulky, powerful unit. This is a very good late game unit to use. It is notable, that it can also build the Ravager (T3 PD).
 
--   <img src="UEF_ACU.png_‎" title="fig:UEF_ACU.png_‎" width="50" alt="UEF_ACU.png_‎" />
-    **ACU** – Has in the early game stage the highest amount of HP
-    compared to the other ACUs. Its shield upgrade is on the back slot,
-    while the RAS upgrade is on the arm slot, which makes it possible to
-    get shield and RAS simultaneously. The same is possible for gun and
-    T2, which are located on the arm slots. Hence the UEF ACU can also
-    be a very good forward unit with the ACUs shield and gun upgrade,
-    which can hold its own in most fights.
--   <img src="UEF_SCU.png_‎" title="fig:UEF_SCU.png_‎" width="50" alt="UEF_SCU.png_‎" />
-    **SACU** – Extremely powerful in combat (after getting upgraded),
-    with high DPS, area of effect damage, and dual shield upgrades to
-    create a bulky, powerful unit. This is a very good late game unit to
-    use. It is notable, that it can also build the Ravager (T3 PD).
+#### <img src="/images/learning/tech_1_icon.png"/> Tech 1
+- **Land:**
+	- <img src="/images/learning/uef/uef_t1_lab.png" width="50" align="center"/> **Mech Marine** - Considered the best lab, as it has a steady rate of fire.
+	- <img src="/images/learning/uef/uef_t1_tank.png" width="50" align="center"/> **Tank** - High HP but slow, the first hint of UEF's overall trait. Requires very little babysitting, awesome all-rounder.
+	- <img src="/images/learning/uef/uef_t1_mobile_arty.png" width="50" align="center"/> **Artillery** – Slow fire rate but huge damage, quite accurate. Provides optical vision for a short time at impact site.
+- **Air:**
+	- <img src="/images/learning/uef/uef_t1_bomber.png" width="50" align="center"/> **Bomber** - Arguably the worst of all the T1 Bombers because of its inaccuracy, but highest overall damage output against large buildings and great against densely packed armies.
+	- <img src="/images/learning/uef/uef_t1_interceptor.png" width="50" align="center"/> **Interceptor** - Probably the best T1 interceptor, because of the front-loaded weapon. Note that this advantage is rather tiny compared to other intis though.
+- **Naval:**
+	- <img src="/images/learning/uef/uef_t1_frigate.png" width="50" align="center"/> **Frigates** - Radar jamming to create the appearance of having a bigger navy than you actually possess. Great against the floating T1 seraphim artillery.
 
-#### ![<File:Tech> 1 Icon.png](Tech_1_Icon.png "fig:File:Tech 1 Icon.png") Tech 1
+#### <img src="/images/learning/tech_2_icon.png"> Tech 2
+- **Buildings:**
+	- <img src="/images/learning/uef/uef_t2_pd.png" width="50" align="center"/> **Point Defense** – Good AOE, good rate of fire, and the fact that they are not blocked by terrain make the Triad a good allround point defense.
+	- <img src="/images/learning/uef/uef_t2_static_shield.png" width="50" align="center"/> **Static Shield** – One of the weaker T2 shields, but still worthwhile. Upgradable to T3 though this is not recommended.
+	- <img src="/images/learning/uef/uef_t2_tmd.png" width="50" align="center"/> **TMD** – The weakest TMD, has trouble with overkilling missiles.
+	- <img src="/images/learning/uef/uef_t1_engineering_station.png" width="50" align="center"/> **Engineering station** – Drones that can fly anywhere and cant be hit by ASFs. While inefficient buildpower-per-mass wise, their mobility and the absence of pathfinding problems make these useful late-game for focussing your economy. Upgradeable to obtain another drone per building.
+- **Land:**
+	- <img src="/images/learning/uef/uef_t2_gatling_bot.png" width="50" aling="center"/> **Mongoose Bots** - Ranged bot with low damage, somewhat useful when paired with mobile shields, but highly dependant on good micro.
+	- <img src="/images/learning/uef/uef_t2_tank.png" width="50" align="center"/> **Pillar tanks** - Solid all-around assault tank with good HP/mass ratio, this should usually form the backbone of your T2 land force.
+	- <img src="/images/learning/uef/uef_t2_hover_tank.png" width="50" align="center"/> **Riptide** - Stronger but more expensive than other factions hover units, good vs T1 Units, especially the floating ones.
+	- <img src="/images/learning/uef/uef_t2_mobile_shield.png" width="50" align="center"/> **Mobile shields** - Inefficient in large numbers, but the big radius makes protecting your army easier than using the Aeon mobile shield.
+	- <img src="/images/learning/uef/uef_t2_field_engineer.png" width="50" align="center"/> **Combat Engineer - Sparky** – Fast, good HP, high build power, Radar Jamming and a built-in gun which can fire while reclaiming or building. They can only build combat-related structures. Can also be built from T2 air factories. /!\\ can't build radar.
+- **Air:**
+	- <img src="/images/learning/uef/uef_t2_gunship.png" width="50" align="center"/> **Gunships** - Can transport a single T1 or T2 unit. LABs can fire from the transport clamp, increasing the DPS.
+	- <img src="/images/learning/uef/uef_t2_fighter_bomber.png" width="50" align="center"/> **Fighter/Bomber** - Can fight air and ground. Not strong versus either, due to comparably low air damage and very spread out bombs. Sometimes useful against large groups of units.
+	- <img src="/images/learning/uef/uef_t2_transport.png" width="50" align="center"/> **Transport** - Can transport up to 14 T1 units or 6 T2 + 2 T1 units or 3 T3 + 2 T1 units.
+	- <img src="/images/learning/uef/uef_t2_torpedo_bomber.png" width="50" align="center"/> **Torpedo Bomber** - Good and reliable torpedo bomber.
+- **Naval:**
+	- <img src="/images/learning/uef/uef_t2_destroyer.png" width="50" align="center"/> **Destroyer** – Small range and very weak torpedoes make this one of the weaker destroyers, but it has, once in range, high DPS.
+	- <img src="/images/learning/uef/uef_t2_cruiser.png" width="50" align="center"/> **Cruiser** – Cruise missiles which can overwhelm TMD, has non-splash SAMs as AA. Also has a small direct-fire gun.
+	- <img src="/images/learning/uef/uef_t2_shield_boat.png" width="50" aling="center"/> **Shield Boat** – The backbone of the UEF navy and one of the two reasons it has the strongest navy overall. Avoid producing too many, as the efficiency of shield boats decreases proportional to the amount of shield boats you already have (due to shared shield damage for overlapping shields).
+	- <img src="/images/learning/uef/uef_t2_torpedo_boat.png" width="50" alt="center"/> **Torpedo Boat** – Good torpedos and epic torpedo defences, but low HP and vulnerable to direct fire, also fairly small range, so they cannot operate on their own.
 
--   **Land:**
-    -   <img src="UEF_T1_LAB.png_‎_‎" title="fig:UEF_T1_LAB.png_‎_‎" width="50" alt="UEF_T1_LAB.png_‎_‎" />
-        **Mech Marine** - Considered the best lab, as it has a steady
-        rate of fire.
-    -   <img src="UEF_T1_Tank.png_‎_‎" title="fig:UEF_T1_Tank.png_‎_‎" width="50" alt="UEF_T1_Tank.png_‎_‎" />
-        **Tank** - High HP but slow, the first hint of UEF's overall
-        trait. Requires very little babysitting, awesome all-rounder.
-    -   <img src="UEF_T1_Mobile_Arty.png_‎_‎" title="fig:UEF_T1_Mobile_Arty.png_‎_‎" width="50" alt="UEF_T1_Mobile_Arty.png_‎_‎" />
-        **Artillery** – Slow fire rate but huge damage, quite accurate.
-        Provides optical vision for a short time at impact site.
--   **Air:**
-    -   <img src="UEF_T1_Bomber.png_‎_‎" title="fig:UEF_T1_Bomber.png_‎_‎" width="50" alt="UEF_T1_Bomber.png_‎_‎" />
-        **Bomber** - Arguably the worst of all the T1 Bombers because of
-        its inaccuracy, but highest overall damage output against large
-        buildings and great against densely packed armies.
-    -   <img src="UEF_T1_Interceptor.png_‎_‎" title="fig:UEF_T1_Interceptor.png_‎_‎" width="50" alt="UEF_T1_Interceptor.png_‎_‎" />
-        **Interceptor** - Probably the best T1 interceptor, because of
-        the front-loaded weapon. Note that this advantage is rather tiny
-        compared to other intis though.
+#### <img src="/images/learning/tech_3_icon.png"> Tech 3
+- **Buildings:**
+	- <img src="/images/learning/uef/uef_t3_pd.png" width="50" align="center"/> **Point defense also known as a (Ravager)** – The only T3 point defence, it has huge range, massive damage, and a lot of HP. A couple of these will make any land assault costly to the enemy, and more than a couple can take down even Experimentals before they deal considerable damage. Can also be used offensively for PD-pushes too. This unit is the primary reason UEF will win just about any static base-war stand-off situation.
+	- <img src="/images/learning/uef/uef_t3_static_shield.png" width="50" align="center"/> **Static Shield** – Very expensive with a large radius, only to be built late-game.
+	- <img src="/images/learning/uef/uef_t2_engineering_station_l2.png" width="50" align="center"/> **Engineering station** – This is the upgraded version of the engineering station. See above to read about it.
+	- <img src="/images/learning/uef/uef_t3_sonar.png" width="50" align="center"/> **Sonar** - Weak Torpedo launcher included. More health than the cybran counterpart. Mobile.
+- **Land:**
+	- <img src="/images/learning/uef/uef_t3_heavy_assault_bot.png" width="50" align="center"/> **Titan Bot** – Extremely fast, good at mopping up lost T1 land forces and general raiding, but not able to compete with heavy units. Shield makes this unit perfect for hit-and-run style raiding.
+	- <img src="/images/learning/uef/uef_t3_armored_assault_bot.png" width="50" align="center"/> **Percivals** – This is the primary assault weapon of the UEF army. It's slow, heavily armoured, and the high burst damage firing cycle make it the strongest T3 land unit in the game for its mass. This is UEF's main unit for stopping direct-fire Land Experimentals. Can cross through water by walking on the ocean bed.
+	- <img src="/images/learning/uef/uef_t3_mml.png" width="50" aling="center"/> **Mobile Missile Launchers** – Fire cycle specifically designed to break TMD. Each missile deals a good deal of damage. Fairly high reload, good to be used in combination with T3 mobile artillery.
+- **Air:**
+	- <img src="/images/learning/uef/uef_t3_gunship.png" width="50" align="center"/> **Gunships** – High damage and lots of HP, but virtually no AA.
+	- <img src="/images/learning/uef/uef_t3_transport.png" width="50" align="center"/> **Transports** – The only T3 Transport, this unit is fast, has powerful anti-air, is shielded, and can carry 6 T3 units or an entire army of lower tech. Consumes high amounts of energy to keep the personal shield alive.
 -   **Naval:**
-    -   <img src="UEF_T1_Frigate.png_‎_‎" title="fig:UEF_T1_Frigate.png_‎_‎" width="50" alt="UEF_T1_Frigate.png_‎_‎" />
-        **Frigates** - Radar jamming to create the appearance of having
-        a bigger navy than you actually possess. Great against the
-        floating T1 seraphim artillery.
-
-#### ![<File:Tech> 2 Icon.png](Tech_2_Icon.png "fig:File:Tech 2 Icon.png") Tech 2
-
--   **Buildings:**
-    -   <img src="UEF_T2_PD.png_‎_‎" title="fig:UEF_T2_PD.png_‎_‎" width="50" alt="UEF_T2_PD.png_‎_‎" />
-        **Point Defense** – Good AOE, good rate of fire, and the fact
-        that they are not blocked by terrain make the Triad a good
-        allround point defense.
-    -   <img src="UEF_T2_Static_Shield.png_‎_‎" title="fig:UEF_T2_Static_Shield.png_‎_‎" width="50" alt="UEF_T2_Static_Shield.png_‎_‎" />
-        **Static Shield** – One of the weaker T2 shields, but still
-        worthwhile. Upgradable to T3 though this is not recommended.
-    -   <img src="UEF_T2_TMD.png_‎_‎" title="fig:UEF_T2_TMD.png_‎_‎" width="50" alt="UEF_T2_TMD.png_‎_‎" />
-        **TMD** – The weakest TMD, has trouble with overkilling
-        missiles.
-    -   <img src="UEF_T1_Engineering_Station.png_‎_‎" title="fig:UEF_T1_Engineering_Station.png_‎_‎" width="50" alt="UEF_T1_Engineering_Station.png_‎_‎" />
-        **Engineering station** – Drones that can fly anywhere and cant
-        be hit by ASFs. While inefficient buildpower-per-mass wise,
-        their mobility and the absence of pathfinding problems make
-        these useful late-game for focussing your economy. Upgradeable
-        to obtain another drone per building.
--   **Land:**
-    -   <img src="UEF_T2_Gatling_Bot.png_‎_‎" title="fig:UEF_T2_Gatling_Bot.png_‎_‎" width="50" alt="UEF_T2_Gatling_Bot.png_‎_‎" />
-        **Mongoose Bots** - Ranged bot with low damage, somewhat useful
-        when paired with mobile shields, but highly dependant on good
-        micro.
-    -   <img src="UEF_T2_Tank.png_‎_‎" title="fig:UEF_T2_Tank.png_‎_‎" width="50" alt="UEF_T2_Tank.png_‎_‎" />
-        **Pillar tanks** - Solid all-around assault tank with good
-        HP/mass ratio, this should usually form the backbone of your T2
-        land force.
-    -   <img src="UEF_T2_Hover_Tank.png_‎_‎" title="fig:UEF_T2_Hover_Tank.png_‎_‎" width="50" alt="UEF_T2_Hover_Tank.png_‎_‎" />
-        **Riptide** - Stronger but more expensive than other factions
-        hover units, good vs T1 Units, especially the floating ones.
-    -   <img src="UEF_T2_Mobile_Shield.png_‎_‎" title="fig:UEF_T2_Mobile_Shield.png_‎_‎" width="50" alt="UEF_T2_Mobile_Shield.png_‎_‎" />
-        **Mobile shields** - Inefficient in large numbers, but the big
-        radius makes protecting your army easier than using the Aeon
-        mobile shield.
-    -   <img src="UEF_T2_Field_Engineer.png_‎_‎" title="fig:UEF_T2_Field_Engineer.png_‎_‎" width="50" alt="UEF_T2_Field_Engineer.png_‎_‎" />
-        **Combat Engineer - Sparky** – Fast, good HP, high build power,
-        Radar Jamming and a built-in gun which can fire while reclaiming
-        or building. They can only build combat-related structures. Can
-        also be built from T2 air factories. /!\\ can't build radar.
--   **Air:**
-    -   <img src="UEF_T2_Gunship.png_‎_‎" title="fig:UEF_T2_Gunship.png_‎_‎" width="50" alt="UEF_T2_Gunship.png_‎_‎" />
-        **Gunships** - Can transport a single T1 or T2 unit. LABs can
-        fire from the transport clamp, increasing the DPS.
-    -   <img src="UEF_T2_Fighter_Bomber.png_‎_‎" title="fig:UEF_T2_Fighter_Bomber.png_‎_‎" width="50" alt="UEF_T2_Fighter_Bomber.png_‎_‎" />
-        **Fighter/Bomber** - Can fight air and ground. Not strong versus
-        either, due to comparably low air damage and very spread out
-        bombs. Sometimes useful against large groups of units.
-    -   <img src="UEF_T2_Transport.png_‎_‎" title="fig:UEF_T2_Transport.png_‎_‎" width="50" alt="UEF_T2_Transport.png_‎_‎" />
-        **Transport** - Can transport up to 14 T1 units or 6 T2 + 2 T1
-        units or 3 T3 + 2 T1 units.
-    -   <img src="UEF_T2_Torpedo_Bomber.png_‎_‎" title="fig:UEF_T2_Torpedo_Bomber.png_‎_‎" width="50" alt="UEF_T2_Torpedo_Bomber.png_‎_‎" />
-        **Torpedo Bomber** - Good and reliable torpedo bomber.
--   **Naval:**
-    -   <img src="UEF_T2_Destroyer.png_‎_‎" title="fig:UEF_T2_Destroyer.png_‎_‎" width="50" alt="UEF_T2_Destroyer.png_‎_‎" />
-        **Destroyer** – Small range and very weak torpedoes make this
-        one of the weaker destroyers, but it has, once in range, high
-        DPS.
-    -   <img src="UEF_T2_Cruiser.png_‎_‎" title="fig:UEF_T2_Cruiser.png_‎_‎" width="50" alt="UEF_T2_Cruiser.png_‎_‎" />
-        **Cruiser** – Cruise missiles which can overwhelm TMD, has
-        non-splash SAMs as AA. Also has a small direct-fire gun.
-    -   <img src="UEF_T2_Shield_Boat.png_‎_‎" title="fig:UEF_T2_Shield_Boat.png_‎_‎" width="50" alt="UEF_T2_Shield_Boat.png_‎_‎" />
-        **Shield Boat** – The backbone of the UEF navy and one of the
-        two reasons it has the strongest navy overall. Avoid producing
-        too many, as the efficiency of shield boats decreases
-        proportional to the amount of shield boats you already have (due
-        to shared shield damage for overlapping shields).
-    -   <img src="UEF_T2_Torpedo_Boat.png_‎_‎" title="fig:UEF_T2_Torpedo_Boat.png_‎_‎" width="50" alt="UEF_T2_Torpedo_Boat.png_‎_‎" />
-        **Torpedo Boat** – Good torpedos and epic torpedo defences, but
-        low HP and vulnerable to direct fire, also fairly small range,
-        so they cannot operate on their own.
-
-#### ![<File:Tech> 3 Icon.png](Tech_3_Icon.png "fig:File:Tech 3 Icon.png") Tech 3
-
--   **Buildings:**
-    -   <img src="UEF_T3_PD.png_‎_‎" title="fig:UEF_T3_PD.png_‎_‎" width="50" alt="UEF_T3_PD.png_‎_‎" />
-        **Point defense also known as a (Ravager)** – The only T3 point
-        defence, it has huge range, massive damage, and a lot of HP. A
-        couple of these will make any land assault costly to the enemy,
-        and more than a couple can take down even Experimentals before
-        they deal considerable damage. Can also be used offensively for
-        PD-pushes too. This unit is the primary reason UEF will win just
-        about any static base-war stand-off situation.
-    -   <img src="UEF_T3_Static_Shield.png_‎" title="fig:UEF_T3_Static_Shield.png_‎" width="50" alt="UEF_T3_Static_Shield.png_‎" />
-        **Static Shield** – Very expensive with a large radius, only to
-        be built late-game.
-    -   <img src="UEF_T2_Engineering_Station_L2.png_‎‎_‎" title="fig:UEF_T2_Engineering_Station_L2.png_‎‎_‎" width="50" alt="UEF_T2_Engineering_Station_L2.png_‎‎_‎" />
-        **Engineering station** – This is the upgraded version of the
-        engineering station. See above to read about it.
-    -   <img src="UEF_T3_Sonar.png_‎_‎" title="fig:UEF_T3_Sonar.png_‎_‎" width="50" alt="UEF_T3_Sonar.png_‎_‎" />
-        **Sonar** - Weak Torpedo launcher included. More health than the
-        cybran counterpart. Mobile.
--   **Land:**
-    -   <img src="UEF_T3_Heavy_Assault_Bot.png_‎_‎" title="fig:UEF_T3_Heavy_Assault_Bot.png_‎_‎" width="50" alt="UEF_T3_Heavy_Assault_Bot.png_‎_‎" />
-        **Titan Bot** – Extremely fast, good at mopping up lost T1 land
-        forces and general raiding, but not able to compete with heavy
-        units. Shield makes this unit perfect for hit-and-run style
-        raiding.
-    -   <img src="UEF_T3_Armored_Assault_Bot.png_‎_‎" title="fig:UEF_T3_Armored_Assault_Bot.png_‎_‎" width="50" alt="UEF_T3_Armored_Assault_Bot.png_‎_‎" />
-        **Percivals** – This is the primary assault weapon of the UEF
-        army. It's slow, heavily armoured, and the high burst damage
-        firing cycle make it the strongest T3 land unit in the game for
-        its mass. This is UEF's main unit for stopping direct-fire Land
-        Experimentals. Can cross through water by walking on the ocean
-        bed.
-    -   <img src="UEF_T3_MML.png_‎_‎" title="fig:UEF_T3_MML.png_‎_‎" width="50" alt="UEF_T3_MML.png_‎_‎" />
-        **Mobile Missile Launchers** – Fire cycle specifically designed
-        to break TMD. Each missile deals a good deal of damage. Fairly
-        high reload, good to be used in combination with T3 mobile
-        artillery.
--   **Air:**
-    -   <img src="UEF_T3_Gunship.png_‎_‎" title="fig:UEF_T3_Gunship.png_‎_‎" width="50" alt="UEF_T3_Gunship.png_‎_‎" />
-        **Gunships** – High damage and lots of HP, but virtually no AA.
-    -   <img src="UEF_T3_Transport.png_‎_‎" title="fig:UEF_T3_Transport.png_‎_‎" width="50" alt="UEF_T3_Transport.png_‎_‎" />
-        **Transports** – The only T3 Transport, this unit is fast, has
-        powerful anti-air, is shielded, and can carry 6 T3 units or an
-        entire army of lower tech. Consumes high amounts of energy to
-        keep the personal shield alive.
--   **Naval:**
-    -   <img src="UEF_T3_Battlecruiser.png_‎_‎" title="fig:UEF_T3_Battlecruiser.png_‎_‎" width="50" alt="UEF_T3_Battlecruiser.png_‎_‎" />
+	-   <img src="UEF_T3_Battlecruiser.png_‎_‎" title="fig:UEF_T3_Battlecruiser.png_‎_‎" width="50" alt="UEF_T3_Battlecruiser.png_‎_‎" />
         **Battlecruiser** – A unit that strikes fear into T2 navies,
         combined with the T2 shield boat and torpedo boat this creates a
         strong counter to T1 and T2 navy. Has high range and powerful
         beam-weapons. It is beaten by battleships.
-    -   <img src="UEF_T3_Battleship.png_‎_‎" title="fig:UEF_T3_Battleship.png_‎_‎" width="50" alt="UEF_T3_Battleship.png_‎_‎" />
+	-   <img src="UEF_T3_Battleship.png_‎_‎" title="fig:UEF_T3_Battleship.png_‎_‎" width="50" alt="UEF_T3_Battleship.png_‎_‎" />
         **Battleship** - The best battleship in the game, this unit has
         the highest range, great damage and good HP. There are no
         torpedoes, nor torpedo defences, the AA is pitiful and the
         firing cycle of one salvo every 20 seconds makes it vulnerable
         to T2 hover tanks and T1 frigates.
-    -   UEF has no 'traditional' T3 aircraft carrier. However, the
+	-   UEF has no 'traditional' T3 aircraft carrier. However, the
         experimental submarine Atlantis (see below) allows for
         production, storing and refueling of planes.
 
