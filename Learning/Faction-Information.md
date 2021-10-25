@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T18:49:56.675Z
+date: 2021-10-25T18:50:18.995Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
