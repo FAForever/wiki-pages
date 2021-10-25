@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-25T00:00:51.271Z
+date: 2021-10-25T00:05:40.408Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -528,99 +528,40 @@ Your main advantage with in a T2 naval duel as a Cybran player is stealth. If yo
 - Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0201,UAS0201,UES0201,XSS0201">T2 Destroyers</a>
 
 <img src="Cybran_T2_Sub_Hunter.png" title="fig:Cybran_T2_Sub_Hunter.png" width="50" alt="Cybran_T2_Sub_Hunter.png" /><img src="Sera_T2_Destroyer.png" title="fig:Sera_T2_Destroyer.png" width="50" alt="Sera_T2_Destroyer.png" /><img src="UEF_T2_Torpedo_Boat.png" title="fig:UEF_T2_Torpedo_Boat.png" width="50" alt="UEF_T2_Torpedo_Boat.png" />
-The stealthy Barracuda sub can also win you games, particularly against Seraphim at balance patch 3640, as they are very efficient against Sera destroyers, who are the only Seraphim T2 anti-sub unit. Barracudas are particularly strong if you can kite with them and stay out of vision radius – all factions lack a naval omni unit other than the ACU itself. If you go for this option remember to focus heavily on your sub spam – any surface units will die quickly to focus fire from the destroyers. Surface units include engineers and naval yards, so if you are losing navy to Seraphim the transition, you may not want to use Subs to win at T2. You can also use Barracudas against a UEF player that neglects to build Cooper torpedo boats, but it is not difficult to fix this mistake so be cautious about overinvesting in this case. Both UEF and Seraphim can be beaten by a normal surface Cybran navy at T2.</p>
-<ul>
-<li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=,XRS0204XAS0204,XES0102,XSS0201">T2 Submarines/Torpedo Boat</a>
-<ul>
-<li>Seraphim has submersible Destroyer</li>
-</ul></li>
-</ul>
-<p><img src="Cybran_T2_Cruiser.png" title="fig:Cybran_T2_Cruiser.png" width="50" alt="Cybran_T2_Cruiser.png" /> When you’ve won navy, you face a little bit of a deficit compared to other factions with your cruiser, which has great surface and anti-air DPS on paper, but lacks the tactical missiles that allow other factions to strike far inland regardless of terrain. This is somewhat countered by the ability of the Salem to walk inland, along with a high firing arc and rate of fire that lets you position it to bombard inland while staying in the water. If you do take your destroyers for a walk, make sure they are supported as they are painfully slow and die when units get behind them.</p>
-<ul>
-<li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0202,UAS0202,UES0202,XSS0202">T2 Cruisers</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+The stealthy Barracuda sub can also win you games, particularly against Seraphim at balance patch 3640, as they are very efficient against Sera destroyers, who are the only Seraphim T2 anti-sub unit. Barracudas are particularly strong if you can kite with them and stay out of vision radius – all factions lack a naval omni unit other than the ACU itself. If you go for this option remember to focus heavily on your sub spam – any surface units will die quickly to focus fire from the destroyers. Surface units include engineers and naval yards, so if you are losing navy to Seraphim the transition, you may not want to use Subs to win at T2. You can also use Barracudas against a UEF player that neglects to build Cooper torpedo boats, but it is not difficult to fix this mistake so be cautious about overinvesting in this case. Both UEF and Seraphim can be beaten by a normal surface Cybran navy at T2.
+
+- Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=,XRS0204XAS0204,XES0102,XSS0201">T2 Submarines/Torpedo Boat</a>
+
+Seraphim has submersible Destroyer
+
+<img src="Cybran_T2_Cruiser.png" title="fig:Cybran_T2_Cruiser.png" width="50" alt="Cybran_T2_Cruiser.png" />
+When you’ve won navy, you face a little bit of a deficit compared to other factions with your cruiser, which has great surface and anti-air DPS on paper, but lacks the tactical missiles that allow other factions to strike far inland regardless of terrain. This is somewhat countered by the ability of the Salem to walk inland, along with a high firing arc and rate of fire that lets you position it to bombard inland while staying in the water. If you do take your destroyers for a walk, make sure they are supported as they are painfully slow and die when units get behind them.
+- Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0202,UAS0202,UES0202,XSS0202">T2 Cruisers</a>
 
 ### ![<File:T3_navy.png>](T3_navy.png "fig:File:T3_navy.png") Tech 3
+<img src="Cybran_T3_Battleship.png" title="fig:Cybran_T3_Battleship.png" width="50" alt="Cybran_T3_Battleship.png" /><img src="Cybran_T3_Nuke_Sub.png" title="fig:Cybran_T3_Nuke_Sub.png" width="50" alt="Cybran_T3_Nuke_Sub.png" />
+On larger naval maps, or extended games with big ecos, T3 Navy rears its head. This is a painful time to play against the UEF, with their T2-destroying battlecruiser and their best-in-class battleship, along with shield ships and the odd Cooper to keep your subs at bay. Simply put, a UEF player of your own level will almost certainly win unless you snipe their eco or ACU once they have T3 navy. You also may struggle with Seraphim T3 subs if you have invested heavily in surface ships. Barracudas with their stealth and Salems’ torp defence give you some chance to win, if you don’t get kited with the destroyers and scouted with the Barracudas.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Cybran_T3_Battleship.png" title="fig:Cybran_T3_Battleship.png" width="50" alt="Cybran_T3_Battleship.png" /><img src="Cybran_T3_Nuke_Sub.png" title="fig:Cybran_T3_Nuke_Sub.png" width="50" alt="Cybran_T3_Nuke_Sub.png" /> On larger naval maps, or extended games with big ecos, T3 Navy rears its head. This is a painful time to play against the UEF, with their T2-destroying battlecruiser and their best-in-class battleship, along with shield ships and the odd Cooper to keep your subs at bay. Simply put, a UEF player of your own level will almost certainly win unless you snipe their eco or ACU once they have T3 navy. You also may struggle with Seraphim T3 subs if you have invested heavily in surface ships. Barracudas with their stealth and Salems’ torp defence give you some chance to win, if you don’t get kited with the destroyers and scouted with the Barracudas.</p>
-<p>Your advantages include having a 9,000 mass battleship, compared to 10,000 mass for other factions, and a stealthy nuke sub, allowing for awful surprises for those enemies that neglect to build an SMD, or build one in a position that only intercepts missiles from your main base. Stealth also remains a useful force multiplier in battles between surface fleets.</p>
-<ul>
-<li>Comparison of all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0302,UAS0302,UES0302,XSS0302">Battleships</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Your advantages include having a 9,000 mass battleship, compared to 10,000 mass for other factions, and a stealthy nuke sub, allowing for awful surprises for those enemies that neglect to build an SMD, or build one in a position that only intercepts missiles from your main base. Stealth also remains a useful force multiplier in battles between surface fleets.
+- Comparison of all <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0302,UAS0302,UES0302,XSS0302">Battleships</a>
 
 ### <img src="Cybran_ACU.png" title="fig:Cybran_ACU.png" width="50" alt="Cybran_ACU.png" /> The ACU
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>The Cybran ACU is usually the least useful in the mid game. However the combination of the torpedo upgrade, stealth and ideally the engineering suite upgrade(s) for HP makes for a comparatively cheap, hard to hit anti-naval unit. Having this build power available in a typically-lucrative naval wreck field is also a serious advantage. Keep the ACU out of visual range of enemy units and it will force a response, either of staying away from your units and/or production of more anti-submarine units, which may give your surface ships an advantage. The cost of T2, stealth and torpedos is slightly more than a destroyer, while being much more dangerous.</p>
-<p>The risk is obvious – mistakes or simply a lost battle mean an immediate end to the game. The ACU is much slower than ships and subs, so being over-run and killed by destroyers is a real threat as T2 navy becomes more common. The ACU will also take longer to get in to a useful position on the front lines.</p></td>
-</tr>
-</tbody>
-</table>
+The Cybran ACU is usually the least useful in the mid game. However the combination of the torpedo upgrade, stealth and ideally the engineering suite upgrade(s) for HP makes for a comparatively cheap, hard to hit anti-naval unit. Having this build power available in a typically-lucrative naval wreck field is also a serious advantage. Keep the ACU out of visual range of enemy units and it will force a response, either of staying away from your units and/or production of more anti-submarine units, which may give your surface ships an advantage. The cost of T2, stealth and torpedos is slightly more than a destroyer, while being much more dangerous.
+
+The risk is obvious – mistakes or simply a lost battle mean an immediate end to the game. The ACU is much slower than ships and subs, so being over-run and killed by destroyers is a real threat as T2 navy becomes more common. The ACU will also take longer to get in to a useful position on the front lines.
 
 ### ![<File:air.png>](air.png "fig:File:air.png") Air on Naval Maps
+<img src="A_T1_AA_Boat.PNG" title="fig:A_T1_AA_Boat.PNG" width="50" alt="A_T1_AA_Boat.PNG" /><img src="Cybran_T2_Torpedo_Bomber.png" title="fig:Cybran_T2_Torpedo_Bomber.png" width="50" alt="Cybran_T2_Torpedo_Bomber.png" /><img src="Cybran_T2_Fighter_Bomber.png" title="fig:Cybran_T2_Fighter_Bomber.png" width="50" alt="Cybran_T2_Fighter_Bomber.png" />
+Air play is very important on naval maps. Frigates are everywhere, which makes scouting and how you manage your interceptors much more difficult, and important, for all factions than on land maps. Bombers and Jesters are useless once frigates emerge, other than for killing engineers or raiding over land. The exception to this is against an Aeon opponent that neglects T1 Shard anti-air boats and both cruisers and hover flak at T2, as their frigates and destroyers have no AA. The main way your T1 Air can win naval fights is denying enemy scouts when you are using stealth, or scouting an enemy Cybran player's stealth navy.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Click to see details</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="A_T1_AA_Boat.PNG" title="fig:A_T1_AA_Boat.PNG" width="50" alt="A_T1_AA_Boat.PNG" /><img src="Cybran_T2_Torpedo_Bomber.png" title="fig:Cybran_T2_Torpedo_Bomber.png" width="50" alt="Cybran_T2_Torpedo_Bomber.png" /><img src="Cybran_T2_Fighter_Bomber.png" title="fig:Cybran_T2_Fighter_Bomber.png" width="50" alt="Cybran_T2_Fighter_Bomber.png" /> Air play is very important on naval maps. Frigates are everywhere, which makes scouting and how you manage your interceptors much more difficult, and important, for all factions than on land maps. Bombers and Jesters are useless once frigates emerge, other than for killing engineers or raiding over land. The exception to this is against an Aeon opponent that neglects T1 Shard anti-air boats and both cruisers and hover flak at T2, as their frigates and destroyers have no AA. The main way your T1 Air can win naval fights is denying enemy scouts when you are using stealth, or scouting an enemy Cybran player's stealth navy.</p>
-<p>T2 air is more useful against navy, as torpedo bombers and Corsairs can actually mass efficiently snipe cruisers, particularly in smaller numbers. The missiles of the Corsair allow it to apply more damage than other fighterbombers, particularly when sniping ships protected by some anti-air. They are less mass efficient than torpedo bombers, but more flexible as they can also hit hovering units, targets on land and deal splash damage, which can be valuable when killing engineers assisting a factory.</p>
-<ul>
-<li>Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URA0204,UAA0204,UEA0204,XSA0204">T2 Torpedo Bombers</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+T2 air is more useful against navy, as torpedo bombers and Corsairs can actually mass efficiently snipe cruisers, particularly in smaller numbers. The missiles of the Corsair allow it to apply more damage than other fighterbombers, particularly when sniping ships protected by some anti-air. They are less mass efficient than torpedo bombers, but more flexible as they can also hit hovering units, targets on land and deal splash damage, which can be valuable when killing engineers assisting a factory.
+- Comparison of <a href="http://content.faforever.com/faf/unitsDB/unit.php?bp=URA0204,UAA0204,UEA0204,XSA0204">T2 Torpedo Bombers</a>
 
-## Large Maps
+## Large Maps{.tabset}
 
-<img src="Sera_glaciers.png" title="fig:Sera_glaciers.png" width="50" alt="Sera_glaciers.png" /><img src="Roanoke_abyss.png" title="fig:Roanoke_abyss.png" width="50" alt="Roanoke_abyss.png" /><img src="Crossfire_canal.png" title="fig:Crossfire_canal.png" width="50" alt="Crossfire_canal.png" /><img src="Point_of_reach.png" title="fig:Point_of_reach.png" width="50" alt="Point_of_reach.png" /><img src="The_bermuda_locket.png" title="fig:The_bermuda_locket.png" width="50" alt="The_bermuda_locket.png" /><img src="Setons.png" title="fig:Setons.png" width="50" alt="Setons.png" /><img src="The_ditch.small.png" title="fig:The_ditch.small.png" width="50" alt="The_ditch.small.png" />Most
-large map 1v1s are an incredible drain on your multitasking. They often
-play like a number of simultaneous 10x10 maps. As a result they often
-have a similar play time as the more high-eco defensive medium-sized
-maps. The commonly played 1v1 20km maps all involve at least some
-element of naval play, as only Crossfire Canal has more land than water
-of the current common 20km 1v1 maps. T3 Air becomes much more common,
-and important - you probably won't win a 20x20 game if you lose a big
-ASF fight. There is generally less of an investment in land - drops and
-T2 amphibious raiding are more common than a full T3 land army.
-
-The general strengths and play style of Cybran remain - you want to
-decide the game earlier rather than later with your aggressive, flexible
-T2 options. This aggression must be effective against good players, or
-the reclaim from the fights will simply feed the late game eco and tech
-that you will have more difficulty killing. You have a clear T3 naval
-disadvantage to the UEF. You have a possible air disadvantage due to
-your lack of an Advanced Resource Allocation System (ARAS) upgrade on
-your ACU, which slows the necessary increase in mid/late game ASF
-production compared to Seraphim and particularly Aeon, who are likely to
-have secured air superiority already during any T2 phase with their
-Swift Winds.
+<img src="Sera_glaciers.png" title="fig:Sera_glaciers.png" width="50" alt="Sera_glaciers.png" /><img src="Roanoke_abyss.png" title="fig:Roanoke_abyss.png" width="50" alt="Roanoke_abyss.png" /><img src="Crossfire_canal.png" title="fig:Crossfire_canal.png" width="50" alt="Crossfire_canal.png" /><img src="Point_of_reach.png" title="fig:Point_of_reach.png" width="50" alt="Point_of_reach.png" /><img src="The_bermuda_locket.png" title="fig:The_bermuda_locket.png" width="50" alt="The_bermuda_locket.png" /><img src="Setons.png" title="fig:Setons.png" width="50" alt="Setons.png" /><img src="The_ditch.small.png" title="fig:The_ditch.small.png" width="50" alt="The_ditch.small.png" />
+Most large map 1v1s are an incredible drain on your multitasking. They often play like a number of simultaneous 10x10 maps. As a result they often have a similar play time as the more high-eco defensive medium-sized maps. The commonly played 1v1 20km maps all involve at least some element of naval play, as only Crossfire Canal has more land than water of the current common 20km 1v1 maps. T3 Air becomes much more common, and important - you probably won't win a 20x20 game if you lose a big ASF fight. There is generally less of an investment in land - drops and T2 amphibious raiding are more common than a full T3 land army. The general strengths and play style of Cybran remain - you want to decide the game earlier rather than later with your aggressive, flexible T2 options. This aggression must be effective against good players, or the reclaim from the fights will simply feed the late game eco and tech that you will have more difficulty killing. You have a clear T3 naval disadvantage to the UEF. You have a possible air disadvantage due to your lack of an Advanced Resource Allocation System (ARAS) upgrade on your ACU, which slows the necessary increase in mid/late game ASF production compared to Seraphim and particularly Aeon, who are likely to have secured air superiority already during any T2 phase with their Swift Winds.
 
 ### Summary
 
