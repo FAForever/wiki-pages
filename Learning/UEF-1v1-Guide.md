@@ -1,23 +1,24 @@
-![](Uef.png "fig:Uef.png") This page is a guide to help you play the UEF
-faction in a 1v1 scenario. If you haven't already, read the [Beginner's
-Guide to Forged
-Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink") and the
-[General 1v1 Guide](General_1v1_Guide "wikilink") first.
+---
+title: UEF-1v1-Guide
+description: 
+published: true
+date: 2021-10-25T15:03:50.255Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:45:37.233Z
+---
 
-UEF is the considered the ‘basic human’ faction of the game and has
-generally higher health –lower speed units on comparison to other
-factions, they focus on a more defensive play style; and you will find
-that the faction needs to reach higher level tech to gain access to
-their unique units.
+![](/images/learning/uef/uef.png "fig:Uef.png"){.align-right}This page is a guide to help you play the UEF faction in a 1v1 scenario. If you haven't already, read the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink") and the [General 1v1 Guide](General_1v1_Guide "wikilink") first.
 
--   <img src="UEF_T3_PD.png" title="fig:UEF_T3_PD.png" width="50" alt="UEF_T3_PD.png" />
+UEF is the considered the ‘basic human’ faction of the game and has generally higher health –lower speed units on comparison to other factions, they focus on a more defensive play style; and you will find that the faction needs to reach higher level tech to gain access to their unique units.
+- <img src="/images/learning/uef/uef_t3_pd.png" title="fig:UEF_T3_PD.png" width="50" align="centre" alt="UEF_T3_PD.png" />
     The Ravager point defence. (The minigun turret)
--   <img src="UEF_T3_Transport.png" title="fig:UEF_T3_Transport.png" width="50" alt="UEF_T3_Transport.png" />
+- <img src="UEF_T3_Transport.png" title="fig:UEF_T3_Transport.png" width="50" alt="UEF_T3_Transport.png" />
     The Continental heavy air transport. (Carries 28 T1 units)
--   <img src="UEF_T3_MML.png" title="fig:UEF_T3_MML.png" width="50" alt="UEF_T3_MML.png" />
+- <img src="UEF_T3_MML.png" title="fig:UEF_T3_MML.png" width="50" alt="UEF_T3_MML.png" />
     The Spearhead mobile missile platform. (Massive mobile missile
     salvos)
--   <img src="UEF_T3_Battlecruiser.png‎" title="fig:UEF_T3_Battlecruiser.png‎" width="50" alt="UEF_T3_Battlecruiser.png‎" />
+- <img src="UEF_T3_Battlecruiser.png‎" title="fig:UEF_T3_Battlecruiser.png‎" width="50" alt="UEF_T3_Battlecruiser.png‎" />
     The Neptune class Battlecruiser. (Essentially a T3 Laser Destroyer)
 
 <img src="UEF_T3_Heavy_Assault_Bot.png" title="fig:UEF_T3_Heavy_Assault_Bot.png" width="50" alt="UEF_T3_Heavy_Assault_Bot.png" /><img src="UEF_T3_Battleship.png" title="fig:UEF_T3_Battleship.png" width="50" alt="UEF_T3_Battleship.png" />
