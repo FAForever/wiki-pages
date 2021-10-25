@@ -2,7 +2,7 @@
 title: Cybran-1v1-Guide
 description: 
 published: true
-date: 2021-10-25T14:37:41.810Z
+date: 2021-10-25T14:38:45.200Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -18,14 +18,12 @@ The aggressive, flexible play style is also quite a lot of fun.
 ## Early Game{.tabset}
 
 ### Summary
-
-<img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /><img src="Cybran_T1_Bomber.png" title="fig:Cybran_T1_Bomber.png" width="50" alt="Cybran_T1_Bomber.png" /><img src="Cybran_T1_Gunship.png" title="fig:Cybran_T1_Gunship.png" width="50" alt="Cybran_T1_Gunship.png" />
 - Raid early and often on land maps, the T1 Assault Bot **Mantis** has a massive speed advantage.
 - Don't depend on your bomber's success, or be really good at your bomber micro.
 - Getting a T1 Gunship **Jester** after securing very early air control can also win you the game if you keep it alive.
 - Click on the sections below for more information.
 
-### <img src="Cybran_T1_Assault_Bot.png" title="fig:Cybran_T1_Assault_Bot.png" width="50" alt="Cybran_T1_Assault_Bot.png" /> Mantis
+### Mantis
 
 While you have LABs that can be used in the opening 90-120 seconds of the game due to their low build time, your main tank (actually another bot technically) is nearly as fast and will win if it runs in to an early lab from your enemy. The top speed of all LABs is 4.0 (remember that your Hunter has the lowest HP), the Mantis is 3.7, the Thaam is 3.5, the Striker is 3.4 and the Aurora is 2.9. The Mantis generally is about even with or slightly better than the Thaam in a straight fight, as it has 2 DPS more and 10 HP less, and is half way between a Striker and a LAB for speed.
 - Comparison of all T1 tanks, and all LABs.
