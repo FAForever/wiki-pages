@@ -2,7 +2,7 @@
 title: Faction-Information
 description: 
 published: true
-date: 2021-10-25T19:08:50.250Z
+date: 2021-10-25T19:10:02.890Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -90,13 +90,10 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - **Air:**
 	- <img src="/images/learning/sera/sera_t1_bomber.png" width="50" align="center"/> **Bomber** - The best T1 bomber.
 	- <img src="/images/learning/sera/sera_t1_transport.png" width="50" align="center"/> **Transport** - The best T1 transport. Can carry up to 8 T1 or 4 T2 units.
--   **Naval:**
-    -   <img src="Sera_T1_Sub.png" title="fig:Sera_T1_Sub.png" width="50" alt="Sera_T1_Sub.png" />
-        **Submarine** - Worst subs, since it can lose in 1v1 against
-        other subs. The only T1 submarine with torpedo defence.
+- **Naval:**
+	- <img src="/images/learning/sera/sera_t1_sub.png" width="50" align="center"/> **Submarine** - Worst subs, since it can lose in 1v1 against other subs. The only T1 submarine with torpedo defence.
 
-#### ![<File:Tech> 2 Icon.png](Tech_2_Icon.png "fig:File:Tech 2 Icon.png") Tech 2
-
+#### <img src="/images/learning/tech_2_icon.png"> Tech 2
 -   **Buildings:**
     -   <img src="Sera_T2_PD.png" title="fig:Sera_T2_PD.png" width="50" alt="Sera_T2_PD.png" />
         **Point Defense** - Uses a laser so it never misses or wastes
