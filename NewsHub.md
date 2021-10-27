@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-10-14T17:07:29.106Z
+date: 2021-10-27T22:20:47.062Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -31,7 +31,7 @@ Until now it has just been linking to a mix of pages on the website and the foru
 - [Tournaments](/Tournaments)
 - [FAQ](https://forum.faforever.com/category/18/frequently-asked-questions)
 - [FAF Projects](https://wikijs.faforever.com/en/Projects)
-- [Team Matchmaker](/TMM)
+- [Team Matchmaker](/tmm)
 - [Development](/FAF-Development)
 - [Creative](/Creative)
 - [Contribute](/Contribute)
