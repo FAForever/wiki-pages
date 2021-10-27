@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-10-27T22:37:23.217Z
+date: 2021-10-27T23:04:20.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -10,21 +10,21 @@ dateCreated: 2021-08-31T09:44:39.374Z
 
 ![newshub.png](/newshub.png)
 
-The NewsHub is the new and improved One Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team.
-The NewsHub can be accessed Via the Client and via the browser [here](https://www.faforever.com/newshub)
+The NewsHub is the new and improved One-Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team.
+The NewsHub can be accessed Via the Client and via the browser [here](https://www.faforever.com/newshub).
 
 **1) Topbar**
-Here is where Some Important Information that needed to be displayed, This can be from Server Updates
+Here is where Some Important Information that needed to be displayed, This can be from Server Updates.
 
 **2) Normal Article**
 The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
 
 **3) Hero Article**
-The Hero article is uses when something big has happened in the community or Tournament Winners E.G.
+The Hero article is used when something big has happened in the community or Tournament Winners E.G.
 Balance & Game Patch’s, Big Tournament Announcements and Much more.
 
 **4) Right Side Panel**
-The Information panel is where the Promotions Team and Set up a long term link for useful Information for the community to use.
+The Information panel is where the Promotions Team and Set up a long term link for useful information for the community to use.
 Until now it has just been linking to a mix of pages on the website and the forum.
 
 - [FAF Streamers & Casters](/Casts&Livestreams)
@@ -41,9 +41,9 @@ Until now it has just been linking to a mix of pages on the website and the foru
 
 
 **5,6,7) Left, Mid and Right Sidebar**
-This is the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
+These are the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
 
->Here are the Specifications for all the sizes for all the section if you would need a post on the NewsHub...
+>Here are the Specifications for all the sizes for all the sections if you would need a post on the NewsHub...
 >
 >All Images need to be 96 DPI
 >
