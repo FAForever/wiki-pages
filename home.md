@@ -2,7 +2,7 @@
 title: Main-Page
 description: 
 published: true
-date: 2021-10-27T22:13:46.151Z
+date: 2021-10-27T22:21:07.649Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -28,7 +28,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
-<li><img src="/faf-client-icons/tmm-icon.png"><a href="The-Ladder"> Team Matchmaker</a></li>
+<li><img src="/faf-client-icons/tmm-icon.png"><a href="tmm"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Replays &amp; Live Games</a></li>
