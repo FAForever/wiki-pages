@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-10-27T22:25:28.474Z
+date: 2021-10-27T22:26:39.215Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -23,7 +23,7 @@ The Normal article the Base News articles will be under E.G New Video Out, Ladde
 The Hero article is uses when something big has happened in the community or Tournament Winners E.G.
 Balance & Game Patch’s, Big Tournament Announcements and Much more.
 
-**4) [Right Side Panel](/Right-Side-Panel)**
+**4) Right Side Panel**
 The Information panel is where the Promotions Team and Set up a long term link for useful Information for the community to use.
 Until now it has just been linking to a mix of pages on the website and the forum.
 
