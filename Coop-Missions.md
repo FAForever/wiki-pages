@@ -2,7 +2,7 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-10-14T17:31:20.928Z
+date: 2021-10-27T22:58:00.543Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -18,7 +18,7 @@ Cooperative missions are an exclusive feature to Forged Alliance Forever.
 - Adjustment for cooperative difficulty
 - Slightly better campaign AI
 - Additional secondary objectives (thanks to gregory1001)
-- Cooperative leader board. Fight for the best time!
+- Cooperative leaderboard. Fight for the best time!
 ## Interface
 The interface is mostly self-explanatory, but we'll document it here anyway, as labeled:
 1) **Hosting Missions**
