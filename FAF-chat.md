@@ -2,8 +2,8 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-10-27T23:13:19.757Z
-tags: 
+date: 2021-12-23T18:53:31.880Z
+tags: chat tabs, chat commands, player list, player status, joining chat via browser, avatars
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
 ---
@@ -24,12 +24,12 @@ Write chat commands directly in chat, starting with "!" "#" or "/"
 - **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
 - **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
 - **!help** - Lists all available fafbot commands and their descriptions
-- **#REPLAYID** - Generated download link for [replay](/Replay-Vault-&-Live-Games), shows map played and lists all players.
+- **#REPLAYID** - Generated download link for [replay](/Replays-&-Live-Games), shows map played and lists all players.
 - **!kick** - used by channel operators for kicking users from the channel
 - **!ban** - used by channel operators for banning a user from channel
 - **/topic** - followed by text. Changes topic of a channel.
 
-**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/IRC-server) to your IRC.
+**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/Chat-IRC-server) to your IRC.
 
 ## Player list
 On the Right-hand side the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
@@ -48,7 +48,7 @@ This will not affect your friend's list or your account in any way, as the nickn
 User names are visible to everyone, and therefore must be kept clean and age-appropriate. You can only rename once every 30 days - if a moderator has to ask you to change your name, you'll be unable to chat until you can rename. Use common sense, and if you're having trouble coming up with a name on your own, try a service such as <http://rinkworks.com/namegen/>!
 
 ## Rating, League, and Division
-The rating shown in the lobby is always your [Global Ranking](/Global-Ranking). You can learn more here: Leagues and Divisions
+The rating shown in the lobby is always your [Global Ranking](/Rating-System). You can learn more here: Leagues and Divisions
 
 ## Avatars
 Right now, there are only a few ways to get avatars. Here is a list:
@@ -79,4 +79,4 @@ If you double click on a single sword, you will launch FA and join the player in
 If you double click on crossed swords, you will launch FA and start watching the [live replay](/LiveReplay-server-and-replays) from the beginning of their game.
 
 ## Joining Chat via Browser
-You can access it from any IRC client: [IRCServer](/IRC-server)
+You can access it from any IRC client: [IRCServer](/Chat-IRC-server)
