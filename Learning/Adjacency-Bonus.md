@@ -2,7 +2,7 @@
 title: Adjacency-Bonus
 description: 
 published: true
-date: 2021-12-23T14:54:26.458Z
+date: 2021-12-23T15:24:25.713Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -51,33 +51,33 @@ The values in this table are given for **one** mass producing structure next to 
 <tbody>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_mass_extractor.png"  width="40" align="left"> T1 Mass Extractor</td>
-    <td>7.5%</td>
-    <td>0.3-1 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful next to T1 Land Factories, if you're not going to eco much.<br></td>
+    <td align="center">7.5%</td>
+    <td align="center">0.3-1 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Useful next to T1 Land Factories, if you're not going to eco much.<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_mass_extractor.png"  width="40" align="left"> T2 Mass Extractor</td>
-    <td>10%<br></td>
-    <td>1-2 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful next to T2 Land Factories.</td>
+    <td align="center">10%<br></td>
+    <td align="center">1-2 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Useful next to T2 Land Factories.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_mass_extractor.png"  width="40" align="left"> T3 Mass Extractor</td>
-    <td>12.5%<br></td>
-    <td>2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%.</td>
+    <td align="center">12.5%<br></td>
+    <td align="center">2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_mass_fabricator.png"  width="40" align="left"> T2 Mass Fabricator</td>
-    <td>1.25%</td>
-    <td>0.1-0.3 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply.<br></td>
+    <td align="center">1.25%</td>
+    <td align="center">0.1-0.3 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply.<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_mass_fabricator.png"  width="40" align="left"> T3 Mass Fabricator</td>
-    <td>20%<br></td>
-    <td>2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td> Useful next to T3 factories and high mass consuming structures (20/s or more). Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%.</td>
+    <td align="center">20%<br></td>
+    <td align="center">2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center"> Useful next to T3 factories and high mass consuming structures (20/s or more). Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%.</td>
   </tr>
 </tbody>
 </table>
@@ -106,33 +106,33 @@ The percentage discount value depends on how much of the structure in question i
 <tbody>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
-    <td>25%</td>
-    <td>0.3-1 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Useful next to radar, air factories, not great next to land factories, but should still be used.<br></td>
+    <td align="center">25%</td>
+    <td align="center">0.3-1 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useful next to radar, air factories, not great next to land factories, but should still be used.<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
-    <td>12.5%<br></td>
-    <td>1-2 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td><b/>% value for ONE Hydro shown.</b> Useful next to T1/2 air Factories, generally useful.</td>
+    <td align="center">12.5%<br></td>
+    <td align="center">1-2 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center"><b/>% value for ONE Hydro shown.</b> Useful next to T1/2 air Factories, generally useful.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
-    <td>50%<br></td>
-    <td>2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Useful next to T2 air Factories.</td>
+    <td align="center">50%<br></td>
+    <td align="center">2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useful next to T2 air Factories.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
-    <td>75%</td>
-    <td>0.1-0.3 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Very Useful next to T3 air Factories.<br></td>
+    <td align="center">75%</td>
+    <td align="center">0.1-0.3 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Very Useful next to T3 air Factories.<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/a_paragon.png"  width="40" align="left"> T4 Paragon</td>
-    <td>0%<br></td>
-    <td>2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Useless - better to shield it.</td>
+    <td align="center">0%<br></td>
+    <td align="center">2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useless - better to shield it.</td>
   </tr>
 </tbody>
 </table>
@@ -169,51 +169,51 @@ Any structure which produces a resource, when placed next to a storage of that r
 <tbody>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_mass_extractor.png"  width="40" align="left"> T1 Mass Extractor</td>
-    <td>+0.25</td>
-    <td>+1 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Not very useful. Also not obvious due to how the game rounds the displayed values, same for T2 fabricators<br></td>
+    <td align="center">+0.25</td>
+    <td align="center">+1 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Not very useful. Also not obvious due to how the game rounds the displayed values, same for T2 fabricators<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_mass_extractor.png"  width="40" align="left"> T2 Mass Extractor</td>
-    <td>+0.75<br></td>
-    <td>+3 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful</td>
+    <td align="center">+0.75<br></td>
+    <td align="center">+3 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Useful</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_mass_extractor.png"  width="40" align="left"> T3 Mass Extractor</td>
-    <td>+2.25<br></td>
-    <td>+9 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Very Useful</td>
+    <td align="center">+2.25<br></td>
+    <td align="center">+9 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Very Useful</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_mass_fabricator.png"  width="40" align="left"> T2 Mass Fabricator</td>
-    <td>+0.125</td>
-    <td>+0.5 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Not Very Useful, unless the storages are next to an extractor<br></td>
+    <td align="center">+0.125</td>
+    <td align="center">+0.5 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Not Very Useful, unless the storages are next to an extractor<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_mass_fabricator.png"  width="40" align="left"> T3 Mass Fabricator</td>
-    <td>+0.48<br></td>
-    <td>+5.76 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Not Very Useful, better to place near t3 Pgens, Same for T2 Mass Fabs<br></td>
+    <td align="center">+0.48<br></td>
+    <td align="center">+5.76 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
+    <td align="center">Not Very Useful, better to place near t3 Pgens, Same for T2 Mass Fabs<br></td>
   </tr>
 </tbody>
 </table>
 
 Buildings which are affected by mass storages
 
-### <img src="Energy_Icon.png" title="fig:Energy_Icon.png" width="30" alt="Energy_Icon.png" /> Energy
+### <img src="/images/learning/adjacency/energy_icon.png" title="fig:Energy_Icon.png" width="30" alt="Energy_Icon.png" /> Energy
 
 <table style="undefined;table-layout: fixed; width: 808px">
 <colgroup>
 <col style="width: 250px">
 <col style="width: 150px">
-<col style="width: 127px">
-<col style="width: 500px">
+<col style="width: 150px">
+<col style="width: 300px">
 </colgroup>
 <thead>
   <tr>
-    <th>Energy Producing Structures<br></th>
+    <th>Energy Producing Structures<br><br></th>
     <th>Production Bonus for one storage</th>
     <th>Production Bonus for all storages</th>
     <th>Comments</th>
@@ -222,27 +222,27 @@ Buildings which are affected by mass storages
 <tbody>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
-    <td>+2.5 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>+10 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Almost useless due to the explosion when the storage dies.<br></td>
+    <td align="center">+2.5 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">+10 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Almost useless due to the explosion when the storage dies.<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
-    <td>+4 <img src="/images/learning/adjacency/energy_icon.png" align="center"><br></td>
-    <td>+50 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Almost useless due to the explosion when the storage dies.</td>
+    <td align="center">+4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">+50 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Almost useless due to the explosion when the storage dies.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
-    <td>+27.78 <img src="/images/learning/adjacency/energy_icon.png" align="center"><br></td>
-    <td>+250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Almost useless due to the explosion when the storage dies.</td>
+    <td align="center">+27.78 <img src="/images/learning/adjacency/energy_icon.png" align="center"><br></td>
+    <td align="center">+250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Almost useless due to the explosion when the storage dies.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
-    <td>+78.125 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>+1250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td>Almost useless due to the explosion when the storage dies.<br></td>
+    <td align="center">+78.125 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">+1250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Almost useless due to the explosion when the storage dies.<br></td>
   </tr>
 </tbody>
 </table>
@@ -270,13 +270,68 @@ The Aeon T3 Rapid-fire Artillery can achieve the maximum possible reload time di
 
 This table shows all possible time values:
 
-| Artillery Unit                                                                                                                 | T1 Power Generator | Hydrocarbon Power plant | T2 Power Generator | T3 Power Generator | Comments                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------|--------------------|--------------------|---------------------------------------------------------------------------------------------------------------------|
-| <img src="UEF_T2_Arty.png" title="fig:UEF_T2_Arty.png" width="40" alt="UEF_T2_Arty.png" /> T2 Artillery                        | 2s                 | 5s                      | 5s                 | 8s                 | T1 pgens useful, especially with multiple artillery structures.                                                     |
-| <img src="UEF_T3_Static_Arty.png" title="fig:UEF_T3_Static_Arty.png" width="40" alt="UEF_T3_Static_Arty.png" /> T3 Artillery   | 1s                 | 2.5s                    | 2.5s               | 4s                 | Very useful with T3 pgens, or any pgens. Note: Aeon artillery has twice the reload time, and so twice the discount. |
-| <img src="A_T3_Rapid_Arty.PNG" title="fig:A_T3_Rapid_Arty.PNG" width="40" alt="A_T3_Rapid_Arty.PNG" /> T3 Rapid-fire Artillery | 0.31s              | 0.775s                  | 0.775s             | 1.24s              | The size allows you to surround it with a T3 and T1 pgen. Reload time discount: 1.302s.                             |
-| <img src="UEF_T4_Static_Arty.png" title="fig:UEF_T4_Static_Arty.png" width="40" alt="UEF_T4_Static_Arty.png" /> T4 Artillery   | 0.8s               | 2s                      | 2s                 | 3.2s               | Very useful with T3 pgens, or any pgens.                                                                            |
-| <img src="UEF_T3_PD.png" title="fig:UEF_T3_PD.png" width="40" alt="UEF_T3_PD.png" /> T3 Ravager                                | 0s                 | 0s                      | 0s                 | 0s                 | Only profits from energy consumption reduction (see table below). Quite useless.                                    |
+<table style="undefined;table-layout: fixed; width: 808px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 100px">
+<col style="width: 120px">
+<col style="width: 100px">
+<col style="width: 100px">
+<col style="width: 400px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Artillery Unit<br></th>
+    <th>T1 Power Generator</th>
+    <th>Hydrocarbon Power Plant</th>
+    <th>T2 Power Generator</th>
+    <th>T3 Power Generator<br></th>
+    <th>Comments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t2_arty.png"  width="40" align="left"> T2 Artillery</td>
+    <td align="center">2s</td>
+    <td align="center">5s</td>
+    <td align="center">5s</td>
+    <td align="center">8s</td>
+    <td>T1 pgens useful, especially with multiple artillery structures.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t3_static_arty.png"  width="40" align="left"> TT3 Artillery</td>
+    <td align="center">1s</td>
+    <td align="center">2.5s</td>
+    <td align="center">2.5s</td>
+    <td align="center">4s</td>
+    <td>Very useful with T3 pgens, or any pgens. Note: Aeon artillery has twice the reload time, and so twice the discount.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/a_t3_rapid_arty.png"  width="40" align="left"> T4 Rapid-fire Artillery</td>
+    <td align="center">0.31s</td>
+    <td align="center">0.775s</td>
+    <td align="center">0.775s</td>
+    <td align="center">1.24s</td>
+    <td>The size allows you to surround it with a T3 and T1 pgen. Reload time discount: 1.302s.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t4_static_arty.png"  width="40" align="left"> T4 Artillery</td>
+    <td align="center">2s</td>
+    <td align="center">5s</td>
+    <td align="center">5s</td>
+    <td align="center">8s</td>
+    <td>Very useful with T3 pgens, or any pgens.<br></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t3_pd.png"  width="40" align="left"> T3 Ravager</td>
+    <td align="center">0s</td>
+    <td align="center">0s</td>
+    <td align="center">0s</td>
+    <td align="center">0s</td>
+    <td> 	Only profits from energy consumption reduction (see table below). Quite useless.<br></td>
+  </tr>
+</tbody>
+</table>
 
 Reload Time discount on Artillery structures
 
@@ -284,11 +339,46 @@ Reload Time discount on Artillery structures
 
 The rate of fire bonus reduces the time structures consume energy, but will also increase the frequency of energy consumption as a result of the increased fire rate. But in addition to that, powergenerators give a general discount on energy consumption to static artilleries. Making decisions around this behaviour is not recommended as the energy reduction is very low compared to the resources invested. This table is mostly to provide you information of how it works.
 
-| Energy Producing Structures                                                                                                                                                    | Discount Percentage | Typical Discount value                                                        | Comments                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| <img src="UEF_T1_Power_Generator.png" title="fig:UEF_T1_Power_Generator.png" width="40" alt="UEF_T1_Power_Generator.png" /> T1 Power Generator                                 | 10%                 | 15-750 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")  | Useful next to all static artillery, especially T2, when safety is important |
-| <img src="UEF_T1_Hydrocarbon_Power_Plant.png" title="fig:UEF_T1_Hydrocarbon_Power_Plant.png" width="40" alt="UEF_T1_Hydrocarbon_Power_Plant.png" /> T1 Hydrocarbon Power Plant | 20%                 | 30-1500 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png") | Useful next to T2/T3 static artillery                                        |
-| <img src="UEF_Power_Generator.png" title="fig:UEF_Power_Generator.png" width="40" alt="UEF_Power_Generator.png" /> T2 Power Generator                                          | 20%                 | 30-1500 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png") | Useful next to T2/T3 static artillery                                        |
-| <img src="UEF_T3_Power_Generator.png" title="fig:UEF_T3_Power_Generator.png" width="40" alt="UEF_T3_Power_Generator.png" /> T3 Power Generator                                 | 30%                 | 60-3000 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png") | Useful next to T3/T4 static artillery                                        |
-
+<table style="undefined;table-layout: fixed; width: 808px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 400px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Energy Producing Structures<br><br></th>
+    <th>Discount Percentage</th>
+    <th>Typical Discount value</th>
+    <th>Comments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
+    <td align="center">10% </td>
+    <td align="center">10-750 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useful next to all static artillery, especially T2, when safety is important</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
+    <td align="center">20% </td>
+    <td align="center">30-1500 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useful next to T2/T3 static artillery</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
+    <td align="center">20% </td>
+    <td align="center">30-1500 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useful next to T2/T3 static artillery</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
+    <td align="center">30% </td>
+    <td align="center">60-3000 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td align="center">Useful next to T3/T4 static artillery</td>
+  </tr>
+</tbody>
+</table>
 Buildings which give Energy discount bonuses
