@@ -2,7 +2,7 @@
 title: Game-Modifications-(Mods)
 description: 
 published: true
-date: 2021-12-23T16:13:45.774Z
+date: 2021-12-23T16:15:02.488Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -269,15 +269,18 @@ This mod improves the readability and visibility of the strategic icons, adjusti
 
 Latest version can be found in the first post of [this forum thread.](https://forums.faforever.com/viewtopic.php?t=2740)
 
-### <img src="/images/modding/ta_music_icon.png" width="40" /> [Total Annihilation Music Mod](/Total_Annihilation_Music_Mod)
+### <img src="/images/modding/ta_music_icon.png" width="40" /> Total Annihilation Music Mod
 
-### <img src="/images/modding/sc_music_icon.png" width="40" /> [Supreme Commander Music Mod](/Supreme_Commander_Music_Mod)
+Available in the Mod Vault
+### <img src="/images/modding/sc_music_icon.png" width="40" /> Supreme Commander Music Mod
+Available in the Mod Vault
 
 ## Sim Mods
 
 Sim mods are mods which affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game. Most Sim mods make a game [unrated.](Global_Ranking#When_is_the_game_rated.3F "wikilink")
 
 ### <img src="/images/modding/rks_explosions_icon.jpg" width="40"/>[RK's Explosions](https://forums.faforever.com/viewtopic.php?f=41&t=6813)
+Available in the Mod Vault
 
 ## Featured Mods
 
