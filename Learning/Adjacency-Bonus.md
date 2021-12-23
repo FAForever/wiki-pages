@@ -2,7 +2,7 @@
 title: Adjacency-Bonus
 description: 
 published: true
-date: 2021-12-23T14:44:50.883Z
+date: 2021-12-23T14:54:26.458Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:41:57.317Z
 
 # Adjacency Bonus
 
-The Adjacency Bonus is a [game mechanic](/Learning_SupCom#Tutorial_Videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
+The Adjacency Bonus is a [game mechanic](/Learning-SupCom#tutorial-videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
 
 ## General
 <img src="/images/learning/adjacency/adjacency_diagram.png" width="450" align="right"/> 
@@ -97,96 +97,43 @@ The percentage discount value depends on how much of the structure in question i
 </colgroup>
 <thead>
   <tr>
-    <th>Mass Producing Structures<br></th>
-    <th>Production Bonus for one storage</th>
-    <th>Production Bonus for all storages</th>
+    <th>Energy Producing Structures<br></th>
+    <th>Discount Percentage</th>
+    <th>Typical Discount value</th>
     <th>Comments</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
-    <td>7.5%</td>
-    <td>0.3-1 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful next to T1 Land Factories, if you're not going to eco much.<br></td>
+    <td>25%</td>
+    <td>0.3-1 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Useful next to radar, air factories, not great next to land factories, but should still be used.<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T2 Mass Extractor</td>
-    <td>10%<br></td>
-    <td>1-2 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful next to T2 Land Factories.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T3 Mass Extractor</td>
+    <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
     <td>12.5%<br></td>
-    <td>2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%.</td>
+    <td>1-2 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td><b/>% value for ONE Hydro shown.</b> Useful next to T1/2 air Factories, generally useful.</td>
   </tr>
   <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T2 Mass Fabricator</td>
-    <td>1.25%</td>
-    <td>0.1-0.3 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td>Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply.<br></td>
+    <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
+    <td>50%<br></td>
+    <td>2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Useful next to T2 air Factories.</td>
   </tr>
   <tr>
-    <td align="center"><img src="/images/learning/adjacency/a_paragon.png"  width="40" align="left"> T3 Mass Fabricator</td>
-    <td>20%<br></td>
-    <td>2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td> Useful next to T3 factories and high mass consuming structures (20/s or more). Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%.</td>
+    <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
+    <td>75%</td>
+    <td>0.1-0.3 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Very Useful next to T3 air Factories.<br></td>
   </tr>
-</tbody>
-</table>
-
-<table>
-<caption>Buildings which give Energy discount bonuses</caption>
-<thead>
-<tr class="header">
-<th><p>Energy Producing Structures</p>
-<dl>
-<dt></dt>
-<dd><dl>
-<dt></dt>
-<dd>
-</dd>
-</dl>
-</dd>
-</dl></th>
-<th><p>Discount Percentage</p></th>
-<th><p>Typical Discount value</p></th>
-<th><p>Comments</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="UEF_T1_Power_Generator.png" width="40"/> T1 Power Generator</p></td>
-<td><p>25%</p></td>
-<td><p>1-5 <img src="/images/learning/adjacency/energy_icon.png" /></p></td>
-<td><p>Useful next to radar, air factories, not great next to land factories, but should still be used.</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="UEF_T1_Hydrocarbon_Power_Plant.png" title="fig:UEF_T1_Hydrocarbon_Power_Plant.png" width="40" alt="UEF_T1_Hydrocarbon_Power_Plant.png" /> T1 Hydrocarbon Power Plant</p></td>
-<td><p>12.5%</p></td>
-<td><p>10-50 <img src="/images/learning/adjacency/energy_icon.png" /></p></td>
-<td><p><strong>% value for ONE Hydro shown.</strong> Useful next to T1/2 air Factories, generally useful.</p></td>
-</tr>
-<tr class="odd">
-<td><p><img src="UEF_Power_Generator.png" title="fig:UEF_Power_Generator.png" width="40" alt="UEF_Power_Generator.png" /> T2 Power Generator</p></td>
-<td><p>50%</p></td>
-<td><p>20-100 <img src="/images/learning/adjacency/energy_icon.png" /></p></td>
-<td><p>Useful next to T2 air Factories.</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="UEF_T3_Power_Generator.png" title="fig:UEF_T3_Power_Generator.png" width="40" alt="UEF_T3_Power_Generator.png" /> T3 Power Generator</p></td>
-<td><p>75%</p></td>
-<td><p>200-750 <img src="/images/learning/adjacency/energy_icon.png" /></p></td>
-<td><p>Very Useful next to T3 air Factories.</p></td>
-</tr>
-<tr class="odd">
-<td><p><img src="A_Paragon.PNG" title="fig:A_Paragon.PNG" width="40" alt="A_Paragon.PNG" /> T4 Paragon</p></td>
-<td><p>0%</p></td>
-<td><p>0 <img src="/images/learning/adjacency/energy_icon.png" /></p></td>
-<td><p>Useless - better to shield it.</p></td>
-</tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/a_paragon.png"  width="40" align="left"> T4 Paragon</td>
+    <td>0%<br></td>
+    <td>2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Useless - better to shield it.</td>
+  </tr>
 </tbody>
 </table>
 
@@ -257,16 +204,53 @@ Buildings which are affected by mass storages
 
 ### <img src="Energy_Icon.png" title="fig:Energy_Icon.png" width="30" alt="Energy_Icon.png" /> Energy
 
-| Energy Producing Structures                                                                                                                                                    | Production Bonus for one storage                                              | Production Bonus for all storages                                           | Comments                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
-| <img src="UEF_T1_Power_Generator.png" title="fig:UEF_T1_Power_Generator.png" width="40" alt="UEF_T1_Power_Generator.png" /> T1 Power Generator                                 | +2.5 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")    | +10 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")   | Almost useless due to the explosion when the storage dies. |
-| <img src="UEF_T1_Hydrocarbon_Power_Plant.png" title="fig:UEF_T1_Hydrocarbon_Power_Plant.png" width="40" alt="UEF_T1_Hydrocarbon_Power_Plant.png" /> T1 Hydrocarbon Power Plant | +4 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")      | +50 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")   | Almost useless due to the explosion when the storage dies. |
-| <img src="UEF_Power_Generator.png" title="fig:UEF_Power_Generator.png" width="40" alt="UEF_Power_Generator.png" /> T2 Power Generator                                          | +27.78 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")  | +250 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png")  | Almost useless due to the explosion when the storage dies. |
-| <img src="UEF_T3_Power_Generator.png" title="fig:UEF_T3_Power_Generator.png" width="40" alt="UEF_T3_Power_Generator.png" /> T3 Power Generator                                 | +78.125 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png") | +1250 ![<File:Energy_Icon.png>](Energy_Icon.png "fig:File:Energy_Icon.png") | Almost useless due to the explosion when the storage dies. |
+<table style="undefined;table-layout: fixed; width: 808px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 150px">
+<col style="width: 127px">
+<col style="width: 500px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Energy Producing Structures<br></th>
+    <th>Production Bonus for one storage</th>
+    <th>Production Bonus for all storages</th>
+    <th>Comments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
+    <td>+2.5 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>+10 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Almost useless due to the explosion when the storage dies.<br></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
+    <td>+4 <img src="/images/learning/adjacency/energy_icon.png" align="center"><br></td>
+    <td>+50 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Almost useless due to the explosion when the storage dies.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
+    <td>+27.78 <img src="/images/learning/adjacency/energy_icon.png" align="center"><br></td>
+    <td>+250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Almost useless due to the explosion when the storage dies.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
+    <td>+78.125 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>+1250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
+    <td>Almost useless due to the explosion when the storage dies.<br></td>
+  </tr>
+</tbody>
+</table>
 
 Buildings which are affected by Energy storages
+> Note: Adjacency Bonus should be used well-considered. Players with little experience tend to surround hydrocarbon power plants with energy storages to get 50% more energy, or similar things. The bonus you want to have, can quickly turn into an economic disadvantage if you try to profit that way. Keep in mind the costs of 12 energy storages which amount to 14400 energy and 3000 mass. It would take 5 minutes until you profit from the energy bonus. The mass covers about the costs of a T3 power generator which would produce 2500 energy instead of 50.
+{.is-info}
 
-Note: Adjacency Bonus should be used well-considered. Players with little experience tend to surround hydrocarbon power plants with energy storages to get 50% more energy, or similar things. The bonus you want to have, can quickly turn into an economic disadvantage if you try to profit that way. Keep in mind the costs of 12 energy storages which amount to 14400 energy and 3000 mass. It would take 5 minutes until you profit from the energy bonus. The mass covers about the costs of a T3 power generator which would produce 2500 energy instead of 50.
 
 ## Weapon Bonuses
 
