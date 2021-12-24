@@ -2,10 +2,10 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-12-23T16:27:01.554Z
+date: 2021-10-27T23:04:20.214Z
 tags: 
 editor: markdown
-dateCreated: 2021-12-23T16:27:01.554Z
+dateCreated: 2021-08-31T09:44:39.374Z
 ---
 
 ![newshub.png](/newshub.png)
@@ -28,16 +28,16 @@ The Information panel is where the Promotions Team and Set up a long term link f
 Until now it has just been linking to a mix of pages on the website and the forum.
 
 - [FAF Streamers & Casters](/Casts&Livestreams)
-- [Job Board](/Job-Board)
+- [Tournaments](/Tournaments)
 - [FAQ](https://forum.faforever.com/category/18/frequently-asked-questions)
 - [FAF Projects](https://wikijs.faforever.com/en/Projects)
 - [Team Matchmaker](/tmm)
-- [Development](/Development)
+- [Development](/FAF-Development)
 - [Creative](/Creative)
 - [Contribute](/Contribute)
 - [Promotions](/Promotions)
 - [From the Internet](/From-the-Internet)
-- [Code of Conduct](/FAF-Code-of-Conduct)
+
 
 
 **5,6,7) Left, Mid and Right Sidebar**
