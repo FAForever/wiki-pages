@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2021-12-23T18:59:49.162Z
+date: 2021-12-24T15:25:54.843Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T18:59:49.162Z
@@ -15,31 +15,31 @@ dateCreated: 2021-12-23T18:59:49.162Z
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> NewsHub</a></li>
-<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Coop Missions</a></li>
+<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> NieuwsHub</a></li>
+<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Coop Missies</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF chat</a></li>
-<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Leaderboards</a></li>
+<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Ranklijst</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host & Join</a></li>
-<li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> Unit Database</a></li>
+<li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> Troepen Database</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
+<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Kaart & Mod Kluis</a></li>
 <li><img src="/faf-client-icons/tmm-icon.png"><a href="tmm"> Team Matchmaker</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Replays &amp; Live Games</a></li>
-<li><a href="/Tutorials"> Tutorials Tab</a></li>
+<li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Herhalingen &amp; Live Spellen</a></li>
+<li><a href="/Tutorials"> Uitleg Pagina</a></li>
 </ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## User Groups & FAQ & Rules 
+## Gebruikers Groepen & FAQ & Regels 
 <table>
 <tbody>
 <tr>
@@ -47,19 +47,19 @@ dateCreated: 2021-12-23T18:59:49.162Z
 <li><a href="FAQ"> FAQ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups"> User Groups</a></li>
+<li><a href="User-Groups"> Gebruikers Groepen</a></li>
 </ul></td>
 <td><ul>
 <li><a href="User-Groups#trainers"> Trainers</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
+<li><a href="User-Groups#tournament-directors"> Toernooi Leidinggevenden</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAF-Rules"> Rules</a></li>
+<li><a href="FAF-Rules"> Regels</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Vault-Rules">Vault Rules</a></li>
+<li><a href="Vault-Rules">Kluis Regels</a></li>
 </ul></td>
 </tr>
 </tbody>
