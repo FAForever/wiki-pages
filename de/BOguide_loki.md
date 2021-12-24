@@ -1,0 +1,1 @@
+1.  REDIRECT [BOguide Loki](BOguide_Loki "wikilink")
