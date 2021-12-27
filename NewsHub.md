@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-12-27T11:43:39.583Z
+date: 2021-12-27T11:44:53.536Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -44,7 +44,7 @@ Pour le moment ce sont juste des liens vers des forums ou page web.
 
 Ces bars sont utiliser par la grosse équipe de promotion pour les prochains tournoi exemple l'image ci-dessus est une promotion pour le tournoi "2020 Summer Invitational".
 
->Icice trouve les spécifications pour toute les sections si vous avez besoin du NewsHub...
+>Ici ce trouve les spécifications pour toute les sections si vous avez besoin du NewsHub...
 >
 >Toutes les images ont besoin d'être au format 96 DPI
 >
