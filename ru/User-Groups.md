@@ -2,26 +2,26 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-27T22:32:39.931Z
+date: 2021-12-27T22:46:46.277Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
 ---
 
-## Council of Setons
+## Совет сетона
 
-Forged Alliance Forever (FAF) is a community project of players and contributors who want to sustain and advance the game Supreme Commander: Forged Alliance.
+Forged Alliance Forever (FAF) - проект сообщества игроков и контрибьюторов, которые хотят поддерживать и продвигать игру Supreme Commander: Forged Alliance. 
 
-The Council of Setons is a group of FAF contributors selected and tasked with the responsibility to guide the FAF community project.
+Совет Сетона - это группа участников FAF, выбранных и уполномоченных руководить проектом FAF. 
 
-These are the current members of the council:
+Действующие лица совета:
 
-- ![cos-balance.png](/cos-icons/cos-balance.png) **Balance Councillor:** 
-	>	**Petricpwnz** (former: **JaggedAppliance**, and **Zockyzock**)
-- ![cos-moderation.png](/cos-icons/cos-moderation.png) **Moderators Councillor:**
-	>	**Giebmasse** (former: **Gorton**. **Voodoo**)
-- ![cos-player.png](/cos-icons/cos-player.png) **Players Councillor:** 
-	>	**Morax** (former: **FtXCommando** **Tokyto_**)
+- ![cos-balance.png](/cos-icons/cos-balance.png) **Советник Баланса:** 
+	>	**Petricpwnz** (основатель: **JaggedAppliance** и  **Zockyzock**)
+- ![cos-moderation.png](/cos-icons/cos-moderation.png) **Советник Модерации:**
+	>	**Giebmasse** (основатель: **Gorton** и **Voodoo**)
+- ![cos-player.png](/cos-icons/cos-player.png) **Советник Игроков:** 
+	>	**Morax** (основатель: **FtXCommando** и **Tokyto_**)
 - ![cos-game.png](/cos-icons/cos-game.png) **Games Councillor:** 
 	>	**Keyser** (former: **IceDreamer**)
 - ![cos-promo.png](/cos-icons/cos-promo.png) **Promotions Councillor:** 
