@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-23T18:53:31.880Z
+date: 2021-12-27T16:16:25.815Z
 tags: chat tabs, chat commands, player list, player status, joining chat via browser, avatars
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
@@ -10,29 +10,28 @@ dateCreated: 2021-08-31T09:43:19.686Z
 
 ![chat-tab2.png](/chat-tab2.png)
 ## Chat tabs
-- `#aeolus` is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also, follow the [chat rules](https://faforever.com/rules). 
-- Chatrooms without a # are private, such as direct messages to other players.
+- '#aeolus' est le canal par défaut que chaque joueur rejoint automatiquement lorsqu’il démarre FAF. Le chat principal est en anglais seulement, donc s’il vous plaît ne pas utiliser d’autres langues là-bas. Suivez également les [chat rules](https://faforever.com/rules).
+- Les salons de discussion sans # sont privés, tels que les messages directs aux autres joueurs.
 
-You can open up a private chat with a player by double-clicking his name in the name list.
+Vous pouvez ouvrir un chat privé avec un joueur en double-cliquant sur son nom dans la liste des noms.
 ## Chat commands
-Write chat commands directly in chat, starting with "!" "#" or "/"
-
-- **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
-- **!seen** - followed by the username. Shows when was user last time online, it is case sensitive.
+Écrivez des commandes de chat directement dans le chat, en commençant par « ! » « # » ou « / »
+- **/me** - suivi d’un texte. Parle à la 3ème personne. Eg. *Utilisateur suivi d’un texte*.
+- **!seen** - suivi du nom d’utilisateur. Indique quand l’utilisateur a été la dernière fois en ligne, il est sensible à la casse.
 - **!streams** - Shows all currently online [streams](/Casts&Livestreams ) of Forged Alliance. (Twitch, HitBox, etc)
-- **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
-- **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
-- **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
-- **!help** - Lists all available fafbot commands and their descriptions
-- **#REPLAYID** - Generated download link for [replay](/Replays-&-Live-Games), shows map played and lists all players.
-- **!kick** - used by channel operators for kicking users from the channel
-- **!ban** - used by channel operators for banning a user from channel
-- **/topic** - followed by text. Changes topic of a channel.
+- **!streams** - Affiche tous les [streams] actuellement en ligne (/Casts&Livestreams) de Forged Alliance. (Twitch, HitBox, etc.)
+- **!trainers** - Messages privées vous une liste de [formateurs] actuellement en ligne (/User-Groups#trainers).
+- **!mods** - Messages privées vous une liste de [modérateurs] actuellement en ligne (/User-Groups#faf-moderators).
+- **!help** - Répertorie toutes les commandes fafbot disponibles et leurs descriptions
+- **#REPLAYID** - Lien de téléchargement généré pour [replay](/Replays-&-Live-Games), montre la carte jouée et répertorie tous les joueurs.
+- **!kick** - utilisé par les opérateurs de chaîne pour expulser les utilisateurs de la chaîne
+- **!ban** - utilisé par les opérateurs de chaîne pour bannir un utilisateur de la chaîne
+- **/topic** - suivi du texte. Modifie la rubrique d’un canal.
 
-**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/Chat-IRC-server) to your IRC.
+Les commandes **!kick**,**!ban** et **/topic** peuvent être utilisées dans votre canal de chat de clan si le canal est [enregistré] (/Chat-IRC-server) sur votre IRC.
 
 ## Player list
-On the Right-hand side the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
+Sur le côté droit, la fenêtre de recherche. Il essaiera de trouver des joueurs en ligne qui sont actuellement dans le chat et d’afficher combien de joueurs sont en ligne pendant que vous ne recherchez pas.
 - There is an option to assign randomly coloured names to each player, but this will only override grey and dark grey colours
 
 ### [Clans](/Clans)
