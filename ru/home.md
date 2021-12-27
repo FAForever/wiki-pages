@@ -1,8 +1,8 @@
 ---
-title: Main Page
+title: Главная страница
 description: 
 published: true
-date: 2021-12-27T22:13:25.656Z
+date: 2021-12-27T22:14:56.994Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -15,51 +15,51 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> Новостная Лента</a></li>
-<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Кооперативные Миссии</a></li>
+<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> NewsHub</a></li>
+<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Совместная кампания</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF Чат</a></li>
-<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Таблицы Рейтингов </a></li>
+<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF чат</a></li>
+<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Таблицы лидеров</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host & Join</a></li>
-<li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> База Юнитов</a></li>
+<li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Хост и подключение</a></li>
+<li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> Список юнитов</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
-<li><img src="/faf-client-icons/tmm-icon.png"><a href="tmm"> Team Matchmaker</a></li>
+<li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Хранилище карт и модов</a></li>
+<li><img src="/faf-client-icons/tmm-icon.png"><a href="tmm"> Командный подбор</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Replays &amp; Live Games</a></li>
-<li><a href="/Tutorials"> Tutorials Tab</a></li>
+<li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Повторы и наблюдение</a></li>
+<li><a href="/Tutorials"> Обучение</a></li>
 </ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## User Groups & FAQ & Rules 
+## Пользовательские группы, ЧаВо и Правила
 <table>
 <tbody>
 <tr>
 <td><ul>
-<li><a href="FAQ"> FAQ</a></li>
+<li><a href="FAQ"> ЧаВо</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups"> User Groups</a></li>
+<li><a href="User-Groups"> Пользовательские группы</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups#trainers"> Trainers</a></li>
+<li><a href="User-Groups#trainers"> Trainers (Администрация)</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups#tournament-directors"> Директоры Турниров</a></li>
+<li><a href="User-Groups#tournament-directors"> Организаторы турниров</a></li>
 </ul></td>
 <td><ul>
 <li><a href="FAF-Rules"> Правила</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Vault-Rules">Правила Хранилища</a></li>
+<li><a href="Vault-Rules"> Правила карт и модов</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -67,29 +67,29 @@ dateCreated: 2021-12-23T16:26:19.315Z
 
 
 
-## **Useful Information**
+## **Полезная информация**
 <table>
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Изучение Supcom</a></li>
-<li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
-<li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Changes from steam</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Изучая SupCom</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Глоссарий</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Отличия от Steam</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Кланы</a></li>
-<li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Casts & Livestreams</a></li>
+<li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Касты и стримы</a></li>
 <li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink"> Турниры</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/gazui.png" width="20"/><a href="Game-Modifications-(Mods)"> Игровые модификации (Моды)</a></li>
-<li><img src="/information-icons/replays-icon.png"/><a href="LiveReplay-server-and-replays"> LiveReplay server and replays</a></li>
-<li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Голосовой Чат</a></li>
+<li><img src="/information-icons/replays-icon.png"/><a href="LiveReplay-server-and-replays"> Сервер LiveReplay и повторы</a></li>
+<li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Голосовой чат</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/qai.png" width="25"/><a href="Bots">Боты</a></li>
-<li><img src="/information-icons/chat-icon.png"/><a href="Chat-IRC-server"> Connect to Aeolus via IRC</a></li>
-<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Рейтинговая Система</a></li>
+<li><img src="/information-icons/qai.png" width="25"/><a href="Bots"> Боты</a></li>
+<li><img src="/information-icons/chat-icon.png"/><a href="Chat-IRC-server"> Подключение к  Aeolus через IRC</a></li>
+<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Система рейтинга</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -105,8 +105,8 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <li><img src="/map-and-mod-icons/faf-map-editor.png" width="40"/><a href="FA-Forever-Map-Editor"> FA Forever Map Editor</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Mission-Scripting"> Mission Scripting</a></li>
-<li><a href="Adaptive-Maps"> Adaptive Maps</a></li>
+<li><a href="Mission-Scripting"> Написание миссий</a></li>
+<li><a href="Adaptive-Maps"> Адаптивные карты</a></li>
 </ul></td>
 <td><ul>
 <li><a href=""> Blank 1</a></li>
@@ -121,23 +121,23 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <tbody>
 <tr>
 <td><ul>
-<li><a href="Modding"> Modding</a></li>
+<li><a href="Modding"> Модифицирование</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAF-Development"> FAF Development</a></li>
+<li><a href="FAF-Development"> FAF разработка</a></li>
 </ul></td>
 <td><ul>
-<li><a href="AI-Modding"> AI Modding</a></li>
+<li><a href="AI-Modding"> Модифицирование ИИ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Bug-reporting-and-testing"> Bug reporting and testing</a></li>
+<li><a href="Bug-reporting-and-testing"> Тестирование и отзывы</a></li>
 </ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## Game & Balance Patchnotes
+## Игровой баланс и патчи
 <table>
 <tbody>
 <tr class="odd">
@@ -171,4 +171,4 @@ dateCreated: 2021-12-23T16:26:19.315Z
 
 
 
-**Please Note: Currenly the FAF Login does not work if you would like to help and contribute to the wiki please contact the Promotions Team [here](https://discord.gg/YdGN2aESTQ)**
+**Внимание: На данный момент FAF Login не работает. Если Вы хотите помочь и поучаствовать в Wiki, пожалуйста, свяжитесь с  Promotions Team [здесь](https://discord.gg/YdGN2aESTQ).**
