@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-27T18:19:49.789Z
+date: 2021-12-27T18:20:01.889Z
 tags: chat tabs, chat commands, player list, player status, joining chat via browser, avatars
 editor: markdown
 dateCreated: 2021-12-23T18:54:00.529Z
@@ -10,73 +10,70 @@ dateCreated: 2021-12-23T18:54:00.529Z
 
 ![chat-tab2.png](/chat-tab2.png)
 ## Chat tabs
-- `#aeolus` is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also, follow the [chat rules](https://faforever.com/rules). 
-- Chatrooms without a # are private, such as direct messages to other players.
+- '#aeolus' est le canal par défaut que chaque joueur rejoint automatiquement lorsqu’il démarre FAF. Le chat principal est en anglais seulement, donc s’il vous plaît ne pas utiliser d’autres langues là-bas. Suivez également les [chat rules](https://faforever.com/rules).
+- Les salons de discussion sans # sont privés, tels que les messages directs aux autres joueurs.
 
-You can open up a private chat with a player by double-clicking his name in the name list.
+Vous pouvez ouvrir un chat privé avec un joueur en double-cliquant sur son nom dans la liste des noms.
 ## Chat commands
-Write chat commands directly in chat, starting with "!" "#" or "/"
-
-- **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
-- **!seen** - followed by the username. Shows when was user last time online, it is case sensitive.
+Écrivez des commandes de chat directement dans le chat, en commençant par « ! » « # » ou « / »
+- **/me** - suivi d’un texte. Parle à la 3ème personne. Eg. *Utilisateur suivi d’un texte*.
+- **!seen** - suivi du nom d’utilisateur. Indique quand l’utilisateur a été la dernière fois en ligne, il est sensible à la casse.
 - **!streams** - Shows all currently online [streams](/Casts&Livestreams ) of Forged Alliance. (Twitch, HitBox, etc)
-- **!casts** - Shows last five Youtube Supreme Commander videos. (In order to get your video on this list, type in name of the video either "Supreme Commander" or "Forged Alliance")
-- **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
-- **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
-- **!help** - Lists all available fafbot commands and their descriptions
-- **#REPLAYID** - Generated download link for [replay](/Replays-&-Live-Games), shows map played and lists all players.
-- **!kick** - used by channel operators for kicking users from the channel
-- **!ban** - used by channel operators for banning a user from channel
-- **/topic** - followed by text. Changes topic of a channel.
+- **!streams** - Affiche tous les [streams] actuellement en ligne (/Casts&Livestreams) de Forged Alliance. (Twitch, HitBox, etc.)
+- **!trainers** - Messages privées vous une liste de [formateurs] actuellement en ligne (/User-Groups#trainers).
+- **!mods** - Messages privées vous une liste de [modérateurs] actuellement en ligne (/User-Groups#faf-moderators).
+- **!help** - Répertorie toutes les commandes fafbot disponibles et leurs descriptions
+- **#REPLAYID** - Lien de téléchargement généré pour [replay](/Replays-&-Live-Games), montre la carte jouée et répertorie tous les joueurs.
+- **!kick** - utilisé par les opérateurs de chaîne pour expulser les utilisateurs de la chaîne
+- **!ban** - utilisé par les opérateurs de chaîne pour bannir un utilisateur de la chaîne
+- **/topic** - suivi du texte. Modifie la rubrique d’un canal.
 
-**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/Chat-IRC-server) to your IRC.
+Les commandes **!kick**,**!ban** et **/topic** peuvent être utilisées dans votre canal de chat de clan si le canal est [enregistré] (/Chat-IRC-server) sur votre IRC.
 
 ## Player list
-On the Right-hand side the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
-- There is an option to assign randomly coloured names to each player, but this will only override grey and dark grey colours
-
+Sur le côté droit, la fenêtre de recherche. Il essaiera de trouver des joueurs en ligne qui sont actuellement dans le chat et d’afficher combien de joueurs sont en ligne pendant que vous ne recherchez pas.
+- Il existe une option pour attribuer des noms de couleurs aléatoires à chaque joueur, mais cela ne remplacera que les couleurs grises et gris foncé
 ### [Clans](/Clans)
--   Players that are a part of a clan have their clan tags in front of their names. (Example \[\] for Empire clan \[BC\] Bad Company, etc.)
-
+- Les joueurs qui font partie d’un clan ont leurs étiquettes de clan devant leurs noms. (Exemple \[\] pour le clan Empire \[BC\] Bad Company, etc.)
 ### User Name Change and Name History
-If you would like to change your username, you can do it here: <https://www.faforever.com/account/username/change> or by typing "!link name-change" and QAI will link the page above.
+Si vous souhaitez changer votre nom d’utilisateur, vous pouvez le faire ici: <https://www.faforever.com/account/username/change> ou en tapant « !link name-change » et QAI liera la page ci-dessus.
 
-This will not affect your friend's list or your account in any way, as the nickname is linked to your unique user ID.
+Cela n’affectera en rien la liste de vos amis ou votre compte, car le surnom est lié à votre identifiant d’utilisateur unique.
 
--   If someone from your friends lists renames, you won't see him/her there until you restart FAF.
+- Si quelqu’un de vos listes d’amis renomme, vous ne le verrez pas avant de redémarrer FAF.
 
-User names are visible to everyone, and therefore must be kept clean and age-appropriate. You can only rename once every 30 days - if a moderator has to ask you to change your name, you'll be unable to chat until you can rename. Use common sense, and if you're having trouble coming up with a name on your own, try a service such as <http://rinkworks.com/namegen/>!
+Les noms d’utilisateur sont visibles par tout le monde et doivent donc être maintenus propres et adaptés à l’âge. Vous ne pouvez renommer qu’une fois tous les 30 jours - si un modérateur doit vous demander de changer votre nom, vous ne pourrez pas discuter jusqu’à ce que vous puissiez renommer. Faites preuve de bon sens, et si vous avez du mal à trouver un nom par vous-même, essayez un service tel que <http://rinkworks.com/namegen/>!
 
 ## Rating, League, and Division
-The rating shown in the lobby is always your [Global Ranking](/Rating-System). You can learn more here: Leagues and Divisions
+La note affichée dans le lobby est toujours votre [Global Ranking](/Rating-System). Vous pouvez en savoir plus ici: Ligues et divisions
 
 ## Avatars
-Right now, there are only a few ways to get avatars. Here is a list:
+À l’heure actuelle, il n’y a que quelques façons d’obtenir des avatars. En voici une liste :
 ***Add Image of All the avatars***
-- Be a Caster ![caster_avatar.png](/images/client-icons/avatars/caster_avatar.png) or Streamer ![streamer_avatar.png](/images/client-icons/avatars/streamer_avatar.png)
-- Participate in a tournament ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png), the easiest way to get an avatar.
-- Test the game code (playing FAF develop mod and reporting bugs). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
-- Be first, second or third in your league.
+- Soyez un Caster ! [caster_avatar.png] (/images/client-icons/avatars/caster_avatar.png) ou Streamer ! [streamer_avatar.png] (/images/icônes-client/avatars/streamer_avatar.png)
+- Participez à un tournoi ! [tournament_participant.png] (/images/client-icons/avatars/tournament_participant.png), le moyen le plus simple d’obtenir un avatar.
+- Testez le code du jeu (jouer au mod FAF développer et signaler des bugs). ! [gamecodetester.png] (/images/icônes-client/avatars/gamecodetester.png)
+- Soyez premier, deuxième ou troisième de votre ligue.
 - Personal avatar, usually reserved for admins and mods
-- For donating to the FAF you get The Cookie ![cookie_avatar.png](/images/client-icons/avatars/cookie_avatar.png)
-- For winning a tournament, avatars are given. Usually temporary ones for BlitzTournament, WWPCTournaments, sometimes permanent ones for big tournaments like Legends of the Stars.
-- Faction face ![dostya.png](/images/client-icons/avatars/dostya.png) avatars are usually for second place in a tournament, faction logo ![uef_avatar.png](/images/client-icons/avatars/uef_avatar.png) for third.
-- You also can get an avatar for contributing to the FAF project:
-	- Making a featured mod ![mod_autor.png](/images/client-icons/avatars/mod_autor.png)
-	- Making a map ![mapautor.png](/images/client-icons/avatars/mapautor.png)
-	- Contributing to the FAF code ![faf_developer.png](/images/client-icons/avatars/faf_developer.png)
-	- Writing Wiki articles ![wiki-editor.png](/images/client-icons/avatars/wiki-editor.png)
-	- Hosting tournaments ![tournament_director.png](/images/client-icons/avatars/tournament_director.png)
+- Pour faire un don à la FAF vous obtenez The Cookie ! [cookie_avatar.png] (/images/client-icons/avatars/cookie_avatar.png)
+- Pour gagner un tournoi, des avatars sont donnés. Généralement temporaires pour BlitzTournament, WWPCTournaments, parfois permanents pour les grands tournois comme Legends of the Stars.
+- Visage de faction ! [dostya.png] (/images/client-icons/avatars/dostya.png) les avatars sont généralement pour la deuxième place dans un tournoi, logo de faction ! [uef_avatar.png] (/images/client-icons/avatars/uef_avatar.png) pour le tiers.
+- Vous pouvez également obtenir un avatar pour contribuer au projet FAF:
+	- Faire un mod populaire ![mod_autor.png](/images/client-icons/avatars/mod_autor.png)
+	- Faire une carte ![mapautor.png](/images/client-icons/avatars/mapautor.png)
+	- Contribuer au code FAF ![faf_developer.png](/images/client-icons/avatars/faf_developer.png)
+	- Rédaction d’articles Wiki ![wiki-editor.png](/images/client-icons/avatars/wiki-editor.png)
+	- Accueillir des tournois ![tournament_director.png](/images/client-icons/avatars/tournament_director.png)
 ## Player Status
-As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
-- Nothing: this player is just chatting or afk.
-- One Gold Sword ![host.png](/images/client-icons/host.png): this player is currently hosting a game.
-- One sword ![lobby.png](/images/client-icons/lobby.png): this player is currently in a game lobby.
-- Crossed swords ![playing.png](/images/client-icons/playing.png): this player is playing a game.
+Comme vous le voyez sur l’image, il peut y avoir une épée, des épées croisées ou rien à côté du nom de chaque joueur.
+- Rien : ce joueur ne fait que bavarder ou afk.
+- Une épée d’or ! [hôte.png] (/images/client-icons/host.png) : ce joueur héberge actuellement un jeu.
+- Une épée ! [lobby.png] (/images/client-icons/lobby.png) : ce joueur se trouve actuellement dans un lobby de jeu.
+- Épées croisées ! [jouer.png] (/images/client-icons/playing.png) : ce joueur joue à un jeu.
 
-If you double click on a single sword, you will launch FA and join the player in the lobby that they are presently in.
+Si vous double-cliquez sur une seule épée, vous lancerez FA et rejoindrez le joueur dans le lobby dans lequel il se trouve actuellement.
 
-If you double click on crossed swords, you will launch FA and start watching the [live replay](/LiveReplay-server-and-replays) from the beginning of their game.
+Si vous double-cliquez sur les épées croisées, vous lancerez FA et commencerez à regarder le [live replay](/LiveReplay-server-and-replays) dès le début de leur jeu.
 
 ## Joining Chat via Browser
-You can access it from any IRC client: [IRCServer](/Chat-IRC-server)
+Vous pouvez y accéder à partir de n’importe quel client IRC : [IRCServer](/Chat-IRC-server)
