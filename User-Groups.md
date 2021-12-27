@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-10-16T19:52:59.527Z
+date: 2021-12-27T22:24:04.332Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -117,14 +117,14 @@ Names Provided here are the names they go by on the FAF Discord.
 
 | Active Trainers |
 | --------------- |
-| Morax           | Emerald | Javi 					| HintHunter |
-| Deribus         | Tagada  | Inspektor_Kot | Sladow		 |
+| Inspektor_Kot   | Emerald | Javi 					| HintHunter |
+| Deribus         | Tagada  | Morax         | Sladow		 |
 | Explosive       | F-Odin  | Terminal			| Resistance |
 | Cheeseberry     | Aulex   | LimeZ3 				| Gorthaur	 |
 
 ## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Tournament Directors
 
-This is a list of people who host [Tournaments](Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
+This is a list of people who host [Tournaments](/Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
 | Active TD's |
 | ----------- |
