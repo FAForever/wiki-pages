@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2021-12-27T22:07:24.193Z
+date: 2021-12-27T22:13:16.274Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -19,8 +19,8 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Кооперативные Миссии</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF чат</a></li>
-<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Leaderboards</a></li>
+<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF Чат</a></li>
+<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Таблицы Рейтингов </a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host & Join</a></li>
@@ -53,13 +53,13 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <li><a href="User-Groups#trainers"> Trainers</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
+<li><a href="User-Groups#tournament-directors"> Директоры Турниров</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAF-Rules"> Rules</a></li>
+<li><a href="FAF-Rules"> Правила</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Vault-Rules">Vault Rules</a></li>
+<li><a href="Vault-Rules">Правила Хранилища</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -72,31 +72,31 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Learning SupCom</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Изучение Supcom</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Changes from steam</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
+<li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Кланы</a></li>
 <li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Casts & Livestreams</a></li>
-<li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink"> Tournaments</a></li>
+<li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink"> Турниры</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/gazui.png" width="20"/><a href="Game-Modifications-(Mods)"> Game Modifications (Mods)</a></li>
+<li><img src="/information-icons/gazui.png" width="20"/><a href="Game-Modifications-(Mods)"> Игровые модификации (Моды)</a></li>
 <li><img src="/information-icons/replays-icon.png"/><a href="LiveReplay-server-and-replays"> LiveReplay server and replays</a></li>
-<li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Voicechat</a></li>
+<li><img src="/information-icons/discord-icon.png" width="25"/><a href="Voicechat-(Discord)"> Голосовой Чат</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/information-icons/qai.png" width="25"/><a href="Bots">Bots</a></li>
+<li><img src="/information-icons/qai.png" width="25"/><a href="Bots">Боты</a></li>
 <li><img src="/information-icons/chat-icon.png"/><a href="Chat-IRC-server"> Connect to Aeolus via IRC</a></li>
-<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Rating System</a></li>
+<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Рейтинговая Система</a></li>
 </ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## **Map Development**
+## **Разработка карт**
 <table>
 <tbody>
 <tr>
@@ -116,7 +116,7 @@ dateCreated: 2021-12-23T16:26:19.315Z
 </tbody>
 </table>
 
-## **Mod Development**
+## **Разработка модов**
 <table>
 <tbody>
 <tr>
