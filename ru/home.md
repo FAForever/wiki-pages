@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2021-12-25T10:37:56.571Z
+date: 2021-12-27T22:07:24.193Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -10,21 +10,21 @@ dateCreated: 2021-12-23T16:26:19.315Z
 
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
 
-## FAF Client
+## FAF Клиент
 <table>
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> NewsHub</a></li>
-<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Coop Missions</a></li>
+<li><img src="/faf-client-icons/newshub-icon.png"><a href="NewsHub"> Новостная Лента</a></li>
+<li><img src="/faf-client-icons/coop-icon.png"><a href="Coop-Missions"> Кооперативные Миссии</a></li>
 </ul></td>
 <td><ul>
-<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF chat</a></li>
+<li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF чат</a></li>
 <li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Leaderboards</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host & Join</a></li>
-<li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> Unit Database</a></li>
+<li><img src="/information-icons/database.png" width=25px><a href="Unit-Database"> База Юнитов</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/maps-icon.png"><a href="Map-&-Mod-Vault"> Map & Mod Vault</a></li>
