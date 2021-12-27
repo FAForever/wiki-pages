@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2021-12-27T22:14:56.994Z
+date: 2021-12-27T22:34:18.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -78,7 +78,7 @@ dateCreated: 2021-12-23T16:26:19.315Z
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Кланы</a></li>
-<li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Касты и стримы</a></li>
+<li><img src="/information-icons/livestreams-icon.png"><a href="Casts&Livestreams"> Создатели контента</a></li>
 <li><img src="/information-icons/tournaments-icon.png"/> <a href="Tournaments" title="wikilink"> Турниры</a></li>
 </ul></td>
 <td><ul>
