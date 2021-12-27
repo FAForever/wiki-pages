@@ -1,58 +1,66 @@
-# **Why choose Trueskill over Elo ?**
+---
+title: Rating-System
+description: 
+published: true
+date: 2021-12-27T23:14:06.662Z
+tags: 
+editor: markdown
+dateCreated: 2021-12-25T00:04:04.302Z
+---
 
-The Elo rating system has some weaknesses that can make it unsuited to
-Forged Alliance. For example, ELO is unable to rate anything but 1 vs 1
-matches.
+# **Почему Trueskill лучше Elo?**
 
-## Team Games
+У рейтинговой системы Elo есть некоторые недостатки, которые могут сделать 
+её неподоходящей для Forged Alliance. Например, ELO не может оценить ничего,
+кроме матчей 1 vs 1.
 
-ELO is only really capable of rating of even team games, such as 2v2, it
-cannot properly weight a Free For All or a team game with more than two
-sides. Each team will be considered as a single player, so that the
-leader board will show a result for each pair of player, for every pair
-that ever exists.
+## Командные игры
 
-TrueSkill however, can handle any match up. Teams are the weighted sum
-of the players inside, and results are correctly calculated from the
-team result to the players in the teams. It can easily handle FFA,
-2vs2vs2 and so on.
+ELO в действительности может оценить только игры с равными командами, вроде 2 vs 2,
+эта система не может правильно посчитать очки для FFA или командных игр, в которых
+больше двух сторон. Каждая команда будет считаться одиночным игроком, так что, 
+таблица лидеров будет рассчитана вообще для каждой пары игроков.
 
-## Draws
+Однако, TrueSkill может справиться с любым матчем. Команды - это взвешенная сумма
+игроков внутри, и результаты правильно рассчитываются из командного результата игроков.
+Эта система влёгкую поддерживает FFA, 2vs2vs2 и другие режимы.
 
-The ELO system handles draws differently from Trueskill. For Elo, a draw
-is simply a half-win half-lost game.
+## Ничьи
 
-TrueSkill measures a drawn outcome very differently Each map has a draw
-percentage based of all of the outcomes of games played on that map.
-TrueSkill considers draws as a meaningful outcome : You were matched
-with a equally skilled opponent.
+Обработка ничьих в системе ELO отличается от Trueskill. Для ELO, ничья - это
+просто наполовину победа, наполовину поражение.
 
-But Let's considers two players with the same skill.
+TrueSkill измеряет исход ничьи совсем по-дургому. У каждой карты есть
+коэффициент, основанный на всех исходах игр на этой карте. TrueSkill
+рассматривает ничьи как значимый результат: вы попались с игроком,
+равным Вам по скиллу.
 
-On a map where draws are more unlikely, a draw game will lead to no
-difference in skill, but the system is learning the player better
-(actual skills are accurate - see below). That result will also increase
-the overall draw probability for that map.
+Но давайте рассмотрим двух игроков с одинаковым мастерством. 
 
-However, on a map like "Winter Duel" for example, where draws are a more
-likely outcome a draw is expected as result, so the skill won't move,
-but the system doesn't know the players better, so that game is
-meaningless compared the "normal" map case. That result will also
-increase the draw probability on Winter Duel.
+На картах, где ничьи маловероятны, такой исход приведёт к уравниваниию 
+скилла, а также система лучше изучит игроков (точный расчёт очков 
+мастерства - см. ниже). Ничья также повысит общую статистику ничьих на 
+этой карте.
 
-Now let's say that player 1 wins.
+С другой стороны, на картах, вроде "Winter Duel", где ничьи более вероятны,
+такой исход будет ожидаемым, так что очки мастерства останутся такими же и 
+система не узнает об игроках ничего нового, потому что игра "бессмысленная",
+по сравнинию с "нормальным" вариантом развития событий. Этот результат также
+увеличит вероятность ничьих на "Winter Duel".
 
-On the "normal" map, the player will gain points, for example's sake say
-a gain +4 points, and the loser receives a penalty of -4. That result
-will decrease the draw probability on that map.
+Теперь разберём ситуацию, когда побеждает один из игроков.
 
-Now, on the Winter Duel map as draw was a more likely outcome, the fact
-that player 1 wow means that's he is actually significantly better than
-his opponent. As a result his rating will be revised upwards, so instead
-of +4, he will gain +6, and the loser -6 for example. That result will
-then decrease the draw probability on Winter Duel.
+На "нормальной" карте, игрок получит очки, например, скажем, победитель
+получает 4 очка, а проигравший теряет 4 очка. Этот исход уменьшает 
+вероятность ничьих на данной карте.
 
-## Inflation
+Итак, на карте "Winter Duel", где ничьи бывают чаще побед, факт того, что
+один из игроков победил, значит, что он на самом деле был значительно
+сильнее своего оппонента. В результате, его рейтинг будет повышен и уже 
+вместо, например, 4 очков, он получит 6, а проигравший потеряет 6 очков.
+И такой результат уменьшит вероятность ничьих на "Winter Duel".
+
+## Инфляция
 
 Elo systems can have a tendency to inflate over time. Because it's only
 comparing 2 players' ratings to determine an new rating, a better player
