@@ -2,132 +2,137 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2021-09-08T09:03:01.808Z
+date: 2021-12-28T14:06:21.854Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:42:23.244Z
+dateCreated: 2021-12-25T00:00:35.754Z
 ---
 
-FAF over the last few years has had a lot of content creators both on youtube and on Twitch.
+За последние несколько лет у FAF было много создателей контента как на YouTube, так и на Twitch.
 
-To help out with all of the content creators this page is going to be a complete and up to date list of current content creators!
+Чтобы помочь всем создателям контента, эта страница будет полным и актуальным списком текущих создателей контента!
 
-Any Name that is in Italic are Semi-Active
+Все записанные  имена, являются полуактивными.
 
-# Streamers
+# Стримеры
 
 ## Twitch
 
-### Eng
+### ENG
 
-**Offical FAF Stream**
+**Официальныый канал FAF **
 https://www.twitch.tv/faflive
-All of the major tournaments are being cast here, make sure you follow this one!
+Здесь проходят все крупные турниры, рекомендуется обязательно следить за этим!
 
 **Tagada**
 https://www.twitch.tv/tagada14
-High-level 1vs1, Seton’s, Tournament POV, Tournament Casting, Open Training Sessions
+Высокий уровень 1на1, Сетон, Турнир от первого лица, Турнирный кастинг, Открытые тренировки
 
 **Farmsletje**
 https://www.twitch.tv/verymeanstreamer
-High-level Seton’s, Team games, Tournament Casting
+Сетон высокого уровня, Командные игры, Кастинг турниров
 
 ***BRNKoINSANITY***
 https://www.twitch.tv/thebrnk
-Mid-level team games, Fun game modes
+Командные игры среднего уровня, Веселые игровые режимы
 
 **Yudi**
 https://www.twitch.tv/hashibirainosukee
-High-level Seton's
+Сетон высокого уровня, Командные игры
 
 **Ryfun**
 https://www.twitch.tv/ryfun96
-High-level Seton’s
+Сетон высокого уровня 
 
 **EDC_Clan**
 https://www.twitch.tv/edc_clan
-Mid-level 1vs1, High-level Team games
+Средний уровень 1на1, Командные игры высокого уровня
+
 
 **Matr1**
 https://www.twitch.tv/matr1
-Mid-level team games & 1vs1's
+Командные игры и 1на1 среднего уровня 
+
 
 ***Blackheart***
 https://www.twitch.tv/bc_blackheart
-High-level Seton’s, Team games
+Сетон высокого уровня, Командные игры
+
 
 ***Petric***
 https://www.twitch.tv/petricpwnz
-High-level Seton’s, 1vs1, Tournament Casting
+Сетон высокого уровня, 1на1, Кастинг турниров
 
 ***Epic_Bennis***
 https://www.twitch.tv/epic_bennis
-High-level Seton's, 1vs1
+Сетон высокого уровня, 1на1
 
 ***Foley***
 https://www.twitch.tv/foleybts
-High-level Seton’s
+Сетон высокого уровня
 
 ***Tex***
 https://www.twitch.tv/voiceoftex/
-High-level 1vs1
+Высокий уровень 1на1
 
-Exselsior
+
+***Exselsior***
 https://www.twitch.tv/exselsior100
-Mid level Seton's & 1vs1
+Сетоны среднего уровня и 1на1
+
 
 ### RU
 **FAF Putin**
 https://www.twitch.tv/faf_putin
-High-level Team games
+Командные игры 
 
 ***Kite***
 twitch.tv/kite_faf
-High-level Team games
+Командные игры 
 
 ### GER
 **EfffEfff**
 https://www.twitch.tv/efffefff
-Mid to low-level Seton's, 1vs1, Team games
+Сетоны среднего и низкого уровня, 1на1, Командные игры
 
-## Youtube 
+## YouTube 
 
 ### ENG
 ***Jagged Appliance***
 https://www.youtube.com/c/JaggedAppliance
-High level 1vs1, Tournament POV, Tournament Casting
+Высокий уровень 1на1, Турнир от первого лица, Кастинг турнира
 
 ### RU
 ***ZLO***
 https://www.youtube.com/c/dimatularus
-High level 1vs1, Tournament POV
+Высокий уровень 1на1, Турниры от первого лица
 
 **Yuri**
 https://www.youtube.com/user/SuperYourassik
-Casting
+Кастинг
 
 **Lenkin**
 https://www.youtube.com/channel/UCHWXYe53iUoYzcS7VVU2G2Q
-High-level Team games
+Командные игры высокого уровня
 
 **lilSidlil**
 https://www.youtube.com/channel/UCTZuqvolYjU2IaSvOxDxiUA
-High-level Team games
+Командные игры высокого уровня
 
 **FAF Putin**
 https://www.youtube.com/channel/UC6XZnyeMNWLk7PmfexteI-A
-High-level Team games
+Командные игры
 
 **Demon Streamer**
 https://www.youtube.com/channel/UCYZHE9As1Fqclgd-BPa2wpQ
-Mid-level 1vs1
+Средний уровень 1на1
 
-This Will be Accurate as long as someone wishes to keep this updated with all the relevant information!
-**Date of the last update : 24.08.2021**
+Это будет точной информацией, пока у кого-то есть  желание обновлять эту информацию!
+**Дата последнего обновления : 24.08.2021**
 
-# Casters / Content Creators
+# Кастеры / Создатели Контента
 
-##New Active Channles:
+## Новые активные каналы:
 [**Endranii**](https://bit.ly/38PXGpe)
 [**Willow's Duality**](https://bit.ly/3zUbxXv)
 [**TheDuelist**](https://bit.ly/3h9vYII)
@@ -135,7 +140,7 @@ This Will be Accurate as long as someone wishes to keep this updated with all th
 [**Javi**](https://bit.ly/3BPyDz1)
 [**Supreme Commaner Derp**](https://bit.ly/3ndmYGg)
 [**Rowey**](https://bit.ly/3jUYLT7)
-## Active Channels
+## Активные каналы
 
 [**Gyle**](https://www.youtube.com/user/felixlighta)
 [**BRNKoINSANITY**](https://www.youtube.com/user/BRNKoINSANITY)
