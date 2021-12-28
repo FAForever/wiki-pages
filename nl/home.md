@@ -1,8 +1,8 @@
 ---
-title: Hoofd-Pagina
+title: HoofdPagina
 description: 
 published: true
-date: 2021-12-27T20:51:43.001Z
+date: 2021-12-28T11:33:41.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T18:59:49.162Z
