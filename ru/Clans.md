@@ -1,27 +1,33 @@
-Clans are a way for players in FAF to form a bond as a group, may it be
-small or large. Any player can create or join a clan by visiting [the
-FAF clan site](https://clans.faforever.com/clans). You invite other
-players by generating an invite link and having the player click on that
-link.
+---
+title: Clans
+description: 
+published: true
+date: 2021-12-28T12:54:51.386Z
+tags: 
+editor: markdown
+dateCreated: 2021-12-25T00:00:42.020Z
+---
 
-Clans have no effect on the game besides adding a clantag in front of a
-players name in the chat, the lobby and the game itself.
+Кланы - это способ для игроков FAF объединиться в группу, пусть она будет
+большой или маленькой.
+Любой игрок может создать клан или вступить в него, по ссылке [the FAF clan site](https://clans.faforever.com/clans). Вы можете приглашать других игроков, создав ссылку для приглашения и заставив его перейти по ней
 
-Aside from that, players who are part of a clan have their own clan chat
-room.
 
-Since version 0.10.108 of the lobby, clan tags are displayed in front of
-player names.
+Кланы не влияют на игру, кроме добавленого клантега перед ником игрока в чате, 
+лобби а так же самой игре.
 
--   Example: \[e\] for Empire clan \[BC\] Bad Company, etc.
+Кроме того, у игроков, которые состоят в клане, есть собственный клановый чат.
 
-Forged Alliance Foverer has its own Clan management
-<https://clans.faforever.com/clans> (it is still in beta but very
-usable)
+Начиная с версии 0.10.108 лобби, теги клана отображаются перед именами игроков.
 
--   Feedback-Thread:
+-   Пример: \[e\] для клана Empire  \[BC\] для клана  Bad Company, и т.д.
+
+Forged Alliance Foverer имеет собственное управление кланом.
+<https://clans.faforever.com/clans> (он все еще находится в стадии бета-тестирования, но уже доступен для использования)
+
+-   Обратная связь-Тема:
     [faf.webapp](http://forums.faforever.com/viewtopic.php?f=45&t=13840&p=142140#p142139)
--   Use the "Clans List" tab to view and search for clans.
--   Search for Players by FAF name on the Players tab.
--   Login using your FAF lobby credentials to request to join a clan /
-    manage your clan.
+-   Используйте вкладку «Список кланов» для просмотра и поиска кланов.
+-   Поиск игроков по имени  на вкладке «Игроки».
+-   Войдите, используя свои учетные данные в лобби FAF, чтобы запросить вступление в клан /
+    управлять своим кланом.
