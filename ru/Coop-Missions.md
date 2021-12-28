@@ -2,7 +2,7 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-12-28T18:38:54.432Z
+date: 2021-12-28T18:40:37.684Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:01:01.994Z
@@ -11,8 +11,8 @@ dateCreated: 2021-12-25T00:01:01.994Z
 Совместные миссии - эксклюзивная функция Forged Alliance Forever.
 
 ### Функции
-- Supreme Commander: Forged Alliance Компания.
-- Supreme Commander Компания.
+- Supreme Commander: Forged Alliance Кампания.
+- Supreme Commander Кампания.
 - Можно играть в одиночку или с 4 игроками.
 - Все улучшения графики FAF.
 - Поправка на кооперативную сложность.
@@ -37,7 +37,7 @@ dateCreated: 2021-12-25T00:01:01.994Z
 
 ### Список миссий
 
-| FA         	| Supcom 1 - ОФЗ 	| Supcom 1 - Эон 	| Supcom 1 - Кибран 	| FAF Обычный            	| Компания Серафим         	|
+| FA         	| Supcom 1 - ОФЗ 	| Supcom 1 - Эон 	| Supcom 1 - Кибран 	| FAF Обычный            	| Кампания Серафим         	|
 |------------	|----------------	|-----------------	|-------------------	|------------------------	|---------------------------	|
 | Black Day  	| Black Earth    	| Joust           	| Liberation        	| Prothyon - 16          	| Operaion Yath-Aez         	|
 | Dawn       	| Snow Blind     	| Machine Purge   	| Arifact           	| Fort Clarke Assault    	| Operation Tha-Atha-Aez    	|
