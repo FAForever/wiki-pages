@@ -2,13 +2,13 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-27T22:46:46.277Z
+date: 2021-12-28T14:39:47.370Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
 ---
 
-## Совет сетона
+## Совет Сетона
 
 Forged Alliance Forever (FAF) - проект сообщества игроков и контрибьюторов, которые хотят поддерживать и продвигать игру Supreme Commander: Forged Alliance. 
 
@@ -17,35 +17,34 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 Действующие лица совета:
 
 - ![cos-balance.png](/cos-icons/cos-balance.png) **Советник Баланса:** 
-	>	**Petricpwnz** (основатель: **JaggedAppliance** и  **Zockyzock**)
+	>	**Petricpwnz** (основатели: **JaggedAppliance** и  **Zockyzock**)
 - ![cos-moderation.png](/cos-icons/cos-moderation.png) **Советник Модерации:**
-	>	**Giebmasse** (основатель: **Gorton** и **Voodoo**)
+	>	**Giebmasse** (основатели: **Gorton** и **Voodoo**)
 - ![cos-player.png](/cos-icons/cos-player.png) **Советник Игроков:** 
-	>	**Morax** (основатель: **FtXCommando** и **Tokyto_**)
+	>	**Morax** (основатели: **FtXCommando** и **Tokyto_**)
 - ![cos-game.png](/cos-icons/cos-game.png) **Games Councillor:** 
-	>	**Keyser** (former: **IceDreamer**)
-- ![cos-promo.png](/cos-icons/cos-promo.png) **Promotions Councillor:** 
-	>	**Fury** (former: **Nine**, **Ze Dogfather**, **Mountain**, and **JJs_AI**)
+	>	**Keyser** (основатели: **IceDreamer**)
+- ![cos-promo.png](/cos-icons/cos-promo.png) **Советник по продвижению:** 
+	>	**Fury** (основатели: **Nine**, **Ze Dogfather**, **Mountain** и **JJs_AI**)
 - ![cos-creative.png](/cos-icons/cos-creative.png) **Creative Councillor:** 
-	>	**Balthazar** (former: **biass**, **Morax**, **SilentWar**)
+	>	**Balthazar** (основатели: **biass**, **Morax** и **SilentWar**)
 
 ## Tabs {.tabset}
-### FAF Councillors Pledge
+### Клятва советников FAF
 
-All Councillors make a symbolic pledge to mark the assumption of their
-important duties for FAF.
+All Councillors make a symbolic pledge to mark the assumption of their important duties for FAF.
 
-All Councillors pledge:
+Клятва всех советников:
 
-As a nominee for The Players Councillor, I pledge that:
+Как кандидат на становление Советником Игроков, я обещаю, что: 
 
-> I will collaborate with the FAF Board to work towards our objectives.
- I will communicate professionally and avoid bringing FAF into disrepute.
- I will spend at least 4 hours per week working on these Responsibilities.
- I will be available at least 2 hours every other week for a voice call to discuss these responsibilities and the responsibilities of other FAF Councilors.
- I will use and be available on the FAF Zulip (chat) as much as possible. 
- I will do my best to help the other Councilors perform their responsibilities.
- I understand that if I am unable to perform these duties, I will resign or be replaced.
+> Я буду сотрудничать с Правлением FAF для достижения наших целей. 
+ Я буду профессионально коммуницировать и не навлекать дурную репутацию на FAF. 
+ Я буду уделять этим обязанностям не менее 4 часов в неделю. 
+ Я буду доступен как минимум 2 часа каждые две недели для голосового звонка, чтобы обсудить эти обязанности и обязанности других советников FAF. 
+ Я буду использовать и быть доступным в FAF Zulip (чат) как можно чаще. 
+ Я сделаю все возможное, чтобы помочь другим Советникам выполнить свои обязанности. 
+ Я понимаю, что если я не смогу выполнять эти обязанности, я уйду в отставку или буду заменен. 
 > {.is-info}
 
 
