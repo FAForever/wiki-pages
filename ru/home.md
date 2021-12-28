@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2021-12-28T16:10:13.488Z
+date: 2021-12-28T16:52:54.676Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -39,7 +39,7 @@ dateCreated: 2021-12-23T16:26:19.315Z
 </tbody>
 </table>
 
-## Пользовательские группы, ЧаВо и Правила
+## Пользовательские группы, Частые вопросы и Правила
 <table>
 <tbody>
 <tr>
