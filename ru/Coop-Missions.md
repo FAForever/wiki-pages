@@ -2,40 +2,42 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-10-27T22:58:14.296Z
+date: 2021-12-28T18:38:54.432Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:42:43.854Z
+dateCreated: 2021-12-25T00:01:01.994Z
 ---
 
-Cooperative missions are an exclusive feature to Forged Alliance Forever.
+Совместные миссии - эксклюзивная функция Forged Alliance Forever.
 
-### Features
-- Supreme Commander: Forged Alliance Campaign
-- Supreme Commander Campaign
-- Can be played solo or with up to 4 players.
-- All FAF graphics improvements
-- Adjustment for cooperative difficulty
-- Slightly better campaign AI
-- Additional secondary objectives (thanks to gregory1001)
-- Cooperative leaderboard. Fight for the best time!
-## Interface
-The interface is mostly self-explanatory, but we'll document it here anyway, as labeled:
-1) **Hosting Missions**
-- Select the desired mission from the dropdown list.
-- Set the game title (Required)
-- Set a password (Optional)
+### Функции
+- Supreme Commander: Forged Alliance Компания.
+- Supreme Commander Компания.
+- Можно играть в одиночку или с 4 игроками.
+- Все улучшения графики FAF.
+- Поправка на кооперативную сложность.
+- Чуть лучше AI кампании.
+- Дополнительные второстепенные цели (спасибо gregory1001)
+- Кооперативная таблица лидеров. Боритесь за лучшее время прохождения!
+## Интерфейс
+Интерфейс в основном не требует обьяснений, но мы все равно задокументируем его здесь, как указано:
 
-2) **Join Hosted Mission**
-Double click on hosted game in order to join it. Enter any password as normal.
+1) **Создание миссий**
+- Выберите желаемую миссию из списка.
+- Установите название игры (обязательно)
+- Установите пароль (необязательно)
 
-3) **Leaderboards**
-Here you can see the best times for selected mission. Watching these can give you a lot of information on how to beat a mission if you're struggling with it!
+2) **Присоединяйтесь к созданной миссии**
+Дважды щелкните на созданую игру, чтобы присоединиться к ней. Введите пароль если он есть.
+
+3) **Таблица лидеров**
+Здесь вы можете увидеть лучшее время для выбранной миссии. Их просмотр может дать вам много информации о том, как пройти миссию, если вы не можете справиться с ней.
 
 ![coop-missions.png](/coop-missions.png)
 
-### Mission List
-| FA         	| Supcom 1 - UEF 	| Supcom 1 - Aeon 	| Supcom 1 - Cybran 	| FAF Custom             	| Seraphim Campagin         	|
+### Список миссий
+
+| FA         	| Supcom 1 - ОФЗ 	| Supcom 1 - Эон 	| Supcom 1 - Кибран 	| FAF Обычный            	| Компания Серафим         	|
 |------------	|----------------	|-----------------	|-------------------	|------------------------	|---------------------------	|
 | Black Day  	| Black Earth    	| Joust           	| Liberation        	| Prothyon - 16          	| Operaion Yath-Aez         	|
 | Dawn       	| Snow Blind     	| Machine Purge   	| Arifact           	| Fort Clarke Assault    	| Operation Tha-Atha-Aez    	|
