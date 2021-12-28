@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-28T14:46:47.810Z
+date: 2021-12-28T14:58:38.903Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -84,47 +84,47 @@ The Moderators Councillor is a member of the Council of Setons and is working on
  Uphold the community rules in the game, chat and forums
 > {.is-info}
 
-## ![moderator_avatar.png](/images/client-icons/avatars/moderator_avatar.png) FAF Moderators
+## ![moderator_avatar.png](/images/client-icons/avatars/moderator_avatar.png) FAF Модераторы
 
 Эти люди являются модераторами, которые в ответе за правила в игре, в чате и на форуме. Они также готовы помочь вам с чем угодно, поэтому, если у вас есть вопросы, вы можете написать им в *личные сообщения*. Их можно идентифицировать белым никам, также их можно найти в верхней части списка пользователей или с помощью одной из [команд](/FAF-chat#Chat-commands) - !mods.
 
-You can make reports to the moderators by using [this form](https://www.faforever.com/account/report)
+Вы можете отправить жалобу модерации, используя [анкету репорта](https://www.faforever.com/account/report).
 
-If you are interested in joining the moderator team you can write a PM (private message) to the Currenly Active Moderator Councilor detailing on why you think you would make a good addition to the team, which timezone you live in and what sort of commitment you can make if you are selected.
+Если вы заинтересованы в присоединении к команде модераторов - напишите личное сообщение советнику модераторов, подробно объяснив, почему вы считаете себя хорошим дополнением к команде, указав свой часовой пояс и обсудив обязательства, которые можете на себя взять.
 
 
-| Current Moderators |
+| Текущий список команды модераторов |
 | ------------------ |
 | Giebmasse          | Gorton             | Voodoo             | Resistance         |
 | Swkoll             | Deribus            | Legion Darrath     | Tex                |
 | archsimkat         | angelofd347h       | nemir              |                    |
 
 
-| IRC Moderators |
+| IRC Модераторы |
 | -------------- |
 | Medicraze      | SiwaonaDaphnewen | NarNerdPower | Viking |
 
-**Important:** *QAI* and *AeonCommander* are [chat bots](/FAF-chat#Chat-commands)!
+**Важно:** *QAI* и *AeonCommander* это [чат боты](/FAF-chat#Chat-commands)!
 
-## ![personal_trainer_avatar.png](/images/client-icons/avatars/personal_trainer_avatar.png) Trainers
+## ![personal_trainer_avatar.png](/images/client-icons/avatars/personal_trainer_avatar.png) Тренеры
 
-This is the updated list of Trainers.
+Здесь представлен актуальный список тренеров
 
-These people are trainers who can teach you how to play Supreme Commander. PM them in [FAF Chat](/FAF-chat) and ask for a lesson!
+Эти люди - тренеры, которые могут научить вас играть в Supreme Commander. Напишите им в [чате](/FAF-chat) и попросите дать урок!
 
-Names Provided here are the names they go by on the FAF Discord.
+Примечание: здесь представлены ники, которые тренеры используют в FAF Discord.
 
-| Active Trainers |
+| Активные тренеры |
 | --------------- |
 | Inspektor_Kot   | Emerald | Javi 					| HintHunter |
 | Deribus         | Tagada  | Morax         | Sladow		 |
 | Explosive       | F-Odin  | Terminal			| Resistance |
 | Cheeseberry     | Aulex   | LimeZ3 				| Gorthaur	 |
 
-## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Tournament Directors
+## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Директора Турниров
 
 This is a list of people who host [Tournaments](Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
 | Active TD's |
 | ----------- |
-| Swkoll      | Morax |
+| Swkoll      | Morax     | Inspektor_Kot |
