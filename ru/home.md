@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2021-12-27T22:34:18.796Z
+date: 2021-12-28T16:10:13.488Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -50,7 +50,7 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <li><a href="User-Groups"> Пользовательские группы</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups#trainers"> Trainers (Администрация)</a></li>
+<li><a href="User-Groups#trainers"> Тренеры </a></li>
 </ul></td>
 <td><ul>
 <li><a href="User-Groups#tournament-directors"> Организаторы турниров</a></li>
