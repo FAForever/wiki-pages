@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2021-12-28T14:06:21.854Z
+date: 2021-12-28T14:42:28.620Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:00:35.754Z
@@ -20,7 +20,7 @@ dateCreated: 2021-12-25T00:00:35.754Z
 
 ### ENG
 
-**Официальныый канал FAF **
+**Официальныый канал FAF**
 https://www.twitch.tv/faflive
 Здесь проходят все крупные турниры, рекомендуется обязательно следить за этим!
 
