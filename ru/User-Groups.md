@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-28T14:45:13.480Z
+date: 2021-12-28T14:46:47.810Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -86,7 +86,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 ## ![moderator_avatar.png](/images/client-icons/avatars/moderator_avatar.png) FAF Moderators
 
-Эти люди являются модераторами, которые в ответе за правила в игре, в чате и на форуме. Они также очень готовы помочь вам с чем угодно, поэтому, если у вас есть вопросы, вы можете написать им в личные сообщения. Вы можете идентифицировать модераторов по их белым никам,  также их также можно найти в верхней части списка пользователей или с помощью одной из [команд](/FAF-chat#Chat-commands) - !mods.
+Эти люди являются модераторами, которые в ответе за правила в игре, в чате и на форуме. Они также готовы помочь вам с чем угодно, поэтому, если у вас есть вопросы, вы можете написать им в *личные сообщения*. Их можно идентифицировать белым никам, также их можно найти в верхней части списка пользователей или с помощью одной из [команд](/FAF-chat#Chat-commands) - !mods.
 
 You can make reports to the moderators by using [this form](https://www.faforever.com/account/report)
 
