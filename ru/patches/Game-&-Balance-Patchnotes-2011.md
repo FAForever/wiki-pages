@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T16:55:28.197Z
+date: 2021-12-29T17:07:37.144Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -53,7 +53,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ## 3606
 
 ### Исправления ошибок
-- Максимально допустимое отклонение увеличено с 2 до 6 для Т2 Эонской управляемой ракеты "Милосердие";
+- Firing tolerance увеличено с 2 до 6 для Т2 Эонской управляемой ракеты "Милосердие";
 ![a_mercy.png](/images/learning/aeon/a_mercy.png)
 - Т3 Эонский подавитель силовых полей "Освободитель" теперь занимает 3 слота для транспортировки вместо 1;
 ![a_t3_absolver.png](/images/learning/aeon/a_t3_absolver.png)
@@ -61,13 +61,15 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![uef_t2_fighter_bomber.png](/images/learning/uef/uef_t2_fighter_bomber.png)
 - В скрипт добавлено условие низкого расхода топлива для Т2 истребителя-бомбардировщика Кибран "Корсар";
 ![cybran_t2_fighter_bomber.png](/images/learning/cybran/cybran_t2_fighter_bomber.png)
-- Максимально допустимое отклонение всех Т1 бомбардировщиков увеличено;
+- Firing tolerance всех Т1 бомбардировщиков увеличено;
 ![uef_t1_bomber.png](/images/learning/uef/uef_t1_bomber.png)![sera_t1_bomber.png](/images/learning/sera/sera_t1_bomber.png)![cybran_t1_bomber.png](/images/learning/cybran/cybran_t1_bomber.png)![a_t1_bomber.png](/images/learning/aeon/a_t1_bomber.png)
-- UEF, Cybran and Seraphim T2 bomber firing tolerance increased (should work better now);
-- All bomber torpedo firing tolerance increased;
-- Aeon T3 torpedo bomber firing tolerance increased;
-- All strategic bombers firing tolerance increased;
-- T1 Aeon bomber bone changed;
+- Firing tolerance всех Т2 истребителей-бомбардировщиков увеличено;
+![uef_t2_fighter_bomber.png](/images/learning/uef/uef_t2_fighter_bomber.png)![sera_t2_fighter_bomber.png](/images/learning/sera/sera_t2_fighter_bomber.png)![cybran_t2_fighter_bomber.png](/images/learning/cybran/cybran_t2_fighter_bomber.png)
+- Firing tolerance всех торпедоносцев увеличено;
+![sera_t2_torpedo_bomber.png](/images/learning/sera/sera_t2_torpedo_bomber.png)![cybran_t2_torpedo_bomber.png](/images/learning/cybran/cybran_t2_torpedo_bomber.png)![a_t2_torpedo_bomber.png](/images/learning/aeon/a_t2_torpedo_bomber.png)![a_t3_torpedo_bomber.png](/images/learning/aeon/a_t3_torpedo_bomber.png)
+- Firing tolerance всех Т3 стратегических бомбардировщиков  увеличено;
+![cybran_t3_strat.png](/images/learning/cybran/cybran_t3_strat.png)![a_strat.png](/images/learning/aeon/a_strat.png)
+- Изменен скелет Т1 Эонского бомбардировщика "Искра";
 - T1 Aeon bomber no longer stuns walls;
 - Aeon TMD dummy range category added and now vulnerable to torpedoes;
 - UEF, Cybran, Aeon and Seraphim ACU regen rate for T3 engineering update now 35, rather than 15;
