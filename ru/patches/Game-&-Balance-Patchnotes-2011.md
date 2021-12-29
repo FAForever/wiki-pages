@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T18:08:40.531Z
+date: 2021-12-29T18:21:37.385Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -77,11 +77,11 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![a_tmd.png](/images/learning/aeon/a_tmd.png)
 -  Скорость регенерации для инженерного обновления T3 всех БМК теперь 35, а не 15;
 ![uef_acu.png](/images/learning/uef/uef_acu.png)![sera_acu.png](/images/learning/sera/sera_acu.png)![cybran_acu.png](/images/learning/cybran/cybran_acu.png)![a_acu.png](/images/learning/aeon/a_acu.png)
-- Добавлено 2 кости-мишени для Т4 Эонского штурмового бота-прототипа "Колосс";
+- Добавлено 2 целевых кости для Т4 Эонского штурмового бота-прототипа "Колосс";
 ![a_gc.png](/images/learning/aeon/a_gc.png)
 - Улучшена скорость поворота Т1 самолета-разведчика ОФЗ "Колибри";
 
-- Добавлено 4 кости-мишени для Т4 передвижного артиллерийского завода "Толстяк";
+- Добавлено 4 целевых кости для Т4 передвижного артиллерийского завода "Толстяк";
 ![uef_t4_mobile_factory.png](/images/learning/uef/uef_t4_mobile_factory.png)
 - Т1 мобильная артиллерия Кибран "Медуза" больше не оглушает стены;
 ![cybran_t1_arty.png](/images/learning/cybran/cybran_t1_arty.png)
@@ -98,9 +98,10 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Исправлена ошибка смежностим для Т3 центра квантовой оптики Эон "Глаз Рианны";
 ![a_eye.png](/images/learning/aeon/a_eye.png)
 - Изменен уровень угрозы для T3 тежелой оборонительной турели ОФЗ "Опустошитель" (угрозы с воздуха нет, теперь угроза с поверхности);
-- UEF Percival added target bone for turret;
-- UEF Shield boat has weapon ring now for shield;
-- Cybran rebuild bonus for soothsayer;
+![uef_t3_pd.png](/images/learning/uef/uef_t3_pd.png)
+- Добавлена целевая кость для турели Т3 тяжелого штурмового бота ОФЗ "Персиваль";
+- Добавлен **радиус оружия для щита??** для Т3 катера-заградителя ОФЗ "Оплот";
+- Добавлен бонус самопочинки для Т3 системы мониторинга периметра Кибран "Прорицатель";
 - Cybran megalith main guns projectile lifetime added;
 - Seraphim T4 Ahwassa firing tolerance increased;
 - Seraphim T1, T2 and T3 naval factories rollout point corrected;
