@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:53:17.544Z
+date: 2021-12-29T18:05:56.813Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -89,12 +89,14 @@ dateCreated: 2021-12-25T00:05:34.584Z
 
 - Т4 сверхтяжелая артиллерия Кибран "Скатис" теперь has 90 turret pitch range;
 ![cybran_t4_mobile_arty.png](/images/learning/cybran/cybran_t4_mobile_arty.png)
-- Cybran ML now has indirect fire overlay for bolters, direct for beam weapon;
+- Т4 киберпаук Кибран "Царь обезьян" теперь меет наложение непрямого огня для болтеров, прямого для лучевого оружия;
 ![cybran_t4_monkey_bot.png](/images/learning/cybran/cybran_t4_monkey_bot.png)
-- Cybran T2 cruiser now has projectile lifetime on main gun (proton gun);
+- Т2 крейсер "Сирена" теперь имеет время жизни снаряда основного орудия(протонная пушка);
 ![cybran_t2_cruiser.png](/images/learning/cybran/cybran_t2_cruiser.png)
-- Aeon T3 rapid fire arty adjacency bug fixed   Так т3 или скорострелка;
-- Aeon T3 optics facility adjacency bug fixed;
+- Исправлена ошибка смежностим для Т4 скорострельной артиллерии Эон "Избавление";
+![a_t3_rapid_arty.png](/images/learning/aeon/a_t3_rapid_arty.png)
+- Исправлена ошибка смежностим для Т3 центра квантовой оптики Эон "Глаз Рианны";
+![a_eye.png](/images/learning/aeon/a_eye.png)
 - UEF T3 ravager threat level changed (no air threat, now surface threat);
 - UEF Percival added target bone for turret;
 - UEF Shield boat has weapon ring now for shield;
