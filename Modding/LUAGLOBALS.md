@@ -2,8 +2,8 @@
 title: Fa Lua Globals
 description: 
 published: true
-date: 2021-09-09T15:16:45.384Z
-tags: 
+date: 2021-12-29T23:35:49.119Z
+tags: modding
 editor: markdown
 dateCreated: 2021-09-09T15:16:45.384Z
 ---
