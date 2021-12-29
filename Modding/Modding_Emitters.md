@@ -2,8 +2,8 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2021-10-24T20:36:49.905Z
-tags: 
+date: 2021-12-29T23:39:05.608Z
+tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
 ---
