@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T14:29:53.568Z
+date: 2021-12-29T14:33:30.281Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -18,11 +18,11 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ### Новые функции
 - Добавлен Sorian AI. Sorian AI теперь доступен для использования в FAF;
 - Добавлена новая и улучшенная функция генерации случайных фракций, благодаря которой серафим не выпадает с 75% шансом;
-- Добавлены обломки инженеров в воде:
-- Добавлена Autoget фунция в качестве обязательной и включена для всех игроков. (Юниты автоматически передаются через 20 секунд после смерти, если включена передача войск.)
-- Added tech-less icons for energy storages so they are easier to find
-- All structures now leave wrecks when destroyed in the water.
-- New lobby textures from Moritz
+- Добавлены обломки инженеров в воде;
+- Добавлена Autoget фунция в качестве обязательной и включена для всех игроков. (Юниты автоматически передаются через 20 секунд после смерти, если включена передача войск.);
+- Добавлены значки без технологичесского уровня для хранилищ энергии, чтобы их было легче найти;
+- Все сооружения теперь оставляют обломки при разрушении в воде;
+- Новые текстуры лобби от Moritz.
 ### Bug Fixes
 - fixed aeon hover sheild floating wreckage bug (fix in default units).
 - fixed ACU upgrades exploit
