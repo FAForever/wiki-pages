@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:15:29.007Z
+date: 2021-12-29T17:22:12.270Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -34,7 +34,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![sera_t2_destroyer.png](/images/learning/sera/sera_t2_destroyer.png)
 - Радиус атаки тактических ракетных установок(ТРУ? TML?) на стратегических подводных лодках теперь корректен;
 ![cybran_t3_nuke_sub.png](/images/learning/cybran/cybran_t3_nuke_sub.png)![a_t3_sub.png](/images/learning/aeon/a_t3_sub.png)
-- Исправлены обломки эсминца Серафим, эксперементальной авианосной подлодки ОФЗ и линкора-прототипа Эон. Теперь они правильно тонут и разбиваются о морское дно;
+- Исправлены обломки эсминца Т2 Серафим, Т4 авианосной подлодки ОФЗ "Атлантида" и Т4 линкора-прототипа Эон "Буря". Теперь они правильно тонут и разбиваются о морское дно;
 ![sera_t2_destroyer.png](/images/learning/sera/sera_t2_destroyer.png)![uef_t4_aircraft_carrier.png](/images/learning/uef/uef_t4_aircraft_carrier.png)![a_tempest.png](/images/learning/aeon/a_tempest.png)
 - Исправлен баг/эксплойт с транспортом;
 - Исправление для инженерных дроидов БМК ОФЗ. уничтожение одного дроида не оказывает негативного влияния на другой. Кроме того, дроны автоматически восстанавливаются после смерти по их первоначальной стоимости (160 массы, 1600 энергии). Восстановление дроида занимает 10 секунд и не мешает другим процессам БМК, таким как перемещение, стрельба или строительство.
@@ -76,9 +76,10 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Эонская тактическая ПРО теперь заглушку(dummy)? и теперь уязвима для торпед;
 ![a_tmd.png](/images/learning/aeon/a_tmd.png)
 -  Скорость регенерации для инженерного обновления T3 всех БМК теперь 35, а не 15;
-- Added 2 target bones to Aeon GC;
+![uef_acu.png](/images/learning/uef/uef_acu.png)![sera_acu.png](/images/learning/sera/sera_acu.png)![cybran_acu.png](/images/learning/cybran/cybran_acu.png)![a_acu.png](/images/learning/aeon/a_acu.png)
+- Добавлено 2 кости-мишени для Т4 Эонского штурмового бота-прототипа "Колосс";
 - UEF T1 spy plane turn speed improved;
-- UEF Fatboy added 4 target bones;
+- Добавлено 4 кости-мишени для Т4 передвижного артиллерийского завода "Толстяк";
 - Cybran T1 arty medusa no longer stuns walls;
 - Cybran T2 tank wagner now displays amphibious abilities;
 - Cybran T4 scathis now has 90 turret pitch range;
