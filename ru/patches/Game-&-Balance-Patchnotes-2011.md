@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T16:33:10.852Z
+date: 2021-12-29T16:35:48.644Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -53,7 +53,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ## 3606
 
 ### Исправления ошибок
-- Firing tolerance increased from 2 to 6 for Aeon T2 mercy;
+- Радиус срабатывания увеличен с 2 до 6 для Т2 Эонской управляемой ракеты "Милосердие;
 - Absolver tanks now uses 3 transports slots instead of 1;
 - Added janus speed reduction for when it does not have fuel;
 - Corsair low fuel condition added in script;
