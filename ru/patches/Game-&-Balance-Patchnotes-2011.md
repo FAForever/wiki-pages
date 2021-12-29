@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:27:02.558Z
+date: 2021-12-29T17:30:11.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -85,7 +85,8 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![uef_t4_mobile_factory.png](/images/learning/uef/uef_t4_mobile_factory.png)
 - Т1 мобильная артиллерия Кибран "Медуза" больше не оглушает стены;
 ![cybran_t1_arty.png](/images/learning/cybran/cybran_t1_arty.png)
-- Cybran T2 tank wagner now displays amphibious abilities;
+- Т2 ныряющий танк Кибран "Вагнер" теперь отображает свойства амфибии;
+
 - Cybran T4 scathis now has 90 turret pitch range;
 - Cybran ML now has indirect fire overlay for bolters, direct for beam weapon;
 - Cybran T2 cruiser now has projectile lifetime on main gun (proton gun);
