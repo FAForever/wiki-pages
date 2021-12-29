@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T14:53:05.765Z
+date: 2021-12-29T15:12:44.593Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -24,10 +24,14 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Все сооружения теперь оставляют обломки при разрушении в воде;
 - Новые текстуры лобби от Moritz.
 ### Исправления ошибок
-- fixed aeon hover sheild floating wreckage bug (fix in default units).
-- fixed ACU upgrades exploit
-- Fixed UEF ACU nano regen upgrade... it no longer gets overwritten by veterancy.
+- Исправлена ошибка с летающими обломками эонского мобильного щита 
+![a_t2_l_shield.png](/images/learning/aeon/a_t2_l_shield.png)
+- Исправлен эксплойт улучшения БМК
+![uef_acu.png](/images/learning/uef/uef_acu.png)![sera_acu.png](/images/learning/sera/sera_acu.png)![cybran_acu.png](/images/learning/cybran/cybran_acu.png)![a_acu.png](/images/learning/aeon/a_acu.png)
+- Исправлено улучшение ??нанопочинки?? БМК ОФЗ, оно больше не сбрасывается получением ветеранства.
+![uef_acu.png](/images/learning/uef/uef_acu.png)
 - Adjusted the seraphim T2 destroyer anti-torp further. It's performance is now improved.
+![sera_t2_destroyer.png](/images/learning/sera/sera_t2_destroyer.png)
 - TML weapon on strategic missile subs now have the correct range ring
 - Fixed Seraphim destroyer, UEF Atlantis and Aeon Exp Battleship wreckages. They now sink and wreck on the sea floor properly.
 - Fixed a transport bug/exploit.
