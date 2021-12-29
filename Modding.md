@@ -2,8 +2,8 @@
 title: Modding
 description: 
 published: true
-date: 2021-10-24T20:53:54.844Z
-tags: 
+date: 2021-12-29T23:28:13.649Z
+tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
 ---
@@ -22,7 +22,7 @@ See also [Tips for Modding Efficiently](/Modding/Tips-for-Modding-Efficiently).
 
 ### Basic information
 - Supcom FA is using LUA
-- Mods are usually stored in C:\\Users\\%USERNAME%\\Documents\\MyGames\\Gas Powered Games\\Supreme Commander Forged Alliance\\Mods
+- Mods are usually stored in `C:\\Users\\%USERNAME%\\Documents\\MyGames\\Gas Powered Games\\Supreme Commander Forged Alliance\\Mods`
 - Every mod needs a mod_info.lua file in its folder, containing infos such as Name, Description, UID etc.
 - Mods usually have a hook folder (usually /hook, can be configured to have another path in the mod_info) which contains all files that the user is hooking to (overwriting or adding code)
 - There is a SIM and a UI mod category. Sim mods affect everybody and usually alter the gameplay, so as example PhantomX and any balancemod is a sim mod. UI mods don't affect other players (directly), as example notify is messaging them about your upgrade,   but it's not altering their game
@@ -54,7 +54,7 @@ Both sides are interacting, to keep the user updated about what's happening to h
 Explanation
 ```lua
 `name: mod name`
-`uid: an ID every mod needs, you can generate a random one for example here: `[`https://www.uuidtools.com/`](https://www.uuidtools.com/)
+`uid: an ID every mod needs, you can generate a random one
 `version: use a versioning pattern of your choice, the current FAF mod vault will only display a single integer though`
 `copyright: mention how you want copying to be treated`
 `description: mod description`
@@ -69,6 +69,7 @@ Explanation
 `before = {}: mods that will have to be hooked in before your mod is hooked`
 `after = {}: mods that have to be hooked in after your mod`
 ```
+
 Filled example
 ```lua
 `name = "Tutorial Mod Info"`
@@ -87,6 +88,8 @@ Filled example
 `before = {}`
 `after = {}`
 ```
+
+UIDs can be obtained [here](https://www.uuidtools.com)
 ### Understanding Hooking
 Our way into modding the game is hooking. Hooking in FA is basically file concatenation, that means that the file we're hooking to will be extended by our file.
 
