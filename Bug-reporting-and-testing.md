@@ -1,9 +1,9 @@
 ---
-title: Bug-reporting-and-testing
+title: Bug Reporting & Testing
 description: 
 published: true
-date: 2021-12-12T21:25:41.708Z
-tags: 
+date: 2021-12-29T23:58:34.529Z
+tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:42:21.423Z
 ---
