@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T18:31:07.033Z
+date: 2021-12-29T18:42:50.502Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -83,7 +83,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 
 - Добавлено 4 целевых кости для Т4 передвижного артиллерийского завода "Толстяк";
 ![uef_t4_mobile_factory.png](/images/learning/uef/uef_t4_mobile_factory.png)
-- Т1 мобильная артиллерия Кибран "Медуза" больше не оглушает стены;
+- Т1 легкая артиллерия Кибран "Медуза" больше не оглушает стены;
 ![cybran_t1_arty.png](/images/learning/cybran/cybran_t1_arty.png)
 - Т2 ныряющий танк Кибран "Вагнер" теперь отображает свойства амфибии;
 
@@ -107,12 +107,12 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Исправлена точка сбора военно-морских заводов Серафим Т1, Т2 и Т3;
 - **Seraphim T1 and T2 mex rebuild bonus only itself;**
 - **Значительно повышено здоровье Т3 инженеров Серафим?**;
-- Добавлен звук убийства и захвата для БМК Серафим;
-- Seraphim ACU regen buffs fix, fixed blast attack stacking;
-- fixed Seraphim selen scout transport animation;
-- fixed Seraphim T1 artillery not firing at units within range;
-- fixed Seraphim T2 bot icon;
-- Fixed Seraphim T3 tank not conforming to terrain;
+- Добавлен звук **убийства** и захвата для БМК Серафим;
+- **Seraphim ACU regen buffs fix, fixed blast attack stacking;**
+- Исправлена анимация в транспорте Т1 наземного разведчика-шпиона Серафим "Селенит";
+- исправлена ошибка, из-за которой Т1 легкая артиллерия Серафим "Цтуи" не стреляла по юнитам в пределах досягаемости;
+- Исправлен значок для Т2 штурмового Серафим "Илшавох";
+- Исправлен Т3 осадный танк Серафим "Отуум", не соответствующий рельефу местности;
 - fixed Seraphim T3 arty transport drop animation;
 - Fixed bug allowing all seraphim structures/XP finished be seen through fow due to flash;
 - fixed pause and delay in seraphim engineers building stuff (t1/t2/t3);
