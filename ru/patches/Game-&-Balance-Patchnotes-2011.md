@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:13:13.836Z
+date: 2021-12-29T17:15:29.007Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -74,7 +74,8 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Т1 Эонский бомбардировщик "Искра" больше не оглушает стены;
 ![a_t1_bomber.png](/images/learning/aeon/a_t1_bomber.png)
 - Эонская тактическая ПРО теперь заглушку(dummy)? и теперь уязвима для торпед;
-- UEF, Cybran, Aeon and Seraphim ACU regen rate for T3 engineering update now 35, rather than 15;
+![a_tmd.png](/images/learning/aeon/a_tmd.png)
+-  Скорость регенерации для инженерного обновления T3 всех БМК теперь 35, а не 15;
 - Added 2 target bones to Aeon GC;
 - UEF T1 spy plane turn speed improved;
 - UEF Fatboy added 4 target bones;
