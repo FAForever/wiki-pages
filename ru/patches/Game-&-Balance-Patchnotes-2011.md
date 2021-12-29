@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:07:37.144Z
+date: 2021-12-29T17:13:13.836Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -70,8 +70,10 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Firing tolerance всех Т3 стратегических бомбардировщиков  увеличено;
 ![cybran_t3_strat.png](/images/learning/cybran/cybran_t3_strat.png)![a_strat.png](/images/learning/aeon/a_strat.png)
 - Изменен скелет Т1 Эонского бомбардировщика "Искра";
-- T1 Aeon bomber no longer stuns walls;
-- Aeon TMD dummy range category added and now vulnerable to torpedoes;
+![a_t1_bomber.png](/images/learning/aeon/a_t1_bomber.png)
+- Т1 Эонский бомбардировщик "Искра" больше не оглушает стены;
+![a_t1_bomber.png](/images/learning/aeon/a_t1_bomber.png)
+- Эонская тактическая ПРО теперь заглушку(dummy)? и теперь уязвима для торпед;
 - UEF, Cybran, Aeon and Seraphim ACU regen rate for T3 engineering update now 35, rather than 15;
 - Added 2 target bones to Aeon GC;
 - UEF T1 spy plane turn speed improved;
