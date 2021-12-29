@@ -2,7 +2,7 @@
 title: Голосовой чат Discord
 description: 
 published: true
-date: 2021-12-29T22:39:15.508Z
+date: 2021-12-29T22:39:55.855Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:07.376Z
@@ -31,18 +31,6 @@ dateCreated: 2021-12-25T00:05:07.376Z
 
 FAF так же имеет голосовой сервер [Mumble](Voicechat_(Mumble) "wikilink") который является альтернативой Дискорду. Вот список преимуществ Discord над Mumble:
 
--   Discord features a highly developed chat with embedded images and
-    videos, with multiple channels.
--   It works in the browser with no download or setup required at all.
--   There is a mobile app for it letting you use our server from a
-    portable device.
--   Moderation and permissions, and support are present in Discord to
-    help you out with faf related questions, and make life nice for you
-    in general.
--   Both the FAF Discord server and Discord app itself undergo
-    development so you can look forward to new features and
-    functionality.
--   You can use discord for things other than FAF, and its very easy to switch servers there.
 -   В Discord есть развитый чат со встроенными изображениями и видео с несколькими каналами;
 -   Он работает в браузере без необходимости загрузки или настройки;
 -   Так же есть мобильное приложение, позволяющее использовать наш сервер с портативного
