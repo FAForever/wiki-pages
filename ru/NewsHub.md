@@ -2,30 +2,30 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-10-27T23:04:20.214Z
+date: 2021-12-29T09:59:53.330Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:44:39.374Z
+dateCreated: 2021-12-23T16:27:01.554Z
 ---
 
 ![newshub.png](/newshub.png)
 
-The NewsHub is the new and improved One-Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team.
-The NewsHub can be accessed Via the Client and via the browser [here](https://www.faforever.com/newshub).
+NewsHub - это новый и улучшенный универсальный инструмент для всех новостей FAF. Он в основном обновляется каждый понедельник командой по продвижению FAF.
+Доступ к NewsHub можно получить через клиента и через браузер. [здесь](https://www.faforever.com/newshub).
 
-**1) Topbar**
-Here is where Some Important Information that needed to be displayed, This can be from Server Updates.
+**1) Верхняя панель**
+Здесь должна отображаться некоторая важная информация, это может быть перед обновлением сервера.
 
-**2) Normal Article**
-The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
+**2) Обычная статья**
+Нормальная статья и статьи Базовых новостей будут находиться в разделах E.G New Video Out, Ladder League.
 
-**3) Hero Article**
-The Hero article is used when something big has happened in the community or Tournament Winners E.G.
-Balance & Game Patch’s, Big Tournament Announcements and Much more.
+**3) Статья героя**
+Статья «Герой» используется, когда что-то важное произошло в сообществе или среди победителей турниров.
+Обновления баланса и игры, анонсы крупных турниров и многое другое.
 
-**4) Right Side Panel**
-The Information panel is where the Promotions Team and Set up a long term link for useful information for the community to use.
-Until now it has just been linking to a mix of pages on the website and the forum.
+**4) Правая боковая панель**
+Информационная панель - это место, где команда промоушена устанавливает долгосрочную ссылку для полезной информации, которую может использовать сообщество.
+До сих пор он просто ссылался на несколько страниц веб-сайта и форума.
 
 - [FAF Streamers & Casters](/Casts&Livestreams)
 - [Tournaments](/Tournaments)
@@ -40,30 +40,30 @@ Until now it has just been linking to a mix of pages on the website and the foru
 
 
 
-**5,6,7) Left, Mid and Right Sidebar**
-These are the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
+**5,6,7) Левая, средняя и правая боковая панель**
+Это боковые панели, которые можно использовать для большой рекламы предстоящих турниров. Например, на изображении выше это реклама турнира летнего приглашенния 2020 года.
 
->Here are the Specifications for all the sizes for all the sections if you would need a post on the NewsHub...
+>Вот спецификации всех размеров для всех разделов, если вам понадобится публикация в NewsHub....
 >
->All Images need to be 96 DPI
+>Все изображения должны иметь разрешение 96 точек на дюйм.
 >
->1) Topbar may have any background colour.
->2) Normal article image 145x97
->3) Hero article image - 351x266
->4) Right hand side article image 189 wide, any height
->5) Left Sidebar - 250x800
->6) Mid Sidebar 300x600
->7) Right Sidebar - 250x800
+> 1) Верхняя панель может иметь любой цвет фона.
+> 2) Нормальное изображение статьи 145х97
+> 3) Изображение статьи героя - 351x266
+> 4) Изображение статьи справа 189 шириной, любой высоты
+> 5) Левая боковая панель - 250x800
+> 6) Средняя боковая панель - 300x600
+> 7) Правая боковая панель - 250x800
 >
->For the left and Right sidebar the graphic should fade at the bottom to a solid background colour.
-I run this same background colour to the edge of the screen.
-They can actually have any height, but the height I provided is a good arbitrary height.
+> Для левой и правой боковой панели изображение должно исчезнуть внизу до сплошного цвета фона.
+Я пробегать тот же цвет фона к краю экрана.
+На самом деле они могут иметь любую высоту, но высота, которую я указал, является хорошей произвольной высотой.
 >
->Article Heading [Font](https://fonts.google.com/specimen/Electrolize?query=electr)
+>Заголовок статьи [Font](https://fonts.google.com/specimen/Electrolize?query=electr)
 >
->Badge [Font](https://fonts.google.com/specimen/Russo+One?query=russo)
+>Значок [Font](https://fonts.google.com/specimen/Russo+One?query=russo)
 >
->Please Visit the Promotions Discord For any more questions [here](https://discord.gg/CYztfPz)
+>Пожалуйста, посетите Discord промоакций, если у вас возникнут дополнительные вопросы. [here](https://discord.gg/CYztfPz)
 >
->For any News Posting Request you can use the Google Form Request [link](https://forms.gle/y9jyPLiWHr9ELXrk9)
+>Для любого запроса на публикацию новостей вы можете использовать запрос формы Google [link](https://forms.gle/y9jyPLiWHr9ELXrk9)
 {.is-info}
