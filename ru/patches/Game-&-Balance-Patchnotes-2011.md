@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T16:40:47.859Z
+date: 2021-12-29T16:51:37.239Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -53,14 +53,16 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ## 3606
 
 ### Исправления ошибок
-- Радиус срабатывания увеличен с 2 до 6 для Т2 Эонской управляемой ракеты "Милосердие";
+- Максимально допустимое отклонение увеличено с 2 до 6 для Т2 Эонской управляемой ракеты "Милосердие";
 ![a_mercy.png](/images/learning/aeon/a_mercy.png)
 - Т3 Эонский подавитель силовых полей "Освободитель" теперь занимает 3 слота для транспортировки вместо 1;
 ![a_t3_absolver.png](/images/learning/aeon/a_t3_absolver.png)
 - Добавлено снижение скорости Т2 истребителя-бомбардировщика ОФЗ "Янус" при отсутствии топлива;
-
-- Corsair low fuel condition added in script;
+![uef_t2_fighter_bomber.png](/images/learning/uef/uef_t2_fighter_bomber.png)
+- В скрипт добавлено условие низкого расхода топлива для Т2 истребителя-бомбардировщика Кибран "Корсар";
+![cybran_t2_fighter_bomber.png](/images/learning/cybran/cybran_t2_fighter_bomber.png)
 - All T1 bombers firing tolerance increased;
+
 - UEF, Cybran and Seraphim T2 bomber firing tolerance increased (should work better now);
 - All bomber torpedo firing tolerance increased;
 - Aeon T3 torpedo bomber firing tolerance increased;
