@@ -2,24 +2,24 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-09-08T13:44:27.540Z
+date: 2021-12-29T14:29:53.568Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T12:44:10.511Z
+dateCreated: 2021-12-25T00:05:34.584Z
 ---
 
 # Complete Changelog of all chnages in 2011 {.tabset}
 ## 3609
-### FAF-related changes and fixes
-- Title screen and replay files are displaying the correct patch version.
-- Fixed scores reported incorrectly when Autoteam = none and random = on.
-- Removing the reset of unit cap on each hosted game to 500.
-- changed the ranked unit cap to 1000.
-### New Features
-- Added Sorian AI. Sorian AI is now available to use in FAF. (YOU MUST UNINSTALL SORIAN AI MOD AND LEM IF YOU HAVE THEM.)
-- added new and improved random faction generating function that doesn't give seraphim 75% of the time
-- Added engineer wrecks on the water
-- Added Autoget as mandatory and enabled for all players. (Units are automatically given, if share is enabled, 20 seconds after death.)
+### Изменения и исправления, связанные с FAF
+- Отображение корректной версии патча в лобби и в файлах реплея;
+- Исправлены неплравильные результаты, некорректно полученные при настройках авторазброс по командам = нет и случайно = выключено;
+- Снято ограничение на лимит юнитов равный 500;
+- Изменен лимит юнитов для ранговых игр на 1000.
+### Новые функции
+- Добавлен Sorian AI. Sorian AI теперь доступен для использования в FAF;
+- Добавлена новая и улучшенная функция генерации случайных фракций, благодаря которой серафим не выпадает с 75% шансом;
+- Добавлены обломки инженеров в воде:
+- Добавлена Autoget фунция в качестве обязательной и включена для всех игроков. (Юниты автоматически передаются через 20 секунд после смерти, если включена передача войск.)
 - Added tech-less icons for energy storages so they are easier to find
 - All structures now leave wrecks when destroyed in the water.
 - New lobby textures from Moritz
