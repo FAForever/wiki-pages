@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-29T14:01:36.611Z
+date: 2021-12-29T14:03:44.527Z
 tags: chat tabs, chat commands, player list, player status, joining chat via browser, avatars
 editor: markdown
 dateCreated: 2021-12-23T18:53:09.162Z
@@ -51,8 +51,8 @@ dateCreated: 2021-12-23T18:53:09.162Z
 В лобби всегда отображается ваш [Глобальный рейтинг](/Rating-System). Вы можете узнать больше здесь: Лиги и дивизионы
 
 ## Аватары
-Right now, there are only a few ways to get avatars. Here is a list:
-***Add Image of All the avatars***
+На данный момент есть только несколько способов получить аватарки. Вот список:
+***Добавить изображение всех аватарок***
 - Быть кастером ![caster_avatar.png](/images/client-icons/avatars/caster_avatar.png) или стримером ![streamer_avatar.png](/images/client-icons/avatars/streamer_avatar.png)
 - Участвуйте в турнире ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png), самый простой способ получить аватарку.
 - Тестируйте код игры (играйте в мод в разработке FAF и сообщайте об ошибках). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
