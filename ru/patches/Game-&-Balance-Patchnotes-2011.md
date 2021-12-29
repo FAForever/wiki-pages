@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T18:05:56.813Z
+date: 2021-12-29T18:08:40.531Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -97,7 +97,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![a_t3_rapid_arty.png](/images/learning/aeon/a_t3_rapid_arty.png)
 - Исправлена ошибка смежностим для Т3 центра квантовой оптики Эон "Глаз Рианны";
 ![a_eye.png](/images/learning/aeon/a_eye.png)
-- UEF T3 ravager threat level changed (no air threat, now surface threat);
+- Изменен уровень угрозы для T3 тежелой оборонительной турели ОФЗ "Опустошитель" (угрозы с воздуха нет, теперь угроза с поверхности);
 - UEF Percival added target bone for turret;
 - UEF Shield boat has weapon ring now for shield;
 - Cybran rebuild bonus for soothsayer;
