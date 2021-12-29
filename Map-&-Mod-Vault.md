@@ -2,8 +2,8 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-10-14T17:38:23.004Z
-tags: 
+date: 2021-12-29T23:30:03.673Z
+tags: modding, mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
 ---
@@ -68,6 +68,6 @@ You can select from the top UI or SIM. As long as the Mod is highlighted in blue
 
 ### SIM Mods
 
-[Sim mods](/Game-Modifications-(Mods)#Sim-Mods) are mods that affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game, such as [The Nomads](The-Nomads) and [Black Ops](BlackOps). Most Sim mods make a game unrated. See [When is the gamerated?](Global-Ranking#When-is-the-game-rated.3F)
+[Sim mods](/Game-Modifications-(Mods)#Sim-Mods) are mods that affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game, such as Nomads and Black Ops. Most Sim mods make a game unrated. See [When is the gamerated?](/Rating-System#what-is-global-ranking)
 
 
