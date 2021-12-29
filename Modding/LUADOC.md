@@ -2,15 +2,14 @@
 title: LUADOC 1.5.3599
 description: 
 published: true
-date: 2021-09-09T15:09:46.151Z
-tags: 
+date: 2021-12-29T23:35:14.916Z
+tags: modding
 editor: markdown
 dateCreated: 2021-09-09T15:04:15.075Z
 ---
 
 # LUADOC 1.5.3599
 ## Sim
-## Sim{.tabset}
 ### `Sim.<global>`
 AddBuildRestriction
 INFO: AddBuildRestriction(army,category) - Add a category to the restricted list
@@ -890,7 +889,7 @@ __init
 INFO: beam = CreateCollisionBeam(spec)
 spec is a table with the following fields defined:
 spec.Weapon = <weapon to attach to>
-spec.OtherBone = <bone of weapon's unit to attach to>
+spec.OtherBone = <bone of weapons unit to attach to>
 spec.CollisionCheckInterval = <interval in ticks>
 spec.BeamBone = <which end of beam to attach>
 base
@@ -1480,13 +1479,11 @@ moho.weapon_methods
 INFO:
 
 ## Unsafe
-## Unsafe {.tabset}
 ### `Unsafe.<global>`
 SHGetFolderPath
 INFO: (name, create?) -- Interface to Win32 SHGetFolderPath api
 
 ## User
-## User {.tabset}
 ### `User.<global>`
 AddBlinkyBox
 INFO: AddBlinkyBox(entityId, onTime, offTime, totalTime)
@@ -2464,7 +2461,6 @@ SetCustomName
 INFO: SetCustomName(string) -- Set a custom name for the unit
 
 ## Core
-## Core{.tabset}
 ### `Core.<global>`
 AITarget
 INFO: Create a target object
