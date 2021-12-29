@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:22:12.270Z
+date: 2021-12-29T17:24:42.867Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -78,8 +78,11 @@ dateCreated: 2021-12-25T00:05:34.584Z
 -  Скорость регенерации для инженерного обновления T3 всех БМК теперь 35, а не 15;
 ![uef_acu.png](/images/learning/uef/uef_acu.png)![sera_acu.png](/images/learning/sera/sera_acu.png)![cybran_acu.png](/images/learning/cybran/cybran_acu.png)![a_acu.png](/images/learning/aeon/a_acu.png)
 - Добавлено 2 кости-мишени для Т4 Эонского штурмового бота-прототипа "Колосс";
-- UEF T1 spy plane turn speed improved;
+![a_gc.png](/images/learning/aeon/a_gc.png)
+- Улучшена скорость поворота Т1 самолета-разведчика ОФЗ "Колибри";
+
 - Добавлено 4 кости-мишени для Т4 передвижного артиллерийского завода "Толстяк";
+![uef_t4_mobile_factory.png](/images/learning/uef/uef_t4_mobile_factory.png)
 - Cybran T1 arty medusa no longer stuns walls;
 - Cybran T2 tank wagner now displays amphibious abilities;
 - Cybran T4 scathis now has 90 turret pitch range;
