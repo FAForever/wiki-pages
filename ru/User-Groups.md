@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-29T09:50:54.008Z
+date: 2021-12-29T09:52:55.992Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -123,7 +123,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 ## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Директора Турниров
 
-This is a list of people who host [Tournaments](Tournaments) on FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
+Здесь предстален список людей, кто организовывает [Турниры](Tournaments) в FAF. If you want to become one of them you can sign up by joining the [Discord](/Voicechat-(Discord)#Other-Discord-Server) and do not forget to read [these rules](http://forums.faforever.com/viewtopic.php?f=26&t=16483).
 
 | Active TD's |
 | ----------- |
