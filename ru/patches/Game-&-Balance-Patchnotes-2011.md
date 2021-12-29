@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:26:35.233Z
+date: 2021-12-29T17:27:02.558Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -84,6 +84,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Добавлено 4 кости-мишени для Т4 передвижного артиллерийского завода "Толстяк";
 ![uef_t4_mobile_factory.png](/images/learning/uef/uef_t4_mobile_factory.png)
 - Т1 мобильная артиллерия Кибран "Медуза" больше не оглушает стены;
+![cybran_t1_arty.png](/images/learning/cybran/cybran_t1_arty.png)
 - Cybran T2 tank wagner now displays amphibious abilities;
 - Cybran T4 scathis now has 90 turret pitch range;
 - Cybran ML now has indirect fire overlay for bolters, direct for beam weapon;
