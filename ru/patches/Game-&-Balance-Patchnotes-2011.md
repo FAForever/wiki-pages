@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T16:51:37.239Z
+date: 2021-12-29T16:53:30.062Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -61,7 +61,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![uef_t2_fighter_bomber.png](/images/learning/uef/uef_t2_fighter_bomber.png)
 - В скрипт добавлено условие низкого расхода топлива для Т2 истребителя-бомбардировщика Кибран "Корсар";
 ![cybran_t2_fighter_bomber.png](/images/learning/cybran/cybran_t2_fighter_bomber.png)
-- All T1 bombers firing tolerance increased;
+- Максимально допустимое отклонение всех Т1 бомбардировщиков увеличено;
 
 - UEF, Cybran and Seraphim T2 bomber firing tolerance increased (should work better now);
 - All bomber torpedo firing tolerance increased;
