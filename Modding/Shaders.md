@@ -2,8 +2,8 @@
 title: Shaders
 description: 
 published: true
-date: 2021-10-24T19:12:44.016Z
-tags: 
+date: 2021-12-29T23:38:15.146Z
+tags: modding
 editor: markdown
 dateCreated: 2021-10-24T19:12:44.016Z
 ---
@@ -18,7 +18,7 @@ Shaders can be divided into pixel shaders and vertex shaders. Vertex shaders alt
 
 The shaders for Forged Alliance are written in HLSL (high level shading language) and the code is stored in .fx files in the effects.nx2 archive in the gamedata folder. Mesh.fx contains the shaders for the buildings and units in the game.
 
-When starting the game, the shaders are compiled and stored in a cache folder in C:\Users\Your_Username\Appdata\Local\Gas Powered Games\Supreme Commander Forged Alliance. When the shader files are edited, the files in the cache need to be deleted to trigger a recompile at game start.
+When starting the game, the shaders are compiled and stored in a cache folder in `C:\Users\Your_Username\Appdata\Local\Gas Powered Games\Supreme Commander Forged Alliance`. When the shader files are edited, the files in the cache need to be deleted to trigger a recompile at game start.
 
 Shaders are no rocket science, but they involve vector algebra. You should be familiar with the concept of vectors and know what a dot product and normal vecors are to understand the shader code.
 
