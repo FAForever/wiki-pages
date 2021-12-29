@@ -1,8 +1,8 @@
 ---
-title: Voicechat (Discord)
+title: Голосовой чат Discord
 description: 
 published: true
-date: 2021-12-29T22:36:40.353Z
+date: 2021-12-29T22:37:33.882Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:07.376Z
