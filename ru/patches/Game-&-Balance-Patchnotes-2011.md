@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T18:21:37.385Z
+date: 2021-12-29T18:31:02.881Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -100,14 +100,14 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Изменен уровень угрозы для T3 тежелой оборонительной турели ОФЗ "Опустошитель" (угрозы с воздуха нет, теперь угроза с поверхности);
 ![uef_t3_pd.png](/images/learning/uef/uef_t3_pd.png)
 - Добавлена целевая кость для турели Т3 тяжелого штурмового бота ОФЗ "Персиваль";
-- Добавлен **радиус оружия для щита??** для Т3 катера-заградителя ОФЗ "Оплот";
+- Добавлен **радиус оружия для щита??** для Т2 катера-заградителя ОФЗ "Оплот";
 - Добавлен бонус самопочинки для Т3 системы мониторинга периметра Кибран "Прорицатель";
-- Cybran megalith main guns projectile lifetime added;
-- Seraphim T4 Ahwassa firing tolerance increased;
-- Seraphim T1, T2 and T3 naval factories rollout point corrected;
-- Seraphim T1 and T2 mex rebuild bonus only itself;
-- Seraphim T3 engineering quite health increased;
-- Seraphim ACU added kill and capture sound;
+- Т4 мегабот Кибран "Мегалит" теперь имеет время жизни снаряда основного орудия;
+- Firing tolerance Т4 бомбардировщика-прототипа Серафим "Ахвасса" повышен;
+- Исправлена точка сбора военно-морских заводов Серафим Т1, Т2 и Т3;
+- **Seraphim T1 and T2 mex rebuild bonus only itself;**
+- **Значительно повышено здоровье Т3 инженеров Серафим?**;
+- Добавлен звук убийства и захвата для БМК Серафим;
 - Seraphim ACU regen buffs fix, fixed blast attack stacking;
 - fixed Seraphim selen scout transport animation;
 - fixed Seraphim T1 artillery not firing at units within range;
