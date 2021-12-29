@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T18:42:50.502Z
+date: 2021-12-29T19:04:16.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -113,13 +113,13 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - исправлена ошибка, из-за которой Т1 легкая артиллерия Серафим "Цтуи" не стреляла по юнитам в пределах досягаемости;
 - Исправлен значок для Т2 штурмового Серафим "Илшавох";
 - Исправлен Т3 осадный танк Серафим "Отуум", не соответствующий рельефу местности;
-- fixed Seraphim T3 arty transport drop animation;
-- Fixed bug allowing all seraphim structures/XP finished be seen through fow due to flash;
-- fixed pause and delay in seraphim engineers building stuff (t1/t2/t3);
-- Fixed seraphim T3 sam projectile not tracking targets;
-- Fixed ACU build time, now x100, now 100 times harder to repair but uses 1% of the E to do so;
-- Fixed seraphim air factory, now offloads engineers much faster: Compared to land factory, roughly same speed.... higher speed heading south, less speed heading laterally and north, but starts building new units sooner than land factory;
-- Added fix for radar and other intel turning off during upgrades during low-mass conditions;
+- Исправлена анимация высадки с транспорта Т3 тяжелой артиллерии Серафим "Сутанус";
+- Исправлена ошибка, из-за которой все постройки Серафимов или прототипы при окончании были видны через туман войны из-за вспышки;
+- **fixed pause and delay in seraphim engineers building stuff (t1/t2/t3);**
+- Исправлено, что снаряд Т3 зенитного лазерного комплекса Серафим "Яту-иоз" не отслеживал цели;
+- Исправлено время строительства БМК, теперь x100. Теперь в 100 раз сложнее ремонтировать БМК, но для этого используется 1% энергии;
+- Исправлена воздушная фабрика Серафим, теперь инженеры покидают ее намного быстрее: примерно со скоростью равной наземнгой фабрике. Более высокая скорость в южном направлении, меньшая скорость в боковом направлении и на север, но начинает строить новые юниты раньше, чем наземная фабрика;
+- Добавлено исправление отключения радаров и других систем обнаружения и маскировки во время улучшения в условиях малой массы;
 - Seraphim torpedo projectiles now immune to splash damage... torpedoes will not die if torpedo launcher is shot by a frigate;
 - Added new calculation for bomb drops from bombers. Should be far, far more consistent now.
 
