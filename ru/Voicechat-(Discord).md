@@ -2,47 +2,34 @@
 title: Voicechat (Discord)
 description: 
 published: true
-date: 2021-08-29T00:19:06.557Z
+date: 2021-12-29T22:36:40.353Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-29T00:03:21.476Z
+dateCreated: 2021-12-25T00:05:07.376Z
 ---
 
-![](FAFDiscordServer1.png "fig:FAFDiscordServer1.png") FAF now has a
-Discord server that everyone can use to talk with their friends and clan
-mates!
+![](FAFDiscordServer1.png "fig:FAFDiscordServer1.png") У FAF теперь есть официальный Discord сервер и теперь все могут общаться со своими друзьями и соклановцами!!
 
-## What is Discord?
+## Что такое Discord?
 
--   Discord is a free application for individuals and groups.
--   It's a regularly updated voice-chat software that is primarily used
-    for communication whilst gaming.
--   In FAF we use it as an easily available platform for voice
-    communication for you and your buddies during games, and for general
-    supcom things.
--   Finding [interesting Discord Servers](https://discordbee.com/) is
-    very easy
+-   Discord - бесплатное приложение для личного и группового общения.
+-   Это регулярно обновляемая программа для голосового и текстового общения, которая в основном используется для общения во время игры.
+-   В FAF мы используем его как легкодоступную платформу коммуникации для вас и ваших друзей во время игр, а также по общим вопросам.
+-   Найти сервер очень просто: [interesting Discord Servers](https://discordbee.com/) 
 
-## How to use the FAF Discord server
+## Как пользоваться FAF Discord сервером
 
-It's super easy, simply follow this
-***[link](https://discord.gg/hgvj6Af)*** and you will be taken to an
-in-browser version of the server. That's it, you are done!
+Это очень просто, просто следуйте этому гайдлайну: ***[клац](https://discord.gg/hgvj6Af)*** и вы попадете на страницу сервера в браузере. 
+Вот и все, готово!
 
-Alternatively you can also download the app
-[here](https://discordapp.com/) and then click on the above link to have
-it added to your server list.
+В качестве альтернативы вы также можете скачать приложение ***[клац](https://discordapp.com/)***, а затем щелкните ссылку выше, чтобы добавить его в ваш список серверов.
 
--   It should be noted that you cannot change your name on this server,
-    so its recommended to sign up with your FAF name.
--   However, an administrator or moderator can change your name for you,
-    if you confirm your identity by pming them in the FAF client
+- Следует отметить, что вы не можете изменить свое имя на этом сервере, поэтому рекомендуется регистрироваться с вашим именем FAF.
+- Так же администратор или модератор может изменить ваше имя за вас, если вы подтвердите свою личность, отправив их в FAF клиент
 
-## Why Discord over Mumble?
+## Почему Discord а не Mumble?
 
-FAF also has a [Mumble](Voicechat_(Mumble) "wikilink") server, which
-Discord is aiming to be an alternative to. Here is a list of advantages
-of Discord over mumble:
+FAF так же имеет голосовой сервер [Mumble](Voicechat_(Mumble) "wikilink") который является альтернативой Дискорду. Вот список преимуществ Discord над Mumble:
 
 -   Discord features a highly developed chat with embedded images and
     videos, with multiple channels.
@@ -55,20 +42,27 @@ of Discord over mumble:
 -   Both the FAF Discord server and Discord app itself undergo
     development so you can look forward to new features and
     functionality.
--   You can use discord for things other than FAF, and its very easy to
-    switch servers there.
+-   You can use discord for things other than FAF, and its very easy to switch servers there.
+-   В Discord есть развитый чат со встроенными изображениями и видео с несколькими каналами;
+-   Он работает в браузере без необходимости загрузки или настройки;
+-   Так же есть мобильное приложение, позволяющее использовать наш сервер с портативного
+    устройства;
+-   В Discord так же есть модераторы и поддержка, которые помогут вам с вопросами, связанными с
+    faf, и сделают вам жизнь немножко проще.
+-   И сервер Discord FAF, и само приложение Discord проходят разработка, чтобы вы могли
+    рассчитывать на новые функции и функциональность.
+-   Вы можете использовать Discord для других вещей помимо FAF - очень легко переключаться 
+    между серверами
 
-## Other Discord Servers
+## Другие Discord Сервера:
 
-There are several other notable FAF-related discord servers:
+Вот еще несколько известных Discord серверов связанных с FAF:
 
--   The Mapping&Modding (M&M) Discord where the map and mod makers of
-    FAF communicate - Click this
-    ***[link](https://discord.gg/Z5pVWSx)*** to join!
--   The Player Councillor (PC) Discord, which was created by FtXCommando
-    to organize certain FAF teams that are helping with - for example -
-    the ladder map pool, player training and tournaments. Click this
-    ***[link](https://discord.gg/zJMuYds)*** to join!
--   The FAF French Discord where information and assistance can be found
-    in French. Click this ***[link](https://discord.gg/G7Kh5aW)*** to
-    join!
+-   The Mapping&Modding (M&M) где обитают создатели карт и модов
+    для связи перейдите по ссылке ***[клац](https://discord.gg/Z5pVWSx)***!
+
+-   The Player Councillor (PC) Discord, который был создан FtXCommando
+    для организации FAF команд которые помогают, к примеру, с пуллом ladder карт, обучением игроков     и турнирами. Перейдите по ссылке что бы присоединиться ***[клац](https://discord.gg/zJMuYds)***!
+
+-   Французкий FAF Discord сервер где вы можете найти информацию и помощь на французком языке.     
+    Перейдите по ссылке что бы присоединиться ***[клац](https://discord.gg/G7Kh5aW)***!
