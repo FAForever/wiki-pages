@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T16:11:33.460Z
+date: 2021-12-29T16:26:30.828Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -43,9 +43,9 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ## 3608
 ### Новые функции
 -	Новая система подсчета очков;
-- All hover and amphibious combat units will now leave wreckage when destroyed on or under the water;
-- All ACUs and Engineers have a visual ring indicating their build radius when selected;
-- Seraphim T3 Sniper now has a range ring for it's "Sniper Mode" and a visual effect to indicate when it is active;
+- Все парящие юниты и боевые юниты-амфибии теперь будут оставлять обломки при уничтожении на или под водой;
+- Все БМК и инженеры при выборе имеют визуальное кольцо, указывающее их радиус строительства;
+- У Т3 снайпера Серафим теперь есть кольцо дальности атаки для "снайперского режима" и визуальный эффект, указывающий, когда он активен;
 - All T1 torpedo launchers can now shoot at targets directly beneath them.
 
 ## 3606
