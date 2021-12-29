@@ -2,8 +2,8 @@
 title: Tips-for-Modding-Efficiently
 description: 
 published: true
-date: 2021-10-24T20:45:30.548Z
-tags: 
+date: 2021-12-29T23:34:46.019Z
+tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:45:32.416Z
 ---
