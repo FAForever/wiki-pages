@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-29T17:30:11.280Z
+date: 2021-12-29T17:51:48.336Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -87,7 +87,8 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![cybran_t1_arty.png](/images/learning/cybran/cybran_t1_arty.png)
 - Т2 ныряющий танк Кибран "Вагнер" теперь отображает свойства амфибии;
 
-- Cybran T4 scathis now has 90 turret pitch range;
+- Т4 сверхтяжелая артиллерия Кибран "Скатис" теперь has 90 turret pitch range;
+
 - Cybran ML now has indirect fire overlay for bolters, direct for beam weapon;
 - Cybran T2 cruiser now has projectile lifetime on main gun (proton gun);
 - Aeon T3 rapid fire arty adjacency bug fixed;
