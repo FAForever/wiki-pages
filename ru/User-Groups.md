@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-29T09:52:55.992Z
+date: 2021-12-30T11:17:14.754Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -127,4 +127,4 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 | Active TD's |
 | ----------- |
-| Swkoll      | Morax     | Inspektor_Kot |
+| Swkoll      | Morax     | Inspektor_Kot [x](https://discordapp.com/users/245588548592467969/)|
