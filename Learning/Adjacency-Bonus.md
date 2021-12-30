@@ -2,13 +2,13 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2021-12-30T07:30:30.609Z
+date: 2021-12-30T07:30:51.391Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
 ---
 
-The Adjacency Bonus is a [game mechanic](/Learning-SupCom#tutorial-videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
+The Adjacency Bonus is a [game mechanic](/Learning#tutorial-videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
 
 ## General
 <img src="/images/learning/adjacency/adjacency_diagram.png" width="450" align="right"/> 
