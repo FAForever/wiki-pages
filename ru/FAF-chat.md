@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-30T07:09:35.546Z
+date: 2021-12-30T12:51:29.744Z
 tags: client
 editor: markdown
 dateCreated: 2021-12-23T18:53:09.162Z
@@ -55,7 +55,7 @@ dateCreated: 2021-12-23T18:53:09.162Z
 ***Добавить изображение всех аватарок***
 - Быть кастером ![caster_avatar.png](/images/client-icons/avatars/caster_avatar.png) или стримером ![streamer_avatar.png](/images/client-icons/avatars/streamer_avatar.png)
 - Участвуйте в турнире ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png), самый простой способ получить аватарку.
-- Тестируйте код игры (играйте в мод в разработке FAF и сообщайте об ошибках). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
+- Тестируйте код игры (играйте в режим FAF Develop и сообщайте об ошибках). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
 - Будьте первым, вторым или третьим в своей лиге.
 - Персональный аватар, обычно зарезервированный для администраторов и мододелов.
 - За пожертвование в FAF вы получаете Cookie ![cookie_avatar.png](/images/client-icons/avatars/cookie_avatar.png)
