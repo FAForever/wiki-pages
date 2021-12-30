@@ -2,8 +2,8 @@
 title: Command Line Switches
 description: Command line switches let you run Forged Alliance with extra options and settings.
 published: true
-date: 2021-12-30T02:22:58.503Z
-tags: modding
+date: 2021-12-30T02:23:15.689Z
+tags: modding, development
 editor: markdown
 dateCreated: 2021-08-31T09:42:35.315Z
 ---
