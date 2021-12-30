@@ -1,14 +1,12 @@
 ---
 title: Command Line Switches
-description: 
+description: Command line switches let you run Forged Alliance with extra options and settings.
 published: true
-date: 2021-12-30T02:20:16.401Z
+date: 2021-12-30T02:22:58.503Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:42:35.315Z
 ---
-
-Command line switches let you run Forged Alliance with extra options and settings.
 
 Supreme Commander will accept many command line switches. You can set them up in your windows shortcut. This is a partial list, with some explanations.
 
