@@ -2,14 +2,14 @@
 title: Faction Information
 description: 
 published: true
-date: 2021-12-30T07:29:39.695Z
+date: 2021-12-30T07:32:57.801Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
 ---
 
 This page presents an overview of general faction diversity. It outlines the overall strengths and weaknesses of each faction, and highlights some of their more unique units. The units that are extremely similar throughout the factions are not included on this page. Detailed statistics about every unit in the game can be found in the [Unit Database](/Unit-Database).
-
+# {.tabset}
 ## <img src="/images/learning/uef/uef.png" width="50" align="top"/> UEF
 
 The "Turtle" faction, a name coined because this faction plays best with a slow, steady, grinding style. Good for beginners together with Seraphim thanks to very solid, largely uncomplicated units, a strong ACU at all stages of the game, and units which do exceptionally well with little to no micro.
@@ -17,7 +17,7 @@ The "Turtle" faction, a name coined because this faction plays best with a slow,
 ### Description
 - <img src="/images/learning/uef/uef_acu.png" width="50" align="center"/> **ACU** – Has in the early game stage the highest amount of HP compared to the other ACUs. Its shield upgrade is on the back slot, while the RAS upgrade is on the arm slot, which makes it possible to get shield and RAS simultaneously. The same is possible for gun and T2, which are located on the arm slots. Hence the UEF ACU can also be a very good forward unit with the ACUs shield and gun upgrade, which can hold its own in most fights.
 - <img src="/images/learning/uef/uef_scu.png" width="50" align="center"/> **SACU** – Extremely powerful in combat (after getting upgraded), with high DPS, area of effect damage, and dual shield upgrades to create a bulky, powerful unit. This is a very good late game unit to use. It is notable, that it can also build the Ravager (T3 PD).
-
+### {.tabset}
 #### <img src="/images/learning/tech_1_icon.png"/> Tech 1
 - **Land:**
 	- <img src="/images/learning/uef/uef_t1_lab.png" width="50" align="center"/> **Mech Marine** - Considered the best lab, as it has a steady rate of fire.
@@ -83,6 +83,7 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - <img src="/images/learning/sera/sera_acu.png" width="50" align="center"/> **ACU** - Good HP, fearsome TML upgrade, and access to dual-RAS, dual-repair, a restoration field for your units, or dual-gun upgrades, this is a very powerful ACU.
 - <img src="/images/learning/sera/sera_scu.png" width="50" align="center"/> **SACU** - Overcharge and shield upgrades make this one of the strongest combatants of any type in the entire game, but it's highly micro dependant. Also has teleporter access. Has no RAS.
 
+### {.tabset}
 #### <img src="/images/learning/tech_1_icon.png"/> Tech 1
 - **Land:**
 	- <img src="/images/learning/sera/sera_t1_scout.png" width="50" align="center"/> **Combat Scout** - While standing still, this unit is stealthed and cloaked, meaning it's undetectable except by omni sensors. This can be used to provide reliable intel, or if standing on a mass spot will prevent engineers from building upon it. This unit takes the Seraphim's LAB spot as well as scout.
@@ -135,6 +136,7 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - <img src="/images/learning/cybran/cybran_scu.png" width="50" align="center"/> **SACU** - Decent combat unit. Gun upgrade can stun units. Best nano repair upgrade. Can have AA sam upgrade or cloak upgrade.
 	- RAS upgrade and Rapid Fabricator.
 
+### {.tabset}
 #### <img src="/images/learning/tech_1_icon.png"> Tech 1
 - **Land:**
 	- <img src="/images/learning/cybran/cybran_t1_scout.png" width="50" align="center"/> **Scout** - Cloaked.
@@ -204,6 +206,7 @@ Hardest faction to play. Require lot of micro. Good choice for playing on air sp
 - <img src="/images/learning/aeon/a_sacu.png" width="50" align="center"/> **SACU** - Bad in combat since only one gun upgrade available. Double shield upgrade or nano repair.
 -   RAS upgrade, teleport, sacrificial system.
 
+### {.tabset}
 #### <img src="/images/learning/tech_1_icon.png"> Tech 1
 - **Land:**
 	- <img src="/images/learning/aeon/a_t1_l_scout.png" width="50" align="center" /> **Scout** - Hover, can go over water.
