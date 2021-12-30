@@ -2,13 +2,11 @@
 title: Tips for Modding Efficiently
 description: How to set up an efficient cycle for rapid development.
 published: true
-date: 2021-12-30T00:24:49.000Z
+date: 2021-12-30T00:25:02.744Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:45:32.416Z
 ---
-
-## Introduction
 
 Following are some ideas about how to get started modding quickly. This is more about how to set up an efficient cycle for rapid development, and less about technically how to do things.
 
