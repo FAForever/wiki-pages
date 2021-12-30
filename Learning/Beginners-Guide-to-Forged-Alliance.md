@@ -1,25 +1,24 @@
 ---
-title: Beginners-Guide-to-Forged-Alliance
+title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2021-10-24T21:38:33.876Z
-tags: 
+date: 2021-12-30T06:30:23.535Z
+tags: build orders
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
 ---
 
-# Beginner's Guide to Forged Alliance
 **First of all, welcome to FAF! We are happy to have you!**
 
 The idea behind this guide is to show new players the ultimate basics, and a little more advanced stuff as we progress, so that you can dive into a game right away and have some basic knowledge.
 
 If you are looking for some more resources as a new player, please consult:
 
-[New Starter Written Guides](/Written-Guides)
+[New Starter Guide](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit)
 
-[Three Essential Habits for the New Player](/Three-Essential-Habits-for-the-New-Player)
+[Three Essential Habits for the New Player](/Learning/Three-Essential-Habits-for-the-New-Player)
 
-If you still need to setup Forged Alliance and the FAF client: [Setting Up FAF](/Setting-Up-FAF).
+If you still need to setup Forged Alliance and the FAF client: [Setting Up FAF](/FAQ/Client-Setup).
 
 ## Introduction
 
@@ -37,7 +36,7 @@ Let's start gaining knowledge! There are a bunch of words you'll need to know be
 - mapcontrol = how much on the map you control, doesn't necessarily have to be mass points (for example holding the area between two expansions of the opponent)
 - buildpower = how fast a unit can build, repair, capture, and reclaim
 
-This is a very small part of the [Glossary](Glossary "wikilink"). Visit that for a longer list.
+This is a very small part of the [Glossary](/Glossary). Visit that for a longer list.
 
 ### Economy - The basics
 
@@ -153,7 +152,7 @@ A build order where the ACU builds a land factory, followed by an air factory. S
 - Move to front line or help produce more factories (the first is better)
 
 The First Engineers build:
-- 1st Engie: Hydro, 1-2 Pgns, Air factory attached to hydro (for the [Adjacency Bonus](Adjacency_Bonus "wikilink"))
+- 1st Engie: Hydro, 1-2 Pgns, Air factory attached to hydro (for the [Adjacency Bonus](/Learning/Adjacency-Bonus))
 - 2nd Engie: Assist building hydro, expand, reclaim
 - 3rd Engie: Expand, reclaim, or assist ACU in factory production
 
@@ -176,7 +175,7 @@ There's a lot of stuff to say about the ACU, so let's start with the basics: str
 
 A Cybran ACU fighting 15 Seraphim tanks ---
 
-You can see the ACU didn't have a lot of health left, something you definitely want to avoid from happening! But you can also see the ACU took out 15 tanks, which is a lot. If the ACU had some backup, maybe 5 tanks for example, it wouldn't have been in trouble at all. You can also notice the ACU was under attack by all 15 tanks the whole time, we'll see what we can do to avoid this in [2.4 Intel](Beginner's_Guide_to_Forged_Alliance#Intel "wikilink").
+You can see the ACU didn't have a lot of health left, something you definitely want to avoid from happening! But you can also see the ACU took out 15 tanks, which is a lot. If the ACU had some backup, maybe 5 tanks for example, it wouldn't have been in trouble at all. You can also notice the ACU was under attack by all 15 tanks the whole time, we'll see what we can do to avoid this in [2.4 Intel](/Learning/Beginners-Guide-to-Forged-Alliance#intel).
 
 **Veterancy**
 Everything that can kill gets veterancy after it desroys a certain amount of mass (double the unit's own cost for most units). This means that if a unit deals damage to an enemy unit but doesn't get the kill on it, it will still advance towards its next veterancy. The amount it advances is determined by the enemy unit's cost and the amount of damage your unit dealt to it. The ACU for example needs roughly 20 T1 tank kills to get its first veterancy (1k mass killed). You can only get a maximum of five veterancies. Why? Each time a unit gets veterancy its health will not only increase, but it'll also get a certain amount of its health back. The ACU for example extends its health capacity by around 1K (depending on the faction) and gets 10% of its health back by the first veterancy, for free!
@@ -254,7 +253,7 @@ Pro's:
 Con's:
 - T1 Bombers don't have a good precision, making them less efficient to kill the opponent's expanding engineers at the early game.
 
-For more information on intermediate-level play check the [UEF 1v1 Guide](UEF_1v1_Guide "wikilink").
+For more information on intermediate-level play check the [UEF 1v1 Guide](/Learning/UEF-1v1-Guide).
 
 **Cybran - Freedom!** A faction that's more difficult to play, but has many tools which make it interesting.
 Pro's:
