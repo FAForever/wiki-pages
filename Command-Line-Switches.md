@@ -1,16 +1,22 @@
-Command line switches let you run Forged Alliance with extra options and
-settings.
+---
+title: Command Line Switches
+description: 
+published: true
+date: 2021-12-30T02:20:16.401Z
+tags: modding
+editor: markdown
+dateCreated: 2021-08-31T09:42:35.315Z
+---
 
-Supreme Commander will accept many command line switches. You can set
-them up in your windows shortcut. This is a partial list, with some
-explanations.
+Command line switches let you run Forged Alliance with extra options and settings.
+
+Supreme Commander will accept many command line switches. You can set them up in your windows shortcut. This is a partial list, with some explanations.
 
 ## Setting up a skirmish using command line
 
 ### Standard switches
 
-You can automaticly launch a skirmish right after launching the game. To
-do that, you need to specify a map. The other switches are optional.
+You can automaticly launch a skirmish right after launching the game. To do that, you need to specify a map. The other switches are optional.
 
 <table>
 <thead>
