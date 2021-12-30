@@ -1,9 +1,9 @@
 ---
-title: Learning-SupCom
+title: Learning Supreme Commander
 description: 
 published: true
-date: 2021-10-25T23:13:41.036Z
-tags: 
+date: 2021-12-30T07:19:17.801Z
+tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:44:03.279Z
 ---
@@ -14,7 +14,7 @@ This page is intended to help you learn how to play Forged Alliance. The game ha
 This wiki contains one complete guide to playing Forged Alliance, with the FAF client. The guide in this wiki is split into different sections, which are constantly being worked on and should provide a comprehensive coverage of the game and its various aspects.
 
 ### Setting up Supreme Commander: Forged Alliance and the FAF client
-If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/Setting-Up-FAF).
+If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
 
 ### Introduction and Basic Game Mechanics
 This is intended for players new to Supreme Commander, but if you are a returning player this could be useful as it provides a sound knowledge base and encourages good habits.
@@ -60,52 +60,7 @@ As you can notice some of the videos are not mentioned below, that is because th
 
 ### Advanced Tutorials
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4 id="micro">Micro</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=bgdtF63mkvA&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=4">Micro Overview Video</a></li>
-<li><a href="https://www.youtube.com/watch?v=OFfThjfIC30">Basic Land micro: How to dodge correctly</a></li>
-<li><a href="https://www.youtube.com/watch?v=7MVmqyORsKI">Unit blocking</a> <a href="https://www.youtube.com/watch?v=Llm1HHmJp9E&amp;list=PLxH0oefiZR_W8xpoGh3DbGQH9_ezdV3B-&amp;index=1">Construction Site Block</a></li>
-<li><a href="https://www.youtube.com/watch?v=nJM8OZYllq4">T3 Air (ASF Micro)</a></li>
-<li><a href="https://youtu.be/dkDQd5EsvdA">Hoverbombing Strats</a></li>
-<li><a href="https://youtu.be/w7VSbf_Lxmw?t=2m20s">General Air Micro</a></li>
-<li><a href="https://www.youtube.com/watch?v=H5fLQ9quSXw">Tips &amp; Tricks</a></li>
-</ul></td>
-<td><h4 id="build_orders_anything_that_uses_ras_is_outdated">Build Orders (anything that uses RAS is outdated)</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=_6uE1-xS2uk">Generic Build Orders</a></li>
-<li><a href="https://www.youtube.com/watch?v=ozRcglfzicU">Bacis Build Orders &amp; PvP Gameplay</a></li>
-<li><a href="https://www.youtube.com/watch?v=u_m53YcP9OA">Basic Build Orders</a></li>
-<li><a href="https://www.youtube.com/user/praisegugleourmaster/videos?query=build">List of Build Orders</a></li>
-<li><a href="http://forums.faforever.com/forums//viewtopic.php?f=40&amp;t=9136">Build Orders to Specific Positions on Maps</a></li>
-<li><a href="https://www.youtube.com/watch?v=TYwZf14xKEk&amp;list=PLxH0oefiZR_UssM3V9gTcI2WXdDo47yTm&amp;index=1">Playlist of Updated Map-Specific Build Orders</a></li>
-<li><a href="https://www.youtube.com/watch?v=h-GzOhDQwA8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=12">How to Eco: Sources of Mass by Efficiency</a></li>
-<li><a href="https://www.youtube.com/watch?v=P0qtOfPcBfg">How to Eco: Sources of Power by Efficiency</a></li>
-<li><a href="https://www.youtube.com/watch?v=lvRYxvk6EzE&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=13">3 Tips for Better Eco</a></li>
-<li><a href="http://www.youtube.com/watch?v=esvZ3_WdGKw">Basic economy in teamgames</a></li>
-</ul></td>
-<td><h4 id="specific_units">Specific Units</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=V-blUZq8Jts">Selens (Seraphim T1 Scouts)</a></li>
-<li><a href="https://www.youtube.com/watch?v=tzv7nOH-IrY">How to counter: Early Air</a>(Hoverbombing doesn't work with T1 bombers.)</li>
-<li><a href="https://www.youtube.com/watch?v=TMosOhCkf-g">How do deal with T2 Turtles</a></li>
-<li><a href="https://youtu.be/6JKtn5oB2ag">Fire Beetles</a></li>
-<li><a href="https://www.youtube.com/watch?v=xcYBCiTfO0w&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=2">Sprite Strikers (Illuminate Sniper Bots)</a></li>
-<li><a href="https://www.youtube.com/watch?v=xjSVmgvq_kw&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=1">T3 Stationary Arty Base Design</a></li>
-<li><a href="https://www.youtube.com/watch?v=GYFKmWY_Xps&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=3">T4 Resource Generator (Paragon)</a></li>
-<li><a href="https://www.youtube.com/watch?v=e9jGeqc2Cpg">Megalith</a></li>
-</ul></td>
-<td><h4 id="other">Other</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=yXOVsI-I5P8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=3">Map Control</a></li>
-<li><a href="https://www.youtube.com/watch?v=Z05hNoPpE_A">Self Destruct</a></li>
-<li><a href="https://www.youtube.com/watch?v=m22CnQ90m6M">TML Blocking</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+**Advanced Tutorial Playlist:** [Playlist of Videos](https://youtube.com/playlist?list=PL0nxuIUIjpFvQguO--zMZy9T6PaDBGOun)
 
 ## Replay Analysis
 
