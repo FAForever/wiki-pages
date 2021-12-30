@@ -2,13 +2,12 @@
 title: Unit Micro
 description: 
 published: true
-date: 2021-10-24T22:24:16.615Z
-tags: 
+date: 2021-12-30T07:26:43.998Z
+tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T21:47:57.307Z
 ---
 
-# Unit Micro
 Microing units can greatly increases their effectiveness, however it concentrates your attention in one spot. When deciding whether to micro or not, consider the advantages you will gain from that vs. the advantages of spending the apm in another place.
 
 ## Basic Commands
