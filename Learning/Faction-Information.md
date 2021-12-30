@@ -1,9 +1,9 @@
 ---
-title: Faction-Information
+title: Faction Information
 description: 
 published: true
-date: 2021-10-25T22:41:51.778Z
-tags: 
+date: 2021-12-30T07:29:39.695Z
+tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
 ---
