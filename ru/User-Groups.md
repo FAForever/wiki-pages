@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-30T11:42:05.235Z
+date: 2021-12-30T11:43:20.663Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -102,7 +102,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 | IRC Модераторы |
 | -------------- |
-| Medicraze      | SiwaonaDaphnewen | NarNerdPower | Viking |
+| Medicraze      | [SiwaonaDaphnewen](https://discordapp.com/users/197225062317817857/) | NarNerdPower | Viking |
 
 **Важно:** *QAI* и *AeonCommander* это [чат боты](/FAF-chat#Chat-commands)!
 
