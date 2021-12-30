@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-30T11:37:29.736Z
+date: 2021-12-30T11:39:38.080Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -119,7 +119,7 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 | [Inspektor_Kot](https://discordapp.com/users/245588548592467969/)          | Emerald | [Javi](https://discordapp.com/users/307278843062910976/)          | [HintHunter](https://discordapp.com/users/107897331185115136/) 
 | [Deribus](https://discordapp.com/users/228680778186227712/)          | [Tagada](https://discordapp.com/users/203886429422485505/)  | [Morax](https://discordapp.com/users/197338241781727232/)  | [Sladow](https://discordapp.com/users/310061915189673984/)
 | [Explosive](https://discordapp.com/users/290560858008846342/)          | F-Odin  | Terminal			| [Resistance](https://discordapp.com/users/456521151951273984/) |
-| [Cheeseberry](https://discordapp.com/users/435170811859697694/)     | Aulex   | [LimeZ3](https://discordapp.com/users/257482037236203520/) 				| Gorthaur	 |
+| [Cheeseberry](https://discordapp.com/users/435170811859697694/)          | [Aulex](https://discordapp.com/users/131831547425849344/)  | [LimeZ3](https://discordapp.com/users/257482037236203520/) 				| Gorthaur	 |
 
 ## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Директора Турниров
 
