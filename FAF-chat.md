@@ -2,8 +2,8 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-27T16:16:25.815Z
-tags: chat tabs, chat commands, player list, player status, joining chat via browser, avatars
+date: 2021-12-30T01:23:49.323Z
+tags: chat tabs, chat commands, player list, player status, joining chat via browser, avatars, client
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
 ---
