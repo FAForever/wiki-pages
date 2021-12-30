@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-12-30T01:23:04.720Z
+date: 2021-12-30T02:22:12.719Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -13,17 +13,17 @@ dateCreated: 2021-08-31T09:44:39.374Z
 The NewsHub is the new and improved One-Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team.
 The NewsHub can be accessed Via the Client and via the browser [here](https://www.faforever.com/newshub).
 
-**1) Topbar**
+## Topbar
 Here is where Some Important Information that needed to be displayed, This can be from Server Updates.
 
-**2) Normal Article**
+## Normal Article
 The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
 
-**3) Hero Article**
+## Hero Article
 The Hero article is used when something big has happened in the community or Tournament Winners E.G.
 Balance & Game Patch’s, Big Tournament Announcements and Much more.
 
-**4) Right Side Panel**
+## Right Side Panel
 The Information panel is where the Promotions Team and Set up a long term link for useful information for the community to use.
 Until now it has just been linking to a mix of pages on the website and the forum.
 
@@ -38,9 +38,7 @@ Until now it has just been linking to a mix of pages on the website and the foru
 - [Promotions](/Promotions)
 - [From the Internet](/From-the-Internet)
 
-
-
-**5,6,7) Left, Mid and Right Sidebar**
+## Left, Mid and Right Sidebar
 These are the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
 
 >Here are the Specifications for all the sizes for all the sections if you would need a post on the NewsHub...
