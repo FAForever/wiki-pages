@@ -1,18 +1,18 @@
 ---
-title: General-1v1-Guide
+title: General 1v1 Guide
 description: 
 published: true
-date: 2021-10-24T22:48:35.214Z
-tags: 
+date: 2021-12-30T07:27:30.202Z
+tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
 ---
 
-The purpose of this guide is to provide you with basic instructions on how to play 1v1, specifically ladder. It's implied that you have already read the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink"), the [Three Essential Habits for the New Player](Three_Essential_Habits_for_the_New_Player "wikilink"), and the [Unit Micro](Unit_Micro "wikilink") guides and have a general understanding of the basic game mechanics and terms.
+The purpose of this guide is to provide you with basic instructions on how to play 1v1, specifically ladder. It's implied that you have already read the [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance), the [Three Essential Habits for the New Player](/Learning/Three-Essential-Habits-for-the-New-Player), and the [Unit Micro](/Learning/Unit-Micro) guides and have a general understanding of the basic game mechanics and terms.
 
 ## Basic strategy
 
-You should start by building a land factory and following up with one of the basic build orders shown in the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink"). Depending on the size of the map you spawned on, the queue of your first factory might vary greatly. If it is a 5x5 you will need some early engineers and units, but later on your first factory can mostly build tanks (assuming you can keep your engineers alive). On 10x10 maps you will require some more early engineers along with a few units, but later on the factory can just build engineers. On 20x20 maps your first factory can make only engineers, leaving the combat units for factories built later. Your first engineers should build the mexes in your base that your ACU will not, begin building a hydro if one is available, reclaim any large rocks/wrecks near your base, and begin expanding to mexes outside of your base. Expanding engineers are vulnerable to your opponent's units so they should have an escort. A single tank escorting an engineer should be enough early on, but do not forget to bring along a scout for extra vision and radar.
+You should start by building a land factory and following up with one of the basic build orders shown in the [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance). Depending on the size of the map you spawned on, the queue of your first factory might vary greatly. If it is a 5x5 you will need some early engineers and units, but later on your first factory can mostly build tanks (assuming you can keep your engineers alive). On 10x10 maps you will require some more early engineers along with a few units, but later on the factory can just build engineers. On 20x20 maps your first factory can make only engineers, leaving the combat units for factories built later. Your first engineers should build the mexes in your base that your ACU will not, begin building a hydro if one is available, reclaim any large rocks/wrecks near your base, and begin expanding to mexes outside of your base. Expanding engineers are vulnerable to your opponent's units so they should have an escort. A single tank escorting an engineer should be enough early on, but do not forget to bring along a scout for extra vision and radar.
 
 The very early portion of your build is now complete. You have completed your 2nd factory, and have one or two engineers expanding with escorts. What now? Depending on your build and on the map you may have some mass still stored up. Look at your ecobar and see how much mass you have remaining. If you have more than 100 mass stored up and are not losing mass rapidly, feel free to build an additional pgen and a land factory or if you chose to go for 2 land factories, 2-4 more pgens and an air factory.
 
