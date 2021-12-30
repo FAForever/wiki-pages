@@ -1,9 +1,9 @@
 ---
-title: Aeon-1v1-Guide
+title: Aeon 1v1 Guide
 description: 
 published: true
-date: 2021-10-24T22:54:31.477Z
-tags: 
+date: 2021-12-30T07:27:55.930Z
+tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:42:02.581Z
 ---
