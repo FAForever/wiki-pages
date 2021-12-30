@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2021-12-23T19:02:31.339Z
+date: 2021-12-30T00:12:47.115Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -101,7 +101,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/map-and-mod-icons/gpg-map-editor.png" width="40"/><a href="Map-Editor"> GPG Map Editor</a></li>
+<li><img src="/map-and-mod-icons/gpg-map-editor.png" width="40"/><a href="GPG-Map-Editor"> GPG Map Editor</a></li>
 <li><img src="/map-and-mod-icons/faf-map-editor.png" width="40"/><a href="FA-Forever-Map-Editor"> FA Forever Map Editor</a></li>
 </ul></td>
 <td><ul>
@@ -130,7 +130,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="AI-Modding"> AI Modding</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Bug-reporting-and-testing"> Bug reporting and testing</a></li>
+<li><a href="Bug-Reporting-and-Testing"> Bug reporting and testing</a></li>
 </ul></td>
 <td></td>
 </tr>
