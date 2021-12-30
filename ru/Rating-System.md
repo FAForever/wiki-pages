@@ -1,8 +1,8 @@
 ---
-title: Rating-System
+title: Рейтинговая система
 description: 
 published: true
-date: 2021-12-30T01:07:01.632Z
+date: 2021-12-30T01:08:57.912Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:04:04.302Z
