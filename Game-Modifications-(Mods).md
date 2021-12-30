@@ -2,15 +2,11 @@
 title: Integrated Mods
 description: An outline of mods that were integrated into FAF, and how to use them.
 published: true
-date: 2021-12-30T02:38:38.063Z
+date: 2021-12-30T02:43:49.559Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
 ---
-
-The FAF lobby contains an integrated [Mod Vault](/Map-&-Mod-Vault#mod-vault) where many mods can be found, and manages them automatically for you. In **exceptional** cases, mods can be downloaded from the forums, but for general use, consult the [Mod Vault](/Map-&-Mod-Vault#mod-vault). Here is an introduction to some of the available game modifications for FAF.
-
-## Integrated Mods
 
 These mods are currently integrated into FAF. **They don't require any installation and will probably break if you try to install them**.
 
@@ -225,73 +221,3 @@ Notify allies about ACU upgrades in team chat, along with allowing for ACU/SACU 
 
 ### Selection Sort
 Improved unit sorting in the selection panel.
-
-## UI Mods
-
-UI mods are mods which are activated on a per-person basis and have no effect on other players in the game. As the name implies, they are usually changes and enhancements to the UI and can make playing the game easier. UI mods should never make a game unrated.
-
-**If not stated else, these mods can be downloaded directly from [Mod Vault](/Map-&-Mod-Vault).**
-
-### <img src="/images/modding/youtube-icon-full_color.png" width="30"/> [Comprehensive UI Mod Video Guide](https://goo.gl/bjJM2t)
-
-### <img src="/images/modding/noshakeicon.png" width="30"/> NoShake
-
-Disable camera shake.
-
-### <img src="/images/modding/notifications_mod_icon.png" width="30"/> Notifications
-
-Notify the player about various events in the game. It's completely configurable.
-
-Full description of all features in [this forum thread.](http://forums.faforever.com/forums/viewtopic.php?f=41&t=9432)
-
-### <img src="/images/modding/suicide.png" width="30"/> Suicide Confirmation
-
-Asks for confirmation before self destructing units.
-
-### <img src="/images/modding/supreme_score_board_icon.png" width="30"/> Supreme Score Board
-
-Improves score board and replays by adding more columns, team stats, players sorting, filtering units by type, kill/lose ratio, fixed UI updates lags! Refer to this [forum post](http://forums.faforever.com/forums/viewtopic.php?f=41&t=10887) for more info (HUSSAR)
-
-<img src="/images/modding/ssb-info.png" width="800"/>
-
-### <img src="/images/modding/ui_mass_fab_manager.png" width="40"/> UI Mass Fab Manager
-
-Automatically switches Mass Fabricators on/off.
-
-### <img src="/images/modding/minimap.png" width="40"/> Zep's Minimap Zoom
-
-Disables minimap when zoomed out.
-
-### <img src="/images/modding/asi_icon.png" width="40"/> [Advanced Strategic Icons](/Game-Modifications-(Mods)/Advanced_Strategic_Icons)
-
-This mod improves the readability and visibility of the strategic icons, adjusting them to fit higher resolutions while offering changable sizes, color highlighting for key structures and intuitive symbols.
-
-Latest version can be found in the first post of [this forum thread.](https://forums.faforever.com/viewtopic.php?t=2740)
-
-### <img src="/images/modding/ta_music_icon.png" width="40" /> Total Annihilation Music Mod
-
-Available in the Mod Vault
-### <img src="/images/modding/sc_music_icon.png" width="40" /> Supreme Commander Music Mod
-Available in the Mod Vault
-
-## Sim Mods
-
-Sim mods are mods which affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game. Most Sim mods make a game [unrated.](Global_Ranking#When_is_the_game_rated.3F "wikilink")
-
-### <img src="/images/modding/rks_explosions_icon.jpg" width="40"/>[RK's Explosions](https://forums.faforever.com/viewtopic.php?f=41&t=6813)
-Available in the Mod Vault
-
-## Featured Mods
-
-These mods can be hosted directly from [Find Games](/Host-and-join-games) Tab. 
-
--   ![blackops_avatar.png](/images/modding/blackops_avatar.png) Black Ops
--   Civilians_Defence
--   Claustrophobia
--   King of the Hill
--   ![labwars_champion.png](/images/modding/labwars_champion.png) LABwars
--   Murder Party
--   ![nomads_avatar.png](/images/modding/nomads_avatar.png) The Nomads
--   ![phantom_avatar.png](/images/modding/phantom_avatar.png) Phantom
--   Vanilla
--   Coop 1v1
