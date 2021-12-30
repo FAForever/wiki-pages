@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-30T12:51:29.744Z
+date: 2021-12-30T12:52:17.808Z
 tags: client
 editor: markdown
 dateCreated: 2021-12-23T18:53:09.162Z
@@ -57,7 +57,7 @@ dateCreated: 2021-12-23T18:53:09.162Z
 - Участвуйте в турнире ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png), самый простой способ получить аватарку.
 - Тестируйте код игры (играйте в режим FAF Develop и сообщайте об ошибках). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
 - Будьте первым, вторым или третьим в своей лиге.
-- Персональный аватар, обычно зарезервированный для администраторов и мододелов.
+- Персональный аватар, обычно зарезервированный для администраторов и модераторов.
 - За пожертвование в FAF вы получаете Cookie ![cookie_avatar.png](/images/client-icons/avatars/cookie_avatar.png)
 - За победу в турнире выдаются аватарки. Обычно временные для BlitzTournament, WWPCTournament, иногда постоянные для крупных турниров, таких как Legends of the Stars.
 - Лицо фракции ![dostya.png](/images/client-icons/avatars/dostya.png) аватары обычно за второе место в турнире, логотип фракции ![uef_avatar.png](/images/client-icons/avatars/uef_avatar.png) для третьего.
