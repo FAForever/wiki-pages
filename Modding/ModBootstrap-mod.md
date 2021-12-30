@@ -1,14 +1,12 @@
 ---
-title: ModBootstrap-mod
-description: 
+title: ModBootstrap mod
+description: A sample mod for developers.
 published: true
-date: 2021-10-24T20:49:02.278Z
-tags: 
+date: 2021-12-30T02:19:04.179Z
+tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:31.794Z
 ---
-
-## About
 
 The ModBootstrap mod is a sample mod for developers to use to start creating ui/sim mods. **Download it from the mod vault** and start editing it.
 
