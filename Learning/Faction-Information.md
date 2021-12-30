@@ -2,7 +2,7 @@
 title: Faction Information
 description: 
 published: true
-date: 2021-12-30T07:32:57.801Z
+date: 2021-12-30T07:36:08.183Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -10,9 +10,9 @@ dateCreated: 2021-08-31T09:43:23.243Z
 
 This page presents an overview of general faction diversity. It outlines the overall strengths and weaknesses of each faction, and highlights some of their more unique units. The units that are extremely similar throughout the factions are not included on this page. Detailed statistics about every unit in the game can be found in the [Unit Database](/Unit-Database).
 # {.tabset}
-## <img src="/images/learning/uef/uef.png" width="50" align="top"/> UEF
+## <img src="/images/learning/uef/uef.png" width="50" align="top"/>
 
-The "Turtle" faction, a name coined because this faction plays best with a slow, steady, grinding style. Good for beginners together with Seraphim thanks to very solid, largely uncomplicated units, a strong ACU at all stages of the game, and units which do exceptionally well with little to no micro.
+**UEF**; the "Turtle" faction, a name coined because this faction plays best with a slow, steady, grinding style. Good for beginners together with Seraphim thanks to very solid, largely uncomplicated units, a strong ACU at all stages of the game, and units which do exceptionally well with little to no micro.
 
 ### Description
 - <img src="/images/learning/uef/uef_acu.png" width="50" align="center"/> **ACU** – Has in the early game stage the highest amount of HP compared to the other ACUs. Its shield upgrade is on the back slot, while the RAS upgrade is on the arm slot, which makes it possible to get shield and RAS simultaneously. The same is possible for gun and T2, which are located on the arm slots. Hence the UEF ACU can also be a very good forward unit with the ACUs shield and gun upgrade, which can hold its own in most fights.
@@ -76,8 +76,8 @@ The "Turtle" faction, a name coined because this faction plays best with a slow,
 - <img src="/images/learning/uef/uef_t4_satellite_center.png" width="50" align="center"/> **Defense Satellite** – This unique unit is a building which spawns a satellite. It can fly anywhere on the map and fire a laser down in bursts. The satellite cannot be destroyed other than having a nuke collide with it or destroying the building. The only other way to kill it is to hit ground underneath it with a Yolona Oss missile.
 - <img src="/images/learning/uef/uef_t4_static_arty.png" width="50" align="center"/> **Mavor** – Experimental Strategic Artillery. This unit has practically unlimited range, outstanding damage, and is extremely accurate even firing at a very high distance. One of the most expensive units in the game.
 
-## <img src="/images/learning/sera/seraphim.png"> Seraphim
-The other 'Beginner' faction, the Seraphim generally make up for their lack of unique units with extremely powerful all-rounders. Who needs a specialist shield killer when you can just blow the front door down?
+## <img src="/images/learning/sera/seraphim.png">
+**Seraphim**, the other 'Beginner' faction, they generally make up for their lack of unique units with extremely powerful all-rounders. Who needs a specialist shield killer when you can just blow the front door down?
 
 ### Description
 - <img src="/images/learning/sera/sera_acu.png" width="50" align="center"/> **ACU** - Good HP, fearsome TML upgrade, and access to dual-RAS, dual-repair, a restoration field for your units, or dual-gun upgrades, this is a very powerful ACU.
@@ -129,8 +129,8 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - <img src="/images/learning/sera/sera_t4_assault_bot.png" width="50" align="center"/> **Ythotha Assault Bot** - Great against groups of units with a high splash damage 'Ball of doom' cannon. When destroyed releases a highly destructive orb of lightning energy that attack any unit or structure nearby for 30 seconds.
 - <img src="/images/learning/sera/sera_t4_bomber.png" width="50" align="center"/> **Ahwassa Bomber** - Absurdly powerful bomber, it's vulnerable to interception but if this thing drops, you can assume the target died.
 - <img src="/images/learning/sera/sera_t4_nuke.png" width="50" align="center"/> **Nuke Launcher** - Hyper-expensive game-ender class mega-nuke. Each missile takes two anti-nuke missiles to defend it, the nukes load faster, they do more damage and they have a frankly ridiculous AOE.
-## <img src="/images/learning/cybran/cybran.png"> Cybran
-"Hit and run" Faction that is harder to master. Require more micro than UEF and Seraphim. Weakest ACU. Fast units that are good to combine mobile stealth. Worst static shields and no mobile shields. Best Cruise Missiles, they split into 3 smaller when hit by TMD.
+## <img src="/images/learning/cybran/cybran.png">
+**Cybran**, the "Hit and run" faction that is harder to master. Require more micro than UEF and Seraphim. Weakest ACU. Fast units that are good to combine mobile stealth. Worst static shields and no mobile shields. Best Cruise Missiles, they split into 3 smaller when hit by TMD.
 ### Description
 - <img src="/images/learning/cybran/cybran_acu.png" width="50" align="center"/> **ACU** - Least HP but slightly higher regen. Gun and tech upgrade on same arm, so you can't have both. Laser or torpedo upgrade. Stealth and expensive cloak upgrade. This ACU is best for telesnipe.
 - <img src="/images/learning/cybran/cybran_scu.png" width="50" align="center"/> **SACU** - Decent combat unit. Gun upgrade can stun units. Best nano repair upgrade. Can have AA sam upgrade or cloak upgrade.
@@ -199,8 +199,8 @@ The other 'Beginner' faction, the Seraphim generally make up for their lack of u
 - <img src="/images/learning/cybran/cybran_t4_gunship.png" width="50" align="center" /> **Soul Ripper** - Strong experimental gunship. Good splash damage against groups of units. 
 - <img src="/images/learning/cybran/cybran_t4_mobile_arty.png" width="50" align="center" /> **Scathis** - Rapid firing artillery with a shorter range and far less accuracy than T3 artillery but with huge dps. Cybran game ender. Can move, and is amphibious.
 
-## <img src="/images/learning/aeon/aeon.png"> Aeon
-Hardest faction to play. Require lot of micro. Good choice for playing on air spot due to versatility.
+## <img src="/images/learning/aeon/aeon.png">
+**Aeon**, the hardest faction to play. Require lot of micro. Good choice for playing on air spot due to versatility.
 ### Description
 - <img src="/images/learning/aeon/a_acu.png" width="50" align="center"/> **ACU** - Decent HP, has two gun upgrades and better range that other faction's gun upgrade, double shield upgrade. Chrono upgrade that stuns units. Double RAS.
 - <img src="/images/learning/aeon/a_sacu.png" width="50" align="center"/> **SACU** - Bad in combat since only one gun upgrade available. Double shield upgrade or nano repair.
