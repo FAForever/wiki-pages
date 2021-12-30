@@ -1,9 +1,9 @@
 ---
-title: FAF Chat
+title: Chat
 description: 
 published: true
-date: 2021-12-30T01:34:15.154Z
-tags: 
+date: 2021-12-30T01:43:34.315Z
+tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
 ---
