@@ -2,8 +2,8 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2021-12-30T06:30:23.535Z
-tags: build orders
+date: 2021-12-30T07:08:24.841Z
+tags: 
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
 ---
