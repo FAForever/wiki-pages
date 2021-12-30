@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-30T16:00:59.089Z
+date: 2021-12-30T16:01:33.154Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -147,7 +147,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Оптимизация графики, звука и нагрузки на процессор.
 ### Лобби
 -   Поддержка лобби до 12 игроков, а также бесконечного количества наблюдателей(**звучит неубедительно**);
--   Добавлена увеличенная версия карты в лобби;
+-   Добавлена увеличенная версия миниктюры карты в для предпросмотра;
 -   Adding random map selection;
 -   Adding share condition : The given units can disappears when you die;
 -   Adding automatic formation of teams (Top/Bottom, right/left, odd/even slot);
