@@ -2,7 +2,7 @@
 title: FAF Chat
 description: 
 published: true
-date: 2021-12-30T17:15:40.871Z
+date: 2021-12-30T17:17:49.608Z
 tags: client
 editor: markdown
 dateCreated: 2021-12-23T18:53:09.162Z
@@ -19,7 +19,7 @@ dateCreated: 2021-12-23T18:53:09.162Z
 
 - **/me** - За которой следует текст. Говорит от третьего лица. например. * Пользователь, за которым следует текст*.
 - **!seen** - За которой следует имя пользователя. Показывает, когда пользователь был в последний раз онлайн
-- **!streams** - Показывает все текущие [трансляции](/Casts&Livestreams ) по Forged Alliance. (Twitch, HitBox, etc)
+- **!streams** - Показывает все текущие [трансляции](/Casts&Livestreams ) по Forged Alliance. (Twitch, HitBox и т.д.)
 - **!casts** - Показывает пять последних видеороликов Youtube по Supreme Commander. (Чтобы поместить ваше видео в этот список, введите название видео «Supreme Commander» или «Forged Alliance»)
 - **!trainers** - Отправляет вам лично список [тренеров](/User-Groups#trainers), присутствующих на данный момент.
 - **!mods** - Отправляет вам лично список [модераторов](/User-Groups#faf-moderators), присутствующих на данный момент.
