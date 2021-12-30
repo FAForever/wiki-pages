@@ -2,13 +2,11 @@
 title: Leaderboards
 description: 
 published: true
-date: 2021-09-10T09:52:27.801Z
-tags: 
+date: 2021-12-30T01:29:37.529Z
+tags: client
 editor: markdown
 dateCreated: 2021-09-10T09:52:27.801Z
 ---
-
-# Leaderboards
 
 ![leaderboardspng.png](/leaderboardspng.png)
 
