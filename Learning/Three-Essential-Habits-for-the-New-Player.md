@@ -1,9 +1,9 @@
 ---
-title: Three-Essential-Habits-for-the-New-Player
+title: Three Essential Habits for the New Player
 description: 
 published: true
-date: 2021-10-24T21:45:27.121Z
-tags: 
+date: 2021-12-30T07:23:08.528Z
+tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:45:31.195Z
 ---
