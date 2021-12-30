@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-30T16:45:51.438Z
+date: 2021-12-30T22:50:57.705Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -156,7 +156,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 -   Ограничение 'No Game ender' теперь включает в себя Т3 и Т4 артиллерию, Т4 эсперементальный генератор ресурсов Эон "Идеал", Т4 орбитальную систему защиты ОФЗ "Центр Новакс" и Т4 стратегическую установку Серафим "Йолона Осс";
 -   Ограничение "Без ядерного оружия" теперь корректно ограничивает военно-морские корабли со стратегическим ядерным вооружением.
 ### Исправления ошибок
--  ** Исправлена ошибка, препятствующая приобретению обновлений командира по более низкой цене за счет отмены;**
+-  Исправлена ошибка, позволяющая выполнить улучшение командира по более низкой цене через отмену;
 -   Fixed restoration field upgrade and advanced restoration field upgrade to not repair the ACU;
 -   All Units shooting at the Seraphim ACU now aim at the correct bones instead of the feet;
 -   Pausing a Mass Extractor while in mass deficit does now correctly stop mass consumption;
