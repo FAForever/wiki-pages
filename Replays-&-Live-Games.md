@@ -2,13 +2,11 @@
 title: Replays & Live Games
 description: 
 published: true
-date: 2021-09-29T10:04:58.963Z
-tags: 
+date: 2021-12-30T01:27:20.697Z
+tags: replays, client
 editor: markdown
 dateCreated: 2021-09-29T10:04:58.963Z
 ---
-
-## General
 
 Every game you play is automatically saved online and offline. You can also watch any live game that is currently being played. Click the "Replays" tab to show them or check out the links posted below.
 **If a game was played with a non-featured mod, you will have to have this mod available on your local system, otherwise there will be desyncs or other unpredictable problems. There is currently no mechanism in place to automatically download and update non-featured mods for you when you attempt to watch a game with them enabled.**
