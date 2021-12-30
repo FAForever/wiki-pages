@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-30T11:39:38.080Z
+date: 2021-12-30T11:42:05.235Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -95,8 +95,8 @@ The Moderators Councillor is a member of the Council of Setons and is working on
 
 | Текущий список команды модераторов |
 | ------------------ |
-| Giebmasse          | Gorton             | Voodoo             | Resistance         |
-| Swkoll             | Deribus            | Legion Darrath     | Tex                |
+| [Giebmasse](https://discordapp.com/users/197074417858248705/)          | Gorton             | Voodoo             | [Resistance](https://discordapp.com/users/456521151951273984/)         |
+| [Swkoll](https://discordapp.com/users/199572022077030400/)             | [Deribus](https://discordapp.com/users/228680778186227712/)             | Legion Darrath     | Tex                |
 | archsimkat         | angelofd347h       | nemir              |                    |
 
 
