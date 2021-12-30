@@ -2,7 +2,7 @@
 title: Integrated Mods
 description: An outline of mods that were integrated into FAF, and how to use them.
 published: true
-date: 2021-12-30T02:43:49.559Z
+date: 2021-12-30T02:50:01.967Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:43:34.672Z
 
 These mods are currently integrated into FAF. **They don't require any installation and will probably break if you try to install them**.
 
-### Engy Mod
+## Engy Mod
 ![engimod.jpg](/engimod.jpg)
 Only T1 engies were viable to produce higher tech units or assisting buildings. Multiple factories or more than one higher tech engy were very inefficient. Multiple T2/T3 factories and T2/T3 engies to build and assist are now cost efficient (Thanks to Rienzilla and Zock)
 
@@ -20,7 +20,7 @@ Only T1 engies were viable to produce higher tech units or assisting buildings. 
 - Many units had their build power adjusted, check the [Unit Database](/Unit-Database) for more details.
 - You can remove support factories in the restriction menu of the FA lobby, it will disable this mechanic.
 
-### Hotbuild
+## Hotbuild
 
 ![hotbuild-layout-en.png](/hotbuild-layout-en.png)
 Hotbuild is a mod which lets you quickly order buildings and units via hotkeys instead of having to click the build menu. It does this by having multiple structures/units bound to the same key, which you press multiple times to cycle through.
@@ -37,7 +37,7 @@ Hotbuild is a mod which lets you quickly order buildings and units via hotkeys i
 
 -   Video tutorial on how to set up Hotkeys and UI [here.](https://www.youtube.com/watch?v=m5HJa9N_9ww)
 
-### <img src="/gazui.png" width="30"/> Gaz UI
+## <img src="/gazui.png" width="30"/> Gaz UI
 
 Gaz's UI, formerly GOOMs UI is a custom user interface developed for FA. It has additional functionality than the stock UI.
 
@@ -48,7 +48,7 @@ Compatibility notes
 
 - AZUI will not work while template names and detailed unit view are enabled.
 
-#### Options and Hotkeys
+### Options and Hotkeys
 
 The various components of GAZ_UI can be toggled on and off via the ingame menu Options/Interface. Here's a short explanation of each item, which gives an overview of the features of GAZ_UI.
 
@@ -175,17 +175,17 @@ NOTE: There are some options that must be disabled to be compatible with AngryZe
 </table>
 
 
-### More Unit Info
+## More Unit Info
 
 This mod has been improved and now it is integrated with FAF game. It shows more information about units when a user hovers over unit icons in factories. This game option is on by default, but can be turned off in the “interface” section of game options.
 
 ![more_unit_info.png](/more_unit_info.png)
 
-### <img src="/sorian_icon.jpg" width="40"/> Sorian AI
+## <img src="/sorian_icon.jpg" width="40"/> Sorian AI
 
 This is an advanced AI which poses much more of a challenge, and in general simply plays better. To use the mod, simply [host a game](/Host-and-join-games) and add AI players, selecting one of the Sorian AI options.
 
-### Split Attack
+## Split Attack
 
 *Thanks to Blackops team and johnie102*
 
@@ -208,16 +208,16 @@ Spread attack move works with move orders as well as other types of orders - exp
 - Directing utnis through tight spaces or chokepoints is much easier with this feature.
 - This features allows for huge micro advantages in T1 land battles.
 
-### Hotkey Labels
+## Hotkey Labels
 *Thanks to Washy for making this mod* ![hotkeylabels.png](/hotkeylabels.png){.align-right}
 Displays bound keys on icons in the build menu and command menu
 
 - helps a lot with memorizing (custom) keybindings
 - has differend colors for key combinations
 
-### <img src="/notify.png" width="40"/> Notify
+## <img src="/notify.png" width="40"/> Notify
 
 Notify allies about ACU upgrades in team chat, along with allowing for ACU/SACU upgrades to be queued up alongside regular orders. Mod by Crotalus, CodingSquirrel
 
-### Selection Sort
+## Selection Sort
 Improved unit sorting in the selection panel.
