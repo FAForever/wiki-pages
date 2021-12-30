@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2021-12-30T00:28:23.307Z
+date: 2021-12-30T07:24:52.712Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -11,7 +11,7 @@ dateCreated: 2021-11-02T17:53:00.029Z
 ## Lobby
 - [Setting Up FAF on Windows & Linux](/FAQ/Client-Setup)
 - [Where are the Replays](/FAQ/Replays)
-- [How to download Maps](//Map-&-Mod-Vault#map-vault)
+- [How to download Maps](/Map-&-Mod-Vault#map-vault)
 - [How can i open replay by ID?](/Replays-&-Live-Games#online-vault)
 - [FAF Client and Forum Rules](/FAF-Rules)
 - [How do i play FAF offline](/FAQ/Offline)
