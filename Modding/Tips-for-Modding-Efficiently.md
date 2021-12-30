@@ -1,8 +1,8 @@
 ---
-title: Tips-for-Modding-Efficiently
-description: 
+title: Tips for Modding Efficiently
+description: How to set up an efficient cycle for rapid development.
 published: true
-date: 2021-12-29T23:34:46.019Z
+date: 2021-12-30T00:24:49.000Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:45:32.416Z
