@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2021-12-30T16:01:33.154Z
+date: 2021-12-30T16:45:45.418Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -148,15 +148,15 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ### Лобби
 -   Поддержка лобби до 12 игроков, а также бесконечного количества наблюдателей(**звучит неубедительно**);
 -   Добавлена увеличенная версия миниктюры карты в для предпросмотра;
--   Adding random map selection;
--   Adding share condition : The given units can disappears when you die;
--   Adding automatic formation of teams (Top/Bottom, right/left, odd/even slot);
--   Adding more units limits options;
--   Adding more colors;
--   'No Game ender' restriction changed to restrict T3 & T4 Artillery, Paragon, Novax and Yolona Oss;
--   'No Nuke' Build restriction now correctly also restricts nuke carrying naval vessels, strategic.
+-   Добавлен случайный выбор карт;
+-   Добавлено условие передачи войск: переданные юниты погибнут послеп вашей смерти;
+-   Добавлен автоматический разбрас по командам (верние/нижние, правые/левые, четные/нечетные позиции);
+-   Добавлены дополнительные варианты и ограничения лимита войск;
+-   Добавлено больше цветов;
+-   Ограничение 'No Game ender' теперь включает в себя Т3 и Т4 артиллерию, Т4 эсперементальный генератор ресурсов Эон "Идеал", Т4 орбитальную систему защиты ОФЗ "Центр Новакс" и Т4 стратегическую установку Серафим "Йолона Осс";
+-   Ограничение "Без ядерного оружия" теперь корректно ограничивает военно-морские корабли со стратегическим ядерным вооружением.
 ### Исправления ошибок
--   Bug fix to prevent commander upgrades to be acquired at a lower cost through cancelling;
+-   Исправлена ошибка, препятствующая приобретению обновлений командира по более низкой цене за счет отмены;
 -   Fixed restoration field upgrade and advanced restoration field upgrade to not repair the ACU;
 -   All Units shooting at the Seraphim ACU now aim at the correct bones instead of the feet;
 -   Pausing a Mass Extractor while in mass deficit does now correctly stop mass consumption;
