@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-03T10:36:57.091Z
+date: 2022-01-03T11:01:17.035Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -20,11 +20,11 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 	>	**Petricpwnz** (основатели: **JaggedAppliance** и  **Zockyzock**)
 - ![cos-moderation.png](/cos-icons/cos-moderation.png) **Советник Модерации:**
 	>	**Giebmasse** (основатели: **Gorton** и **Voodoo**)
-- ![cos-player.png](/cos-icons/cos-player.png) **Советник Игроков:** 
+- ![cos-player.png](/cos-icons/cos-player.png)     **Советник Игроков:** 
 	>	**Morax** (основатели: **FtXCommando** и **Tokyto_**)
-- ![cos-game.png](/cos-icons/cos-game.png) **Games Councillor:** 
+- ![cos-game.png](/cos-icons/cos-game.png)           **Games Councillor:** 
 	>	**Keyser** (основатели: **IceDreamer**)
-- ![cos-promo.png](/cos-icons/cos-promo.png) **Советник по продвижению:** 
+- ![cos-promo.png](/cos-icons/cos-promo.png)      **Советник по продвижению:** 
 	>	**Fury** (основатели: **Nine**, **Ze Dogfather**, **Mountain** и **JJs_AI**)
 - ![cos-creative.png](/cos-icons/cos-creative.png) **Creative Councillor:** 
 	>	**Balthazar** (основатели: **biass**, **Morax** и **SilentWar**)
@@ -50,17 +50,17 @@ All Councillors make a symbolic pledge to mark the assumption of their important
 
 Every Councillor additionally pledges towards their own responsibilities:
 
-### Promoters Councillor
+### Советник по продвижению
 
-As a nominee for the Promoters Councillor, I pledge that:
+Как кандидат на становление Совеником по Продвижению, я обещаю что:
 
-> I will be as active as possible to dedicate myself to the responsibility of this role.
- I will attend as many developer conferences as possible to discuss all topics related to the FAF council.
- I will advertise all new content that FAF provides using all available social media platforms.
- I will deal with any complaints related to the promotional role with professionalism.
- I will offer as much help as possible to the council and councillors.
- I understand that if I am unable to perform accordingly, I will be replaced.
- I will handle all translations for the FAF announcements.
+> Я буду максимально активен, чтобы посвящать себя выполнению этой роли. 
+ Я буду посещать как можно больше конференций разработчиков, чтобы обсудить все темы, связанные с советом FAF. 
+ Я буду рекламировать весь новый контент, который предоставляет FAF, используя все доступные платформы социальных сетей. 
+ Я буду профессионально рассмотривать любые жалобы, связанные с рекламной ролью. 
+ Я буду предлагать совету и советникам как можно больше помощи. 
+ Я понимаю, что если не смогу действовать соответствующим образом, то буду заменён. 
+ Я буду заниматься всеми переводами объявлений FAF. 
 > {.is-info}
 ### Players Councillor
 
