@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-04T10:02:45.079Z
+date: 2022-01-04T12:07:32.478Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -17,17 +17,17 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 Действующие лица совета:
 
 - ![cos-balance.png](/cos-icons/cos-balance.png) **Советник Баланса:** 
-	>	**Petricpwnz** (основатели: **JaggedAppliance** и  **Zockyzock**)
+	>	**Petricpwnz** (ранее: **JaggedAppliance** и  **Zockyzock**)
 - ![cos-moderation.png](/cos-icons/cos-moderation.png) **Советник Модерации:**
-	>	**Giebmasse** (основатели: **Gorton** и **Voodoo**)
+	>	**Giebmasse** (ранее: **Gorton** и **Voodoo**)
 - ![cos-player.png](/cos-icons/cos-player.png)     **Советник Игроков:** 
-	>	**Morax** (основатели: **FtXCommando** и **Tokyto_**)
+	>	**Morax** (ранее: **FtXCommando** и **Tokyto_**)
 - ![cos-game.png](/cos-icons/cos-game.png)           **Советник по играм:** 
-	>	**Keyser** (основатели: **IceDreamer**)
+	>	**Keyser** (ранее: **IceDreamer**)
 - ![cos-promo.png](/cos-icons/cos-promo.png)      **Советник по продвижению:** 
-	>	**Fury** (основатели: **Nine**, **Ze Dogfather**, **Mountain** и **JJs_AI**)
+	>	**Fury** (ранее: **Nine**, **Ze Dogfather**, **Mountain** и **JJs_AI**)
 - ![cos-creative.png](/cos-icons/cos-creative.png) **Советник по творчеству:** 
-	>	**Balthazar** (основатели: **biass**, **Morax** и **SilentWar**)
+	>	**Balthazar** (ранее: **biass**, **Morax** и **SilentWar**)
 
 ## Tabs {.tabset}
 ### Клятва советников FAF
