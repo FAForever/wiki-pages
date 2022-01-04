@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-04T12:07:32.478Z
+date: 2022-01-04T12:07:52.550Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -23,7 +23,7 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 - ![cos-player.png](/cos-icons/cos-player.png)     **Советник Игроков:** 
 	>	**Morax** (ранее: **FtXCommando** и **Tokyto_**)
 - ![cos-game.png](/cos-icons/cos-game.png)           **Советник по играм:** 
-	>	**Keyser** (ранее: **IceDreamer**)
+	>	**Jip** (ранее: **Keyser**, **IceDreamer**)
 - ![cos-promo.png](/cos-icons/cos-promo.png)      **Советник по продвижению:** 
 	>	**Fury** (ранее: **Nine**, **Ze Dogfather**, **Mountain** и **JJs_AI**)
 - ![cos-creative.png](/cos-icons/cos-creative.png) **Советник по творчеству:** 
