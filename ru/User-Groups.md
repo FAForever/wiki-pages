@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-04T09:13:19.265Z
+date: 2022-01-04T09:35:59.633Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -32,7 +32,7 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 ## Tabs {.tabset}
 ### Клятва советников FAF
 
-All Councillors make a symbolic pledge to mark the assumption of their important duties for FAF.
+Все советники дают символическое обещание, чтобы отметить получение важных обязанностей перед FAF.
 
 Клятва всех советников:
 
@@ -48,7 +48,7 @@ All Councillors make a symbolic pledge to mark the assumption of their important
 > {.is-info}
 
 
-Every Councillor additionally pledges towards their own responsibilities:
+Каждый советник дополнительно обязуется выполнять свои собственные обязанности.
 
 ### Советник по продвижению
 
@@ -69,18 +69,18 @@ Every Councillor additionally pledges towards their own responsibilities:
 > Общайться со всеми игроками FAF, чтобы собирать, представлять и продвигать их идеи и интересы.
  Составлять расписание мероприятий проекта сообщества FAF. 
  Организовывать директоров турниров, которые проводят мероприятия для игроков. 
- Собирать отзывы участников проекта FAF, чтобы определить их основные желания и проблемы. Представлять эту информацию в интересах игроков Совету Сетонов. 
+ Собирать отзывы участников проекта FAF, чтобы определить их основные желания и проблемы. Представлять эту информацию Совету Сетонов в интересах игроков. 
 > {.is-info}
 ### Советник Модерации
 
-The Moderators Councillor is a member of the Council of Setons and is working on These Responsibilities:
+Советник модераторов является членом Совета Сетонов и выполняет следующие обязанности: :
 
-> Leading the moderation team
-	- Promotion/demotion of moderators
-	- Processing and deciding the result of complaints/appeals
-	- Regulating the actions of the moderation team
- Approving of new avatars/control over given avatars
- Uphold the community rules in the game, chat and forums
+> Ведущий команды модераторов
+	- Повышение / понижение модераторов
+	- Обработка и принятие решения по жалобам / апелляциям 
+	- Регулирование действий команды модераторов
+ Утверждение новых аватарок / контроль над выданными аватарками 
+ Поддержка соблюдения правил сообщества в игре, чате и на форумах 
 > {.is-info}
 
 ## ![moderator_avatar.png](/images/client-icons/avatars/moderator_avatar.png) FAF Модераторы
