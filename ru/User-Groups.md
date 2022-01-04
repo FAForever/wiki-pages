@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-04T09:37:35.702Z
+date: 2022-01-04T09:48:36.903Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -94,14 +94,14 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 
 | Текущий список команды модераторов |
 | ------------------ |
-| [Giebmasse](https://discordapp.com/users/197074417858248705/)          | Gorton             | Voodoo             | [Resistance](https://discordapp.com/users/456521151951273984/)         |
-| [Swkoll](https://discordapp.com/users/199572022077030400/)             | [Deribus](https://discordapp.com/users/228680778186227712/)             | Legion Darrath     | Tex                |
-| archsimkat         | angelofd347h       | nemir              |                    |
+| [Giebmasse](https://discordapp.com/users/197074417858248705/)          | [Gorton](https://discordapp.com/users/133886869032271873/)             | [Voodoo](https://discordapp.com/users/197038973841965056/)             | [Resistance](https://discordapp.com/users/456521151951273984/)         |
+| [Swkoll](https://discordapp.com/users/199572022077030400/)             | [Deribus](https://discordapp.com/users/228680778186227712/)             | [Legion Darrath](https://discordapp.com/users/340492708860657666/)     | Tex                |
+| [archsimkat](https://discordapp.com/users/179666785396719617/)         | angelofd347h       | [nemir](https://discordapp.com/users/283255849089105921/)              |                    |
 
 
 | IRC Модераторы |
 | -------------- |
-| Medicraze      | [SiwaonaDaphnewen](https://discordapp.com/users/197225062317817857/) | NarNerdPower | Viking |
+| Medicraze      | [SiwaonaDaphnewen](https://discordapp.com/users/197225062317817857/) | [NarNerdPower](https://discordapp.com/users/325659338767073281/) | Viking |
 
 **Важно:** *QAI* и *AeonCommander* это [чат боты](/FAF-chat#Chat-commands)!
 
