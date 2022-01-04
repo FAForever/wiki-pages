@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2021-12-28T15:59:21.510Z
+date: 2022-01-04T12:06:00.619Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -23,7 +23,7 @@ These are the current members of the council:
 - ![cos-player.png](/cos-icons/cos-player.png) **Players Councillor:** 
 	>	**Morax** (former: **FtXCommando** **Tokyto_**)
 - ![cos-game.png](/cos-icons/cos-game.png) **Games Councillor:** 
-	>	**Keyser** (former: **IceDreamer**)
+	>	**Jip** (former: **Keyser**)
 - ![cos-promo.png](/cos-icons/cos-promo.png) **Promotions Councillor:** 
 	>	**Fury** (former: **Nine**, **Ze Dogfather**, **Mountain**, and **JJs_AI**)
 - ![cos-creative.png](/cos-icons/cos-creative.png) **Creative Councillor:** 
