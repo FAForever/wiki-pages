@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-04T12:06:00.619Z
+date: 2022-01-04T12:06:37.377Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -17,17 +17,17 @@ The Council of Setons is a group of FAF contributors selected and tasked with th
 These are the current members of the council:
 
 - ![cos-balance.png](/cos-icons/cos-balance.png) **Balance Councillor:** 
-	>	**Petricpwnz** (former: **JaggedAppliance**, and **Zockyzock**)
+	>	**Petricpwnz** (former: **JaggedAppliance**)
 - ![cos-moderation.png](/cos-icons/cos-moderation.png) **Moderators Councillor:**
-	>	**Giebmasse** (former: **Gorton**. **Voodoo**)
+	>	**Giebmasse** (former: **Gorton**)
 - ![cos-player.png](/cos-icons/cos-player.png) **Players Councillor:** 
-	>	**Morax** (former: **FtXCommando** **Tokyto_**)
+	>	**Morax** (former: **FtXCommando**)
 - ![cos-game.png](/cos-icons/cos-game.png) **Games Councillor:** 
 	>	**Jip** (former: **Keyser**)
 - ![cos-promo.png](/cos-icons/cos-promo.png) **Promotions Councillor:** 
-	>	**Fury** (former: **Nine**, **Ze Dogfather**, **Mountain**, and **JJs_AI**)
+	>	**Fury** (former: **Nine**)
 - ![cos-creative.png](/cos-icons/cos-creative.png) **Creative Councillor:** 
-	>	**Balthazar** (former: **biass**, **Morax**, **SilentWar**)
+	>	**Balthazar** (former: **biass**)
 
 ## Tabs {.tabset}
 ### FAF Councillors Pledge
