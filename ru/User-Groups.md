@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-03T11:02:22.469Z
+date: 2022-01-04T09:06:28.242Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -57,22 +57,22 @@ Every Councillor additionally pledges towards their own responsibilities:
 > Я буду максимально активен, чтобы посвящать себя выполнению этой роли. 
  Я буду посещать как можно больше конференций разработчиков, чтобы обсудить все темы, связанные с советом FAF. 
  Я буду рекламировать весь новый контент, который предоставляет FAF, используя все доступные платформы социальных сетей. 
- Я буду профессионально рассмотривать любые жалобы, связанные с рекламной ролью. 
+ Я буду профессионально рассмотривать любые вопросы, связанные с рекламной ролью. 
  Я буду предлагать совету и советникам как можно больше помощи. 
  Я понимаю, что если не смогу выполнять эти обязанности соответствующим образом, то буду заменён. 
  Я буду заниматься всеми переводами объявлений FAF. 
 > {.is-info}
-### Players Councillor
+### Советник Игроков
 
-The Players Councillor is a member of the Council of Setons, who will be elected by the community to work on these  responsibilities:
+Советник игроков является членом Совета Сетонов, который избрается сообществом для выполнения этих обязанностей:
 
-> Communicate with as many FAF players as is possible to gather, represent, and promote their ideas and interests.
- Organize a schedule of the FAF community project events.
- Organize tournament directors who run tournaments for players.
- Gather feedback from the FAF project community to determine their top desires and problems.
+> Общайться со всеми игроками FAF, чтобы собирать, представлять и продвигать их идеи и интересы.
+ Составлять расписание мероприятий проекта сообщества FAF. 
+ Организовывать директоров турниров, которые проводят мероприятия для игроков. 
+ Собирать отзывы участников проекта FAF, чтобы определить их основные желания и проблемы. 
  Present and represent this information in the best interests of the players to the Council of Setons.
 > {.is-info}
-### Moderation Councillor
+### Советник Модерации
 
 The Moderators Councillor is a member of the Council of Setons and is working on These Responsibilities:
 
