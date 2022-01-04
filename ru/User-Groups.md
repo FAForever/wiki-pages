@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-04T09:06:28.242Z
+date: 2022-01-04T09:13:19.265Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -69,8 +69,7 @@ Every Councillor additionally pledges towards their own responsibilities:
 > Общайться со всеми игроками FAF, чтобы собирать, представлять и продвигать их идеи и интересы.
  Составлять расписание мероприятий проекта сообщества FAF. 
  Организовывать директоров турниров, которые проводят мероприятия для игроков. 
- Собирать отзывы участников проекта FAF, чтобы определить их основные желания и проблемы. 
- Present and represent this information in the best interests of the players to the Council of Setons.
+ Собирать отзывы участников проекта FAF, чтобы определить их основные желания и проблемы. Представлять эту информацию в интересах игроков Совету Сетонов. 
 > {.is-info}
 ### Советник Модерации
 
