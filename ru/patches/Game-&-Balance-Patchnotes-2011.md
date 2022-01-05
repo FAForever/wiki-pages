@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-04T20:48:42.949Z
+date: 2022-01-05T15:33:14.362Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -157,21 +157,21 @@ dateCreated: 2021-12-25T00:05:34.584Z
 -   Ограничение "Без ядерного оружия" теперь корректно ограничивает военно-морские корабли со стратегическим ядерным вооружением.
 ### Исправления ошибок
 -  Исправлена ошибка, позволяющая выполнить улучшение командира по более низкой цене через отмену (улучшения?);
--   Fixed restoration field upgrade and advanced restoration field upgrade to not repair the ACU;
--   All Units shooting at the Seraphim ACU now aim at the correct bones instead of the feet;
--   Pausing a Mass Extractor while in mass deficit does now correctly stop mass consumption;
--   Bomb drop prediction corrected on all T1 T2 T3 bombers;
--   Seraphim Battleship now correctly plays a 'nuclear launch detected' sound when launching a nuke;
--   The Novax now correctly launches its satellite when the player is at pop cap;
--   Cybran Nuke Warheads now correctly detonate at their impact altitude, and not 20 units above;
--   Nano Regeneration now gives Seraphim SCUs the correct amount of hitpoints (14k instead of 45k);
--   Seraphim SCU is no longer reclaimable;
--   Seraphim Battleship nuke no longer flies at very high altitude;
--   Cybran Missile health normalized so that the parent missile has 1 health and the child missiles have 1 health each as well;
--   Gifting Units to allies bugs fixed;
--   Change Naval yards to be hit with torpedoes, collision box lowered by 1;
--   Hoplite now uses the correct amount of transport clamps;
--   Fix Fatboy, Monkeylord, Megalith and the brick being able to fire from shallow water, being unattackable from land while doing so;
+-   Исправлены улучшения поля восстановления(ремонта? регенерации?) и улучшенного поля восстановления(ремонта? регенерации?), теперь не оказывает влияния на БМК;
+-   Все юниты, стреляющие в БМК Серафим, теперь целятся в правильные кости(точки? маркеры?), а не в ноги;
+-   Приостановка (улучшения?) экстрактора массы при дефиците массы теперь правильно останавливает её потребление;
+-   Исправлено планирование сброса бомб на всех бомбардировщиках: Т1, Т2, Т3;
+-   Т3 линкор Серафим "Хаутуум" теперь корректно воспроизводит звук «Обнаружен запуск стратегической ракеты» при запуске ядерной ракеты;
+-   Т4 орбитальная система защиты ОФЗ "Центр Новакс" теперь корректно запускает спутник после постройки, в случае если у игрока достигнут лимит юнитов;
+-   Ядерные боеголовки Кибран теперь правильно детонируют на высоте удара, а не на 20 единиц выше;
+-   Улучшение нановосстановления? теперь дает командному боту поддержки Серафим правильное количество жизней(хитпоинты?) (14к вместо 45к);
+-   Командный бот поддержки Серафим больше не реклеймится;
+-   Ядерная ракета Т3 линкора Серафим "Хаутуум" больше не летает на слишком большой высоте;
+-   Здоровье ракет Кибран нормализовано, так что у родительской ракеты теперь 1 единица здоровья и у дочерних ракет также 1 единица здоровья;
+-   Исправлены ошибки при передаче юнитов союзникам;
+-   Изменены военно-морские верфи для поражения торпедами, коллизия опущена на 1;
+-   Т2 ракетный бот Кибран "Гоплит" теперь занимает правильное количество мест в транспорте;
+-   Исправлено ошибка, из-за которой Т4 передвижной артиллерийский завод "Толстяк", Т4 киберпаук Кибран "Царь обезьян", Т4 мегабот Кибран "Мегалит" и кирпич могут стрелять с мелководья, при этом их нельзя атаковать с суши.;
 -   Increase lifetime & Speed on T3 Torpedo bomber torpedoes to avoid units outrunning them;
 -   Fixed a bug that caused UEF ACU to deal damage to friendly units;
 -   UEF T2 Cruiser now can correctly use all weapons simultaneously;
