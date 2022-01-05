@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-05T18:35:41.899Z
+date: 2022-01-05T21:02:00.033Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -230,14 +230,14 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![uef_t3_mml.png](/images/learning/uef/uef_t3_mml.png)
 - Танки Т2 стали немного тяжелее и медленнее. Танки Т2 теперь двигаются со скоростью 2,5 - 2,7, а взамен имеют на 20-25% больше здоровья. Танк Т2 тяжелый танк Кибран "Носорог" получил больше улучшений, так как был слишком слаб по сравнению с другими;
 ![cybran_t2_tank.png](/images/learning/cybran/cybran_t2_tank.png)
-- Стоимость наземных экмперименталов увеличена на \~20%, более дешевые подорожали сильннее в процентном соотношении;
-- Увеличена скорость Т1 танка "thaam", aurora and thaam movement speed by 0.1 (from 3 -> 3.1 or 3.3 -> 3.4);
-- Landscout diversification:
-	> - Uef damage = 4 (+2)
-	> - Cybran cloak energy drain -5
-	> - Aeon radar range +5, new health = 20 (-3)
-	> - Seraphim radar range +5
-- T2 Mobile Shields
+- Стоимость наземных экмперименталов увеличена на \~20%, более дешевые подорожали сильнее в процентном соотношении;
+- Увеличена скорость передвижения Т1 танка ОФЗ "striker", Т1 танка Эон "aurora" and Т1 танка Серафим "thaam" на 0.1 (с 3 -> 3.1 или 3.3 -> 3.4);
+- Диверсификация наземной разведки:
+	> - Урон ОФЗ = 4 (+2)
+	> - Поребление энергии Кибран -5
+	> - Радиус радара Эон +5, количество очков прочности = 20 (-3)
+	> - Радиус радара Серафим +5
+- Т2 Мобильные щиты силового поля
 	> - Mobile Shield Generator: Asylum. Shield Health set to 3800. Shield Regenrate set to 58 Now requires 105 E to operate.
 	> - Shield HP reduced by 500
 	> - Energy consumption reduced by 10
