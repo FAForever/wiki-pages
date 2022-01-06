@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T14:49:49.611Z
+date: 2022-01-06T14:51:01.363Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -302,9 +302,12 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ### ИИ
 - ИИ теперь будет строить огневые базы(firebases - мб огнецветки хотели хз);
 - ИИ теперь будет строить Т2 тяжелые танки Эон "Обсидиан" или Т3 тяжелые штурмовые боты ОФЗ "Персиваль";
+![a_t2_obsidian.png](/images/learning/aeon/a_t2_obsidian.png)![uef_t3_armored_assault_bot.png](/images/learning/uef/uef_t3_armored_assault_bot.png)
 - ИИ теперь может постоянно транспортировать все доступные юниты;
 - Группы юнитов ИИ, назначенные для охраны баз, больше не будут атаковать по всей карте;
 - ИИ теперь использует Т4 стратегическую установу Серафим "Йолона Осс" более одного раза;
+![sera_t4_nuke.png](/images/learning/sera/sera_t4_nuke.png)
 - ИИ теперь отправляет больше одного стратового наземного разведчика;
 - ИИ теперь может построить Т4 мегабота Кибран "Мегалит";
+![cybran_t4_mega_bot.png](/images/learning/cybran/cybran_t4_mega_bot.png)
 - ИИ-читеры теперь фактически используют свои экспериментальные юниты.
