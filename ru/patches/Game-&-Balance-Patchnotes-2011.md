@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T13:48:50.665Z
+date: 2022-01-06T13:55:11.851Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -252,14 +252,20 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![a_t1_aa_boat.png](/images/learning/aeon/a_t1_aa_boat.png)
 #### ОФЗ
 - Здоровье Т1 легкой артиллерии ОФЗ "Волк" изменено с 200 до 205;
+![uef_t1_mobile_arty.png](/images/learning/uef/uef_t1_mobile_arty.png)
 - Здоровье Т2 пулеметного бота ОФЗ "Мангуст" снижено с 900 до 650;
+![uef_t2_gatling_bot.png](/images/learning/uef/uef_t2_gatling_bot.png)
 - Стоимость восстановления дроида Т2 инженерной станции ОФЗ "Псарня" увеличена до 250 материи, 2500 энергии и 750 времени строительства с 50 материи, 500 энергии и 150 времени строительства (применяется только в том случае, если он сбит). Скорость строительсва снижена до 15;
+![uef_t1_engineering_station.png](/images/learning/uef/uef_t1_engineering_station.png)![uef_t2_engineering_station_l2.png](/images/learning/uef/uef_t2_engineering_station_l2.png)
 - Таймаут перезарядки ядерного ракетногоракетного комплекса ОФЗ "Дубинка" (Билли нюка) увеличен, чтобы избежать быстрой стрельбы поддержки инженерами;
+![uef_acu.png](/images/learning/uef/uef_acu.png)
 - Увеличена стоимость Т2 катера-заградителя ОФЗ "Оплот" на 30% с 1040 материи и 10400 энергии до 1300 материи и 13000 энергии;
-- Снижение затрат на Т3 транспортный корабль ОФЗ "Континенталь" на 30% (окончательная стоимость по энергии дополнительно скорректирована с учетом других изменений). 
+![uef_t2_shield_boat.png](/images/learning/uef/uef_t2_shield_boat.png)
+- Снижение затрат на Т3 транспортный корабль ОФЗ "Континенталь" на 30% (окончательная стоимость по энергии дополнительно скорректирована с учетом других изменений).
+![uef_t3_transport.png](/images/learning/uef/uef_t3_transport.png)
 #### Кибран
-- Cybran Hoplite health decreased from 650 to 450;
-- Cybran Engineering Stations: T1 cost increased to 500M 2500E from 450M 2250E. T2 build rate decreased to 25 from 30. T3 build rate decreased to 35 from 45;
+- Здоровье Т2 ракетного бота Кибран "Гоплит" уменьшено с 650 до 450;
+- Т2 инженерной станции Кибран "Улей": стоимость T1 увеличена с 450M 2250E до 500M 2500E. Скорость строительства T2 уменьшилась с 30 до 25. Скорость строительства T3 уменьшилась с 45 до 35;
 - T1 Assault Bot: Mantis : Increased turret yaw speed to 90;
 - T2 Shield Generator: ED5 : Decreased mass cost to 1800, decreased energy cost to 26666, decreased build time to 1400, increased shield health to 15000;
 - Increased Cybran Deceiver (t2 mobile stealth generator) speed, acceleration and brake to match the values of other factions t2 mobile shields;
