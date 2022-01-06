@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T14:03:05.771Z
+date: 2022-01-06T14:26:33.312Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -265,18 +265,25 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![uef_t3_transport.png](/images/learning/uef/uef_t3_transport.png)
 #### Кибран
 - Здоровье Т2 ракетного бота Кибран "Гоплит" уменьшено с 650 до 450;
-- Т2 инженерной станции Кибран "Улей": стоимость T1 увеличена с 450M 2250E до 500M 2500E. Скорость строительства T2 уменьшилась с 30 до 25. Скорость строительства T3 уменьшилась с 45 до 35;
+![cybran_t2_rocket_bot.png](/images/learning/cybran/cybran_t2_rocket_bot.png)
+- Т2 инженерная станция Кибран "Улей": стоимость T1 увеличена с 450M 2250E до 500M 2500E. Скорость строительства T2 уменьшилась с 30 до 25. Скорость строительства T3 уменьшилась с 45 до 35;
+![cybran_t2_engineering_station.png](/images/learning/cybran/cybran_t2_engineering_station.png)
 - Т1 штурмовой бот Кибран "Богомол": увеличена скорость поворота башни до 90;
+![cybran_t1_assault_bot.png](/images/learning/cybran/cybran_t1_assault_bot.png)
 - Т3 тяжелый генератора щита Кибран "ED5": Снижена стоимость по материи до 1800, уменьшена стоимость по энергии до 26666, уменьшено время строительсва до 1400, увеличено здоровье щита до 15000;
+
 - Увеличены скорость, ускорение и торможение Т2 передвижного маскировщика Кибран "Жулик", чтобы соответствовать значениям мобильных щитов Т2 других фракций;
+![cybran_t2_mobile_stealth.png](/images/learning/cybran/cybran_t2_mobile_stealth.png)
 - Урон Т2 оборонительной турели Кибран "Цербер" увеличен до 13;
+![cybran_t2_pd.png](/images/learning/cybran/cybran_t2_pd.png)
 - Т2 мобильная бомба Кибран "Огнецветка" теперь наносит 4500 урона, здоровье снижено до 300, Firing tolerance увеличено до 100.
+![cybran_t2_mobile_bomb.png](/images/learning/cybran/cybran_t2_mobile_bomb.png)
 #### Эон
-- Aeon T3 Engineer build rate increased to 20 from 15;
-- Mercy fuel increased from 70 to 110;
-- Restorer max airspeed reduced to 8 from 10, health reduced to 6500 from 7200 and anti ground damage per shot reduced to 24 from 32. AA weapon damage increased to 71 \* 2 from 65 \* 2. • Restorers cost 50% + 400 more energy than a Air Superiority fighter now;
-- Transferred 2600 from the Harbringer’s shield to its health;
-- Eye of Rhianne remote viewing radius decreased from 45 to 25;
+- Скорость сборки T3 инженера увеличена с 15 до 20;
+- Топливо Т2 управляемой ракеты Эон "Милосердие" увеличено с 70 до 110;
+- Максимальная скорость полёта Т3 штурмовика-истребителя Эон "Восстановитель" уменьшена до 8 с 10, здоровье уменьшено до 6500 с 7200 и урон по земле за выстрел уменьшен до 24 с 32. Урон ПВО увеличен до 71\*2 с 65\*2. "Восстановитель" стоит на 50% + 400 больше энергии, чем истребитель Т3;
+- Перенесено 2600 из щита Т3 штурмового робота Эон "Стервятник" в его здоровье;
+- Радиус удаленного обзора Т3 Центра Квантовой Оптики Эон "Глаз Рианны" уменьшен с 45 до 25;
 - T4 Experimental Aircraft Carrier: CZAR : -Increased health to 58000 from 48000 -Decreased crash damage from 15000 to 10000.
 #### Серафим
 - Seraphim T3 Engineer build rate increased to 20 from 15;
