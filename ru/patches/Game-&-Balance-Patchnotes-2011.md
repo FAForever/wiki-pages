@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T13:55:11.851Z
+date: 2022-01-06T14:03:05.771Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -266,11 +266,11 @@ dateCreated: 2021-12-25T00:05:34.584Z
 #### Кибран
 - Здоровье Т2 ракетного бота Кибран "Гоплит" уменьшено с 650 до 450;
 - Т2 инженерной станции Кибран "Улей": стоимость T1 увеличена с 450M 2250E до 500M 2500E. Скорость строительства T2 уменьшилась с 30 до 25. Скорость строительства T3 уменьшилась с 45 до 35;
-- T1 Assault Bot: Mantis : Increased turret yaw speed to 90;
-- T2 Shield Generator: ED5 : Decreased mass cost to 1800, decreased energy cost to 26666, decreased build time to 1400, increased shield health to 15000;
-- Increased Cybran Deceiver (t2 mobile stealth generator) speed, acceleration and brake to match the values of other factions t2 mobile shields;
-- T2 Point Defense dps increased damage to 13;
-- Firebeetle changed to deal 4500 damage, health lowered to 300, Firing tolerance increased to 100.
+- Т1 штурмовой бот Кибран "Богомол": увеличена скорость поворота башни до 90;
+- Т3 тяжелый генератора щита Кибран "ED5": Снижена стоимость по материи до 1800, уменьшена стоимость по энергии до 26666, уменьшено время строительсва до 1400, увеличено здоровье щита до 15000;
+- Увеличены скорость, ускорение и торможение Т2 передвижного маскировщика Кибран "Жулик", чтобы соответствовать значениям мобильных щитов Т2 других фракций;
+- Урон Т2 оборонительной турели Кибран "Цербер" увеличен до 13;
+- Т2 мобильная бомба Кибран "Огнецветка" теперь наносит 4500 урона, здоровье снижено до 300, Firing tolerance увеличено до 100.
 #### Эон
 - Aeon T3 Engineer build rate increased to 20 from 15;
 - Mercy fuel increased from 70 to 110;
