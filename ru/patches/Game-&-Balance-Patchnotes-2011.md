@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T14:37:30.668Z
+date: 2022-01-06T14:41:51.159Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -295,7 +295,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Скорость строительства T3 инженера Серафим увеличена с 15 до 20;
 - Скорость Т3 противолодочного корабля Серафим "Ятсу"  уменьшена с 6 до 5;
 - Урон в минуту Т2 оборонительной турели Серафим "Уттаушала" увеличен на 10%;
-- Seraphim cruiser direct fire Anti Air weapon and Seraphim T3 Anti Air cannon building weapon improved muzzle velocity.
+- Улучшена начальная скорость зенитного воооружения прямой наводки Т2 крейсера Серафим "Италуа" и зенитного вооружения Т3 авианосца Серафим "Явиш".
 ### ИИ
 - AI will now build firebases;
 - AI will now build Percivals or Rhinos;
