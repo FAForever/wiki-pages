@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T14:30:41.293Z
+date: 2022-01-06T14:32:28.078Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -280,11 +280,17 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![cybran_t2_mobile_bomb.png](/images/learning/cybran/cybran_t2_mobile_bomb.png)
 #### Эон
 - Скорость сборки T3 инженера увеличена с 15 до 20;
+
 - Топливо Т2 управляемой ракеты Эон "Милосердие" увеличено с 70 до 110;
+![a_mercy.png](/images/learning/aeon/a_mercy.png)
 - Максимальная скорость полёта Т3 штурмовика-истребителя Эон "Восстановитель" уменьшена до 8 с 10, здоровье уменьшено до 6500 с 7200 и урон по земле за выстрел уменьшен до 24 с 32. Урон ПВО увеличен до 71\*2 с 65\*2. "Восстановитель" стоит на 50% + 400 больше энергии, чем истребитель Т3;
+![a_t3_gunship.png](/images/learning/aeon/a_t3_gunship.png)
 - Перенесено 2600 из щита Т3 штурмового робота Эон "Стервятник" в его здоровье;
+![a_t3_harbinger.png](/images/learning/aeon/a_t3_harbinger.png)
 - Радиус удаленного обзора Т3 Центра Квантовой Оптики Эон "Глаз Рианны" уменьшен с 45 до 25;
+![a_eye.png](/images/learning/aeon/a_eye.png)
 - Т4 авианосец-прототип Эон "Царь": увеличено здоровье до 58000 с 48000, уменьшен урон при падении с 15000 до 10000. 
+![a_czar.png](/images/learning/aeon/a_czar.png)
 #### Серафим
 - Seraphim T3 Engineer build rate increased to 20 from 15;
 - T3 Submarine Hunter: Yathsou Decreased speed to 5 from 6;
