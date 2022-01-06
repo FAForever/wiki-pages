@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T00:43:11.637Z
+date: 2022-01-06T13:48:50.665Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -231,29 +231,32 @@ dateCreated: 2021-12-25T00:05:34.584Z
 - Танки Т2 стали немного тяжелее и медленнее. Танки Т2 теперь двигаются со скоростью 2,5 - 2,7, а взамен имеют на 20-25% больше здоровья. Танк Т2 тяжелый танк Кибран "Носорог" получил больше улучшений, так как был слишком слаб по сравнению с другими;
 ![cybran_t2_tank.png](/images/learning/cybran/cybran_t2_tank.png)
 - Стоимость наземных экмперименталов увеличена на \~20%, более дешевые подорожали сильнее в процентном соотношении;
-- Увеличена скорость передвижения Т1 **танка ОФЗ "striker", Т1 танка Эон "aurora" and Т1 танка Серафим "thaam" на 0.1 (с 3 -> 3.1 или 3.3 -> 3.4);**
+- Увеличена скорость передвижения Т1 легкого танка ОФЗ "Гарпун", Т1 легкого танка Эон "Аврора" and Т1 легкого танка Серафим "Таам" на 0.1 (с 3 -> 3.1 или 3.3 -> 3.4);
 - Диверсификация наземной разведки:
 	> - Урон ОФЗ = 4 (+2)
 	> - Поребление энергии Кибран -5
 	> - Радиус радара Эон +5, количество очков прочности = 20 (-3)
 	> - Радиус радара Серафим +5
 - Т2 Мобильные щиты силового поля
-	> - Mobile Shield Generator: Asylum. Shield Health set to 3800. Shield Regenrate set to 58 Now requires 105 E to operate.
-	> - Shield HP reduced by 500
-	> - Energy consumption reduced by 10
-	> - built time increased by 10% (Aeon: 792 from 720/UEF: 660 from 600).
+	> - Т2 передвижной силовой щит Эон "Пристанище". Запас силового поля щита теперь равен 3800. Восстановление силового поля равно 58, потребляет 105 энергии во время работы;
+	> - Запас прочности силового поля снижен на 500;
+	> - Потребление энергии снижено на 10;
+  ![a_t2_l_shield.png](/images/learning/aeon/a_t2_l_shield.png)
+	> - Времям строительства увеличено на 10% (Эон: 792 вместо 720/ОФЗ: 660 вместо 600).
+  ![a_t2_l_shield.png](/images/learning/aeon/a_t2_l_shield.png)![uef_t2_mobile_shield.png](/images/learning/uef/uef_t2_mobile_shield.png)
 ##### Море
-- Buffed Cruiser Anti Air damage by 25%;
-- Decrease T3 ship costs (\~15%) and buildtime (cut in half for many);
-- Decreased Frigate & t1 submarine cost by 10%;
-- Increase frigate anti-air dps to 15, attack boat anti-air dps to 35, and Battleship Antiair dps to 60.
+- Увеличен урон крейсеров по воздушным целям на 25%;
+- Снижена стоимость Т3 флота (\~15%) и время строительства (для многих вполовину);
+- Снижена стоимость Т1 фрегатов и Т1 подводных лодок на 10%;
+- Увеличьте урон противовоздушной обороны в минуту Т1 фрегатов до 15, Т1 зенитного катера Эон "Ракушка" до 35, и линкоров до 60.
+![a_t1_aa_boat.png](/images/learning/aeon/a_t1_aa_boat.png)
 #### ОФЗ
-- UEF Lobo t1 artillery health changed from 205 to 200;
-- UEF Mongoose health decreased from 900 to 650;
-- UEF Engineering Station Rover rebuild cost increased to 250M 2500E 750 time from 50M 500E 150 time (only applies if its shot down). Build rate decreased to 15;
-- Billy reload timeout increased to avoid rapid firing through assisting;
-- Increase Shield ship cost by 30% from 1040M 10400E to 1300M 13000E;
-- Decrease T3 Air Transport costs by 30% (final E cost further adjusted by other changes).
+- Здоровье Т1 легкой артиллерии ОФЗ "Волк" изменено с 200 до 205;
+- Здоровье Т2 пулеметного бота ОФЗ "Мангуст" снижено с 900 до 650;
+- Стоимость восстановления дроида Т2 инженерной станции ОФЗ "Псарня" увеличена до 250 материи, 2500 энергии и 750 времени строительства с 50 материи, 500 энергии и 150 времени строительства (применяется только в том случае, если он сбит). Скорость строительсва снижена до 15;
+- Таймаут перезарядки ядерного ракетногоракетного комплекса ОФЗ "Дубинка" (Билли нюка) увеличен, чтобы избежать быстрой стрельбы поддержки инженерами;
+- Увеличена стоимость Т2 катера-заградителя ОФЗ "Оплот" на 30% с 1040 материи и 10400 энергии до 1300 материи и 13000 энергии;
+- Снижение затрат на Т3 транспортный корабль ОФЗ "Континенталь" на 30% (окончательная стоимость по энергии дополнительно скорректирована с учетом других изменений). 
 #### Кибран
 - Cybran Hoplite health decreased from 650 to 450;
 - Cybran Engineering Stations: T1 cost increased to 500M 2500E from 450M 2250E. T2 build rate decreased to 25 from 30. T3 build rate decreased to 35 from 45;
