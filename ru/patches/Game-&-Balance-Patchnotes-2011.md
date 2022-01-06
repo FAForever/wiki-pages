@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T14:41:51.159Z
+date: 2022-01-06T14:49:49.611Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -294,14 +294,17 @@ dateCreated: 2021-12-25T00:05:34.584Z
 #### Серафим
 - Скорость строительства T3 инженера Серафим увеличена с 15 до 20;
 - Скорость Т3 противолодочного корабля Серафим "Ятсу"  уменьшена с 6 до 5;
+![sera_t3_sub_hunter.png](/images/learning/sera/sera_t3_sub_hunter.png)
 - Урон в минуту Т2 оборонительной турели Серафим "Уттаушала" увеличен на 10%;
+![sera_t2_pd.png](/images/learning/sera/sera_t2_pd.png)
 - Улучшена начальная скорость зенитного воооружения прямой наводки Т2 крейсера Серафим "Италуа" и зенитного вооружения Т3 авианосца Серафим "Явиш".
+![sera_t2_cruiser.png](/images/learning/sera/sera_t2_cruiser.png)
 ### ИИ
-- AI will now build firebases;
-- AI will now build Percivals or Rhinos;
-- AI can now consistently transport all valid units;
-- The AI unit groups that are assigned to guard bases will no longer attack all over the map;
-- The AI now fires the Experimental nuke launcher more than once;
-- AI now sends out more than only the first land scout;
-- AI now can build the Megalith;
-- Cheating AIs now actually use their experimental units.
+- ИИ теперь будет строить огневые базы(firebases - мб огнецветки хотели хз);
+- ИИ теперь будет строить Т2 тяжелые танки Эон "Обсидиан" или Т3 тяжелые штурмовые боты ОФЗ "Персиваль";
+- ИИ теперь может постоянно транспортировать все доступные юниты;
+- Группы юнитов ИИ, назначенные для охраны баз, больше не будут атаковать по всей карте;
+- ИИ теперь использует Т4 стратегическую установу Серафим "Йолона Осс" более одного раза;
+- ИИ теперь отправляет больше одного стратового наземного разведчика;
+- ИИ теперь может построить Т4 мегабота Кибран "Мегалит";
+- ИИ-читеры теперь фактически используют свои экспериментальные юниты.
