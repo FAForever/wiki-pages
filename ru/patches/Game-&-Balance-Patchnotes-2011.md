@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-06T14:51:01.363Z
+date: 2022-01-06T15:28:37.597Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -181,7 +181,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![cybran_t2_rocket_bot.png](/images/learning/cybran/cybran_t2_rocket_bot.png)
 -   Исправлена ошибка, из-за которой Т4 передвижной артиллерийский завод "Толстяк", Т4 киберпаук Кибран "Царь обезьян", Т4 мегабот Кибран "Мегалит" и Т3 тяжелый штурмовой бот Кибран "Кирпич" могут стрелять с мелководья, при этом их нельзя атаковать с суши;
 ![uef_t4_mobile_factory.png](/images/learning/uef/uef_t4_mobile_factory.png)![cybran_t4_monkey_bot.png](/images/learning/cybran/cybran_t4_monkey_bot.png)![cybran_t4_mega_bot.png](/images/learning/cybran/cybran_t4_mega_bot.png)![cybran_t3_armored_assault_bot.png](/images/learning/cybran/cybran_t3_armored_assault_bot.png)
--    Увеличена длительность жизни и скорость торпед Т3 торпеданосца Эон "Успокоение", чтобы избежать свлучая когда юниты могут оторваться от них;
+-    Увеличена длительность жизни и скорость торпед Т3 торпеданосца Эон "Успокоение", чтобы избежать случая когда юниты могут оторваться от них;
 ![a_t3_torpedo_bomber.png](/images/learning/aeon/a_t3_torpedo_bomber.png)
 -   Исправлена ошибка, из-за которой БМК ОФЗ наносил урон дружественным юнитам;
 ![uef_acu.png](/images/learning/uef/uef_acu.png)
