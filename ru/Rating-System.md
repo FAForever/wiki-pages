@@ -2,7 +2,7 @@
 title: Рейтинговая система
 description: 
 published: true
-date: 2022-01-07T10:25:36.097Z
+date: 2022-01-07T10:26:47.325Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:04:04.302Z
