@@ -2,7 +2,7 @@
 title: Рейтинговая система
 description: 
 published: true
-date: 2021-12-30T01:08:57.912Z
+date: 2022-01-07T10:23:41.168Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:04:04.302Z
@@ -62,416 +62,259 @@ TrueSkill измеряет исход ничьи совсем по-дургом�
 
 ## Инфляция
 
-Elo systems can have a tendency to inflate over time. Because it's only
-comparing 2 players' ratings to determine an new rating, a better player
-who plays often will gain more and more points over time. For example,
-at the beginning of the GPGnet ranked ladder the top 10 players were
-rated around 1900. Presently the highest ranked player is around 2700.
-Does that means that their skill is increasing ? Maybe. But not that
-much. The rating increase because, as all good top tier players, they
-plays often. And as they are goods, they win games, and gain points,
-increase the rating over time.
+Система ELO имеет тенденцию к раздуванию с течением времени. Поскольку для определения нового рейтинга требуется только сравнение рейтингов двух игроков, лучший игрок, который часто играет, со временем будет набирать все больше и больше очков. 
+Например, в начале рейтинговой лестницы GPGnet 10 лучших игроков имели рейтинг около 1900. В настоящее время игрок с самым высоким рейтингом имеет около 2700 очков. Означает ли это, что навыки игроков повышаются? Возможно, но не так сильно. Рейтинг повышается, потому что, как и все хорошие игроки высшего уровня, они часто играют. И поскольку они хороши в игре, они побеждают и набирают очки, со временем повышая рейтинг. 
 
-To combat inflation, ELO system has a "K-Factor", limiting the maximum
-points a player win or loss per game. GPGNet used a K-Factor of 30. In
-the Chess leaderboard the K factor depends of the rating of the player
-(A 2400+ players got a K-Factor of 16 where a newer player got 32).
-That's arbitrary, not accurate and only artificially decrease the
-inflation problem. \[citation needed\]
+Для борьбы с инфляцией, в системе Elo есть «K-фактор», ограничивающий максимальное количество очков, которое игрок получает или теряет за игру. GPGNet использовала этот коэффициент равный 30.  Если сравнивать с шахматами, то там K-фактор зависит от рейтинга игрока (у игроков 2400+ коэффициент был 16, тогда как более новый игрок получил 32). Это произвольно, не точно и только искусственно уменьшает проблему инфляции. [нужна цитата] 
 
-Trueskill is less susceptible to inflation. When you start a game,
-TrueSkill calculates the possible -and probable- outcome of the game :
-it estimates what are your chances of winning.
 
-Let's say it predicts that you will win that game.
+Trueskill менее подвержен инфляции. Когда вы запускаете игру, TrueSkill рассчитывает возможный и вероятный исход игры: он оценивает ваши шансы на победу. 
 
-If you win the game, as it was the expected outcome, you will gain
-points depending of the "chances of ranking" factor (itself depending of
-the difference in skill between players, and the outcome probability).
-If you lose the game, as an unexpected result, you will lose more
-points. On paper, it sounds a lot like Elo, but the algorithms behind
-are more evolved, and once you reach your real rating, unless you play
-really badly or improve a lot, you will stay at that rank.
+Допустим, он предсказывает, что вы выиграете эту игру. 
+Если вы выиграете игру, поскольку это был ожидаемый результат, вы получите очки в зависимости от фактора «шансов ранжирования» (который зависит от разницы в навыках между игроками и вероятности исхода). 
+Если вы проиграете игру, как неожиданный результат, вы потеряете больше очков. 
+
+На бумаге это очень похоже на Elo, но алгоритмы, лежащие в основе, более развиты, и как только вы достигнете своего реального рейтинга, если вы не сыграете действительно плохо или не супер-хорошо, вы останетесь на этом уровне. 
 
 ![<File:MostRecentFoosballTrueSkill.png>](MostRecentFoosballTrueSkill.png "File:MostRecentFoosballTrueSkill.png")
 
-This graph represents a trueSkill rating for a selection of football
-teams. As you can see, team 1 is the best, and their rank stays stable.
-Team 5 had a bad start (you lost your first games), and were badly
-rated. Over time, TrueSkill manage to correct that and find a stable
-skill. Team 2 is the most interesting case : It's a new team, really
-good. At start, it was rated way under their real skill. You can see how
-fast the system was able to determine their correct rating. One of the
-advantages of Trueskill is that it can determine your correct rating
-very quickly.
+Этот график представляет рейтинг TrueSkill для выбранных футбольных команд. Как видите, команда 1 - лучшая, и их рейтинг остается стабильным. 
+Команда 5 плохо стартовала (вы проиграли свои первые игры) и имела плохой рейтинг. Со временем TrueSkill удалось исправить это и найти стабильный навык.  Команда 2 - самый интересный случай: это новая команда, действительно хорошая. Поначалу она оценивалась ниже её реального мастерства. Вы можете увидеть, как быстро система смогла определить их правильный рейтинг. Одним из преимуществ Trueskill является то, что он может очень быстро определить ваш правильный рейтинг. 
 
-## TrueSkill advantages
+## Преимущества TrueSkill
 
-TrueSkill can rate ANY game. That's why ANY custom game or ranked will
-contribute to your skill rating. TrueSKill can lower the impact of your
-result : A FFA is less meaningful than a 1v1, so the outcome of a FFA
-will contribute less.
+TrueSkill может оценить ЛЮБУЮ игру. Вот почему ЛЮБАЯ пользовательская игра или ранговая игра будет влиять на ваш рейтинг навыков. TrueSKill может снизить влияние вашего результата: FFA менее значима, чем 1v1, поэтому результат FFA будет меньше. 
 
-# **How Trueskill works**
+# **Как работает TrueSkill**
 
-### Your rating and you!
+### Ваш рейтинг и вы! 
 
-The number you see in the leaderboards is an *approximation* of your
-real rating.
+Число, которое вы видите в таблице лидеров, является приблизительным значением вашего реального рейтинга. 
 
-What this means is that two players with the same rating can in reality
-perform at different skill levels. At this time we are displaying the
-approximation - you can see the actual distribution by right clicking on
-your name in the player list and selecting *View Player Statistics.*
+Это означает, что два игрока с одинаковым рейтингом на самом деле могут выступать с разными уровнями навыков. На самом деле, отображается приблизительное значение - вы можете увидеть фактическое распределение, щелкнув правой кнопкой мыши свое имя в списке игроков и выбрав *«Просмотр статистики игрока»*. 
 
-In reality, your rating is a [Gaussian bell
-curve](http://en.wikipedia.org/wiki/Normal_distribution).
 
-It's comprised of two values : Your mean and your deviation.
+То есть, ваш рейтинг -- это [кривая Гаусса](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5).
 
-It sounds complicated (which is why we haven't shown them to you yet)
-but it's easy to understand.
+Он состоит из двух значений: вашего среднего и вашего отклонения. Звучит сложно (поэтому мы еще не показывали их вам), но это легко понять. Не пугайтесь графиков, на самом деле концепция очень проста. 
 
-Don't be intimidated by the graphs, the concept is actually very simple.
+**Среднее** значение представляет ваш максимальный навык / рейтинг. Система считает, что выше этого быть не может. Trueskill считает, что при вашем текущем уровне навыков вы не можете играть на более высоком уровне, но, возможно, также и на более низком. С технической точки зрения, для случайной величины X с действительным знаком среднее значение - это математическое ожидание X. Для получения дополнительной информации о математике, лежащей в основе этого, посетите Википедию.  [1](https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
 
-The **mean** represent your maximum skill/rating. The system thinks that
-it cannot be higher than that. Trueskill believes at your current skill
-level, you can't perform at an higher level, but possibly also at a
-lower one. Technically speaking, for a real-valued random variable X,
-the mean is the expectation of X. For more information on the maths
-behind this, visit Wikipedia. [1](http://en.wikipedia.org/wiki/Mean)
+**Стандартное отклонение** - это фактор «неопределенности». Чем он больше, тем выше ваш возможный реальный рейтинг. Стандартное отклонение - широко используемая мера изменчивости или разнообразия, используемая в статистике и теории вероятностей. Он показывает, насколько существует отклонение или "разброс" от среднего (среднего или ожидаемого значения).
 
-The **standard deviation** is the "uncertainty" factor. The bigger it
-is, the higher your possible real rating is. Standard deviation is a
-widely used measure of variability or diversity used in statistics and
-probability theory. It shows how much variation or "dispersion" exists
-from the average (mean, or expected value)
+Среднее значение часто указывается вместе со стандартным отклонением: среднее значение описывает центральное расположение данных, а стандартное отклонение описывает разброс. 
 
-The mean is often quoted along with the standard deviation: the mean
-describes the central location of the data, and the standard deviation
-describes the spread.
-
-Let's take the value of a new player. By default, you have 1500 in mean,
-and 500 in deviation. 1500 is the **average level**.
+Возьмем значения нового игрока. По умолчанию у вас есть среднее значение 1500 и отклонение 500. 1500 - **средний уровень**. 
 
 ![<File:1ula41330944573.png>](1ula41330944573.png "File:1ula41330944573.png")
 
-When you join, the system predicts you will perform as average (1500).
-However, as you can see on the curve, the probability that you will
-perform at either 1000 or 2000 is still very high.
+Когда вы присоединяетесь к первой игре, система прогнозирует, что вы отыграете среднячком (1500). Однако, как вы можете видеть на кривой, вероятность того, что вы достигнете 1000 или 2000, все еще очень высока. 
 
-Quite simply, the system doesn't have enough data to accurately predict
-your level of performance & thus you have a high level of deviation or,
-uncertainty.
+Проще говоря, у системы недостаточно данных для точного прогнозирования вашего уровня игры, и, следовательно, у вас высокий уровень отклонения или неопределенности. 
 
-Let's use the values of a higher rated player as an example.
+В качестве примера возьмем значения игрока с более высоким рейтингом. 
 
-The mean is 2189 and the deviation is 56.8 (after 500 games).
+Среднее значение составляет 2189, а отклонение - 56,8 (после 500 игр). 
 
 ![<File:123gt1330944863.png>](123gt1330944863.png "File:123gt1330944863.png")
 
-As you can see, the system predicts they will perform between 2150 and
-2250. A performance higher or lower than that is considered
-statistically unlikely.
+Как видите, система прогнозирует, что навыки будут между 2150 и 2250. Мастерство выше или ниже считается статистически маловероятным. 
 
-Now let's examine a random player after 30 games.
+Теперь рассмотрим случайного игрока после 30 игр. 
 
-Mean = 1188 deviation = 91
+Среднее значение = 1188 отклонение = 91 
 
 ![<File:1mynw1330945052.png>](1mynw1330945052.png "File:1mynw1330945052.png")
 
-That player is below the statistical average. Trueskill thinks that his
-rating is between 1100 and 1300. As before, Truskill thinks it's
-statistically unlikely that they will perform higher or lower than that.
+Этот игрок ниже среднего статистического. TrueSkill считает, что его рейтинг находится между 1100 и 1300. Как и раньше, TrueSkill считает, что статистически маловероятно, что игрок будет выше или ниже этого рейтинга. 
 
-### What you see in the leader board
+### Что вы видите в таблице лидеров 
 
-It's a simple mathematic formula : Rating = Mean - 3 \* deviation.
-(meaning 0 at start).
+Очень простая математическая формула: Рейтинг = Среднее - 3 * Отклонение. (что означает 0 в начале). 
 
-That's a very simple representation, and should be pondered by the
-number of games of the players : Under 30, it's not meaningful.
+Это очень упрощённое представление, и им следует руководствоваться, учитывая, что до 30 игр это не имеет смысла. 
 
-Why we are using that ? It's a conservative estimate value. With a
-rating of 1200, it means that you probably perform higher than 1200, but
-unlikely under 1200.
+Почему мы это используем? Это консервативная оценка. С рейтингом 1200 это означает, что вы, вероятно, играете выше 1200, но вряд ли ниже 1200. 
 
-So by checking that number, you can be sure that the player has all the
-chances to perform at least to a certain level, and probably best.
+Так что, глядя на это число, вы можете быть уверены, что у игрока есть все шансы сыграть хотя бы на этом уровне и, возможно, даже лучше. 
 
-### Why did I gain nothing from a game ?
+### Почему я ничего не получил от игры? 
 
-"Before" the game, Trueskill is "betting" on a particular outcome. If
-you have 90% chances of winning, and win, it means that your current
-rating is correct, and therefore doesn't require adjusting. But your
-deviation will decrease as the system is now more *statistically*
-certain of your actual rating.
+«Перед» игрой TrueSkill «делает ставку» на конкретный результат. Если у вас есть 90% шансов на победу, и вы выигрываете, это означает, что ваш текущий рейтинг правильный и, следовательно, не требует корректировки. Но ваше отклонение будет уменьшаться, поскольку система теперь более статистически уверена в вашем фактическом рейтинге. 
 
-But if it "bet" a 40% probability of losing and you win, that means that
-your rating need to be adjusted as it's probably wrong. Your deviation
-will still decrease (as any additional data is valuable), but not a lot.
+Но если он «ставит» с вероятностью 40% проигрыша, а вы выиграете, это означает, что ваш рейтинг необходимо скорректировать, поскольку это, вероятно, неверно. Ваше отклонение все равно уменьшится (так как любые дополнительные данные ценны), но не намного. 
 
-In conclusion, you won't gain points for winning games that you should
-win, or lose points for games that you are unlikely to win. This is why
-the TrueSkill system doesn't suffer from inflation.(see [Why choose
-Trueskill over Elo ?](Why_choose_Trueskill_over_Elo_? "wikilink")).
+В заключение, вы не получите очков за победы в играх, которые вы должны выиграть, и не потеряете очки за игры, которые вы вряд ли выиграете. Поэтому система TrueSkill не страдает от инфляции. (см [Почему Trueskill лучше Elo?](https://wiki.faforever.com/ru/Rating-System#%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-trueskill-%D0%BB%D1%83%D1%87%D1%88%D0%B5-elo "wikilink")).
 
-### Why did I lose points/don't gain point with a win ?
+### Почему я потерял / не набрал очки при победе? 
 
-Before each game, the server is adding more deviation to your score.
-It's not supposed to happen, but it's there to reflect the fact that you
-are not a robot, and add more dynamism to the ladder. What can happen in
-very balance games or very unbalanced ones, is this :
+Перед каждой игрой сервер добавляет больше отклонений к вашему счету. Этого не должно происходить, но это отражает, что вы не робот, и добавляет динамизма лестнице. Что может случиться в очень сбалансированных или очень несбалансированных играх: 
 
--   Your mean is slightly increased as it should be. But not a lot as
-    the outcome of the game confirm your current rank.
--   Your deviation is lowered as it should be, but not that much as the
-    game was not really meaningful for an adjustment. The result is your
-    deviation being inferior to the number we add to it before it
-    starts. (resulting in a increase of your deviation).
+-   Ваше среднее значение немного увеличилось, как и должно быть. Но не сильно, так как исход игры подтверждает ваш текущий ранг. 
+-   Ваше отклонение уменьшено, как должно быть, но не настолько, поскольку игра не имела особого значения для корректировки. В результате ваше отклонение меньше числа, которое было до игры (что приводит к увеличению вашего отклонения). 
 
-As your rating is Mean - 3 \* deviation, and your mean doesn't move a
-lot while your deviation slightly increase, the result is a lower
-rating.
+Поскольку ваш Рейтинг = Среднее - 3 * Отклонение (значение в скобках возле рейтинга), и ваше среднее значение не сильно меняется, в то время как ваше отклонение немного увеличивается, результатом будет более низкий рейтинг. 
 
-It doesn't mean that you lose points. Your mean will still be increased
-correctly. When this happen, it can be a 1 or 2 points decrease maximum.
-It's not meaningful.
+Это не значит, что вы теряете очки. Ваше среднее значение все равно будет увеличиваться правильно. Когда это происходит, это может быть максимум уменьшения на 1 или 2 пункта. Это не так страшно. 
 
-**Remember that trueskill is supposed to put you at your right place,
-once determined, you won't move a lot. So you can't always gain points
-for a victory !** Once you reach your rank, your rating won't move a
-lot. This is perfectly normal.
+**Помните, что Trueskill должен поставить вас в нужное место, когда вы определитесь, вы не будете много двигаться. Так что не всегда можно набирать очки за победу!** Как только вы достигнете своего звания, ваш рейтинг сильно не изменится. Это совершенно нормально. 
 
-### How does it work in team games ?
+### Как это работает в командных играх
 
-Each team is the sum of each player rating. You can think that it's not
-true, because some members of the team probably work harder than others.
+Каждая команда - это сумма рейтинга каждого игрока. Вы можете подумать, что это неправда, потому что некоторые члены команды, вероятно, работают больше, чем другие. 
 
-Additionally, sometimes special dynamics occur that make the sum greater
-than the parts.
+Кроме того, иногда возникает особая динамика, из-за которой сумма больше, чем слагаемые. 
 
-But it will be impossible to take these in considerations. Instead,
-Trueskill follow one rule :
+Но принять их во внимание будет невозможно. Вместо этого Trueskill следует одному правилу: 
 
-*“Statistically sophisticated or complex methods do not necessarily
-provide more accurate forecasts than simpler ones”*
+*«Статистически сложные методы не обязательно обеспечивают более точные прогнозы, чем более простые»*
 
-At the end of the game, the result of the team is propagated to your
-personal rating. Meaning that a teammate can gain a lot from a game
-while you don't gain anything.
+По окончании игры результат команды переносится на ваш личный рейтинг. Это означает, что товарищ по команде может много выиграть от игры, в то время как вы ничего не получите. 
 
-### Conclusion
+### Выводы
 
-At first, your deviation is so high that your rating is meaningless.
+Поначалу ваше отклонение настолько велико, что ваш рейтинг теряет смысл. 
 
-That also mean that in your first games, your rating can be very "jumpy"
-or very low/high for no good reason. This is totally normal, as your
-deviation will have more importance than your mean (Mean - **3 \*
-deviation**, higher the deviation, higher the "jumpiness").
+Это также означает, что в ваших первых играх ваш рейтинг может быть очень "скачущим" или очень низким / высоким без уважительной причины. Это совершенно нормально, так как ваше отклонение будет иметь большее значение, чем ваше среднее значение (**Среднее - 3 * Отклонение**, чем выше отклонение, тем выше "скачки"). 
 
-Your deviation is decreasing after each game, no matter what (maybe a
-lot, maybe not, that depend of the relevance of that game).
+В любом случае, ваше отклонение уменьшается после каждой игры (может быть, сильно, а может и нет, это зависит от актуальности этой игры). 
 
-**After 30-40 games, the system "learn" you, and your rating starts to
-make sense.**
+**После 30-40 игр система вас «выучит», и ваш рейтинг начинает обретать смысл.**
 
-## External links
+## Ссылки
+[Computing Your Skill](http://www.moserware.com/2010/03/computing-your-skill.html) – Moserware
 
-„\[<http://www.moserware.com/2010/03/computing-your-skill.html>\|
-Computing Your Skill\]“ – Moserware
+# **Индекс игрового баланса**
 
-# **Game balance index**
+### Быстрое объяснение:
 
-### Quick explanation
+-   100% = Игра сбалансирована. 
+-   75% = Игра, скорее всего, сбалансирована. 
+-   50% = Игра может быть сбалансирована. 
+-   25% = Игра, скорее всего, не сбалансирована. 
+-   0% = Даже не пытайтесь запустить эту игру. 
 
--   100 % = Game is balanced.
--   75 % = Game is most likely balanced.
--   50 % = Game is maybe balanced.
--   25 % = Game is most likely not balanced.
--   0 % = Don't bother launching that game.
+40% не значит, что игра будет ужасной, а вот 5% означает именно это. 
 
-40% doesn't mean that the game will be awful. 5% means it.
+Возможно, вы chfpe захотите прочитать [заключение](The_game_balance_index#Conclusion "wikilink").
 
-You maybe want to read the
-[conclusion](The_game_balance_index#Conclusion "wikilink") too.
+### Что такое индекс игрового баланса
 
-### What is it ?
+Индекс игрового баланса показывает, насколько хорошо команды в вашем матче сбалансированы в соответствии с текущим составом команд. 
 
-The game balance index is a representation of how well the teams in your
-match are balanced, according to the current team composition.
+Например:
 
-For example:
+В ситуации x vs x: 
 
-In a x Vs x situation :
+Индекс 1 (100%) означает, что обе команды имеют равные шансы на победу. 
 
-An index, of 1 (100%) means that both teams have an equal chance of
-winning the game.
+Индекс 0 (0%) означает, что у одной команды статистически нет шансов на победу. Это ненулевая вероятность, но крайне маловероятная. 
 
-An index of 0 ( 0% ) means that one team have statistically no chance of
-winning. This is a non-zero probability but extremely unlikely.
+### Почему у двух команд / игроков с одинаковым рейтингом нет 100% индекса? 
 
-### Why two teams/players with the same rating don't have a 100% index ?
+Во-первых, из-за того, что объясняется здесь: [Как работает TrueSkill](Как работает TrueSkill "wikilink").
 
-First, because of what is explained here : [How Trueskill
-works](How_Trueskill_works "wikilink").
+Два игрока с одинаковым визуальным рейтингом могут иметь очень разные средние значения и значения отклонений. 
 
-Two players with the same visual rating can have very different mean and
-deviations values.
+Но даже два игрока с одинаковым средним значением и отклонением не дадут вам 100% -ный рейтинг баланса! 
 
-But even two players with the exact same mean and deviation won't get
-you a 100% balance rating !
+Если отклонение велико, шансы, что ваше «среднее» верное, невелики. (ваше отклонение отображается цветом вашей оценки в лобби. Белее = ближе к вашей реальной оценке) 
 
-If the deviation is high, the chances that your "mean" is correct is
-low. (your deviation is reflected by the color of your rating in the
-lobby. Whiter = closer to your real rating)
-
-As a new player :
+Как новый игрок: 
 
 ![<File:1ula41330944573.png>](1ula41330944573.png "File:1ula41330944573.png")
 
-In a 1v1, two players with that graph can perform between/around 1000 or
-2000. Meaning that possibly, we are matching a 1100 rated players
-against a 1700 rated player !
+В матче 1 на 1 два игрока с таким графиком могут быть от 1000 до 2000. Это означает, что, возможно, мы сопоставляем игрока с 1100 рейтинга и игрока, у которого 1700! 
 
-As we don't know, the game balance is pondered. That kind of match-up
-will result in a game quality factor of 44%.
+Так как это не известно наверняка, TrueSkill обдумывает баланс игры. В результате такого совпадения коэффициент качества игры составит 44%. 
 
 ![<File:1mynw1330945052.png>](1mynw1330945052.png "File:1mynw1330945052.png")
 
-With two players with these values (Mean = 1188, deviation = 91, after
-30 games), the game quality would be 94%.
+С двумя игроками с этими значениями (Среднее = 1188, отклонение = 91, после 30 игр) качество игры будет 94%. 
 
-### Conclusion
+### Заключение
 
-As the values are pondered by the deviation of each players, the game
-quality index can be used in a reliable way to determine if the game is
-balanced or not.
+Поскольку значения рассчитываются с учетом отклонений каждого игрока, индекс качества игры можно надежно использовать для определения, сбалансирована игра или нет. 
 
-**But it's only a simple representation of it**, it doesn't mean that a
-game rated 20% will be horrible to play, there are many others factors,
-unknown by the system :
+**Но это всего лишь упрощённое представление**, далеко не точно, что игра с рейтингом 20% будет ужасна. Существует множество других факторов, неизвестных системе: 
 
--   The position of the players. Maybe A player can be very good at one
-    spot and very bad at another.
--   The map: One player can be a poor player in general, but very good
-    on a specific map he played over and over.
--   The kind of game: Maybe a player is very good at custom 1v1, but
-    doesn't perform as well in team games.
--   The fact that one team is on teamspeak.
--   The fact that one team is used to play with each other.
+-   Положение игроков. Вероятно, игрок может быть очень хорошим на одной позиции и очень плохим на другой. 
+-   Карта: человек может быть плохим игроком в целом, но очень хорош на конкретной карте, в которую он играл много раз. 
+-   Тип игры: может быть, игрок очень хорош в играх 1 на 1, но не так хорошо работает в командных играх. 
+-   Факт того, что у одной из команд есть голосовая связь.
+-   Фактор сыгранности в команде.
 
-So don't judge if a game should be play or not by that index. It's only
-there to help you determine the overall balance in a totally random
-situation!
+Так что не стоит судить, следует ли играть в игру или нет, по этому показателю. Он нужен только для того, чтобы помочь вам определить общий баланс в совершенно случайной ситуации! 
 
-It's recommended that you follow [Widely Accepted
-Guidelines](https://goo.gl/koNAkt) when balancing team games.
 
-## How does it compute that index in a X vs X vs X (vs X) situation ?
+При балансировании командных игр рекомендуется следовать [общепринятым правилам](https://goo.gl/koNAkt).
 
-You must first understand what that index really is.
+## Как вычисляется этот индекс в ситуации X vs X vs X (vs X)
 
-It's the probability of getting a draw for all participants.
+Сначала вы должны понять, что это за индекс на самом деле. 
 
-It uses a skill chain to do it.
+Это вероятность ничьи для всех участников. 
+
+Для этого используется цепочка навыков. 
 
 <figure>
 <img src="BetaSkillChainIllustration.png" title="BetaSkillChainIllustration.png" width="600" alt="BetaSkillChainIllustration.png" /><figcaption aria-hidden="true">BetaSkillChainIllustration.png</figcaption>
 </figure>
 
-You can think of beta as the number of points to guarantee about an 80%
-chance of winning.
+Предварительно, это говорит о количестве "бета-очков", которое гарантирует около 80% шансов на победу. 
 
-The skill chain is composed of the worst player/team on the far left and
-the best player/team on the far right.
 
-Each subsequent person on the skill chain is “beta” points better and
-has an 80% win probability against the weaker player.
+Цепочка навыков состоит из худшего игрока(команды) с одной стороны и лучшего игрока(команды) с другой стороны. 
 
-So, to have a high Game quality in that case, each player/team should
-have a low beta difference in each link. (meaning that every player has
-high chances to get a draw from another player).
+Каждый последующий человек в цепочке навыков получает "бета-очки" лучше и имеет 80% вероятность победы над более слабым игроком. 
 
-# **What is 'Global Ranking'**?
+Таким образом, для обеспечения высокого качества игры в этом случае у каждого игрока(команды) должна быть небольшая разница между "бета-очками" в каждой связке (это означает, что у каждого игрока(команды) есть высокие шансы получить ничью от другого игрока(команды)). 
 
-FAF uses a real rating system for each and every game. This system gives
-a real-time rating of all players who have participated in custom and/or
-ladder FAF games. A players' score depends on his in- game performance;
-good performance leads to increased rating, while poor performance
-causes a drop in rating. You can find your exact rating
-[here](http://content.faforever.com/faf/leaderboards/read-leader.php?board=global&username),
-but keep in mind, a high rating does not mean you're good, but you may
-have a high rating because you're good.
+# **Что такое «Глобальный рейтинг»**
 
-### Which games affect Global Ranking?
+FAF использует настоящую рейтинговую систему для каждой игры. Эта система дает рейтинг в реальном времени всех игроков, которые участвовали в пользовательских и / или рейтинговых играх FAF. Счет игрока зависит от его результатов в игре: высокий скилл приводит к повышению рейтинга, а низкий - вызывает снижение рейтинга. 
+[Здесь](https://www.faforever.com/competitive/leaderboards/global) вы можете найти свой точный рейтинг, но имейте в виду, что высокий рейтинг не означает, что вы хороши, но у вас может быть высокий рейтинг, потому что вы хороши. 
 
-**Only Custom Games** affect global rating. [1v1
-ladder](The_Ladder "wikilink") matches affected 1v1 and global rating
-for a while, but now 1v1 games affect a different rating only, your
-"Ladder rating"
+### Какие игры влияют на глобальный рейтинг
 
--   Your rating increases when you win a rated game, and decreases when
-    you lose a rated game. In-game performance, beyond win or loss, has
-    no effect.
--   Your rating, the rating of your opponent, your rating's volatility,
-    and the volatility of your opponent's rating determine how much your
-    rating changes. For an intuitive explanation, watch this video
-    guide: [How Does the Rating System Work?](https://goo.gl/dzSEhP)
+На глобальный рейтинг влияют **только пользовательские игры**. [Матчи 1 на 1](The_Ladder "wikilink") какое-то время влияли и на рейтинг 1 на 1 и на глобальный рейтинг, но теперь игры 1 на 1 влияют только на ваш "Ladder-рейтинг". 
 
-#### When is the game rated?
 
-Generally, **all standard** games are rated, but a few exceptions exist:
+-   Ваш рейтинг увеличивается, когда вы выигрываете рейтинговую игру, и снижается, когда вы проигрываете рейтинговую игру. Скилл в игре, за исключением выигрыша или проигрыша, не влияет ни на что. 
+-   Ваш рейтинг, рейтинг вашего оппонента, непостоянство вашего рейтинга и непостоянство рейтинга вашего оппонента определяют, насколько сильно изменится ваш рейтинг. Чтобы получить интуитивно понятное объяснение, посмотрите это видео-руководство: [Как работает рейтинговая система?](https://goo.gl/dzSEhP)
 
--   ***Certain game settings***
-    -   ***Victory condition is not Assassination***
-    -   ***Fog of war is turned off***
-    -   ***Cheats are enabled***
-    -   ***Prebuilt units are enabled***
-    -   ***No Rush is enabled***
-    -   ***There are unit restrictions***
-    -   ***Teams are unlocked***
--   ***There are too many desyncs*** - there will be popups; after about
-    20 of them the game won't get rated
--   ***The Map itself is unranked*** - for example "12 The Pass" or
-    "Rush Me More"; this can be because the map is unbalanced or because
-    the creator chose to unrank it
--   ***Uneven numbers of players*** - e.g 3v2
--   ***Free for all games*** are not be rated, however they have been in
-    the past due to bugs. Do not intentionally rate FFA games as it is
-    [considered an
-    exploit.](http://forums.faforever.com/viewtopic.php?f=12&t=11322#p116202)
--   ***Games under 60 seconds per player present*** in real time (not
-    the in game time, and observers are not counted)
--   ***[Sim Mods](Mod_Vault#Sim_Mods "wikilink")***
-    -   '''''([RK's
-        Explosions](https://forums.faforever.com/viewtopic.php?f=41&t=6813)
-        mod IS rated)
-    -   '''''([Auto Adjust
-        NetLag](https://forums.faforever.com/viewtopic.php?f=41&t=4307)
-        has some rated versions)
-    -   '''''([Santa is Coming
-        Reloaded](https://forums.faforever.com/viewtopic.php?f=41&t=13543)
-        mod IS rated)
--   ***Information sent to the server after the game is faulty or
-    conflicting*** - This can rarely happen because of bugs, report it
-    so it can be fixed.
+#### Когда игра является рейтинговой
 
-## **Ranking in the lobby**
+Как правило, все **стандартные** игры имеют рейтинг, но есть несколько исключений: 
 
-You can access [ladder](The_Ladder "wikilink") (1v1) ranking from the
-[Leaderboards](Leaderboards_and_Rating "wikilink") tab, but only players
-who played a [ladder](The_Ladder "wikilink") game in the last two months
-are shown there. You can also see the approximate [Global
-Ranking](Global_Ranking "wikilink") in the chat, when hovering over the
-icon of a user in [the list](FAF_chat "wikilink").
+-   ***Определенные игровые настройки***
+    -   ***Условие победы - не убийство***
+    -   ***Туман войны выключен***
+    -   ***Читы включены***
+    -   ***Включены стартовые юниты***
+    -   ***Включён режим "No Rush"***
+    -   ***Есть запрещённые боевые единицы***
+    -   ***Команды не зафиксированы***
+-   ***Слишком много рассинхронизации*** - будут всплывающие окна; примерно после 20 из них игра не получит рейтинг 
+-   ***Сама карта не имеет рейтинга*** - например, «12 The Pass» или «Rush Me More»; это может быть потому, что карта не сбалансирована, или потому, что создатель решил снять ее с ранга. 
+-   ***Неравное количество игроков***  - 3 на 2, например.
+-   ***FFA не имеют рейтинга***, однако раньше такое было из-за ошибок. Не делайте FFA рейтинговыми намеренно, так как это [считается эксплойтом.](http://forums.faforever.com/viewtopic.php?f=12&t=11322#p116202)
+-   ***Игры менее 60 секунд на одного игрока***, присутствующие в реальном времени (не игровое время, и наблюдатели не учитываются).
+-   ***[Моды, которые влияют на геймплей](Mod_Vault#Sim_Mods "wikilink")***
+    -   [RK's Explosions](https://forums.faforever.com/viewtopic.php?f=41&t=6813) является рейтинговым
+    -   [Auto Adjust NetLag](https://forums.faforever.com/viewtopic.php?f=41&t=4307) имеет некоторые одобренные версии
+    -   [Santa is Coming Reloaded](https://forums.faforever.com/viewtopic.php?f=41&t=13543) является рейтинговым
+-   ***Информация, отправляемая на сервер после игры сбоит или конфликтует*** - иногда такое происходит из-за багов, сообщите об этом, чтобы засчитать изменения рейтинга. 
 
-### Ranking in game
 
-You can see the global rating of any player next to his nickname in the
-FA lobby.
+## **Рейтинг в лобби**
 
--   To see the precise number, right click on a players name and select
-    *View Player Statistics* - this is will show you a Gaussian
-    distribution (what rating actually is) and you can see their
-    *displayed rating* at the bottom of the window.
+Вы можете получить доступ к [рейтинговым играм](The_Ladder "wikilink") (1v1) на вкладке [лидеров](Leaderboards_and_Rating "wikilink"), но там показаны только игроки, которые играли в [рейтинговые игры](The_Ladder "wikilink") за последние два месяца. Вы также можете увидеть приблизительный [глобальный рейтинг](Global_Ranking "wikilink") в чате, наведя курсор на значок пользователя в [списке.](FAF_chat "wikilink") 
+
+### Рейтинг в игре 
+
+
+Вы можете увидеть глобальный рейтинг любого игрока рядом с его ником в лобби FA. 
+
+
+-   Чтобы увидеть точное число, щелкните правой кнопкой мыши имя игрока и выберите *«Просмотр статистики игрока»* - это покажет вам распределение по Гауссу (какой на самом деле рейтинг), и вы увидите его *рейтинг* в нижней части окна. 
