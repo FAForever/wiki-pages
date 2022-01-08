@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-08T11:13:58.937Z
+date: 2022-01-08T11:16:37.843Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -101,7 +101,7 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 
 | IRC Модераторы |
 | -------------- |
-| Medicraze      | [SiwaonaDaphnewen](https://discordapp.com/users/197225062317817857/) | [NarNerdPower](https://discordapp.com/users/325659338767073281/) | Viking |
+| [Medicraze](https://discordapp.com/users/197367214263762944/)         | [SiwaonaDaphnewen](https://discordapp.com/users/197225062317817857/)         | [NarNerdPower](https://discordapp.com/users/325659338767073281/) | Viking |
 
 **Важно:** *QAI* и *AeonCommander* это [чат боты](/FAF-chat#Chat-commands)!
 
