@@ -2,7 +2,7 @@
 title: Game & Balance Patchnotes 2011
 description: 
 published: true
-date: 2022-01-09T13:14:39.718Z
+date: 2022-01-09T13:15:27.459Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:34.584Z
@@ -28,7 +28,7 @@ dateCreated: 2021-12-25T00:05:34.584Z
 ![a_t2_l_shield.png](/images/learning/aeon/a_t2_l_shield.png)
 - Исправлен эксплойт улучшения БМК;
 ![uef_acu.png](/images/learning/uef/uef_acu.png)![sera_acu.png](/images/learning/sera/sera_acu.png)![cybran_acu.png](/images/learning/cybran/cybran_acu.png)![a_acu.png](/images/learning/aeon/a_acu.png)
-- Исправлено улучшение ??нанопочинки?? БМК ОФЗ, оно больше не сбрасывается получением ветеранства;
+- Исправлено улучшение ремонтной нано-системы БМК ОФЗ, оно больше не сбрасывается получением ветеранства;
 ![uef_acu.png](/images/learning/uef/uef_acu.png)
 - Доработана анти-торпедная установка Т2 эсминца Серафим. Теперь ее производительность повышена;
 ![sera_t2_destroyer.png](/images/learning/sera/sera_t2_destroyer.png)
