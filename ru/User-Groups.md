@@ -2,7 +2,7 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-01-08T11:30:27.402Z
+date: 2022-01-09T09:34:54.680Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
@@ -116,7 +116,7 @@ Forged Alliance Forever (FAF) - проект сообщества игроков
 | [Inspektor_Kot](https://discordapp.com/users/245588548592467969/)          | [Emerald](https://discordapp.com/users/325618820335009792/)          | [Javi](https://discordapp.com/users/307278843062910976/)  | [HintHunter](https://discordapp.com/users/107897331185115136/) 
 | [Deribus](https://discordapp.com/users/228680778186227712/)          | [Tagada](https://discordapp.com/users/203886429422485505/)         | [Morax](https://discordapp.com/users/197338241781727232/)  | [Sladow](https://discordapp.com/users/310061915189673984/)
 | [Explosive](https://discordapp.com/users/290560858008846342/)          | [F-Odin](https://discordapp.com/users/299541549031620609/)         | [Terminal](https://discordapp.com/users/588079473568514050/)			   | [Resistance](https://discordapp.com/users/456521151951273984/) 
-| [Cheeseberry](https://discordapp.com/users/435170811859697694/)          | [Aulex](https://discordapp.com/users/131831547425849344/)  | [LimeZ3](https://discordapp.com/users/257482037236203520/) 				| Gorthaur	 |
+| [Cheeseberry](https://discordapp.com/users/435170811859697694/)          | [Aulex](https://discordapp.com/users/131831547425849344/)  | [LimeZ3](https://discordapp.com/users/257482037236203520/) 		  	 | [Nolwendur](https://discordapp.com/users/324691419832778765/)	 
 
 ## ![tournament_director.png](/images/client-icons/avatars/tournament_director.png) Директора Турниров
 
