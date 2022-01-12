@@ -2,7 +2,7 @@
 title: Рейтинговая система
 description: 
 published: true
-date: 2022-01-12T14:51:07.581Z
+date: 2022-01-12T23:21:28.851Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:04:04.302Z
@@ -260,10 +260,6 @@ TrueSkill может оценить ЛЮБУЮ игру. Вот почему Л�
 Это вероятность ничьи для всех участников. 
 
 Для этого используется цепочка навыков. 
-
-<figure>
-<img src="BetaSkillChainIllustration.png" title="BetaSkillChainIllustration.png" width="600" alt="BetaSkillChainIllustration.png" /><figcaption aria-hidden="true">BetaSkillChainIllustration.png</figcaption>
-</figure>
 
 ![betaskillchainillustration.png](/images/betaskillchainillustration.png)
 
