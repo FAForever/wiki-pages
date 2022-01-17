@@ -2,14 +2,14 @@
 title: FAF Client/Forum Rules
 description: 
 published: true
-date: 2021-12-27T08:22:15.930Z
+date: 2022-01-17T10:07:01.390Z
 tags: 
 editor: markdown
-dateCreated: 2021-12-27T08:22:15.930Z
+dateCreated: 2021-12-29T00:09:07.219Z
 ---
 
 # FAF Client/Forum Rules
-This page is a representation of the Forum and Lobby rules found on the FAF Forums. Queries or complaints of moderator decisions and other issues will not be accepted if the are based on what is written here. You may not quote this page during appeals or other uses regarding complaints.
+На этой странице представлены правила форума и лобби. Запросы или жалобы на решения модераторов и другие вопросы не принимаются, если они основаны на том, что здесь написано. Вы не можете цитировать эту страницу во время апелляций или других целей, связанных с жалобами. 
 
 There was a demand for clearer rules separated between the lobby and the forums.
 
