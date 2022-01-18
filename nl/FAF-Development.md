@@ -1,27 +1,36 @@
-# **Introduction to Development**
+---
+title: FAF-Development
+description: 
+published: true
+date: 2022-01-18T21:08:07.401Z
+tags: 
+editor: markdown
+dateCreated: 2021-12-24T23:55:37.921Z
+---
 
-This document only covers development of the FAF infrastructure.
+# **Introductie tot ontwikkeling**
 
--   For information about mapping, please look
-    [here](Map_Editor "wikilink").
--   For information about modding, please look
-    [here](Modding "wikilink").
+Dit document heeft alleen betrekking op de ontwikkeling van de FAF-infrastructuur.
 
-## Source code & version control
+-   Kijk voor informatie over het in kaart brengen
+    [hier](Map_Editor "wikilink").
+-   Voor informatie over modden, kijk dan
+    [hier](Modding "wikilink").
 
-Forged Alliance Forever is an open source project. You can find all
-sourcecode on [Github](https://github.com/FAForever). As the name
-indicates, Github uses **git** as version control system. If you want to
-participate in development, you have to use git and create a Github
-account (it's free). You can find a small introduction in our [Dev
-School](FAF_Dev_School_Git "wikilink"). There are also lots of tutorials
-on YouTube and other sites.
+## Broncode & versiebeheer
 
-We strongly recommend to use git on the command line at the beginning.
-Please do not use the git tools inside your IDE before you have
-understood the basics of git.
+Forged Alliance Forever is een open source-project. Je kunt alles vinden over de
+broncode op [Github](https://github.com/FAForever). zoals de naam
+aan geeft, Github gebruikt **git** als versiecontrolesysteem. Als je wilt
+deelnemen aan ontwikkeling, moet je git gebruiken en een Github account maken
+(het is gratis). Een kleine introductie vind je in onze [Dev
+School](FAF_Dev_School_Git "wikilink"). Er zijn ook veel tutorials
+op YouTube en andere sites
 
-## Communication
+We raden ten zeerste aan om git aan het begin op de opdrachtregel te gebruiken.
+Gebruik de git-tools NIET in uw IDE voordat u de basis van git begrepen hebt, voordat u wat doet.
+
+## Communicatie
 
 All developer communication takes place on Zulip.
 
