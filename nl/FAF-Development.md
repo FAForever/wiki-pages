@@ -2,7 +2,7 @@
 title: FAF-Development
 description: 
 published: true
-date: 2022-01-18T21:08:07.401Z
+date: 2022-01-18T21:53:56.759Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-24T23:55:37.921Z
@@ -13,9 +13,9 @@ dateCreated: 2021-12-24T23:55:37.921Z
 Dit document heeft alleen betrekking op de ontwikkeling van de FAF-infrastructuur.
 
 -   Kijk voor informatie over het in kaart brengen
-    [hier](Map_Editor "wikilink").
+    [Hier](Map_Editor "wikilink").
 -   Voor informatie over modden, kijk dan
-    [hier](Modding "wikilink").
+    [Hier](Modding "wikilink").
 
 ## Broncode & versiebeheer
 
@@ -32,135 +32,145 @@ Gebruik de git-tools NIET in uw IDE voordat u de basis van git begrepen hebt, vo
 
 ## Communicatie
 
-All developer communication takes place on Zulip.
+Alle ontwikkelaarscommunicatie vindt plaats op Zulip.
 
-If you want to join us, please contact an administrator/moderator on the
-forums or in our in-client chat (white names at the top) so that we can
-invite you to our Zulip project.
+Als je mee wilt doen, neem dan contact op met een beheerder/moderator op de
+forums of in onze in-client chat (witte namen bovenaan) zodat we u kunnen
+uinodigen voor onze Zulip-project.
 
-Since mid-2016 we introduced a conference call every 2nd month, where
-developers and moderators talk about the progress. These calls are
-streamed in our [YouTube
-channel](https://www.youtube.com/channel/UCkAWiUu4QE172kv-ZuyR42w).
+Sinds medio 2016 hebben we elke 2e maand een conference call geïntroduceerd, waarbij:
+ontwikkelaars en moderators praten over de voortgang. Deze oproepen zijn:
+gestreamd in onze [YouTube kanaal](https://www.youtube.com/channel/UCkAWiUu4QE172kv-ZuyR42w).
 
-Many developers also like to talk to each other on the [Faf
-Discord](https://discord.gg/2u36D9V) in the Development channels. Those
-are restricted channel up if you write those developers in private chat
-they will probably let you in.
+Veel ontwikkelaars praten ook graag met elkaar op de [Faf
+Discord](https://discord.gg/2u36D9V) in de ontwikkelingskanalen.
+Die kanalen zijn beperkt voor toegang, als je die ontwikkelaars schrijft in een privéchat
+zullen ze je waarschijnlijk binnen laten.
 
-## Infrastructure overview
+## Infrastructuur overzicht
 
-If you have looked up our [Githube page](https://github.com/FAForever),
-you may have noticed lots of sub-projects.
+Als je ons hebt opgezocht [Githube pagina](https://github.com/FAForever),
+heb je misschien veel subprojecten opgemerkt.
 
-FAF consists of 5 important projects, which reflect the basic
-architecture:
+FAF bestaat uit 5 belangrijke projecten, die de basis weerspiegelen van de
+architectuur:
 
--   [game](https://github.com/FAForever/fa): Forged Alliance gameplay
+-   [Game](https://github.com/FAForever/fa): Forged Alliance gameplay
     files (lua)
-    -   This is the official featured FAF mod
-    -   This is the right place to work on balancing changes, game-lobby
-        changes, unit behavior fixes/enhancements
-    -   The game communicates with the client using GPGNet-protocol
--   [client](https://github.com/FAForever/downlords-faf-client): FAF
+    -   Dit is de officieel aanbevolen FAF-mod
+    -   Dit is de juiste plek om te werken aan veranderingen in balans, game-lobby
+        veranderingen, fixes/verbeteringen van eenheidsgedrag
+    -   De game communiceert met de client via het GPGNet-protocol
+    
+---
+
+-   [Client](https://github.com/FAForever/downlords-faf-client): FAF
     lobby client (java)
-    -   This is the FAF client featured on the website and the main user
-        interface.
-    -   Instructions how to set up the client dev environment can be
-        found on Youtube
-        ([brief](https://www.youtube.com/watch?v=_kJoRehdBcM),
-        [detailed](https://www.youtube.com/watch?v=z4cnvh_vNKA))
--   [server](https://github.com/FAForever/server): FAF lobby server
+    -   Dit is de FAF-client op de website en de hoofdgebruiker
+        koppel.
+    -   Instructies voor het instellen van de client-ontwikkelomgeving kunnen worden
+        gevonden op Youtube: ([Brief](https://www.youtube.com/watch?v=_kJoRehdBcM),        [Detailed](https://www.youtube.com/watch?v=z4cnvh_vNKA))
+
+---
+
+-   [Server](https://github.com/FAForever/server): FAF lobby server
     (python)
-    -   The server is responsible for game hosting, rating calculation
-        and ladder-matchmaking
+    -   De server is verantwoordelijk voor het hosten van games, het berekenen van beoordelingen
+        en ladder-matchmaking.
+
+---
+
 -   [Web api](https://github.com/FAForever/faf-java-api): FAF restful
     Web-api server (java)
-    -   The api servers offers servers to authenticated users (via
+    -   De api-servers bieden servers aan, aan geverifieerde gebruikers (via
         OAuth2)
-    -   Services are i.e. achievements, map upload, bug reports.
-    -   As it's open for everybody, the service itself is not restricted
-        to any client.
+    -   Diensten zijn bijvoorbeeld prestaties, kaartupload, bugrapporten.
+    -   Omdat het voor iedereen open is, is de service zelf niet beperkt
+        aan elke client.
+
+---
+
 -   [db](https://github.com/FAForever/db): FAF sql database (sql)
-    -   The database is the backend for server and api.
-    -   Instructions how to set up the db can be found on
+    -   De database is de backend voor server en api.
+    -   Instructies voor het instellen van de db zijn te vinden op:
         [Youtube](https://www.youtube.com/watch?v=3vsRs71vMII)
 
-Then there is the python client, which was the previous official client:
+---
 
--   [client](https://github.com/FAForever/client): FAF lobby client
+Dan is er de python-client, die de vorige officiële client was:
+
+-   [Client](https://github.com/FAForever/client): FAF lobby client
     (python)
-    -   Instructions how to set up the python client dev environment can
-        be found [here](FAF_Dev_School_Client "wikilink")
+    -   Instructies voor het instellen van de python-clientontwikkelingsomgeving kunnen hier
+        gevonden worden: [Hier](FAF_Dev_School_Client "wikilink")
 
-FAF is working on a java-replacement for the server(discontinued):
+---
 
--   [server](https://github.com/FAForever/faf-java-server): FAF java
+FAF werkt aan een java-vervanging voor de server (gestaakt):
+
+-   [Server](https://github.com/FAForever/faf-java-server): FAF java
     server
 
-**All these projects have a readme which contains information how to use
-it.** For further questions please ask for help in our Zulip chat.
+**Al deze projecten hebben een leesmij met informatie over het gebruik
+hiervan.** Vraag voor verdere vragen om hulp in onze Zulip-chat.
 
-## Developer tools
+## Ontwikkelaarstools
 
-The following tools are strongly recommended for development (regardless
-of your operating system):
+De volgende tools worden sterk aanbevolen voor ontwikkeling (ongeacht
+van uw besturingssysteem):
 
--   [git](https://www.git-scm.com)
-    -   Please follow our branching scheme.
-    -   Linux client should be available in your package manager
+-   [Git](https://www.git-scm.com)
+    -   Volg alstublieft ons vertakkingsschema.
+    -   Linux-client zou beschikbaar moeten zijn in uw pakketbeheerder
     -   [Windows client](https://git-scm.com/download/win)
--   [docker](https://www.docker.com/)
+    - [Docker](https://www.docker.com/)
 -   a good IDE:
-    -   Python: [PyCharm](https://www.jetbrains.com/pycharm/) (free
-        community edition)
-    -   Java: [IntelliJ IDEA](https://www.jetbrains.com/idea/) (free
-        community edition)
+    -   Python: [PyCharm](https://www.jetbrains.com/pycharm/) (vrij
+        community-editie)
+    -   Java: [IntelliJ IDEA](https://www.jetbrains.com/idea/) (vrij
+        community-editie)
 
-## Where to begin?
+## Waar te beginnen?
 
-There are lots of starting points for new developers:
+Er zijn veel startpunten voor nieuwe ontwikkelaars:
 
--   Pick an issue from any of the [git
-    projects](https://github.com/FAForever) and start working on it.
-    -   We recommend to check that the issue isn't solved already. If
-        someone worked on it, you can usually see referenced commits in
-        the issue history.
-    -   If the situation is unclear, ask in Zulip.
--   Pick a suggestion from the [suggestion
-    forum](http://forums.faforever.com/viewforum.php?f=42) or
--   Bring up any topic in Zulip and offer to work on that.
-    -   The devs will give useful hints about your approach and tell you
-        about possible conflicts.
--   Join #pair-programming in Zulip and team up with others
+-   Kies een probleem uit een van de [Git-projects](https://github.com/FAForever) en begin eraan te werken.
+    -   We raden aan om te controleren of het probleem nog niet is opgelost.
+        Als iemand eraan heeft gewerkt, kun je de commits waarnaar wordt verwezen meestal zien in
+        de geschiedenis van het probleem.
+    -   Als de situatie onduidelijk is, vraag het dan in Zulip.
+-   Kies een suggestie uit de [suggesties-forum](http://forums.faforever.com/viewforum.php?f=42) of
+-   Breng elk onderwerp naar voren in Zulip en bied aan om daaraan te werken.
+    -   De ontwikkelaars zullen nuttige hints geven over je aanpak en je vertellen
+        over mogelijke conflicten.
+-   Doe mee met #pair-programmeren in Zulip en werk samen met anderen.
 
-## Dev Notes
+## Dev Notities
 
-[Installing Luajit and Lupa for building lupa
-package](Dev_Note_Lupa "wikilink")
+[Installing Luajit en Lupa voor bouwen Lupa-package](Dev_Note_Lupa "wikilink")
 
-# **FAF Development School**
+# **FAF-ontwikkelingsschool**
 
-FAF Development School is an open group set up by Softles to promote
-development of FAForever's codebase.
+FAF Development School is een open groep opgericht door Softles om de
+ontwikkeling van de codebase van FAForever te promoten.
 
-Hints and tips for contributing to FAF are provided to the less
-experienced both in the forums and the groups chat, **#FAF_Dev_School**
+Hints en tips om bij te dragen aan FAF worden aan de minderen
+ervaren mensen gegeven in zowel de forums als de groepschat, **#FAF_Dev_School**
 
--   In order to join this chat simply type: ***/join #FAF_Dev_School***
-    into [aeolus](FAF_chat "wikilink").
+-   Om deel te nemen aan deze chat typ je gewoon: ***/join #FAF_Dev_School***
+    in [aeolus](FAF_chat "wikilink").
 
-The lessons to date are recorded below for reference.
+De lessen tot nu toe zijn hieronder opgenomen ter referentie:.
 
-## Lessons
+## Lessen
 
 -   [Sources for FAF (Git and GitHub)](FAF_Dev_School_Git "wikilink")
 -   [FAF Client code](FAF_Dev_School_Client "wikilink")
 -   [FAF Server code](FAF_Dev_School_Server "wikilink")
 
-## Other
+## Andere
 
-Resources for working on FA modding (the game code):
+Bronnen voor het werken aan FA-modding (de spelcode):
 
 1\) [Modding hints](Modding "wikilink")
 
@@ -170,23 +180,23 @@ Resources for working on FA modding (the game code):
 
 3\) [Unit Blueprint Docs](Unit_Blueprint_Docs "wikilink")
 
-## First Time Guide
+## Gids voor de eerste keer
 
-If you've not done any coding before, or have no idea where to start
-then this is the guide for you!
+Als je nog niet eerder hebt gecodeerd, of geen idee hebt waar je moet beginnen
+dan is dit de gids voor jou!
 
-The most important thing to do if we want to play with the FAF code is
-get a GitHub account, see the lesson on that: [Github for
+Het belangrijkste dat we moeten doen als we met de FAF-code willen spelen, is:
+krijg een GitHub-account, bekijk de les daarover: [Github for
 FAF](FAF_Dev_School_Git "wikilink")
 
-Once you've got a GitHub account set up, the next thing to do is to
-choose what FAF code you want to take a look at.
+Zodra je een GitHub-account hebt ingesteld, is het volgende wat je moet doen:
+kies welke FAF-code u wilt bekijken.
 
-For the FAF client code see: [FAF Client
+Voor de FAF client-code zie: [FAF Client
 code](FAF_Dev_School_Client "wikilink")
 
-For the FAF server code see: [FAF Server
+Voor de FAF-servercode zie: [FAF Server
 code](FAF_Dev_School_Server "wikilink")
 
-If you're looking for suggestions, it might be easiest to set up the
-Client code first :)
+Als u op zoek bent naar suggesties, is het misschien het gemakkelijkst om de
+Clientcode eerst op te zetten :)
