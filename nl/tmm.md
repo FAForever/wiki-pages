@@ -2,13 +2,13 @@
 title: Team Matchmaker
 description: 
 published: true
-date: 2021-12-14T10:19:53.973Z
+date: 2022-01-18T16:49:06.376Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:45:22.474Z
+dateCreated: 2021-12-25T00:00:03.224Z
 ---
 
-# Matchmaker Map Pools
+# Matchmaker Kaart Pools
 
 ## [1v1](https://forum.faforever.com/topic/2302/1v1-ladder-map-pool-thread)
 
@@ -16,4 +16,4 @@ dateCreated: 2021-08-31T09:45:22.474Z
 ## 4v4 TBD
 
 
-Along with the link to the [Ladder Leauge leaderboard](https://www.faforever.com/competitive/leaderboards/leagues)
+Samen met de link naar de [Ladder Klassement Lijst](https://www.faforever.com/competitive/leaderboards/leagues)
