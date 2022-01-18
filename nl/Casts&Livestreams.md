@@ -2,17 +2,17 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2021-09-08T09:03:01.808Z
+date: 2022-01-18T12:52:54.934Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:42:23.244Z
+dateCreated: 2021-12-24T23:54:40.164Z
 ---
 
-FAF over the last few years has had a lot of content creators both on youtube and on Twitch.
+FAF heeft de afgelopen jaren veel makers van inhoud gehad, zowel op YouTube als op Twitch.
 
-To help out with all of the content creators this page is going to be a complete and up to date list of current content creators!
+Om alle makers van inhoud te helpen, wordt op deze pagina een complete en actuele lijst van huidige makers van inhoud genoemd!
 
-Any Name that is in Italic are Semi-Active
+Elke naam die cursief is, is semi-actief
 
 # Streamers
 
@@ -20,87 +20,87 @@ Any Name that is in Italic are Semi-Active
 
 ### Eng
 
-**Offical FAF Stream**
+**Officiële FAF-stream**
 https://www.twitch.tv/faflive
-All of the major tournaments are being cast here, make sure you follow this one!
+Alle grote toernooien worden hier gestreamed, zorg ervoor dat je deze volgt!
 
 **Tagada**
 https://www.twitch.tv/tagada14
-High-level 1vs1, Seton’s, Tournament POV, Tournament Casting, Open Training Sessions
+Hoog niveau 1vs1, Seton's, Toernooi POV, Toernooi Casting, Open trainings sessies
 
 **Farmsletje**
 https://www.twitch.tv/verymeanstreamer
-High-level Seton’s, Team games, Tournament Casting
+Seton's op hoog niveau, Teamspellen, Toernooi Casting
 
 ***BRNKoINSANITY***
 https://www.twitch.tv/thebrnk
-Mid-level team games, Fun game modes
+Mid-level teamspellen, leuke spelmodus
 
 **Yudi**
 https://www.twitch.tv/hashibirainosukee
-High-level Seton's
+Seton's op hoog niveau
 
 **Ryfun**
 https://www.twitch.tv/ryfun96
-High-level Seton’s
+Seton's op hoog niveau
 
 **EDC_Clan**
 https://www.twitch.tv/edc_clan
-Mid-level 1vs1, High-level Team games
+Mid-level 1vs1, High-level teamspellen
 
 **Matr1**
 https://www.twitch.tv/matr1
-Mid-level team games & 1vs1's
+Mid-level teamspellen & 1vs1's
 
 ***Blackheart***
 https://www.twitch.tv/bc_blackheart
-High-level Seton’s, Team games
+Seton's, Teamspellen op hoog niveau
 
 ***Petric***
 https://www.twitch.tv/petricpwnz
-High-level Seton’s, 1vs1, Tournament Casting
+Seton's op hoog niveau, 1vs1, Toernooi Casting
 
 ***Epic_Bennis***
 https://www.twitch.tv/epic_bennis
-High-level Seton's, 1vs1
+Seton's op hoog niveau, 1vs1
 
 ***Foley***
 https://www.twitch.tv/foleybts
-High-level Seton’s
+Seton's op hoog niveau
 
 ***Tex***
 https://www.twitch.tv/voiceoftex/
-High-level 1vs1
+1vs1 op hoog niveau
 
 Exselsior
 https://www.twitch.tv/exselsior100
-Mid level Seton's & 1vs1
+Midden-niveau Seton's & 1vs1
 
 ### RU
 **FAF Putin**
 https://www.twitch.tv/faf_putin
-High-level Team games
+Teamspellen op hoog niveau
 
 ***Kite***
 twitch.tv/kite_faf
-High-level Team games
+Teamspellen op hoog niveau
 
 ### GER
 **EfffEfff**
 https://www.twitch.tv/efffefff
-Mid to low-level Seton's, 1vs1, Team games
+Seton's van gemiddeld tot laag niveau, 1vs1, Teamspellen
 
 ## Youtube 
 
 ### ENG
 ***Jagged Appliance***
 https://www.youtube.com/c/JaggedAppliance
-High level 1vs1, Tournament POV, Tournament Casting
+Hoog niveau 1vs1, Toernooi POV, Toernooi Casting
 
 ### RU
 ***ZLO***
 https://www.youtube.com/c/dimatularus
-High level 1vs1, Tournament POV
+Hoog niveau 1vs1, Toernooi POV
 
 **Yuri**
 https://www.youtube.com/user/SuperYourassik
@@ -108,26 +108,26 @@ Casting
 
 **Lenkin**
 https://www.youtube.com/channel/UCHWXYe53iUoYzcS7VVU2G2Q
-High-level Team games
+Teamspellen op hoog niveau
 
 **lilSidlil**
 https://www.youtube.com/channel/UCTZuqvolYjU2IaSvOxDxiUA
-High-level Team games
+Teamspellen op hoog niveau
 
 **FAF Putin**
 https://www.youtube.com/channel/UC6XZnyeMNWLk7PmfexteI-A
-High-level Team games
+Teamspellen op hoog niveau
 
 **Demon Streamer**
 https://www.youtube.com/channel/UCYZHE9As1Fqclgd-BPa2wpQ
-Mid-level 1vs1
+Middenniveau 1vs1
 
-This Will be Accurate as long as someone wishes to keep this updated with all the relevant information!
-**Date of the last update : 24.08.2021**
+Dit zal nauwkeurig zijn zolang iemand dit up-to-date wil houden met alle relevante informatie!
+**Datum van de laatste update: 24.08.2021**
 
-# Casters / Content Creators
+# Casters / Makers van inhoud
 
-##New Active Channles:
+##Nieuwe actieve kanalen:
 [**Endranii**](https://bit.ly/38PXGpe)
 [**Willow's Duality**](https://bit.ly/3zUbxXv)
 [**TheDuelist**](https://bit.ly/3h9vYII)
@@ -135,7 +135,7 @@ This Will be Accurate as long as someone wishes to keep this updated with all th
 [**Javi**](https://bit.ly/3BPyDz1)
 [**Supreme Commaner Derp**](https://bit.ly/3ndmYGg)
 [**Rowey**](https://bit.ly/3jUYLT7)
-## Active Channels
+## Actieve kanalen
 
 [**Gyle**](https://www.youtube.com/user/felixlighta)
 [**BRNKoINSANITY**](https://www.youtube.com/user/BRNKoINSANITY)
