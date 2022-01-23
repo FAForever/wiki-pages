@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2022-01-23T19:46:52.042Z
+date: 2022-01-23T19:47:20.493Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:23.244Z
@@ -58,7 +58,7 @@ Mid to low-level Seton's, 1vs1, Team games
 
 
 This Will be Accurate as long as someone wishes to keep this updated with all the relevant information!
-**Date of the last update : 1.12.2021**
+**Date of the last update : 23.1.2022**
 
 # Casters / Content Creators
 
