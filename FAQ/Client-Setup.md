@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-01-23T23:22:55.802Z
+date: 2022-01-23T23:31:58.819Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -108,7 +108,6 @@ in the settings, FAF tab add
  to the command line executable format input. 
 
 ## Any other Distro's
-Their is also this Video if you need a visial aid.
-<iframe src="https://www.youtube.com/watch?v=Rv3ZXA4FNFk" title="Tasu FAF Linux Install Guide"></iframe>
+Their is also this [Video](https://www.youtube.com/watch?v=Rv3ZXA4FNFk) if you need a visial aid.
 
 You will need to adapt Step 1 & Step 9 if you are unsure please ask on the FAF Discord in #Technical-Help
