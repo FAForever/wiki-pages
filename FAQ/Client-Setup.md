@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-01-23T23:21:58.037Z
+date: 2022-01-23T23:22:55.802Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
