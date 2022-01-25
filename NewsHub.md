@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2022-01-25T11:47:14.114Z
+date: 2022-01-25T11:48:24.100Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -37,7 +37,6 @@ Until now it has just been linking to a mix of pages on the website and the foru
 - [Development](/FAF-Development)
 - [Contribute](/Contribute)
 - [Promotions](https://discord.gg/3h6yQEwEVb)
-- [From the Internet](/From-the-Internet)
 
 ## Left, Mid and Right Sidebar
 These are the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
