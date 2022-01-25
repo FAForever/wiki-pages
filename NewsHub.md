@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-12-30T02:22:12.719Z
+date: 2022-01-25T11:43:54.038Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -33,9 +33,8 @@ Until now it has just been linking to a mix of pages on the website and the foru
 - [FAF Projects](https://wikijs.faforever.com/en/Projects)
 - [Team Matchmaker](/tmm)
 - [Development](/FAF-Development)
-- [Creative](/Creative)
 - [Contribute](/Contribute)
-- [Promotions](/Promotions)
+- [Promotions](https://discord.gg/3h6yQEwEVb)
 - [From the Internet](/From-the-Internet)
 
 ## Left, Mid and Right Sidebar
