@@ -2,7 +2,7 @@
 title: FAF Client/Forum Rules
 description: 
 published: true
-date: 2022-01-17T10:07:01.390Z
+date: 2022-01-25T09:03:06.148Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-29T00:09:07.219Z
@@ -11,12 +11,12 @@ dateCreated: 2021-12-29T00:09:07.219Z
 # FAF Client/Forum Rules
 На этой странице представлены правила форума и лобби. Запросы или жалобы на решения модераторов и другие вопросы не принимаются, если они основаны на том, что здесь написано. Вы не можете цитировать эту страницу во время апелляций или других целей, связанных с жалобами. 
 
-There was a demand for clearer rules separated between the lobby and the forums.
+Возникла потребность в более четких правилах, разделенных между лобби и форумами.
 
-- The rule changes below are not retroactive and are for the moment subject to change as we work towards improving and consolidating the rules.
-- A link to the banned exploit list has also been added in the lobby rule section and more specifically, in the rule that mentions not to use such exploits.
-- If you have any suggestions or concerns please contact the IRC moderator usergroup.
-- Keep in mind that lobby rules in essence apply not only to #aeolus but also to your in-game behavior.
+- Приведенные ниже изменения правил не имеют обратной силы и на данный момент могут быть изменены по мере того, как мы работаем над улучшением и консолидацией правил.
+- Ссылка на список запрещённых эксплойтов также добавлена в раздел правил лобби и, в частности, в правило, в котором упоминается не использовать такие эксплойты.
+- Если у вас есть какие-либо предложения или проблемы, пожалуйста, свяжитесь с группой модераторов IRC.
+- Имейте в виду, что правила лобби по сути распространяются не только на #aeolus, но и на ваше поведение в игре. 
 
 ## Lobby and in-game rules
 
