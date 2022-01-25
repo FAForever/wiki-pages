@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2021-12-29T23:56:58.747Z
+date: 2022-01-25T11:35:33.943Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -99,7 +99,6 @@ The lessons to date are recorded below for reference.
 ## Lessons
 - [Sources for FAF (Git and GitHub)](/FAF-Dev-School-Git)
 - [FAF Client code](/FAF-Dev-School-Client)
-- [FAF Server code](/FAF-Dev-School-Server)
 
 ## Other
 
@@ -117,9 +116,3 @@ If you've not done any coding before, or have no idea where to start then this i
 The most important thing to do if we want to play with the FAF code is get a GitHub account, see the lesson on that: [Github for FAF](/FAF-Dev-School-Git)
 
 Once you've got a GitHub account set up, the next thing to do is to choose what FAF code you want to take a look at.
-
-For the FAF client code see: [FAF Client code](/FAF-Dev-School-Client)
-
-For the FAF server code see: [FAF Server code](/FAF-Dev-School-Server)
-
-If you're looking for suggestions, it might be easiest to set up the Client code first :)
