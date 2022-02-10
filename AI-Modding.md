@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2021-12-23T16:19:47.840Z
+date: 2022-02-10T08:56:00.320Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -449,7 +449,76 @@ And then view the replay from the Replays menu when running the offline client (
 
 ## AI Builders
 
-Todo :)
+Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
 
-(This is the important bit though)
+If you're new to FAF then it's probably easiest to learn how AI builders work and how to change them by taking the existing Micro AI (see above for link on how to download this) and editing it for specific scenarios.  Some examples are given below.
 
+Note that you do not need to use the built in AI builders to produce something - creating your own system will provide greater flexibility, but isn't recommended as a first step to understanding how AI works.  Examples of AI which don't use the core AI builder system include DilliDalli and M27AI.
+
+- Changing the initial build order
+Do the following to change the initial build order for the MicroAI:
+Open lua/AI/AIBuilders/MicroBuilders.lua
+Locate the “MicroAICommanderBuilder” section
+Change the BuildStructures section to reflect your preferred build order using the ACU.  The following means it builds a land fac, 2 PGens, 2 Mexes, 2 more PGens, and a second land fac:
+```lua
+BuildStructures = { -- The buildings to make
+    'T1LandFactory',
+    'T1EnergyProduction', --T1 Pgen
+    'T1EnergyProduction',
+    'T1Resource', -- Mass Extractor
+    'T1Resource',
+    'T1EnergyProduction',
+    'T1EnergyProduction',
+    'T1LandFactory',    
+}
+```
+- Build order conditions and priorities
+A BuilderGroup contains various builder subtables.  Each builder subtable can be used to tell the AI to build something if certain condtiions are satisfied.
+
+The Priority variable in the builder subtable determines which builder will be done first (the highest priority is done first).  I.e. the AI will loop through each builder within the buildergroup, check if the conditions are satisfied, and then try and build the builder (for which the conditions are satisfied) that has the highest priority.
+
+Builder conditions require a specific format to be used.  An example of a builder subtable is given below:
+
+```lua
+Builder {
+        BuilderName = 'MicroAI T1Engineer AirFac',
+        PlatoonTemplate = 'EngineerBuilder',
+        Priority = 90,
+        InstanceCount = 1,
+        BuilderConditions = {
+            { EBC, 'GreaterThanEconStorageRatio', { 0.1, 0.8}},
+            { UCBC, 'HaveGreaterThanUnitsWithCategory', { 1, 'FACTORY TECH1' } }, -- Don't build air fac immediately.
+            { UCBC, 'HaveLessThanUnitsWithCategory', { 4, 'FACTORY TECH1' } }, -- Stop after 5 facs have been built.
+        },
+        BuilderType = 'Any',
+        BuilderData = {
+            NeedGuard = false,
+            DesiresAssist = true,
+            Construction = {
+                BuildStructures = {
+                    'T1AirFactory',
+                }
+            }
+        }
+    },
+```
+
+This builder has 3 build conditions, which use a subtable in the format {CodeFileRef, '[Function name]', {[function input 1], [function input 2]}},
+Taking EBC as an example, this is defined at the start of the builders lua file as:
+```lua
+local EBC = '/lua/editor/EconomyBuildConditions.lua'
+```
+
+You can locate this file in the core FAF files (i.e. the lua-nx2 file - see before for how to access this).  One of the functions in this file is called GreaterThanEconStorageRatio:
+
+```lua
+function GreaterThanEconStorageRatio(aiBrain, mStorageRatio, eStorageRatio)
+    local econ = AIUtils.AIGetEconomyNumbers(aiBrain)
+    if (econ.MassStorageRatio >= mStorageRatio and econ.EnergyStorageRatio >= eStorageRatio) then
+        return true
+    end
+    return false
+end
+```
+
+You can therefore create your own custom conditions using a similar approach - i.e. create a separate lua file, define a variable that imports it at the start of your builder code, have a function with a similar structure (you can choose the number of variables but note that aiBrain should always be the first variable for the function), and then add a condition to a builder that references this.
