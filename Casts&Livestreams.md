@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2022-01-23T19:47:20.493Z
+date: 2022-03-01T23:48:26.265Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:23.244Z
@@ -23,7 +23,7 @@ Any Name that is in Italic are Semi-Active
 | [**Offical FAF   Stream**](https://www.twitch.tv/faflive) | [**Farmsletje**](https://www.twitch.tv/stellartactician) | [**Tagada**](https://www.twitch.tv/tagada14) |
 | All of   the major tournaments are being cast here, make sure you follow this one! | High-level Seton’s, Team games, Tournament Casting | High-level 1vs1, Seton’s,   Tournament POV, Tournament Casting, Open Training Sessions |
 |  |   |  |
-| [**Matr1**](https://www.twitch.tv/matr1) | [**Ryfun**](https://www.twitch.tv/ryfun96) | [**Yudi**](https://www.twitch.tv/yudi_dddd) |
+| [**Matr1**](https://www.twitch.tv/matr1) | [**Ryfun**](https://www.twitch.tv/ryfun96) | [**Yudi**](https://www.twitch.tv/yudi_ddddddd) |
 | Mid-level team games &   1vs1's | High-level Seton’s | High-level Seton's |
 |  |   |  |
 | [**Harzer**](https://www.twitch.tv/snf_harzer99) | [***Blackheart***](https://www.twitch.tv/bc_blackheart) | [***BRNKoINSANITY***](https://www.twitch.tv/thebrnk) |
