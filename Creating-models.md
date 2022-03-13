@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T19:20:12.840Z
+date: 2022-03-13T19:21:35.156Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -52,7 +52,7 @@ At the moment it is just a mesh we need to add some bones to it, Sup Com works w
 ### Extra Bones
 
 - Bones for effects,
-- If you want your unit to be transportable you will need an `AttachPoint` bone that will connect it to a transport,
+- An `AttachPoint` bone that will connect it to a transport,
 
 Once we have our bones set up we need to switch back to the mesh and parent it to the bones, and add an armature modifier connected to the bones but don't apply it
 
