@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T18:42:52.258Z
+date: 2022-03-13T19:01:37.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -96,4 +96,15 @@ The UV unwrapped from our example model
 ---
 
 ## Vertex Groups
+
+All vertices need to be in a group with the same name as the bone you want then attached to, vertices can only be in one group.
+
+The groups we should have for our example
+![tank006.png](/images/modding/creating-models/tank006.png) 
+
+---
+
+## Textures
+
+## Animations
 
