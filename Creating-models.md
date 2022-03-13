@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T17:22:30.470Z
+date: 2022-03-13T18:20:12.450Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -35,6 +35,7 @@ We won't be going through how to model in this guide, we will be focusing on the
 
 Here we have our basic model (pay close attention to the arrow and xyz gimble for model direction)
 ![tank001.png](/images/modding/creating-models/tank001.png)
+
 ---
 
 ## Bones 
