@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T12:47:54.595Z
+date: 2022-03-13T12:49:57.658Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -22,7 +22,7 @@ Blender manual can be found in help menu
 Gimp [link](https://www.gimp.org/)    
 Gimp Tutorials [link](https://www.gimp.org/tutorials/)  
   
-Paint.net [link](https://www.getpaint.net/)  
+<p>Paint.net</p> [link](https://www.getpaint.net/)  
   
 Supcom addon for blender [link](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender/tree/Blender2.80)  
   
@@ -31,4 +31,4 @@ Supcom addon for blender [link](https://github.com/Exotic-Retard/SupCom_Import_E
 
 We won't be going through how to model in this guide, we will be focusing on the specfics of what is needed for faf, how to get a model ready for exporting and what is needed for the textures.  
   
-here we have our basic model ready for export
+here we have our basic model
