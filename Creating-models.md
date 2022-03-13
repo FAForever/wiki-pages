@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T12:51:19.675Z
+date: 2022-03-13T13:31:43.346Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -15,16 +15,16 @@ This is a guide on how to create units for the game supreme commander forged all
 
 ## Software Used ##
 
-Blender [link](https://www.blender.org)    
-Blender tutorial [link](https://www.blender.org/support/tutorials/)  
+[Blender](https://www.blender.org)    
+[Blender tutorial](https://www.blender.org/support/tutorials/)  
 Blender manual can be found in help menu
   
-Gimp [link](https://www.gimp.org/)    
-Gimp Tutorials [link](https://www.gimp.org/tutorials/)  
+[Gimp](https://www.gimp.org/)    
+[Gimp Tutorials](https://www.gimp.org/tutorials/)  
   
-<p>Paint.net</p> [link](https://www.getpaint.net/)  
+[paint.net](https://www.getpaint.net/)  
   
-Supcom addon for blender [link](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender/tree/Blender2.80)  
+[Supcom addon for blender](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender/tree/Blender2.80)  
   
 
 # Method #
