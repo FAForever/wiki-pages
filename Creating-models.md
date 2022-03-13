@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T19:15:07.203Z
+date: 2022-03-13T19:18:20.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -86,7 +86,7 @@ A treads template
 
 ---
 An example from the game
-![uel0201_albedo.png](/images/modding/creating-models/uel0201_albedo.png)
+![uel0201_albedo_no_alpha.png](/images/modding/creating-models/uel0201_albedo_no_alpha.png)
 
 ---
 
