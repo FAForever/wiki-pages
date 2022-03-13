@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T19:06:34.920Z
+date: 2022-03-13T19:15:07.203Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -75,7 +75,7 @@ How your bone hierarchy should look
 
 ## UV Map
 
-Sup Com textures use a single image for the textures, We are now going to uv unwrap the model, I would reccomend creating a duplicate of the entire model, Then deleting all the parts that are the same so in our tank example I will be removing one the treads then duplicating it after unwrapping one, also in this example we will have scrolling treads which require us to place them at the bottom of the texture
+Sup Com uses a single image for the textures, We are now going to uv unwrap the model, I would reccomend creating a duplicate of the entire model, Then deleting all the parts that are the same so in our tank example I will be removing one the treads then duplicating it after unwrapping one, also in this example we will have scrolling treads which require us to place them at the bottom of the texture
 
 > 1024x1024 : The bottom 52px are the left side then the next 52px are the right side  
 512 x 512 : The bottom 26px are the left side then the next 26px are the right side
