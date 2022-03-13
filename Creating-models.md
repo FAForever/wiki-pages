@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T19:24:01.952Z
+date: 2022-03-13T20:43:02.619Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
