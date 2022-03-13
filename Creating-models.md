@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T16:11:14.717Z
+date: 2022-03-13T16:36:36.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -35,6 +35,7 @@ We won't be going through how to model in this guide, we will be focusing on the
 
 Here we have our basic model (pay close attention to the arrow and xyz gimble for model direction)
 ![tank001.png](/images/modding/creating-models/tank001.png)
+---
 
 ## Bones 
 
@@ -52,9 +53,28 @@ At the moment it is just a mesh we need to add some bones to it, Sup Com works w
 - Bones for effects,
 - If you want your unit to be transportable you will need an `AttachPoint` bone that will connect it to a transport,
 
+Once we have our bones set up we need to switch back to the mesh and parent it to the bones, and add an armature modifier connected to the bones but don't apply it
+
 Bones showing hierarchy 
 ![tank002.png](/images/modding/creating-models/tank002.png)
 
+---
 Bones with model
 ![tank003.png](/images/modding/creating-models/tank003.png)
+
+---
+Adding the armature modifier
+![tank004.png](/images/modding/creating-models/tank004.png)
+
+---
+How your bone hierarchy should look
+![tank005.png](/images/modding/creating-models/tank005.png)
+
+---
+
+## UV Map
+
+Sup Com textures use a single image for the textures, We are now going to uv unwrap the model, I would reccomend  
+
+## Vertex Groups
 
