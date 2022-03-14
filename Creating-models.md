@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-14T05:57:06.411Z
+date: 2022-03-14T06:00:02.066Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -111,7 +111,9 @@ The groups we should have for our example
 ### Aeon Shader (Aeon)
 
 #### Albedo
+Use this to map color on your unit.
 #### Normals
+
 #### Spec Team
 - R :
 
@@ -123,7 +125,9 @@ The groups we should have for our example
 
 ### UEF Shader (Unit)
 #### Albedo
+Use this to map color on your unit.
 #### Normals
+
 #### Spec Team
 - R :
 
@@ -135,7 +139,9 @@ The groups we should have for our example
 
 ### Cybran Shader (Insect)
 #### Albedo
+Use this to map color on your unit.
 #### Normals
+
 #### Spec Team
 - R :
 
