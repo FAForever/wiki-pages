@@ -1,8 +1,8 @@
 ---
-title: Creating models
+title: Creating Models
 description: 
 published: true
-date: 2022-03-14T14:04:17.210Z
+date: 2022-03-14T14:07:43.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -142,4 +142,6 @@ Use this to map colour on your unit.
 - B :
 
 - A :
+
+## Animation 
 
