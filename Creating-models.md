@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-14T07:00:01.747Z
+date: 2022-03-14T07:01:34.361Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -115,7 +115,8 @@ Use this to map colour on your unit.
 #### Normals
 
 #### Spec Team
-- R : Reflectivity
+
+- R : Reflectivity 
 
 - G : Environmental diffused colouring
 
