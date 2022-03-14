@@ -2,7 +2,7 @@
 title: Creating Models
 description: 
 published: true
-date: 2022-03-14T17:52:01.760Z
+date: 2022-03-14T17:54:46.832Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -111,39 +111,39 @@ The groups we should have for our example
 
 ### Aeon Shader (Aeon), UEF Shader (Unit) , Cybran Shader (Insect)
 
-#### diffuse:
- - r = Albedo red channel
- - g = Albedo green channel + shininess multiplier
- - b = Albedo blue channel
- - a = Alpha channel
+#### Albedo :
+ - R = Albedo red channel
+ - G = Albedo green channel + shininess multiplier
+ - B = Albedo blue channel
+ - A = Alpha channel
 
-#### normals:
- - r = ?
- - g = X direction (left / right)
- - b = ?
- - a = Z direction (front / back)
+#### Normals :
+ - R = ?
+ - G = X direction (left / right)
+ - B = ?
+ - A = Z direction (front / back)
 
-#### specular:
- - r = Reflectivity multiplier (of environment set by map)
- - g = Shininess multiplier
- - b = Glowing mask
- - a = Team color mask
+#### Spec Team :
+ - R = Reflectivity multiplier (of environment set by map)
+ - G = Shininess multiplier
+ - B = Glowing mask
+ - A = Team color mask
 
 ### Seraphim Shader (Seraphim)
 
-#### Albedo
+#### Albedo :
 
-#### Normals
+#### Normals :
+ - R = ?
+ - G = X direction (left / right)
+ - B = ?
+ - A = Z direction (front / back)
 
-#### Spec Team
-
-- R :
-
-- G :
-
-- B :
-
-- A :
+#### Spec Team :
+ - R = Reflectivity multiplier (of environment set by map)
+ - G = Shininess multiplier
+ - B = Glowing mask
+ - A = ?
 
 ## Animation 
 
