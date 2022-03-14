@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-13T22:51:05.071Z
+date: 2022-03-14T05:57:06.411Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -107,6 +107,55 @@ The groups we should have for our example
 ---
 
 ## Textures
+
+### Aeon Shader (Aeon)
+
+#### Albedo
+#### Normals
+#### Spec Team
+- R :
+
+- G :
+
+- B :
+
+- A :
+
+### UEF Shader (Unit)
+#### Albedo
+#### Normals
+#### Spec Team
+- R :
+
+- G :
+
+- B :
+
+- A :
+
+### Cybran Shader (Insect)
+#### Albedo
+#### Normals
+#### Spec Team
+- R :
+
+- G :
+
+- B :
+
+- A :
+
+### Seraphim Shader (Seraphim)
+#### Albedo
+#### Normals
+#### Spec Team
+- R :
+
+- G :
+
+- B :
+
+- A :
 
 ## Animations
 
