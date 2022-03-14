@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-14T06:04:41.077Z
+date: 2022-03-14T06:38:43.084Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -108,22 +108,8 @@ The groups we should have for our example
 
 ## Textures
 
-### Aeon Shader (Aeon)
 
-#### Albedo
-Use this to map colour on your unit.
-#### Normals
-
-#### Spec Team
-- R :
-
-- G :
-
-- B :
-
-- A :
-
-### UEF Shader (Unit)
+### Aeon Shader (Aeon), UEF Shader (Unit) , Cybran Shader (Insect)
 #### Albedo
 Use this to map colour on your unit.
 #### Normals
@@ -137,24 +123,11 @@ Use this to map colour on your unit.
 
 - A : Team Colour
 
-### Cybran Shader (Insect)
-#### Albedo
-Use this to map colour on your unit.
-#### Normals
-
-#### Spec Team
-- R :
-
-- G :
-
-- B :
-
-- A :
-
 ### Seraphim Shader (Seraphim)
 #### Albedo
 #### Normals
 #### Spec Team
+
 - R :
 
 - G :
