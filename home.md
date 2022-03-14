@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-03-13T12:00:50.597Z
+date: 2022-03-14T23:05:02.271Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -39,7 +39,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## User Groups & FAQ & Rules 
+## FAF Teams & FAQ & Rules 
 <table>
 <tbody>
 <tr>
@@ -47,7 +47,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="FAQ"> FAQ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups"> User Groups</a></li>
+<li><a href="FAF-Teams"> FAF Teams</a></li>
 </ul></td>
 <td><ul>
 <li><a href="User-Groups#trainers"> Trainers</a></li>
