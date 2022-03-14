@@ -1,9 +1,9 @@
 ---
 title: Creating Models
-description: 
+description: Specs for Sup Com models
 published: true
-date: 2022-03-14T17:54:46.832Z
-tags: 
+date: 2022-03-14T17:58:25.122Z
+tags: modding, models, unit
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
 ---
@@ -133,6 +133,11 @@ The groups we should have for our example
 
 #### Albedo :
 
+- R = ?
+- G = ?
+- B = ?
+- A = ?
+
 #### Normals :
  - R = ?
  - G = X direction (left / right)
@@ -147,5 +152,5 @@ The groups we should have for our example
 
 ## Animation 
 
-Animation need to pused down the nla stack before exporting.
+Animations need to pushed down the nla stack before exporting.
 
