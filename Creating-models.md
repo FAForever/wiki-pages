@@ -2,7 +2,7 @@
 title: Creating models
 description: 
 published: true
-date: 2022-03-14T06:02:54.548Z
+date: 2022-03-14T06:04:41.077Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -129,13 +129,13 @@ Use this to map colour on your unit.
 #### Normals
 
 #### Spec Team
-- R : Glow Effect
+- R : Reflectivity
 
-- G : Environmental
+- G : Environmental diffused colouring
 
-- B :
+- B : Glow Effect
 
-- A :
+- A : Team Colour
 
 ### Cybran Shader (Insect)
 #### Albedo
