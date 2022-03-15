@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-03-14T23:05:02.271Z
+date: 2022-03-15T23:30:31.109Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -44,16 +44,10 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr>
 <td><ul>
-<li><a href="FAQ"> FAQ</a></li>
+<li><a href="FAF-Teams">FAF Teams</a></li>
 </ul></td>
 <td><ul>
-<li><a href="FAF-Teams"> FAF Teams</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#trainers"> Trainers</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
+<li><a href="FAQ">FAQ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="FAF-Rules"> Rules</a></li>
