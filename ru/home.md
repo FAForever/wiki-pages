@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2022-05-03T09:29:55.764Z
+date: 2022-05-03T09:31:58.261Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -48,8 +48,6 @@ dateCreated: 2021-12-23T16:26:19.315Z
 </ul></td>
 <td><ul>
 <li><a href="FAQ"> ЧаВо</a></li>
-</ul></td>
-<td><ul>
 </ul></td>
 <td><ul>
 <li><a href="FAF-Rules"> Правила</a></li>
