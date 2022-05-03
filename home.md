@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-03-15T23:30:31.109Z
+date: 2022-05-03T11:06:36.081Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -69,6 +69,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Learning SupCom</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Changes from steam</a></li>
+<li><a href="matchmakerChanges-from-steam"> Build Orders for Matchmaker</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/information-icons/clan-icon.png"/><a href="Clans"> Clans</a></li>
@@ -120,8 +121,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="FAF-Development"> FAF Development</a></li>
-</ul></td>
-<td><ul>
 <li><a href="AI-Modding"> AI Modding</a></li>
 </ul></td>
 <td><ul>
