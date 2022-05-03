@@ -2,65 +2,65 @@
 title: User-Groups
 description: 
 published: true
-date: 2022-05-03T09:33:20.633Z
+date: 2022-05-03T10:17:16.179Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:05:03.380Z
 ---
 
-## FAF Teams
+## FAF Команды
 
-Forged Alliance Forever (FAF) is a community project of players and contributors who want to sustain and advance the game Supreme Commander: Forged Alliance.
+Forged Alliance Forever (FAF) — это фанатский проект сообщества игроков, которые хотят поддерживать и продвигать  Supreme Commander: Forged Alliance.
 
-The FAF Teams are groups of FAF contributors who are tasked with diffrent aspects of FAForever.
+FAF Команды — это группы участников FAF, которым поручены различные аспекты управления проектом FAForever.
 
-These are the current Team Leaders:
+Это текущие лидеры команд:
 
-- ![trainer.png](/cos-icons/trainer.png) **Trainer Team Leader** 
-	> **Inspektor_Kot** (Secondary: **HintHunter**)
+- ![trainer.png](/cos-icons/trainer.png) **Руководитель команды тренеров** 
+	> **Inspektor_Kot** (Заместитель: **HintHunter**)
 
-- ![community.png](/cos-icons/community.png) **Community Team Leader** 
+- ![community.png](/cos-icons/community.png) **Руководитель по работе с сообществом** 
 	> **TBA**
 
-- ![promo.png](/cos-icons/promo.png) **Promotions Team Leeader:** 
+- ![promo.png](/cos-icons/promo.png) **Руководитель команды по продвижению** 
 	>	**Rowey**
 
-- **FAF Live Team Leader:**
+- **Руководитель команды FAF Live**
 	> **TBD**
 
-- ![tournament.png](/cos-icons/tournament.png) **Tournament Team Leader:** 
+- ![tournament.png](/cos-icons/tournament.png) **Руководитель команды по турнирам** 
 	>	**TBD**
   
-- ![matchmaker.png](/cos-icons/matchmaker.png) **Matchmaking Team Leader:** 
+- ![matchmaker.png](/cos-icons/matchmaker.png) **Руководитель команды матчмейкинга** 
 	>	**Archsimkat**
 
-- ![balance.png](/cos-icons/balance.png) **Balance Team Leader:** 
+- ![balance.png](/cos-icons/balance.png) **Руководитель команды по балансу игры** 
 	>	**JaggedAppliance**
 
-- ![game.png](/cos-icons/game.png) **Games Team Leader:** 
+- ![game.png](/cos-icons/game.png) **Руководитель команды по играм** 
 	>	**Jip**
 
-- ![creative.png](/cos-icons/creative.png) **Creative Team Leader:** 
+- ![creative.png](/cos-icons/creative.png) **Руководитель творческой команды** 
 	>	**Balthazar**
 
-- ![moderation.png](/cos-icons/moderation.png) **Moderation Team Leader:**
+- ![moderation.png](/cos-icons/moderation.png) **Руководитель команды модерации**
 	>	**Giebmasse**
 
-- ![devops.png](/cos-icons/devops.png) **DevOps Team Leader:** 
+- ![devops.png](/cos-icons/devops.png) **Руководитель команды разработчики (DevOps Team)** 
 	>	**Brutus5000**
 
-## The Teams
+## Составы команд
 
 ## Tabs {.tabset}
-### Trainer Team
+### ![personal_trainer_avatar.png](/images/client-icons/avatars/personal_trainer_avatar.png)  Команда тренеров
 
+- Inspektor_kot
 - Hinthunter
 - Tagada
-- Inspektor_kot
 - F-Odin
-- Javi(Femboy)
+- Javi
 - Sladow
-- ююю (Banani)
+- Banani
 - Cheeseberry
 - Morax
 - grimplex
@@ -69,37 +69,37 @@ These are the current Team Leaders:
 - FtXCommando
 - Skrat
 
-#### Policies
-We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
+#### Политика
+Мы группа заинтересованных людей в развитии FAF комьюнити. Наши цели: предоставление возможностей новых игрокам развития собственных навыков игры и адаптация этих игроков внутри комьюнити.
 
-#### Team Membership
-- Applicants apply by contacting the leader of the team.
-- Applicants are discussed and voted on by the team with a majority required to join.
-- Team members may be removed due to not being suitable for this role.
+#### Членство в команде
+- Претенденты на членство подают заявку, связавшись с руководителем команды.
+- Претенденты принимаются в ходе обсуждения и голосования действующих членов с преимуществом большинства голосов.
+- Любой участник команды может быть отстранён от членства в связи с непригодностью для этой роли.
 
-#### Responsibilities
-- Be active in the #gat chat and #newbie chat in FAF client.
-- Contribute guides making and other things related to them.
+#### Обязанности команды
+- Be active in the #gat chat and #newbie chat in FAF client. Быть активным в #gat (Discord) и #newbie (FAF client) чатах
+- Поддержка и участие в разработке руководств по игре и иных вещей, связанных с ними.
 
-#### Team Roles
-##### Team leader
-This is the face of the team.
-The team leader is elected by a team vote.
-The team leader can be changed by the request of at least 50% of team members at any time.
-The team leader is the default point of contact with the board and other teams.
-If there is a team vote that results in a tie, that team leader acts as the tiebreaker.
+#### Должности
+##### Руководитель команды
+- Руководитель - лицо, представляющее команду.
+- Лидер команды выбирается голосованием участников команды.
+- Лидер команды может быть заменён в любое время по требованию как минимум 50% действующих участников.
+- Руководитель команды по умолчанию является контактным лицом с руководителями ассоциации FAF и другими командами.
+- Если в любом голосовании команды ничья, то лидер выступает в качестве решающего голоса.
 
-##### Deputy team leader (Second leader)
-This is the right arm of the team leader.
-The person is elected by the team leader. 
-The deputy leader is also the point of contact if the team leader is absent.
-
-
+##### Заместитель
+- Правая рука руководителя команды.
+- Эта персона выбирается самим руководителем 
+- Заместитель выполняет функцию контактного лица в случае отсутствия руководителя.
 
 
-### Community Team
 
-### Promotions Team
+
+### Команда по работе с сообществом
+
+### Команда по продвижению
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
 - The team leader is to be voted upon by team members
