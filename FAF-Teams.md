@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-05-03T09:18:39.361Z
+date: 2022-05-06T17:53:49.253Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -318,6 +318,8 @@ The election uses approval voting. This means that the person with the most appr
 #### Global Moderators:
 - Angelofd347h
 - Archsimkat
+- nemir
+- magge
 - Deribus
 - Giebmasse
 - Gorton
