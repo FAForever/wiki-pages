@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-07T21:35:16.682Z
+date: 2022-05-07T21:57:28.013Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -81,19 +81,18 @@ vim ~/.local/share/applications/faf-client.desktop
 Name=FAF
 Version=v2022.4.1
 Type=Application
-Exec=INSTALL4J_JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ~/faf/faf-client-2022.4.1/faf-client
-Comment=Forged Alliance Forever Client
+Exec=bash -c "cd ~/faf/faf-client-2022.4.1; INSTALL4J_JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./faf-client"Comment=Forged Alliance Forever Client
 Icon=~/.local/share/icons/faf.png
 ```
 
 Search for "FAF" in the applications menu, you should be able to run the client from there.
 
 ### Step 2 - Install Supreme Commander: Forged Alliance from Steam
-1. Start by enabling SteamPlay in the Steam settings. Reboot Steam for the changes to take effect.
+1. Start by enabling SteamPlay in the Steam settings. Reboot Steam for the changes to take effect. The option is found at `Steam -> Settings -> Steam Play -> under Advanced -> "Enable Steam Play for all other titles"`
 
 2. Install Supreme Commander: Forged Alliance
 
-3. Add these runs args to the steam settings for Forged Alliance:
+3. Set the following launch options to the steam settings for Forged Alliance under `Properties -> Set Launch Options`:
 ```
 PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
 ```
