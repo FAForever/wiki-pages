@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-01-23T23:31:58.819Z
+date: 2022-05-07T21:13:25.244Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -36,52 +36,91 @@ Some popular mods, like [GAZ_UI](/Mods/GAZ_UI) and Hotbuild, are already [integr
 All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault), and can be used according to preference.
 
 # Linux (Un-Official Support )
-**Please note that FAF dose not Officaly support the Linux version**
+**Please note that FAF does not officially support the Linux version**
 
-## Ubuntu
+## Ubuntu Quickstart
+This quickstart guide shows you the commands you need for getting FAF installed with minimal explanation.
+
+### Step 1 - Install the FAF client
+Download the latest stable version of the client from the [GitHub](https://github.com/FAForever/downlords-faf-client/releases).
+```
+curl -L -O https://github.com/FAForever/downlords-faf-client/releases/download/v2022.4.1/faf_unix_2022_4_1.tar.gz
+```
+
+Extract it to a folder
+```
+mkdir -p ~/faf
+```
+```
+tar -xf faf_unix_2022_4_1.tar.gz -C ~/faf/
+```
+
+Try to run the client
+```
+~/faf/faf-client-2022.4.1/faf-client
+```
+
+Note the minimum required JVM version in the error message
+```
+No suitable Java Virtual Machine could be found on your system.
+The version of the JVM must be at least 17.
+Please define INSTALL4J_JAVA_HOME to point to a suitable JVM.
+```
+
+Install a compatible Java Runtime Environment. If none is available through apt you can download and manually install a compatible [AdoptOpenJDK one](https://adoptopenjdk.net/archive.html?jvmVariant=hotspot)
+```
+sudo apt install openjdk-17-jre
+```
+
+Create a desktop run file:
+```
+vim ~/.local/share/applications/faf-client.desktop
+```
+```
+[Desktop Entry]
+Name=FAF
+Version=v2022.4.1
+Type=Application
+Exec=bash -c "cd ~/faf; export INSTALL4J_JAVA_HOME=~/faf/jre-15/; ./faf-client"
+Comment=Forged Alliance Forever Client
+```
 
 ### Step 1
-
+Install python and pipx
 ```
 sudo apt install python3-pip python3-setuptools python3-venv pipx
 ```
-
-### Step 2
+Then install protontricks
 ```
 pipx install protontricks
 ```
 
-### Step 3
+### Step 2
 Enable Steam Play (Reboot Steam)
 
+### Step 3
+Install Supreme Commander: Forged Alliance through Steam
+
 ### Step 4
-Install Supreme Commander:Forged Alliance
+Install video and audio libraries for Forged Alliance:
+```
+~/.local/bin/protontricks 9420 dlls d3dx9
+```
+```
+~/.local/bin/protontricks 9420 dlls xact
+```
 
 ### Step 5
-Run :
-```
-cd ~/.local/pipx/venvs/protontricks
-```
-and
-```
-./protontricks 9420 dlls d3dx9
-```
-and
-```
-./protontricks 9420 dlls xact
-```
-
-### Step 6
-Add these runs args to the settings in steam's FA :
+Add these runs args to the settings in steam's FA:
 ```
 PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
 ```
 
-### Step 7
+### Step 6
 Run Forged Alliance, create config, close.
 
-### Step 8
-Create a "FAF" folder in which you want to extract FAF Client , [JRE 15](https://adoptopenjdk.net/archive.html?variant=openjdk15&jvmVariant=hotspot) and the run file you just generated located at /tmp/proton_$USER/ (in which you edit out steam.exe)
+### Step 7
+Create a "FAF" folder in which you want to extract FAF Client, [JRE 15](https://adoptopenjdk.net/archive.html?variant=openjdk15&jvmVariant=hotspot) and the run file you just generated located at /tmp/proton_$USER/ (in which you edit out steam.exe)
 
 ### Step 9
 Create a desktop run file:
