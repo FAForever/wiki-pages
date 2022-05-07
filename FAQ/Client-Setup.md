@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-07T21:31:15.977Z
+date: 2022-05-07T21:35:16.682Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -125,7 +125,7 @@ cp /tmp/proton_$USER/run ~/faf/
 ~/faf/run "%s"
 ```
 
-## Any other Distro's
-Their is also this [Video](https://www.youtube.com/watch?v=Rv3ZXA4FNFk) if you need a visial aid.
+## Other Distros
+There is also this [Video](https://www.youtube.com/watch?v=Rv3ZXA4FNFk) if you need a visial aid.
 
-You will need to adapt Step 1 & Step 9 if you are unsure please ask on the FAF Discord in #Technical-Help
+You will need to adapt step 1 and step 9. If you are unsure please ask on the FAF Discord in #technical-help
