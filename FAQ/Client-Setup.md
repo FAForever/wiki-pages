@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-07T21:13:25.244Z
+date: 2022-05-07T21:31:15.977Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -81,11 +81,24 @@ vim ~/.local/share/applications/faf-client.desktop
 Name=FAF
 Version=v2022.4.1
 Type=Application
-Exec=bash -c "cd ~/faf; export INSTALL4J_JAVA_HOME=~/faf/jre-15/; ./faf-client"
+Exec=INSTALL4J_JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ~/faf/faf-client-2022.4.1/faf-client
 Comment=Forged Alliance Forever Client
+Icon=~/.local/share/icons/faf.png
 ```
 
-### Step 1
+Search for "FAF" in the applications menu, you should be able to run the client from there.
+
+### Step 2 - Install Supreme Commander: Forged Alliance from Steam
+1. Start by enabling SteamPlay in the Steam settings. Reboot Steam for the changes to take effect.
+
+2. Install Supreme Commander: Forged Alliance
+
+3. Add these runs args to the steam settings for Forged Alliance:
+```
+PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
+```
+
+4. Install video and audo libraries for Forged Alliance using protontricks:
 Install python and pipx
 ```
 sudo apt install python3-pip python3-setuptools python3-venv pipx
@@ -94,57 +107,23 @@ Then install protontricks
 ```
 pipx install protontricks
 ```
-
-### Step 2
-Enable Steam Play (Reboot Steam)
-
-### Step 3
-Install Supreme Commander: Forged Alliance through Steam
-
-### Step 4
-Install video and audio libraries for Forged Alliance:
+Then install the libraries
 ```
 ~/.local/bin/protontricks 9420 dlls d3dx9
 ```
 ```
 ~/.local/bin/protontricks 9420 dlls xact
 ```
+5. Run Forged Alliance, create a profile and exit
 
-### Step 5
-Add these runs args to the settings in steam's FA:
+6. Copy the generated run file to your faf client install directory
 ```
-PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
+cp /tmp/proton_$USER/run ~/faf/
 ```
-
-### Step 6
-Run Forged Alliance, create config, close.
-
-### Step 7
-Create a "FAF" folder in which you want to extract FAF Client, [JRE 15](https://adoptopenjdk.net/archive.html?variant=openjdk15&jvmVariant=hotspot) and the run file you just generated located at /tmp/proton_$USER/ (in which you edit out steam.exe)
-
-### Step 9
-Create a desktop run file:
-```
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=v2021.11.0
-Type=Application
-Exec=bash -c "cd ~/faf; export INSTALL4J_JAVA_HOME=~/faf/jre-15/; ./faf-client"
-Name=FAF
-Comment=Forged Alliance Forever Client
-Icon=~/.local/share/icons/faf.png
-```
-mark it as executable and place it in ~/.local/share/applications
-
-### Step 10
-hit start search for faf and run
-
-### Step 11
-in the settings, FAF tab add 
+7. Open the FAF client settings and set the command line executable format to:
 ```
 ~/faf/run "%s"
 ```
- to the command line executable format input. 
 
 ## Any other Distro's
 Their is also this [Video](https://www.youtube.com/watch?v=Rv3ZXA4FNFk) if you need a visial aid.
