@@ -2,17 +2,25 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-09T22:37:31.639Z
+date: 2022-05-09T23:54:21.293Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
 
-## Learning Basic Game Mechanics
+# Getting Started
+
+If you need information on how to set up Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
+
+### Learning Basic Game Mechanics
 
 [Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
 
 [FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words
+
+[Unit Micro](/Learning/Unit-Micro) - 4404 words
+
+[Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance) - 3817 words
 
 ## Improving Your Gameplay
 
@@ -26,6 +34,12 @@ dateCreated: 2021-12-30T20:32:41.077Z
 
 [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473) - 27,175 words
 
+[General 1v1 Guide](/Learning/General-1v1-Guide) - 3815 words
+[UEF 1v1 Guide](/Learning/UEF-1v1-Guide) - 2553 words
+[Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide) - 8802 words
+[Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide) - 1353 words
+[Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide) - 3828 words
+
 [BRNK's Tutorials](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1) - 19 videos (between 5 and 72 minutes each)
 
 [Все туториалы / Zlo's Tutorials Playlist](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr) - very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)
@@ -35,30 +49,6 @@ dateCreated: 2021-12-30T20:32:41.077Z
 [Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - list of trainers
 
 [Gameplay and Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
-
-### Setting up Supreme Commander: Forged Alliance and the FAF client
-If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
-
-### Introduction and Basic Game Mechanics
-This is intended for players new to Supreme Commander, but if you are a returning player this could be useful as it provides a sound knowledge base and encourages good habits.
-- [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance)
-
-Here is a guide for new players who want to improve and compete within the community.
-- [Three Essential Habits for the New Player](/Learning/Three-Essential-Habits-for-the-New-Player)
-
-Microing units effectively can be a difficult task, but with the right knowledge it can give you a huge advantage.
-- [Unit Micro](/Learning/Unit-Micro)
-
-### In depth 1v1 Guide
-This section covers everything you need to know about playing ladder matches and 1v1 games. This part is split into 5 guides: a general guide for 1v1, and 4 faction specific guides, designed to be read after the general guide.
-<img src="/images/random_faction.png" align="center"> [General 1v1 Guide](/Learning/General-1v1-Guide)
-In order to minimize overlap between the faction specific guides, the common information has been gathered into this general purpose guide.
-
-These guides are here to show you specific strategies, and help you play to their strengths:
-- [Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide)
-- [Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide)
-- [Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide)
-- [UEF 1v1 Guide](/Learning/UEF-1v1-Guide)
 
 ### Reference materials and detailed game mechanics
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
