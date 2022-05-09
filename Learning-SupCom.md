@@ -2,13 +2,35 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-09T00:09:28.822Z
+date: 2022-05-09T21:07:31.599Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
 
-[ToDO](/New-To-FAF)
+[How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365) - 1,816 words
+
+[Heaven's Video Tutorials - 60 videos](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS) (between 3 and 54 minutes each)
+
+[TheForgedAllianceColonel's Tutorials Playlist](https://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0) - 28 videos (between 2 and 29 minutes each)
+
+[UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player) - 492 words
+
+[Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473) - 27,175 words
+
+[Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
+
+[FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words
+
+[BRNK's Tutorials](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1) - 19 videos (between 5 and 72 minutes each)
+
+[Все туториалы / Zlo's Tutorials Playlist](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr) - very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)
+
+[Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - list of trainers
+
+[Gameplay and Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
+
+##
 
 This page is intended to help you learn how to play Forged Alliance. The game has many different aspects and game types so information on the game has been split into various sections for your convenience. For information on the client and not the game, please visit the [Main Page](/home)
 
