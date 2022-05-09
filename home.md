@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-05-09T20:14:28.360Z
+date: 2022-05-09T20:20:42.707Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
 
-## [New To FAF? - Start Here](https://wiki.faforever.com/en/New-To-FAF)
+## ![faf-logo-small.png](/faf-logo-small.png) [New To FAF? - Start Here](https://wiki.faforever.com/en/New-To-FAF) ![faf-logo-small.png](/faf-logo-small.png)
 
 ## FAF Client
 <table>
