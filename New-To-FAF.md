@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T10:42:56.975Z
+date: 2022-05-09T11:19:38.132Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -44,11 +44,14 @@ You can join the [FAF Discord](https://discord.gg/hgvj6Af) and talk with people 
 ## How can I get help?
 You can check out the [help section](https://forum.faforever.com/category/4/i-need-help) of the forums, or ask for help on the [FAF Discord](https://discord.gg/hgvj6Af) in either the [#technical-help channel](https://discord.gg/rvfaGTpNbK) (for technical problems) or in the [#gameplay-and-training channel](https://discord.gg/VzZgSZFwuX) (for gameplay questions, finding trainers, and improving at FAF).
 
+## How is FAF different from Steam's version of SC:FA?
+FAF provides integrated mod support, community services, a matchmaking service, easy access to thousands of new maps, the ability to have games with up to 16 players, a lot of lag reduction, bugfixes, QoL improvements, and improved game balance.  To learn more, you can read [this more detailed explanation](https://wiki.faforever.com/en/Changes-from-steam).
+
 ## How can I stop getting kicked for being a noob?
 You can join 'All Welcome' games, host a game yourself, or play on the matchmaker. Playing rated games and winning some will help you build your rating, and getting a higher rating will enable you to join even more games.
 
 ## How can I tell if a game is rated?
-Check out [this link](https://forum.faforever.com/topic/272/why-was-game-x-not-rated?_=1644593448265). It lists the things that can make games unrated. If there is nothing that makes a game unrated, it is rated.
+You can check out [this link](https://forum.faforever.com/topic/272/why-was-game-x-not-rated?_=1644593448265). It lists the things that can make games unrated. If there is nothing that makes a game unrated, it is rated.
 
 ## How can I get cool new maps and mods from FAF?
 If you haven't already done so, you can [download and install the FAF client](https://faforever.com/client), make an account, and log into your account on the FAF client. There is a Maps tab and a Mods tab near the top of the FAF client. You can browse, search for, and download maps and mods on those tabs.
