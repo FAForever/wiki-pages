@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-09T22:28:23.901Z
+date: 2022-05-09T22:31:38.563Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -44,7 +44,7 @@ Common solutions to problems setting up Steam link:
 If you experience issues setting up Steam link, you can ask for help in the  [#technical-help channel in the FAF Discord](https://discord.gg/rvfaGTpNbK) and or in the [help section of the forums](https://forum.faforever.com/category/4/i-need-help).
 
 [Setting your Steam profile and games list to public:
-![set to public.png](/assets/uploads/files/1652134153739-set-to-public.png)](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276)
+![set_to_public.png](/images/set_to_public.png)](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276)
 
 ## Installing Mods
 
