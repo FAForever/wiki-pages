@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T02:33:06.045Z
+date: 2022-05-09T02:33:41.402Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -11,7 +11,6 @@ dateCreated: 2022-05-09T00:09:41.949Z
 # What is FAF?
 FAForever is a non-profit organisation whose overall aim is to support the open and continued development of the game Supreme Commander: Forged Alliance Forever. When people say FAF, they may mean the [FAF Association](https://forum.faforever.com/topic/2347/what-is-the-association), the FAF client, the game itself, or the community of FAF players.
 
----
 # Useful Links
 
 * [Download FAF Client](https://faforever.com/client)
