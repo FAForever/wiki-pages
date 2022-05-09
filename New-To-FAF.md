@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T02:56:56.975Z
+date: 2022-05-09T02:58:15.880Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -13,7 +13,7 @@ FAForever is a non-profit organisation whose overall aim is to support the open 
 
 # Useful Links
 
-* [How To Install FAF &](https://wiki.faforever.com/en/FAQ/Client-Setup)
+* [How To Install FAF](https://wiki.faforever.com/en/FAQ/Client-Setup)
 
 * [Download FAF Client](https://faforever.com/client)
 
