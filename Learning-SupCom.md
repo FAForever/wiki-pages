@@ -2,11 +2,13 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2021-12-30T20:34:29.998Z
+date: 2022-05-09T00:09:28.822Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
+
+[ToDO](/New-To-FAF)
 
 This page is intended to help you learn how to play Forged Alliance. The game has many different aspects and game types so information on the game has been split into various sections for your convenience. For information on the client and not the game, please visit the [Main Page](/home)
 
