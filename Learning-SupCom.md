@@ -2,11 +2,19 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-09T21:07:31.599Z
+date: 2022-05-09T22:37:31.639Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
+
+## Learning Basic Game Mechanics
+
+[Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
+
+[FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words
+
+## Improving Your Gameplay
 
 [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365) - 1,816 words
 
@@ -18,24 +26,15 @@ dateCreated: 2021-12-30T20:32:41.077Z
 
 [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473) - 27,175 words
 
-[Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
-
-[FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words
-
 [BRNK's Tutorials](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1) - 19 videos (between 5 and 72 minutes each)
 
 [Все туториалы / Zlo's Tutorials Playlist](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr) - very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)
 
+## Getting Gameplay Advice From Others
+
 [Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - list of trainers
 
 [Gameplay and Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
-
-##
-
-This page is intended to help you learn how to play Forged Alliance. The game has many different aspects and game types so information on the game has been split into various sections for your convenience. For information on the client and not the game, please visit the [Main Page](/home)
-
-## The FAF Guide
-This wiki contains one complete guide to playing Forged Alliance, with the FAF client. The guide in this wiki is split into different sections, which are constantly being worked on and should provide a comprehensive coverage of the game and its various aspects.
 
 ### Setting up Supreme Commander: Forged Alliance and the FAF client
 If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
