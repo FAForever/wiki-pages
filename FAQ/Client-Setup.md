@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-07T21:57:28.013Z
+date: 2022-05-09T21:16:48.027Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -25,9 +25,9 @@ There are also some mods integrated directly into FAF, which can be found [here]
 	- FAF might ask you to specify the Forged Alliance folder so just simply direct it to your *Supreme Commander: Forged Alliance* folder on your hard drive. If you bought Supreme Commander: Forged Alliance on Steam, the game is located in your Steam Library folder. To find that folder, start Steam, go to Steam - Settings, click Downloads, and click the STEAM LIBRARY FOLDERS button. The Steam Library folder has a folder steamapps\\common, there you should find your Supreme Commander Forged Alliance folder.
 - Your setup is now completed, but you may wish to add more to your experience by downloading [Map & Mod Vault](/Map-&-Mod-Vault), but normally, any game you join, the mods and maps will be downloaded automatically, so you don't need to do anything else.
 
-## Linking to Steam
+## What is Steam link, why is it required, and how do I do it?
 
-The FAF client includes a feature to link your account to your Steam account. This feature enables you to swap two Steam linked accounts on the same computer, to bypass the anti-smurf protection. For this to work you are required to have Supreme Commander: Forged Alliance in your Steam library. You can link your account to Steam [here.](https://www.faforever.com/account/link)
+Steam link can be thought of as a one-time verification tool that allows us to make sure you own a legal copy of the game Supreme Commander: Forged Alliance.  It is required to demonstrate proof of ownership ([for legal reasons](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), as well as to reduce smurfing).  If you own a retail version of the game, but don't have it on Steam, you should be able to [use your CD key to redeem a licence on Steam for free](https://help.steampowered.com/en/faqs/view/0e71-0971-324a-1161).  However, [the GOG version of the game is not supported at this time](https://forum.faforever.com/topic/281/i-bought-forged-alliance-but-not-on-steam-can-i-still-play-on-faf) (if you only own the GOG version of the game, you may want to [purchase it via Steam](https://store.steampowered.com/app/9420) to play on FAF).  Once you have the game (Supreme Commander: Forged Alliance) in your Steam library, you can [link your account to Steam](https://www.faforever.com/account/link) (your Steam profile will temporarily need to be set to public for this to work, but you can hide it again afterwards).  If you have concerns about this process, you can read [the technical explanation of why it's safe](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), and you can also note that FAF has an active community that can answer questions, FAF has existed for over a decade, FAF has had hundreds of thousands of users, and the FAF Association is a non-profit organization.  
 
 ## Installing Mods
 
