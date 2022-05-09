@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T02:58:15.880Z
+date: 2022-05-09T04:10:33.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -31,6 +31,10 @@ FAForever is a non-profit organisation whose overall aim is to support the open 
 
 # Common Questions
 
+## What is Steam link, why is it required, and how do I do it?
+
+Steam link is basically a verification tool that allows us to make sure you own a legal copy of the game Supreme Commander: Forged Alliance.  It is required to demonstrate proof of ownership ([for legal reasons](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), as well as to reduce smurfing).  If you own a retail version of the game, but don't have it on steam, you should be able to [use your CD key to redeem a licence on Steam for free](https://help.steampowered.com/en/faqs/view/0e71-0971-324a-1161).  However, [the GOG version of the game is not supported at this time](https://forum.faforever.com/topic/281/i-bought-forged-alliance-but-not-on-steam-can-i-still-play-on-faf).  Once you have the game (Supreme Commander: Forged Alliance) in your steam library, you can [link your account to steam](https://www.faforever.com/account/link) (your steam profile will temporarily need to be set to public for this to work, but you can hide it again afterwards).  If you have concerns about this process, you can read [the technical explanation of why it's safe](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), and you can also note that FAF has an active community that can answer questions, FAF has existed for over a decade, FAF has had hundreds of thousands of users, and the FAF Association is a non-profit organization.  
+
 ## How can I get better at the game and or improve my rating?
 You can check out [these helpful resources](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf), learn from people in the [#gameplay-and-training channel on the FAF Discord](https://discord.gg/VzZgSZFwuX), and or contact [a trainer](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
 
@@ -50,4 +54,4 @@ You can check out the [help section](https://forum.faforever.com/category/4/i-ne
 If you haven't already done so, you can [download and install the FAF client](https://faforever.com/client), make an account, and log into your account on the FAF client. There is a Maps tab and a Mods tab near the top of the FAF client. You can browse, search for, and download maps and mods on those tabs.
 
 ## Where can I find answers to other frequently asked questions?
-Check out [this section of the forums](https://forum.faforever.com/category/18/frequently-asked-questions).
+You can check out [the FAF forums' FAQ section](https://forum.faforever.com/category/18/frequently-asked-questions) and [the FAF wiki's FAQ section](https://wiki.faforever.com/en/FAQ).
