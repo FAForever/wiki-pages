@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-05-06T17:53:49.253Z
+date: 2022-05-09T11:39:38.220Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -26,10 +26,10 @@ These are the current Team Leaders:
 	>	**Rowey**
 
 - **FAF Live Team Leader:**
-	> **TBD**
+	> **FtXCommando**
 
 - ![tournament.png](/cos-icons/tournament.png) **Tournament Team Leader:** 
-	>	**TBD**
+	>	**FtXCommando**
   
 - ![matchmaker.png](/cos-icons/matchmaker.png) **Matchmaking Team Leader:** 
 	>	**Archsimkat**
