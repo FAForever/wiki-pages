@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T14:35:09.368Z
+date: 2022-05-09T15:15:27.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -24,6 +24,8 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 * [FAF Forums](https://forum.faforever.com)
 
 * [FAF Wiki Home Page](https://wiki.faforever.com/en/home)
+
+* [FAF Website Home Page](https://www.faforever.com)
 
 * [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
 
