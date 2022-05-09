@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T14:34:00.489Z
+date: 2022-05-09T14:35:09.368Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -30,8 +30,6 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 * If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
 
 * If you want to learn how to make mods, get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
-
-![cool_screenshot_4.jpg](/cool_screenshot_4.jpg)
 
 # Common Questions
 
@@ -62,3 +60,5 @@ If you haven't already done so, you can [download and install the FAF client](ht
 
 ## Where can I find answers to other frequently asked questions?
 You can check out [the FAF forums' FAQ section](https://forum.faforever.com/category/18/frequently-asked-questions) and [the FAF wiki's FAQ section](https://wiki.faforever.com/en/FAQ).
+
+![cool_screenshot_4.jpg](/cool_screenshot_4.jpg)
