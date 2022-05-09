@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T00:55:34.328Z
+date: 2022-05-09T02:33:06.045Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -14,17 +14,17 @@ FAForever is a non-profit organisation whose overall aim is to support the open 
 ---
 # Useful Links
 
-## [Download FAF Client](https://faforever.com/client)
+* [Download FAF Client](https://faforever.com/client)
 
-## [FAF Discord](https://discord.gg/hgvj6Af)
+* [FAF Discord](https://discord.gg/hgvj6Af)
 
-## [FAF Forums](https://forum.faforever.com)
+* [FAF Forums](https://forum.faforever.com)
 
-## [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
+* [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
 
-## If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
+* If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
 
-## If you want to learn how to make mods, get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
+* If you want to learn how to make mods, get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
 
 # Common Questions
 
