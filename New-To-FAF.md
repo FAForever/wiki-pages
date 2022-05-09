@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T00:36:23.521Z
+date: 2022-05-09T00:53:33.446Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -11,7 +11,20 @@ dateCreated: 2022-05-09T00:09:41.949Z
 # What is FAF?
 FAForever is a non-profit organisation whose overall aim is to support the open and continued development of the game Supreme Commander: Forged Alliance Forever. When people say FAF, they may mean the [FAF Association](https://forum.faforever.com/topic/2347/what-is-the-association), the FAF client, the game itself, or the community of FAF players.
 
+---
+# Useful Links
 
+## [Download FAF Client](https://faforever.com/client)
+
+## [FAF Discord](https://discord.gg/hgvj6Af)
+
+## [FAF Forums](https://forum.faforever.com)
+
+## [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
+
+## Mapping - Get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
+
+## Modding - Get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
 
 # Common Questions
 
