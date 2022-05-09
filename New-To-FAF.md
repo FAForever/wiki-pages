@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T14:28:43.070Z
+date: 2022-05-09T14:33:30.522Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -63,4 +63,4 @@ If you haven't already done so, you can [download and install the FAF client](ht
 ## Where can I find answers to other frequently asked questions?
 You can check out [the FAF forums' FAQ section](https://forum.faforever.com/category/18/frequently-asked-questions) and [the FAF wiki's FAQ section](https://wiki.faforever.com/en/FAQ).
 
-![cool_screenshot_1.jpg](/images/cool_screenshot_2.jpg)
+![cool_screenshot_1.jpg](/images/cool_screenshot_5.jpg)
