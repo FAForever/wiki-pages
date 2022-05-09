@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T02:42:01.977Z
+date: 2022-05-09T02:51:21.521Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -18,6 +18,8 @@ FAForever is a non-profit organisation whose overall aim is to support the open 
 * [FAF Discord](https://discord.gg/hgvj6Af)
 
 * [FAF Forums](https://forum.faforever.com)
+
+* [FAF Wiki Home Page](https://wiki.faforever.com/en/home)
 
 * [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
 
