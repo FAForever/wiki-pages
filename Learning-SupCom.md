@@ -2,17 +2,17 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-09T23:54:21.293Z
+date: 2022-05-09T23:56:12.160Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
 
-# Getting Started
+## Getting Started
 
 If you need information on how to set up Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
 
-### Learning Basic Game Mechanics
+## Learning Basic Game Mechanics
 
 [Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
 
