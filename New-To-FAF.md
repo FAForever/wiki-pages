@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T00:53:33.446Z
+date: 2022-05-09T00:55:34.328Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -22,9 +22,9 @@ FAForever is a non-profit organisation whose overall aim is to support the open 
 
 ## [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
 
-## Mapping - Get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
+## If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
 
-## Modding - Get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
+## If you want to learn how to make mods, get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
 
 # Common Questions
 
