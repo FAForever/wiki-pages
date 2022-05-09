@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-09T21:16:48.027Z
+date: 2022-05-09T22:28:23.901Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -27,7 +27,24 @@ There are also some mods integrated directly into FAF, which can be found [here]
 
 ## What is Steam link, why is it required, and how do I do it?
 
-Steam link can be thought of as a one-time verification tool that allows us to make sure you own a legal copy of the game Supreme Commander: Forged Alliance.  It is required to demonstrate proof of ownership ([for legal reasons](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), as well as to reduce smurfing).  If you own a retail version of the game, but don't have it on Steam, you should be able to [use your CD key to redeem a licence on Steam for free](https://help.steampowered.com/en/faqs/view/0e71-0971-324a-1161).  However, [the GOG version of the game is not supported at this time](https://forum.faforever.com/topic/281/i-bought-forged-alliance-but-not-on-steam-can-i-still-play-on-faf) (if you only own the GOG version of the game, you may want to [purchase it via Steam](https://store.steampowered.com/app/9420) to play on FAF).  Once you have the game (Supreme Commander: Forged Alliance) in your Steam library, you can [link your account to Steam](https://www.faforever.com/account/link) (your Steam profile will temporarily need to be set to public for this to work, but you can hide it again afterwards).  If you have concerns about this process, you can read [the technical explanation of why it's safe](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), and you can also note that FAF has an active community that can answer questions, FAF has existed for over a decade, FAF has had hundreds of thousands of users, and the FAF Association is a non-profit organization.  
+Steam link can be thought of as a one-time verification tool that allows us to make sure you own a legal copy of the game Supreme Commander: Forged Alliance.  It is required to demonstrate proof of ownership ([for legal reasons](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), as well as to reduce smurfing).  If you own a retail version of the game, but don't have it on Steam, you should be able to [use your CD key to redeem a licence on Steam for free](https://help.steampowered.com/en/faqs/view/0e71-0971-324a-1161).  However, [the GOG version of the game is not supported at this time](https://forum.faforever.com/topic/281/i-bought-forged-alliance-but-not-on-steam-can-i-still-play-on-faf) (if you only own the GOG version of the game, you may want to [purchase it via Steam](https://store.steampowered.com/app/9420) to play on FAF).  Once you have the game (Supreme Commander: Forged Alliance) in your Steam library, you can [link your account to Steam](https://www.faforever.com/account/link) (your Steam profile and games list will temporarily need to be [set to public](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276) for this to work, but you can hide them again afterwards).  If you have concerns about this process, you can read [the technical explanation of why it's safe](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), and you can also note that FAF has an active community that can answer questions, FAF has existed for over a decade, FAF has had hundreds of thousands of users, and the FAF Association is a non-profit organization.
+
+Common solutions to problems setting up Steam link:
+
+* Double check that you used the correct Steam account that owns the game (and that you didn't automatically log in to the wrong account)
+
+* Double check that you set both the Steam profile and its games list to public (make sure you check both)
+
+* Double check that the game Supreme Commander: Forged Alliance (it must include Forged Alliance in the game name) is in the correct Steam library and owned by the correct Steam account
+
+* Log out and then log back in with both your FAF account and your Steam account
+
+*  If you already completed the Steam link process, make sure that you log in to the FAF account that you made the Steam link with (and not a different one that you made but didn't make the Steam link with)
+
+If you experience issues setting up Steam link, you can ask for help in the  [#technical-help channel in the FAF Discord](https://discord.gg/rvfaGTpNbK) and or in the [help section of the forums](https://forum.faforever.com/category/4/i-need-help).
+
+[Setting your Steam profile and games list to public:
+![set to public.png](/assets/uploads/files/1652134153739-set-to-public.png)](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276)
 
 ## Installing Mods
 
