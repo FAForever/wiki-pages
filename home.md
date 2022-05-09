@@ -2,13 +2,15 @@
 title: Main Page
 description: 
 published: true
-date: 2022-05-08T23:25:38.159Z
+date: 2022-05-09T20:14:28.360Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
 ---
 
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
+
+## [New To FAF? - Start Here](https://wiki.faforever.com/en/New-To-FAF)
 
 ## FAF Client
 <table>
