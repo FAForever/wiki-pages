@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-09T23:56:12.160Z
+date: 2022-05-10T00:05:04.356Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -50,7 +50,7 @@ If you need information on how to set up Supreme Commander: Forged Alliance and 
 
 [Gameplay and Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
 
-### Reference materials and detailed game mechanics
+## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 - For an overview of the factions in Supreme Commander visit: [Faction Information](/Learning/Faction-Information)
 - To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](/Learning/Adjacency-Bonus)
@@ -60,18 +60,9 @@ This section is for specific information on units, game mechanics and other fact
 - To view specific info about tactical and strategic missiles, visit: [Missiles](/Learning/Missiles)
 - Capacity of several air transports: [Air Transport](/Learning/Air-Transport)
 
-## Tutorial Videos
+- The [SupCom Wiki](http://supcom.wikia.com/wiki/Main_Page) is a comprehensive resource about Supreme Commander, however it is out of date and does not contain accurate values.
 
-### Basics
-
-Playlist of tutorials created by Colonel Sheppard - [link here](http://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0).
-As you can notice some of the videos are not mentioned below, that is because they are outdated also here you can find some new ones that aren't in that playlist. What you can find there:
-
-**Game Mechanics:** [Playlist of Videos](https://youtube.com/playlist?list=PL0nxuIUIjpFtqrviMFar6WIi3aUYbH_JW)
-
-**Unit Presentation:** [Playlist of Videos](https://youtube.com/playlist?list=PL0nxuIUIjpFvick5J104tWlbRyTBLGDXn)
-
-### Advanced Tutorials
+## Additional Tutorials
 
 <table>
 <tbody>
@@ -120,27 +111,3 @@ As you can notice some of the videos are not mentioned below, that is because th
 </tbody>
 </table>
 
-## Replay Analysis
-
-It's always the same, you lost a game and you are asking yourself: Why? Why have I lost? You are looking at the [replay](/Replays-&-Live-Games) again and again, but there is no answer ...
-
-FAF offers Replay Analysis avalable in #gameplay-and-training channel on the FAF Discord all other players who will like to help, will try to have a look on your replay and give you a feedback about your game.
-
-## Other Help
-
-While this wiki aims to offer a complete and detailed overview of
-playing Supreme Commander, updated to the lates information and FAF
-patches, these other resources may be usefull in offering a different
-persective on the game, helping you gain a deeper understanding of it.
-
-
-### Replays
-To install replays: On the top right of the FAF client, options ->     show paths -> show replays folder -> drag the replay file into this     folder. The replay will then appear in the replays tab under local     archive.
-
-### External Guides
-
-There are a number of guides not on this wiki, here are a few of them.
-They mainly provide introductive information, and some could be
-outdated, but they can be usefull nonetheless.
-
-- The [SupCom Wiki](http://supcom.wikia.com/wiki/Main_Page) is a comprehensive resource about Supreme Commander, however it is out of date and does not contain accurate values.
