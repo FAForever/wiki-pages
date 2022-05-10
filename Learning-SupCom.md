@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-10T00:05:04.356Z
+date: 2022-05-10T00:16:01.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -12,7 +12,11 @@ dateCreated: 2021-12-30T20:32:41.077Z
 
 If you need information on how to set up Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
 
+If you want to know what is different compared to the Steam version of SC:FA, you can read [this](https://wiki.faforever.com/en/Changes-from-steam).
+
 ## Learning Basic Game Mechanics
+
+If you're new to the Supreme Commander or haven't played in a long time, you may want to check out any or all of the links in this section.
 
 [Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
 
@@ -23,6 +27,8 @@ If you need information on how to set up Supreme Commander: Forged Alliance and 
 [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance) - 3817 words
 
 ## Improving Your Gameplay
+
+If you know the basics of the game and are looking to improve your gameplay, you may want to check out any or all of the links in this section (whether you're a new player or a pro, these resources could help you to improve).
 
 [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365) - 1,816 words
 
@@ -46,9 +52,11 @@ If you need information on how to set up Supreme Commander: Forged Alliance and 
 
 ## Getting Gameplay Advice From Others
 
-[Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - list of trainers
+If you're confused, or stuck in a rut, or you want help from others, you could benefit from some trainers' advice.  Replay analysis is often available upon request as well.
 
 [Gameplay and Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
+
+[Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - a list of trainers
 
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
