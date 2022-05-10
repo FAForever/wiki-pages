@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-10T00:21:33.289Z
+date: 2022-05-10T12:47:02.662Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -22,7 +22,7 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 
 [FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words
 
-[Unit Micro](/Learning/Unit-Micro) - 4404 words
+[Unit Micro - How to control your units](/Learning/Unit-Micro) - 4404 words
 
 [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance) - 3817 words
 
