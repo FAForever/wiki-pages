@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-10T00:16:01.083Z
+date: 2022-05-10T00:21:33.289Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -10,13 +10,13 @@ dateCreated: 2021-12-30T20:32:41.077Z
 
 ## Getting Started
 
-If you need information on how to set up Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
+If you need information on how to set up Supreme Commander: Forged Alliance (SC:FA) and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
 
 If you want to know what is different compared to the Steam version of SC:FA, you can read [this](https://wiki.faforever.com/en/Changes-from-steam).
 
 ## Learning Basic Game Mechanics
 
-If you're new to the Supreme Commander or haven't played in a long time, you may want to check out any or all of the links in this section.
+If you're new to Supreme Commander or haven't played in a long time, you may want to check out any or all of the links in this section.
 
 [Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
 
