@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-09T22:24:55.973Z
+date: 2022-05-10T00:17:55.066Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -27,7 +27,7 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 
 * [FAF Website Home Page](https://www.faforever.com)
 
-* [Learn How To Play FAF Better](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf)
+* [Learn How To Play FAF & Get Better](https://wiki.faforever.com/en/Learning-SupCom)
 
 * If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
 
@@ -40,7 +40,7 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 Steam link can be thought of as a one-time verification tool that allows us to make sure you own a legal copy of the game Supreme Commander: Forged Alliance.  It is required to demonstrate proof of ownership ([for legal reasons](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), as well as to reduce smurfing).  If you own a retail version of the game, but don't have it on Steam, you should be able to [use your CD key to redeem a licence on Steam for free](https://help.steampowered.com/en/faqs/view/0e71-0971-324a-1161).  However, [the GOG version of the game is not supported at this time](https://forum.faforever.com/topic/281/i-bought-forged-alliance-but-not-on-steam-can-i-still-play-on-faf) (if you only own the GOG version of the game, you may want to [purchase it via Steam](https://store.steampowered.com/app/9420) to play on FAF).  Once you have the game (Supreme Commander: Forged Alliance) in your Steam library, you can [link your account to Steam](https://www.faforever.com/account/link) (your Steam profile and games list will temporarily need to be [set to public](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276) for this to work, but you can hide them again afterwards).  If you have concerns about this process, you can read [the technical explanation of why it's safe](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), and you can also note that FAF has an active community that can answer questions, FAF has existed for over a decade, FAF has had hundreds of thousands of users, and the FAF Association is a non-profit organization.  If you need more help setting up Steam link, [click here](https://forum.faforever.com/topic/3800/what-is-steam-link-why-is-it-required-and-how-do-i-do-it).
 
 ## How can I get better at the game and or improve my rating?
-You can check out [these helpful resources](https://forum.faforever.com/topic/1924/helpful-links-for-learning-how-to-improve-at-faf), learn from people in the [#gameplay-and-training channel on the FAF Discord](https://discord.gg/VzZgSZFwuX), and or contact [a trainer](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
+You can check out [these helpful resources](https://wiki.faforever.com/en/Learning-SupCom), learn from people in the [#gameplay-and-training channel on the FAF Discord](https://discord.gg/VzZgSZFwuX), and or contact [a trainer](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
 
 ## How can I talk with people on FAF?
 You can join the [FAF Discord](https://discord.gg/hgvj6Af) and talk with people there (you can also message people via the [FAF forums](https://forum.faforever.com) and via the FAF client). A lot of people check the FAF Discord frequently. So, if you join one of the general voice channels on there, you'll likely get some company in not too long. You can also ask people in-game or in-lobby with you if they want to talk on Discord. People often say yes.
