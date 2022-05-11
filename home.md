@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-05-09T20:22:15.613Z
+date: 2022-05-11T10:28:40.876Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -163,7 +163,3 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tr>
 </tbody>
 </table>
-
-
-
-**Please Note: Currenly the FAF Login does not work if you would like to help and contribute to the wiki please contact the Promotions Team [here](https://discord.gg/YdGN2aESTQ)**
