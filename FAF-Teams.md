@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-05-09T11:39:38.220Z
+date: 2022-05-13T15:02:24.849Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -264,6 +264,11 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 ### Balance Team
 
+#### Team Lead
+- Tagada
+#### Team Members
+- Tagada
+
 ### Game Team
 #### Team Members:
 - Jip
@@ -326,6 +331,7 @@ The election uses approval voting. This means that the person with the most appr
 - LegionDarrath
 - Macronoob
 - maudlin27
+- Nemir
 - Resistance
 - Swkoll
 - Tex
@@ -335,7 +341,6 @@ The election uses approval voting. This means that the person with the most appr
 - Apofenas
 - Medicraze
 - NarNerdPower
-- Nemir
 - Viking
 #### Policies:
 #### Moderation Team Lead
