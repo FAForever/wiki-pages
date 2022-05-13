@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-05-13T15:02:24.849Z
+date: 2022-05-13T15:02:48.863Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -35,7 +35,7 @@ These are the current Team Leaders:
 	>	**Archsimkat**
 
 - ![balance.png](/cos-icons/balance.png) **Balance Team Leader:** 
-	>	**JaggedAppliance**
+	>	**Tagada**
 
 - ![game.png](/cos-icons/game.png) **Games Team Leader:** 
 	>	**Jip**
