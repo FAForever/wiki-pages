@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-05-13T15:02:48.863Z
+date: 2022-05-17T11:25:42.015Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -19,8 +19,8 @@ These are the current Team Leaders:
 - ![trainer.png](/cos-icons/trainer.png) **Trainer Team Leader** 
 	> **Inspektor_Kot** (Secondary: **HintHunter**)
 
-- ![community.png](/cos-icons/community.png) **Community Team Leader** 
-	> **TBA**
+- ![community.png](/cos-icons/community.png) **Community Manager** 
+	> **Deribus**
 
 - ![promo.png](/cos-icons/promo.png) **Promotions Team Leeader:** 
 	>	**Rowey**
