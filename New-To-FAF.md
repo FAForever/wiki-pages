@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-05-21T11:55:21.939Z
+date: 2022-05-21T13:18:57.677Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -55,7 +55,7 @@ FAF provides integrated mod support, better AI's, multiplayer campaign missions,
 You can join 'All Welcome' games, host a game yourself, or play on the matchmaker. Playing rated games and winning some will help you build your rating, and getting a higher rating will enable you to join even more games.
 
 ## How can I tell if a game is rated?
-You can check out [this link](https://forum.faforever.com/topic/272/why-was-game-x-not-rated?_=1644593448265). It lists the things that can make games unrated. If there is nothing that makes a game unrated, it is rated.
+You can check out [this link](https://forum.faforever.com/topic/272/why-was-game-x-not-rated?_=1644593448265) to see the things that can make games unrated. If there is nothing that makes a game unrated, it is rated.
 
 ## How can I get cool new maps and mods from FAF?
 If you haven't already done so, you can [download and install the FAF client](https://faforever.com/client), make an account, and log into your account on the FAF client. There is a Maps tab and a Mods tab near the top of the FAF client. You can browse, search for, and download maps and mods on those tabs.
