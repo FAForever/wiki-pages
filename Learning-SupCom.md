@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-21T12:51:00.944Z
+date: 2022-05-21T13:08:08.129Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -79,14 +79,14 @@ This section is for specific information on units, game mechanics and other fact
 <ul>
 <li><a href="https://www.youtube.com/watch?v=bgdtF63mkvA&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=4">Micro Overview Video</a></li>
 <li><a href="https://www.youtube.com/watch?v=OFfThjfIC30">Basic Land micro: How to dodge correctly</a></li>
-<li><a href="https://www.youtube.com/watch?v=7MVmqyORsKI">Unit blocking</a> <a href="https://www.youtube.com/watch?v=Llm1HHmJp9E&amp;list=PLxH0oefiZR_W8xpoGh3DbGQH9_ezdV3B-&amp;index=1">Construction Site Block</a></li>
-<li><a href="https://www.youtube.com/watch?v=nJM8OZYllq4">T3 Air (ASF Micro)</a></li>
-<li><a href="https://youtu.be/dkDQd5EsvdA">Hoverbombing Strats</a></li>
+<li><a href="https://www.youtube.com/watch?v=yXOVsI-I5P8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=3">Map Control</a></li>
+<li><a href="https://www.youtube.com/watch?v=tzv7nOH-IrY">How to counter: Early Air</a></li>
+<li><a href="https://www.youtube.com/watch?v=TMosOhCkf-g">How to deal with T2 Turtles</a></li>
+<li><a href="https://www.youtube.com/watch?v=7MVmqyORsKI">Unit Blocking</a></li>
+<li><a href="https://www.youtube.com/watch?v=Llm1HHmJp9E&amp;list=PLxH0oefiZR_W8xpoGh3DbGQH9_ezdV3B-&amp;index=1">Construction Site Block</a></li>
 <li><a href="https://youtu.be/w7VSbf_Lxmw?t=2m20s">General Air Micro</a></li>
 <li><a href="https://www.youtube.com/watch?v=H5fLQ9quSXw">Tips &amp; Tricks</a></li>
-<li><a href="https://www.youtube.com/watch?v=Z05hNoPpE_A">Self Destruct</a></li>
 <li><a href="https://www.youtube.com/watch?v=m22CnQ90m6M">TML Blocking</a></li>
-<li><a href="https://www.youtube.com/watch?v=yXOVsI-I5P8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=3">Map Control</a></li>
 </ul></td>
 <td><h4 id="build_orders_anything_that_uses_ras_is_outdated">Build Orders</h4>
 <ul>
@@ -100,9 +100,10 @@ This section is for specific information on units, game mechanics and other fact
 </ul></td>
 <td><h4 id="specific_units">Specific Units</h4>
 <ul>
+<li><a href="https://www.youtube.com/watch?v=nJM8OZYllq4">T3 Air (ASF Micro)</a></li>
+<li><a href="https://youtu.be/dkDQd5EsvdA">Hoverbombing Strats</a></li>
 <li><a href="https://www.youtube.com/watch?v=V-blUZq8Jts">Selens (Seraphim T1 Scouts)</a></li>
-<li><a href="https://www.youtube.com/watch?v=tzv7nOH-IrY">How to counter: Early Air</a></li>
-<li><a href="https://www.youtube.com/watch?v=TMosOhCkf-g">How do deal with T2 Turtles</a></li>
+<li><a href="https://www.youtube.com/watch?v=Z05hNoPpE_A">ACU Self Destruct</a></li>
 <li><a href="https://youtu.be/6JKtn5oB2ag">Fire Beetles</a></li>
 <li><a href="https://www.youtube.com/watch?v=xcYBCiTfO0w&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=2">Sprite Strikers (Illuminate Sniper Bots)</a></li>
 <li><a href="https://www.youtube.com/watch?v=xjSVmgvq_kw&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=1">T3 Stationary Arty Base Design</a></li>
