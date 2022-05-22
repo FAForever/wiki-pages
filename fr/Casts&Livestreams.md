@@ -2,10 +2,10 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2021-09-08T09:03:01.808Z
+date: 2022-05-22T14:22:49.693Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:42:23.244Z
+dateCreated: 2021-12-24T23:48:47.601Z
 ---
 
 FAF over the last few years has had a lot of content creators both on youtube and on Twitch.
@@ -103,7 +103,7 @@ https://www.youtube.com/c/dimatularus
 High level 1vs1, Tournament POV
 
 **Yuri**
-https://www.youtube.com/user/SuperYourassik
+youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w
 Casting
 
 **Lenkin**
