@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2021-12-28T14:42:28.620Z
+date: 2022-05-22T14:25:52.282Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T00:00:35.754Z
@@ -108,7 +108,7 @@ https://www.youtube.com/c/dimatularus
 Высокий уровень 1на1, Турниры от первого лица
 
 **Yuri**
-https://www.youtube.com/user/SuperYourassik
+youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w
 Кастинг
 
 **Lenkin**
