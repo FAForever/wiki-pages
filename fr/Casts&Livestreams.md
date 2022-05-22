@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2022-05-22T14:22:49.693Z
+date: 2022-05-22T14:36:21.416Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-24T23:48:47.601Z
@@ -103,7 +103,7 @@ https://www.youtube.com/c/dimatularus
 High level 1vs1, Tournament POV
 
 **Yuri**
-youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w
+https://www.youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w
 Casting
 
 **Lenkin**
