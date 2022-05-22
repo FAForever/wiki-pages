@@ -2,7 +2,7 @@
 title: Host-and-join-games
 description: 
 published: true
-date: 2022-05-22T15:04:47.833Z
+date: 2022-05-22T15:05:08.520Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-24T23:50:17.023Z
@@ -50,5 +50,5 @@ Une vaste selection d'option vous y attend.
 2) - Le mot de passe vous permet de restraindre ceux qui peuvent vous joindre
 3) - Le type de partie que vous voullez
 4) - Les mods UI ou SIM que vous voullez
-5) - La map désirez
+5) - La map désirée
 6) - Si vous voullez une [Map Generator](/Map-Gen) pour une carte aléatoire
