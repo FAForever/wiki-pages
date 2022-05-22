@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2022-03-01T23:49:52.057Z
+date: 2022-05-22T14:21:38.225Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:23.244Z
@@ -42,7 +42,7 @@ Any Name that is in Italic are Semi-Active
 | [**FAF   Putin**](https://www.twitch.tv/faf_putin) | ***Kite*** | [***ZLO***](https://www.youtube.com/c/dimatularus) |
 | High-level   Team games | [Twitch](https://www.youtube.com/channel/UCyHa5gFhQLimAGALlvpdcgQ) and [YouTube](https://www.twitch.tv/wild_kite) High-level Team games | High level 1vs1, Tournament POV |
 |  |   |  |
-| [**Yuri**](https://www.youtube.com/user/SuperYourassik) | [**Lenkin**](https://www.youtube.com/channel/UCHWXYe53iUoYzcS7VVU2G2Q) | [**lilSidlil**](https://www.youtube.com/channel/UCTZuqvolYjU2IaSvOxDxiUA) |
+| [**Yuri**](youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w) | [**Lenkin**](https://www.youtube.com/channel/UCHWXYe53iUoYzcS7VVU2G2Q) | [**lilSidlil**](https://www.youtube.com/channel/UCTZuqvolYjU2IaSvOxDxiUA) |
 | Casting | High-level Team games | High-level Team games |
 |  |   |  |
 | [**Demon   Streamer**](https://www.youtube.com/channel/UCYZHE9As1Fqclgd-BPa2wpQ) | [**Robogear**](https://www.youtube.com/channel/UC6tdk6AOO32dY62wI022eCg) | [**Paralon**](https://www.youtube.com/channel/UC2T1-svpdE823nn3O0dlIZg) |
