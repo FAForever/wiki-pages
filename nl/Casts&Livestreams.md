@@ -2,7 +2,7 @@
 title: Casts & Livestreams
 description: 
 published: true
-date: 2022-05-22T14:24:23.451Z
+date: 2022-05-22T14:37:29.703Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-24T23:54:40.164Z
@@ -42,7 +42,7 @@ Elke naam die cursief is, is semi-actief
 | [**FAF   Putin**](https://www.twitch.tv/faf_putin) | [***Kite***](twitch.tv/kite_faf) | [***ZLO***](https://www.youtube.com/c/dimatularus) |
 | Teamspellen op hoog niveau | Teamspellen op hoog niveau | Hoog niveau 1vs1, Toernooi POV |
 |  |   |  |
-| [**Yuri**](youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w) | [**Lenkin**](https://www.youtube.com/channel/UCHWXYe53iUoYzcS7VVU2G2Q) | [**lilSidlil**](https://www.youtube.com/channel/UCTZuqvolYjU2IaSvOxDxiUA) |
+| [**Yuri**](https://www.youtube.com/channel/UCKucg78eVWN8ud_6dF-9D5w) | [**Lenkin**](https://www.youtube.com/channel/UCHWXYe53iUoYzcS7VVU2G2Q) | [**lilSidlil**](https://www.youtube.com/channel/UCTZuqvolYjU2IaSvOxDxiUA) |
 | Caster | Teamspellen op hoog niveau | Teamspellen op hoog niveau |
 |  |   |  |
 | [**Demon   Streamer**](https://www.youtube.com/channel/UCYZHE9As1Fqclgd-BPa2wpQ) | [**Robogear**](https://www.youtube.com/channel/UC6tdk6AOO32dY62wI022eCg) | [**Paralon**](https://www.youtube.com/channel/UC2T1-svpdE823nn3O0dlIZg) |
