@@ -2,72 +2,75 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-10-14T17:38:23.004Z
+date: 2022-05-23T21:49:25.532Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:44:14.939Z
+dateCreated: 2021-12-24T23:45:31.346Z
 ---
 
-# Map Vault
-In the map vault, you will find every map available for Forged Alliance. All maps downloaded via map vault are saved in this folder:
+# Karte Tresor
+Im Kartentresor finden Sie alle für Forged Alliance verfügbaren Karten. Alle über den Kartentresor heruntergeladenen Karten werden in diesem Ordner gespeichert:
 `C:\Users\%UserName%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Maps`
 
 ![mapvault.png](/mapvault.png)
-### 1 Map Search query
-You can search for a map by the following Using the filtered Search
+### 1 Karte Suchanfrage
+Sie können nach einer Karte suchen, indem Sie die gefilterte Suche verwenden
 - Name
-- Author
-- Upload Date
-- Width
-- Height
-- Max Players: to
+- Autor
+- Datum des Hochladens
+- Breite
+- Höhe
+- Maximale Spieler 
 
-This Allows you to filter down to the specific maps you are looking for.
+So können Sie die gesuchten Karten herausfiltern.
 ### 2 Manage Installed Maps
 ![installedmaps.png](/installedmaps.png)
 
-This pop up when you click the button allows you to look down the list and any maps you no longer want you just click on the bin icon next to it and the map is uninstalled.
-### 3 Uploading Maps
-For Information Uploading Maps please check out the Rule's [Here](https://forums.faforever.com/viewtopic.php?f=2&t=17873)
+Wenn Sie auf die Schaltfläche klicken, erscheint ein Pop-up-Fenster, in dem Sie die Liste durchsehen können. Wenn Sie eine Karte nicht mehr benötigen, klicken Sie einfach auf das Mülleimersymbol neben der Karte, und die Karte wird deinstalliert.
+### 3 Hochladen von Karten
+Informationen zum Hochladen von Karten finden Sie in der Regel [Hier](https://forums.faforever.com/viewtopic.php?f=2&t=17873)
 
-### 4 Map Info
-Here you can see Some basic Information about the map
-- Name of the Map
-- Preview Image of the map
-- Map Creator
-- How many people it supports
-- Map Size
-- How many Downloads
-- Map Review Ranking
-### 5. Downloading Maps
-To Download left click on the map. Here you will get a new Window open.
+### 4 Karten-Infos
+Hier können Sie einige grundlegende Informationen über die Karte sehen
+- Name der Karte
+- Vorschaubild der Karte
+- Schöpfer der Karte
+- Wie viele Menschen sie unterstützt
+- Karte Größe
+- Wie viele Downloads
+- Rangliste der Kartenüberprüfung
+### 5. Herunterladen von Karten
+Zum Herunterladen klicken Sie mit der linken Maustaste auf die Karte. Hier wird ein neues Fenster geöffnet.
 ![mappreview.png](/mappreview.png)
-In the top right-hand corner of this window, you have the option to Install the Map. Once you click that you can then click on the Create Game Button and it will set you up a game with that map selected.
-# Mod Vault
-The Mod vault is a feature in the FAF lobby which allows you to easily find and manage mods for Forged Alliance. Mods are saved in this folder:
+In der oberen rechten Ecke dieses Fensters haben Sie die Möglichkeit, die Karte zu installieren. Wenn Sie darauf klicken, können Sie auf die Schaltfläche "Spiel erstellen" klicken, um ein Spiel mit der ausgewählten Karte zu erstellen.
+# Mod Tresor
+Der Mod-Tresor ist eine Funktion in der FAF-Lobby, mit der ihr Mods für Forged Alliance leicht finden und verwalten könnt. Mods werden in diesem Ordner gespeichert:
 `C:\Users\%UserName%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Mods`
-If your username have uncorrect symbols, mods will be saved instead in:
+Wenn Ihr Benutzername unkorrekte Symbole enthält, werden Mods stattdessen in gespeichert:
 `C:\ProgramData\FAForever\user\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Mods`
-## Usage
+## Verwendung
 ![modvault.png](/modvault.png)
-It can be accessed through the "Vaults" tab in the lobby and contains a large number of mods.
-To find a mod, simply type in its name into the search bar, and if it doesn't appear, press the "Server Search" button which will look through the whole mod list.
+Er kann über die Registerkarte "Vaults" in der Lobby erreicht werden und enthält eine große Anzahl von Mods.
+Um eine Mod zu finden, geben Sie einfach ihren Namen in die Suchleiste ein. Wenn sie nicht erscheint, drücken Sie die Schaltfläche "Serversuche", um die gesamte Mod-Liste zu durchsuchen.
 
-### Managing Mods
-There are two types of mods; Sim mods and UI mods.
+### Mods verwalten
+Es gibt zwei Arten von Mods: Sim-Mods und UI-Mods.
 
-Click on Manage Active Mods Button to open the selection.
-You can select from the top UI or SIM. As long as the Mod is highlighted in blue it is selected.
+Klicken Sie auf die Schaltfläche Manage Active Mods, um die Auswahl zu öffnen.
+Sie können aus dem oberen UI oder der SIM auswählen. Solange die Mod blau hervorgehoben ist, ist sie ausgewählt.
 ![active-mod-manager.png](/active-mod-manager.png)
 
-## Mod Types
+## Mod-Typen
 ## {.tabset}
 ### UI Mods
 
-[UI mods](/Game-Modifications-(Mods)#UI-Mods) are mods that are activated on a per-person basis and have no effect on other players in the game. As the name implies, they are usually changes and enhancements to the UI and can make playing the game easier. UI mods should never make a game unrated.
+[UI mods](/Game-Modifications-(Mods)#UI-Mods) sind Mods, die pro Person aktiviert werden und keine Auswirkungen auf andere Spieler im Spiel haben. Wie der Name schon sagt, handelt es sich in der Regel um Änderungen und Erweiterungen der Benutzeroberfläche, die das Spielen erleichtern können. UI-Mods sollten ein Spiel niemals unbewertet lassen.
 
 ### SIM Mods
 
-[Sim mods](/Game-Modifications-(Mods)#Sim-Mods) are mods that affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game, such as [The Nomads](The-Nomads) and [Black Ops](BlackOps). Most Sim mods make a game unrated. See [When is the gamerated?](Global-Ranking#When-is-the-game-rated.3F)
+[Sim mods](/Game-Modifications-(Mods)#Sim-Mods) sind Mods, die das Spiel selbst beeinflussen und pro Spiel aktiviert werden. Sie reichen von einfachen Mods, die einen oder zwei Werte anpassen, bis hin zu Überarbeitungen des Spiels, wie z. B. [The Nomads](The-Nomads) und [Black Ops](BlackOps). Die meisten Sim-Mods machen ein Spiel unbewertet. Siehe [Wann ist der Gamerated?](Global-Ranking#When-is-the-game-rated.3F)
+
+
+Note: Page Translated Via DeepL So translation may be off.
 
 
