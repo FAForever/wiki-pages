@@ -2,7 +2,7 @@
 title: NewsHub
 description: 
 published: true
-date: 2022-05-23T21:53:22.988Z
+date: 2022-05-23T21:54:25.741Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:44:39.374Z
@@ -65,3 +65,5 @@ Sie können eigentlich jede Höhe haben, aber die von mir angegebene Höhe ist e
 >
 >Für jede Anfrage zur Veröffentlichung von Nachrichten können Sie das Google-Formular Anfrage verwenden [link](https://forms.gle/y9jyPLiWHr9ELXrk9)
 {.is-info}
+
+Note: Translated with DeepL so may be off
