@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-21T12:00:27.930Z
+date: 2022-05-29T18:58:52.824Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -77,7 +77,7 @@ Try to run the client
 ~/faf/faf-client-2022.4.1/faf-client
 ```
 
-Note the minimum required JVM version in the error message
+Note the minimum required JVM version in the error message. This may be different depending on the client version you are installing.
 ```
 No suitable Java Virtual Machine could be found on your system.
 The version of the JVM must be at least 17.
@@ -98,7 +98,8 @@ vim ~/.local/share/applications/faf-client.desktop
 Name=FAF
 Version=v2022.4.1
 Type=Application
-Exec=bash -c "cd ~/faf/faf-client-2022.4.1; INSTALL4J_JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./faf-client"Comment=Forged Alliance Forever Client
+Exec=bash -c "cd ~/faf/faf-client-2022.4.1; INSTALL4J_JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./faf-client"
+Comment=Forged Alliance Forever Client
 Icon=~/.local/share/icons/faf.png
 ```
 
@@ -144,4 +145,4 @@ cp /tmp/proton_$USER/run ~/faf/
 ## Other Distros
 There is also this [Video](https://www.youtube.com/watch?v=Rv3ZXA4FNFk) if you need a visial aid.
 
-You will need to adapt step 1 and step 9. If you are unsure please ask on the FAF Discord in #technical-help
+You will need to adapt some of the steps. If you are unsure please ask on the FAF Discord in #linux-support
