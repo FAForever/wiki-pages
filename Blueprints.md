@@ -2,7 +2,7 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-02T17:41:42.414Z
+date: 2022-06-02T17:42:13.603Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
@@ -710,7 +710,7 @@ SizeX, SizeY and SizeZ define the collision box for the unit. The collision box 
 ```lua
 SizeX = 'n',
 ```
-## SizeY
+### SizeY
 SizeX, SizeY and SizeZ define the collision box for the unit. The collision box is used to detect hits on the unit. If you change the model size the collision box should be adapted.
 ```lua
 SizeY = 'n',
