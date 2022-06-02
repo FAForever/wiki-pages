@@ -2,8 +2,8 @@
 title: Blueprint/Weapon
 description: 
 published: true
-date: 2022-06-02T18:05:46.511Z
-tags: 
+date: 2022-06-02T19:50:23.672Z
+tags: modding
 editor: markdown
 dateCreated: 2022-06-02T17:45:53.023Z
 ---
