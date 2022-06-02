@@ -2,7 +2,7 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-02T17:44:09.029Z
+date: 2022-06-02T17:45:31.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
@@ -1024,7 +1024,7 @@ Veteran = {
 
 Weapon define which weapons are attached to a unit and how they are configured. Nearly everything that is needed to make a weapon workable is set under this category (blueprint's category).
 
-Note: The following is just basic information. For more details see [Blueprint/Weapon]()
+Note: The following is just basic information. For more details see [Blueprint/Weapon](/Blueprints/Weapon)
 
 ```lua
 Weapon = {
