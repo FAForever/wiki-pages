@@ -2,19 +2,18 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-02T17:42:13.603Z
+date: 2022-06-02T17:43:41.851Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
 ---
 
-# Blueprint
 A blueprint is a file within Supreme Commander that describes a unit. These are .bp files inside gamedata.scd. Within that file the blueprints are found in a subdirectory of gamedata\units\. For instance, `gamedata\units\UAA0101\UAA0101_unit.bp` is the blueprint for the Aeon T1 Air Scout.
 
-## Blueprint format
+# Blueprint format
 The following is documentation of the contents of a blueprint file. It is valid Lua code. The entire file is a call to UnitBlueprint with a large table. Below is an incomplete list of the fields and their purposes.
 
-### Adjacency
+## Adjacency
 The Adjacency section details [adjacency bonuses](/Learning/Adjacency-Bonus). There are 6 possible types. Each type contains a list of structure sizes and modifiers.
 
 - **EnergyBuildBonus** - Energy consumption reduction, bestowed by energy production facilities.
@@ -52,7 +51,7 @@ Adjacency = {
 },
 ```
 
-### AI
+## AI
 AI information for the unit.
 
 ```lua
@@ -73,7 +72,7 @@ AI = {
 
 ```
 
-### Air
+## Air
 
 Air control information for the unit.
 
@@ -124,7 +123,7 @@ Air = {
 },
 ```
 
-### Audio
+## Audio
 The Audio section describes the sounds that are associated with the unit. There are a large number of triggers for those sounds, listed below. Each trigger is given the result of a call to the Sound function. The Sound function takes three arguments. The first is the name of the bank that contains the sound. The second is the specific sound within that bank. The third is a setting that describes the level of detail at which the sound is played. This ensures that small ambient sounds from individual units aren't heard when the user has zoomed out too far to hear them.
 
 Activate -
@@ -197,27 +196,27 @@ UISelection -
 Unload -
 Unpack -
 
-### AverageDensity
+## AverageDensity
 
 We store average density instead of an absolute mass value (units mass, not economic) so you don't have to change the mass value when the size of the unit changes. The mass is autocalculated via the Size * AverageDensity.
 ```lua
 AverageDensity = 'n', -- Unit average density in tons / m^3 (Default is 0.49).
 ```
-### BlueprintId
+## BlueprintId
 BlueprintId is used for modding an existing blueprint. An example for usage is BlueprintId = 'uel0101' which would be the UEF Land Scout.
 ```lua
 BlueprintId = 'string',
 ```
-### Buffs
+## Buffs
 ```lua
 Regen -- sets the bonus regen per verterancy level
 ```
-### BuildIconSortPriority
+## BuildIconSortPriority
 This is set to an integer that describes the unit's position in the list of build icons.
 
 **BuildIconSortPriority** = '**integer**',
 
-### Categories
+## Categories
 This is a list of capitalized strings that describe categories to which the unit belongs. Many other parts of the game refer to these categories to affect how units interact. For instance, [adjacency bonuses](/Learning/Adjacency-Bonus) only apply to other units that contain the STRUCTURE category. Below is an exhaustive list of categories.
 
 AEON -
@@ -312,24 +311,24 @@ UEF -
 VISIBLETORECON -
 WALL -
 
-### CollisionOffsetX
+## CollisionOffsetX
 Note: The collision offset ones are to move the collision box away from the center of the unit. It's used to extend the collision box of floating units (like engineers) below the water to allow torpedoes to hit them.
 ```lua
 CollisionOffsetX = 'n', -- Offset collision by this much on the X Axis.
 ```
-### CollisionOffsetY
+## CollisionOffsetY
 ```lua
 CollisionOffsetY = 'n', -- Offset collision by this much on the Y Axis.
 ```
-### CollisionOffsetZ
+## CollisionOffsetZ
 ```lua
 CollisionOffsetZ = 'n', -- Offset collision by this much on the Z Axis.
 ```
-### CollisionShape
+## CollisionShape
 ```lua
 CollisionShape = 'string', -- Shape to use for collision db, 'None' for no collision. Allowed shapes: 'None', 'Box'
 ```
-### Defense
+## Defense
 Defense information for the unit.
 ```lua
 Defense = {
@@ -355,12 +354,12 @@ ThreatLevel = 'n', -- Amount of threat this poses to the enemy.
 },
 ```
 
-### Description
+## Description
 This is the description of the unit. For example the description for the UEF tech 1 Tank MA12 Striker is `'<LOC uel0201_desc>Medium Tank'`. `<LOC xxx_desc>` is used for localisation which is defined in the strings_db.lua (in the file loc_XX.scd in the subdirectory \loc\XX\; XX is the shortcut for the localised language). If the localisation part is not set, the description in tags will be used for any language, which would be "Medium Tank" for this example.
 
 **Description** = '**string**',
 
-### Display
+## Display
 Here is anything defined thats needed for visual stuff(?)
 ```lua
 Display = {
@@ -454,7 +453,7 @@ Display = {
     UniformScale = 'n', -- This is the scale of the unit size. This will only change the visual size, when changing this the collision hitbox should be adapted under SizeX, SizeY and SizeZ as well.
 },
 ```
-### Economy
+## Economy
 Economy information for the unit.
 ```lua
     Economy = {
@@ -486,10 +485,10 @@ Economy information for the unit.
     TeleportTimeMod = 'n', -- Multiply by the unit's build time to get the time required to teleport.
 },
 ```
-### Enhancements
+## Enhancements
 Data about unit upgrades (ACU upgrades, for example).
 
-### Footprint
+## Footprint
 Unit footprint. How many o-grids it'll take up in the pathfinder. If you don't specify this the game will use a 'best guess' based off its collision box. Although even if you do specify a footprint size, the pathfinder will still do a best match against the footprint definitions in footprints.lua to figure out the pathfinding blueprint. This generally is not something you need to worry about. Apart from the pathfinding, the footprint also specifies the dimensions of the o-grid to occupy (hit ctrl-alt-o to see the ogrid and occuption by footprints).
 
 
@@ -507,7 +506,7 @@ Footprint = {
 },
 ```
 
-### General
+## General
 General information for the unit.
 ```lua
 General = {
@@ -560,7 +559,7 @@ General = {
 },
 ```
 
-### Intel
+## Intel
 Intel information for the unit.
 ```lua
 Intel = {
@@ -585,36 +584,36 @@ Intel = {
 ```
 Note: **RadarStealthField** is no valid blueprint attribute. It is found in URL0306_unit.bp and is only a mistake.
 
-### Interface
+## Interface
 Under interface the help text for an unit is defined. The usage is Interface = { HelpText = '<LOC uel0201_help>Medium Tank', }, while this would be the help text for the UEF tech 1 tank. The localisation part is working exactly the same as described under the category Description.
 ```lua
 Interface = {
     HelpText = 'string',
 },
 ```
-### LifeBarHeight
+## LifeBarHeight
 ```lua
 LifeBarHeight = 'n', -- Height of lifebar in OGrids.
 ```
-### LifeBarOffset
+## LifeBarOffset
 ```lua
 LifeBarOffset = 'n', -- Vertical offset from unit for lifebar.
 ```
-### LifeBarRender
+## LifeBarRender
 ```lua
 LifeBarRender = 'true/false', -- Should render lifebar or not.
 ```
-### LifeBarSize
+## LifeBarSize
 ```lua
 LifeBarSize = 'n', -- Size of lifebar in OGrids.
 ```
-### Merge
+## Merge
 Merge is used for moding an existing blueprint. With Merge = 'true' the BlueprintId must be set.
 ```lua
 Merge = 'true/false',
 ```
 
-### Physics
+## Physics
 Here are the physic behaviors and similar defined.
 ```lua
 Physics = {
@@ -669,59 +668,59 @@ Physics = {
 },
 ```
 
-### SelectionCenterOffsetX
+## SelectionCenterOffsetX
 ```lua
 SelectionCenterOffsetX = 'n', -- X center offset of selection box
 ```
-### SelectionCenterOffsetY
+## SelectionCenterOffsetY
 ```lua
 SelectionCenterOffsetY = 'n', -- Y center offset of selection box
 ```
-### SelectionCenterOffsetZ
+## SelectionCenterOffsetZ
 ```lua
 SelectionCenterOffsetZ = 'n', -- Z center offset of selection box
 ```
-### SelectionSizeX
+## SelectionSizeX
 SelectionSizeX and SelectionSizeZ define the frame around the selected unit.
 ```lua
 SelectionSizeX = 'n', -- X Size of selectien box.
 ```
-### SelectionSizeY
+## SelectionSizeY
 SelectionSizeY adjusts the height of the selection box.
 ```lua
 SelectionSizeY = 'n', -- Y Size of selectien box.
 ```
-### SelectionSizeZ
+## SelectionSizeZ
 SelectionSizeX and SelectionSizeZ define the frame around the selected unit.
 ```lua
 SelectionSizeZ = 'n', -- Z Size of selectien box.
 ```
-### SelectionThickness
+## SelectionThickness
 Use this to modify the thickness of the rendered selection indicator for the unit.
 ```lua
 SelectionThickness = 'n',
 ```
-### SelectionYOffset
+## SelectionYOffset
 ```lua
 SelectionYOffset = 'n', -- How far to reduce top of collision box for selection (default 0.5)
 ```
-### SizeX
+## SizeX
 SizeX, SizeY and SizeZ define the collision box for the unit. The collision box is used to detect hits on the unit. If you change the model size the collision box should be adapted.
 ```lua
 SizeX = 'n',
 ```
-### SizeY
+## SizeY
 SizeX, SizeY and SizeZ define the collision box for the unit. The collision box is used to detect hits on the unit. If you change the model size the collision box should be adapted.
 ```lua
 SizeY = 'n',
 ```
-### SizeZ
+## SizeZ
 SizeX, SizeY and SizeZ define the collision box for the unit. The collision box is used to detect hits on the unit. If you change the model size the collision box should be adapted.
 ```lua
 SizeZ = 'n',
 ```
 
-### StrategicIconName
+## StrategicIconName
 Name of the strategic icon to use for this unit (seen when zoomed out).
 
 ```lua
@@ -977,7 +976,7 @@ A complete list of avaible icons included in the game:
 - icon_sub3_generic
 - icon_sub3_missile
 
-### StrategicIconSortPriority
+## StrategicIconSortPriority
 
 This is set to an integer that describes the unit's position in the list of selected units when different unit types are selected. 0 renders on top, 255 on bottom.
 
@@ -985,7 +984,7 @@ This is set to an integer that describes the unit's position in the list of sele
 StrategicIconSortPriority = 'n',
 ```
 
-### Transport
+## Transport
 
 Transport related information for the unit.
 
@@ -1003,13 +1002,13 @@ Transport = {
     TransportClass = 'integer', -- Type of attach points required on transports.
 },
 ```
-### UseOOBTestZoom
+## UseOOBTestZoom
 Use OOB hit test for this unit when camera is below this zoom level. Usually we use screen space to do unit selection, but occasionally we want to use the unit's oriented bounding box (OBB) instead. So we have UseOOBTestZoom.
 ```lua
 UseOOBTestZoom = 'n',
 ```
 
-### Veteran
+## Veteran
 Veteran define how many kills for each veteran level are required.
 ```lua
 Veteran = {
@@ -1020,7 +1019,7 @@ Veteran = {
     Level5 = 'integer', -- Define how much kills are required for reaching veteran level 5
 },
 ```
-### Weapon
+## Weapon
 
 Weapon define which weapons are attached to a unit and how they are configured. Nearly everything that is needed to make a weapon workable is set under this category (blueprint's category).
 
@@ -1135,7 +1134,7 @@ FiringRandomnessWhileMoving = 'n', -- the firing randomness that this weapon has
 },
 ```
 
-### Wreckage
+## Wreckage
 Here are wreckage informations defined.
 ```lua
 Wreckage = {
