@@ -2,7 +2,7 @@
 title: Blueprint/Weapon
 description: 
 published: true
-date: 2022-06-02T18:05:10.553Z
+date: 2022-06-02T18:05:46.511Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T17:45:53.023Z
@@ -41,7 +41,7 @@ CameraShakeMin = 'n' -- Minimum size of the camera shake
 CameraShakeRadius = 'n' -- How far from the unit should the camera shake
 ```
 
-# Aiming
+## Aiming
 Aiming is calculated with a combination of rack bones, muzzle bones and can have the option of beeing turreted in which case yaw, pitch and muzzle need to be defined in order for aiming to be accurate. Note that one of the most important parts of a weapon is the bone's axis orientation and alignment with muzzle, racks and turrets. All aiming is done with the assumption that bones are oriented on a right hand orientation where the index finger is the Z axis and the thumb is the Y axis. We also need to keep close attention to the alignment of all the bones used in the weapon. A weapon needs for all its aiming bones's Z axis to be coplanar and pointing along the same + or – direction.
 ```lua
 BallisticArc = 'string' -- The ballistics arc that should be used on the projectile. Possible arcs are: 'RULEUBA_None', 'RULEUBA_LowArc' or 'RULEUBA_HighArc'
