@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-05-21T12:09:50.580Z
+date: 2022-06-02T16:28:34.559Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -105,8 +105,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="Adaptive-Maps"> Adaptive Maps</a></li>
 </ul></td>
 <td><ul>
-<li><a href=""> Blank 1</a></li>
-<li><a href=""> Blank 2</a></li>
+
 </ul></td>
 </tr>
 </tbody>
@@ -126,6 +125,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="Bug-Reporting-and-Testing"> Bug reporting and testing</a></li>
+<li><a href="Blueprints"> Blueprints</a></li>
 </ul></td>
 <td></td>
 </tr>
