@@ -2,12 +2,13 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-02T17:43:41.851Z
+date: 2022-06-02T17:44:09.029Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
 ---
 
+# Blueprint
 A blueprint is a file within Supreme Commander that describes a unit. These are .bp files inside gamedata.scd. Within that file the blueprints are found in a subdirectory of gamedata\units\. For instance, `gamedata\units\UAA0101\UAA0101_unit.bp` is the blueprint for the Aeon T1 Air Scout.
 
 # Blueprint format
