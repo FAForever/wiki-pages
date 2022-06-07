@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-02T19:49:27.614Z
+date: 2022-06-07T12:16:25.802Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -124,10 +124,12 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="AI-Modding"> AI Modding</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Bug-Reporting-and-Testing"> Bug reporting and testing</a></li>
+<li><a href="Blueprints/Weapon"> Blueprint Weapons</a></li>
 <li><a href="Blueprints"> Blueprints</a></li>
 </ul></td>
-<td></td>
+<td><ul>
+<li><a href="Bug-Reporting-and-Testing"> Bug reporting and testing </a></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
