@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-05-17T11:25:42.015Z
+date: 2022-06-09T10:06:05.438Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -68,6 +68,7 @@ These are the current Team Leaders:
 - Gorthaur
 - FtXCommando
 - Skrat
+- harzer99
 
 #### Policies
 We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
