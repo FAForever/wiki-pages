@@ -2,7 +2,7 @@
 title: Setting up the Client on Windows & Linux
 description: 
 published: true
-date: 2022-05-29T18:58:52.824Z
+date: 2022-06-12T23:40:31.217Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:26.781Z
@@ -84,7 +84,7 @@ The version of the JVM must be at least 17.
 Please define INSTALL4J_JAVA_HOME to point to a suitable JVM.
 ```
 
-Install a compatible Java Runtime Environment. If none is available through apt you can download and manually install a compatible [AdoptOpenJDK one](https://adoptopenjdk.net/archive.html?jvmVariant=hotspot)
+Install a compatible Java Runtime Environment. If none is available through apt you can download and manually install a compatible version from [Adoptium](https://adoptium.net/temurin/releases)
 ```
 sudo apt install openjdk-17-jre
 ```
