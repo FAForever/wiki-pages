@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-12T23:44:25.019Z
+date: 2022-06-12T23:47:54.679Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -41,7 +41,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## FAF Teams & FAQ & Rules 
+## FAF Teams / FAQ / Rules / Device Setup
 <table>
 <tbody>
 <tr>
