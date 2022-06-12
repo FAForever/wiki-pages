@@ -2,13 +2,12 @@
 title: Windows Instalation
 description: 
 published: true
-date: 2022-06-12T23:43:58.152Z
+date: 2022-06-12T23:44:12.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
 ---
 
-# Windows
 Setting up the FAF client is very easy and FAF itself requires almost no setup after it has been installed.
 
 **As a general rule, you do not need any external links to mods or enhancements!** The reason for this is: **The FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Map-&-Mod-Vault).
