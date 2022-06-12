@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-06-09T10:06:05.438Z
+date: 2022-06-12T23:49:20.312Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -133,7 +133,7 @@ The deputy leader is also the point of contact if the team leader is absent.
   - Javi
   - Fury
   - Jip
-  - Scout_FTW
+  - Phong
   - Rowey
   
  
