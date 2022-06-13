@@ -1,8 +1,8 @@
 ---
-title: Windows Instalation
+title: Windows Installation
 description: 
 published: true
-date: 2022-06-12T23:44:12.370Z
+date: 2022-06-13T14:04:56.428Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
