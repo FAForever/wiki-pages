@@ -1,8 +1,8 @@
 ---
-title: Linux Instalation
+title: Linux Installation
 description: 
 published: true
-date: 2022-06-12T23:44:53.506Z
+date: 2022-06-13T14:05:19.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:33.098Z
