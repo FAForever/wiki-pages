@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-12T23:47:54.679Z
+date: 2022-06-13T14:04:20.106Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -58,10 +58,10 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><a href="Vault-Rules">Vault Rules</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Windows-Install">Windows Instalation</a></li>
+<li><a href="Windows-Install">Windows Installation</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Linux-Install">Linux Instalation</a></li>
+<li><a href="Linux-Install">Linux Installation</a></li>
 </ul></td>
 </tr>
 </tbody>
