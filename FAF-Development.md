@@ -2,14 +2,14 @@
 title: FAF Development
 description: 
 published: true
-date: 2022-01-25T11:35:33.943Z
+date: 2022-06-14T23:00:45.785Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
 ---
 
 This document only covers development of the FAF infrastructure.
-- For information about mapping, please look at [GPG Map Editor](/Map-Editor) or the [FAF Map Editor](/FA-Forever-Map-Editor).
+- For information about mapping, please look at [GPG Map Editor](/GPG-Map-Editor) or the [FAF Map Editor](/FA-Forever-Map-Editor).
 -   For information about modding, please look [here](/Modding)
 
 ## Source code & version control
