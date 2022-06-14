@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2022-06-14T23:09:37.494Z
+date: 2022-06-14T23:09:46.940Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -80,7 +80,7 @@ I’ve noted some of the errors I would frequently make in case they’re of hel
 
 ## AI Coding Overview: How to create/edit an AI in FAF
 The following diagram illustrates the code you might need or want to edit to create an AI:
-![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg){align.right}
+![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg)
 
 Each item corresponds to a file in the Forged Alliance Lua code, with a basic description and file location included.
 
