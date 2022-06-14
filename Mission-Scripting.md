@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2022-06-14T22:42:35.020Z
+date: 2022-06-14T22:43:05.623Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -213,7 +213,7 @@ Game uses this file to get basic information about the map. Name, path to other 
 - **map_version** - Version of the mission, set this to 1, it is used by the server when updating the missions in coop tab.
 - **norushradius** - Set this to 0, it is used for skirmish maps, but the Map Editor needs this value else it will crash during loading
 
-All armies have to be listed here. This part is created once [Games configuration](/Map-Editor#create-armies) is set in Map
+All armies have to be listed here. This part is created once [Games configuration](/GPG-Map-Editor#create-armies) is set in Map
 Editor. Example:
 ```lua
 Configurations = {`
