@@ -2,7 +2,7 @@
 title: Adaptive Maps
 description: An overview of adaptive maps, the features of the script, and the setup required.
 published: true
-date: 2021-12-30T01:55:45.577Z
+date: 2022-06-14T22:58:45.104Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:41:55.475Z
@@ -235,8 +235,37 @@ Adapt the text to explain your features and set the default key. There are sever
 ### _script.lua
 
 At the top of the file are the defaut key values of the options. The default is set in a way that nothing should break, but most likely you want to choose a different default value for some options. Change the defaults to match the option.lua default keys. The script also needs the path for the tables file to be set appropriately (also on the top of the file).
+```lua
+local Tables = import ('/maps/mapfolder/mapname_tables.lua')
 
-![script.png](/images/mapping/script.png)
+-- Enter maximum possible player count
+local maxPlayerOnMap = 16
+
+-- IMPORT: options.1ua settings
+-- chosen key or default key
+
+local dynamic_spawn = ScenarioInfo.Options.dynamic_spawn or 1
+local crazyrush_mexes = ScenaricInfo.Options.crazyrush_mexes or 1
+local extra_hydros = ScenarioInfo.Options.extra_hydros or 1
+local extra_mexes = ScenarioInfo.Options.extra_mexes or 1
+local middle_mexes = ScenaricInfo.Options.middle_mexes or 1
+local side_mexes = ScenaricInfo.Options.side_mexes or 1
+local underwater_mexes = ScenarioInfo.Options-underwater_mexes or 1
+local islend_mexes = ScenaricInfo.Options.islend_mexes or 1
+local expansion_mexes = ScenarioInfo.Options.expansion_nmexes or 1
+local core_mexes = ScenaricInfo.Options.core_mexes or 1
+local extra_base_mexes = ScenaricInfo.Options.extra_base_mexes or 1
+local top_side_nexes = ScenaricInfo.Options.top_side_mexes or 1
+local bottom_side_mexes = ScenaricInfo.Options.bottom_side_mexes or 1
+-- Units
+local optional_vreckage = ScenarioInfo.Options.optional_vreckage or 1
+local optional_naval_vreckage = ScenarioInfo.0ptions.optional_naval_vreckage or 1
+local optional_wreckage_middle = ScenarioInfo.0ptions.optional_vreckage_middle or 1
+local optional_adaptive_faction_wreckage = ScenarioInfo.Options.optional_adaptive_faction_wreckage or 1
+local optional_civilien_base = ScenarioInfo.Options.optional_civilian_base or 1
+local optional_civilien_defenses = ScenaricInfo.Options.optional_civilian_defenses or 1
+local jamming = ScenarioInfo.0ptions.jamming or 1
+```
 ### map editor
 
 In order to make the wreckages and civilians adjustable, you have to create unit groups in the editor. They should be named in the same way as in the script (or adjust the names in the script). 
