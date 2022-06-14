@@ -2,7 +2,7 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-14T23:31:56.312Z
+date: 2022-06-14T23:33:01.673Z
 tags: modding
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
