@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2022-06-14T23:04:03.077Z
+date: 2022-06-14T23:07:44.716Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -88,18 +88,8 @@ There are lots of starting points for new developers:
 
 [Installing Luajit and Lupa for building lupa package](/Dev-Note-Lupa)
 
-# **FAF Development School**
-
-FAF Development School is an open group set up by Softles to promote development of FAForever's codebase.
-
-Hints and tips for contributing to FAF are provided to the less experienced both in the forums and the groups chat, **#FAF_Dev_School**
--   In order to join this chat simply type: ***/join #FAF_Dev_School*** into [aeolus](/FAF-chat).
-
-The lessons to date are recorded below for reference.
-
 ## Lessons
 - [Sources for FAF (Git and GitHub)](/FAF-Dev-School-Git)
-- [FAF Client code](/FAF-Dev-School-Client)
 
 ## Other
 
