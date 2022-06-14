@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2022-06-14T23:00:45.785Z
+date: 2022-06-14T23:04:03.077Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -47,7 +47,7 @@ FAF consists of 5 important projects, which reflect the basic architecture:
 	- The api servers offers servers to authenticated users (via OAuth2)
 	- Services are i.e. achievements, map upload, bug reports. 
 	- As it's open for everybody, the service itself is not restricted to any client.
-- [db](https://github.com/FAForever/db): FAF sql database (sql)
+- [Database](https://github.com/FAForever/db): FAF sql database (sql)
 	- The database is the backend for server and api.
 	- Instructions how to set up the db can be found on [Youtube](https://www.youtube.com/watch?v=3vsRs71vMII)
 
@@ -72,6 +72,7 @@ The following tools are strongly recommended for development (regardless of your
 - a good IDE:
 	- Python: [PyCharm](https://www.jetbrains.com/pycharm/) (free community edition)
 	- Java: [IntelliJ IDEA](https://www.jetbrains.com/idea/) (free community edition)
+  - Visual Studio Code
 
 ## Where to begin?
 
