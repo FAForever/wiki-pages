@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2022-02-10T08:56:00.320Z
+date: 2022-06-14T23:09:31.908Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -47,10 +47,9 @@ https://www.lua.org/pil/contents.html
 - Stand alone Lua code testing
 
 If you want to read through this and experiment with Lua coding outside of FAF to understand some concepts, here’s a simple way to get things setup:
-•	Download both the windows executables and windows DLL from the following link:
-http://luabinaries.sourceforge.net/download.html
-•	Extract to the same folder as each other
-•	Create a test Lua file - create a notepad file, rename the extension from .txt to .lua, and then add your code to it, e.g.:
+- Download both the windows executables and windows DLL from the following link: http://luabinaries.sourceforge.net/download.html
+- Extract to the same folder as each other
+-	Create a test Lua file - create a notepad file, rename the extension from .txt to .lua, and then add your code to it, e.g.:
 ```lua
 print("Hello World")
 io.read()
@@ -68,20 +67,20 @@ It’s useful not just for performance, but also understanding the code better a
 
 I’ve noted some of the errors I would frequently make in case they’re of help (particularly for people who haven’t coded in Lua before):
 
-•	Table variables – If you set a variable T1 equal to an existing table variable T2, it uses a reference rather than copying the table values.  Therefore, any change made to T1 will also change T2.
+-	Table variables – If you set a variable T1 equal to an existing table variable T2, it uses a reference rather than copying the table values.  Therefore, any change made to T1 will also change T2.
 
-•	Multi-dimensional table declarations – Lua supports multi-dimensional arrays via nested tables.  For example, MyTable[1] = {2,3,4} means the 1st value of MyTable is equal to a table containing 2,3,4.  If doing this, then the first time you make use of a subtable, it needs declaring.  So in the above example, I’d first do MyTable[1] = {}, and then MyTable[1] = {2,3,4} (there may be a better way of doing this, but this worked for me).
+-	Multi-dimensional table declarations – Lua supports multi-dimensional arrays via nested tables.  For example, MyTable[1] = {2,3,4} means the 1st value of MyTable is equal to a table containing 2,3,4.  If doing this, then the first time you make use of a subtable, it needs declaring.  So in the above example, I’d first do MyTable[1] = {}, and then MyTable[1] = {2,3,4} (there may be a better way of doing this, but this worked for me).
 
-•	Related to this, care also needs to be taken with table references – e.g. MyTable[1][1] not MyTable[1[1]]
+-	Related to this, care also needs to be taken with table references – e.g. MyTable[1][1] not MyTable[1[1]]
 
-•	Case sensitive references – GetUnitID() will return an error.  However, GetUnitId() will return a unit blueprint ID (if used correctly).  Similarly MyVar is a different variable to myVar
+-	Case sensitive references – GetUnitID() will return an error.  However, GetUnitId() will return a unit blueprint ID (if used correctly).  Similarly MyVar is a different variable to myVar
 
-•	Full stops vs colons – continuing the above example, oUnit.GetUnitId() will return an error, but oUnit:GetUnitId() won’t.  (with thanks to Speed2 – the reason for this is that oUnit:GetUnitId() is syntactic sugar for oUnit.GetUnitId(self). So if you want to use the version with . you have to pass self as first arg).
+-	Full stops vs colons – continuing the above example, oUnit.GetUnitId() will return an error, but oUnit:GetUnitId() won’t.  (with thanks to Speed2 – the reason for this is that oUnit:GetUnitId() is syntactic sugar for oUnit.GetUnitId(self). So if you want to use the version with . you have to pass self as first arg).
 
 
 ## AI Coding Overview: How to create/edit an AI in FAF
 The following diagram illustrates the code you might need or want to edit to create an AI:
-![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg)
+![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg){align.center}
 
 Each item corresponds to a file in the Forged Alliance Lua code, with a basic description and file location included.
 
