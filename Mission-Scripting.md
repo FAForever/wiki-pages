@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2022-06-14T22:40:36.194Z
+date: 2022-06-14T22:42:35.020Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -12,7 +12,7 @@ dateCreated: 2021-08-31T09:44:25.458Z
 Currently there is no campaign editor for creating custom missions for Supreme Commander, but every mission is written in lua and it's easy to edit. You don't need to have too much experience with code since most of it is already used in the official campaign missions. In this tutorial I will explain how to create a mission and as an example we will use [Prothyon - 16](https://mega.co.nz/#!RpZ3GZZa!zBAJfoJ-29PDA3lewcJYMBVbyLLDoK609ueeMe80N00).
 
 ### Tools we need
-- [Map Editor](/Map-Editing-Tools) for creating map, placing units and markers.
+- [Map Editor](/GPG-Map-Editor) for creating map, placing units and markers.
 - Text Editor that highlight syntax [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Sources of inspiration
