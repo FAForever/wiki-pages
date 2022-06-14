@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2021-12-30T00:03:21.823Z
+date: 2022-06-14T22:40:36.194Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -13,10 +13,10 @@ Currently there is no campaign editor for creating custom missions for Supreme C
 
 ### Tools we need
 - [Map Editor](/Map-Editing-Tools) for creating map, placing units and markers.
-- Text Editor that highlight syntax [Notepad++](http://notepad-plus-plus.org/) or [Sublime Editor](http://www.sublimetext.com/)
+- Text Editor that highlight syntax [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Sources of inspiration
-You can always look in one of the original campaign files to find the right code. There is a list of them. In order to open them in [Map Editor](/Map-Editor), use files from [this link](https://mega.nz/#!V4BmhZzB!BT61LjJsjkcW_vIiwjykfUK5bOSGYuTGAVc7DsdJ1As). Don't forget you can also look at custom map scripts for useful code snippets, some of which aren't present in the original campaign. Additionally, you can look at in game lua files, and take apart the functions there for your own uses. 
+You can always look in one of the original campaign files to find the right code. There is a list of them. In order to open them in [Map Editor](/GPG-Map-Editor), use files from [this link](https://mega.nz/#!V4BmhZzB!BT61LjJsjkcW_vIiwjykfUK5bOSGYuTGAVc7DsdJ1As). Don't forget you can also look at custom map scripts for useful code snippets, some of which aren't present in the original campaign. Additionally, you can look at in game lua files, and take apart the functions there for your own uses. 
 
 It is better to look at Forged Alliance missions because the code there is simpler and easier to read and understand. Also AI was improved a lot there. So for creating AI we will use FA missions. 
 <table>
