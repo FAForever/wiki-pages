@@ -2,7 +2,7 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-02T19:49:54.897Z
+date: 2022-06-14T23:31:56.312Z
 tags: modding
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
@@ -127,75 +127,7 @@ Air = {
 ## Audio
 The Audio section describes the sounds that are associated with the unit. There are a large number of triggers for those sounds, listed below. Each trigger is given the result of a call to the Sound function. The Sound function takes three arguments. The first is the name of the bank that contains the sound. The second is the specific sound within that bank. The third is a setting that describes the level of detail at which the sound is played. This ensures that small ambient sounds from individual units aren't heard when the user has zoomed out too far to hear them.
 
-Activate -
-ActiveLoop -
-AirUnitWaterImpact -
-AmbientMove -
-AmbientMoveLand -
-AmbientMoveWater -
-BarrelLoop -
-BarrelStart -
-BarrelStop -
-BeamLoop -
-BeamStart -
-BeamStop -
-CaptureLoop -
-ChargeStart -
-Close -
-CommanderArrival -
-Construct -
-ConstructLoop -
-ConstructStart -
-ConstructStop -
-DeathExplosion -
-Destroyed -
-DoneBeingBuilt -
-EnhanceEnd -
-EnhanceFail -
-EnhanceLoop -
-EnhanceStart -
-EnterWater -
-Fire -
-FireUnderWater -
-FootFallGeneric -
-FootFallGenericSeabed -
-HoverKilledOnWater -
-Killed -
-Landed -
-Landing -
-Load -
-MoveSharpTurn -
-MuzzleChargeStart -
-NuclearLaunchDetectedAeon -
-NuclearLaunchDetectedCybran -
-NuclearLaunchDetectedUEF -
-NuclearMissileInterceptedAeon -
-NuclearMissileInterceptedCybran -
-NuclearMissileInterceptedUEF -
-Open -
-Pack -
-ReclaimLoop -
-Refueling -
-ShieldOff -
-ShieldOn -
-StartCapture -
-StartMove -
-StartMoveAir -
-StartMoveLand -
-StartMoveWater -
-StartReclaim -
-StopMove -
-StopMoveLand -
-StopMoveWater -
-SubmergeStart -
-SurfaceStart -
-TakeOff -
-Thruster -
-TransitionLand -
-TransitionWater -
-UISelection -
-Unload -
-Unpack -
+`Activate` - `ActiveLoop` - `AirUnitWaterImpact` - `AmbientMove` - `AmbientMoveLand` - `AmbientMoveWater` - `BarrelLoop` - `BarrelStart` - `BarrelStop` - `BeamLoop` - `BeamStart` - `BeamStop` - `CaptureLoop` - `ChargeStart` - `Close` - `CommanderArrival` - `Construct` - `ConstructLoop` - `ConstructStart` - `ConstructStop` - `DeathExplosion` - `Destroyed` - `DoneBeingBuilt` - `EnhanceEnd` - `EnhanceFail` - `EnhanceLoop` - `EnhanceStart` - `EnterWater` - `Fire` - `FireUnderWater` - `FootFallGeneric` - `FootFallGenericSeabed` - `HoverKilledOnWater` - `Killed` - `Landed` - `Landing` - `Load` - `MoveSharpTurn` - `MuzzleChargeStart` - `NuclearLaunchDetectedAeon` - `NuclearLaunchDetectedCybran` - `NuclearLaunchDetectedUEF` - `NuclearMissileInterceptedAeon` - `NuclearMissileInterceptedCybran` - `NuclearMissileInterceptedUEF` - `Open` - `Pack` - `ReclaimLoop` - `Refueling` - `ShieldOff - ` - `ShieldOn` - `StartCapture` - `StartMove` - `StartMoveAir` - `StartMoveLand` - `StartMoveWater` - `StartReclaim` - `StopMove` - `StopMoveLand` - `StopMoveWater` - `SubmergeStart` - `SurfaceStart` - `TakeOff` - `Thruster` - `TransitionLand` - `TransitionWater` - `UISelection` - `Unload` - `Unpack` 
 
 ## AverageDensity
 
