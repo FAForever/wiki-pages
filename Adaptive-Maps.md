@@ -2,7 +2,7 @@
 title: Adaptive Maps
 description: An overview of adaptive maps, the features of the script, and the setup required.
 published: true
-date: 2022-06-14T22:58:45.104Z
+date: 2022-06-14T22:58:57.785Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:41:55.475Z
@@ -266,7 +266,7 @@ local optional_civilien_base = ScenarioInfo.Options.optional_civilian_base or 1
 local optional_civilien_defenses = ScenaricInfo.Options.optional_civilian_defenses or 1
 local jamming = ScenarioInfo.0ptions.jamming or 1
 ```
-### map editor
+### Map Editor
 
 In order to make the wreckages and civilians adjustable, you have to create unit groups in the editor. They should be named in the same way as in the script (or adjust the names in the script). 
 
