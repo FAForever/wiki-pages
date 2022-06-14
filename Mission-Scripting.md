@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2022-06-14T22:43:05.623Z
+date: 2022-06-14T22:45:21.696Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -231,7 +231,7 @@ Configurations = {`
 One coop addition that you find here is the table with available factions per spot, this restricts the lobby and offers the player to pick only from the factions you specify here. There are 4 tables with **'uef**' as Prothyon mission is for 4 players and it's UEF only.
 
 ## Save
-This file contains all data about armies and markers that was created in the [Map Editor](/Map-Editor).
+This file contains all data about armies and markers that was created in the [Map Editor](/GPG-Map-Editor).
 ![armies.png](/images/mapping/armies.png){.align-right}
 
 ### Alliances
@@ -246,7 +246,7 @@ faction = 3,
 
 ### AI Plan
 
-The last thing that needs to be changed is the AI Plan. Since we script our AI using functions from Forged Alliance we need to set it to no plan. We can't do this directly in [Map Editor](/Map-Editor) so we need to edit our **save.lua** file again. Do this for every army you have.
+The last thing that needs to be changed is the AI Plan. Since we script our AI using functions from Forged Alliance we need to set it to no plan. We can't do this directly in [Map Editor](/GPG-Map-Editor) so we need to edit our **save.lua** file again. Do this for every army you have.
 ```lua
 plans = '/lua/ai/opai/defaultblankplanlist.lua',
 ```
@@ -561,7 +561,7 @@ ScenarioFramework.SetPlayableArea('M1_Area', false)
 
 #### Camera Info Markers
 
-Setting camera angle is happening in [map editor](/Map-Editor).
+Setting camera angle is happening in [map editor](/GPG-Map-Editor).
 - Select Markers layer and place **Camera Info Marker** anywhere on the map.
 - Rotate view by holding **ALT + Middle Mouse Button**
 - Once you have angle ready, right click on the **Camera Info Marker** in the markers list and select **Set Orientation**
@@ -825,7 +825,7 @@ each mission.
 
 ### Things to do in Map Editor
 
-We need to use [Map Editor](/Map-Editor) to design base and set up markers and chains AI will use. Lets start with base template
+We need to use [Map Editor](/GPG-Map-Editor) to design base and set up markers and chains AI will use. Lets start with base template
 
 #### Base template
 
