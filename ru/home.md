@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2022-06-15T10:08:27.591Z
+date: 2022-06-15T10:08:46.077Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -157,7 +157,3 @@ dateCreated: 2021-12-23T16:26:19.315Z
 </tr>
 </tbody>
 </table>
-
-
-
-**Внимание: на данный момент FAF Login не работает. Если Вы хотите помочь и поучаствовать в Wiki, пожалуйста, свяжитесь с  Promotions Team [здесь](https://discord.gg/YdGN2aESTQ).**
