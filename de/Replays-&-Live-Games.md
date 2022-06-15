@@ -2,81 +2,79 @@
 title: Replays & Live Games
 description: 
 published: true
-date: 2021-09-29T10:04:58.963Z
+date: 2022-06-15T09:43:30.619Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-29T10:04:58.963Z
+dateCreated: 2021-12-24T23:46:28.277Z
 ---
 
-## General
+Jedes Spiel, das Sie spielen, wird automatisch online und offline gespeichert. Sie können auch jedes Live-Spiel, das gerade gespielt wird, ansehen. Klicken Sie auf die Registerkarte "Replays", um sie anzuzeigen, oder sehen Sie sich die unten aufgeführten Links an.
+**Wenn ein Spiel mit einer nicht funktionsfähigen Mod gespielt wurde, müssen Sie diese Mod auf Ihrem lokalen System verfügbar haben, da es sonst zu Desyncs oder anderen unvorhersehbaren Problemen kommt. Es gibt derzeit keinen Mechanismus, der automatisch Mods herunterlädt und aktualisiert, wenn Sie versuchen, ein Spiel mit aktivierten Mods anzusehen.
 
-Every game you play is automatically saved online and offline. You can also watch any live game that is currently being played. Click the "Replays" tab to show them or check out the links posted below.
-**If a game was played with a non-featured mod, you will have to have this mod available on your local system, otherwise there will be desyncs or other unpredictable problems. There is currently no mechanism in place to automatically download and update non-featured mods for you when you attempt to watch a game with them enabled.**
-
-## Live Games
+## Live-Spiele
 ![live-games.png](/live-games.png)
-### 1. Replays tab
-Go here if you want to look at live replays, browse the local vault, or the online vault. Currently, "Live Games" is selected.
-### 2. Active games
+### 1. Registerkarte Wiederholungen
+Gehen Sie hier hin, wenn Sie sich Live-Wiederholungen ansehen, den lokalen Tresor oder den Online-Tresor durchsuchen möchten. Derzeit ist "Live-Spiele" ausgewählt.
+### 2. Aktive Partien
 
-All active games are shown, including 'private' ones. The picture on the very left is a small preview of the played map, and time refers to the time when when the game started. Games with friends playing in it are marked blue.
+Hier werden alle aktiven Partien angezeigt, einschließlich der "privaten" Partien. Das Bild ganz links ist eine kleine Vorschau auf die gespielte Karte, und die Zeit bezieht sich auf den Zeitpunkt, zu dem das Spiel begonnen hat. Spiele, in denen Freunde mitspielen, sind blau markiert.
 
-### 3. More information
+### 3. Weitere Informationen
 
-If you click a replay, a list with all players in the game will appear. Disconnected players will no longer be shown in this list. Click one of the names to view the live game, or right-click for more options.
+Wenn du auf eine Wiederholung klickst, wird eine Liste mit allen Spielern im Spiel angezeigt. Spieler, deren Verbindung unterbrochen wurde, werden in dieser Liste nicht mehr angezeigt. Klicken Sie auf einen der Namen, um das Live-Spiel zu sehen, oder klicken Sie mit der rechten Maustaste, um weitere Optionen zu erhalten.
 
-### Important things about livereplays:
-- Livereplays will sometimes stop if the player you clicked leaves. If this happens, you can always switch to another player's livereplay, and fast forward back to where you were.
-- You cannot save livereplays locally after you watch the game. You have to download them from the [online vault](/Replay-Vault-&-Live-Games) when they are finished; note the map or players in order to find it again, or just have a look on top of the Vault a few seconds after the game is finished.
-- If the game stops at some point, it could be because the game is paused.
+### Wichtige Dinge über Livereplays:
+- Livereplays werden manchmal unterbrochen, wenn der Spieler, auf den Sie geklickt haben, das Spiel verlässt. In diesem Fall können Sie jederzeit zum Livereplay eines anderen Spielers wechseln und an die Stelle zurückspulen, an der Sie waren.
+- Sie können Livereplays nicht lokal speichern, nachdem Sie das Spiel angesehen haben. Du musst sie aus dem [Online-Tresor](/Replay-Vault-&-Live-Games) herunterladen, wenn sie beendet sind; notiere dir die Karte oder die Spieler, um sie wiederzufinden, oder schaue einfach ein paar Sekunden nach Spielende oben im Tresor nach.
+- Wenn das Spiel an einem bestimmten Punkt stoppt, könnte es daran liegen, dass das Spiel angehalten wurde.
 
-## Local Vault
+## Lokaler Tresor
 
-All games you play are automatically saved on your local computer under: **C:\\ProgramData\\FAForever\\replays**. You can start them from anywhere with a double click. Note that these replays are only available on the computer the game was played on.
+Alle von Ihnen gespielten Partien werden automatisch auf Ihrem lokalen Computer unter gespeichert: **C:\\ProgrammeDaten\\FAForever\\Spiele**. Sie können sie von überall aus mit einem Doppelklick starten. Beachten Sie, dass diese Wiederholungen nur auf dem Computer verfügbar sind, auf dem das Spiel gespielt wurde.
 
-### 1. Tab-select
+### 1. Tab-Auswahl
 
-Go here if you want to look for live replays, browse the local vault, or the online vault. Currently "Local Vault" is selected.
+Wählen Sie hier, ob Sie nach Live-Wiederholungen suchen, den lokalen Tresor oder den Online-Tresor durchsuchen möchten. Derzeit ist "Lokaler Tresor" ausgewählt.
 
-### 2. Daily folder
+### 2. Täglicher Ordner
 
-Replays are sorted by days in FAF. Click on a specific day to see all games played during that day.
+Die Wiederholungen sind in FAF nach Tagen sortiert. Klicken Sie auf einen bestimmten Tag, um alle an diesem Tag gespielten Partien zu sehen.
 
-### 3. Games Played
+### 3. Gespielte Partien
 
-The games played during that day are shown here. Right click the game to get more options; left click to start the replay. FAF will automatically get the correct version of the game's patch for you when you open a replay; however, very, very old replays might not work.
+Die an diesem Tag gespielten Partien werden hier angezeigt. Klicken Sie mit der rechten Maustaste auf die Partie, um weitere Optionen zu erhalten; klicken Sie mit der linken Maustaste, um die Wiederholung zu starten. FAF holt sich automatisch die korrekte Patch-Version des Spiels, wenn Sie eine Wiederholung öffnen; sehr, sehr alte Wiederholungen funktionieren jedoch möglicherweise nicht.
 
-### 4. Played mod:
+### 4. Gespielter Mod:
 
-"FAF" is standard FA, for example.
+"FAF" ist zum Beispiel Standard-FA.
 
-## Online Vault
+## Online Tresor
 
-All games you play, or anybody else plays, are automatically stored on the server. There are different ways to access them; either through the lobby, or this [link](http://content.faforever.com/faf/vault/replays_simple.php)
+Alle Spiele, die Sie oder andere Spieler spielen, werden automatisch auf dem Server gespeichert. Es gibt verschiedene Möglichkeiten, auf sie zuzugreifen; entweder über die Lobby oder über diesen [Link](http://content.faforever.com/faf/vault/replays_simple.php)
 
-### Game/Replay ID
+### Spiel/Wiederholungs-ID
 
-If you know the ID of a game you can download it here:
+Wenn du die ID eines Spiels kennst, kannst du es hier herunterladen:
 - http://replay.faforever.com/ENTERIDHERE
 
-or
+oder
 
 - http://content.faforever.com/faf/vault/replay_vault/replay.php?id=ENTERIDHERE
 
-or write [chat command](/FAF-chat#Chat-commands) into [main chat (#aeolus)](/FAF-chat) to generate download link
+oder schreibe [Chat-Befehl](/FAF-chat#Chat-Befehle) in den [Hauptchat (#aeolus)](/FAF-chat), um einen Download-Link zu generieren
 
--   #ENTERIDHERE
+- #ENTERIDHERE
 
-The game IS the number in the filename before your nickname. You can easily share replays by just sharing the ID.
+Das Spiel IST die Nummer im Dateinamen vor deinem Nickname. Du kannst Replays ganz einfach teilen, indem du einfach die ID teilst.
 
-### 1. Tab-select
+### 1. Tab-Auswahl
 
-Go here if you want to watch live replays, browse the local vault, or the online vault. Currently "Online Vault" is selected.
+Wählen Sie hier, ob Sie Live-Wiederholungen ansehen, den lokalen Tresor oder den Online-Tresor durchsuchen möchten. Derzeit ist "Online Tresor" ausgewählt.
 
-### 2. Replay
+### 2. Wiederholungen
 
-The list on the left side shows an overview of the replays of the last 200 games played. You can start a replay by clicking it. Note that the length of the replay might not be accurate.
+Die Liste auf der linken Seite zeigt eine Übersicht über die Wiederholungen der letzten 200 gespielten Partien. Sie können eine Wiederholung starten, indem Sie sie anklicken. Beachten Sie, dass die Länge der Wiederholung möglicherweise nicht genau ist.
 
-### 3. Search/Filter options
+### 3. Such-/Filteroptionen
 
-The top right hand corner offers filter options. You can apply multiple filters at the same time in order to find a certain replay. If the "spoiler free" checkbox is checked, the winning team will not be indicated.
+In der oberen rechten Ecke finden Sie Filteroptionen. Sie können mehrere Filter gleichzeitig anwenden, um eine bestimmte Aufzeichnung zu finden. Wenn das Kontrollkästchen "spoilerfrei" aktiviert ist, wird das Siegerteam nicht angezeigt.
