@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2022-06-15T09:23:11.594Z
+date: 2022-06-15T09:29:08.269Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -39,13 +39,13 @@ FAF consists of 5 important projects, which reflect the basic architecture:
 	- The game communicates with the client using GPGNet-protocol
 - [Client](https://github.com/FAForever/downlords-faf-client): FAF lobby client (java)
 	- This is the FAF client featured on the website and the main user interface.
-	- Instructions how to set up the client dev environment can be found on Youtube ([brief](https://www.youtube.com/watch?v=_kJoRehdBcM), [detailed](https://www.youtube.com/watch?v=z4cnvh_vNKA))
+	- Instructions how to set up the client dev environment can be found on [Youtube](https://youtu.be/6gsHnt02I_Y?list=PL0nxuIUIjpFv6cjiaEwwVYpn3utdVUshc)
 - [Server](https://github.com/FAForever/server): FAF lobby server (python)
 	- The server is responsible for game hosting, rating calculation and ladder-matchmaking
-- [Web api](https://github.com/FAForever/faf-java-api): FAF restful Web-api server (java)
+- [JavaAPI](https://github.com/FAForever/faf-java-api): FAF restful Web-api server (java)
 	- The api servers offers servers to authenticated users (via OAuth2)
 	- Services are i.e. achievements, map upload, bug reports. 
-	- As it's open for everybody, the service itself is not restricted to any client.
+	- As it's open for everybody, the service itself is not restricted to any client.You can find the ToS for the API [here](https://content.faforever.com/tos/api-tos.html)
 - [Database](https://github.com/FAForever/db): FAF sql database (sql)
 	- The database is the backend for server and api.
 	- Instructions how to set up the db can be found on [Youtube](https://www.youtube.com/watch?v=3vsRs71vMII)
