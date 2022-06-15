@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-06-12T23:49:20.312Z
+date: 2022-06-15T09:56:59.601Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -94,9 +94,6 @@ If there is a team vote that results in a tie, that team leader acts as the tieb
 This is the right arm of the team leader.
 The person is elected by the team leader. 
 The deputy leader is also the point of contact if the team leader is absent.
-
-
-
 
 ### Community Team
 
@@ -244,24 +241,24 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 #### Policies
 ##### Team Membership
-❖ Interested applicants apply by messaging the team lead
-❖ Applicants are discussed and voted on by the team with a majority required to join, with the team leader being the tiebreak
-❖ Team members may be removed due to inactivity or being no longer suitable for the position
+- Interested applicants apply by messaging the team lead
+- Applicants are discussed and voted on by the team with a majority required to join, with the team leader being the tiebreak
+- Team members may be removed due to inactivity or being no longer suitable for the position
 
 ##### Team Leader
-❖ The team leader acts as the point of contact with the board and other teams
-❖ The team leader is elected by the team vote or by the previous team leader
-❖ Any team member can call for team lead election at any time with a 6 month cooldown period in normal situations
-❖ Authority to assign team members to specific matchmaker pools
-❖ Authority to determine membership and structure of the matchmaker team
+- The team leader acts as the point of contact with the board and other teams
+- The team leader is elected by the team vote or by the previous team leader
+- Any team member can call for team lead election at any time with a 6 month cooldown period in normal situations
+- Authority to assign team members to specific matchmaker pools
+- Authority to determine membership and structure of the matchmaker team
 
 ##### Team responsibilities
-❖ Curate and update 1v1, 2v2, 4v4 matchmaker pools monthly
-❖ Determine the rating brackets and the pool breakdown by bracket
-❖ Update the maps rating spreadsheet to assist with making pools
-❖ Create matchmaker events to increase engagement with matchmaker
-❖ Gather data and feedback on what maps are liked by the community
-❖ Work with mapmakers to accept/give feedback to new matchmaker submissions
+- Curate and update 1v1, 2v2, 4v4 matchmaker pools monthly
+- Determine the rating brackets and the pool breakdown by bracket
+- Update the maps rating spreadsheet to assist with making pools
+- Create matchmaker events to increase engagement with matchmaker
+- Gather data and feedback on what maps are liked by the community
+- Work with mapmakers to accept/give feedback to new matchmaker submissions
 
 ### Balance Team
 
