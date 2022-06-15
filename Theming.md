@@ -2,7 +2,7 @@
 title: Theming
 description: Change how the client looks
 published: true
-date: 2022-06-15T14:28:26.996Z
+date: 2022-06-15T14:33:41.894Z
 tags: client
 editor: markdown
 dateCreated: 2021-11-07T18:14:37.054Z
@@ -36,3 +36,18 @@ You can change the following.
 3. FXML files (they are similar to HMTL) that define the layout If a file is not in your theme the client will use the default ones as a fallback. So try to only provide files you really changed. This increases compatibility with future versions. All this files from `src/main/resources/theme` in the client can be overwritten with your own.
 
 [That's](https://github.com/FAForever/downlords-faf-client/tree/develop/src/main/resources/theme) where you can find files that can be overwritten.
+
+### CSS
+
+Java FX uses CSS to style the application. Be aware that it uses special properties, that can be found in the java fx [documentation](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/doc-files/cssref.html). You probably want to make changes to the `style.css` file found in `src/main/resources/theme`. You can either provide that very file or better provide the `style_extension.css` and overwrite values from `style.css` there. The later version increases compatibility with future versions.
+
+### Images
+Are in `images/*` just provide your own.
+
+### FXML Files
+
+Try to avoid changing fxml files. This might make your theme fragile. Rather try to give certain items styleclasses. We are happy to accept Pull Requests that simply add styleclasses. You can then style them in the css. Although if you want major changes to layout that is a valid strategy. The fxml files still need to fit on their Controllers though. That would be something for an advanced theme.
+
+## Example
+
+[Here](https://github.com/FAForever/downlords-faf-client/files/4967300/Alex.zip) is a simple theme that sets accent color to green.
