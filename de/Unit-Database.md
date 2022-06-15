@@ -2,35 +2,33 @@
 title: Unit-Database
 description: 
 published: true
-date: 2021-10-14T17:34:08.405Z
+date: 2022-06-15T09:45:22.683Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:45:40.961Z
+dateCreated: 2021-12-24T23:47:16.475Z
 ---
 
-Every statistic of every unit in SC: FAF can be found on 2 Unit Databases Currently:
+Jede Statistik einer jeden Einheit in SC: FAF kann derzeit in 2 Einheiten-Datenbanken gefunden werden:
 - [Spooky](https://spooky.github.io/unitdb/#/)
-- [Offical](https://unitdb.faforever.com/)
+- [Offiziell](https://unitdb.faforever.com/)
 
-## How to Use it
-- Click on the name of a unit to see their detailed stats on a new page
-- Click on the box of the unit and then on the box of up to 3 other units to select multiple units
-- Click on the "Compare units..." button on the bottom to compare those units
+## Wie man es benutzt
+- Klicken Sie auf den Namen einer Einheit, um deren detaillierte Statistiken auf einer neuen Seite zu sehen
+- Klicken Sie auf das Feld der Einheit und dann auf das Feld von bis zu 3 anderen Einheiten, um mehrere Einheiten auszuwählen
+- Klicke auf die Schaltfläche "Einheiten vergleichen..." am unteren Rand, um diese Einheiten zu vergleichen
 
 ![unitdb.png](/unitdb.png)
-## Game build time of a unit
-In order to calculate how long its going to take to build a unit we are going to need 2 values from the unit database; Build rate and Build time.
-- Build rate - how quickly a unit can build
-- Build time - how long a unit takes to be built
+## Spielzeit für eine Einheit
+Um zu berechnen, wie lange es dauert, eine Einheit zu bauen, benötigen wir 2 Werte aus der Einheitendatenbank: Baurate und Bauzeit.
+- Baurate - wie schnell eine Einheit gebaut werden kann
+- Bauzeit - wie lange es dauert, eine Einheit zu bauen
 
-To get the real value in seconds we are going to use this formula:
-- Build time / Build Rate = Our value in seconds
-> **Example:**
-T3 engy building Monkeylord:
-15750 / 30 = 525 (sec)
+Um den tatsächlichen Wert in Sekunden zu erhalten, verwenden wir diese Formel:
+- Bauzeit / Baurate = Unser Wert in Sekunden
+**Beispiel:**
+T3-Energie baut Monkeylord:
+15750 / 30 = 525 (Sekunden)
 525 / 60 = 8 min 45 sec
 ![build_rate.png](/images/build_rate.png)
 ![build_time.png](/images/build_time.png)
 {.is-info}
-
-
