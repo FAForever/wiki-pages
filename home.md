@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-13T14:04:20.106Z
+date: 2022-06-15T09:49:12.119Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -66,8 +66,6 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tr>
 </tbody>
 </table>
-
-
 
 ## **Useful Information**
 <table>
