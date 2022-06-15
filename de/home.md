@@ -2,13 +2,15 @@
 title: Main Page
 description: 
 published: true
-date: 2021-12-30T11:17:01.702Z
+date: 2022-06-15T09:49:07.482Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T21:27:37.002Z
 ---
 
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
+
+## <p style="text-align: center;">[![faf-logo-small.png](/faf-logo-small.png) Neu bei FAF? - Beginnen Sie hier ![faf-logo-small.png](/faf-logo-small.png)](https://wiki.faforever.com/en/New-To-FAF)</p>
 
 ## FAF Client
 <table>
@@ -39,21 +41,15 @@ dateCreated: 2021-12-23T21:27:37.002Z
 </tbody>
 </table>
 
-## User Groups & FAQ & Rules 
+## FAF Teams / FAQ / Rules / Device Setup
 <table>
 <tbody>
 <tr>
 <td><ul>
-<li><a href="FAQ"> FAQ</a></li>
+<li><a href="FAF-Teams">FAF Teams</a></li>
 </ul></td>
 <td><ul>
-<li><a href="User-Groups"> User Groups</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#trainers"> Trainers</a></li>
-</ul></td>
-<td><ul>
-<li><a href="User-Groups#tournament-directors"> Tournament Directors</a></li>
+<li><a href="FAQ">FAQ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="FAF-Rules"> Rules</a></li>
@@ -61,11 +57,15 @@ dateCreated: 2021-12-23T21:27:37.002Z
 <td><ul>
 <li><a href="Vault-Rules">Vault Rules</a></li>
 </ul></td>
+<td><ul>
+<li><a href="Windows-Install">Windows Installation</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Linux-Install">Linux Installation</a></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
-
-
 
 ## **Useful Information**
 <table>
@@ -101,7 +101,7 @@ dateCreated: 2021-12-23T21:27:37.002Z
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/map-and-mod-icons/gpg-map-editor.png" width="40"/><a href="Map-Editor"> GPG Map Editor</a></li>
+<li><img src="/map-and-mod-icons/gpg-map-editor.png" width="40"/><a href="GPG-Map-Editor"> GPG Map Editor</a></li>
 <li><img src="/map-and-mod-icons/faf-map-editor.png" width="40"/><a href="FA-Forever-Map-Editor"> FA Forever Map Editor</a></li>
 </ul></td>
 <td><ul>
@@ -109,8 +109,7 @@ dateCreated: 2021-12-23T21:27:37.002Z
 <li><a href="Adaptive-Maps"> Adaptive Maps</a></li>
 </ul></td>
 <td><ul>
-<li><a href=""> Blank 1</a></li>
-<li><a href=""> Blank 2</a></li>
+
 </ul></td>
 </tr>
 </tbody>
@@ -122,17 +121,19 @@ dateCreated: 2021-12-23T21:27:37.002Z
 <tr>
 <td><ul>
 <li><a href="Modding"> Modding</a></li>
+<li><a href="Creating-models"> Creating models </a></li>
 </ul></td>
 <td><ul>
 <li><a href="FAF-Development"> FAF Development</a></li>
-</ul></td>
-<td><ul>
 <li><a href="AI-Modding"> AI Modding</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Bug-reporting-and-testing"> Bug reporting and testing</a></li>
+<li><a href="Blueprints/Weapon"> Blueprint Weapons</a></li>
+<li><a href="Blueprints"> Blueprints</a></li>
 </ul></td>
-<td></td>
+<td><ul>
+<li><a href="Bug-Reporting-and-Testing"> Bug reporting and testing </a></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +169,3 @@ dateCreated: 2021-12-23T21:27:37.002Z
 </tr>
 </tbody>
 </table>
-
-
-
-**Please Note: Currenly the FAF Login does not work if you would like to help and contribute to the wiki please contact the Promotions Team [here](https://discord.gg/YdGN2aESTQ)**
