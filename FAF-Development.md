@@ -2,32 +2,31 @@
 title: FAF Development
 description: 
 published: true
-date: 2022-06-14T23:07:44.716Z
+date: 2022-06-15T09:23:11.594Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
 ---
 
-This document only covers development of the FAF infrastructure.
+This document only covers development of the FAF.
 - For information about mapping, please look at [GPG Map Editor](/GPG-Map-Editor) or the [FAF Map Editor](/FA-Forever-Map-Editor).
--   For information about modding, please look [here](/Modding)
+- For information about modding, please look [here](/Modding)
 
+
+https://github.com/FAForever/fa/blob/deploy/fafdevelop/setup/setup-english.md
 ## Source code & version control
 
-Forged Alliance Forever is an open source project. You can find all sourcecode on [Github](https://github.com/FAForever). As the name indicates, Github uses **git** as version control system. If you want to participate in development, you have to use git and create a Github account (it's free). You can find a small introduction in our [Dev School](/FAF-Dev-School-Git). There are also lots of tutorials on YouTube and other sites.
+Forged Alliance Forever is an open source project. You can find all sourcecode on [Github](https://github.com/FAForever). As the name indicates, Github uses **git** as version control system. If you want to participate in development, you have to use git and create a Github account (it's free). You can find a small introduction into how to develop for the client on our [FAF Dev Playlist](https://youtube.com/playlist?list=PL0nxuIUIjpFv6cjiaEwwVYpn3utdVUshc) or you can check out the [Game Dev](https://youtube.com/playlist?list=PL0nxuIUIjpFvqJ5i1HfPwoA8FnBCtGLWn) Playlist on how to tackle developing for the game.
 
 We strongly recommend to use git on the command line at the beginning.
 Please do not use the git tools inside your IDE before you have understood the basics of git.
 
 ## Communication
 
-All developer communication takes place on Zulip.
+All developer communication takes place on Zulip or Corrisponding [Discord](https://discord.gg/2u36D9V) Channels.
 
 If you want to join us, please contact an administrator/moderator on the forums or in our in-client chat (white names at the top) so that we can invite you to our Zulip project. 
 
-Since mid-2016 we introduced a conference call every 2nd month, where developers and moderators talk about the progress. These calls are streamed in our [YouTube channel](https://www.youtube.com/channel/UCkAWiUu4QE172kv-ZuyR42w).
-
-Many developers also like to talk to each other on the [Faf Discord](https://discord.gg/2u36D9V) in the Development channels. Those are restricted channel up if you write those developers in private chat they will probably let you in.
 
 ## Infrastructure overview
 
