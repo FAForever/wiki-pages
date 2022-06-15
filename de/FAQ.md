@@ -2,18 +2,15 @@
 title: FAQ
 description: 
 published: true
-date: 2021-12-25T10:38:37.136Z
+date: 2022-06-15T09:57:33.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-25T10:38:37.136Z
 ---
 
-# Frequently Asked Questions (FAQ)
-
 ## Lobby
-- [Setting Up FAF on Windows & Linux](/FAQ/Client-Setup)
 - [Where are the Replays](/FAQ/Replays)
-- [How to download Maps](//Map-&-Mod-Vault#map-vault)
+- [How to download Maps](/Map-&-Mod-Vault#map-vault)
 - [How can i open replay by ID?](/Replays-&-Live-Games#online-vault)
 - [FAF Client and Forum Rules](/FAF-Rules)
 - [How do i play FAF offline](/FAQ/Offline)
@@ -21,7 +18,7 @@ dateCreated: 2021-12-25T10:38:37.136Z
 ## Game
 - [Adjacency Bonus](/Learning/Adjacency-Bonus)
 - [What is Engy Mod?](/Game-Modifications-(Mods)#engy-mod)
-- [Where can I find information not about the Lobby but about the game?](/Learning-SupCom)
+- [Where can I find information not about the Lobby but about the game?](/Learning)
 - [Where can i fins ther link to the latest patch](http://patchnotes.faforever.com/)
 
 ## Troubleshooting and utilities
