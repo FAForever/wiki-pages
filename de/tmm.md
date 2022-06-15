@@ -2,18 +2,16 @@
 title: Team Matchmaker
 description: 
 published: true
-date: 2021-12-14T10:19:53.973Z
+date: 2022-06-15T09:45:53.779Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:45:22.474Z
+dateCreated: 2021-12-24T23:48:15.627Z
 ---
 
-# Matchmaker Map Pools
+# Matchmaker-Kartenpools
+![matchmaker.jpg](/images/matchmaker.jpg)
 
-## [1v1](https://forum.faforever.com/topic/2302/1v1-ladder-map-pool-thread)
+- [1v1-Kartenpool](https://forum.faforever.com/topic/2302/1v1-ladder-map-pool-thread)
+- [2v2](https://forum.faforever.com/topic/2520/2v2-tmm-matchmaker-pool)
 
-## [2v2](https://forum.faforever.com/topic/2520/2v2-tmm-matchmaker-pool)
-## 4v4 TBD
-
-
-Along with the link to the [Ladder Leauge leaderboard](https://www.faforever.com/competitive/leaderboards/leagues)
+- [4v4 Full Share & 4v4 No Share](https://forum.faforever.com/topic/3084/4v4-tmm-release)
