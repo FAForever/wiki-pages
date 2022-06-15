@@ -2,7 +2,7 @@
 title: Theming
 description: Change how the client looks
 published: true
-date: 2022-06-15T14:33:41.894Z
+date: 2022-06-15T14:35:05.308Z
 tags: client
 editor: markdown
 dateCreated: 2021-11-07T18:14:37.054Z
@@ -51,3 +51,11 @@ Try to avoid changing fxml files. This might make your theme fragile. Rather try
 ## Example
 
 [Here](https://github.com/FAForever/downlords-faf-client/files/4967300/Alex.zip) is a simple theme that sets accent color to green.
+
+### Replacing the loading gif for ladder
+If you wanted to replace the loading gif that is showing while searching for ladder you just need to replace the gif. The default gif is found in images/ladder_loading.gif (since v1.2.1). Put another gif file in your theme folder under the images directory. Also you need the theme.properties in your root directory.
+
+## Development
+You should probably have a look at the original files. And here a little tip: The client refreshes the stylesheets on the fly if you change them.
+
+![85212411-b0048d80-b352-11ea-8a0f-71846316f420.gif](/images/client-icons/85212411-b0048d80-b352-11ea-8a0f-71846316f420.gif)
