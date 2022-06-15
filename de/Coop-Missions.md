@@ -2,35 +2,35 @@
 title: Coop-Missions
 description: 
 published: true
-date: 2021-10-27T22:58:14.296Z
+date: 2022-06-15T09:44:10.373Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:42:43.854Z
+dateCreated: 2021-12-24T23:43:22.333Z
 ---
 
-Cooperative missions are an exclusive feature to Forged Alliance Forever.
+Kooperative Missionen sind ein exklusives Feature von Forged Alliance Forever.
 
-### Features
-- Supreme Commander: Forged Alliance Campaign
-- Supreme Commander Campaign
-- Can be played solo or with up to 4 players.
-- All FAF graphics improvements
-- Adjustment for cooperative difficulty
-- Slightly better campaign AI
-- Additional secondary objectives (thanks to gregory1001)
-- Cooperative leaderboard. Fight for the best time!
-## Interface
-The interface is mostly self-explanatory, but we'll document it here anyway, as labeled:
-1) **Hosting Missions**
-- Select the desired mission from the dropdown list.
-- Set the game title (Required)
-- Set a password (Optional)
+### Merkmale
+- Supreme Commander: Forged Alliance-Kampagne
+- Supreme Commander-Kampagne
+- Kann allein oder mit bis zu 4 Spielern gespielt werden.
+- Alle FAF-Grafikverbesserungen
+- Anpassung des kooperativen Schwierigkeitsgrads
+- Geringfügig bessere Kampagnen-KI
+- Zusätzliche Sekundärziele (Dank an gregory1001)
+- Kooperative Bestenliste. Kämpfe um die beste Zeit!
+## Schnittstelle
+Das Interface ist größtenteils selbsterklärend, aber wir werden es hier trotzdem dokumentieren, da es beschriftet ist:
+1) **Hosting-Missionen**
+- Wählen Sie die gewünschte Mission aus der Dropdown-Liste aus.
+- Legen Sie den Titel des Spiels fest (erforderlich)
+- Legen Sie ein Passwort fest (optional)
 
-2) **Join Hosted Mission**
-Double click on hosted game in order to join it. Enter any password as normal.
+2) **Gastgebermissionen beitreten**
+Doppelklicken Sie auf ein gehostetes Spiel, um ihm beizutreten. Geben Sie ein beliebiges Passwort wie gewohnt ein.
 
-3) **Leaderboards**
-Here you can see the best times for selected mission. Watching these can give you a lot of information on how to beat a mission if you're struggling with it!
+3) **Leittafeln**
+Hier können Sie die besten Zeiten für die ausgewählte Mission sehen. Diese können dir eine Menge Informationen darüber geben, wie du eine Mission schlagen kannst, wenn du Probleme damit hast!
 
 ![coop-missions.png](/coop-missions.png)
 
