@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-15T21:47:44.680Z
+date: 2022-06-15T21:48:56.720Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -22,7 +22,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/fafchat-icon.png"><a href="FAF-chat"> FAF chat</a></li>
-<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Leaderboards"> Leaderboards</a></li>
+<li><img src="/faf-client-icons/leaderboards-icon.png"><a href="Tutorials"> Tutorials</a></li>
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/find-games-icon.png"><a href="Host-and-join-games"> Host & Join</a></li>
