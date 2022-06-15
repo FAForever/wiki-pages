@@ -2,13 +2,15 @@
 title: Главная страница
 description: 
 published: true
-date: 2022-05-03T09:31:58.261Z
+date: 2022-06-15T10:08:27.591Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
 ---
 
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
+
+## <p style="text-align: center;">[![faf-logo-small.png](/faf-logo-small.png) New To FAF? - Start Here ![faf-logo-small.png](/faf-logo-small.png)](https://wiki.faforever.com/en/New-To-FAF)</p>
 
 ## FAF Клиент
 <table>
@@ -43,18 +45,12 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <table>
 <tbody>
 <tr>
-<td><ul>
-<li><a href="User-Groups"> FAF Команды</a></li> 
-</ul></td>
-<td><ul>
-<li><a href="FAQ"> ЧаВо</a></li>
-</ul></td>
-<td><ul>
-<li><a href="FAF-Rules"> Правила</a></li>
-</ul></td>
-<td><ul>
-<li><a href="Vault-Rules"> Правила использования хранилища</a></li>
-</ul></td>
+<td><ul><li><a href="User-Groups"> FAF Команды</a></li></ul></td>
+<td><ul><li><a href="FAQ"> ЧаВо</a></li></ul></td>
+<td><ul><li><a href="FAF-Rules"> Правила</a></li></ul></td>
+<td><ul><li><a href="Vault-Rules"> Правила использования хранилища</a></li></ul></td>
+<td><ul><li><a href="Windows-Install">Windows Installation</a></li></ul></td>
+<td><ul><li><a href="Linux-Install">Linux Installation</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -102,10 +98,6 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <li><a href="Mission-Scripting"> Создание миссий</a></li>
 <li><a href="Adaptive-Maps"> Адаптивные карты</a></li>
 </ul></td>
-<td><ul>
-<li><a href=""> Blank 1</a></li>
-<li><a href=""> Blank 2</a></li>
-</ul></td>
 </tr>
 </tbody>
 </table>
@@ -116,15 +108,18 @@ dateCreated: 2021-12-23T16:26:19.315Z
 <tr>
 <td><ul>
 <li><a href="Modding"> Создание модов</a></li>
+<li><a href="Creating-models"> Creating models </a></li>
 </ul></td>
 <td><ul>
 <li><a href="FAF-Development"> разработка FAF</a></li>
-</ul></td>
-<td><ul>
 <li><a href="AI-Modding"> Модифицирование ИИ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Отчеты об ошибках и тестирование"> Отчеты об ошибках и тестирование</a></li>
+<li><a href="Blueprints/Weapon"> Blueprint Weapons</a></li>
+<li><a href="Blueprints"> Blueprints</a></li>
+</ul></td>
+<td><ul>
+<li><a href="Bug-Reporting-and-Testing"> Bug reporting and testing </a></li>
 </ul></td>
 <td></td>
 </tr>
