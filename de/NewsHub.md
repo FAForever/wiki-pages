@@ -2,68 +2,66 @@
 title: NewsHub
 description: 
 published: true
-date: 2021-10-27T23:04:20.214Z
+date: 2022-06-15T09:35:45.637Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:44:39.374Z
+dateCreated: 2021-12-24T23:46:10.283Z
 ---
 
 ![newshub.png](/newshub.png)
 
-The NewsHub is the new and improved One-Stop shot for all FAF news, It is mostly Updated every Monday by the FAF Promotion Team.
-The NewsHub can be accessed Via the Client and via the browser [here](https://www.faforever.com/newshub).
+Der NewsHub ist die neue und verbesserte zentrale Anlaufstelle für alle FAF-Nachrichten. Er wird größtenteils jeden Montag vom FAF Promotion Team aktualisiert.
+Der NewsHub kann über den Client und über den Browser [hier](https://www.faforever.com/newshub) aufgerufen werden.
 
-**1) Topbar**
-Here is where Some Important Information that needed to be displayed, This can be from Server Updates.
+## Topbar
+Hier werden einige wichtige Informationen angezeigt, die von Server-Updates stammen können.
 
-**2) Normal Article**
-The Normal article the Base News articles will be under E.G New Video Out, Ladder League updates.
+## Normaler Artikel
+Der Normale Artikel die Basis News Artikel werden unter z.B. Neues Video Out, Ladder League Updates.
 
-**3) Hero Article**
-The Hero article is used when something big has happened in the community or Tournament Winners E.G.
-Balance & Game Patch’s, Big Tournament Announcements and Much more.
+## Helden-Artikel
+Der Heldenartikel wird verwendet, wenn etwas Großes in der Community oder bei den Turniersiegern passiert ist, z.B.
+Balance & Game Patch's, große Turnierankündigungen und vieles mehr.
 
-**4) Right Side Panel**
-The Information panel is where the Promotions Team and Set up a long term link for useful information for the community to use.
-Until now it has just been linking to a mix of pages on the website and the forum.
+## Rechte Seitenleiste
+Das Informationsfeld ist der Ort, an dem das Promotion-Team und das Team einen langfristigen Link zu nützlichen Informationen für die Gemeinschaft einrichten.
+Bis jetzt wurde hier nur auf verschiedene Seiten der Website und des Forums verlinkt.
 
-- [FAF Streamers & Casters](/Casts&Livestreams)
-- [Tournaments](/Tournaments)
+- [FAF Streamer & Caster](/Casts&Livestreams)
+- [News-Post anfordern!](https://forms.gle/HsVXHwhZBRvLudEAA)
+- [Job Board](https://forum.faforever.com/category/21/job-openings-unpaid)
+- [Turniere](/Turniere)
 - [FAQ](https://forum.faforever.com/category/18/frequently-asked-questions)
-- [FAF Projects](https://wikijs.faforever.com/en/Projects)
+- [FAF-Projekte](https://wikijs.faforever.com/en/Projects)
 - [Team Matchmaker](/tmm)
-- [Development](/FAF-Development)
-- [Creative](/Creative)
-- [Contribute](/Contribute)
-- [Promotions](/Promotions)
-- [From the Internet](/From-the-Internet)
+- [Entwicklung](/FAF-Entwicklung)
+- [Beitragen](/Beitragen)
+- [Förderungen](https://discord.gg/3h6yQEwEVb)
 
+## Linke, mittlere und rechte Seitenleiste
+Dies sind die Seitenleisten, die für große Werbung für bevorstehende Turniere verwendet werden können, z.B. im Bild oben für das 2020 Summer Invitational.
 
-
-**5,6,7) Left, Mid and Right Sidebar**
-These are the Sidebars that can be used for Big Promotion of Upcoming Tournaments E.G In the image above it is promote the 2020 Summer Invitational.
-
->Here are the Specifications for all the sizes for all the sections if you would need a post on the NewsHub...
+>Hier sind die Spezifikationen für alle Größen für alle Abschnitte, wenn Sie einen Beitrag im NewsHub benötigen...
 >
->All Images need to be 96 DPI
+>Alle Bilder müssen 96 DPI haben.
 >
->1) Topbar may have any background colour.
->2) Normal article image 145x97
->3) Hero article image - 351x266
->4) Right hand side article image 189 wide, any height
->5) Left Sidebar - 250x800
->6) Mid Sidebar 300x600
->7) Right Sidebar - 250x800
+>1) Die Topbar kann eine beliebige Hintergrundfarbe haben.
+>2) Normales Artikelbild 145x97
+>3) Hero-Artikelbild - 351x266
+>4) Rechtes Artikelbild 189 breit, beliebige Höhe
+>5) Linke Seitenleiste - 250x800
+>6) Mittlere Seitenleiste 300x600
+>7) Rechte Seitenleiste - 250x800
 >
->For the left and Right sidebar the graphic should fade at the bottom to a solid background colour.
-I run this same background colour to the edge of the screen.
-They can actually have any height, but the height I provided is a good arbitrary height.
+>Für die linke und rechte Seitenleiste soll die Grafik am unteren Rand zu einer einfarbigen Hintergrundfarbe verblassen.
+Ich lasse dieselbe Hintergrundfarbe bis zum Rand des Bildschirms laufen.
+Sie können eigentlich jede Höhe haben, aber die von mir angegebene Höhe ist eine gute willkürliche Höhe.
 >
->Article Heading [Font](https://fonts.google.com/specimen/Electrolize?query=electr)
+>Artikelüberschrift [Schriftart](https://fonts.google.com/specimen/Electrolize?query=electr)
 >
->Badge [Font](https://fonts.google.com/specimen/Russo+One?query=russo)
+>Abzeichen [Schriftart](https://fonts.google.com/specimen/Russo+One?query=russo)
 >
->Please Visit the Promotions Discord For any more questions [here](https://discord.gg/CYztfPz)
+>Bitte besucht den Promotions-Diskord für weitere Fragen [hier](https://discord.gg/CYztfPz)
 >
->For any News Posting Request you can use the Google Form Request [link](https://forms.gle/y9jyPLiWHr9ELXrk9)
+>Für Anfragen zu News-Postings können Sie das Google-Formular Anfrage [Link](https://forms.gle/y9jyPLiWHr9ELXrk9) verwenden.
 {.is-info}
