@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2022-06-15T09:29:08.269Z
+date: 2022-06-15T09:30:57.234Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -50,13 +50,6 @@ FAF consists of 5 important projects, which reflect the basic architecture:
 	- The database is the backend for server and api.
 	- Instructions how to set up the db can be found on [Youtube](https://www.youtube.com/watch?v=3vsRs71vMII)
 
-Then there is the python client, which was the previous official client:
-- [client](https://github.com/FAForever/client): FAF lobby client (python)
-	- Instructions how to set up the python client dev environment can be found [here](/FAF-Dev-School-Client)
-
-FAF is working on a java-replacement for the server(discontinued):
-- [Server](https://github.com/FAForever/faf-java-server): FAF java server
-
 **All these projects have a readme which contains information how to use
 it.** For further questions please ask for help in our Zulip chat.
 
@@ -81,11 +74,6 @@ There are lots of starting points for new developers:
 	- If the situation is unclear, ask in Zulip.
 - Bring up any topic in Zulip and offer to work on that.
 	- The devs will give useful hints about your approach and tell you about possible conflicts.
-- Join #pair-programming in Zulip and team up with others
-
-## Dev Notes
-
-[Installing Luajit and Lupa for building lupa package](/Dev-Note-Lupa)
 
 ## Lessons
 - [Sources for FAF (Git and GitHub)](/FAF-Dev-School-Git)
@@ -93,11 +81,11 @@ There are lots of starting points for new developers:
 ## Other
 
 Resources for working on FA modding (the game code):
-1\) [Modding hints](/Modding)
+- [Modding hints](/Modding)
 
-2\) [AI Modding](/AI-Modding)
+- [AI Modding](/AI-Modding)
 
-2\) [LUA-Docs](/Modding/LUADOC)
+- [LUA-Docs](/Modding/LUADOC)
 
 ## First Time Guide
 
