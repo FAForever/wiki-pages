@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-15T09:49:12.119Z
+date: 2022-06-15T10:08:29.398Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -45,24 +45,12 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <table>
 <tbody>
 <tr>
-<td><ul>
-<li><a href="FAF-Teams">FAF Teams</a></li>
-</ul></td>
-<td><ul>
-<li><a href="FAQ">FAQ</a></li>
-</ul></td>
-<td><ul>
-<li><a href="FAF-Rules"> Rules</a></li>
-</ul></td>
-<td><ul>
-<li><a href="Vault-Rules">Vault Rules</a></li>
-</ul></td>
-<td><ul>
-<li><a href="Windows-Install">Windows Installation</a></li>
-</ul></td>
-<td><ul>
-<li><a href="Linux-Install">Linux Installation</a></li>
-</ul></td>
+<td><ul><li><a href="FAF-Teams">FAF Teams</a></li></ul></td>
+<td><ul><li><a href="FAQ">FAQ</a></li></ul></td>
+<td><ul><li><a href="FAF-Rules"> Rules</a></li></ul></td>
+<td><ul><li><a href="Vault-Rules">Vault Rules</a></li></ul></td>
+<td><ul><li><a href="Windows-Install">Windows Installation</a></li></ul></td>
+<td><ul><li><a href="Linux-Install">Linux Installation</a></li></ul></td>
 </tr>
 </tbody>
 </table>
