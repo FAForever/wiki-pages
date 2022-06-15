@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-15T10:08:29.398Z
+date: 2022-06-15T21:47:44.680Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -34,7 +34,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><img src="/faf-client-icons/replays-icon.png"><a href="Replays-&-Live-Games"> Replays &amp; Live Games</a></li>
-<li><a href="/Tutorials"> Tutorials Tab</a></li>
+<li><a href="/Theming"> Theming</a></li>
 </ul></td>
 <td></td>
 </tr>
