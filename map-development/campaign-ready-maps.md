@@ -2,7 +2,7 @@
 title: Maps available for adaptation to campaign-related content
 description: Information about what maps you can use for your campaign content
 published: true
-date: 2022-06-17T09:30:01.286Z
+date: 2022-06-17T09:32:01.812Z
 tags: campaign co-op
 editor: markdown
 dateCreated: 2022-06-17T08:42:06.609Z
@@ -98,7 +98,6 @@ Some maps are adaptive. The adaptive script is not immediately compatible with w
 
 You can use these maps for campaign-related content given that:
 
-- You do not remove the map author from the author field
 - You make a reference to the map author and their maps page, with the assumption that one is provided in this article
 
 With that, they guarantee you that:
