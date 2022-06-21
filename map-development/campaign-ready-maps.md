@@ -2,7 +2,7 @@
 title: Maps available for adaptation to campaign-related content
 description: Information about what maps you can use for your campaign content
 published: true
-date: 2022-06-17T09:32:01.812Z
+date: 2022-06-21T16:13:54.355Z
 tags: campaign co-op
 editor: markdown
 dateCreated: 2022-06-17T08:42:06.609Z
@@ -76,7 +76,7 @@ Every five minutes of play time takes an experienced developer one to two hours 
 
 ### Restrictions
 
-One of the vault rules at FAF is that we do not allow for re-uploads of GPG maps or variants of GPG maps. The only exceptions are those that have permission from the Creative Team that manage the vault. You can find members of the Creative Team in the FAF Discord channel.
+One of the vault rules at FAF is that we do not allow for re-uploads of GPG maps or variants of GPG maps. The only exceptions are those that have permission from the [Creative Team](https://wiki.faforever.com/en/FAF-Teams#members-5) that manage the vault. You can find members of the Creative Team in the FAF Discord channel.
 
 ## Generated maps
 
