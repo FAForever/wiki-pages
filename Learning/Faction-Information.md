@@ -2,7 +2,7 @@
 title: Faction Information
 description: 
 published: true
-date: 2021-12-30T07:36:08.183Z
+date: 2022-06-22T12:34:51.620Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -210,14 +210,14 @@ This page presents an overview of general faction diversity. It outlines the ove
 #### <img src="/images/learning/tech_1_icon.png"> Tech 1
 - **Land:**
 	- <img src="/images/learning/aeon/a_t1_l_scout.png" width="50" align="center" /> **Scout** - Hover, can go over water.
-	- <img src="/images/learning/aeon/a_lab.png" width="50" align="center" /> **Light Assault Bot** - Can shoot from transports. 
+	- <img src="/images/learning/aeon/a_lab.png" width="50" align="center" /> **Light Assault Bot** - Can shoot from transports. Has the highest DPS among bots capable of shooting from transports.
 	- <img src="/images/learning/aeon/a_t1_tank.png" width="50" align="center" /> **Aurora Tank** - Longer range than other tanks, but low HP and slower speed. Hover, can go over water.
-	- <img src="/images/learning/aeon/a_t1_l_arty.png" width="50" align="center"/> **Artillety** - Most accurate from T1 artillery, no splash. 
+	- <img src="/images/learning/aeon/a_t1_l_arty.png" width="50" align="center"/> **Artillety** - Most accurate T1 artillery, very small splash area. 
 - **Air:**
-	- <img src="/images/learning/aeon/a_t1_bomber.png" width="50" align="center"/> **Bomber** - Slightly worse than Seraphim, stuns units.
+	- <img src="/images/learning/aeon/a_t1_bomber.png" width="50" align="center"/> **Bomber** - Slightly worse than Seraphim, lowest damage among T1 bombers, stuns units.
 - **Naval:**
 	- <img src="/images/learning/aeon/a_frigate.png" width="50" align="center"/> **Frigate** - Has torpedo defence, no AA.
-	- <img src="/images/learning/aeon/a_t1_aa_boat.png" width="50" align="center"/> **AA boat** - Very fast boat with good AA.
+	- <img src="/images/learning/aeon/a_t1_aa_boat.png" width="50" align="center"/> **AA boat** - Very fast boat with good AA. Actually better against torpedo bombers compared to cruisers mass-wise, also due to being a cheap low-HP target while torpedo bombers tend to overkill badly.
 
 #### <img src="/images/learning/tech_2_icon.png"> Tech 2
 - **Buildings:**
