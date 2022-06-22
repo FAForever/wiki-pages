@@ -1,12 +1,14 @@
-Strategic missiles are long range weapons with a huge area damage
-effect. They ignore shields and can only be countered by a strategic
-defense missile. Units which can produce strategic missiles are: Tech 3
-Strategic Missile Launcher, Tech 3 Strategic Missile Submarine, Seraphim
-Tech 3 Battleship, and the Seraphim Experimental Missile launcher. The
-UEF Nuclear Warhead occupies a special position within the missiles.
-Although it is classified as a advanced tactical missile, and can be
-countered by a tactical missile defense, it will be listed here for
-comparison because of its similarities to strategic missiles.
+---
+title: Strategic-missiles
+description: 
+published: true
+date: 2022-06-22T12:19:07.900Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-31T09:45:08.877Z
+---
+
+Strategic missiles are long range weapons with a huge area damage effect. They ignore shields and can only be countered by a strategic  defense missile. Units which can produce strategic missiles are: Tech 3 Strategic Missile Launcher, Tech 3 Strategic Missile Submarine (for UEF, Aeon, and Cybran), Seraphim Tech 3 Battleship, and the Seraphim Experimental Missile launcher. The UEF Nuclear Warhead occupies a special position within the missiles. Although it is classified as a advanced tactical missile, and is countered only by a tactical missile defense, it will be listed here for comparison because of its similarities to strategic missiles.
 
 # Weapon Specifications
 
