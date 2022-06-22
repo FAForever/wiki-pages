@@ -2,7 +2,7 @@
 title: Faction Information
 description: 
 published: true
-date: 2022-06-22T12:34:51.620Z
+date: 2022-06-22T12:36:23.648Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -99,8 +99,7 @@ This page presents an overview of general faction diversity. It outlines the ove
 	- <img src="/images/learning/sera/sera_t2_pd.png" width="50" align="center"/> **Point Defense** - Uses a laser so it never misses or wastes any DPS, making it the best anti-T1 T2 point defence, but the low profile means it can be blocked by uneven terrain.
 	- <img src="/images/learning/sera/sera_t2_torpedo_launcher.png" width="50" align="center"/> **Torpedo Launcher** - The only torpedo launcher with torpedo  defense, it has also lower HP.
 	- <img src="/images/learning/sera/sera_t2_static_shield.png" width="50" align="center"/> **Static Shield** - Best shields in the game, expensive, but the  biggest and the strongest
-	- <img src="/images/learning/sera/sera_t2_sonar.png" width="50" align="center"/> **Sonar** - Best T2 sonar, since they don't have T3 sonar. 
-	- Seraphim has no Engineering Stations
+	- <img src="/images/learning/sera/sera_t2_sonar.png" width="50" align="center"/> **Sonar** - Best T2 sonar, since they don't have T3 sonar.
 - **Land:**
 	- <img src="/images/learning/sera/sera_t2_assault_bot.png" width="50" align="center"/> **Assault Bot** - Slow, but it has a great firing cycle for killing T1 and T2, plenty of HP, and kicks out a tonne of damage. best T2 land unit. Consider as a T2.5.
 	- <img src="/images/learning/sera/sera_t2_hover_tank.png" width="50" align="center"/> **Hover Tank** - Very fast hover tank with frontloaded firing cycle and good HP.
@@ -224,7 +223,6 @@ This page presents an overview of general faction diversity. It outlines the ove
 	- <img src="/images/learning/aeon/a_t2_pd.png" width="50" align="center"/> **Point Defense** – Strong PD that is not blocked by terrain, slow rate of fire, splash damage. Best dps.
 	- <img src="/images/learning/aeon/a_t2_shield.png" width="50" align="center"/> **Static Shield** - Strong shield but small radius. Can't be upgraded to T3.
 	- <img src="/images/learning/aeon/a_tmd.png" width="50" align="center"/> **TMD** - Deflect missiles, can counter infinite number of missiles at once, weak against rapid fire missiles. Can't stop missile aiming for way further.
-	- Aeon had no Engineering Station
 - **Land:**
 	- <img src="/images/learning/aeon/a_t2_obsidian.png" width="50" align="center"/> **Obsidian Tank** - Strong shielded tank with slow fire rate but high damage.
 	- <img src="/images/learning/aeon/a_t2_blaze.png" width="50" align="center"/> **Blaze Tank** - Fast hover tank, can go on water.
