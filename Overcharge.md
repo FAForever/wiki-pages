@@ -2,7 +2,7 @@
 title: Overcharge
 description: 
 published: true
-date: 2022-06-23T11:41:33.262Z
+date: 2022-06-23T11:42:06.569Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-23T11:35:51.321Z
@@ -19,7 +19,7 @@ used, and can use up to 35k energy. You need 9 Energy Storages for max Overcharg
 
 ### Damage
 
-Overcharge does damage in a small radius (2.5). It does a minimum of 5k damage to units, although it will not overkill units, so the full HP
+Overcharge does damage in a small radius (2.5). It does a minimum of 5k damage to units, although it will not overkill units, so full HP
 wreaks are left behind. It will do the maximum amount of damage it can, for the amount of energy you have available.
 
 -   Units: 5k - 15k
