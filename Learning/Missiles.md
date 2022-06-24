@@ -2,7 +2,7 @@
 title: Missiles
 description: 
 published: true
-date: 2022-06-22T12:23:42.053Z
+date: 2022-06-24T02:37:23.472Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:23.559Z
@@ -267,7 +267,7 @@ The UEF ACU Nuclear Warhead occupies a special position within the missiles. Alt
 
 ## Strategic Defense Missiles
 
-Strategic defense missiles are the counter weapons for strategic missiles. 1 SMD launcher can shoot down up to 4 simultaneously launched strategic missiles (3 if targeted close to the edge of the SMD radius and between the SMLs and the SMD).
+Strategic defense missiles are the counter weapons for strategic missiles. 1 SMD launcher can shoot down up to 5 simultaneously launched strategic missiles (3 if targeted close to the edge of the SMD radius and between the SMLs and the SMD, 4 if targeted direcly about the SMD, 5 if targeted close to the other side of the ring).
 
 <table>
 <thead>
