@@ -2,7 +2,7 @@
 title: Maps available for adaptation to campaign-related content
 description: Information about what maps you can use for your campaign content
 published: true
-date: 2022-06-21T16:13:54.355Z
+date: 2022-06-26T20:43:06.524Z
 tags: campaign co-op
 editor: markdown
 dateCreated: 2022-06-17T08:42:06.609Z
@@ -33,46 +33,47 @@ Every five minutes of play time takes an experienced developer one to two hours 
 
 ## GPG Maps
 
-- (20x20) Burial Mounds
-- (20x20) Concord Lake
-- (20x20) Drake's Ravine
-- (20x20) Emerald Crater
-- (40x40) Gentleman's Reef
-- (20x20) Ian's Cross
-- (10x10) Open Palms
-- (20x20) Seraphim Glaciers
-- (20x20) Seton's Clutch
-- (20x20) Sung Island
-- (40x40) The Great Void
 - (05x05) Theta Passage
 - (05x05) Winter Duel
-- (20x20) The Bermuda Locket
-- (10x10) Fields of Isis
-- (05x05) Canis River
-- (10x10) Syrtis Major
 - (05x05) Sentry Point
+- (05x05) Blasted Rock
+- (05x05) Sludge
+- (05x05) Ambush Pass
+- (05x05) Four-Corners
+- (05x05) Canis River
+- (10x10) Open Palms
+- (10x10) Fields of Isis
+- (10x10) Syrtis Major
 - (10x10) Finn's Revenge
-- (20x20) Roanoke Abyss
-- (40x40) Alpha 7 Quarantine
 - (10x10) Arctic Refuge
 - (10x10) Varga Pass
-- (20x20) Crossfire Canal
 - (10x10) Saltrock Colony
 - (10x10) Vya-3 Protectorate
-- (20x20) The Scar
-- (40x40) Hanna Oasis
-- (80x80) Betrayal Ocean
-- (80x80) Frostmill Ruins
 - (10x10) Four-Leaf Clover
 - (10x10) The Wilderness
 - (10x10) White Fire
 - (10x10) High Noon
 - (10x10) Paradise
-- (05x05) Blasted Rock
-- (05x05) Sludge
-- (05x05) Ambush Pass
-- (05x05) Four-Corners
+- (20x20) Burial Mounds
+- (20x20) Concord Lake
+- (20x20) Drake's Ravine
+- (20x20) Emerald Crater
+- (20x20) Ian's Cross
+- (20x20) Seraphim Glaciers
+- (20x20) Seton's Clutch
+- (20x20) Sung Island
+- (20x20) The Bermuda Locket
+- (20x20) Roanoke Abyss
+- (20x20) Crossfire Canal
+- (20x20) The Scar
 - (20x20) The Ditch
+- (40x40) Gentleman's Reef
+- (40x40) The Great Void
+- (40x40) Alpha 7 Quarantine
+- (40x40) Hanna Oasis
+- (80x80) Betrayal Ocean
+- (80x80) Frostmill Ruins
+
 
 ### Restrictions
 
@@ -108,18 +109,18 @@ With that, they guarantee you that:
 
 Maps page: n/a
 
-- (20x20) Virmire
 - (05x05) Viridium
-- (20x20) Therum
 - (05x05) The Ganges Chasma
+- (05x05) Optima Ferox
+- (05x05) Callisto
+- (10x10) Juvantae Chasma
+- (20x20) Virmire
+- (20x20) Therum
 - (20x20) Swirling River
 - (20x20) Suicide Circle
 - (20x20) Snake Rift
-- (05x05) Optima Ferox
 - (20x20) Nodacrux
 - (20x20) Krossfire
-- (10x10) Juvantae Chasma
-- (05x05) Callisto
 - (20x20) Asteria
 - (20x20) Adaptive Tartarus*
 
@@ -127,91 +128,95 @@ Maps page: n/a
 
 Maps page: https://forum.faforever.com/topic/2270/klutz-s-map-emporium
 
-- (20x20) Verdanis
+- (05x05) Stickleback Ridge
+- (05x05) Floralis*
+- (05x05) Bleak*
 - (10x10) TwoForts
-- (20x20) Twisted Isles
 - (10x10) Turmoil Lake
 - (10x10) Thermal Springs
 - (10x10) Tamara Pass
-- (20x20) Talon Canyon
-- (05x05) Stickleback Ridge
 - (10x10) Stellar Lagoon
 - (10x10) Speedmetal tribute
 - (10x10) Racketeer Ridge
-- (20x20) Ozymandias
-- (20x20) Mangrove Delta*
-- (20x20) Frozen Firefight*
-- (20x20) Forlorn Fjords*
-- (05x05) Floralis*
-- (20x20) Desolation*
-- (20x20) Caladan Crosswaters
-- (05x05) Bleak*
 - (10x10) Auburn Canyon*
 - (10x10) Astral Crater Battles
 - (10x10) Arrakeen Skirmisk
 - (10x10) Adaptive Thermal Springs
-- (15x15) Adaptive Pillar of Sand
 - (10x10) Adaptive Alpine Valley*
+- (15x15) Adaptive Pillar of Sand
+- (20x20) Verdanis
+- (20x20) Twisted Isles
+- (20x20) Talon Canyon
+- (20x20) Ozymandias
+- (20x20) Mangrove Delta*
+- (20x20) Frozen Firefight*
+- (20x20) Forlorn Fjords*
+- (20x20) Desolation*
+- (20x20) Caladan Crosswaters
+
 
 ### Jip
 
 Maps page: https://forum.faforever.com/topic/497/jip-s-maps-and-others
 
+- (05x05) Auralian - The core*
+- (05x05) Adaptive Hardshield Oasis
 - (10x10) Two Step Shuffle*
 - (10x10) Root of Beta*
 - (10x10) Pool of Entropy*
 - (10x10) Perfidious Barrenlands
-- (20x20) Mellow Shallows*
 - (10x10) Mauve*
-- (20x20) Lily Paids
 - (10x10) Kaali*
 - (10x10) Bjarg*
 - (10x10) Battle of the Craters*
 - (10x10) Autumn*
-- (05x05) Auralian - The core*
 - (10x10) Adaptive Long John Silver
-- (40x20) Adaptive Islet*
-- (05x05) Adaptive Hardshield Oasis
 - (10x10) Adaptive Archsimkats Valley
+- (20x20) Mellow Shallows*
+- (20x20) Lily Paids
+- (40x20) Adaptive Islet*
 
 ### Marlo
 
 Maps page: n/a
 
 - (10x10) Wood pile
+- (10x10) Argon
 - (20x20) Withered Battle
 - (20x20) Millenium Dawn
 - (20x20) Conquest for Omega
-- (10x10) Argon
 
 ### Penguin
 
 Maps page: n/a
 
-- (20x20) Winding River
-- (14x14) Twin Lands
+- (05x05) Fairview
 - (10x10) Twin Lands 
 - (10x10) Twin Cities
 - (10x10) Theras Passage
 - (10x10) Theos
-- (20x20) Sheboygen Falls
 - (10x10) Sacred grove
 - (10x10) Redwood Canyon
-- (20x20) Lobotsk
-- (20x20) Kludges Crossing
-- (05x05) Fairview
 - (10x10) Charity
 - (10x10) Canary Canyons
 - (10x10) Cobalt Lake
-- (20x20) Avaria 
 - (10x10) Adaptive Aldrasil
+- (14x14) Twin Lands
+- (20x20) Winding River
+- (20x20) Sheboygen Falls
+- (20x20) Lobotsk
+- (20x20) Kludges Crossing
+- (20x20) Avaria 
+
 
 ### Robustness
 
 Maps page: https://forum.faforever.com/topic/257/robustness-s-maps
 
+
+
+
 - (10x10) Step Forward
-- (20x20) Samsons Divide
 - (10x10) Our Hearts Demand Change
 - (10x10) Nitrus
 - (10x10) Hot Spot
@@ -224,6 +229,7 @@ Maps page: https://forum.faforever.com/topic/257/robustness-s-maps
 - (10x10) adaptive Gornyak
 - (10x10) Adaptive Algun
 - (10x10) Adaptive Abusmal Lake
+- (20x20) Samsons Divide
 
 
 
