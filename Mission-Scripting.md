@@ -2,11 +2,13 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2022-06-14T22:45:21.696Z
+date: 2022-06-26T19:29:15.384Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
 ---
+
+Maps avaliable as mentioned in Jip Campagin Development are listed [here](https://wiki.faforever.com/en/map-development/campaign-ready-maps)
 
 ## Introduction
 Currently there is no campaign editor for creating custom missions for Supreme Commander, but every mission is written in lua and it's easy to edit. You don't need to have too much experience with code since most of it is already used in the official campaign missions. In this tutorial I will explain how to create a mission and as an example we will use [Prothyon - 16](https://mega.co.nz/#!RpZ3GZZa!zBAJfoJ-29PDA3lewcJYMBVbyLLDoK609ueeMe80N00).
