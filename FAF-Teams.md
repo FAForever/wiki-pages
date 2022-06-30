@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-06-15T09:56:59.601Z
+date: 2022-06-30T15:34:51.303Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -263,9 +263,51 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 ### Balance Team
 
 #### Team Lead
+
 - Tagada
-#### Team Members
-- Tagada
+
+#### Members
+
+- Turin
+- Farmsletje
+- Tex
+- Archsimkat
+- Swkoll
+- SpikeyNoob
+
+#### Honorary Members
+
+- JaggedAppliance
+- Zlo
+- Petric
+- Keyser
+
+#### Policies
+❖ The main goal of the Balance team is the continous balancing of FAF's gameplay to make it more fun, fair, and engaging.
+
+##### Team Membership
+❖ Interested applicants apply by messaging the team lead.
+❖ Applicants are discussed and voted on by the team with a majority required to join, with the team leader being the tiebreak.
+❖ Applicants are expected to be experienced players and have good understanding of the competitive gameplay.
+❖ New members are accepted on a trial period that lasts up to 3 months.
+❖ Team members may be removed due to inactivity or being no longer suitable for the position by the team leader.
+
+##### Team Leader
+❖ The team leader acts as the point of contact with the board and other teams.
+❖ The team leader is elected by the team vote or by the previous team leader.
+❖ Any team member can call for team lead election at any time with a 3 month cooldown period in normal situations.
+
+##### Member
+❖ Member of the Balance team is expected to actively work towards team's goals and responsibilities. This is achieved by discussing balance matters with the team, creating Pull requests in the repository, and taking part in meetings.
+
+##### Honorary Member
+❖ Honorary members are experienced players or past members of the team. They provide their insights on balance matters however they don't have any voting powers and are not subject to any activity standards.
+
+##### Team responsibilities
+❖ Maintain and improve the gameplay of FAF
+❖ Roll-out patches to fix any bugs and introduce new features
+❖ Prepare patchnotes and explain to the community the reasons behind changes made in the patch
+❖ Engage with the community and collect feedback
 
 ### Game Team
 #### Team Members:
