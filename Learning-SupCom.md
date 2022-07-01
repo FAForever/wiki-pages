@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-05-21T13:08:08.129Z
+date: 2022-07-01T21:25:49.433Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -10,7 +10,7 @@ dateCreated: 2021-12-30T20:32:41.077Z
 
 ## Getting Started
 
-If you need information on how to set up Supreme Commander: Forged Alliance (SC:FA) and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
+If you need information on how to set up Supreme Commander: Forged Alliance (SC:FA) and the FAF client, you can read the [Windows Installation Instructions](https://wiki.faforever.com/en/Windows-Install) or the [Linux Installation Instructions](https://wiki.faforever.com/en/Linux-Install).
 
 If you want to know what is different compared to the Steam version of SC:FA, you can read [this](https://wiki.faforever.com/en/Changes-from-steam).
 
