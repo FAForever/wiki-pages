@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2022-07-01T21:15:10.179Z
+date: 2022-07-01T21:15:46.117Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -15,7 +15,7 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 
 # Useful Links
 
-* [How To Install FAF on Windows](https://wiki.faforever.com/en/FAQ/Client-Setup) or [Linux](https://wiki.faforever.com/en/Windows-Install)
+* [How To Install FAF on Windows](https://wiki.faforever.com/en/Windows-Install) or [Linux](https://wiki.faforever.com/en/Linux-Install)
 
 * [Download FAF Client](https://faforever.com/client)
 
