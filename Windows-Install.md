@@ -2,27 +2,42 @@
 title: Windows Installation
 description: 
 published: true
-date: 2022-06-13T14:04:56.428Z
+date: 2022-07-01T21:56:11.773Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
 ---
 
-Setting up the FAF client is very easy and FAF itself requires almost no setup after it has been installed.
-
-**As a general rule, you do not need any external links to mods or enhancements!** The reason for this is: **The FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Map-&-Mod-Vault).
-
-There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
-
 ## Installing The Client and Forged Alliance
-- (OPTIONAL) : If you own a physical box copy of EITHER Supreme Commander (base game) or Forged Alliance (expansion), EITHER code activates both titles on steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
-- If you do not already own it, Supreme Commander: Forged Alliance can be found on the [Steam store](http://store.steampowered.com/app/9420/) or other places.
-- To install the FAF client, download it from [here](https://www.faforever.com/client) and run the installer. 
+
+Setting up the FAF client is very easy and requires almost no setup after it has been installed.
+
+**Step 1:**  Install Supreme Commander: Forged Alliance
+- (OPTIONAL) : If you own a physical box copy of EITHER Supreme Commander (base game) or Forged Alliance (expansion), EITHER code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
+- If you do not already own it, Supreme Commander: Forged Alliance can be found on the [Steam Store](http://store.steampowered.com/app/9420/) or other places.
+
+**Step 2:** Download the [FAF Client](https://faforever.com/client) and install it
+**Step 3:** [Make a FAF account](https://faforever.com/account/register)
+**Step 4:** Do [Steam Link](https://www.faforever.com/account/link) or [GOG Link](https://www.faforever.com/account/linkGog)
+**Step 5:** Make a profile and run the game
 - Once the game and client are installed, run Forged Alliance once to create a profile in it, then close it.
 - Start the FAF client and go to the Play tab, then [host a game](/Host-and-join-games). This will start the patching process and once the host game dialog appears, you can host a game, or close it to join another game.
-	- It patches the game separately from your current installation. That means that you can continue to use your original game and FAF concurrently – they do not “overwrite” each other.
-	- FAF might ask you to specify the Forged Alliance folder so just simply direct it to your *Supreme Commander: Forged Alliance* folder on your hard drive. If you bought Supreme Commander: Forged Alliance on Steam, the game is located in your Steam Library folder. To find that folder, start Steam, go to Steam - Settings, click Downloads, and click the STEAM LIBRARY FOLDERS button. The Steam Library folder has a folder steamapps\\common, there you should find your Supreme Commander Forged Alliance folder.
+
+## Notes:
+
+
+
+ - **As a general rule, you do not need any external links to mods or enhancements because the FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Map-&-Mod-Vault).
+
+- There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
+
+ - It patches the game separately from your current installation. That means that you can continue to use your original game and FAF concurrently – they do not “overwrite” each other.
+- FAF might ask you to specify the Forged Alliance folder so just simply direct it to your *Supreme Commander: Forged Alliance* folder on your hard drive. If you bought Supreme Commander: Forged Alliance on Steam, the game is located in your Steam Library folder. To find that folder, start Steam, go to Steam - Settings, click Downloads, and click the STEAM LIBRARY FOLDERS button. The Steam Library folder has a folder steamapps\\common, there you should find your Supreme Commander Forged Alliance folder.
 - Your setup is now completed, but you may wish to add more to your experience by downloading [Map & Mod Vault](/Map-&-Mod-Vault), but normally, any game you join, the mods and maps will be downloaded automatically, so you don't need to do anything else.
+
+- Some popular mods, like [GAZ_UI](/Mods/GAZ_UI) and Hotbuild, are already [integrated](/Game-Modifications-(Mods)#Integrated-Mods) and require no installation - simply enable their features in-game.
+
+- All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault), and can be used according to preference.
 
 ## What is Steam link/GOG link, why is it required, and how do I do it?
 
@@ -44,9 +59,3 @@ If you experience issues setting up Steam link, you can ask for help in the  [#t
 
 [Setting your Steam profile and games list to public:
 ![set_to_public.png](/images/set_to_public.png)](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276)
-
-## Installing Mods
-
-Some popular mods, like [GAZ_UI](/Mods/GAZ_UI) and Hotbuild, are already [integrated](/Game-Modifications-(Mods)#Integrated-Mods) and require no installation - simply enable their features in-game.
-
-All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault), and can be used according to preference.
