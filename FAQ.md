@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2022-07-01T22:23:32.232Z
+date: 2022-07-01T22:25:48.704Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -35,5 +35,5 @@ dateCreated: 2021-11-02T17:53:00.029Z
 - [Running the game multiple times](/FAQ/Running-the-game-multiple-times)
 
 ## Additional FAQ's
-- [Forum FAQ's](https://forum.faforever.com/category/18/frequently-asked-questions)
 - [New To FAF FAQ's](https://wiki.faforever.com/en/New-To-FAF)
+- [Forum FAQ's](https://forum.faforever.com/category/18/frequently-asked-questions)
