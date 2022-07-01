@@ -2,19 +2,18 @@
 title: Windows Installation
 description: 
 published: true
-date: 2022-07-01T21:56:11.773Z
+date: 2022-07-01T22:06:02.584Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
 ---
 
-## Installing The Client and Forged Alliance
+## Installing The Client and Supreme Commander: Forged Alliance
 
 Setting up the FAF client is very easy and requires almost no setup after it has been installed.
 
 **Step 1:**  Install Supreme Commander: Forged Alliance
-- (OPTIONAL) : If you own a physical box copy of EITHER Supreme Commander (base game) or Forged Alliance (expansion), EITHER code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
-- If you do not already own it, Supreme Commander: Forged Alliance can be found on the [Steam Store](http://store.steampowered.com/app/9420/) or other places.
+- If you own a retail version of Supreme Commander, you can use its code to redeem it on Steam.  If you don't already own it, Supreme Commander: Forged Alliance can be found on the [Steam Store](http://store.steampowered.com/app/9420/) or [GOG Store](https://www.gog.com/game/supreme_commander_gold_edition), among other places.
 
 **Step 2:** Download the [FAF Client](https://faforever.com/client) and install it
 **Step 3:** [Make a FAF account](https://faforever.com/account/register)
@@ -24,9 +23,7 @@ Setting up the FAF client is very easy and requires almost no setup after it has
 - Start the FAF client and go to the Play tab, then [host a game](/Host-and-join-games). This will start the patching process and once the host game dialog appears, you can host a game, or close it to join another game.
 
 ## Notes:
-
-
-
+- (OPTIONAL) : If you own a physical box copy of EITHER Supreme Commander (base game) or Forged Alliance (expansion), EITHER code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
  - **As a general rule, you do not need any external links to mods or enhancements because the FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Map-&-Mod-Vault).
 
 - There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
