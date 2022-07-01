@@ -2,19 +2,21 @@
 title: Windows Installation
 description: 
 published: true
-date: 2022-07-01T22:06:02.584Z
+date: 2022-07-01T22:08:39.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
 ---
 
-## Installing The Client and Supreme Commander: Forged Alliance
+
 
 Setting up the FAF client is very easy and requires almost no setup after it has been installed.
 
-**Step 1:**  Install Supreme Commander: Forged Alliance
-- If you own a retail version of Supreme Commander, you can use its code to redeem it on Steam.  If you don't already own it, Supreme Commander: Forged Alliance can be found on the [Steam Store](http://store.steampowered.com/app/9420/) or [GOG Store](https://www.gog.com/game/supreme_commander_gold_edition), among other places.
+If you own a retail version of Supreme Commander, you can use its code to redeem it on Steam.  If you don't already own it, Supreme Commander: Forged Alliance can be found on the [Steam Store](http://store.steampowered.com/app/9420/) or [GOG Store](https://www.gog.com/game/supreme_commander_gold_edition), among other places.
 
+## Installing The Client and Supreme Commander: Forged Alliance
+
+**Step 1:**  Install Supreme Commander: Forged Alliance
 **Step 2:** Download the [FAF Client](https://faforever.com/client) and install it
 **Step 3:** [Make a FAF account](https://faforever.com/account/register)
 **Step 4:** Do [Steam Link](https://www.faforever.com/account/link) or [GOG Link](https://www.faforever.com/account/linkGog)
