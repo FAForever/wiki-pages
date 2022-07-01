@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2022-06-12T23:46:43.221Z
+date: 2022-07-01T22:23:32.232Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -33,3 +33,7 @@ dateCreated: 2021-11-02T17:53:00.029Z
 - [Storing FAF patches on a different Drive than C](/FAQ/Storing-FAF-patches-on-a-different-Drive-than-C)
 - [Download issues (IPv6)](/FAQ/Download-issues-(IPv6))
 - [Running the game multiple times](/FAQ/Running-the-game-multiple-times)
+
+## Additional FAQ's
+- [Forum FAQ's](https://forum.faforever.com/category/18/frequently-asked-questions)
+- [New To FAF FAQ's](https://wiki.faforever.com/en/New-To-FAF)
