@@ -2,7 +2,7 @@
 title: Windows Installation
 description: 
 published: true
-date: 2022-07-01T22:12:45.435Z
+date: 2022-07-02T12:18:43.113Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
@@ -25,7 +25,7 @@ If you own a retail version of Supreme Commander, you can use its code to redeem
 - Start the FAF client and go to the Play tab, then [host a game](/Host-and-join-games). This will start the patching process and once the host game dialog appears, you can host a game, or close it to join another game.
 
 ## Notes:
-- (OPTIONAL) : If you own a physical box copy of EITHER Supreme Commander (base game) or Forged Alliance (expansion), EITHER code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
+- If you own a physical box copy of either Supreme Commander (base game) or Forged Alliance (expansion), either code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
  - **As a general rule, you do not need any external links to mods or enhancements because the FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Map-&-Mod-Vault).
 
 - There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
