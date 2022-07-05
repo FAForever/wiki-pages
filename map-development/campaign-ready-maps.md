@@ -2,7 +2,7 @@
 title: Maps available for adaptation to campaign-related content
 description: Information about what maps you can use for your campaign content
 published: true
-date: 2022-06-26T20:43:06.524Z
+date: 2022-07-05T10:56:35.453Z
 tags: campaign co-op
 editor: markdown
 dateCreated: 2022-06-17T08:42:06.609Z
@@ -33,46 +33,72 @@ Every five minutes of play time takes an experienced developer one to two hours 
 
 ## GPG Maps
 
-- (05x05) Theta Passage
-- (05x05) Winter Duel
-- (05x05) Sentry Point
-- (05x05) Blasted Rock
-- (05x05) Sludge
-- (05x05) Ambush Pass
-- (05x05) Four-Corners
-- (05x05) Canis River
-- (10x10) Open Palms
-- (10x10) Fields of Isis
-- (10x10) Syrtis Major
-- (10x10) Finn's Revenge
-- (10x10) Arctic Refuge
-- (10x10) Varga Pass
-- (10x10) Saltrock Colony
-- (10x10) Vya-3 Protectorate
-- (10x10) Four-Leaf Clover
-- (10x10) The Wilderness
-- (10x10) White Fire
-- (10x10) High Noon
-- (10x10) Paradise
-- (20x20) Burial Mounds
-- (20x20) Concord Lake
-- (20x20) Drake's Ravine
-- (20x20) Emerald Crater
-- (20x20) Ian's Cross
-- (20x20) Seraphim Glaciers
-- (20x20) Seton's Clutch
-- (20x20) Sung Island
-- (20x20) The Bermuda Locket
-- (20x20) Roanoke Abyss
-- (20x20) Crossfire Canal
-- (20x20) The Scar
-- (20x20) The Ditch
-- (40x40) Gentleman's Reef
-- (40x40) The Great Void
-- (40x40) Alpha 7 Quarantine
-- (40x40) Hanna Oasis
-- (80x80) Betrayal Ocean
-- (80x80) Frostmill Ruins
+### 5km x 5km
+
+| Folder Name 	| Map Name      	|
+|-------------	|---------------	|
+| SCMP_012    	| Theta Passage 	|
+| SCMP_013    	| Winter Duel   	|
+| SCMP_018    	| Sentry Point  	|
+| SCMP_036    	| Blasted Rock  	|
+| SCMP_037    	| Sludge        	|
+| SCMP_038    	| Ambush Pass   	|
+| SCMP_039    	| Four-Corners  	|
+| SCMP_016    	| Canis River   	|
+
+### 10km x 10km
+
+| Folder Name 	| Map Name           	|
+|-------------	|--------------------	|
+| SCMP_007    	| Open Palms         	|
+| SCMP_015    	| Fields of Isis     	|
+| SCMP_017    	| Syrtis Major       	|
+| SCMP_019    	| Finn's Revenge     	|
+| SCMP_022    	| Arctic Refuge      	|
+| SCMP_023    	| Varga Pass         	|
+| SCMP_025    	| Saltrock Colony    	|
+| SCMP_026    	| Vya-3 Protectorate 	|
+| SCMP_031    	| Four-Leaf Clover   	|
+| SCMP_032    	| The Wilderness     	|
+| SCMP_013    	| White Fire         	|
+| SCMP_034    	| High Noon          	|
+| SCMP_035    	| Paradise           	|
+
+### 20km x 20km
+
+| Folder Name 	| Map Name           	|
+|-------------	|--------------------	|
+| SCMP_001    	| Burial Mounds      	|
+| SCMP_002    	| Concord Lake       	|
+| SCMP_003    	| Drake's Ravine     	|
+| SCMP_004    	| Emerald Crater     	|
+| SCMP_006    	| Ian's Cross        	|
+| SCMP_008    	| Seraphim Glaciers  	|
+| SCMP_009    	| Seton's Clutch     	|
+| SCMP_010    	| Sung Island        	|
+| SCMP_014    	| The Bermuda Locket 	|
+| SCMP_020    	| Roanoke Abyss      	|
+| SCMP_024    	| Crossfire Canal    	|
+| SCMP_027    	| The Scar           	|
+| SCMP_040    	| The Ditch          	|
+
+### 40km x 40km
+
+| Folder Name 	| Map Name           	|
+|-------------	|--------------------	|
+| SCMP_005    	| Gentleman's Reef   	|
+| SCMP_011    	| The Great Void     	|
+| SCMP_021    	| Alpha 7 Quarantine 	|
+| SCMP_028    	| Hanna Oasis        	|
+
+
+### 80km x 80km
+
+| Folder Name 	| Map Name        	|
+|-------------	|-----------------	|
+| SCMP_029    	| Betrayal Ocean  	|
+| SCMP_030    	| Frostmill Ruins 	|
+
 
 
 ### Restrictions
