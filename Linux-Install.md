@@ -68,7 +68,7 @@ Search for "FAF" in the applications menu, you should be able to run the client 
 
 3. Set the following launch options to the steam settings for Forged Alliance under `Properties -> Set Launch Options`:
 ```
-PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
+PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
 ```
 
 4. Install video and audo libraries for Forged Alliance using protontricks:
