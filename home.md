@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-06-17T08:26:46.408Z
+date: 2022-07-30T13:49:33.875Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -130,6 +130,10 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <table>
 <tbody>
 <tr class="odd">
+<td><ul>
+<li><a href="https://github.com/FAForever/fa/releases"> Game</a></li>
+<li><a href="http://patchnotes.faforever.com"> Balance</a></li>
+</ul></td>
 <td><ul>
 <li><a href="/patches/Game-&-Balance-Patchnotes-2011"> 2011</a></li>
 <li><a href="/patches/Game-&-Balance-Patchnotes-2012"> 2012</a></li>
