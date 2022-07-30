@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-07-01T21:25:49.433Z
+date: 2022-07-30T13:23:48.449Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -32,7 +32,7 @@ If you know the basics of the game and are looking to improve your gameplay, you
 
 [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365) - 1,816 words (~8 minutes)
 
-[Heaven's Video Tutorials - 60 videos](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS) (between 3 and 54 minutes each)
+[Heaven's Video Tutorials](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS) - 60 videos (between 3 and 54 minutes each)
 
 [TheForgedAllianceColonel's Tutorials Playlist](https://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0) - 28 videos (between 2 and 29 minutes each)
 
