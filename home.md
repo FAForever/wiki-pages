@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-07-30T13:49:33.875Z
+date: 2022-12-02T12:18:33.968Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -11,6 +11,21 @@ dateCreated: 2021-08-31T09:44:13.010Z
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
 
 ## <p style="text-align: center;">[![faf-logo-small.png](/faf-logo-small.png) New To FAF? - Start Here ![faf-logo-small.png](/faf-logo-small.png)](https://wiki.faforever.com/en/New-To-FAF)</p>
+
+## Popular Information
+<table>
+<tbody>
+<tr>
+<td><ul><li><a href="Learning-SupCom">How To Play</a></li></ul></td>
+<td><ul><li><a href="FAF-Teams">FAF Teams</a></li></ul></td>
+<td><ul><li><a href="FAQ">FAQ</a></li></ul></td>
+<td><ul><li><a href="FAF-Rules"> Rules</a></li></ul></td>
+<td><ul><li><a href="Vault-Rules">Vault Rules</a></li></ul></td>
+<td><ul><li><a href="Windows-Install">Windows Installation</a></li></ul></td>
+<td><ul><li><a href="Linux-Install">Linux Installation</a></li></ul></td>
+</tr>
+</tbody>
+</table>
 
 ## FAF Client
 <table>
@@ -41,26 +56,13 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </tbody>
 </table>
 
-## FAF Teams / FAQ / Rules / Device Setup
-<table>
-<tbody>
-<tr>
-<td><ul><li><a href="FAF-Teams">FAF Teams</a></li></ul></td>
-<td><ul><li><a href="FAQ">FAQ</a></li></ul></td>
-<td><ul><li><a href="FAF-Rules"> Rules</a></li></ul></td>
-<td><ul><li><a href="Vault-Rules">Vault Rules</a></li></ul></td>
-<td><ul><li><a href="Windows-Install">Windows Installation</a></li></ul></td>
-<td><ul><li><a href="Linux-Install">Linux Installation</a></li></ul></td>
-</tr>
-</tbody>
-</table>
 
-## **Useful Information**
+## **Additional Information**
 <table>
 <tbody>
 <tr>
 <td><ul>
-<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> Learning SupCom</a></li>
+<li><img src="/information-icons/tutorials-icon.png"/><a href="Learning-SupCom"> How To Play FAF & Get Better</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Glossary"> Glossary</a></li>
 <li><img src="/information-icons/tutorials-icon.png"/><a href="Changes-from-steam"> Changes from steam</a></li>
 </ul></td>
@@ -77,7 +79,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <td><ul>
 <li><img src="/information-icons/qai.png" width="25"/><a href="Bots">Bots</a></li>
 <li><img src="/information-icons/chat-icon.png"/><a href="Chat-IRC-server"> Connect to Aeolus via IRC</a></li>
-<li><img src="/information-icons/rating-icon.png" width="40"/><a href="Rating-System"> Rating System</a></li>
+<li><img src="/information-icons/rating-icon.png" width="40"/><a href="league-system"> League System</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -93,15 +95,17 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <li><img src="/map-and-mod-icons/faf-map-editor.png" width="40"/><a href="FA-Forever-Map-Editor"> FA Forever Map Editor</a></li>
 </ul></td>
 <td><ul>
-<li><a href="Mission-Scripting"> Mission Scripting</a></li>
 <li><a href="Adaptive-Maps"> Adaptive Maps</a></li>
+<li><a href="/map-development/Adaptive-Mapping-2021"> Apaptive Mapping 2021 Update</a></li>
 </ul></td>
 <td><ul>
+<li><a href="Mission-Scripting"> Mission Scripting</a></li>
 
 </ul></td>
 </tr>
 </tbody>
 </table>
+
 
 ## **Mod Development**
 <table>
@@ -131,8 +135,8 @@ dateCreated: 2021-08-31T09:44:13.010Z
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://github.com/FAForever/fa/releases"> Game</a></li>
-<li><a href="http://patchnotes.faforever.com"> Balance</a></li>
+<li><a href="https://github.com/FAForever/fa/releases"> All Patches 2014 - Present </a></li>
+<li><a href="http://patchnotes.faforever.com"> Balance Patches 2015 - Present </a></ul></td>
 </ul></td>
 <td><ul>
 <li><a href="/patches/Game-&-Balance-Patchnotes-2011"> 2011</a></li>
@@ -156,6 +160,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 </ul></td>
 <td><ul>
 <li><a href="/patches/Game-&-Balance-Patchnotes-2021"> 2021</a></li>
+<li><a href="/patches/Game-&-Balance-Patchnotes-2022"> 2022</a></li>
 </ul></td>
 <td></td>
 </tr>
