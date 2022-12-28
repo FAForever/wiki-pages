@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-12-28T01:08:05.119Z
+date: 2022-12-28T01:09:17.294Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -100,7 +100,7 @@ The deputy leader is also the point of contact if the team leader is absent.
 
 ### Community Team
 
-
+### Promotions Team
 #### Members 
 ##### Current Team Leader
   - Javi
