@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-06-30T15:34:51.303Z
+date: 2022-12-28T01:08:05.119Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -23,13 +23,13 @@ These are the current Team Leaders:
 	> **Deribus**
 
 - ![promo.png](/cos-icons/promo.png) **Promotions Team Leeader:** 
-	>	**Rowey**
+	>	**Javi**
 
 - **FAF Live Team Leader:**
-	> **FtXCommando**
+	> TBD
 
 - ![tournament.png](/cos-icons/tournament.png) **Tournament Team Leader:** 
-	>	**FtXCommando**
+	>	**Swkoll**
   
 - ![matchmaker.png](/cos-icons/matchmaker.png) **Matchmaking Team Leader:** 
 	>	**Archsimkat**
@@ -48,6 +48,9 @@ These are the current Team Leaders:
 
 - ![devops.png](/cos-icons/devops.png) **DevOps Team Leader:** 
 	>	**Brutus5000**
+  
+- **Campaign Team Leader**
+	> **Rezy-Noob**
 
 ## The Teams
 
@@ -97,7 +100,17 @@ The deputy leader is also the point of contact if the team leader is absent.
 
 ### Community Team
 
-### Promotions Team
+
+#### Members 
+##### Current Team Leader
+  - Javi
+##### Members
+  - Giebmasse
+  - Jip
+##### Associates 
+  - Phong
+  - Fichom
+  - Spikey Noob### Promotions Team
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
 - The team leader is to be voted upon by team members
@@ -122,22 +135,12 @@ The deputy leader is also the point of contact if the team leader is absent.
 - Update Patreon bi-monthly with written post or YouTube video's
 - Maintain Social Media Platforms with updated not limited to Facebook, Twitter, Reddit 
 
-#### Members 
-##### Current Team Leader
-  - Rowey
-##### Members
-  - Giebmasse
-  - Javi
-  - Fury
-  - Jip
-  - Phong
-  - Rowey
   
  
 ### FAFLive Team
 #### Members
 ##### FAFLive Manager:
-- FtXCommando
+- TBD
 ##### FAFLive Organizers:
 - Tagada
 - Farmsletje
@@ -185,7 +188,7 @@ Board.
 ### Tournament Team
 #### Members
 ###### FAF Tournament Manager:
-- FtXCommando
+- Swkoll
 ##### FAF Senior TDs:
 - Morax
 - Swkoll
@@ -382,7 +385,11 @@ The election uses approval voting. This means that the person with the most appr
 - Medicraze
 - NarNerdPower
 - Viking
-#### Policies:
+#### Mission:
+The moderation team’s mission is to keep the community a healthy and pleasant place
+for all users, on all FAF platforms, by enforcing the rules of the community.
+The moderation team also determines the moderation policy and rules for the client,
+discord, forum, and other FAF managed platforms.
 #### Moderation Team Lead
 - Acting as the final point of appeal for all moderation decisions
 - Determining the membership and structure of the moderation team
@@ -419,6 +426,34 @@ This is achieved by following our key goals. Everything we do should be
 1. as simple as possible, but as complex as required.
 
 *More details on the dev team can be found at [DevOps](/en/Contribution/Teams/DevOps)
+### Campaign Team
+#### Team Members:
+- Shadowlorda1
+- Speed2
+- Greenkiller56
+- Resistance
+- SpikeyNoob
+- MarLo
+- Madmax
+- NoOneCares66
+
+#### Policies:
+This team is responsible for creating and developing campaign missions on FAF.
+
+The campaign team has its own **repository** where it can make changes to the game. The campaign team maintains the repository - no change requires approval from either the game or the balance team.
+The campaign team has its **own repository with maps, that acts as a vault**. The campaign team maintains the map repository and no change to the map repository requires approval from the creative team.
+
+#### Team Membership:
+- Onboarding of the new team members will be happening upon contacting the team lead or any other developer from the project for a position in the team.
+- Applications will be reviewed and voted on by the team members.
+
+#### Team Leader:
+Campaign Team lead has the following responsibilities as it follows:
+
+- Organize the resource flow
+- Micro management of the actual team and onboarding of the potential developers
+- Contacting and ensuring a communication bridge with the player and contributor base
+
 
 
 
