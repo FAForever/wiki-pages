@@ -2,22 +2,20 @@
 title: Linux Installation
 description: 
 published: true
-date: 2022-06-13T14:05:19.483Z
+date: 2023-01-01T21:34:59.641Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:33.098Z
 ---
 
-# Linux (Semi-Official Support )
-**Please note that FAF does not officially support the Linux version**
+# Linux Installation
 
-## Ubuntu Quickstart
-This quickstart guide shows you the commands you need for getting FAF installed with minimal explanation.
+A [script](https://github.com/iczero/faf-linux) can be used to automate the installation. Please follow the instructions [here](https://github.com/FAForever/faf-linux/blob/master/README.md#setup-instructions). Otherwise use the guide below. This guide is created with Ubuntu users in mind. However with minor modifications the instructions can be used for others distros. If you run into any undocumented issues or have any questions please join us on the FAF discord in #linux-support.
 
-### Step 1 - Install the FAF client
+## Install the FAF client 
 Download the latest stable version of the client from the [GitHub](https://github.com/FAForever/downlords-faf-client/releases).
 ```
-curl -L -O https://github.com/FAForever/downlords-faf-client/releases/download/v2022.4.1/faf_unix_2022_4_1.tar.gz
+curl -L -O https://github.com/FAForever/downlords-faf-client/releases/download/v2022.4.1/faf_unix_2022_4_1.tar.gz>
 ```
 
 Extract it to a folder
@@ -40,7 +38,7 @@ The version of the JVM must be at least 17.
 Please define INSTALL4J_JAVA_HOME to point to a suitable JVM.
 ```
 
-Install a compatible Java Runtime Environment. If none is available through apt you can download and manually install a compatible version from [Adoptium](https://adoptium.net/temurin/releases)
+Install a compatible Java Runtime Environment. If needed you can download and manually install a compatible version from [Adoptium](https://adoptium.net/temurin/releases)
 ```
 sudo apt install openjdk-17-jre
 ```
@@ -61,44 +59,99 @@ Icon=~/.local/share/icons/faf.png
 
 Search for "FAF" in the applications menu, you should be able to run the client from there.
 
-### Step 2 - Install Supreme Commander: Forged Alliance from Steam
+***
+## Install Supreme Commander: Forged Alliance from Steam
+
+
+### **Make sure steam is installed**
+ (```sudo apt install Steam``` to install if needed)
+
+ ### **Install and configure Supreme Commander Forged Alliance on Steam**
+
 1. Start by enabling SteamPlay in the Steam settings. Reboot Steam for the changes to take effect. The option is found at `Steam -> Settings -> Steam Play -> under Advanced -> "Enable Steam Play for all other titles"`
 
 2. Install Supreme Commander: Forged Alliance
 
 3. Set the following launch options to the steam settings for Forged Alliance under `Properties -> Set Launch Options`:
 ```
-PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
+WINEDLLOVERRIDES="d3d9=n" PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
 ```
 
-4. Install video and audo libraries for Forged Alliance using protontricks:
-Install python and pipx
+### **Install video and audo libraries for Forged Alliance using protontricks:**
+
+Install protontricks
 ```
-sudo apt install python3-pip python3-setuptools python3-venv pipx
+sudo apt install protontricks
 ```
-Then install protontricks
-```
-pipx install protontricks
-```
+
 Then install the libraries
 ```
-~/.local/bin/protontricks 9420 dlls d3dx9
+protontricks 9420 dlls d3dx9 xact
 ```
-```
-~/.local/bin/protontricks 9420 dlls xact
-```
-5. Run Forged Alliance, create a profile and exit
 
-6. Copy the generated run file to your faf client install directory
+### **Run Forged Alliance from Steam. The game will not open, this is expected.**
+This Creates the run script used in the next step.
+ <br>
+
+
+### **Copy the generated run file to your faf client install directory**
 ```
 cp /tmp/proton_$USER/run ~/faf/
 ```
-7. Open the FAF client settings and set the command line executable format to:
+### **Open the FAF client settings and set the command line executable format to:**
 ```
-~/faf/run "%s"
+/home/<your_username>/faf/run "%s"
 ```
 
-## Other Distros
-There is also this [Video](https://www.youtube.com/watch?v=Rv3ZXA4FNFk) if you need a visial aid.
+![here](https://i.imgur.com/ZlApelO.png)
 
-You will need to adapt some of the steps. If you are unsure please ask on the FAF Discord in #linux-support
+### **Dowload and use DGVoodoo's D3D9.dll**
+
+Download
+```
+curl -L -O http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_79_1.zip
+```
+Extract
+```
+unzip dgVoodoo2_79_1.zip
+```
+Move to FAF bin
+```
+cp dgVoodoo2_79_1/MS/x64/D3D9.dll /home/$USER/.faforever/bin/
+```
+Optional: Remove DGVoodoo watermark
+```
+wine /home/$USER/Downloads/dgVoodoo2_79_1/dgVoodooCpl.exe
+```
+After the gui opens, set the Running Instance to your faf bin 
+
+![faf bin location](https://i.imgur.com/akLHAsa.png)
+
+Next select the DirectX tab and uncheck the `dgVoodoo Watermark` button
+
+![settings](https://i.imgur.com/AVToHre.png)
+
+
+If you would like to be able to run the game from Steam directly you must also copy the `D3D9.dll` into your steam bin directory. If you chose not to, running the game from Steam will continue to crash due to the lack of the dll.
+
+
+
+
+***
+
+## Potential Solutions to Issues
+### Stuttering when launching game, viewing scoreboard, or watching coop dialog
+- Add `/nomovie` launch option to you command line executable. If you have Fsync in your launch options you do not need this. It should look like:
+```
+/home/<your_username>/faf/run "%s" /nomovie
+```
+- Add `PROTON_NO_FSYNC=1` to your steam steam launch options, rerun FA from Steam, then recopy your run script. **This is not recommended as some have reported this causing the game to not display any graphics**. If you have /nomovies in your executable you do not need this. Your launch options would look like this:
+```
+WINEDLLOVERRIDES="d3d9=n" PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
+```
+
+### Black Screen when attempting to launch a game from FAF
+
+- If you are Arch you need to install the `bubblewrap-suid` package **and** run ProtonGE through AUR package `proton-ge-custom-bin` or with the instructions below.
+- Try using ProtonGE. Instructions can be found [here](https://github.com/GloriousEggroll/proton-ge-custom#installation). Once it is installed, rerun FA from Steam, then recopy your run script.
+- Confirm your DGVoodoo version is greater than 2.79.1
