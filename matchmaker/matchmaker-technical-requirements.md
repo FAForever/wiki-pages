@@ -2,7 +2,7 @@
 title: Technical map requirements for matchmaker
 description: An overview of all the technical requirement for a map to be allowed to the matchmaker
 published: true
-date: 2023-01-03T22:27:43.352Z
+date: 2023-01-03T22:30:05.004Z
 tags: mapping, matchmaker
 editor: markdown
 dateCreated: 2023-01-03T21:29:42.320Z
@@ -37,9 +37,8 @@ The map needs to slot-symmetrical. This means that a player at a given slot shou
 
 ![symmetrical-slots.jpg](/matchmaker/images/symmetrical-slots.jpg)
 
-There is no requirement that lanes need to have equal opportunities. A clear example of that is Seton's Clutch, as shown on the left.
+There is no requirement that lanes need to have equal opportunities. A clear example of that is Seton's Clutch, as shown on the left. As a practical example, for a 4v4 the following players have equal opportunities:
 
-As a practical example, for a 4v4 the following players have equal opportunities:
 ```text
 Team 1		 Team 2
 -----------------
@@ -48,7 +47,3 @@ ARMY_3 <-> ARMY_4
 ARMY_5 <-> ARMY_6
 ARMY_7 <-> ARMY_8
 ```
-
-## Map scripts
-
-A map can be scripted.
