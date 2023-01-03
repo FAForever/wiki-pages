@@ -2,7 +2,7 @@
 title: Map review for matchmaker
 description: Describes the review process from start to finish
 published: true
-date: 2023-01-03T21:43:14.664Z
+date: 2023-01-03T21:46:53.481Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-01-03T21:27:20.421Z
@@ -27,7 +27,12 @@ The following articles describe jargon related to heightmaps, gameplay and the a
 
 ## Review process
 
+### Preparation stage
 
+### Review stage
 
 ## Bot commands
 
+## License
+
+This entire article is licensed using the well-known `cc-by-nc-sa 4.0` license, as described on [creativecommons.org]( https://creativecommons.org/licenses/by-nc-sa/4.0/).
