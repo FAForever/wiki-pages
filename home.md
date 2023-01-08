@@ -2,13 +2,40 @@
 title: Main Page
 description: 
 published: true
-date: 2022-12-02T12:18:33.968Z
+date: 2023-01-08T21:33:43.460Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
 ---
 
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
+
+# Getting Started
+Getting FAF up and runnign into your first game should be easy but here are some informaion to help you get from instalion to your first game.
+
+- [New To FAF *Start Here For Help*](https://wiki.faforever.com/en/New-To-FAF)
+- [How To Play *Here is some guided on how to play*](https://wiki.faforever.com/en/Learning-SupCom)
+{.links-list}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## <p style="text-align: center;">[![faf-logo-small.png](/faf-logo-small.png) New To FAF? - Start Here ![faf-logo-small.png](/faf-logo-small.png)](https://wiki.faforever.com/en/New-To-FAF)</p>
 
