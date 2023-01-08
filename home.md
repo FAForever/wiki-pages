@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T21:35:29.137Z
+date: 2023-01-08T21:59:57.933Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -20,6 +20,42 @@ Getting FAF up and runnign into your first game should be easy but here are some
 {.links-list}
 
 
+# Important Informaion
+
+
+- [Rules *Placeholder*]()
+- [Vault Rules *Placeholder*]()
+- [FAF Teams *Placeholder*]()
+{.links-list}
+
+# FAF Client
+
+- [Newshub *Placeholder*]()
+- [Coop Missions *Placeholder*]()
+- [FAF Chat *Placeholder*]()
+- [Tutorials *Placeholder*]()
+- [Host & Join *Placeholder*]()
+- [Unit Database *Placeholder*]()
+- [Map & Mod Vault *Placeholder*]()
+- [Team Matchmaker *Placeholder*]()
+- [Replays & Live Games *Placeholder*]()
+- [Client Theming *Placeholder*]()
+{.links-list}
+
+
+# Map Development
+
+
+
+# Mod Development
+
+
+
+
+# Patchnotes
+
+
+# Additional Informaion
 
 
 
@@ -37,9 +73,6 @@ Getting FAF up and runnign into your first game should be easy but here are some
 
 
 
-
-
-## <p style="text-align: center;">[![faf-logo-small.png](/faf-logo-small.png) New To FAF? - Start Here ![faf-logo-small.png](/faf-logo-small.png)](https://wiki.faforever.com/en/New-To-FAF)</p>
 
 ## Popular Information
 <table>
