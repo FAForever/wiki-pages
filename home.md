@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T22:10:01.914Z
+date: 2023-01-08T22:10:50.202Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -85,38 +85,6 @@ Getting FAF up and runnign into your first game should be easy but here are some
 {.links-list}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Popular Information
-<table>
-<tbody>
-<tr>
-<td><ul><li><a href="Learning-SupCom">How To Play</a></li></ul></td>
-<td><ul><li><a href="FAF-Teams">FAF Teams</a></li></ul></td>
-<td><ul><li><a href="FAQ">FAQ</a></li></ul></td>
-<td><ul><li><a href="FAF-Rules"> Rules</a></li></ul></td>
-<td><ul><li><a href="Vault-Rules">Vault Rules</a></li></ul></td>
-<td><ul><li><a href="Windows-Install">Windows Installation</a></li></ul></td>
-<td><ul><li><a href="Linux-Install">Linux Installation</a></li></ul></td>
-</tr>
-</tbody>
-</table>
 
 ## FAF Client
 <table>
