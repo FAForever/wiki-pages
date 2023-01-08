@@ -2,13 +2,13 @@
 title: Adaptive Maps
 description: An overview of adaptive maps, the features of the script, and the setup required.
 published: true
-date: 2023-01-08T22:23:38.028Z
+date: 2023-01-08T22:24:15.587Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:41:55.475Z
 ---
 
-Note thier is a Updated Version Located [Here](/map-development/Adaptive-Mapping-2021)
+### Note thier is a Updated Version of this guide [Here](/map-development/Adaptive-Mapping-2021)
 
 
 Without these maps it was common practice to upload multiple version of the same map, only to change/add some resources (e.g. Canis 4v4, Canis 5v5,...). That belongs to the past now. Thanks to the adaptive map script by CookieNoob and KeyBlue (modified by svenni_badbwoi), several similar versions of a map can be combined into a single map. Therefore advanced map settings become available that allow you to adjust the map itself and how it will play out directly from the game lobby. The purpose of the adaptive map series is a customizable map experience. It allows you e.g. to adapt the given map resources to the player count  (Dynamic Spawn Of Resources) and to add/remove resources as well as units/wrecks.
