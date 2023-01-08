@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T22:43:34.564Z
+date: 2023-01-08T22:44:00.791Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -82,16 +82,16 @@ Getting FAF up and runnign into your first game should be easy but here are some
 
 - [All Patches *2014 to Present*](https://github.com/FAForever/fa/releases)
 - [Balance Patches *2015 to Present*](http://patchnotes.faforever.com/)
-- [2011 *3605 - 3609*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2011)
-- [2012 *3610-3620*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2012)
-- [2013 *3622-3628*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2013)
-- [2014 *3629-3636*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2014)
-- [2015 *3637-3650*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2015)
-- [2016 *3652-3667*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2016)
-- [2017 *3668-3695*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2017)
-- [2018 *3693-3702*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2018)
-- [2019 *3703-3709*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2019)
-- [2020 *3710-3718*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2020)
-- [2021 *3720-3731*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2021)
+- [2011 *Patch 3605 - 3609*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2011)
+- [2012 *Patch 3610-3620*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2012)
+- [2013 *Patch 3622-3628*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2013)
+- [2014 *Patch 3629-3636*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2014)
+- [2015 *Patch 3637-3650*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2015)
+- [2016 *Patch 3652-3667*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2016)
+- [2017 *Patch 3668-3695*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2017)
+- [2018 *Patch 3693-3702*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2018)
+- [2019 *Patch 3703-3709*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2019)
+- [2020 *Patch 3710-3718*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2020)
+- [2021 *Patch 3720-3731*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2021)
 - [2022 *TBD*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2022)
 {.links-list}
