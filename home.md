@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T21:33:43.460Z
+date: 2023-01-08T21:35:29.137Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -15,6 +15,8 @@ Getting FAF up and runnign into your first game should be easy but here are some
 
 - [New To FAF *Start Here For Help*](https://wiki.faforever.com/en/New-To-FAF)
 - [How To Play *Here is some guided on how to play*](https://wiki.faforever.com/en/Learning-SupCom)
+- [Windows Installation *How to set up FAF on Windows*](https://wiki.faforever.com/en/Learning-SupCom)
+- [Linux Installation *How to set up FAF on Linux*](https://wiki.faforever.com/en/Learning-SupCom)
 {.links-list}
 
 
