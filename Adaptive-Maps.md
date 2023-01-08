@@ -2,19 +2,20 @@
 title: Adaptive Maps
 description: An overview of adaptive maps, the features of the script, and the setup required.
 published: true
-date: 2022-06-14T22:58:57.785Z
+date: 2023-01-08T22:23:38.028Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:41:55.475Z
 ---
+
+Note thier is a Updated Version Located [Here](/map-development/Adaptive-Mapping-2021)
+
 
 Without these maps it was common practice to upload multiple version of the same map, only to change/add some resources (e.g. Canis 4v4, Canis 5v5,...). That belongs to the past now. Thanks to the adaptive map script by CookieNoob and KeyBlue (modified by svenni_badbwoi), several similar versions of a map can be combined into a single map. Therefore advanced map settings become available that allow you to adjust the map itself and how it will play out directly from the game lobby. The purpose of the adaptive map series is a customizable map experience. It allows you e.g. to adapt the given map resources to the player count  (Dynamic Spawn Of Resources) and to add/remove resources as well as units/wrecks.
 
 Depending on the map up to 16 player are supported, keep in mind that the map can be played with any player count. From 1v1 to 8v8 any matchup is possible. However, due to the map size and the available space, it is not recommended to use all available slots on all maps. The amount of spawn points allows for more flexibility on where the teams are located and thus you can even play some maps from completely different (and unusual) directions (i.e. Adaptive Wonder Open or Adaptive Sand Box in a top right vs bottom left match instead of top left vs bottom right). 
 
 If you intended to play a 4v4, but 10 people are in the game lobby, just open more slots and the resources will automatically adapt to 5v5. You don't need to switch the map to a larger version anymor 
-
-![untitled-2.png](/images/mapping/untitled-2.png){.align-right}
 
 ## Adaptive map features
 
@@ -52,6 +53,7 @@ Regrow reclaimed/destroyed trees when other trees are nearby. Regrow is faster i
 Change mass & energy values of rock & tree props.
 
 ### Scale resources
+
 
 #### Extra Hydros
 Spawn additional hydros.
