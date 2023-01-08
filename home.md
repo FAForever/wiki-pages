@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T22:02:35.827Z
+date: 2023-01-08T22:05:32.282Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -64,7 +64,20 @@ Getting FAF up and runnign into your first game should be easy but here are some
 - [Bug Reporting and Testing *Placeholder*]()
 {.links-list}
 
+# Additional Informaion
 
+- [Glossary *Placeholder*]()
+- [Changes From Steam *Placeholder*]()
+- [Clans *Placeholder*]()
+- [Casts & Livestreams *Placeholder*]()
+- [Tournaments *Placeholder*]()
+- [Game Modificaions *Placeholder*]()
+- [Live Replay Sever & Replays *Placeholder*]()
+- [Voicechat *Placeholder*]()
+- [Bots *Placeholder*]()
+- [Connect to IRC *Placeholder*]()
+- [League System *Placeholder*]()
+{.links-list}
 
 # Patchnotes
 
@@ -73,11 +86,7 @@ Getting FAF up and runnign into your first game should be easy but here are some
 {.links-list}
 
 
-# Additional Informaion
 
-- [Replays & Live Games *Placeholder*]()
-- [Client Theming *Placeholder*]()
-{.links-list}
 
 
 
