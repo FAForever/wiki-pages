@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T22:29:03.219Z
+date: 2023-01-08T22:29:22.759Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -95,47 +95,3 @@ Getting FAF up and runnign into your first game should be easy but here are some
 - [2021 *Placeholder*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2021)
 - [2022 *Placeholder*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2022)
 {.links-list}
-
-
-
-
-
-
-
-
-## Game & Balance Patchnotes
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><a href="https://github.com/FAForever/fa/releases"> All Patches 2014 - Present </a></li>
-<li><a href="http://patchnotes.faforever.com"> Balance Patches 2015 - Present </a></ul></td>
-</ul></td>
-<td><ul>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2011"> 2011</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2012"> 2012</a></li>
-</ul></td>
-<td><ul>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2013"> 2013</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2014"> 2014</a></li>
-</ul></td>
-<td><ul>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2015"> 2015</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2016"> 2016</a></li>
-</ul></td>
-<td><ul>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2017"> 2017</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2018"> 2018</a></li>
-</ul></td>
-<td><ul>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2019"> 2019</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2020"> 2020</a></li>
-</ul></td>
-<td><ul>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2021"> 2021</a></li>
-<li><a href="/patches/Game-&-Balance-Patchnotes-2022"> 2022</a></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
