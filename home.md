@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2023-01-08T22:01:20.746Z
+date: 2023-01-08T22:02:35.827Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -55,8 +55,13 @@ Getting FAF up and runnign into your first game should be easy but here are some
 
 # Mod Development
 
-- [Replays & Live Games *Placeholder*]()
-- [Client Theming *Placeholder*]()
+- [Modding *Placeholder*]()
+- [Creating Models *Placeholder*]()
+- [FAF Development *Placeholder*]()
+- [AI Modding *Placeholder*]()
+- [Blueprint Weapons *Placeholder*]()
+- [Blueprints *Placeholder*]()
+- [Bug Reporting and Testing *Placeholder*]()
 {.links-list}
 
 
