@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2023-01-12T03:41:21.092Z
+date: 2023-01-12T03:43:21.073Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -85,7 +85,7 @@ Matching objects will be selected as orange. If it can't find a matching object 
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | <kbd>W</kbd>                     | ![faf_mapeditor_movetool.png](/faf_mapeditor_movetool.png) Switch to Move tool         |
 | <kbd>E</kbd>                     | ![faf_mapeditor_rotatetool.png](/faf_mapeditor_rotatetool.png) Switch to Rotate tool |
-| <kbd>E</kbd>                     | ![faf_mapeditor_scaletool.png](/faf_mapeditor_scaletool.png) Switch to Scale tool     |
+| <kbd>R</kbd>                     | ![faf_mapeditor_scaletool.png](/faf_mapeditor_scaletool.png) Switch to Scale tool     |
 | <kbd>T</kbd>                     | ![faf_mapeditor_snaptogrid.png](/faf_mapeditor_snaptogrid.png) Toggle snap to grid   |
 | <kbd>Left Ctl</kbd> + <kbd>C</kbd>      | Copy selection                                                                                                                     |
 | <kbd>Left Ctl</kbd> + <kbd>V</kbd>      | Paste copied content                                                                                                               |
