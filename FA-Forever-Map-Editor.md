@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2021-12-30T00:05:59.582Z
+date: 2023-01-12T03:41:21.092Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -79,7 +79,7 @@ Matching objects will be selected as orange. If it can't find a matching object 
 | Center by angle (2-16)             | This mirrors directly to the opposite side through the middle of the map. Rotation steps indicates how many units will be placed. For example, 2 will only place the one you have and one mirrored. 4 will place the one you have and three more. For example, with a rotation of 4: If you place a unit in the South East, it will place one in the North East, South West, and North West. |
 |                                    |                                                                                                                                                                                                                                                                                                                                                                                              |
 
-## Useful shortuts
+## Useful shortcuts
 
 | Key                   | Function                                                                                                                           |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
