@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-01-13T21:38:10.597Z
+date: 2023-01-13T21:45:44.600Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -30,7 +30,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 # FAF Client
 
 - [Newshub *Client news page*](https://wiki.faforever.com/en/NewsHub)
-- [Coop Missions *Play the campaign and custom missions in FAF*](https://wiki.faforever.com/en/Coop-Missions)
+- [Co-op Missions *Play the campaign and custom missions in FAF*](https://wiki.faforever.com/en/Coop-Missions)
 - [FAF Chat *The in-client chat system*](https://wiki.faforever.com/en/FAF-chat)
 - [Tutorials *In-game tutorials and guides*](https://wiki.faforever.com/en/Tutorials)
 - [Host & Join *How to host or join a game*](https://wiki.faforever.com/en/Host-and-join-games)
