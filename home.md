@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-01-13T21:19:18.415Z
+date: 2023-01-13T21:38:10.597Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -74,7 +74,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 - [Live Replay Sever & Replays *Learn more about replays*](https://wiki.faforever.com/en/LiveReplay-server-and-replays)
 - [Voice Chat *Voice chats the community uses*](https://wiki.faforever.com/en/Voicechat-(Discord))
 - [Bots *List of the bots FAF uses*](https://wiki.faforever.com/en/Bots)
-- [Connect to IRC *How to connect to the Aeolus IRC*](https://wiki.faforever.com/en/Chat-IRC-server)
+- [Connect To IRC *How to connect to the Aeolus IRC*](https://wiki.faforever.com/en/Chat-IRC-server)
 - [League System *New ranking system*](https://wiki.faforever.com/en/league-system)
 {.links-list}
 
