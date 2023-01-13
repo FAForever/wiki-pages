@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-01-09T18:44:07.997Z
+date: 2023-01-13T21:15:28.352Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -11,69 +11,69 @@ dateCreated: 2021-08-31T09:44:13.010Z
 ![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
 
 # Getting Started
-Getting FAF up and running into your first game should be easy but here is some information to help you get from installation to your first game.
+If you're new to FAF and need help, here are some good introductory resources:
 
 - [New To FAF *Start Here for Help*](https://wiki.faforever.com/en/New-To-FAF)
-- [How To Play *Here is some guided on how to play*](https://wiki.faforever.com/en/Learning-SupCom)
-- [Windows Installation *How to set up FAF on Windows*](https://wiki.faforever.com/en/Learning-SupCom)
-- [Linux Installation *How to set up FAF on Linux*](https://wiki.faforever.com/en/Learning-SupCom)
+- [Windows Installation *How to get FAF working on Windows*](https://wiki.faforever.com/en/Learning-SupCom)
+- [Linux Installation *How to get FAF working on Linux*](https://wiki.faforever.com/en/Learning-SupCom)
 {.links-list}
 
 
-# Important Information
+# Popular Information
 
-- [Rules *Rules for all FAF Services*](https://wiki.faforever.com/en/FAF-Rules)
-- [Vault Rules *Rule on how to use the Vault*](https://wiki.faforever.com/en/Vault-Rules)
-- [FAF Teams *Organisation Teams with designated areas*](https://wiki.faforever.com/en/FAF-Teams)
+- [How To Play FAF & Get Better *Guides for all skill levels*](https://wiki.faforever.com/en/Learning-SupCom)
+- [Rules *Rules for all FAF services*](https://wiki.faforever.com/en/FAF-Rules)
+- [Vault Rules *Rules for uploading maps and mods to the vault*](https://wiki.faforever.com/en/Vault-Rules)
+- [FAF Teams *Learn more about the teams that run FAF*](https://wiki.faforever.com/en/FAF-Teams)
 {.links-list}
 
 # FAF Client
 
-- [Newshub *Client News Page*](https://wiki.faforever.com/en/NewsHub)
-- [Coop Missions *Where you can Play the Campaign or Custom Missions*](https://wiki.faforever.com/en/Coop-Missions)
-- [FAF Chat *The Main IRC Chat for the client*](https://wiki.faforever.com/en/FAF-chat)
-- [Tutorials *In game Tutorials or Guides*](https://wiki.faforever.com/en/Tutorials)
+- [Newshub *Client news page*](https://wiki.faforever.com/en/NewsHub)
+- [Coop Missions *Play the campaign and custom missions in FAF*](https://wiki.faforever.com/en/Coop-Missions)
+- [FAF Chat *The in-client chat system*](https://wiki.faforever.com/en/FAF-chat)
+- [Tutorials *In-game tutorials and guides*](https://wiki.faforever.com/en/Tutorials)
 - [Host & Join *How to host or join a game*](https://wiki.faforever.com/en/Host-and-join-games)
-- [Unit Database *where all the stats of every unit are*](https://wiki.faforever.com/en/Unit-Database)
-- [Map & Mod Vault *one clicks install for new maps and mods*](https://wiki.faforever.com/en/Map-&-Mod-Vault)
-- [Team Matchmaker *Auto Matcher Que for 1v1, 2v2 and 4v4 games*](https://wiki.faforever.com/en/tmm)
-- [Replays & Live Games *rewatch matched from the past or live*](https://wiki.faforever.com/en/Replays-&-Live-Games)
-- [Client Theming *change how the client looks*](https://wiki.faforever.com/en/Theming)
+- [Unit Database *Learn more about units*](https://wiki.faforever.com/en/Unit-Database)
+- [Map & Mod Vault *Easily get new maps and mods*](https://wiki.faforever.com/en/Map-&-Mod-Vault)
+- [Team Matchmaker *Queue to play ranked 1v1, 2v2 and 4v4 games*](https://wiki.faforever.com/en/tmm)
+- [Replays & Live Games *Watch live games and replays on FAF*](https://wiki.faforever.com/en/Replays-&-Live-Games)
+- [Client Themes *Change how the client looks*](https://wiki.faforever.com/en/Theming)
 {.links-list}
 
 
 # Map Development
 
-- [GPG Map Editor *The Original map editor for the game*](https://wiki.faforever.com/en/GPG-Map-Editor)
-- [FA Forever Map Editor *Community Develop Map Editor*](https://wiki.faforever.com/en/FA-Forever-Map-Editor)
+- [FAF Map Editor *Community created map editor*](https://wiki.faforever.com/en/FA-Forever-Map-Editor)
+- [GPG Map Editor *The original map editor*](https://wiki.faforever.com/en/GPG-Map-Editor)
 - [Adaptive Maps *How to create adaptive maps*](https://wiki.faforever.com/en/Adaptive-Maps)
-- [Adaptive Maps 2021 *Updated Version of the orginal*](https://wiki.faforever.com/en/map-development/Adaptive-Mapping-2021)
+- [Adaptive Maps 2021 *An alternate newer guide*](https://wiki.faforever.com/en/map-development/Adaptive-Mapping-2021)
 - [Mission Scripting *How to create custom missions*](https://wiki.faforever.com/en/Mission-Scripting)
 {.links-list}
 
 
 # Mod Development
 
-- [Modding *How to create a Mod*](https://wiki.faforever.com/en/Modding)
-- [Creating Models *How to create new Models*](https://wiki.faforever.com/en/Creating-models)
-- [FAF Development *How FAF Dev Works*](https://wiki.faforever.com/en/FAF-Development)
-- [AI Modding *Creating New AI*](https://wiki.faforever.com/en/AI-Modding)
-- [Blueprint Weapons *How to set up Unit Weapons in Blueprints*](https://wiki.faforever.com/en/Blueprints/Weapon)
-- [Blueprints *The Main file were all the unit’s stats are located*](https://wiki.faforever.com/en/Blueprints)
-- [Bug Reporting and Testing *How to properly report bugs and test them*](https://wiki.faforever.com/en/Bug-Reporting-and-Testing)
+- [Modding *How to create a mod*](https://wiki.faforever.com/en/Modding)
+- [FAF Development *How FAF Dev works*](https://wiki.faforever.com/en/FAF-Development)
+- [Blueprints *The primary files containing unit stats*](https://wiki.faforever.com/en/Blueprints)
+- [Blueprint Weapons *How to set up unit weapons in blueprints*](https://wiki.faforever.com/en/Blueprints/Weapon)
+- [Creating Models *How to create new models*](https://wiki.faforever.com/en/Creating-models)
+- [AI Modding *Creating new AI*](https://wiki.faforever.com/en/AI-Modding)
 {.links-list}
 
 # Additional Information
 
-- [Glossary *What some of the shortest terms are*](https://wiki.faforever.com/en/Glossary)
-- [Changes From Steam *What changes we made compared to steam version*](https://wiki.faforever.com/en/Changes-from-steam)
-- [Clans *Create or Join a clan*](https://wiki.faforever.com/en/Clans)
-- [Casts & Livestreams *List of Casters / Streamers*](https://wiki.faforever.com/en/Casts&Livestreams)
-- [Tournaments *List of Previous Tournaments*](https://wiki.faforever.com/en/Tournaments)
-- [Game Modifications *Modification to the game that are intergated*](https://wiki.faforever.com/en/Game-Modifications-(Mods))
-- [Live Replay Sever & Replays *Explanation on what they are*](https://wiki.faforever.com/en/LiveReplay-server-and-replays)
-- [Voice chat *Voice chats the community uses*](https://wiki.faforever.com/en/Voicechat-(Discord))
-- [Bots *List of the bots we are using*](https://wiki.faforever.com/en/Bots)
+- [Glossary *FAF terms and abbreviations*](https://wiki.faforever.com/en/Glossary)
+- [Changes From Steam *FAF's changes compared to the Steam version of the game*](https://wiki.faforever.com/en/Changes-from-steam)
+- [Bug Reporting & Testing *How to properly report bugs and test them*](https://wiki.faforever.com/en/Bug-Reporting-and-Testing)
+- [Clans *Create or join a clan*](https://wiki.faforever.com/en/Clans)
+- [Casts & Livestreams *List of casters and streamers*](https://wiki.faforever.com/en/Casts&Livestreams)
+- [Tournaments *List of previous tournaments*](https://wiki.faforever.com/en/Tournaments)
+- [Game Modifications *Mods that are integrated into FAF*](https://wiki.faforever.com/en/Game-Modifications-(Mods))
+- [Live Replay Sever & Replays *Learn more about replays*](https://wiki.faforever.com/en/LiveReplay-server-and-replays)
+- [Voice Chat *Voice chats the community uses*](https://wiki.faforever.com/en/Voicechat-(Discord))
+- [Bots *List of the bots FAF uses*](https://wiki.faforever.com/en/Bots)
 - [Connect to IRC *How to connect to the Aeolus IRC*](https://wiki.faforever.com/en/Chat-IRC-server)
 - [League System *New ranking system*](https://wiki.faforever.com/en/league-system)
 {.links-list}
