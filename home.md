@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-01-13T21:45:44.600Z
+date: 2023-01-13T22:00:01.539Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -19,7 +19,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 {.links-list}
 
 
-# Popular Information
+# Important Information
 
 - [How To Play FAF & Get Better *Guides for all skill levels*](https://wiki.faforever.com/en/Learning-SupCom)
 - [Rules *Rules for all FAF services*](https://wiki.faforever.com/en/FAF-Rules)
