@@ -2,13 +2,13 @@
 title: Unit Database
 description: 
 published: true
-date: 2021-12-30T01:29:03.810Z
+date: 2023-01-13T21:23:52.350Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:45:40.961Z
 ---
 
-Every statistic of every unit in SC: FAF can be found on 2 Unit Databases Currently:
+Statistic for every unit in FAF can be found in both of the following unit databases:
 - [Spooky](https://spooky.github.io/unitdb/#/)
 - [Offical](https://unitdb.faforever.com/)
 
