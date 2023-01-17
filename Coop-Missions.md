@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2023-01-17T01:02:04.517Z
+date: 2023-01-17T01:09:48.377Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -38,16 +38,16 @@ Note that a mission must be cleared in 'hard' difficulty in order to qualify for
 
 ![coop-missions.png](/coop-missions.png)
 
-## Mission List
+## Missions List
 ##### GPG original campaigns
-| | SupCom - UEF   	| SupCom - Aeon   	| SupCom - Cybran 	 | | SupCom - FA |
+| | SupCom - UEF   	| SupCom - Aeon   	| SupCom - Cybran 	 | | SupCom - FA  |
 |-|----------------	|-----------------	|------------------- |-|------------	|
-|1| Black Earth    	| Joust           	| Liberation        | | Black Day  	|
+|1| Black Earth    	| Joust           	| Liberation         | | Black Day  	|
 |2| Snow Blind     	| Machine Purge   	| Artifact           | | Dawn       	|
-|3| Metal Shark    	| High Tide       	| Defrag            | | Red Flag   	|
-|4| Vaccine        	| Entity           	| Mainframe Tango   | | Meltdown   	|
-|5| Forge          	| Shining Star    	| Unlock            | | Mind Games 	|
-|6| Stone Wall     	| Beginnings      	| Freedom           | | Overlord   	|
+|3| Metal Shark    	| High Tide       	| Defrag             | | Red Flag   	|
+|4| Vaccine        	| Entity           	| Mainframe Tango    | | Meltdown   	|
+|5| Forge          	| Shining Star    	| Unlock             | | Mind Games 	|
+|6| Stone Wall     	| Beginnings      	| Freedom            | | Overlord   	|
 
 ##### FAForever campaigns
 Similarily to the original campaigns, these are linked in story, and it is advised they be played in order.
@@ -58,13 +58,11 @@ Similarily to the original campaigns, these are linked in story, and it is advis
 |3| Operation Uhthe-Thuum-QAI | Golden Crystals    | 
 |4| Operation Ioz-Shavoh-Kael |                    |
 ##### FAForever custom scenarios
-These missions are single-scenario type, meaning they are not part of larger campaigns.
-|Custom scenarios       ||
-|---------------------- |------------------------|
-| Prothyon - 16         | Operation Rescue       |
-| Fort Clarke Assault   | Tight Spot        	   |
-| Theta Civilian Rescue | Novax Station Assault  |
-| Haven's Invasion      | Operation Trident      |
+These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't require playing in particular order.
+|Custom scenarios       ||||
+|---------------------- |------------------------|------------------------|------------------------|
+| Prothyon - 16         | Operation Rescue       | Theta Civilian Rescue | Novax Station Assault  |
+| Fort Clarke Assault   | Tight Spot        	   | Haven's Invasion      | Operation Trident      |
 ##### Notes:
 - FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
