@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2023-01-17T00:51:04.058Z
+date: 2023-01-17T00:54:46.138Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -43,18 +43,21 @@ Note that a mission must be cleared in 'hard' difficulty in order to qualify for
 | | SupCom - UEF   	| SupCom - Aeon   	| SupCom - Cybran 	 | | SupCom - FA |
 |-|----------------	|-----------------	|------------------- |-|------------	|
 |1| Black Earth    	| Joust           	| Liberation        | | Black Day  	|
-|2| Snow Blind     	| Machine Purge   	| Arifact           | | Dawn       	|
+|2| Snow Blind     	| Machine Purge   	| Artifact           | | Dawn       	|
 |3| Metal Shark    	| High Tide       	| Defrag            | | Red Flag   	|
-|4| Vaccine        	| Enity           	| Mainframe Tango   | | Meltdown   	|
+|4| Vaccine        	| Entity           	| Mainframe Tango   | | Meltdown   	|
 |5| Forge          	| Shining Star    	| Unlock            | | Mind Games 	|
 |6| Stone Wall     	| Beginnings      	| Freedom           | | Overlord   	|
 
 ##### FAForever campaigns and scenarios
 | Seraphim Campaign         | Coalition Campaign | |Custom scenarios       | Custom scenarios       |
 |-------------------------- |------------------- |-|----------------------- |------------------------|
-| Operaion Yath-Aez         | Blockade           | | Prothyon - 16          | Operation Rescue       |
+| Operation Yath-Aez         | Blockade           | | Prothyon - 16          | Operation Rescue       |
 | Operation Tha-Atha-Aez    | Holy Raid          | | Fort Clarke Assault    | Tight Spot       	     |
 | Operation Uhthe-Thuum-QAI | Golden Crystals    | | Theta Civilian Rescue  | |
-| Operaion Ioz-Shavoh-Kael  |                    | | Novax Station Assaault | |
+| Operation Ioz-Shavoh-Kael  |                    | | Novax Station Assault | |
 |                           |                    | | Haven's Invasion       | |
 |                          	|                    | | Operation Trident      | |
+Notes:
+- FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
+- Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
