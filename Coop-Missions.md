@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2023-01-17T00:54:46.138Z
+date: 2023-01-17T01:02:04.517Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -49,15 +49,22 @@ Note that a mission must be cleared in 'hard' difficulty in order to qualify for
 |5| Forge          	| Shining Star    	| Unlock            | | Mind Games 	|
 |6| Stone Wall     	| Beginnings      	| Freedom           | | Overlord   	|
 
-##### FAForever campaigns and scenarios
-| Seraphim Campaign         | Coalition Campaign | |Custom scenarios       | Custom scenarios       |
-|-------------------------- |------------------- |-|----------------------- |------------------------|
-| Operation Yath-Aez         | Blockade           | | Prothyon - 16          | Operation Rescue       |
-| Operation Tha-Atha-Aez    | Holy Raid          | | Fort Clarke Assault    | Tight Spot       	     |
-| Operation Uhthe-Thuum-QAI | Golden Crystals    | | Theta Civilian Rescue  | |
-| Operation Ioz-Shavoh-Kael  |                    | | Novax Station Assault | |
-|                           |                    | | Haven's Invasion       | |
-|                          	|                    | | Operation Trident      | |
-Notes:
+##### FAForever campaigns
+Similarily to the original campaigns, these are linked in story, and it is advised they be played in order.
+| | Seraphim Campaign         | Coalition Campaign |
+|-|-------------------------- |------------------- |
+|1| Operation Yath-Aez        | Blockade           | 
+|2| Operation Tha-Atha-Aez    | Holy Raid          | 
+|3| Operation Uhthe-Thuum-QAI | Golden Crystals    | 
+|4| Operation Ioz-Shavoh-Kael |                    |
+##### FAForever custom scenarios
+These missions are single-scenario type, meaning they are not part of larger campaigns.
+|Custom scenarios       ||
+|---------------------- |------------------------|
+| Prothyon - 16         | Operation Rescue       |
+| Fort Clarke Assault   | Tight Spot        	   |
+| Theta Civilian Rescue | Novax Station Assault  |
+| Haven's Invasion      | Operation Trident      |
+##### Notes:
 - FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
