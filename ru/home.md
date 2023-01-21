@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2023-01-21T19:17:00.272Z
+date: 2023-01-21T19:25:26.899Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -231,7 +231,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 
 # Patchnotes
 
-- [All Patches *2014 to Present*](https://github.com/FAForever/ru/releases)
+- [All Patches *2014 to Present*](https://github.com/FAForever/fa/releases)
 - [Balance Patches *2015 to Present*](http://patchnotes.faforever.com/)
 - [2011 *Patch 3605 - 3609*](https://wiki.faforever.com/ru/patches/Game-&-Balance-Patchnotes-2011)
 - [2012 *Patch 3610-3620*](https://wiki.faforever.com/ru/patches/Game-&-Balance-Patchnotes-2012)
