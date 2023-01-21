@@ -1,1 +1,0 @@
-1.  REDIRECT [Map Vault](Map_Vault "wikilink")

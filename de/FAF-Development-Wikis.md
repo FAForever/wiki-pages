@@ -1,1 +1,0 @@
-1.  REDIRECT [FAF development wikis](FAF_development_wikis "wikilink")
