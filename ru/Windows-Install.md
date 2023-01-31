@@ -1,8 +1,8 @@
 ---
-title: Windows Installation
+title: Установка на Windows
 description: 
 published: true
-date: 2023-01-31T15:59:53.247Z
+date: 2023-01-31T16:01:03.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
