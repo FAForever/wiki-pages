@@ -2,7 +2,7 @@
 title: Установка на Windows
 description: 
 published: true
-date: 2023-01-31T16:01:03.225Z
+date: 2023-01-31T16:24:44.857Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
@@ -28,10 +28,10 @@ dateCreated: 2023-01-21T19:12:56.839Z
 - Если у вас есть физическая копия Supreme Commander (основная игра) или Forged Alliance (расширенная), любой код активирует обе игры в Steam. Это означает, что если у вас есть коробка от Supcom или FA, вы можете передать один из этих кодов другу, и они также получат разблокированную игру Supcom золотое издание (с дополнением на FA) в Steam.
  - **Как правило, вам не нужны посторонние ссылки на моды или улучшения игры, потому что клиент FAF автоматически управляет всеми модами и картами для вас!** Поэтому вам просто нужно обратиться к [Хранилищу карт и модов](/Map-&-Mod-Vault).
 
-- There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
+- Есть также много модов моды интегрированы непосредственно в FAF, которые можно найти [здесь](/Game-Modifications-(Mods)).
 
- - It patches the game separately from your current installation. That means that you can continue to use your original game and FAF concurrently – they do not “overwrite” each other.
-- FAF might ask you to specify the Forged Alliance folder so just simply direct it to your *Supreme Commander: Forged Alliance* folder on your hard drive. If you bought Supreme Commander: Forged Alliance on Steam, the game is located in your Steam Library folder. To find that folder, start Steam, go to Steam - Settings, click Downloads, and click the STEAM LIBRARY FOLDERS button. The Steam Library folder has a folder steamapps\\common, there you should find your Supreme Commander Forged Alliance folder.
+ - Это исправляет игру отдельно от вашей текущей версии. Это означает, что вы можете продолжать использовать свою оригинальную игру и FAF одновременно — они не изменяют друг друга.
+- FAF может попросить вас указать папку the Forged Alliance , поэтому просто направьте ее в папку *Supreme Commander: Forged Alliance* на вашем жестком диске. Если вы купили Supreme Commander: Forged Alliance в Steam, игра будет находиться в вашей папке Steam Library. Чтобы найти эту папку, запустите Steam, войдите в настройки Steam, нажмите скачанные, и нажмите на the STEAM LIBRARY FOLDERS. The Steam Library папка имеет внутри папки steamapps\\common, здесь вы должны найти Supreme Commander Forged Alliance folder.
 - Your setup is now completed, but you may wish to add more to your experience by downloading [Map & Mod Vault](/Map-&-Mod-Vault), but normally, any game you join, the mods and maps will be downloaded automatically, so you don't need to do anything else.
 
 - Some popular mods, like [GAZ_UI](/Mods/GAZ_UI) and Hotbuild, are already [integrated](/Game-Modifications-(Mods)#Integrated-Mods) and require no installation - simply enable their features in-game.
