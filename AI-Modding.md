@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2022-06-14T23:25:30.966Z
+date: 2023-01-31T12:50:37.525Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -235,7 +235,7 @@ E.g. the following is the code for a [T1 Aeon Engineer](https://github.com/FAFor
 For example, if you have a function that is passed a variable builder that represents a unit constructing something, the following will access the blueprint data for that unit and set a variable equal to its maximum build range:
 
 ```lua
-local iBuildDistance = builder:GetBlueprint().Economy.MaxBuildDistance
+local iBuildDistance = builder.Blueprint.Economy.MaxBuildDistance
 ```
 
 ## Hooking
