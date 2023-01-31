@@ -2,7 +2,7 @@
 title: Windows Installation
 description: 
 published: true
-date: 2023-01-21T19:12:56.839Z
+date: 2023-01-31T15:59:53.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
@@ -10,23 +10,23 @@ dateCreated: 2023-01-21T19:12:56.839Z
 
 
 
-Setting up the FAF client is very easy and requires almost no setup after it has been installed.
+Настройка клиента FAF очень проста и почти не требует настройки после его установки.
 
-If you own a retail version of Supreme Commander, you can use its code to redeem it on Steam.  If you don't already own it, Supreme Commander: Forged Alliance can be found on the [Steam Store](http://store.steampowered.com/app/9420/) or [GOG Store](https://www.gog.com/game/supreme_commander_gold_edition), among other places.
+Если у вас есть розничная версия Supreme Commander, вы можете использовать ее код, чтобы приобрести ее в Steam.  Если у вас его еще нет, Supreme Commander: Forged Alliance можно найти в магазинах [Steam Store](http://store.steampowered.com/app/9420/) or [GOG Store](https://www.gog.com/game/supreme_commander_gold_edition), а также в других местах.
 
-## Installing Supreme Commander: Forged Alliance and the FAF Client
+## Установка Supreme Commander: Forged Alliance и клиента FAF
 
-**Step 1:**  Install Supreme Commander: Forged Alliance
-**Step 2:** Download the [FAF Client](https://faforever.com/client) and install it
-**Step 3:** [Make a FAF account](https://faforever.com/account/register)
-**Step 4:** Do [Steam Link](https://www.faforever.com/account/link) or [GOG Link](https://www.faforever.com/account/linkGog)
-**Step 5:** Make a profile and run the game
-- Once the game and client are installed, run Forged Alliance once to create a profile in it, then close it.
-- Start the FAF client and go to the Play tab, then [host a game](/Host-and-join-games). This will start the patching process and once the host game dialog appears, you can host a game, or close it to join another game.
+**Step 1:**  Установите Supreme Commander: Forged Alliance
+**Step 2:** Скачайте [FAF Client](https://faforever.com/client) и установите его
+**Step 3:** [Создайте аккаунт FAF](https://faforever.com/account/register)
+**Step 4:** Привяжите учетную запись [Steam](https://www.faforever.com/account/link) или [GOG](https://www.faforever.com/account/linkGog)
+**Step 5:** Создайте профиль и запустите игру
+- После установки игры и клиента запустите Forged Alliance один раз, чтобы создать в нем профиль, после закройте клиент.
+- Запустите клиент FAF и перейдите на вкладку "Игры", затем [Создать игру](/Host-and-join-games). Это запустит процесс обновленния, и как только появится диалоговое окно хост-игры, вы сможете создать игру или закрыть ее, чтобы присоединиться к другой игре.
 
-## Notes:
-- If you own a physical box copy of either Supreme Commander (base game) or Forged Alliance (expansion), either code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on steam.
- - **As a general rule, you do not need any external links to mods or enhancements because the FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Map-&-Mod-Vault).
+## Примечание:
+- Если у вас есть физическая копия Supreme Commander (основная игра) или Forged Alliance (расширенная), любой код активирует обе игры в Steam. Это означает, что если у вас есть коробка от Supcom или FA, вы можете передать один из этих кодов другу, и они также получат разблокированную игру Supcom золотое издание (с дополнением на FA) в Steam.
+ - **Как правило, вам не нужны посторонние ссылки на моды или улучшения игры, потому что клиент FAF автоматически управляет всеми модами и картами для вас!** Поэтому вам просто нужно обратиться к [Хранилищу карт и модов](/Map-&-Mod-Vault).
 
 - There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
 
