@@ -2,7 +2,7 @@
 title: Установка на Windows
 description: 
 published: true
-date: 2023-02-01T15:21:39.880Z
+date: 2023-02-01T15:56:16.507Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
