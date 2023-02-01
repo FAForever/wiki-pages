@@ -2,7 +2,7 @@
 title: Установка на Windows
 description: 
 published: true
-date: 2023-01-31T16:57:41.062Z
+date: 2023-02-01T15:06:24.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
@@ -57,4 +57,4 @@ Common solutions to problems setting up Steam link:
 If you experience issues setting up Steam link, you can ask for help in the  [#technical-help channel in the FAF Discord](https://discord.gg/rvfaGTpNbK) and or in the [help section of the forums](https://forum.faforever.com/category/4/i-need-help).
 
 [Setting your Steam profile and games list to public:
-![set_to_public.png](/images/set_to_public.png)](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276)
+![set_to_public.png](/images/set_to_public.png)](https://help.steampowered.com/ru/faqs/view/588C-C67D-0251-C276)
