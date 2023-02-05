@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2021-12-30T07:22:00.520Z
+date: 2023-02-05T19:08:07.175Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -263,7 +263,7 @@ Con's:
 - T1 Bombers have a bad precision, making them inefficient vs units, and can sometimes fail to kill enemy expanding engineers.
 - No Mobile Shields
 
-For more information on intermediate-level play check the [Cybran 1v1 Guide](Cybran_1v1_Guide "wikilink").
+For more information on intermediate-level play check the [Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide).
 
 **Seraphim - Destruction!** This faction has very strong units, and some good defenses, especially shields, but there are less of them.
 Pro's:
@@ -273,7 +273,7 @@ Pro's:
 Con's:
 - They have a distinct lack of units - such as no LABs
 
-For more information on intermediate-level play check the [Seraphim 1v1 Guide](Seraphim_1v1_Guide "wikilink").
+For more information on intermediate-level play check the [Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide).
 
 **Aeon - Clarity!** One of the harder factions to play due to some quirks with their tanks, but very rewarding when used correctly.
 Pro's:
@@ -284,4 +284,4 @@ Con's:
 - T1 Aurora has very low hp, is quite slow, and requires constant attention.
 - T2 Obsidian is slow and low ranged, and not as good vs T1 as other T2 tanks.
 
-For more information on intermediate-level play check the [Aeon 1v1 Guide](Aeon_1v1_Guide "wikilink").
+For more information on intermediate-level play check the [Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide).
