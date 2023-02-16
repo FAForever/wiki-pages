@@ -2,7 +2,7 @@
 title: Установка на Windows
 description: 
 published: true
-date: 2023-02-05T18:19:27.324Z
+date: 2023-02-16T14:02:52.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
@@ -17,7 +17,7 @@ dateCreated: 2023-01-21T19:12:56.839Z
 ## Установка Supreme Commander: Forged Alliance и клиента FAF
 
 **Step 1:**  Установите Supreme Commander: Forged Alliance
-**Step 2:** Скачайте [FAF Client](https://faforever.com/client) и установите его
+**Step 2:** Скачайте [FAF Client](https://github.com/FAForever/downlords-faf-client/releases/download/v2023.1.2/faf_windows-x64_2023_1_2.exe) и установите его
 **Step 3:** [Создайте аккаунт FAF](https://faforever.com/account/register)
 **Step 4:** Привяжите учетную запись [Steam](https://www.faforever.com/account/link) или [GOG](https://www.faforever.com/account/linkGog)
 **Step 5:** Создайте профиль и запустите игру
