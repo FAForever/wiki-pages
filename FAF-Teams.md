@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2023-02-20T12:56:18.613Z
+date: 2023-02-20T13:01:57.943Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -307,6 +307,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 ❖ Member of the Balance team is expected to actively work towards team's goals and responsibilities. This is achieved by discussing balance matters with the team, creating and reviewing Pull requests in the repository, and taking part in meetings.
 ❖ Members of the Balance team, alongside the team lead, decide on individual balance changes as well as the general direction of balance.
 ❖ Members get a vote in all matters concerning the balance team: team membership, team leader election and the policy of the team.
+❖ To become a member you have to actively contribute as a balance associate for at least 6 months and get an approval of the team lead and super majority (75%) of current members.
 
 ##### Associate
 ❖ Balance associates are either newer contributors or less experienced contributors.
