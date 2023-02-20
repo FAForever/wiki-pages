@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2022-12-28T01:09:17.294Z
+date: 2023-02-20T12:56:18.613Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -273,10 +273,13 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 - Turin
 - Farmsletje
+- SpikeyNoob
+
+#### Associates
+
 - Tex
 - Archsimkat
 - Swkoll
-- SpikeyNoob
 
 #### Honorary Members
 
@@ -286,28 +289,36 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - Keyser
 
 #### Policies
-❖ The main goal of the Balance team is the continous balancing of FAF's gameplay to make it more fun, fair, and engaging.
 
 ##### Team Membership
 ❖ Interested applicants apply by messaging the team lead.
-❖ Applicants are discussed and voted on by the team with a majority required to join, with the team leader being the tiebreak.
-❖ Applicants are expected to be experienced players and have good understanding of the competitive gameplay.
+❖ Applicants are discussed and voted on by the team members with a majority required to join, with the team leader being the tiebreak.
+❖ If accepted new members become balance associates.
+❖ Applicants are expected to have atleast one of the following: game design knowledge, LUA coding knowledge being familiar with fa repo or be an experienced player with a good understanding of the competitive gameplay.
 ❖ New members are accepted on a trial period that lasts up to 3 months.
-❖ Team members may be removed due to inactivity or being no longer suitable for the position by the team leader.
+❖ Team members may be removed, by the team leader or a majority vote, due to inactivity or being no longer suitable for the position.
 
 ##### Team Leader
 ❖ The team leader acts as the point of contact with the board and other teams.
-❖ The team leader is elected by the team vote or by the previous team leader.
+❖ The team leader is elected by the balance members with a majority vote or by the previous team leader.
 ❖ Any team member can call for team lead election at any time with a 3 month cooldown period in normal situations.
 
 ##### Member
-❖ Member of the Balance team is expected to actively work towards team's goals and responsibilities. This is achieved by discussing balance matters with the team, creating Pull requests in the repository, and taking part in meetings.
+❖ Member of the Balance team is expected to actively work towards team's goals and responsibilities. This is achieved by discussing balance matters with the team, creating and reviewing Pull requests in the repository, and taking part in meetings.
+❖ Members of the Balance team, alongside the team lead, decide on individual balance changes as well as the general direction of balance.
+❖ Members get a vote in all matters concerning the balance team: team membership, team leader election and the policy of the team.
+
+##### Associate
+❖ Balance associates are either newer contributors or less experienced contributors.
+❖ Balance associates are expected to contribute in at least one area of team's responsibilities.
+❖ Balance associates don't get to vote on any matters concerning the balance team and they don't decide upon balance changes. That doesn't mean that their feedback isn't welcome nor that it won't impact what gets changed. It simply means they do not have a final say in those matters.
+❖ Activity requirements are less strict for the associates compared to members.
 
 ##### Honorary Member
-❖ Honorary members are experienced players or past members of the team. They provide their insights on balance matters however they don't have any voting powers and are not subject to any activity standards.
+❖ Honorary members are past members of the team. They provide their insights on balance matters however they don't have any voting powers and are not subject to any activity standards.
 
 ##### Team responsibilities
-❖ Maintain and improve the gameplay of FAF
+❖ The main goal of the Balance team is the continous balancing of FAF's gameplay to make it more fun, fair, and engaging.
 ❖ Roll-out patches to fix any bugs and introduce new features
 ❖ Prepare patchnotes and explain to the community the reasons behind changes made in the patch
 ❖ Engage with the community and collect feedback
