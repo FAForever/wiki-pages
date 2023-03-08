@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2023-01-21T19:27:11.073Z
+date: 2023-03-08T12:11:43.337Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-23T16:26:19.315Z
@@ -14,7 +14,7 @@ dateCreated: 2021-12-23T16:26:19.315Z
 If you're new to FAF and need help, here are some good introductory resources:
 
 - [New To FAF *Start here for help*](https://wiki.faforever.com/ru/New-To-FAF)
-- [Windows Installation *How to get FAF working on Windows*](https://wiki.faforever.com/ru/Windows-Install)
+- [Установка на Windows *How to get FAF working on Windows*](https://wiki.faforever.com/ru/Windows-Install)
 - [Linux Installation *How to get FAF working on Linux*](https://wiki.faforever.com/ru/Linux-Install)
 {.links-list}
 
