@@ -2,7 +2,7 @@
 title: Linux Installation
 description: 
 published: true
-date: 2023-01-01T21:34:59.641Z
+date: 2023-03-13T21:27:01.871Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:33.098Z
@@ -10,9 +10,14 @@ dateCreated: 2022-06-12T23:43:33.098Z
 
 # Linux Installation
 
-A [script](https://github.com/iczero/faf-linux) can be used to automate the installation. Please follow the instructions [here](https://github.com/FAForever/faf-linux/blob/master/README.md#setup-instructions). Otherwise use the guide below. This guide is created with Ubuntu users in mind. However with minor modifications the instructions can be used for others distros. If you run into any undocumented issues or have any questions please join us on the FAF discord in #linux-support.
+## Script Install
+
+A [script](https://github.com/iczero/faf-linux) can be used to automate the installation. Please follow the instructions [here](https://github.com/FAForever/faf-linux/blob/master/README.md#setup-instructions).
 
 ## Install the FAF client 
+This guide is created with Ubuntu users in mind. However with minor modifications the instructions can be used for others distros. If you run into any undocumented issues or have any questions please join us on the FAF discord in #linux-support.
+
+
 Download the latest stable version of the client from the [GitHub](https://github.com/FAForever/downlords-faf-client/releases).
 ```
 curl -L -O https://github.com/FAForever/downlords-faf-client/releases/download/v2022.4.1/faf_unix_2022_4_1.tar.gz>
