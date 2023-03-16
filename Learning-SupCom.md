@@ -2,8 +2,8 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2022-07-30T13:23:48.449Z
-tags: 
+date: 2023-03-16T18:20:17.746Z
+tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
@@ -29,6 +29,8 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 ## Improving Your Gameplay
 
 If you know the basics of the game and are looking to improve your gameplay, you may want to check out any or all of the links in this section (whether you're a new player or a pro, these resources could help you to improve).
+
+[How To Play FAF & Get Better - Cliff Notes](https://forum.faforever.com/topic/4765/how-to-play-faf-get-better-cliff-notes) - 1,879 words (~ 9 minutes)
 
 [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365) - 1,816 words (~8 minutes)
 
