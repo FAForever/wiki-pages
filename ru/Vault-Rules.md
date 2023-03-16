@@ -2,10 +2,10 @@
 title: Vault Rules
 description: 
 published: true
-date: 2021-12-27T08:22:56.864Z
+date: 2023-03-16T18:13:50.744Z
 tags: 
 editor: markdown
-dateCreated: 2021-12-27T08:22:56.864Z
+dateCreated: 2021-12-29T00:09:31.511Z
 ---
 
 # Vault Rules
@@ -14,7 +14,7 @@ The following are the current rules for both the map and mod vaults:
 
 ## Rules overview:
 
-* No illegal, broken, malicious, pornographic, or 'test' content.
+* No illegal, broken, malicious, or pornographic content.
 * Content must follow naming conventions, and have proper attribution.
 * No GPG maps or variants thereof without approval.
 * No maps identifiably generated using Neroxis.
