@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T22:16:26.097Z
+date: 2023-03-22T22:45:24.941Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -55,15 +55,18 @@ Further details on M27AI are available on the forum thread, including a detailed
 https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog
 
 ### SCTA AI 
+![sctarebalance_icon.png](/sctarebalance_icon.png)
 *Author: Dragun101*
 Other mods required: SCTABalance, SCTAFix, and AI-Uveso
 Note that this AI is part of the wider SCTA conversion mod, and requires both the SCTABalance and SCTAFix modes to work (which result in the two total annihilation based factions as playable options for humans and the SCTA AI).  The AI comes as part of these two mods.
 
 ## AI not under active development
 ### Marlo's Sorian Edit
+![sorianedit.bmp](/sorianedit.bmp)
 Author: Degulum/!MarLo
 Last updated: October 2022
 Other mods required: AI-Uveso
+Based off the Sorian AI, this mod looks to make improvements to the logic to provide a more competitive experience.
 
 ### DilliDalli
 ![bugfix.png](/bugfix.png)
@@ -90,6 +93,7 @@ Other mods required: AI-Uveso
 Designed to battle against turtle human players on 20x20+ maps with lots of mass points.  Best in a 1v1 enfironment.
 
 ### SACUAI
+![sacuai_icon.jpg](/sacuai_icon.jpg)
 *Author: Skouby*
 Last updated: June 2021
 SACUAI was entered in the 2021 computer cup, placing 4th out of the 8 AI entered:
@@ -102,6 +106,13 @@ Last updated: Jun 2018
 Other mods required: None
 Functioning AI that was a predecessor to Dalli and DilliDalli - considered inferior to DilliDalli.
 
+### Sorian AI
+*Author: Sorian*
+Last updated: Unknown
+Other mods required: None
+When released Sorian AI represented an improvement to the base AI in FAF.  Note though that the base adaptive AI has been updated more recently and is more likely to provide a greater competitive experience than the Sorian AI.
+AI variants: Sorian, Rush, Air, Water, Turtle, Adaptive
+
 ## Upcoming AI
 ### M28AI
 *Author: maudlin27*
@@ -112,7 +123,6 @@ It should be possible to play with this AI by downloading it from Github, and en
 https://github.com/maudlin27/M28AI
 
 Compared with M27AI M28AI aims to provide a more CPU performant AI that works better in teamgame scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.
-
 
 ## Historic FAF AI
 The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
@@ -176,7 +186,14 @@ If reporting a bug with an AI, the following will be helpful for the AI develope
 * Specify whether you have any other mods active (and ideally if you get the same bug with just the AI mod in question active) - i.e. the more SIM mods that are active, the greater the chance of an error, which may be unrelated to the AI itself
 
 # AI comparisons and tournaments
+## AI vs Human tournaments
+### Rainbow Cup
+Rainbow Cup tournaments have been held every 6-12 months, the most recent of which, Rainbow Cup VI, is linked to below:
+https://forum.faforever.com/topic/5400/rainbow-cup-vi-3v3-1-500
+These tournaments typically pit 2 human teams against each other, with the AI featuring as a 3rd (and/or 4th) team in the game.  When one human team loses, the other human team wins the match.
 
+## AI vs AI tournaments
+### Weekly/Monthly tournaments
 A number of AI tournaments have been held highlighting:
 
 - How well AI perform against each other (competitively)
@@ -187,3 +204,7 @@ A number of AI tournaments have been held highlighting:
 These are summarised in the following forum thread:
 https://forum.faforever.com/topic/2931/monthly-ai-tourney-series
 Note however that these AI tournaments would only show a snapshot at a particular time, and a number of the AI featured have received significant updates since then.
+
+### Computer cup
+A computer cup tournament was held in June 2021, the results of the AI vs AI component of this are summarised in the below post:
+https://forum.faforever.com/topic/1475/supreme-computer-cup/57
