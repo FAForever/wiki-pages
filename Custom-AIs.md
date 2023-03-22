@@ -2,28 +2,38 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T19:49:57.540Z
+date: 2023-03-22T20:21:38.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
 ---
 
 # Overview of custom AI
-FAF features a number of advanced AI that offer significant improvements over the default AI.  In particular, depending on the AI these can:
-- Provide a more adaptive playstyle, responding to player actions
-- Make use of player tactics (for example microing of particular units)
-- Be more tailored towards FAF balance and meta
-- Run faster on slower CPUs
-- Be more challenging to beat
-- Use of modded units
+FAF features a number of advanced AI that offer significant improvements over the default AI.  In particular, depending on the AI these can include:
+- Adaptive playstyle, responding to player actions
+- Player tactics/unit microing
+- FAF balance and meta focus
+- Better CPU performance
+- More challenging
+- Unit mod compatibility
 
-For example, by one measure the fastest custom AI was more than twice as fast as the default Adaptive AI (August 2022), and could lose to the most competitive custom AI even with a 100% boost to its resource generation and build speed.
+For example, by one measure the fastest custom AI was more than twice as fast as the default Adaptive AI (August 2022), while the Adaptive AI could lose to the most competitive custom AI even with a 100% boost to its resource generation and build speed (although as the base Adaptive AI is under active development this may change).
 
 Further details on the custom AI available in FAF, and how to play using them, are given below.
 
 # FAF Custom AI
-## Actively developed AI
 Each AI has a different style of playing, so be sure to try and different AI to see the ones that you like the most.
+
+## Feedback
+You can provide feedback on particular AI in the FAF discord, through the ai-feedback channel.  To view this channel, go to the roles selection channel on the FAF discord (https://discord.com/channels/197033481883222026/831394581554790428) and indicating a preference for AI games in the "What Are Your Game Prefernces? Part 2 section.
+
+Alternatively you can join the AI developers discord:
+https://discord.gg/qdqcEGR7
+
+Note that there is less likely to be a response regarding AI that are not under active development. 
+
+## Actively developed AI
+
 
 ### AI-Uveso
 ![uvesoai.jpg](/uvesoai.jpg)
