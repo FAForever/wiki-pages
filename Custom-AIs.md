@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T21:52:58.697Z
+date: 2023-03-22T21:59:19.615Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -29,7 +29,7 @@ Each AI has a different style of playing, so be sure to try and different AI to 
 
 ### AI-Uveso
 ![uvesoai.jpg](/uvesoai.jpg)
-Author: Uveso
+*Author: Uveso*
 This AI is a turtle focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
 
 The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain other custom AI (as of writing, March 2023, AI-Swarm, Marlo's Sorian Edit, Sorian AI, and RNGAI, although RNGAI is expected to be updated to use separate map markers in the near future).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
@@ -38,38 +38,38 @@ AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is sugg
 
 ### RNGAI
 ![rngai.jpg](/rngai.jpg)
-Author: Relent0r
+*Author: Relent0r*
 AI aimed at the players wanting to learn 1v1 gameplay. It provides an avenue to play against something that emulates some of the methods ladder players use!
 
 AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
 
 ### M27AI
 ![m27ai.jpg](/m27ai.jpg)
-Author: maudlin27
-Adaptive AI, intended for both 1v1 and team games.  Aims to provide a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).
+*Author: maudlin27*
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).
 
 Further details on M27AI are available on the forum thread, including a detailed devlog of the AI's progress:
 https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog
 
 ### SCTA AI 
-Author: Dragun101
+*Author: Dragun101*
 Note that this AI is part of the wider SCTA conversion mod, and requires both the SCTABalance and SCTAFix modes to work (which result in the two total annihilation based factions as playable options for humans and the SCTA AI).
 
 ## AI not under active development
 ### DilliDalli
-Author: Softles
+*Author: Softles*
 Aggressive land focused AI, particularly effective at the T1-T2 stages of the game.
 
 ### Dilli
-Author: Softles
-Predecessor to Dalli and DilliDalli.
+*Author: Softles*
+Functioning AI that was a predecessor to Dalli and DilliDalli - considered inferior to DilliDalli.
 
 ### Dalli
-Author: Softles
-Predecessor to DilliDalli.
+*Author: Softles*
+Functioning AI that was a predecessor to DilliDalli - considered inferior to DilliDalli.
 
 ### Nutcracker
-Author: muchstuff
+*Author: muchstuff*
 
 ## Upcoming AI
 ### M28AI
@@ -83,7 +83,7 @@ https://github.com/maudlin27/M28AI
 Compared with M27AI M28AI aims to provide a more CPU performant AI that works better in teamgame scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.
 
 
-## Historic FAF AI (not working)
+## Historic FAF AI
 The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
 
 ### AI-Swarm
@@ -140,3 +140,16 @@ Note that there is less likely to be a response regarding AI that are not under 
 If reporting a bug with an AI, the following will be helpful for the AI developer to investigate it further:
 * Include the replay ID number and time stamp of the issue, along with a description of the issue
 * Specify whether you have any other mods active (and ideally if you get the same bug with just the AI mod in question active) - i.e. the more SIM mods that are active, the greater the chance of an error, which may be unrelated to the AI itself
+
+# AI comparisons and tournaments
+
+A number of AI tournaments have been held highlighting:
+
+- How well AI perform against each other (competitively)
+- How fast AI run
+- What maps different AI work best on
+- What unit mixes different AI favour
+
+These are summarised in the following forum thread:
+https://forum.faforever.com/topic/2931/monthly-ai-tourney-series
+Note however that these AI tournaments would only show a snapshot at a particular time, and a number of the AI featured have received significant updates since then.
