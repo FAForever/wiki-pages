@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T20:24:28.750Z
+date: 2023-03-22T20:40:58.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -32,13 +32,28 @@ Each AI has a different style of playing, so be sure to try and different AI to 
 ![uvesoai.jpg](/uvesoai.jpg)
 This AI is a turtle focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
 
-The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain other custom AI (as of writing, March 2023, AI-Swarm, Marlo's Sorian Edit, Sorian AI, and RNGAI, although RNGAI is expected to be updated to use separate map markers in the near future).  I.e. enabling AI-Uveso with these other AI mods can improve their performance.
+The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain other custom AI (as of writing, March 2023, AI-Swarm, Marlo's Sorian Edit, Sorian AI, and RNGAI, although RNGAI is expected to be updated to use separate map markers in the near future).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
 
-AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.
+AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
 
+### RNGAI
+AI aimed at the players wanting to learn 1v1 gameplay. It provides an avenue to play against something that emulates some of the methods ladder players use!
 
+AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
+
+### M27AI
+Adaptive AI, intended for both 1v1 and team games and aims to provide a highly competivie experience.  Makes use of advanced tactics for players seeking a challenge.
 
 ## AI not under active development
+### DilliDalli
+### Dilli
+### Dalli
+
+## Upcoming AI
+### M28AI
+Note this AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it should be in a usable state, there is a much greater risk of errors and the AI itself is incomplete.
+It should be possible to play with this AI by downloading it from Github, and ensuring the M28AI folder is in your normal FAF mods folder (i.e. the same folder that other AI mods are saved to):
+https://github.com/maudlin27/M28AI
 
 ## Historic FAF AI (not working)
 The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
@@ -50,6 +65,8 @@ Swarm stopped working following changes made to FAF in February 2023.  Although 
 This AI is a multi use AI that is designed mainly for 10km maps.  It provides an additional (optional) 'Eternal' game setting that provides the AI with a steadily increasing resource and build modifier to make it more challenging as the game progresses.
 Note that this AI has compatibility issues with RNGAI
 Variants: Terror, Eternal.
+
+### Nutcracker
 
 # Playing with custom AIs
 ### Installing AI mods
