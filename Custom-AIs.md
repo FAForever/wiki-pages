@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T21:50:27.910Z
+date: 2023-03-22T21:52:58.697Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -46,7 +46,7 @@ AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested
 ### M27AI
 ![m27ai.jpg](/m27ai.jpg)
 Author: maudlin27
-Adaptive AI, intended for both 1v1 and team games and aims to provide a highly competivie experience.  Makes use of advanced tactics for players seeking a challenge.
+Adaptive AI, intended for both 1v1 and team games.  Aims to provide a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).
 
 Further details on M27AI are available on the forum thread, including a detailed devlog of the AI's progress:
 https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog
