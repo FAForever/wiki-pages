@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T22:08:51.281Z
+date: 2023-03-22T22:13:20.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -60,12 +60,13 @@ Other mods required: SCTABalance, SCTAFix, and AI-Uveso
 Note that this AI is part of the wider SCTA conversion mod, and requires both the SCTABalance and SCTAFix modes to work (which result in the two total annihilation based factions as playable options for humans and the SCTA AI).  The AI comes as part of these two mods.
 
 ## AI not under active development
-### Sorian Edit
+### Marlo's Sorian Edit
 Author: Degulum/!MarLo
 Last updated: October 2022
 Other mods required: AI-Uveso
 
 ### DilliDalli
+![bugfix.png](/bugfix.png)
 *Author: Softles*
 Last updated: July 2021
 Other mods required: None
@@ -75,22 +76,28 @@ See also the forum thread for DilliDalli:
 https://forum.faforever.com/topic/2008/dillidalli-1v1-specialist-ai
 
 ### Dalli
+![bugfix.png](/bugfix.png)
 *Author: Softles*
 Last updated: May 2021
 Other mods required: None
 Functioning AI that was a predecessor to DilliDalli - considered inferior to DilliDalli.
 
-### Dilli
-*Author: Softles*
-Last updated: Jun 2018
-Other mods required: None
-Functioning AI that was a predecessor to Dalli and DilliDalli - considered inferior to DilliDalli.
-
 ### Nutcracker
+![nutcracker.jpg](/nutcracker.jpg)
 *Author: muchstuff*
 Last updated: September 2021
 Other mods required: AI-Uveso
 Designed to battle against turtle human players on 20x20+ maps with lots of mass points.  Best in a 1v1 enfironment.
+
+### SACUAI
+
+
+### Dilli
+![bugfix.png](/bugfix.png)
+*Author: Softles*
+Last updated: Jun 2018
+Other mods required: None
+Functioning AI that was a predecessor to Dalli and DilliDalli - considered inferior to DilliDalli.
 
 ## Upcoming AI
 ### M28AI
