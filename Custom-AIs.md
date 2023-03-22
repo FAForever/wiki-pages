@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T20:40:58.952Z
+date: 2023-03-22T21:48:48.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -27,9 +27,9 @@ Each AI has a different style of playing, so be sure to try and different AI to 
 
 ## Actively developed AI
 
-
 ### AI-Uveso
 ![uvesoai.jpg](/uvesoai.jpg)
+Author: Uveso
 This AI is a turtle focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
 
 The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain other custom AI (as of writing, March 2023, AI-Swarm, Marlo's Sorian Edit, Sorian AI, and RNGAI, although RNGAI is expected to be updated to use separate map markers in the near future).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
@@ -37,23 +37,50 @@ The AI-Uveso mod also allows for the generation of 'map markers', which are used
 AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
 
 ### RNGAI
+![rngai.jpg](/rngai.jpg)
+Author: Relent0r
 AI aimed at the players wanting to learn 1v1 gameplay. It provides an avenue to play against something that emulates some of the methods ladder players use!
 
 AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
 
 ### M27AI
+![m27ai.jpg](/m27ai.jpg)
+Author: maudlin27
 Adaptive AI, intended for both 1v1 and team games and aims to provide a highly competivie experience.  Makes use of advanced tactics for players seeking a challenge.
+
+Further details on M27AI are available on the forum thread, including a detailed devlog of the AI's progress:
+https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog
+
+### SCTA AI 
+Author: Dragun101
+Note that this AI is part of the wider SCTA conversion mod, and requires both the SCTABalance and SCTAFix modes to work (which result in the two total annihilation based factions as playable options for humans and the SCTA AI).
 
 ## AI not under active development
 ### DilliDalli
+Author: Softles
+Aggressive land focused AI, particularly effective at the T1-T2 stages of the game.
+
 ### Dilli
+Author: Softles
+Predecessor to Dalli and DilliDalli.
+
 ### Dalli
+Author: Softles
+Predecessor to DilliDalli.
+
+### Nutcracker
+Author: muchstuff
 
 ## Upcoming AI
 ### M28AI
+Author: maudlin27
+
 Note this AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it should be in a usable state, there is a much greater risk of errors and the AI itself is incomplete.
 It should be possible to play with this AI by downloading it from Github, and ensuring the M28AI folder is in your normal FAF mods folder (i.e. the same folder that other AI mods are saved to):
 https://github.com/maudlin27/M28AI
+
+Compared with M27AI M28AI aims to provide a more CPU performant AI that works better in teamgame scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.
+
 
 ## Historic FAF AI (not working)
 The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
@@ -66,7 +93,8 @@ This AI is a multi use AI that is designed mainly for 10km maps.  It provides an
 Note that this AI has compatibility issues with RNGAI
 Variants: Terror, Eternal.
 
-### Nutcracker
+Further details on SwarmAI are provided in the forum thread, including suggested maps to play it on.
+https://forum.faforever.com/topic/53/ai-swarm-ai-mod-for-faforever
 
 # Playing with custom AIs
 ### Installing AI mods
