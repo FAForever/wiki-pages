@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T22:45:24.941Z
+date: 2023-03-22T22:47:29.806Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -172,6 +172,7 @@ Note that some AI mods may recommend or require other mods to be enabled, so ple
 
 # AI game settings
 
+To be added - as a general guide, avoid unit restrictions.  Some AI don't work well on maps with water, and/or maps where the starting position is a plateau unable to path (by land) to the enemy base.  Most AI are intended for 20km or smaller maps.
 
 # Feedback
 You can provide feedback on particular AI in the FAF discord, through the ai-feedback channel.  To view this channel, go to the roles selection channel on the FAF discord (https://discord.com/channels/197033481883222026/831394581554790428) and indicating a preference for AI games in the "What Are Your Game Prefernces? Part 2 section.
