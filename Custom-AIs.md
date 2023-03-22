@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T22:47:29.806Z
+date: 2023-03-22T22:50:36.034Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -14,7 +14,7 @@ FAF features a number of advanced AI that offer significant improvements over th
 - Player tactics/unit microing
 - FAF balance and meta focus
 - Better CPU performance
-- More challenging
+- Greater challenge
 - Unit mod compatibility
 
 For example, by one measure the fastest custom AI was more than twice as fast as the default Adaptive AI (August 2022), while the Adaptive AI could lose to the most competitive custom AI even with a 100% boost to its resource generation and build speed (although as the base Adaptive AI is under active development this may change).
