@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T22:13:20.894Z
+date: 2023-03-22T22:16:26.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -90,7 +90,10 @@ Other mods required: AI-Uveso
 Designed to battle against turtle human players on 20x20+ maps with lots of mass points.  Best in a 1v1 enfironment.
 
 ### SACUAI
-
+*Author: Skouby*
+Last updated: June 2021
+SACUAI was entered in the 2021 computer cup, placing 4th out of the 8 AI entered:
+https://forum.faforever.com/topic/1475/supreme-computer-cup/57
 
 ### Dilli
 ![bugfix.png](/bugfix.png)
@@ -101,7 +104,7 @@ Functioning AI that was a predecessor to Dalli and DilliDalli - considered infer
 
 ## Upcoming AI
 ### M28AI
-Author: maudlin27
+*Author: maudlin27*
 
 This AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it is likely to be in a usable state on the majority of maps using default settings, there is a significant risk of errors.
 
@@ -115,8 +118,8 @@ Compared with M27AI M28AI aims to provide a more CPU performant AI that works be
 The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
 
 ### AI-Swarm
-![swarmicon.jpg](/swarmicon.jpg)
-Author: Azraeel
+*![swarmicon.jpg](/swarmicon.jpg)
+Author: Azraeel*
 Last updated: October 2022
 Other mods required: AI-Uveso
 Swarm stopped working following changes made to FAF in February 2023.  Although the author is currently unavailable, it is hoped that they may update Swarm at some point in the future to fix this issue.
