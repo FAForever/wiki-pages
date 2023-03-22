@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T21:48:48.063Z
+date: 2023-03-22T21:50:27.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -75,7 +75,8 @@ Author: muchstuff
 ### M28AI
 Author: maudlin27
 
-Note this AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it should be in a usable state, there is a much greater risk of errors and the AI itself is incomplete.
+This AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it is likely to be in a usable state on the majority of maps using default settings, there is a significant risk of errors.
+
 It should be possible to play with this AI by downloading it from Github, and ensuring the M28AI folder is in your normal FAF mods folder (i.e. the same folder that other AI mods are saved to):
 https://github.com/maudlin27/M28AI
 
