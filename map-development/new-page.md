@@ -2,7 +2,7 @@
 title: Creating AI friendly maps
 description: Tips for ways to make maps more AI friendly
 published: true
-date: 2023-03-23T22:29:11.908Z
+date: 2023-03-23T22:32:04.192Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-03-23T22:14:43.991Z
@@ -70,5 +70,29 @@ This example also features several other issues – a narrow path between the me
 ![setons_naval_location.png](/setons_naval_location.png)
 
 -- e.g. an AI might decide to try and build on the location just to the right of the ACU start position, and then send its engineers all the around the beach location to the top-left to get there.
-
 - Another example of a map/water setup that is more likely to lead to the AI building a naval factory in a poor location:
+
+![another_naval_issue_example.png](/another_naval_issue_example.png)
+
+- With high value units like experimentals, AI may adopt a simplistic approach of sending the experimental on a move order to the nearest enemy base.  Try to think about whether this would cause any obvious issues – for example, on eye of the storm in a 1v1 this leads to experimentals (which are amphibious) spending most of their time underwater being attacked by navy since going through the water is the more direct path (whereas in many situations it may be better to go by land so the experimental doesn’t die to navy, can have MAA nearby to support it for UEF and Cybran, can kill land threats from the enemy on the way instead of having no value until it surfaces, and so it can make use of its longer range in the case of a unit like the fatboy).
+
+# Mexes
+- Don’t place mexes very close to the map edge (if I was to guess, within 10 of a map edge) – some AI have in the past had an issue where they don’t detect mexes on the edge of a map.
+- In general having mexes that are on an unpathable position but are within 10 units of a position that is pathable causes problems.
+- Similarly having mexes that are in the water but very close to a start position can also lead to issues, such as the below example: 
+
+![mex_close_to_start.png](/mex_close_to_start.png)
+
+- For plateaus with mexes, try and avoid the plateau being too small, or the mexes being too close to the edge of the plateau, and minimise the extent to which there might be a small location that could be validly dropped by engineers near the plateau that isn’t actually on the plateau (i.e. this is to reduce the risk that the AI, when attempting to drop engineers on the plateau, ends up dropping them somewhere where the engineers cant actually reach the plateau).
+
+# Map markers
+Although historically map markers were of far greater importance, they are less so now since some AIs make no use of them, while other AIs that do make use of them typically recommend making use of the Uveso mod to generate map markers through that mod (rather than relying on markers set by the map author) – this is because the markers on some of the maps with markers (e.g. official GPG maps) are terrible from an AI perspective.
+
+That said, it’s expected that many people who play against AI will do it using the default AI and without mods, in which case map markers will be useful for helping make the default AI play better.
+
+The following links include more details re map markers for AI:
+https://forum.faforever.com/topic/145/about-markers-ai-markers
+https://forums.faforever.com/viewtopic.php?f=88&t=16606
+
+# Other points
+- Don’t use custom scripts that have a significant impact on gameplay – for example, a ‘crazy rush’ type game where building a mex results in new mexes being built.
