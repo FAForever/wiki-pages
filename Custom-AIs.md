@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-23T07:55:19.325Z
+date: 2023-03-23T08:15:53.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
