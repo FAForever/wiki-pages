@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-23T08:21:07.815Z
+date: 2023-03-23T08:26:44.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -51,8 +51,8 @@ AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested
 Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).
 
-Further details on M27AI are available on the forum thread, including a detailed devlog of the AI's progress:
-https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog
+Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+
 
 ### SCTA AI 
 ![sctarebalance_icon.png](/sctarebalance_icon.png)
@@ -75,8 +75,7 @@ Last updated: July 2021
 Other mods required: None
 Aggressive land focused AI, particularly effective at the T1-T2 stages of the game.
 
-See also the forum thread for DilliDalli:
-https://forum.faforever.com/topic/2008/dillidalli-1v1-specialist-ai
+See also the [forum thread for DilliDalli](https://forum.faforever.com/topic/2008/dillidalli-1v1-specialist-ai)
 
 ### Dalli
 ![bugfix.png](/bugfix.png)
@@ -96,8 +95,7 @@ Designed to battle against turtle human players on 20x20+ maps with lots of mass
 ![sacuai_icon.jpg](/sacuai_icon.jpg)
 *Author: Skouby*
 Last updated: June 2021
-SACUAI was entered in the 2021 computer cup, placing 4th out of the 8 AI entered:
-https://forum.faforever.com/topic/1475/supreme-computer-cup/57
+SACUAI was entered in the [2021 computer cup](https://forum.faforever.com/topic/1475/supreme-computer-cup/57), placing 4th out of the 8 AI entered.
 
 ### Dilli
 ![bugfix.png](/bugfix.png)
@@ -119,8 +117,7 @@ AI variants: Sorian, Rush, Air, Water, Turtle, Adaptive
 
 This AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it is likely to be in a usable state on the majority of maps using default settings, there is a significant risk of errors.
 
-It should be possible to play with this AI by downloading it from Github, and ensuring the M28AI folder is in your normal FAF mods folder (i.e. the same folder that other AI mods are saved to):
-https://github.com/maudlin27/M28AI
+It should be possible to play with this AI by downloading it [from Github](https://github.com/maudlin27/M28AI), and ensuring the M28AI folder is in your normal FAF mods folder (i.e. the same folder that other AI mods are saved to).
 
 Compared with M27AI M28AI aims to provide a more CPU performant AI that works better in teamgame scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.
 
@@ -138,8 +135,7 @@ This AI is a multi use AI that is designed mainly for 10km maps.  It provides an
 Note that this AI may have compatibility issues with RNGAI.
 Variants: Terror, Eternal.
 
-Further details on SwarmAI are provided in the forum thread, including suggested maps to play it on.
-https://forum.faforever.com/topic/53/ai-swarm-ai-mod-for-faforever
+Further details on SwarmAI are provided in [its forum thread](https://forum.faforever.com/topic/53/ai-swarm-ai-mod-for-faforever), including suggested maps to play it on.
 
 # Playing with custom AIs
 ### Installing AI mods
@@ -187,10 +183,9 @@ The following are general suggestions for creating games with AI - note that dep
 - Try to limit how many different AI you have in a game at once due to the risk of incompatibilities and the increased strain on the computer (since different AI are likely to take different approaches to analysing the map and storing certain data, which could lead to high RAM usage and slower CPU speed).  There was previously a cap of 2GB on the amount of RAM that could be used by Forged Alliance (which could lead to crashes for certain AI late-game), but this RAM limit has been increased by FAF recently so such crashes are less likely (although in theory still possible, with the risk increasing based on both the number of different AI in a game, the number of AI players in a game, the map size, and the likely number of units featuring in the game).
 
 # Feedback
-You can provide feedback on particular AI in the FAF discord, through the ai-feedback channel.  To view this channel, go to the roles selection channel on the FAF discord (https://discord.com/channels/197033481883222026/831394581554790428) and indicating a preference for AI games in the "What Are Your Game Prefernces? Part 2 section.
+You can provide feedback on particular AI in the FAF discord, through the ai-feedback channel.  To view this channel, go to the [roles selection channel on the FAF discord](https://discord.com/channels/197033481883222026/831394581554790428) and indicating a preference for AI games in the "What Are Your Game Prefernces? Part 2 section.
 
-Alternatively you can join the AI developers discord:
-https://discord.gg/qdqcEGR7
+Alternatively you can join the [AI developers discord](https://discord.gg/qdqcEGR7).
 
 Note that there is less likely to be a response regarding AI that are not under active development.
 
@@ -206,8 +201,8 @@ https://forum.faforever.com/topic/5400/rainbow-cup-vi-3v3-1-500
 These tournaments typically pit 2 human teams against each other, with the AI featuring as a 3rd (and/or 4th) team in the game.  When one human team loses, the other human team wins the match.
 
 A number of the games in the tournament are casted, and links to the first 2 (out of 3) days of the Rainbow Cup VI casts are below:
-https://www.youtube.com/watch?v=EGQZE8nGwJc
-https://www.youtube.com/watch?v=RdVUKdeLwE4
+[Day 1 - Rainbow Cup VI](https://www.youtube.com/watch?v=EGQZE8nGwJc)
+[Day 2 - Rainbow Cup VI](https://www.youtube.com/watch?v=RdVUKdeLwE4)
 
 ## AI vs AI tournaments
 ### Weekly/Monthly tournaments
@@ -218,19 +213,17 @@ A number of AI tournaments have been held highlighting:
 - What maps different AI work best on
 - What unit mixes different AI favour
 
-These are summarised in the following forum thread:
-https://forum.faforever.com/topic/2931/monthly-ai-tourney-series
+Details of the [AI tournaments that were run and a summary of their results are available on the forum](https://forum.faforever.com/topic/2931/monthly-ai-tourney-series).
+
 Note however that these AI tournaments would only show a snapshot at a particular time, and a number of the AI featured have received significant updates since then.
 
 ### Computer cup
-A computer cup tournament was held in June 2021, the results of the AI vs AI component of this are summarised in the below post:
-https://forum.faforever.com/topic/1475/supreme-computer-cup/57
+A [computer cup tournament](https://forum.faforever.com/topic/1475/supreme-computer-cup/57) was held in June 2021, which includes the results of the AI vs AI component of this.
+
 
 # Creating AI-friendly maps
-The following contains tips and suggestions for map makers on how to create AI friendly maps:
-https://docs.google.com/document/d/1sMvvSW90pPDXV35nYPbGhjdHFMYRYZws/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true
+A document has been drafted containing [tips and suggestions for map makers on how to create AI friendly maps](https://docs.google.com/document/d/1sMvvSW90pPDXV35nYPbGhjdHFMYRYZws/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
 # Creating your own AI
 
-Interested in getting into AI development? Check out the page on AI modding:
-https://wiki.faforever.com/en/AI-Modding
+Interested in getting into AI development? Check out the separate [page on AI modding](https://wiki.faforever.com/en/AI-Modding).
