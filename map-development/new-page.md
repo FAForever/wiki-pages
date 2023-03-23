@@ -2,7 +2,7 @@
 title: Creating AI friendly maps
 description: Tips for ways to make maps more AI friendly
 published: true
-date: 2023-03-23T22:28:52.522Z
+date: 2023-03-23T22:29:11.908Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-03-23T22:14:43.991Z
@@ -68,3 +68,7 @@ This example also features several other issues – a narrow path between the me
 - Try to have beaches for bodies of water near the start position instead of cliffs – i.e. AIs struggle with cliff building (most won’t even attempt it), which can put them at a significant disadvantage to humans, and also lead engineers taking a very long path to try and build somewhere that could be cliff built.  Setons is an example that can cause this problem with the ‘rock’ start position:
 
 ![setons_naval_location.png](/setons_naval_location.png)
+
+-- e.g. an AI might decide to try and build on the location just to the right of the ACU start position, and then send its engineers all the around the beach location to the top-left to get there.
+
+- Another example of a map/water setup that is more likely to lead to the AI building a naval factory in a poor location:
