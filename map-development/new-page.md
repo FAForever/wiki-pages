@@ -2,7 +2,7 @@
 title: Creating AI friendly maps
 description: Tips for ways to make maps more AI friendly
 published: true
-date: 2023-03-23T22:24:03.140Z
+date: 2023-03-23T22:28:52.522Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-03-23T22:14:43.991Z
@@ -51,7 +51,20 @@ This example also features several other issues – a narrow path between the me
 
 # 3+4 way games and start positions
 - Provide lots of flat area around a start position to be built on – AI struggle with space particularly late game and if they run out of space it can lead to them breaking down/doing little and overflowing mass.  It is also likely to find it much harder than a human to find somewhere to  build large footprint units such as a Czar.  For example, Regor Highlands features an ‘air slot’ that gives a small narrow area to be built in, which will be very hard for the AI to make effective use of:
+![regor_highlands.png](/regor_highlands.png)
+
 - Far fewer AI are able to make use of an ‘air slot’ position where it is impossible for land units to reach the enemy.
 - Naval start points are unlikely to be used properly by AI – some AI may fail completely, others may search for the nearest land mass to the start position and try and setup their base there.
 - Avoid start positions where it’s intended for the player to move their ACU a significant distance before they actually start the game. 
+- Try to allow for multiple configurations/team settings – e.g. 3 way and 4-way games (most maps are intended for 2 teams only, making finding maps for AI based tournaments such as the rainbow cup very difficult).
 
+# Water, cliff-building, etc.
+- Try to avoid concave type shorelines near start positions where a naval factory is likely to be located, and use very shallow water (that cant be used by ships) as little as possible.
+-- For example, there is an issue where an AI can validly build a naval factory, yet units that get built from that factory (particularly T3 units) can end up moving onto land and dying.
+-- The below is an example of a map with a concave shape near the start point which can cause this issue:
+
+![concave_naval_spawn.png](/concave_naval_spawn.png)
+
+- Try to have beaches for bodies of water near the start position instead of cliffs – i.e. AIs struggle with cliff building (most won’t even attempt it), which can put them at a significant disadvantage to humans, and also lead engineers taking a very long path to try and build somewhere that could be cliff built.  Setons is an example that can cause this problem with the ‘rock’ start position:
+
+![setons_naval_location.png](/setons_naval_location.png)
