@@ -2,7 +2,7 @@
 title: Creating AI friendly maps
 description: Tips for ways to make maps more AI friendly
 published: true
-date: 2023-03-23T22:14:43.991Z
+date: 2023-03-23T22:15:19.805Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-03-23T22:14:43.991Z
