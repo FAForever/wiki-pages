@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-23T07:54:04.382Z
+date: 2023-03-23T07:55:19.325Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -225,3 +225,7 @@ Note however that these AI tournaments would only show a snapshot at a particula
 ### Computer cup
 A computer cup tournament was held in June 2021, the results of the AI vs AI component of this are summarised in the below post:
 https://forum.faforever.com/topic/1475/supreme-computer-cup/57
+
+# Creating AI-friendly maps
+The following contains tips and suggestions for map makers on how to create AI friendly maps:
+https://docs.google.com/document/d/1sMvvSW90pPDXV35nYPbGhjdHFMYRYZws/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true
