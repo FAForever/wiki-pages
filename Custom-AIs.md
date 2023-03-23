@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-23T08:15:53.743Z
+date: 2023-03-23T08:21:07.815Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -229,3 +229,8 @@ https://forum.faforever.com/topic/1475/supreme-computer-cup/57
 # Creating AI-friendly maps
 The following contains tips and suggestions for map makers on how to create AI friendly maps:
 https://docs.google.com/document/d/1sMvvSW90pPDXV35nYPbGhjdHFMYRYZws/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true
+
+# Creating your own AI
+
+Interested in getting into AI development? Check out the page on AI modding:
+https://wiki.faforever.com/en/AI-Modding
