@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-22T22:50:36.034Z
+date: 2023-03-23T07:52:23.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -135,7 +135,7 @@ Other mods required: AI-Uveso
 Swarm stopped working following changes made to FAF in February 2023.  Although the author is currently unavailable, it is hoped that they may update Swarm at some point in the future to fix this issue.
 
 This AI is a multi use AI that is designed mainly for 10km maps.  It provides an additional (optional) 'Eternal' game setting that provides the AI with a steadily increasing resource and build modifier to make it more challenging as the game progresses.
-Note that this AI has compatibility issues with RNGAI
+Note that this AI may have compatibility issues with RNGAI.
 Variants: Terror, Eternal.
 
 Further details on SwarmAI are provided in the forum thread, including suggested maps to play it on.
@@ -172,7 +172,19 @@ Note that some AI mods may recommend or require other mods to be enabled, so ple
 
 # AI game settings
 
-To be added - as a general guide, avoid unit restrictions.  Some AI don't work well on maps with water, and/or maps where the starting position is a plateau unable to path (by land) to the enemy base.  Most AI are intended for 20km or smaller maps.
+The following are general suggestions for creating games with AI - note that depending on specific comments/description made for the AI you are using these may not apply.
+
+- Only enable the AI mods that you intend to use the AI for in a game unless you're using an AI mod that requires/recommends AI-Uveso.  This is because AI mods can still run some logic in the background even if not active as a player, so could impact on game speed and/or provide a risk of incompatibility.
+- Maps of 20km or smaller are generally recommended for AI games - larger maps than this are unlikely to have been tested as much, while FAF balance is also more focused on 20km and smaller maps.
+- Unit restrictions may have unexpected consequences for the AI, as AI are generally developed without unit restrictions in mind.  Some AI will handle unit restrictions better than others, but as a general rule if applying unit restrictions try to use as sparingly as possible
+- Less conventional game settings such as a no rush radius/timer may not be supported by some AI - if the AI hasn't been specifically developed with no rush in mind, it could attempt to expand outside the norush radius, and build units to attack/defend even if under no immediate threat due to the norush timer
+- You can adjust the challenge provided by an AI by fighting against the AIx variant and changing the AIx Cheat Multiplier (affects the bonus resources the AI generates), the AIx Build Multiplier (affects the bonus to build speed the AI gets) and the AIx Omni Setting (gives map-wide omni vision for the AI if enabled).
+- Certain AI mods provide additional settings for changing how their AI behaves - these will depend on the AI in question, and are likely to only affect that particular AI.
+- As a general rule, AI are most likely to perform as intended in a 1v1 scenario on a land focused map.  The extent to which AI handle other scenarios (e.g. naval based maps; games with 3+ teams on them; maps with less conventional features such as a massive amount of reclaim in one location to be fought over, or a strong civilian base) will vary significantly between the AI.
+- Some AI will not work properly if given a start position that can't reach the enemy by land, and/or a start position that is in the water.
+- Avoid using a low unit cap - AI will struggle to manage their unit counts, and depending on the AI may not have logic to stop building or self-destruct lower tech units to free up space for higher tech ones.
+- Games with AI run slower than games with human players - try to avoid using large numbers of AI in a game, particularly on larger (20km+) sized maps unless you have a very good CPU or don't mind the game speed dropping.  If you're seeking more of a challenge, try a smaller number of the harder AI, making use of the AIx version of an AI, and/or one of the AI that runs sigificantly faster (see the AI tournament thread linked in the below section for further details).  As a rough guide, having 5+ AI players in a game is likely to make the game speed noticeably slower late-game.  However, the total number of units in a game is still likely to be the biggest factor in how fast the game runs.
+- Try to limit how many different AI you have in a game at once due to the risk of incompatibilities and the increased strain on the computer (since different AI are likely to take different approaches to analysing the map and storing certain data, which could lead to high RAM usage and slower CPU speed).  There was previously a cap of 2GB on the amount of RAM that could be used by Forged Alliance (which could lead to crashes for certain AI late-game), but this RAM limit has been increased by FAF recently so such crashes are less likely (although in theory still possible, with the risk increasing based on both the number of different AI in a game, the number of AI players in a game, the map size, and the likely number of units featuring in the game).
 
 # Feedback
 You can provide feedback on particular AI in the FAF discord, through the ai-feedback channel.  To view this channel, go to the roles selection channel on the FAF discord (https://discord.com/channels/197033481883222026/831394581554790428) and indicating a preference for AI games in the "What Are Your Game Prefernces? Part 2 section.
