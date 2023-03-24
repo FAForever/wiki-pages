@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-23T08:26:44.098Z
+date: 2023-03-24T07:01:04.820Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -200,9 +200,16 @@ Rainbow Cup tournaments have been held every 6-12 months, the most recent of whi
 https://forum.faforever.com/topic/5400/rainbow-cup-vi-3v3-1-500
 These tournaments typically pit 2 human teams against each other, with the AI featuring as a 3rd (and/or 4th) team in the game.  When one human team loses, the other human team wins the match.
 
+#### Rainbow Cup VI (March 2023)
 A number of the games in the tournament are casted, and links to the first 2 (out of 3) days of the Rainbow Cup VI casts are below:
 [Day 1 - Rainbow Cup VI](https://www.youtube.com/watch?v=EGQZE8nGwJc)
 [Day 2 - Rainbow Cup VI](https://www.youtube.com/watch?v=RdVUKdeLwE4)
+
+#### Rainbow Cup V (September 2022)
+Casted games of the 5th Rainbow Cup are unavailable, but the [RCV forum post](https://forum.faforever.com/topic/4033/rainbow-cup-v-3v3-1-200) contains more details of how the tournament was run.
+
+#### Rainbow Cup IV (March 2022)
+Casted games from the [4th Rainbow Cup are available on youtube](https://www.youtube.com/watch?v=dEf_C-6C7nk&list=PL0nxuIUIjpFvs5CAApyMBmlBH7pBZTKKD), with [further details on the tournament available on the forum](https://forum.faforever.com/topic/3016/rainbow-cup-iv-3v3-1-200).
 
 ## AI vs AI tournaments
 ### Weekly/Monthly tournaments
