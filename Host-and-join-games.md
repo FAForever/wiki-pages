@@ -2,7 +2,7 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2021-12-30T01:25:15.696Z
+date: 2023-03-24T06:46:59.253Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -39,8 +39,9 @@ This is how most games are played - simply double click on a game which you like
 To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [Coop Missions](/Coop-Missions) page.
 
 ### Playing With AI
-If you wish to play vs ai , simply host your own game, and add AI players instead of real ones.
-It's that simple! FAF comes with sorian AI, so you dont need to install it, and you can have any combination of human and AI players, as you wish.
+In addition to the AI that are available in FAF by default, there are a number of advanced custom AI which can provide various gameplay experiences and offer a significant increase in challenge over the default AI - this [article provides further detail of the custom AI](https://wiki.faforever.com/en/Custom-AIs) available on FAF and how to play using them.
+
+You can have any combination of human and AI players, as you wish.
 
 ## Hosting Games
 You can host a game by double clicking the icons on the left of the window to open a game dialogue with a variety of options.
