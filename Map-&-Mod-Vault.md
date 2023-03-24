@@ -2,7 +2,7 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2021-12-30T02:33:28.185Z
+date: 2023-03-24T08:49:37.095Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
@@ -70,4 +70,5 @@ You can select from the top UI or SIM. As long as the Mod is highlighted in blue
 
 [Sim mods](/Game-Modifications-(Mods)#Sim-Mods) are mods that affect the game itself and are activated on a per-game basis. They range from simple mods which adjust one or two values to overhauls of the game, such as Nomads and Black Ops. Most Sim mods make a game unrated. See [When is the gamerated?](/Rating-System#what-is-global-ranking)
 
-
+#### AI Mods
+AI mods are a type of Sim mod, so will make a game unrated.  FAF features a number of advanced custom AI mods, with [details summarising these custom AI and how to play against them included in a separate page](https://wiki.faforever.com/en/Custom-AIs).
