@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-24T07:01:04.820Z
+date: 2023-03-24T08:51:37.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -89,7 +89,7 @@ Functioning AI that was a predecessor to DilliDalli - considered inferior to Dil
 *Author: muchstuff*
 Last updated: September 2021
 Other mods required: AI-Uveso
-Designed to battle against turtle human players on 20x20+ maps with lots of mass points.  Best in a 1v1 enfironment.
+Designed to battle against turtle human players on 20x20+ maps with lots of mass points.  Best in a 1v1 environment.
 
 ### SACUAI
 ![sacuai_icon.jpg](/sacuai_icon.jpg)
