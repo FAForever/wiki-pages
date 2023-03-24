@@ -2,20 +2,22 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-01-31T12:50:37.525Z
+date: 2023-03-24T06:52:21.942Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
 ---
 
 # Ai Modding
+## Custom AI
+FAF has a number of custom AI - a [separate summary is available of the various AI available](/en/AI-Modding)https://wiki.faforever.com/en/Custom-AIs) and how to play against them.
+
+The below page is for if you are interested in creating your own AI in FAF.
 
 ## Detailed guide
-A combined AI development guide and a development log for one of the AIs can be accessed through this [link](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=sharing&ouid=100973959280546778272&rtpof=true&sd=true)
+An [AI development guide](https://docs.google.com/document/d/1puzW5hKcOBNE7wu7bXj6qXfTJ60r2f93/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true) that was created alongside a development log for one of the AIs is available, with the below containing extracts from this and other sources.
 
-See also the forum post relating to this [here](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v13-devlog)
-
-A summary of the information from this and other sources is given below.
+See also the [forum post relating to this AI](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v13-devlog) which includes a link to the devlog.
 
 
 ## Before you start
