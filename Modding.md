@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2021-12-29T23:28:13.649Z
+date: 2023-03-24T06:48:57.766Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -12,7 +12,7 @@ dateCreated: 2021-08-31T09:44:35.455Z
 
 Supreme Commander is extensible by [mods](/Game-Modifications-(Mods)), which can alter the whole gameplay (like PhantomX for example), change the balance of units, display information to the user or make the user automatically do things like renaming units or send messages to his allies when he starts upgrading. This is a page for you to get a basic idea of modding FA.
 
-See also [Tips for Modding Efficiently](/Modding/Tips-for-Modding-Efficiently).
+See also [Tips for Modding Efficiently](/Modding/Tips-for-Modding-Efficiently).  A separate [article specifically covers AI modding](https://wiki.faforever.com/en/AI-Modding).
 
 ### What we need
 
