@@ -2,7 +2,7 @@
 title: Creating AI friendly maps
 description: Tips for ways to make maps more AI friendly
 published: true
-date: 2023-03-26T15:37:45.659Z
+date: 2023-03-26T15:46:07.857Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-03-23T22:14:43.991Z
@@ -75,6 +75,7 @@ This example also features several other issues – a narrow path between the me
 ![another_naval_issue_example.png](/another_naval_issue_example.png)
 
 - With high value units like experimentals, AI may adopt a simplistic approach of sending the experimental on a move order to the nearest enemy base.  Try to think about whether this would cause any obvious issues – for example, on eye of the storm in a 1v1 this leads to experimentals (which are amphibious) spending most of their time underwater being attacked by navy since going through the water is the more direct path (whereas in many situations it may be better to go by land so the experimental doesn’t die to navy, can have MAA nearby to support it for UEF and Cybran, can kill land threats from the enemy on the way instead of having no value until it surfaces, and so it can make use of its longer range in the case of a unit like the fatboy).
+- Avoid very small sections of water in land, or very small sections of land (with no mex) in water, as this can confuse the AI.  For example, if an amphibious unit briefly passes through a very small section of water on a land area, the AI might think it needs to build torpedo bombers to counter the threat.  Small areas of water near an AI start position also risk the AI trying to build a navy when it wouldn't be suitable.
 
 # Mexes
 - Don’t place mexes very close to the map edge (if I was to guess, within 10 of a map edge) – some AI have in the past had an issue where they don’t detect mexes on the edge of a map.
