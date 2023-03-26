@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-24T08:51:37.001Z
+date: 2023-03-26T15:39:49.013Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -229,7 +229,7 @@ A [computer cup tournament](https://forum.faforever.com/topic/1475/supreme-compu
 
 
 # Creating AI-friendly maps
-A document has been drafted containing [tips and suggestions for map makers on how to create AI friendly maps](https://docs.google.com/document/d/1sMvvSW90pPDXV35nYPbGhjdHFMYRYZws/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+A separate [page outlines various tips for making maps more AI friendly](https://wiki.faforever.com/en/map-development/ai-friendly-maps).
 
 # Creating your own AI
 
