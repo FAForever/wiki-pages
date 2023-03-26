@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2023-01-12T03:44:28.573Z
+date: 2023-03-26T15:43:26.034Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -385,6 +385,10 @@ Navigate to the **MARKERS** menu and add a blank marker. Deselect the **Blank Ma
 There are 2 types of resource markers: **Mass** and **Hydrocarbon**. They define points, where there will be place for mass extractor and hydrocarbon on the map. Resources can be connected with army by **Adaptive** settings.
 
 ### AI
+
+A separate [page provides various tips on how to make a map more 'AI friendly'](https://wiki.faforever.com/en/map-development/ai-friendly-maps)
+
+Further details specifically on AI markers are provided below.  Only some AI will make use of AI markers (as discussed in the [Custom AI page](https://wiki.faforever.com/en/Custom-AIs) in more detail).
 
 With 17 different types of markers, AI markers give information to AIs for them to function properly during the game.
 
