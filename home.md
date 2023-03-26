@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-03-24T18:35:28.733Z
+date: 2023-03-26T15:38:24.523Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -49,7 +49,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 - [Adaptive Maps *How to create adaptive maps*](https://wiki.faforever.com/en/Adaptive-Maps)
 - [Adaptive Maps 2021 *An alternate newer guide*](https://wiki.faforever.com/en/map-development/Adaptive-Mapping-2021)
 - [Mission Scripting *How to create custom missions*](https://wiki.faforever.com/en/Mission-Scripting)
-- [Creating AI friendly maps](https://wiki.faforever.con/en/map-development/new-page)
+- [Creating AI friendly maps *Map that help the AI*](https://wiki.faforever.com/en/map-development/ai-friendly-maps)
 {.links-list}
 
 
