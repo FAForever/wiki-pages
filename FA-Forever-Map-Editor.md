@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2023-03-26T15:43:35.890Z
+date: 2023-03-26T15:43:55.006Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -390,6 +390,7 @@ A separate [page provides various tips on how to make a map more 'AI friendly'](
 
 Further details specifically on AI markers are provided below.  Only some AI will make use of AI markers (as discussed in the [Custom AI page](https://wiki.faforever.com/en/Custom-AIs) in more detail).
 
+#### AI Markers
 With 17 different types of markers, AI markers give information to AIs for them to function properly during the game.
 
 -   Combat Zone - Points a potential conflict zone between armies. AIs will scout frequently and send units to fight if needed, treating it as low priority waypoint.
