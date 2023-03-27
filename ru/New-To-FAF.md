@@ -2,26 +2,26 @@
 title: New To FAF
 description: 
 published: true
-date: 2023-02-16T14:01:15.805Z
+date: 2023-03-27T15:36:05.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:07.327Z
 ---
 
-# What is FAF?
-FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is to support the open and continued development of the game Supreme Commander: Forged Alliance (SCFA). When people say FAF, they may mean the FAF client, the FAF maintained version of the game itself, the [FAF Association](https://forum.faforever.com/topic/2347/what-is-the-association), or the community of FAF players.
+# Что такое FAF?
+FAF (Forged Alliance Forever) - это некоммерческая организация, которая в целом стремится поддерживать открытое и продолжающееся развитие игры Supreme Commander: Forged Alliance (SCFA). Когда люди говорят FAF, они могут иметь в виду клиент FAF, поддерживаемую FAF версию самой игры, the [Ассоциацию FAF](https://forum.faforever.com/topic/2347/what-is-the-association), или сообщество игроков FAF.
 
 ![cool_screenshot_1.jpg](/images/cool_screenshot_1.jpg)
 
-# Useful Links
+# Полезные ссылки
 
-* [How To Install FAF on Windows](https://wiki.faforever.com/en/Windows-Install) or [Linux](https://wiki.faforever.com/en/Linux-Install)
+* [Установка на Windows](https://wiki.faforever.com/ru/Windows-Install) или [Linux](https://wiki.faforever.com/en/Linux-Install)
 
-* [Download FAF Client](https://github.com/FAForever/downlords-faf-client/releases/download/v2023.1.2/faf_windows-x64_2023_1_2.exe)
+* [Скачать FAF Client](https://github.com/FAForever/downlords-faf-client/releases/download/v2023.1.2/faf_windows-x64_2023_1_2.exe)
 
 * [FAF Discord](https://discord.gg/hgvj6Af)
 
-* [FAF Forums](https://forum.faforever.com)
+* [FAF Форумы](https://forum.faforever.com)
 
 * [FAF Wiki Home Page](https://wiki.faforever.com/en/home)
 
@@ -29,11 +29,11 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 
 * [Learn How To Play FAF & Get Better](https://wiki.faforever.com/en/Learning-SupCom)
 
-* If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
+* Если вы хотите научиться создавать карты, получите роль "mapping" [#role-selection](https://discord.gg/WZGB4H987B) в официальном Discord-сервере FAF, а затем посетите канал [#mapping-resources](https://discord.gg/wNTAjpShQe).
 
-* If you want to learn how to make mods, get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
+* Если вы хотите научиться создавать моды, получите роль моддинга [#role-selection](https://discord.gg/WZGB4H987B) в официальном Discord-сервере FAF,  а затем проверьте каналe [#modification-resources](https://discord.gg/WZGB4H987B).
 
-# Common Questions
+# Общие вопросы
 
 ## What is Steam link/GOG link, why is it required, and how do I do it?
 
