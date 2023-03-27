@@ -2,7 +2,7 @@
 title: New To FAF
 description: 
 published: true
-date: 2023-03-27T15:40:09.627Z
+date: 2023-03-27T15:46:11.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:07.327Z
@@ -35,15 +35,15 @@ FAF (Forged Alliance Forever) - это некоммерческая органи
 
 # Общие вопросы
 
-## What is Steam link/GOG link, why is it required, and how do I do it?
+## Что такое Steam link/GOG link, зачем это нужно и как это сделать?
 
 Steam link / GOG link можно рассматривать как инструмент однократной проверки, который позволяет убедиться, что у вас есть законная копия игры Supreme Commander: Forged Alliance. Проверка с использованием Steam link или GOG link необходима, чтобы продемонстрировать то что вы владеете копией игры ([по юридическим причинам](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), а также для уменьшения смурфинга). Однако, если у вас есть розничная версия игры, но ее нет в Steam или GOG, вы должны иметь возможность  [использовать свой CD-ключ, чтобы получить лицензию на Steam бесплатно.](https://help.steampowered.com/ru/faqs/view/0e71-0971-324a-1161).  Альтернативно, если у вас нет игры или вам нужна новая копия, вы можете приобрести ее в [Steam](https://store.steampowered.com/app/9420) или [GOG](https://www.gog.com/en/game/supreme_commander_gold_edition) чтобы играть в FAF.  Если у вас есть версия игры на GOG, вы можете  [перейти по этой ссылке и следовать инструкциям](https://www.faforever.com/account/linkGog).  Если у вас есть игра (Supreme Commander: Forged Alliance) в вашей библиотеке Steam, вы можете [привязать свой аккаунт Steam](https://www.faforever.com/account/link) (ваш профиль Steam и список игр временно должны быть открыты для [публичного доступа](https://help.steampowered.com/ru/faqs/view/588C-C67D-0251-C276) чтобы это работало, но вы можете скрыть их снова после этого). Если у вас есть опасения относительно этого процесса, вы можете прочитать [техническое объяснение того, почему это безопасно](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), и вы также можете отметить, что у FAF есть активное сообщество, которое может ответить на ваши вопросы, FAF существует уже более десяти лет, у FAF сотни тысяч пользователей, и FAF Association является некоммерческой организацией.  Если вам нужна дополнительная помощь в настройке Steam link, [нажмите здесь](https://forum.faforever.com/topic/3800/what-is-steam-link-why-is-it-required-and-how-do-i-do-it).
 
 ## Как я могу улучшить свои навыки в игре и/или увеличить свой рейтинг?
-You can check out [these helpful resources](https://wiki.faforever.com/en/Learning-SupCom), learn from people in the [#gameplay-and-training channel on the FAF Discord](https://discord.gg/VzZgSZFwuX), and or contact [a trainer](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
+Вы можете воспользоваться [этими полезными ресурсами](https://wiki.faforever.com/en/Learning-SupCom), учиться у людей в [#gameplay-and-training channel на Discord-сервере FAF](https://discord.gg/VzZgSZFwuX), и или связаться [с тренером](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
 
-## How can I talk with people on FAF?
-You can join the [FAF Discord](https://discord.gg/hgvj6Af) and talk with people there (you can also message people via the [FAF forums](https://forum.faforever.com) and via the FAF client). A lot of people check the FAF Discord frequently. So, if you join one of the general voice channels on there, you'll likely get some company in not too long. You can also ask people in-game or in-lobby with you if they want to talk on Discord. People often say yes.
+## Как я могу общаться с людьми в FAF?
+Вы можете присоединиться к [Discord-серверу FAF](https://discord.gg/hgvj6Af) и общаться с людьми там (you can also message people via the [FAF forums](https://forum.faforever.com) and via the FAF client). A lot of people check the FAF Discord frequently. So, if you join one of the general voice channels on there, you'll likely get some company in not too long. You can also ask people in-game or in-lobby with you if they want to talk on Discord. People often say yes.
 
 ## How can I get help?
 You can check out the [help section](https://forum.faforever.com/category/4/i-need-help) of the forums, or ask for help on the [FAF Discord](https://discord.gg/hgvj6Af) in either the [#technical-help channel](https://discord.gg/rvfaGTpNbK) (for technical problems) or in the [#gameplay-and-training channel](https://discord.gg/VzZgSZFwuX) (for gameplay questions, finding trainers, and improving at FAF).
