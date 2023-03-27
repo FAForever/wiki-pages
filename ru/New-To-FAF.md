@@ -2,7 +2,7 @@
 title: New To FAF
 description: 
 published: true
-date: 2023-03-27T15:36:05.966Z
+date: 2023-03-27T15:37:00.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:07.327Z
