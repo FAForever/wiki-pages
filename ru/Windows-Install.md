@@ -2,7 +2,7 @@
 title: Установка на Windows
 description: 
 published: true
-date: 2023-02-16T14:02:52.118Z
+date: 2023-03-27T15:18:08.151Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
@@ -32,29 +32,29 @@ dateCreated: 2023-01-21T19:12:56.839Z
 
  - Это исправляет игру отдельно от вашей текущей версии. Это означает, что вы можете продолжать использовать свою оригинальную игру и FAF одновременно — они не изменяют друг друга.
 - FAF может попросить вас указать папку the Forged Alliance , поэтому просто направьте ее в папку *Supreme Commander: Forged Alliance* на вашем жестком диске. Если вы купили Supreme Commander: Forged Alliance в Steam, игра будет находиться в вашей папке Steam Library. Чтобы найти эту папку, запустите Steam, войдите в настройки Steam, нажмите скачанные, и нажмите на the STEAM LIBRARY FOLDERS. The Steam Library папка имеет внутри папки steamapps\\common, здесь вы должны найти Supreme Commander Forged Alliance folder.
-- Your setup is now completed, but you may wish to add more to your experience by downloading [Map & Mod Vault](/Map-&-Mod-Vault), but normally, any game you join, the mods and maps will be downloaded automatically, so you don't need to do anything else.
+- Ваша настройка теперь завершена, но вы можете хотеть увеличить свой опыт, загрузив  [Карты & Моды](/Map-&-Mod-Vault), однако, обычно любые игры, к которые вы присоединитесь, моды и карты будут загружаться автоматически, поэтому вам не нужно ничего делать ничего еще.
 
-- Some popular mods, like [GAZ_UI](/Mods/GAZ_UI) and Hotbuild, are already [integrated](/Game-Modifications-(Mods)#Integrated-Mods) and require no installation - simply enable their features in-game.
+- Некоторые популярные моды, такие как [GAZ_UI](/Mods/GAZ_UI) и Hotbuild, уже [интегрированы](/Game-Modifications-(Mods)#Integrated-Mods) и не требуют установки - просто включите их функции в игре. Все остальные моды можно найти в хранилище модов и использовать по желанию.
 
 - All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault), and can be used according to preference.
 
-## What is Steam link/GOG link, why is it required, and how do I do it?
+## Что такое Steam link/GOG link, зачем это нужно и как это сделать?
 
-Steam link/GOG link can be thought of as a one-time verification tool that allows us to make sure you own a legal copy of the game Supreme Commander: Forged Alliance.  Verification using either Steam link or GOG link is required to demonstrate proof of ownership ([for legal reasons](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), as well as to reduce smurfing).  However, if you own a retail version of the game, but don't have it on Steam or GOG, you should be able to [use your CD key to redeem a licence on Steam for free](https://help.steampowered.com/en/faqs/view/0e71-0971-324a-1161).  Alternatively, if you don't own the game or need a new copy, you can [purchase it via Steam](https://store.steampowered.com/app/9420) or [GOG](https://www.gog.com/en/game/supreme_commander_gold_edition) to play on FAF.  If you own the GOG version of the game, you can [follow these linked instructions](https://www.faforever.com/account/linkGog).  Alternatively, once you have the game (Supreme Commander: Forged Alliance) in your Steam library, you can [link your account to Steam](https://www.faforever.com/account/link) (your Steam profile and games list will temporarily need to be [set to public](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276) for this to work, but you can hide them again afterwards).  If you have concerns about this process, you can read [the technical explanation of why it's safe](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), and you can also note that FAF has an active community that can answer questions, FAF has existed for over a decade, FAF has had hundreds of thousands of users, and the FAF Association is a non-profit organization.
+Steam link / GOG link можно рассматривать как инструмент однократной проверки, который позволяет убедиться, что у вас есть законная копия игры Supreme Commander: Forged Alliance. Проверка с использованием Steam link или GOG link необходима, чтобы продемонстрировать то что вы владеете копией игры ([по юридическим причинам](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), а также для уменьшения смурфинга). Однако, если у вас есть розничная версия игры, но ее нет в Steam или GOG, вы должны иметь возможность  [использовать свой CD-ключ, чтобы получить лицензию на Steam бесплатно.](https://help.steampowered.com/ru/faqs/view/0e71-0971-324a-1161).  Альтернативно, если у вас нет игры или вам нужна новая копия, вы можете приобрести ее в [Steam](https://store.steampowered.com/app/9420) или [GOG](https://www.gog.com/en/game/supreme_commander_gold_edition) чтобы играть в FAF.  Если у вас есть версия игры на GOG, вы можете  [перейти по этой ссылке и следовать инструкциям](https://www.faforever.com/account/linkGog).  Если у вас есть игра (Supreme Commander: Forged Alliance) в вашей библиотеке Steam, вы можете [привязать свой аккаунт Steam](https://www.faforever.com/account/link) (ваш профиль Steam и список игр временно должны быть открыты для [публичного доступа](https://help.steampowered.com/ru/faqs/view/588C-C67D-0251-C276) чтобы это работало, но вы можете скрыть их снова после этого). Если у вас есть опасения относительно этого процесса, вы можете прочитать [техническое объяснение того, почему это безопасно](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), и вы также можете отметить, что у FAF есть активное сообщество, которое может ответить на ваши вопросы, FAF существует уже более десяти лет, у FAF сотни тысяч пользователей, и FAF Association является некоммерческой организацией.
 
-Common solutions to problems setting up Steam link:
+Распространенные решения проблем при настройке Steam link:
 
-* Double check that you used the correct Steam account that owns the game (and that you didn't automatically log in to the wrong account)
+* Убедитесь, что вы использовали правильную учетную запись Steam, которой принадлежит игра ( и что вы не вошли автоматически в другую учетную запись).
 
-* Double check that you set both the Steam profile and its games list to public (make sure you check both)
+* Убедитесь, что вы установили профиль Steam и список его игр как открытые (убедитесь, что вы проверили оба).
 
-* Double check that the game Supreme Commander: Forged Alliance (it must include Forged Alliance in the game name) is in the correct Steam library and owned by the correct Steam account
+* Убедитесь, что игра Supreme Commander: Forged Alliance ( в ее имя обязательно должно указано "Forged Alliance") находится в правильной библиотеке Steam и принадлежит правильной учетной записи Steam.
 
-* Log out and then log back in with both your FAF account and your Steam account
+* Выйдите из учетных записей FAF и Steam, а затем войдите в них снова.
 
-*  If you already completed the Steam link process, make sure that you log in to the FAF account that you made the Steam link with (and not a different one that you made but didn't make the Steam link with)
+*  Если вы уже завершили процесс связывания с Steam, убедитесь, что вы вошли в учетную запись FAF, с которой связана учетная запись Steam (а не в другую учетную запись FAF, которая не связана со Steam).
 
-If you experience issues setting up Steam link, you can ask for help in the  [#technical-help channel in the FAF Discord](https://discord.gg/rvfaGTpNbK) and or in the [help section of the forums](https://forum.faforever.com/category/4/i-need-help).
+Если у вас возникли проблемы с настройкой связи со Steam, вы можете попросить помощи в канале [#technical-help channel в дискорде FAF](https://discord.gg/rvfaGTpNbK) и или in the [раздел помощи на форуме](https://forum.faforever.com/category/4/i-need-help).
 
 [Сделайте ваши настройки профиля и списка игр открытыми:
 ![faf.png](/faf.png)](https://help.steampowered.com/ru/faqs/view/588C-C67D-0251-C276)
