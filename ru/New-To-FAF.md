@@ -2,7 +2,7 @@
 title: New To FAF
 description: 
 published: true
-date: 2023-03-27T15:39:30.474Z
+date: 2023-03-27T15:40:09.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:07.327Z
@@ -39,7 +39,7 @@ FAF (Forged Alliance Forever) - это некоммерческая органи
 
 Steam link / GOG link можно рассматривать как инструмент однократной проверки, который позволяет убедиться, что у вас есть законная копия игры Supreme Commander: Forged Alliance. Проверка с использованием Steam link или GOG link необходима, чтобы продемонстрировать то что вы владеете копией игры ([по юридическим причинам](https://forum.faforever.com/topic/252/why-do-i-need-to-link-my-account-to-steam), а также для уменьшения смурфинга). Однако, если у вас есть розничная версия игры, но ее нет в Steam или GOG, вы должны иметь возможность  [использовать свой CD-ключ, чтобы получить лицензию на Steam бесплатно.](https://help.steampowered.com/ru/faqs/view/0e71-0971-324a-1161).  Альтернативно, если у вас нет игры или вам нужна новая копия, вы можете приобрести ее в [Steam](https://store.steampowered.com/app/9420) или [GOG](https://www.gog.com/en/game/supreme_commander_gold_edition) чтобы играть в FAF.  Если у вас есть версия игры на GOG, вы можете  [перейти по этой ссылке и следовать инструкциям](https://www.faforever.com/account/linkGog).  Если у вас есть игра (Supreme Commander: Forged Alliance) в вашей библиотеке Steam, вы можете [привязать свой аккаунт Steam](https://www.faforever.com/account/link) (ваш профиль Steam и список игр временно должны быть открыты для [публичного доступа](https://help.steampowered.com/ru/faqs/view/588C-C67D-0251-C276) чтобы это работало, но вы можете скрыть их снова после этого). Если у вас есть опасения относительно этого процесса, вы можете прочитать [техническое объяснение того, почему это безопасно](https://forum.faforever.com/topic/279/the-steam-login-is-suspicious-are-you-stealing-my-account), и вы также можете отметить, что у FAF есть активное сообщество, которое может ответить на ваши вопросы, FAF существует уже более десяти лет, у FAF сотни тысяч пользователей, и FAF Association является некоммерческой организацией.  Если вам нужна дополнительная помощь в настройке Steam link, [нажмите здесь](https://forum.faforever.com/topic/3800/what-is-steam-link-why-is-it-required-and-how-do-i-do-it).
 
-## How can I get better at the game and or improve my rating?
+## Как я могу улучшить свои навыки в игре и/или увеличить свой рейтинг?
 You can check out [these helpful resources](https://wiki.faforever.com/en/Learning-SupCom), learn from people in the [#gameplay-and-training channel on the FAF Discord](https://discord.gg/VzZgSZFwuX), and or contact [a trainer](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
 
 ## How can I talk with people on FAF?
