@@ -2,7 +2,7 @@
 title: Установка на Windows
 description: 
 published: true
-date: 2023-03-27T15:18:08.151Z
+date: 2023-03-28T09:23:46.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T19:12:56.839Z
@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T19:12:56.839Z
 - FAF может попросить вас указать папку the Forged Alliance , поэтому просто направьте ее в папку *Supreme Commander: Forged Alliance* на вашем жестком диске. Если вы купили Supreme Commander: Forged Alliance в Steam, игра будет находиться в вашей папке Steam Library. Чтобы найти эту папку, запустите Steam, войдите в настройки Steam, нажмите скачанные, и нажмите на the STEAM LIBRARY FOLDERS. The Steam Library папка имеет внутри папки steamapps\\common, здесь вы должны найти Supreme Commander Forged Alliance folder.
 - Ваша настройка теперь завершена, но вы можете хотеть увеличить свой опыт, загрузив  [Карты & Моды](/Map-&-Mod-Vault), однако, обычно любые игры, к которые вы присоединитесь, моды и карты будут загружаться автоматически, поэтому вам не нужно ничего делать ничего еще.
 
-- Некоторые популярные моды, такие как [GAZ_UI](/Mods/GAZ_UI) и Hotbuild, уже [интегрированы](/Game-Modifications-(Mods)#Integrated-Mods) и не требуют установки - просто включите их функции в игре. Все остальные моды можно найти в хранилище модов и использовать по желанию.
+- Некоторые популярные моды, такие как [GAZ_UI](https://wiki.faforever.com/en/Mods/GAZ_UI) и Hotbuild, уже [интегрированы](/Game-Modifications-(Mods)#Integrated-Mods) и не требуют установки - просто включите их функции в игре. Все остальные моды можно найти в хранилище модов и использовать по желанию.
 
 - All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault), and can be used according to preference.
 
