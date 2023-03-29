@@ -2,7 +2,7 @@
 title: Blueprints
 description: A blueprint is a file within Supreme Commander that describes a unit
 published: true
-date: 2022-06-14T23:33:01.673Z
+date: 2023-03-29T19:34:57.186Z
 tags: modding
 editor: markdown
 dateCreated: 2022-06-02T16:40:29.156Z
@@ -207,6 +207,7 @@ NAVAL -
 NEEDMOBILEBUILD -
 NUKE -
 OMNI -
+OVERLAYANTIAIR -
 OVERLAYOMNI -
 OVERLAYRADAR -
 PATROLHELPER -
