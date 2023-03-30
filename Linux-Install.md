@@ -2,7 +2,7 @@
 title: Linux Installation
 description: 
 published: true
-date: 2023-03-13T21:27:01.871Z
+date: 2023-03-30T05:45:53.101Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:33.098Z
@@ -10,13 +10,19 @@ dateCreated: 2022-06-12T23:43:33.098Z
 
 # Linux Installation
 
-## Script Install
+## Automated install
 
-A [script](https://github.com/iczero/faf-linux) can be used to automate the installation. Please follow the instructions [here](https://github.com/FAForever/faf-linux/blob/master/README.md#setup-instructions).
+[FAForever/faf-linux](https://github.com/FAForever/faf-linux) provides a set of scripts to automate installation of FAF on Linux. Please follow the instructions [here](https://github.com/FAForever/faf-linux/blob/master/README.md#setup-instructions).
 
-## Install the FAF client 
+It is recommended to use this over manual installation. The scripts set up a reproducible environment, allowing much easier troubleshooting.
+
+## Manual install
+
+**Warning**: The following guide is outdated. If you experience issues, please try installation with [faf-linux](https://github.com/FAForever/faf-linux). 
+
 This guide is created with Ubuntu users in mind. However with minor modifications the instructions can be used for others distros. If you run into any undocumented issues or have any questions please join us on the FAF discord in #linux-support.
 
+### Install the FAF client
 
 Download the latest stable version of the client from the [GitHub](https://github.com/FAForever/downlords-faf-client/releases).
 ```
@@ -65,13 +71,13 @@ Icon=~/.local/share/icons/faf.png
 Search for "FAF" in the applications menu, you should be able to run the client from there.
 
 ***
-## Install Supreme Commander: Forged Alliance from Steam
+### Install Supreme Commander: Forged Alliance from Steam
 
 
-### **Make sure steam is installed**
+#### **Make sure steam is installed**
  (```sudo apt install Steam``` to install if needed)
 
- ### **Install and configure Supreme Commander Forged Alliance on Steam**
+#### **Install and configure Supreme Commander Forged Alliance on Steam**
 
 1. Start by enabling SteamPlay in the Steam settings. Reboot Steam for the changes to take effect. The option is found at `Steam -> Settings -> Steam Play -> under Advanced -> "Enable Steam Play for all other titles"`
 
@@ -82,7 +88,7 @@ Search for "FAF" in the applications menu, you should be able to run the client 
 WINEDLLOVERRIDES="d3d9=n" PROTON_NO_ESYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
 ```
 
-### **Install video and audo libraries for Forged Alliance using protontricks:**
+#### **Install video and audo libraries for Forged Alliance using protontricks:**
 
 Install protontricks
 ```
@@ -94,23 +100,23 @@ Then install the libraries
 protontricks 9420 dlls d3dx9 xact
 ```
 
-### **Run Forged Alliance from Steam. The game will not open, this is expected.**
+#### **Run Forged Alliance from Steam. The game will not open, this is expected.**
 This Creates the run script used in the next step.
  <br>
 
 
-### **Copy the generated run file to your faf client install directory**
+#### **Copy the generated run file to your faf client install directory**
 ```
 cp /tmp/proton_$USER/run ~/faf/
 ```
-### **Open the FAF client settings and set the command line executable format to:**
+#### **Open the FAF client settings and set the command line executable format to:**
 ```
 /home/<your_username>/faf/run "%s"
 ```
 
 ![here](https://i.imgur.com/ZlApelO.png)
 
-### **Dowload and use DGVoodoo's D3D9.dll**
+#### **Dowload and use DGVoodoo's D3D9.dll**
 
 Download
 ```
@@ -144,8 +150,8 @@ If you would like to be able to run the game from Steam directly you must also c
 
 ***
 
-## Potential Solutions to Issues
-### Stuttering when launching game, viewing scoreboard, or watching coop dialog
+### Potential Solutions to Issues
+#### Stuttering when launching game, viewing scoreboard, or watching coop dialog
 - Add `/nomovie` launch option to you command line executable. If you have Fsync in your launch options you do not need this. It should look like:
 ```
 /home/<your_username>/faf/run "%s" /nomovie
@@ -155,7 +161,7 @@ If you would like to be able to run the game from Steam directly you must also c
 WINEDLLOVERRIDES="d3d9=n" PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 PROTON_DUMP_DEBUG_COMMANDS=1 %command%
 ```
 
-### Black Screen when attempting to launch a game from FAF
+#### Black Screen when attempting to launch a game from FAF
 
 - If you are Arch you need to install the `bubblewrap-suid` package **and** run ProtonGE through AUR package `proton-ge-custom-bin` or with the instructions below.
 - Try using ProtonGE. Instructions can be found [here](https://github.com/GloriousEggroll/proton-ge-custom#installation). Once it is installed, rerun FA from Steam, then recopy your run script.
