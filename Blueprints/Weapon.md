@@ -2,22 +2,14 @@
 title: Blueprint/Weapon
 description: 
 published: true
-date: 2023-03-30T02:08:30.697Z
-tags: modding
+date: 2023-03-30T02:09:00.664Z
+tags: 
 editor: markdown
 dateCreated: 2022-06-02T17:45:53.023Z
 ---
 
 ## Basics
 The weapons has to be defined in the UnitID_unit.bp under the category “Weapon” and in the UnitID_script.lua. Each weapon needs a projectile. Most of the weapons code is in script and can be found in the defaultweapons.lua (in lua.scd in the subdirectory \lua\modules\) under the category DefaultProjectileWeapon.
-
-## Damage Calculation from Blueprints
-
-Calculating the dps of a weapon from its blueprint can be complicated.
-
-Firstly, a weapon fires shots. Shots make up a muzzle salvo
-
-
 
 ## Multiple Weapons
 Each unit can have more then one weapon. The structure for multible weapons in the blueprint is:
