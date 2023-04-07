@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-07T13:03:00.647Z
+date: 2023-04-07T13:14:35.581Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -34,7 +34,7 @@ As a rough sketch, the total performance of a modern processor depends on three 
 - (2) The frequency of individual compute cores
 - (3) The amount of cache on the CPU die
 
-Supreme Commander performs best on a processor with at least four compute cores. This allows the operation system to assign each thread to a separate compute core. It also leaves some resources for the operation system and other applications. Any further growth of the total performance of the processor through (1) does not apply to Supreme Commander.
+Supreme Commander performs best on a processor with at least four compute cores. This allows the operation system to assign each thread to a separate compute core. It also leaves some resources for the operation system and other applications. Any further growth of the total performance of the processor through (1) does not apply to Supreme Commander. As an example: a processor with sixteen compute cores will likely perform similar to a processor with four compute cores.
 
 ## Specifications
 
@@ -62,8 +62,21 @@ In this section we discuss the original specifications and our adjusted specific
 
 ## Adjusted minimal specifications
 
+|Hardware| Minimal specifications|
+|-|-|
+|Processor|3.0 GHz processor|
+|Memory|4GB RAM|
+|Hard Disk Space|16GB available hard drive space|
+|Video Card| integrated graphics or any modern gpu |
+
 ## Adjusted recommended specifications
 
+|Hardware| Minimal specifications|
+|-|-|
+|Processor|4.0 GHz processor with 96mb or more cache on die|
+|Memory|4GB RAM|
+|Hard Disk Space|16GB available hard drive space|
+|Video Card| integrated graphics or any modern gpu |
 
 
 | Hardware | Price | description
