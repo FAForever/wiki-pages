@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-07T08:21:30.203Z
+date: 2023-04-07T08:22:37.359Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -57,5 +57,5 @@ In this section we discuss the original specifications and our adjusted specific
 | Power supply: [be quiet! 400W](https://tweakers.net/pricewatch/1150511/be-quiet-system-power-9-400w.html) | €50,- | Anything works here, as long as it can supply enough power for your system. You can likely re-use your current power supply if you have an existing desktop|
 | Case: [Cooler Master Masterbox](https://tweakers.net/pricewatch/1150039/cooler-master-masterbox-q300l.html) | €50,- | Anything works here, likely even your existing case if you have one|
 
-## Recommended specifications
+## Frequently asked Questions (FAQ)
 
