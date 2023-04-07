@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-07T13:14:35.581Z
+date: 2023-04-07T13:19:41.984Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -64,8 +64,8 @@ In this section we discuss the original specifications and our adjusted specific
 
 |Hardware| Minimal specifications|
 |-|-|
-|Processor|3.0 GHz processor|
-|Memory|4GB RAM|
+|Processor| AMD Ryzen 5 5600G or equivalent |
+|Memory|4GB RAM Dual channel|
 |Hard Disk Space|16GB available hard drive space|
 |Video Card| integrated graphics or any modern gpu |
 
@@ -73,8 +73,8 @@ In this section we discuss the original specifications and our adjusted specific
 
 |Hardware| Minimal specifications|
 |-|-|
-|Processor|4.0 GHz processor with 96mb or more cache on die|
-|Memory|4GB RAM|
+|Processor|AMD Ryzen 7 5800X3D or equivalent|
+|Memory|4GB RAM Dual channel|
 |Hard Disk Space|16GB available hard drive space|
 |Video Card| integrated graphics or any modern gpu |
 
