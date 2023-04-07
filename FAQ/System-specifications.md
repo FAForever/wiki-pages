@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-07T08:19:43.371Z
+date: 2023-04-07T08:21:30.203Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -40,9 +40,7 @@ Supreme Commander performs best on a processor with at least four compute cores.
 
 In this section we discuss the original specifications and our adjusted specifications. 
 
-## Original minimal specifications
-
-## Original recommended specifications
+## Original specifications
 
 ## Adjusted minimal specifications
 
