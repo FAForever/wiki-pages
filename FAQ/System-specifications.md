@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-07T13:19:41.984Z
+date: 2023-04-07T13:24:08.705Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -46,47 +46,38 @@ In this section we discuss the original specifications and our adjusted specific
 
 |Hardware| Minimal specifications|
 |-|-|
-|Processor|  1.8 GHz processor|
-|Memory|  512 MB RAM|
-|Hard Disk Space|  8GB available hard drive space|
-|Video Card|  128 MB video RAM or greater, with DirectX 9 Vertex Shader / Pixel Shader 2.0 support (ATI 9600+, Nvidia 6200+)|
+|Processor|1.8 GHz processor|
+|Memory|512 MB RAM|
+|Hard Disk Space|8GB available hard drive space|
+|Video Card|128 MB video RAM or greater, with DirectX 9 Vertex Shader / Pixel Shader 2.0 support (ATI 9600+, Nvidia 6200+)|
 
 
 
 |Hardware| Recommended specifications|
 |-|-|
-|Processor| 3.0 GHz Intel or equivalent AMD processor or better|
-|Memory|  1 GB RAM or better|
-|Hard Disk Space|  8GB available hard drive space|
-|Video Card|  256 MB video RAM, with DirectX 9 Vertex Shader / Pixel Shader 2.0 support (Nvidia 6800 or better)|
+|Processor|3.0 GHz Intel or equivalent AMD processor or better|
+|Memory|1 GB RAM or better|
+|Hard Disk Space|8GB available hard drive space|
+|Video Card|256 MB video RAM, with DirectX 9 Vertex Shader / Pixel Shader 2.0 support (Nvidia 6800 or better)|
 
-## Adjusted minimal specifications
+## Adjusted specifications
 
-|Hardware| Minimal specifications|
+|Hardware| Adjusted minimal specifications|
 |-|-|
 |Processor| AMD Ryzen 5 5600G or equivalent |
-|Memory|4GB RAM Dual channel|
-|Hard Disk Space|16GB available hard drive space|
+|Memory|8GB RAM Dual channel memory|
+|Hard Disk Space|16GB available solid state space|
 |Video Card| integrated graphics or any modern gpu |
 
-## Adjusted recommended specifications
 
-|Hardware| Minimal specifications|
+
+|Hardware| Adjusted recommended specifications|
 |-|-|
 |Processor|AMD Ryzen 7 5800X3D or equivalent|
-|Memory|4GB RAM Dual channel|
-|Hard Disk Space|16GB available hard drive space|
-|Video Card| integrated graphics or any modern gpu |
+|Memory|16GB RAM Dual channel memory|
+|Hard Disk Space|32GB available solid state space|
+|Video Card|any modern gpu|
 
-
-| Hardware | Price | description
-|----|----|----|
-|CPU / GPU: [Ryzen 5600G](https://tweakers.net/pricewatch/1723248/amd-ryzen-5-5600g-boxed.html)| €130,-| Cheap but fast processor with integrated graphics. The 4600G or 3600G are sufficient too, if you manage to buy them 2nd hand |
-|RAM: [2x 8GB](https://tweakers.net/pricewatch/459273/corsair-vengeance-lpx-cmk16gx4m2b3200c16.html) | €50,- | Anything works here, including 2x 4gb. These do not appear to be sold commonly anymore, therefore 2x 8gb |
-|Storage: [Crucial MX500](https://tweakers.net/pricewatch/1126239/crucial-mx500-2-komma-5-inch-500gb.html) | €50,- | Anything works here, as long as it is an SSD and not a physical drive or an M2 disk. The former is made for storage, not for games. The latter can cause stutters on various systems (including mine)| 
-|Motherboard: [ASUS Prime A320M-K](https://tweakers.net/pricewatch/765703/asus-prime-a320m-k.html)| €62,- | Has a limited number of slots but that is sufficient for this build|
-| Power supply: [be quiet! 400W](https://tweakers.net/pricewatch/1150511/be-quiet-system-power-9-400w.html) | €50,- | Anything works here, as long as it can supply enough power for your system. You can likely re-use your current power supply if you have an existing desktop|
-| Case: [Cooler Master Masterbox](https://tweakers.net/pricewatch/1150039/cooler-master-masterbox-q300l.html) | €50,- | Anything works here, likely even your existing case if you have one|
 
 ## Frequently asked Questions (FAQ)
 
