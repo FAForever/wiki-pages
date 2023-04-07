@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-07T08:22:37.359Z
+date: 2023-04-07T13:03:00.647Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -41,6 +41,24 @@ Supreme Commander performs best on a processor with at least four compute cores.
 In this section we discuss the original specifications and our adjusted specifications. 
 
 ## Original specifications
+
+
+
+|Hardware| Minimal specifications|
+|-|-|
+|Processor|  1.8 GHz processor|
+|Memory|  512 MB RAM|
+|Hard Disk Space|  8GB available hard drive space|
+|Video Card|  128 MB video RAM or greater, with DirectX 9 Vertex Shader / Pixel Shader 2.0 support (ATI 9600+, Nvidia 6200+)|
+
+
+
+|Hardware| Recommended specifications|
+|-|-|
+|Processor| 3.0 GHz Intel or equivalent AMD processor or better|
+|Memory|  1 GB RAM or better|
+|Hard Disk Space|  8GB available hard drive space|
+|Video Card|  256 MB video RAM, with DirectX 9 Vertex Shader / Pixel Shader 2.0 support (Nvidia 6800 or better)|
 
 ## Adjusted minimal specifications
 
