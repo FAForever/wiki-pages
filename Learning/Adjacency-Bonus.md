@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2021-12-30T07:30:51.391Z
+date: 2023-04-11T13:20:36.660Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -11,7 +11,8 @@ dateCreated: 2021-08-31T09:41:57.317Z
 The Adjacency Bonus is a [game mechanic](/Learning#tutorial-videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures, and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
 
 ## General
-<img src="/images/learning/adjacency/adjacency_diagram.png" width="450" align="right"/> 
+![adjacency_diagram.png](/images/learning/adjacency/adjacency_diagram.png =425x){.align-right}
+
 To have an adjacency bonus, there must be two structures placed next to each other; one giving the bonus and one receiving it.
 
 - Any structure which produces a resource is a bonus giver.
@@ -27,9 +28,18 @@ Examples:
 ## Consumption Bonus
 A structure which produces a resource gives a discount to all structures next to it which consume that resource. It should be noted that only structures receive this bonus, **not any engineers or engineering stations assisting them**.
 
-### <img src="/images/learning/adjacency/mass_icon.png" width="30"/> Mass
+
+### ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) Mass
 
 The values in this table are given for **one** mass producing structure next to a 4x4 building; more mass producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in game, and should not be used for calculations.
+
+| Mass Producing Structures 	| Discount for one structure 	| Production Bonus for all storages 	| Comments 	|
+|---	|---	|---	|---	|
+| ![uef_t1_mass_extractor.png](/images/learning/adjacency/uef_t1_mass_extractor.png =40x) T1 Mass Extractor 	| 7.5% 	| 0.3-1 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T1 Land Factories, if you're not going to eco much. 	|
+| ![uef_t2_mass_extractor.png](/images/learning/adjacency/uef_t2_mass_extractor.png =40x) T2 Mass Extractor 	| 10% 	| 1-2 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T2 Land Factories. 	|
+| ![uef_t3_mass_extractor.png](/images/learning/adjacency/uef_t3_mass_extractor.png =40x) T3 Mass Extractor 	| 12.5% 	| 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%. 	|
+| ![uef_t2_mass_fabricator.png](/images/learning/adjacency/uef_t2_mass_fabricator.png =40x) T2 Mass Fabricator 	| 1.25% 	| 0.1-0.3 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply. 	|
+| ![uef_t3_mass_fabricator.png](/images/learning/adjacency/uef_t3_mass_fabricator.png =40x) T3 Mass Fabricator 	| 20% 	| 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 factories and high mass consuming structures (20/s or more).<br>Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%. 	|
 
 <table style="undefined;table-layout: fixed; width: 808px">
 <colgroup>
@@ -41,7 +51,7 @@ The values in this table are given for **one** mass producing structure next to 
 <thead>
   <tr>
     <th>Mass Producing Structures<br></th>
-    <th>Production Bonus for one storage</th>
+    <th>Discount for one structure</th>
     <th>Production Bonus for all storages</th>
     <th>Comments</th>
   </tr>
