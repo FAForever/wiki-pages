@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2023-04-11T13:20:36.660Z
+date: 2023-04-11T13:30:00.618Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -31,7 +31,7 @@ A structure which produces a resource gives a discount to all structures next to
 
 ### ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) Mass
 
-The values in this table are given for **one** mass producing structure next to a 4x4 building; more mass producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in game, and should not be used for calculations.
+The values in this table are given for **one** mass producing structure next to a 4x4 building; more mass producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in game, and should not be used for calculations. Buildings which give mass discount bonuses
 
 | Mass Producing Structures 	| Discount for one structure 	| Production Bonus for all storages 	| Comments 	|
 |---	|---	|---	|---	|
@@ -41,109 +41,18 @@ The values in this table are given for **one** mass producing structure next to 
 | ![uef_t2_mass_fabricator.png](/images/learning/adjacency/uef_t2_mass_fabricator.png =40x) T2 Mass Fabricator 	| 1.25% 	| 0.1-0.3 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply. 	|
 | ![uef_t3_mass_fabricator.png](/images/learning/adjacency/uef_t3_mass_fabricator.png =40x) T3 Mass Fabricator 	| 20% 	| 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 factories and high mass consuming structures (20/s or more).<br>Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%. 	|
 
-<table style="undefined;table-layout: fixed; width: 808px">
-<colgroup>
-<col style="width: 250px">
-<col style="width: 150px">
-<col style="width: 127px">
-<col style="width: 500px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Mass Producing Structures<br></th>
-    <th>Discount for one structure</th>
-    <th>Production Bonus for all storages</th>
-    <th>Comments</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t1_mass_extractor.png"  width="40" align="left"> T1 Mass Extractor</td>
-    <td align="center">7.5%</td>
-    <td align="center">0.3-1 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td align="center">Useful next to T1 Land Factories, if you're not going to eco much.<br></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t2_mass_extractor.png"  width="40" align="left"> T2 Mass Extractor</td>
-    <td align="center">10%<br></td>
-    <td align="center">1-2 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td align="center">Useful next to T2 Land Factories.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t3_mass_extractor.png"  width="40" align="left"> T3 Mass Extractor</td>
-    <td align="center">12.5%<br></td>
-    <td align="center">2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td align="center">Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t2_mass_fabricator.png"  width="40" align="left"> T2 Mass Fabricator</td>
-    <td align="center">1.25%</td>
-    <td align="center">0.1-0.3 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td align="center">Not Very Useful. Note: If Both T2 T3 Fabricators are turned off bonus doesn't apply.<br></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t3_mass_fabricator.png"  width="40" align="left"> T3 Mass Fabricator</td>
-    <td align="center">20%<br></td>
-    <td align="center">2-4 <img src="/images/learning/adjacency/mass_icon.png" align="center"></td>
-    <td align="center"> Useful next to T3 factories and high mass consuming structures (20/s or more). Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%.</td>
-  </tr>
-</tbody>
-</table>
-
-Buildings which give mass discount bonuses
-
+ 
 ### <img src="/images/learning/adjacency/energy_icon.png" width="30" /> Energy
 
 The percentage discount value depends on how much of the structure in question is surrounded by power generators - as structures can be of different sizes, different numbers of pgens fit around them. This means that a factory that is 50% surrounded with 8 T1 pgens will receive the same bonus as, a radar surrounded by 2 T1 pgens - 12.5% for both. In this table the discount percentages are shown for a **fully surrounded** structure.
 
-<table style="undefined;table-layout: fixed; width: 808px">
-<colgroup>
-<col style="width: 250px">
-<col style="width: 150px">
-<col style="width: 127px">
-<col style="width: 500px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Energy Producing Structures<br></th>
-    <th>Discount Percentage</th>
-    <th>Typical Discount value</th>
-    <th>Comments</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
-    <td align="center">25%</td>
-    <td align="center">0.3-1 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Useful next to radar, air factories, not great next to land factories, but should still be used.<br></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
-    <td align="center">12.5%<br></td>
-    <td align="center">1-2 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center"><b/>% value for ONE Hydro shown.</b> Useful next to T1/2 air Factories, generally useful.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
-    <td align="center">50%<br></td>
-    <td align="center">2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Useful next to T2 air Factories.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
-    <td align="center">75%</td>
-    <td align="center">0.1-0.3 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Very Useful next to T3 air Factories.<br></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/learning/adjacency/a_paragon.png"  width="40" align="left"> T4 Paragon</td>
-    <td align="center">0%<br></td>
-    <td align="center">2-4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Useless - better to shield it.</td>
-  </tr>
-</tbody>
-</table>
+| Energy Producing Structures 	| Discount Percentage 	| Typical Discount value 	| Comments 	|
+|---	|---	|---	|---	|
+| ![uef_t1_power_generator.png](/images/learning/adjacency/uef_t1_power_generator.png =40x) T1 Power Generator 	| 25% 	| 0.3-1 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to radar, air factories, not great next to land factories, but should still be used. 	|
+| ![uef_t1_hydrocarbon_power_plant.png](/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png =40x) T1 Hydrocarbon PowerPlant 	| 12.5% 	| 1-2 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| **% value for ONE Hydro shown**. Useful next to T1/2 air Factories, generally useful. 	|
+| ![uef_t2_power_generator.png](/images/learning/adjacency/uef_t2_power_generator.png =40x) T2 Power Generator 	| 50% 	| 2-4 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to T2 air Factories. 	|
+| ![uef_t3_power_generator.png](/images/learning/adjacency/uef_t3_power_generator.png =40x) T3 Power Generator 	| 75% 	| 0.1-0.3 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Very Useful next to T3 air Factories. 	|
+| ![a_paragon.png](/images/learning/adjacency/a_paragon.png =40x) T4 Paragon 	| 0% 	| 2-4 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useless - better to shield it. 	|
 
 Buildings which give Energy discount bonuses
 
