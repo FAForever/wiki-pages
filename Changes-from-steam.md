@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2023-04-15T09:47:02.641Z
+date: 2023-04-15T16:23:57.118Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -81,3 +81,4 @@ are listed below:
 - Mobile T3 AA units were added to each faction. This makes late game experimental pushes less susceptible to enemy air.
 - Static T3 anti-air is much cheaper.
 - Air staging stations can now be built by T1 engineers.
+- Czar has a shield and reasonable anti-air attack
