@@ -2,13 +2,12 @@
 title: Patchnotes
 description: Patchnotes for FAF's patches to FA
 published: true
-date: 2023-04-15T09:44:04.202Z
+date: 2023-04-15T09:44:30.088Z
 tags: patches, patchnotes
 editor: markdown
 dateCreated: 2023-04-15T09:44:04.202Z
 ---
 
-# Patchnotes
 - [All Patches *2014 to Present*](https://github.com/FAForever/fa/releases)
 - [Balance Patches *2015 to Present*](http://patchnotes.faforever.com/)
 - [2011 *Patch 3605 - 3609*](https://wiki.faforever.com/en/patches/Game-&-Balance-Patchnotes-2011)
