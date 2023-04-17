@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-04-17T12:58:10.096Z
+date: 2023-04-17T13:00:29.811Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -66,8 +66,8 @@ If you're new to FAF and need help, here are some good introductory resources:
 
 # Additional Information
 
-- [Patchnotes *Lists of changes made in FAF's patches to FA*](https://wiki.faforever.com/en/patchnotes)
 - [Glossary *FAF terms and abbreviations*](https://wiki.faforever.com/en/Glossary)
+- [Patchnotes *Lists of changes made in FAF's patches to FA*](https://wiki.faforever.com/en/patchnotes)
 - [Changes From Steam *FAF's changes compared to the Steam version of the game*](https://wiki.faforever.com/en/Changes-from-steam)
 - [Bug Reporting & Testing *How to properly report bugs and test them*](https://wiki.faforever.com/en/Bug-Reporting-and-Testing)
 - [Clans *Create or join a clan*](https://wiki.faforever.com/en/Clans)
