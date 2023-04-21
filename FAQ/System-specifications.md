@@ -2,7 +2,7 @@
 title: Minimal system specifications
 description: Contains various tips and tricks to help create or to find a computer build that runs FAF seamless
 published: true
-date: 2023-04-21T05:27:49.106Z
+date: 2023-04-21T05:42:47.237Z
 tags: cpu, system specifications, minimal, processor, ram, cache
 editor: markdown
 dateCreated: 2023-03-16T19:03:53.115Z
@@ -34,7 +34,11 @@ As a rough sketch, the total performance of a modern processor depends on three 
 - (2) The frequency of individual compute cores
 - (3) The amount of cache on the CPU die
 
-Supreme Commander performs best on a processor with at least four compute cores. This allows the operating system to assign each thread to a separate compute core. It also leaves some resources for the operation system and other applications. Any further growth of the total performance of the processor through (1) does not apply to Supreme Commander. As an example: a processor with sixteen compute cores will likely perform similar to a processor with four compute cores.
+Supreme Commander performs best on a processor with at least four compute cores. This allows the operating system to assign each thread to a separate compute core. It also leaves some resources for the operation system and other applications. Any further growth of the total performance of the processor through (1) does not apply to Supreme Commander. As an example: a processor with sixteen compute cores will likely perform similar to a processor with four compute cores with the assumption that you are only running Supreme Commander. 
+
+The frequency (ghz) of the compute cores has a significant impact on the simulation. This is most notable when a processor lowers the frequency to preserve power or to prevent overheating. Or when the operating system decides to no longer boost Supreme Commander to a higher frequency. The changes are simple: if you gain 20% frequency then you can run 20% more units. If you lose 20% frequency then you can run 20% fewer units. 
+
+The cache on the CPU die has a significant impact on the simulation too. A new problem emerged due to the high frequency of modern processors: feeding the beast with data! The cache was introduced to help with this. The larger the cache, the less the processor has to wait for data and therefore the faster the simulation. 
 
 ## Specifications
 
