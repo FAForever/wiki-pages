@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-03-24T06:52:30.155Z
+date: 2023-05-02T20:25:02.065Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -330,7 +330,7 @@ end
 
 If you start a game, and make changes to your code while the game is running, use Ctrl+F10 to restart a game quickly, reflecting any changes you’ve just made to the code.
 
-You can also use command line switches to change some settings: https://wiki.faforever.com/index.php?title=Command_Line_Switches
+You can also use command line switches to change some settings [here](https://wiki.faforever.com/en/Command-Line-Switches)
 
 With thanks to Uveso and Dragun101, you can enable offline logs using a command switch, which will create a text file of the log that you can access even after closing down the game.  I’d therefore recommend this, since if you run into a hard game crash this at least gives you something to go on to figure out whats causing it.
 
