@@ -2,7 +2,7 @@
 title: Command Line Switches
 description: Command line switches let you run Forged Alliance with extra options and settings.
 published: true
-date: 2021-12-30T02:23:15.689Z
+date: 2023-05-02T20:21:16.108Z
 tags: modding, development
 editor: markdown
 dateCreated: 2021-08-31T09:42:35.315Z
@@ -16,60 +16,14 @@ Supreme Commander will accept many command line switches. You can set them up in
 
 You can automaticly launch a skirmish right after launching the game. To do that, you need to specify a map. The other switches are optional.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Command Line Switch</p></th>
-<th><p>Description</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>/map <em>map_folder</em></p></td>
-<td><p>Set the map</p></td>
-</tr>
-<tr class="even">
-<td><p>/faction <em>faction</em></p></td>
-<td><p>Set your faction</p>
-<dl>
-<dt></dt>
-<dd>1 = UEF
-</dd>
-<dd>2 = Aeon
-</dd>
-<dd>3 = Cybran
-</dd>
-</dl></td>
-</tr>
-<tr class="odd">
-<td><p>/victory "<em>victory_condition</em>"</p></td>
-<td><p>Set victory conditions</p>
-<dl>
-<dt></dt>
-<dd>demoralization = Assassination
-</dd>
-<dd>domination = Supremacy
-</dd>
-<dd>eradication = Annihilation
-</dd>
-<dd>sandbox = Sandbox
-</dd>
-</dl></td>
-</tr>
-<tr class="even">
-<td><p>/nofog</p></td>
-<td><p>Set fog to None</p></td>
-</tr>
-<tr class="odd">
-<td><p>/blackfog</p></td>
-<td><p>Set fog to Unexplored</p></td>
-</tr>
-<tr class="even">
-<td><p>/predeployed</p></td>
-<td><p>Set pre-built units to On</p></td>
-</tr>
-</tbody>
-</table>
+| **Command Line Switch** 	| **Description** 	|
+|---	|---	|
+| /map map_folder 	| Set the map 	|
+| /faction faction 	| Set your faction<br>- 1 = UEF<br>- 2 = Aeon<br>- 3 = Cybran<br>- 4 = Seraphim    	|
+| /victory "victory_condition" 	| Set victory conditions<br>- demoralization = Assassination<br>- domination = Supremacy<br>- eradication = Annihilation<br>- sandbox = Sandbox  	|
+| /nofog 	| Set fog to None 	|
+| /blackfog 	| Set fog to Unexplored 	|
+| /predeployed 	| Set pre-built units to On 	|
 
 Example:
 `SupremeCommander.exe /map SCMP_019 /faction 3 /nofog /victory "domination"`
@@ -83,11 +37,11 @@ You can create your own switches :
 3.  add your switch detection code
 
 Example:
-
-`if HasCommandLineArg("/gamespeed") then`
-`options['GameSpeed'] = GetCommandLineArg("/gamespeed", 1)[1]`
-`end`
-
+```lua
+if HasCommandLineArg("/gamespeed") then
+	options['GameSpeed'] = GetCommandLineArg("/gamespeed", 1)[1]
+end
+```
 This will allow you to adjust game speed with the following switch :
 `/gamespeed "`*`gamespeed`*`"`
 
