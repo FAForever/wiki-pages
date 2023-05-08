@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T21:17:54.151Z
+date: 2023-05-08T21:24:08.545Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -17,8 +17,10 @@ The map editor is a powerful tool for creating custom maps in Supreme Commander:
 ## Error messages
 | Error Message | Solution |
 |-|-|
-| Text | See  |
+| Text | See [heightmaps](/en/map-development/faf-map-editor-troubleshooting#heightmaps) |
 | | |
+
+
 
 
 
