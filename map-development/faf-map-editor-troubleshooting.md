@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:55:35.191Z
+date: 2023-05-08T23:13:22.593Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -26,7 +26,7 @@ The map editor is a powerful tool for creating custom maps in Supreme Commander:
 | Description | Cause | Workaround or fix |
 |-|-|-|
 | Heightmap is not accepted by editor | Heightmaps should be encoded as 16 bit, 1-channel, non-interlaced .raw files. | Check filetype and reencode heightmap as necessary
-| | Heightmaps should be in the correct resolution (see figure). | Correct resolution |
+| | Heightmaps should be in the correct resolution (see figure). | Correct resolution (power of two +1)|
 <br />
 
 ### Custom textures
