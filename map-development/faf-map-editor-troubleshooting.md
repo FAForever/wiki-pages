@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:42:19.287Z
+date: 2023-05-08T22:47:34.801Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -68,24 +68,14 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 ## Assorted Odd editor behaviour
 | Description | Cause | Workaround or fix |
 |-|-|-|
-| 'Play Map' functionality isn't working | Function has never worked | FAF may be started using the executable rather than the FAF client. Keeping the game open and using the <kbd>restart game</kbd> after saving any changes in the editor allows for quick testing.|
+| ['Play Map' functionality isn't working](#PM) | Function has never worked | FAF may be started using the executable rather than the FAF client. Keeping the game open and using the <kbd>Restart game</kbd> button after saving any changes in the editor allows for quick testing. |
+| [Map does not look the same in game as it does in editor](#MD) | The editor uses a different shader than the game. | No fix available. |
+| [Decalls flicker when zooming in or out](#DF) | Large (local) differences in terrain elevation | Move offending decal to the bottom of the decal stack.  
 
+#### 'Play Map' functionality isn't working {PM}
+#### Map does not look the same in game as it does in editor {MD}
+#### Decall flickering {#DF}
 
-#### 'Play Map' functionality isn't working
-Description:
-Cause:
-Workaround or fix: 
-. 
-### Map does not look the same in game as it does in editor
-Description:
-Cause:
-Workaround or fix: 
-The editor uses a different shader than the game. No fix available.
-A limited workaround is available by starting the FAF-version of the game without using the launcher, and using the 'restart game' button to quickly refresh the map in game. 
-### Decall flickering
-Description:
-Cause:
-Workaround or fix: 
 ### Symmetry issues
 Description:
 Cause:
