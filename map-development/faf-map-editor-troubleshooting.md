@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:50:39.690Z
+date: 2023-05-08T22:50:55.141Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -78,7 +78,5 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 #### Decall flickering {#DF}
 #### Symmetry-relation between pairs of markers or objects is lost {SR}
 
-
 ## Glossary
 See [Glossary](/en/Glossary)
-[Job-Board](/en/Job-Board)
