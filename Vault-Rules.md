@@ -2,7 +2,7 @@
 title: Vault Rules
 description: The current rules for both the map and mod vaults.
 published: true
-date: 2023-03-16T15:25:30.929Z
+date: 2023-05-08T19:08:43.752Z
 tags: modding, mapping, rules
 editor: markdown
 dateCreated: 2021-12-12T09:46:02.410Z
