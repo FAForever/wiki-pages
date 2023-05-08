@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2023-03-26T15:43:55.006Z
+date: 2023-05-08T22:00:59.280Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -12,7 +12,7 @@ dateCreated: 2021-08-31T09:42:58.014Z
 ## Introduction
 **FA Forever Map Editor** is a new map editor developed for FAF by ozonex. It is currently in **alpha**, which means the editor is in its testing phase, and some features are still lacking. However, ozonex expects to release a beta version soon.
 
-FA Forever Map Editor Github [Issuse's](https://github.com/ozonexo3/FAForeverMapEditor/issues).
+FA Forever Map Editor Github [Issues](https://github.com/ozonexo3/FAForeverMapEditor/issues).
 
 ### Download
 
