@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:50:31.869Z
+date: 2023-05-08T22:50:39.690Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -81,4 +81,4 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 
 ## Glossary
 See [Glossary](/en/Glossary)
-
+[Job-Board](/en/Job-Board)
