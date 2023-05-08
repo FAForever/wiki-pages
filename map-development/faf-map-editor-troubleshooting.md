@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:38:37.875Z
+date: 2023-05-08T22:42:19.287Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -66,11 +66,16 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 
 
 ## Assorted Odd editor behaviour
-### 'Play Map' functionality isn't working
+| Description | Cause | Workaround or fix |
+|-|-|-|
+| 'Play Map' functionality isn't working | Function has never worked | FAF may be started using the executable rather than the FAF client. Keeping the game open and using the <kbd>restart game</kbd> after saving any changes in the editor allows for quick testing.|
+
+
+#### 'Play Map' functionality isn't working
 Description:
 Cause:
 Workaround or fix: 
-Function has never worked. No workaround or fix available.
+. 
 ### Map does not look the same in game as it does in editor
 Description:
 Cause:
