@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:50:55.141Z
+date: 2023-05-08T22:51:51.900Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -71,12 +71,12 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 | ['Play Map' functionality isn't working](#PM) | Function has never worked | FAF may be started using the executable rather than the FAF client. Keeping the game open and using the <kbd>Restart game</kbd> button after saving any changes in the editor allows for quick testing. |
 | [Map does not look the same in game as it does in editor](#MD) | The editor uses a different shader than the game. | No fix available. |
 | [Decalls flicker when zooming in or out](#DF) | Large (local) differences in terrain elevation | Move offending decal to the bottom of the decal stack. |
-| [Symmetry-relation between pairs of markers or objects is lost](SR) | Symmetry tolerance set too low | Increase symmetry tolerance|
+| [Symmetry-relation between pairs of markers or objects is lost](#SR) | Symmetry tolerance set too low | Increase symmetry tolerance|
 
-#### 'Play Map' functionality isn't working {PM}
-#### Map does not look the same in game as it does in editor {MD}
+#### 'Play Map' functionality isn't working {#PM}
+#### Map does not look the same in game as it does in editor {#MD}
 #### Decall flickering {#DF}
-#### Symmetry-relation between pairs of markers or objects is lost {SR}
+#### Symmetry-relation between pairs of markers or objects is lost {#SR}
 
 ## Glossary
 See [Glossary](/en/Glossary)
