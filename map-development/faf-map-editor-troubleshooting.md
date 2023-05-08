@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:34:07.764Z
+date: 2023-05-08T22:38:37.875Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -32,25 +32,30 @@ The map editor is a powerful tool for creating custom maps in Supreme Commander:
 ### Custom textures
 | Description | Cause | Workaround or fix |
 |-|-|-|
-| Custom texture is not accepted by editor | Incorrect filetype | |
-| | Improper encoding | Textures need to be encoded as DXT3 (BC2) type .dds files, and include mipmaps. |
-| | File stored in wrong folder | Files should be stored under ../env/layers|
-<br />
+| Custom texture is not accepted by editor | [Incorrect filetype](#t-i-f) | Textures need to be encoded as DXT3 (BC2) type .dds files. |
+| | [Improper encoding](#t-i-e) | Textures need to be encoded as DXT3 (BC2) type .dds files, and include mipmaps. |
+| | [File stored in wrong folder](#t-f-s) | Files should be stored under ../env/layers|
+
+#### Incorrect filetype {#t-i-f}
+
+#### Improper encoding {#t-i-e}
+
+#### File stored in wrong folder {#t-f-s}
 
 ### Stratum masks
 | Description | Cause | Workaround or fix |
 |-|-|-|
-| Stratum mask is not accepted by editor | [Incorrect filetype](#s-ic-ft) | Encode mask as 8bit RGB, non-interlaced .raw file. |
-| | [Incorrect resolution](#s-ic-r) | Adjust resolution of stratum mask. Check required resolution by exporting a stratum mask for that map and verifying resolution of exported file. |
+| Stratum mask is not accepted by editor | [Incorrect filetype](#s-i-f) | Encode mask as 8bit RGB, non-interlaced .raw file. |
+| | [Incorrect resolution](#s-i-r) | Adjust resolution of stratum mask. Check required resolution by exporting a stratum mask for that map and verifying resolution of exported file. |
 | Stratum mask has odd artifacts such as stripes | Stratum mask was incorrectly encoded | Verify correct encoding. |
 | Stratum mask is not displaying texture properly | Only greyvalues 128 and up are used. | If masks are made using external programs, rescaling using a levels adjustment is required. | 
 
-#### Incorrect filetype {#s-ic-ft}
+#### Incorrect filetype {#s-i-f}
 Masks need to be encoded as a RGB, non-interlaced, 8bit .raw file.
 >While the heightmap is rendered as a 16bit file, masks are rendered as 8bit. 
 {.is-warning}
 
-#### Incorrect resolution {#s-ic-r}
+#### Incorrect resolution {#s-i-r}
 By default, stratum mask resolution is related to heightmap resolution, where 513px heightmaps required 512px stratum masks etc. However, if the map was edited within the original FA map editor, only 256px stratum masks will be accepted. To prevent this loss of resolution, try not to use the FA editor. The FA editor is commonly used for actions such as importing and positioning map-wide decals. Jip has created templates for 5km, 10km, and 20km maps containing several placeholding decals that can be replaced and which accept full-resolution stratum masks. These templates may be found here.
 
 ### Custom decals
