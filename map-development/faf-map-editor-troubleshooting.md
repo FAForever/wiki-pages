@@ -2,13 +2,15 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T21:31:23.583Z
+date: 2023-05-08T21:32:30.246Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
 ---
 
-> This section is under construction.
+> This section is incomplete and will be updated.
+{.is-warning}
+
 
 # Introduction
 The map editor is a powerful tool for creating custom maps in Supreme Commander: Forged Alliance, but like with any software, you might encounter various technical issues that can prevent you from creating maps that meet your vision. These issues can range from minor annoyances to serious problems that make it impossible to complete your map. In this section, we'll cover some common technical issues you might encounter while working with the map editor and related files.
