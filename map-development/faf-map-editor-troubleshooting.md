@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:51:51.900Z
+date: 2023-05-08T22:53:25.772Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -37,10 +37,9 @@ The map editor is a powerful tool for creating custom maps in Supreme Commander:
 | | [File stored in wrong folder](#t-f-s) | Files should be stored under ../env/layers|
 
 #### Incorrect filetype {#t-i-f}
-
 #### Improper encoding {#t-i-e}
-
 #### File stored in wrong folder {#t-f-s}
+<br />
 
 ### Stratum masks
 | Description | Cause | Workaround or fix |
@@ -57,15 +56,16 @@ Masks need to be encoded as a RGB, non-interlaced, 8bit .raw file.
 
 #### Incorrect resolution {#s-i-r}
 By default, stratum mask resolution is related to heightmap resolution, where 513px heightmaps required 512px stratum masks etc. However, if the map was edited within the original FA map editor, only 256px stratum masks will be accepted. To prevent this loss of resolution, try not to use the FA editor. The FA editor is commonly used for actions such as importing and positioning map-wide decals. Jip has created templates for 5km, 10km, and 20km maps containing several placeholding decals that can be replaced and which accept full-resolution stratum masks. These templates may be found here.
+<br />
 
 ### Custom decals
 | Description | Cause | Workaround or fix |
 |-|-|-|
 | Decal is not accepted by editor | Incorrect filetype | Encode decal as DXT3/BC2 .dds file. |
 |  | File stored in wrong folder | Files should be stored under ../env/decals |
+<br />
 
-
-## Assorted Odd editor behaviour
+## Assorted odd editor behaviour
 | Description | Cause | Workaround or fix |
 |-|-|-|
 | ['Play Map' functionality isn't working](#PM) | Function has never worked | FAF may be started using the executable rather than the FAF client. Keeping the game open and using the <kbd>Restart game</kbd> button after saving any changes in the editor allows for quick testing. |
@@ -77,6 +77,7 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 #### Map does not look the same in game as it does in editor {#MD}
 #### Decall flickering {#DF}
 #### Symmetry-relation between pairs of markers or objects is lost {#SR}
+<br />
 
 ## Glossary
 See [Glossary](/en/Glossary)
