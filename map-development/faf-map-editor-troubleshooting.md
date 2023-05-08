@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:47:34.801Z
+date: 2023-05-08T22:50:31.869Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -70,21 +70,15 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 |-|-|-|
 | ['Play Map' functionality isn't working](#PM) | Function has never worked | FAF may be started using the executable rather than the FAF client. Keeping the game open and using the <kbd>Restart game</kbd> button after saving any changes in the editor allows for quick testing. |
 | [Map does not look the same in game as it does in editor](#MD) | The editor uses a different shader than the game. | No fix available. |
-| [Decalls flicker when zooming in or out](#DF) | Large (local) differences in terrain elevation | Move offending decal to the bottom of the decal stack.  
+| [Decalls flicker when zooming in or out](#DF) | Large (local) differences in terrain elevation | Move offending decal to the bottom of the decal stack. |
+| [Symmetry-relation between pairs of markers or objects is lost](SR) | Symmetry tolerance set too low | Increase symmetry tolerance|
 
 #### 'Play Map' functionality isn't working {PM}
 #### Map does not look the same in game as it does in editor {MD}
 #### Decall flickering {#DF}
+#### Symmetry-relation between pairs of markers or objects is lost {SR}
 
-### Symmetry issues
-Description:
-Cause:
-Workaround or fix: 
 
 ## Glossary
-<dl>
-  <dt>Ozonex editor or FAF editor</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>FA editor</dt>
-  <dd>This is one definition of the second term. </dd>
-</dl>
+See [Glossary](/en/Glossary)
+
