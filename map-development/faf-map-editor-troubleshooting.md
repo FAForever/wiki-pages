@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-08T22:53:25.772Z
+date: 2023-05-08T22:55:35.191Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -55,7 +55,7 @@ Masks need to be encoded as a RGB, non-interlaced, 8bit .raw file.
 {.is-warning}
 
 #### Incorrect resolution {#s-i-r}
-By default, stratum mask resolution is related to heightmap resolution, where 513px heightmaps required 512px stratum masks etc. However, if the map was edited within the original FA map editor, only 256px stratum masks will be accepted. To prevent this loss of resolution, try not to use the FA editor. The FA editor is commonly used for actions such as importing and positioning map-wide decals. Jip has created templates for 5km, 10km, and 20km maps containing several placeholding decals that can be replaced and which accept full-resolution stratum masks. These templates may be found here.
+By default, stratum mask resolution is related to heightmap resolution, where 513px heightmaps required 512px stratum masks etc. However, if the map was edited within the original FA (GPG) map editor, only 256px stratum masks will be accepted. To prevent this loss of resolution, try not to use the GPG editor. The GPG editor is commonly used for actions such as importing and positioning map-wide decals. Jip has created templates for 5km, 10km, and 20km maps containing several placeholding decals that can be replaced and which accept full-resolution stratum masks. These templates may be found here.
 <br />
 
 ### Custom decals
