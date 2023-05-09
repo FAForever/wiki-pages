@@ -2,14 +2,14 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2023-03-24T06:46:59.253Z
+date: 2023-05-09T23:04:28.070Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
 ---
 
 This tab in the lobby is how you start to play Forged Alliance with the client. As long as you have Supreme Commander Forged Alliance installed, no further setup is needed.
-Consult [this](/FAQ/Client-Setup) for more info on setup. Remember, you need to start the game through this client for all the improvements to work.
+Remember, you need to start the game through this client for all the improvements to work.
 
 ## Game Title
 - XvX - Showing for how many player per team is game hosted. (example 1v1, 4v4)
