@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-09T10:25:36.585Z
+date: 2023-05-09T10:55:45.062Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -81,6 +81,8 @@ By default, stratum mask resolution is related to heightmap resolution, where 51
 #### 'Play Map' functionality isn't working {#PM}
 #### Map does not look the same in game as it does in editor {#MD}
 #### Decall flickering {#DF}
+#### Decalls are not mirrored correctly {#DM}
+Diagonal symmetry settings results in improperly rotated decals. Fix is to work with rotational symmetry (Center by angle).
 #### Symmetry-relation between pairs of markers or objects is lost {#SR}
 <br />
 
