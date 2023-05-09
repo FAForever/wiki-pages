@@ -2,8 +2,8 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2023-05-09T10:57:14.410Z
-tags: mapping
+date: 2023-05-09T10:58:23.519Z
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
 ---
@@ -515,7 +515,7 @@ To create civilians on the map place them under **NEUTRAL_CIVILIAN** or **ARMY_1
 
 For example if you want civilians that shoot at players, you must add them under ARMY_17 and have the in game option for **Civilians** set to **Enemy**
 
-## Command line arguments
+## Comand line arguments
 
 **Render Preview Image** - If you want editor to only render preview image of map, then use this command. It allow to generate image with custom width and height. If you want image in png format, then image path need to end with "\*.png". In other cases it will save with JPG compression.
 
