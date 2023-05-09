@@ -2,13 +2,12 @@
 title: Map & Mod Vault
 description: 
 published: true
-date: 2023-03-24T08:49:37.095Z
+date: 2023-05-09T23:05:19.923Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:44:14.939Z
 ---
 
-# {.tabset}
 ## Map Vault
 In the map vault, you will find every map available for Forged Alliance. All maps downloaded via map vault are saved in this folder:
 `C:\Users\%UserName%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Maps`
