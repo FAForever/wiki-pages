@@ -2,7 +2,7 @@
 title: FAF Map Editor Troubleshooting Guide
 description: 
 published: true
-date: 2023-05-09T09:57:33.830Z
+date: 2023-05-09T10:04:12.451Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-08T19:23:15.194Z
@@ -25,8 +25,8 @@ The map editor is a powerful tool for creating custom maps in Supreme Commander:
 ### Heightmaps {#h}
 | Description | Cause | Workaround or fix |
 |-|-|-|
-| Heightmap is not accepted by editor | Heightmaps should be encoded as 16 bit, 1-channel, non-interlaced .raw files. | Check filetype and reencode heightmap as necessary
-| | Heightmaps should be in the correct resolution (see figure). | Correct resolution (power of two +1)|
+| Heightmap is not accepted by editor | Heightmaps should be encoded as 16 bit, 1-channel, non-interlaced .raw files | Check filetype and reencode heightmap as necessary
+| | Heightmaps should be in the correct resolution (see figure) | Correct resolution |
 <br />
 
 ### Custom textures {#t}
@@ -39,6 +39,11 @@ The map editor is a powerful tool for creating custom maps in Supreme Commander:
 #### Incorrect filetype {#t-if}
 #### Improper encoding {#t-ie}
 #### Texture size and mipmaps {#t-sm}
+For unknown reasons, custom textures might result in the 'Invalid MIP level' error when used in stratum layer 1. As a result, the editor replaces the whole layer with a grey colour. While the map is unaffected when viewed in game, the map-preview image will be similarly affected.
+
+Replacing the texture with a default texture and using the custom texture in stratum layer 2–8 provides a workaround for this issue. 
+
+
 #### File stored in wrong folder {#t-fs}
 <br />
 
