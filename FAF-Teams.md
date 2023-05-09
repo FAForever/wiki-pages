@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2023-03-14T16:58:24.044Z
+date: 2023-05-09T23:03:39.676Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -107,10 +107,12 @@ The deputy leader is also the point of contact if the team leader is absent.
 ##### Members
   - Giebmasse
   - Jip
+  - Rowey
+  - CaptainKlutz
 ##### Associates 
   - Phong
   - Fichom
-  - Spikey Noob### Promotions Team
+  - Spikey Noob
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
 - The team leader is to be voted upon by team members
