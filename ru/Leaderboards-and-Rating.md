@@ -2,10 +2,10 @@
 title: Leaderboards
 description: 
 published: true
-date: 2021-09-10T09:50:04.005Z
+date: 2023-05-12T03:33:35.890Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-31T09:44:01.447Z
+dateCreated: 2021-12-25T00:02:28.284Z
 ---
 
 # Leaderboards
@@ -13,15 +13,15 @@ dateCreated: 2021-08-31T09:44:01.447Z
 ![leaderboardspng.png](/leaderboardspng.png)
 
 ## 1. Leaderboard Selection
-Here you can set which leaderbaord you want to look at you can slect from teh drop down mendu from the following:
+Here you can set which leaderboard you want to look at, you can select from the drop down menu the following:
 - Global
 - 1v1
 - 2v2
 
-When more Matchmaker playlists have been creaste thier will be more options here
+When more Matchmaker playlists have been created there will be more options here.
 
 ## 2. Search
-the Search bar will alow you to serece for spesifick players, but do bare in minde for the 1v1 & 2v2 Leaderboard it only shows players that have playe with in a month.
+the Search bar will allow you to search for specfic players, but do bare in mind for the 1v1 & 2v2 Leaderboard it only shows players that have played within that month.
 
 ## 3. Player info
-here is where is shows thier rank in the community, the players name, How many games they ahve played and thier rating
+here is where it shows thier rank in the community, the players name, How many games they have played and thier rating.
