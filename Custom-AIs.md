@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-03-26T15:39:49.013Z
+date: 2023-05-12T18:55:39.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -52,6 +52,14 @@ Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).
 
 Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+
+### M28AI
+![m28ai.jpg](/m28ai.jpg)
+*Author: maudlin27*
+Other mods required: None
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 600-800.  Compared with M27AI, M28AI aims to provide a more CPU performant AI that works better in teamgame scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps. Although slightly weaker than M27AI overall (as of v1 release, May 2023), it is compatible with a wider range of mods and map settings, and runs roughly twice as fast as M27AI.
+
+Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
 
 ### SCTA AI 
@@ -110,16 +118,6 @@ Last updated: Unknown
 Other mods required: None
 When released Sorian AI represented an improvement to the base AI in FAF.  Note though that the base adaptive AI has been updated more recently and is more likely to provide a greater competitive experience than the Sorian AI.
 AI variants: Sorian, Rush, Air, Water, Turtle, Adaptive
-
-## Upcoming AI
-### M28AI
-*Author: maudlin27*
-
-This AI is only available from github as it is still in development and not yet suitable for release on the FAF vault.  While it is likely to be in a usable state on the majority of maps using default settings, there is a significant risk of errors.
-
-It should be possible to play with this AI by downloading it [from Github](https://github.com/maudlin27/M28AI), and ensuring the M28AI folder is in your normal FAF mods folder (i.e. the same folder that other AI mods are saved to).
-
-Compared with M27AI M28AI aims to provide a more CPU performant AI that works better in teamgame scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.
 
 ## Historic FAF AI
 The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
