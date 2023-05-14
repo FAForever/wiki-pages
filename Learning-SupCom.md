@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2023-03-16T18:20:17.746Z
+date: 2023-05-14T17:28:11.460Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -56,7 +56,7 @@ If you know the basics of the game and are looking to improve your gameplay, you
 
 If you're confused, or stuck in a rut, or you want help from others, you could benefit from some trainers' advice.  Replay analysis is often available upon request as well.
 
-[Gameplay and Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
+[Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
 
 [Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - a list of trainers
 
