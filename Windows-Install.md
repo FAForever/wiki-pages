@@ -2,7 +2,7 @@
 title: Windows Installation
 description: 
 published: true
-date: 2023-03-09T23:48:48.159Z
+date: 2023-05-22T03:09:28.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
@@ -17,7 +17,7 @@ If you own a retail version of Supreme Commander, you can use its code to redeem
 ## Installing Supreme Commander: Forged Alliance and the FAF Client
 
 **Step 1:**  Install Supreme Commander: Forged Alliance
-**Step 2:** Download the [FAF Client](https://github.com/FAForever/downlords-faf-client/releases/download/v2023.1.2/faf_windows-x64_2023_1_2.exe) and install it
+**Step 2:** Download the [FAF Client](https://github.com/FAForever/downlords-faf-client/releases/download/v2023.5.0/faf_windows-x64_2023_5_0.exe) and install it
 **Step 3:** [Make a FAF account](https://faforever.com/account/register)
 **Step 4:** Do [Steam Link](https://www.faforever.com/account/link) or [GOG Link](https://www.faforever.com/account/linkGog)
 **Step 5:** Make a profile and run the game
