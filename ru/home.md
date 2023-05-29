@@ -2,13 +2,13 @@
 title: Главная страница
 description: 
 published: true
-date: 2023-05-29T18:11:13.399Z
+date: 2023-05-29T18:14:01.639Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T18:11:13.399Z
 ---
 
-![wiki-banner.jpg](/wiki-banner.jpg){.align-center}
+![wiki-banner.jpg](/wiki-banner.jpg){.align-center} 
 
 
 # Начало
