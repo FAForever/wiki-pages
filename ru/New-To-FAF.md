@@ -2,7 +2,7 @@
 title: New To FAF
 description: 
 published: true
-date: 2023-05-29T18:12:21.234Z
+date: 2023-05-29T18:13:45.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T18:12:21.234Z
@@ -13,7 +13,7 @@ FAF (Forged Alliance Forever) - это некоммерческая органи
 
 ![cool_screenshot_1.jpg](/images/cool_screenshot_1.jpg)
 
-# Полезные ссылки
+# Полезные ссылки 
 
 * [Установка на Windows](https://wiki.faforever.com/ru/Windows-Install) или [Linux](https://wiki.faforever.com/en/Linux-Install)
 
