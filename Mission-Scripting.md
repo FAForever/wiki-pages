@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2022-06-26T19:29:15.384Z
+date: 2023-06-03T18:59:14.695Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -715,14 +715,14 @@ ScenarioInfo.Name = Objectives.Type(
 - **'Action**' - This is required by only some objective types. Others can't have it.
 - Last one is table with target. There are several data that can be here depending on objective type
 ```lua
-FlashVisible = true,
-AlwaysVisible = true,
-MarkUnits = true,
-MarkArea = true,
-ShowProgress = true,
-PercentProgress = true,
-ShowFaction = 'Faction',
-NumRequired = 'Number',
+FlashVisible = true, -- Intel flash over a target to show it on the map.
+AlwaysVisible = true, -- Constant vision on the target.
+MarkUnits = true, -- Highlights target units on the map.
+MarkArea = true, -- Highlighs target area on the map.
+ShowProgress = true, -- Shows progress of the objective. (2/8, etc...)
+PercentProgress = true, -- Shows progress of the objective in percents.
+ShowFaction = 'Faction', -- Icon of objective is defined by units that are targeted, this over rides it and whows faction icon instead.
+NumRequired = 'Number', --  How many units are required to complete objective, usually used with capture
 
 Units = {},
 Area = 'Area',
