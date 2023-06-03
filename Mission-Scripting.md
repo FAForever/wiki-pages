@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2023-06-03T18:59:14.695Z
+date: 2023-06-03T19:02:00.382Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -723,11 +723,15 @@ ShowProgress = true, -- Shows progress of the objective. (2/8, etc...)
 PercentProgress = true, -- Shows progress of the objective in percents.
 ShowFaction = 'Faction', -- Icon of objective is defined by units that are targeted, this over rides it and whows faction icon instead.
 NumRequired = 'Number', --  How many units are required to complete objective, usually used with capture
-
-Units = {},
-Area = 'Area',
-Requirements = {
-    {Area = 'Area', Category = categories.type, CompareOp = '', Value = Number, ArmyIndex = Army},
+Units = {}, -- Table with target units
+Area = 'Area', -- Name of the area as we named it in Map Editor/save.lua file.
+Requirements = { -- Used for CategoriesInArea objective type.
+    {Area = 'Area', -- Name of the area as we named it in Map Editor/save.lua file.
+     Category = categories.type, -- Unit categories, it can be one of [these](/Mission-Scripting#categories) or unit IDs.
+     CompareOp = '', -- Options are: <=, >=, <, >, ==
+     Value = Number, -- 
+     ArmyIndex = Army --
+    },
 },
 Category = categories.UnitID,
 
