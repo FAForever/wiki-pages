@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2023-03-24T06:52:38.987Z
+date: 2023-06-03T18:46:35.816Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -53,40 +53,40 @@ Both sides are interacting, to keep the user updated about what's happening to h
 ### A simple mod_info.lua
 Explanation
 ```lua
-`name: mod name`
-`uid: an ID every mod needs, you can generate a random one
-`version: use a versioning pattern of your choice, the current FAF mod vault will only display a single integer though`
-`copyright: mention how you want copying to be treated`
-`description: mod description`
-`author: your name`
-`url: if you have one, for example a forum thread that you could be making to show us your mod`
-`selectable: true|false : whether the mod should be selectable in the ingame lobby`
-`enabled = true|false`
-`exclusive = true|false:`
-`ui_only = true|false: whether all players need to mod for the game to run. SIM mods are needed by everyone, UI mods not`
-`requires = {}: table of requirements for your mod (for example "common mod tools"), enter the UIDs here`
-`conflicts = {}: table of conflicts, this way the lobby will warn the player that they don't work together`
-`before = {}: mods that will have to be hooked in before your mod is hooked`
-`after = {}: mods that have to be hooked in after your mod`
+name: mod name
+uid: an ID every mod needs, you can generate a random one
+version: use a versioning pattern of your choice, the current FAF mod vault will only display a single integer though
+copyright: mention how you want copying to be treated
+description: mod description
+author: your name
+url: if you have one, for example a forum thread that you could be making to show us your mod
+selectable: true|false : whether the mod should be selectable in the ingame lobby
+enabled = true|false
+exclusive = true|false:
+ui_only = true|false: whether all players need to mod for the game to run. SIM mods are needed by everyone, UI mods not
+requires = {}: table of requirements for your mod (for example "common mod tools"), enter the UIDs here
+conflicts = {}: table of conflicts, this way the lobby will warn the player that they don't work together
+before = {}: mods that will have to be hooked in before your mod is hooked
+after = {}: mods that have to be hooked in after your mod
 ```
 
 Filled example
 ```lua
-`name = "Tutorial Mod Info"`
-`uid = "431a0114-92a0-11e5-8994-feff819cdc9f"`
-`version = 1`
-`copyright = "nah, just copy it"`
-`description = "A new description"`
-`author = "Myxir"`
-`url = ""`
-`selectable = true`
-`enabled = true`
-`exclusive = false`
-`ui_only = true`
-`requires = {}`
-`conflicts = {}`
-`before = {}`
-`after = {}`
+name = "Tutorial Mod Info"
+uid = "431a0114-92a0-11e5-8994-feff819cdc9f"
+version = 1
+copyright = "nah, just copy it"
+description = "A new description"
+author = "Myxir"
+url = ""
+selectable = true
+enabled = true
+exclusive = false
+ui_only = true
+requires = {}
+conflicts = {}
+before = {}
+after = {}
 ```
 
 UIDs can be obtained [here](https://www.uuidtools.com)
