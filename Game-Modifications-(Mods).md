@@ -2,7 +2,7 @@
 title: Integrated Mods
 description: An outline of mods that were integrated into FAF, and how to use them.
 published: true
-date: 2021-12-30T02:50:01.967Z
+date: 2023-06-03T18:42:15.129Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -29,7 +29,9 @@ Hotbuild is a mod which lets you quickly order buildings and units via hotkeys i
 - You need to set the keys up manually. Luckily, the keys are in order on the keyboard - w,e,r,t, ect. so it takes almost no time at all.
 - The Hotkeys are saved to your **Game.prefs** file, which you can find at:
 
-`C:\Users\USERNAME\AppData\Local\Gas Powered Games\Supreme Commander Forged Alliance `
+```
+C:\Users\USERNAME\AppData\Local\Gas Powered Games\Supreme Commander Forged Alliance
+```
 
 >:\ AppData is a hidden folder, so make sure your settings for seeing it are enabled.
 
