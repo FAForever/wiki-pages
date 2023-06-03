@@ -2,13 +2,13 @@
 title: 
 description: 
 published: true
-date: 2023-06-03T20:23:47.313Z
+date: 2023-06-03T20:23:56.468Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
 ---
 
-![wiki-banner.jpg](/images/wiki-banner.jpg)!{.align-center}
+![wiki-banner.jpg](/images/wiki-banner.jpg){.align-center}
 
 # Getting Started
 If you're new to FAF and need help, here are some good introductory resources:
