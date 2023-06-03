@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2023-06-03T18:47:35.199Z
+date: 2023-06-03T18:52:53.600Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -95,9 +95,9 @@ Our way into modding the game is hooking. Hooking in FA is basically file concat
 
 Paths:
 ```lua
-`\lua\ui\game\selection.lua is a UI side file handling what happens when we (de)select units`
-`C:\Users\%USERNAME%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Mods\examplemod\hook\lua\ui\game\selection.lua is the full path to my own file, how i hook it`
-`"/mods/examplemod/" is the path the mod can find its own files later`
+\lua\ui\game\selection.lua is a UI side file handling what happens when we (de)select units
+C:\Users\%USERNAME%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\Mods\examplemod\hook\lua\ui\game\selection.lua is the full path to my own file, how i hook it
+"/mods/examplemod/" is the path the mod can find its own files later
 ```
 Ok so now i want to hook that file, i have created an empty selection.lua in the path as mentioned above. As said, hooking is file concatenation, so my empty file will be added at the bottom of the original selection.lua. Now i can overwrite a function, let's take PlaySelectionSound, which is playing the sounds of a selection when you select something.
 ```lua
