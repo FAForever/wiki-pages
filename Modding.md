@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2023-06-03T18:46:35.816Z
+date: 2023-06-03T18:47:17.447Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -101,17 +101,17 @@ Paths:
 ```
 Ok so now i want to hook that file, i have created an empty selection.lua in the path as mentioned above. As said, hooking is file concatenation, so my empty file will be added at the bottom of the original selection.lua. Now i can overwrite a function, let's take PlaySelectionSound, which is playing the sounds of a selection when you select something.
 ```lua
-`-- original selection.lua file`
-`function PlaySelectionSound(newSelection)`
-`   -- the newSelection parameter is the table of units`
-`   -- original code not displayed`
-`end`
+-- original selection.lua file
+function PlaySelectionSound(newSelection)
+   -- the newSelection parameter is the table of units
+   -- original code not displayed
+end
 ```
 Let's say i want it to do nothing, so i can just destructively hook (overwrite) it completely in my own selection.lua:
 ```lua
-`-- my own selection.lua file in /mods/examplemod/hook/lua/ui/game`
-`function PlaySelectionSound(newSelection)`
-`end`
+-- my own selection.lua file in /mods/examplemod/hook/lua/ui/game
+function PlaySelectionSound(newSelection)
+end
 ```
 As this is simple file concatenation, my own function has the exact same name of the original function, but is mentioned later and is thus overwriting it. In result, nothing happens, no sound is played.
 
