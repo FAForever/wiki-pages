@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2023-06-03T19:02:00.382Z
+date: 2023-06-03T19:05:45.292Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -697,23 +697,19 @@ There are several objective types, each require different target data to work.
 
 Basic data every objective needs:
 ```lua
-ScenarioInfo.Name = Objectives.Type(
-    'primary',
-    'incomplete',
-    'Title',
-    'Description',
-    'Action',
-    {target
+-- Name of our objective for script. M1P1 for Mission 1 Primary 1 etc...
+ScenarioInfo.Name = Objectives.Type( -- Now we choose type of the objective
+    'primary', --Objective priority. Others are secondary, bonus.
+    'incomplete', --  Objective isn't completed yet. Other is **complete**.
+    'Title', -- Will be shown with objective on UI.
+    'Description', -- Will be shown with objective on UI.
+    'Action', -- This is required by only some objective types. Others can't have it.
+    {
+    	target -- Last one is table with target. There are several data that can be here depending on objective type
     }
 )
 ```
-- **Name** - Name of our objective for script. M1P1 for Mission 1 Primary 1 etc...
-- **Objectives.Type** - Now we choose type of the objective
-- **'primary**' - Objective priority. Others are **secondary, bonus**.
-- **'incomplete**' - Objective isn't completed yet. Other is **complete**.
-- **'Title**' and **'Description**' - Will be shown with objective on UI.
-- **'Action**' - This is required by only some objective types. Others can't have it.
-- Last one is table with target. There are several data that can be here depending on objective type
+
 ```lua
 FlashVisible = true, -- Intel flash over a target to show it on the map.
 AlwaysVisible = true, -- Constant vision on the target.
@@ -729,35 +725,15 @@ Requirements = { -- Used for CategoriesInArea objective type.
     {Area = 'Area', -- Name of the area as we named it in Map Editor/save.lua file.
      Category = categories.type, -- Unit categories, it can be one of [these](/Mission-Scripting#categories) or unit IDs.
      CompareOp = '', -- Options are: <=, >=, <, >, ==
-     Value = Number, -- 
-     ArmyIndex = Army --
+     Value = Number, -- Number we require.
+     ArmyIndex = Army -- Army we defined at the beginning of script.
     },
 },
-Category = categories.UnitID,
+Category = categories.UnitID, -- Forces icon of this unit.
 
-Timer = Number, -- if nil, requires a manual update for completion
-ExpireResult = 'complete',
+Timer = Number, -- if nil, requires a manual update for completion ( Number in seconds.)
+ExpireResult = 'complete', -- What happens when time runs up. Options are: complete, failed
 ```
-- **FlashVisible** - Intel flash over a target to show it on the map.
-- **AlwaysVisible** - Constant vision on the target.
-- **MarkUnits** - Highlights target units on the map.
-- **MarkArea** - Highlighs target area on the map.
-- **ShowProgress** - Shows progress of the objective. (2/8, etc...)
-- **PercentProgress** - Shows progress of the objective in percents.
-- **ShowFaction** - Icon of objective is defined by units that are targeted, this over rides it and whows faction icon instead.
-- **NumRequired** - How many units are required to complete objective, usually used with **Capture**
-- **Units** - Table with target units
-- **Area** - Name of the area as we named it in Map Editor/save.lua file.
-- **Requirements** - Used for **CategoriesInArea** objective type.
-	- **Area** - Name of the area as we named it in Map Editor/save.lua file.
-	- **Category** - Unit categories, it can be one of [these](/Mission-Scripting#categories) or unit IDs.
-	- **CompareOp** - Options are: **'\<=', '>=', '\<', '>', '==**'
-		- **==** - is checked only once per 5 ticks.
-		- **Value** - Number we require.
-		- **ArmyIndex** - Army we defined at the beginning of script.
-- **Category** - Forces icon of this unit.
-- **Timer** - Number in seconds.
-- **ExpireResult** - What happens when time runs up. Options are: **complete, failed**
 
 Detailed description is in SimObjectives file
 
