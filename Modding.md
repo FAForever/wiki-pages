@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2023-06-03T18:47:17.447Z
+date: 2023-06-03T18:47:35.199Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -117,12 +117,12 @@ As this is simple file concatenation, my own function has the exact same name of
 
 If i want to add something, instead of overwrite, i can construtively hook the function by saving a reference and calling the "old" function via that
 ```lua
-`-- my own selection.lua file in /mods/examplemod/hook/lua/ui/game`
-`local oldPlaySelectionSound = PlaySelectionSound`
-`function PlaySelectionSound(newSelection)`
-`   oldPlaySelectionSound(newSelection)`
-`   -- here i can execute my own code`
-`end`
+-- my own selection.lua file in /mods/examplemod/hook/lua/ui/game
+local oldPlaySelectionSound = PlaySelectionSound
+function PlaySelectionSound(newSelection)
+   oldPlaySelectionSound(newSelection)
+   -- here i can execute my own code
+end
 ```
 ## FAQ
 
