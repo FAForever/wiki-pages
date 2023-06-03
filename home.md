@@ -1,8 +1,8 @@
 ---
-title: 
-description: 
+title: Home
+description: Landing Page of the Wiki
 published: true
-date: 2023-06-03T20:23:56.468Z
+date: 2023-06-03T20:54:41.533Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
