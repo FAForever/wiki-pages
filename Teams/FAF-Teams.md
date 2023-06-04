@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2023-05-25T18:03:42.564Z
+date: 2023-06-04T07:16:01.965Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -23,7 +23,7 @@ These are the current Team Leaders:
 	> **Deribus**
 
 - ![promo.png](/cos-icons/promo.png) **Promotions Team Leeader:** 
-	>	**Javi**
+	>	**Jip**
 
 - **FAF Live Team Leader:**
 	> TBD
@@ -103,10 +103,10 @@ The deputy leader is also the point of contact if the team leader is absent.
 ### Promotions Team
 #### Members 
 ##### Current Team Leader
-  - Javi
+  - Jip
 ##### Members
   - Giebmasse
-  - Jip
+  - Javi
   - Rowey
   - CaptainKlutz
 ##### Associates 
