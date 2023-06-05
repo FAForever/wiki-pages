@@ -1,8 +1,8 @@
 ---
-title: FAF-Teams
+title: FAF Teams
 description: 
 published: true
-date: 2023-06-05T10:02:29.541Z
+date: 2023-06-05T12:13:43.533Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
