@@ -2,7 +2,7 @@
 title: Development
 description: 
 published: true
-date: 2023-06-05T12:06:59.183Z
+date: 2023-06-05T12:07:27.899Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T11:37:27.777Z
@@ -18,7 +18,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 # Game Development
 
 - [Bug Reporting & Testing *How to Create better bug reports*](https://wiki.faforever.com/en/Development/Game-Development/Bug-Reporting-and-Testing)
-- [Command Line Switches *Command line switches let you run Forged Alliance with extra options and settings.*](https://wiki.faforever.com/en/FAF-Rules)
+- [Command Line Switches *Command line switches let you run Forged Alliance with extra options and settings.*](https://wiki.faforever.com/en/Development/Game-Development/Command-Line-Switches)
 - [FAF Development *Development for FAF*](https://wiki.faforever.com/en/Development/Game-Development/FAF-Development)
 {.links-list}
 
