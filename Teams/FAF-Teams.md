@@ -2,7 +2,7 @@
 title: FAF-Teams
 description: 
 published: true
-date: 2023-06-04T07:16:01.965Z
+date: 2023-06-05T10:02:29.541Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -16,37 +16,37 @@ The FAF Teams are groups of FAF contributors who are tasked with diffrent aspect
 
 These are the current Team Leaders:
 
-- ![trainer.png](/cos-icons/trainer.png) **Trainer Team Leader** 
+- **Trainer Team Leader** 
 	> **Inspektor_Kot** (Secondary: **HintHunter**)
 
-- ![community.png](/cos-icons/community.png) **Community Manager** 
+- **Community Manager** 
 	> **Deribus**
 
-- ![promo.png](/cos-icons/promo.png) **Promotions Team Leeader:** 
+- **Promotions Team Leeader:** 
 	>	**Jip**
 
 - **FAF Live Team Leader:**
 	> TBD
 
-- ![tournament.png](/cos-icons/tournament.png) **Tournament Team Leader:** 
+- **Tournament Team Leader:** 
 	>	**Swkoll**
   
-- ![matchmaker.png](/cos-icons/matchmaker.png) **Matchmaking Team Leader:** 
+- **Matchmaking Team Leader:** 
 	>	**Archsimkat**
 
-- ![balance.png](/cos-icons/balance.png) **Balance Team Leader:** 
+- **Balance Team Leader:** 
 	>	**Tagada**
 
-- ![game.png](/cos-icons/game.png) **Games Team Leader:** 
+- **Games Team Leader:** 
 	>	**Jip**
 
-- ![creative.png](/cos-icons/creative.png) **Creative Team Leader:** 
+- **Creative Team Leader:** 
 	>	**Balthazar**
 
-- ![moderation.png](/cos-icons/moderation.png) **Moderation Team Leader:**
+- **Moderation Team Leader:**
 	>	**Giebmasse**
 
-- ![devops.png](/cos-icons/devops.png) **DevOps Team Leader:** 
+- **DevOps Team Leader:** 
 	>	**Brutus5000**
   
 - **Campaign Team Leader**
