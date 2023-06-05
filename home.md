@@ -2,7 +2,7 @@
 title: Home
 description: Landing Page of the Wiki
 published: true
-date: 2023-06-05T12:33:46.620Z
+date: 2023-06-05T12:38:33.379Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -13,9 +13,9 @@ dateCreated: 2021-08-31T09:44:13.010Z
 # Getting Started
 If you're new to FAF and need help, here are some good introductory resources:
 
-- [New To FAF *Start here for help*](https://wiki.faforever.com/en/Learning/New-To-FAF)
-- [Windows Installation *How to get FAF working on Windows*](https://wiki.faforever.com/en/Windows-Install)
-- [Linux Installation *How to get FAF working on Linux*](https://wiki.faforever.com/en/Linux-Install)
+- [New To FAF *Start here for help*](https://wiki.faforever.com/en/Play/Learning/New-To-FAF)
+- [Windows Installation *How to get FAF working on Windows*](https://wiki.faforever.com/en/Play/Windows-Install)
+- [Linux Installation *How to get FAF working on Linux*](https://wiki.faforever.com/en/Play/Linux-Install)
 {.links-list}
 
 
