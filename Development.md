@@ -2,7 +2,7 @@
 title: Development
 description: 
 published: true
-date: 2023-06-05T11:53:02.435Z
+date: 2023-06-05T12:06:59.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T11:37:27.777Z
@@ -22,7 +22,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 - [FAF Development *Development for FAF*](https://wiki.faforever.com/en/Development/Game-Development/FAF-Development)
 {.links-list}
 
-# Map Development
+# Mapping
 
 - [Adaptive Mapping Guide Updated 2021 *An up-to-date guide on how to make adaptive maps*](https://wiki.faforever.com/en/Development/Mapping/Adaptive-Mapping-2021)
 - [Adaptive Maps *An overview of adaptive maps, the features of the script, and the setup required.*](https://wiki.faforever.com/en/Development/Mapping/Adaptive-Maps)
@@ -43,31 +43,39 @@ If you're new to FAF and need help, here are some good introductory resources:
 {.links-list}
 
 
+# Modding
 
-# Mod Development
-
-- [Modding *How to create a mod*](https://wiki.faforever.com/en/Modding)
-- [FAF Development *How FAF Dev works*](https://wiki.faforever.com/en/FAF-Development)
-- [Blueprints *The primary files containing unit stats*](https://wiki.faforever.com/en/Blueprints)
-- [Blueprint Weapons *How to set up unit weapons in blueprints*](https://wiki.faforever.com/en/Blueprints/Weapon)
-- [Creating Models *How to create new models*](https://wiki.faforever.com/en/Creating-models)
-- [AI Modding *Creating new AI*](https://wiki.faforever.com/en/AI-Modding)
+- [Blueprints *A blueprint is a file within Supreme Commander that describes a unit*](https://wiki.faforever.com/en/Development/Modding/Blueprints)
+- [Creating Models *Specs for Sup Com models*](https://wiki.faforever.com/en/Development/Modding/Creating-models)
+- [FA Lua Globals *.*](https://wiki.faforever.com/en/Development/Modding/LUAGLOBALS)
+- [LUADOC 1.5.3599 *.*](https://wiki.faforever.com/en/Development/Modding/LUADOC)
+- [Mod Test Loop *.*](https://wiki.faforever.com/en/Development/Modding/Mod-test-loop)
+- [ModBootstrap mod *A sample mod for developers*](https://wiki.faforever.com/en/Development/Modding/ModBootstrap-mod)
+- [Modding *.*](https://wiki.faforever.com/en/Development/Modding/Modding)
+- [Modding Emitters *.*](https://wiki.faforever.com/en/Development/Modding/Modding_Emitters)
+- [Shaders *.*](https://wiki.faforever.com/en/Development/Modding/Shaders)
+- [Tips for Modding Efficiently *How to set up an efficient cycle for rapid development.*](https://wiki.faforever.com/en/Development/Modding/Tips-for-Modding-Efficiently)
+- [Weapons in Blueprints *.*](https://wiki.faforever.com/en/Development/Modding/Weapon)
 {.links-list}
 
-# Additional Information
 
-- [Glossary *FAF terms and abbreviations*](https://wiki.faforever.com/en/Glossary)
-- [Patchnotes *Lists of changes made in FAF's patches to FA*](https://wiki.faforever.com/en/patchnotes)
-- [Changes From Steam *FAF's changes compared to the Steam version of the game*](https://wiki.faforever.com/en/Changes-from-steam)
-- [Bug Reporting & Testing *How to properly report bugs and test them*](https://wiki.faforever.com/en/Bug-Reporting-and-Testing)
-- [Clans *Create or join a clan*](https://wiki.faforever.com/en/Clans)
-- [Casts & Livestreams *List of casters and streamers*](https://wiki.faforever.com/en/Casts&Livestreams)
-- [Tournaments *List of previous tournaments*](https://wiki.faforever.com/en/Tournaments)
-- [Game Modifications *Mods that are integrated into FAF*](https://wiki.faforever.com/en/Game-Modifications-(Mods))
-- [Live Replay Sever & Replays *Learn more about replays*](https://wiki.faforever.com/en/LiveReplay-server-and-replays)
-- [Voice Chat *Voice chats the community uses*](https://wiki.faforever.com/en/Voicechat-(Discord))
-- [Custom AI *Details of custom AI available on FAF and how to play with them*](https://wiki.faforever.com/en/Custom-AIs)
-- [Bots *List of the bots FAF uses*](https://wiki.faforever.com/en/Bots)
-- [Connect To IRC *How to connect to the Aeolus IRC*](https://wiki.faforever.com/en/Chat-IRC-server)
-- [League System *New ranking system*](https://wiki.faforever.com/en/league-system)
+# Tutorial Development
+
+- [FAF Tutorials *.*](https://wiki.faforever.com/en/Development/Tutorials/Tutorials)
+{.links-list}
+
+
+# Vault Regulations
+
+- [Vault Guidelines *Under Constuction*](https://wiki.faforever.com/en/Development/Vault/Vault-Guidelines)
+- [Vault Rules *The current rules for both the map and mod vaults.*](https://wiki.faforever.com/en/Development/Vault/Vault-Rules)
+{.links-list}
+
+
+# Other
+
+- [FAF Dev School Client *.*](https://wiki.faforever.com/en/Development/FAF-Dev-School-Client)
+- [FAF Dev School Git *.*](https://wiki.faforever.com/en/Development/FAF-Dev-School-Git)
+- [NVIDIA Control Panel tweaking *Documents various tweaks you can apply through the NVIDIA Control Panel*](https://wiki.faforever.com/en/Development/nvidia-settings)
+- [Theming *Change how the client looks*](https://wiki.faforever.com/en/Development/Theming)
 {.links-list}
