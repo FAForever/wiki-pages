@@ -2,7 +2,7 @@
 title: Home
 description: Landing Page of the Wiki
 published: true
-date: 2023-06-03T20:54:41.533Z
+date: 2023-06-05T09:51:03.956Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -13,7 +13,7 @@ dateCreated: 2021-08-31T09:44:13.010Z
 # Getting Started
 If you're new to FAF and need help, here are some good introductory resources:
 
-- [New To FAF *Start here for help*](https://wiki.faforever.com/en/New-To-FAF)
+- [New To FAF *Start here for help*](https://wiki.faforever.com/en/Learning/New-To-FAF)
 - [Windows Installation *How to get FAF working on Windows*](https://wiki.faforever.com/en/Windows-Install)
 - [Linux Installation *How to get FAF working on Linux*](https://wiki.faforever.com/en/Linux-Install)
 {.links-list}
@@ -24,7 +24,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 - [How To Play FAF & Get Better *Guides for all skill levels*](https://wiki.faforever.com/en/Learning-SupCom)
 - [Rules *Rules for all FAF services*](https://wiki.faforever.com/en/FAF-Rules)
 - [Vault Rules *Rules for uploading maps and mods to the vault*](https://wiki.faforever.com/en/Vault-Rules)
-- [FAF Teams *Learn more about the teams that run FAF*](https://wiki.faforever.com/en/FAF-Teams)
+- [FAF Teams *Learn more about the teams that run FAF*](https://wiki.faforever.com/en/Teams/FAF-Teams)
 {.links-list}
 
 # FAF Client
