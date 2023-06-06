@@ -2,7 +2,7 @@
 title: Home
 description: Landing Page of the Wiki
 published: true
-date: 2023-06-06T11:57:42.375Z
+date: 2023-06-06T12:01:58.734Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -32,6 +32,5 @@ If you're new to FAF and need help, here are some good introductory resources:
 
 - [Creation & Development *Everything to do with developing, mapping, and modding for FAF*](https://wiki.faforever.com/en/Development)
 - [FAQ *Frequently Asked Questions*](https://wiki.faforever.com/en/FAQ)
-- [Infrastructure *Evrything to do with developing for FAF*](https://wiki.faforever.com/en/Development)
 - [Play *All the information for how to play the game*](https://wiki.faforever.com/en/Development)
 {.links-list}
