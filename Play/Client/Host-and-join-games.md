@@ -2,7 +2,7 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2023-06-08T05:41:20.789Z
+date: 2023-06-08T05:41:37.372Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -19,7 +19,7 @@ Remember, you need to start the game through this client for all the improvement
 
 ![game-panel.png](/game-panel.png)
 If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
-Coop Campaign missions can be hosted at the [Co-Op](/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/tmm) Tab.
+Coop Campaign missions can be hosted at the [Co-Op](https://wiki.faforever.com/en/Play/Client/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/tmm) Tab.
 
 ## Game Modes
 - Matchmaker
