@@ -2,7 +2,7 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2023-06-08T05:36:48.838Z
+date: 2023-06-08T05:41:20.789Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -36,7 +36,7 @@ This is how most games are played - simply double click on a game which you like
 - **FAF Development** - This is the Experimental branch for testing new Game updates & features.
 
 ### Co-Op Campaign & Custom Missions
-To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [Coop Missions](/Coop-Missions) page.
+To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [Coop Missions](https://wiki.faforever.com/en/Play/Client/Coop-Missions) page.
 
 ### Playing With AI
 In addition to the AI that are available in FAF by default, there are a number of advanced custom AI which can provide various gameplay experiences and offer a significant increase in challenge over the default AI - this [article provides further detail of the custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) available on FAF and how to play using them.
