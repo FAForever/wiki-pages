@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2023-05-29T13:21:25.559Z
+date: 2023-06-10T20:11:01.988Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -46,7 +46,7 @@ You can check out [these helpful resources](https://wiki.faforever.com/en/Learni
 You can join the [FAF Discord](https://discord.gg/hgvj6Af) and talk with people there (you can also message people via the [FAF forums](https://forum.faforever.com) and via the FAF client). A lot of people check the FAF Discord frequently. So, if you join one of the general voice channels on there, you'll likely get some company in not too long. You can also ask people in-game or in-lobby with you if they want to talk on Discord. People often say yes.
 
 ## How can I get help?
-You can check out the [help section](https://forum.faforever.com/category/4/i-need-help) of the forums, or ask for help on the [FAF Discord](https://discord.gg/hgvj6Af) in either the [#technical-help channel](https://discord.gg/rvfaGTpNbK) (for technical problems) or in the [#training channel](https://discord.gg/VzZgSZFwuX) (for gameplay questions, finding trainers, and improving at FAF).
+You can check out the [help section](https://forum.faforever.com/category/4/i-need-help) of the forums, or ask for help on the [FAF Discord](https://discord.gg/hgvj6Af) in either the [tech-support-foruml](https://discord.gg/rbXwm8BZAt) (for technical problems) or in the [#training channel](https://discord.gg/VzZgSZFwuX) (for gameplay questions, finding trainers, and improving at FAF).
 
 ## How is FAF different from Steam's version of SC:FA?
 FAF provides integrated mod support, [better AI's](https://wiki.faforever.com/en/Custom-AIs), multiplayer campaign missions, community services, a matchmaking service, easy access to thousands of new maps, the ability to have games with up to 16 players, a random map generator, a lot of lag reduction, bugfixes, QoL improvements, and improved game balance.  To learn more, you can read [this more detailed explanation](https://wiki.faforever.com/en/Changes-from-steam).
