@@ -2,7 +2,7 @@
 title: Creation & Development
 description: 
 published: true
-date: 2023-06-06T11:59:10.583Z
+date: 2023-06-16T08:00:13.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T11:37:27.777Z
@@ -67,8 +67,8 @@ If you're new to FAF and need help, here are some good introductory resources:
 
 # Vault Regulations
 
-- [Vault Guidelines *Under Constuction*](https://wiki.faforever.com/en/Development/Vault/Vault-Guidelines)
-- [Vault Rules *The current rules for both the map and mod vaults.*](https://wiki.faforever.com/en/Development/Vault/Vault-Rules)
+- [Vault Guidelines *Under Constuction*](/en/Development/Vault/Guidelines)
+- [Vault Rules *The current rules for both the map and mod vaults.*](/en/Development/Vault/Rules)
 {.links-list}
 
 
