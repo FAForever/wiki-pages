@@ -2,13 +2,13 @@
 title: Vault Rules
 description: The current rules for both the map and mod vaults.
 published: true
-date: 2023-05-08T19:08:43.752Z
+date: 2023-06-16T07:57:51.218Z
 tags: modding, mapping, rules
 editor: markdown
 dateCreated: 2021-12-12T09:46:02.410Z
 ---
 
-These are the current vault rules. Violations will result in the uploader being sanctioned and the content being hidden. Content may also be hidden for violating the [vault guidelines](/en/Vault-Guidelines).
+These are the current vault rules. Violations will result in the uploader being sanctioned and the content being hidden. Content may also be hidden for violating the [vault guidelines](/en/Development/Vault/Guidelines).
 
 ## Rules overview:
 
