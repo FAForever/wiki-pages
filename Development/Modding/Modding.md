@@ -2,7 +2,7 @@
 title: Modding
 description: 
 published: true
-date: 2023-06-19T10:11:47.145Z
+date: 2023-06-19T10:12:21.003Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -30,8 +30,8 @@ See also [Tips for Modding Efficiently](/Development/Modding/Tips-for-Modding-Ef
 - You can use the default hotkey F9 to open the live LOG in your game, and use LOG(text), SPEW(text) or WARN(text) in your code to print to it
 
 ### Lua Information
-- Here you can find a bunch of Functions in this [LUCADOC](/Modding/LUADOC)
-- Here are some more Lua Global Functions [Lua.Globals](/Modding/LUAGLOBALS)
+- Here you can find a bunch of Functions in this [LUCADOC](/Development/Modding/LUADOC)
+- Here are some more Lua Global Functions [Lua.Globals](/Development/Modding/LUAGLOBALS)
 
 ### Differences to default LUA
 
