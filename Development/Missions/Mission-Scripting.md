@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2023-06-19T10:01:23.398Z
+date: 2023-06-19T10:08:47.199Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -196,7 +196,7 @@ You can test your mission offline, which allows restarting and even saving, so i
 
 `C:\ProgramData\FAForever\bin\`
 
-You can create a shortcut on your desktop of that executable, go into its properties (right click) and change the target to include a [command line switch](/Command-Line-Switches):
+You can create a shortcut on your desktop of that executable, go into its properties (right click) and change the target to include a [command line switch](/Development/Game-Development/Command-Line-Switches):
 `ForgedAlliance.exe /init init_coop.lua`
 - Make sure you have the Coop patch downloaded if it's different from FAF patch - to do this simply host a coop game.
 - You don't need to restart FA each time you modify a script. You can just restart the map inside FA.
@@ -215,7 +215,7 @@ Game uses this file to get basic information about the map. Name, path to other 
 - **map_version** - Version of the mission, set this to 1, it is used by the server when updating the missions in coop tab.
 - **norushradius** - Set this to 0, it is used for skirmish maps, but the Map Editor needs this value else it will crash during loading
 
-All armies have to be listed here. This part is created once [Games configuration](/GPG-Map-Editor#create-armies) is set in Map
+All armies have to be listed here. This part is created once [Games configuration](/Development/Mapping/GPG-Map-Editor#create-armies) is set in Map
 Editor. Example:
 ```lua
 Configurations = {`
@@ -233,14 +233,14 @@ Configurations = {`
 One coop addition that you find here is the table with available factions per spot, this restricts the lobby and offers the player to pick only from the factions you specify here. There are 4 tables with **'uef**' as Prothyon mission is for 4 players and it's UEF only.
 
 ## Save
-This file contains all data about armies and markers that was created in the [Map Editor](/GPG-Map-Editor).
+This file contains all data about armies and markers that was created in the [Map Editor](/Development/Mapping/GPG-Map-Editor).
 ![armies.png](/images/mapping/armies.png){.align-right}
 
 ### Alliances
 Alliances among armies can be changed in Armies tab by clicking on the army you want to edit. They need to be set for every army. By default all alliances are set to **Neutral**.
 
 ### AI Faction
-You also need to set AI faction here else AI won't do anything in it's base. Since [Map Editor](/Map-Editor) is from vanilla times it supports only original factions. If your AI is Seraphim, you will have to edit **save.lua** file, open it and find Seraphim army and change the value.
+You also need to set AI faction here else AI won't do anything in it's base. Since [Map Editor](/Development/Mapping/GPG-Map-Editor) is from vanilla times it supports only original factions. If your AI is Seraphim, you will have to edit **save.lua** file, open it and find Seraphim army and change the value.
 ```lua
 faction = 3,
 ```
@@ -409,7 +409,7 @@ This doesn't need to be used just for experimentals but for any group of unit th
 
 #### Setting up AI
 
-If we've already [created AI](/Mission-Scripting#creating-ai), now is the time to activate it for the first mission. We need to import it's file at the beginning of the script,
+If we've already [created AI](/Development/Missions/Mission-Scripting#creating-ai), now is the time to activate it for the first mission. We need to import it's file at the beginning of the script,
 ```lua
 local M1UEFAI = import('/maps/Prothyon16_DEMO/Prothyon16_DEMO_m1uefai.lua')
 ```
@@ -425,7 +425,7 @@ ArmyBrains[UEF]:GiveResource('ENERGY', 6000)
 ```
 #### Cheat Economy/Build power
 
-AI that is used in missions has already set buff for build power. It was 2x more build power on factories and 3x more build power on engineers. This is causing AI to use much more resources. Good way how to add more resources to AI the code below that allow are to multiply mass and energy income as much as we want. It can be set for every AI differently and changed during mission. You can ask why should be AI allowed to have more economy than player? The answer is simple, AI can't use resources efficiently so it needs to have more than player to be able to give a challenge. As you will learn in [Creating AI](/Mission-Scripting#creating-ai) part, everything AI builds are just scripted, predefined attacks, using marker chains we defined. AI can react to certain situations we add, but it will never be as good as player.
+AI that is used in missions has already set buff for build power. It was 2x more build power on factories and 3x more build power on engineers. This is causing AI to use much more resources. Good way how to add more resources to AI the code below that allow are to multiply mass and energy income as much as we want. It can be set for every AI differently and changed during mission. You can ask why should be AI allowed to have more economy than player? The answer is simple, AI can't use resources efficiently so it needs to have more than player to be able to give a challenge. As you will learn in [Creating AI](/Development/Missions/Mission-Scripting#creating-ai) part, everything AI builds are just scripted, predefined attacks, using marker chains we defined. AI can react to certain situations we add, but it will never be as good as player.
 
 In order to use this buff we need to import file with buff definitions at the beginning of the script
 ```lua
@@ -467,7 +467,7 @@ ScenarioFramework.AddRestriction(army, categories.TECH2 + categories.TECH3 +
 ```
 - **army** - Army that will be restricted.
 - **categories.TECH2** - Units we are restricting.
-- Check the [list of all categories](/Mission-Scripting#categories).
+- Check the [list of all categories](/Development/Missions/Mission-Scripting#categories).
 	- We can restrict whole unit groups that has something in common using one of these categories or specific units, using unit IDs
 - Using this code you can restrict units for AI as well
 	- Usually you don't need to put restrictions to AI since it builds only units you specify, but it is usefull if you don't want AI to build lower tech engineers for example.
@@ -487,7 +487,7 @@ To restrict ACU upgrades there is this function:
 ```lua
 ScenarioFramework.RestrictEnhancements({})
 ```
-- It's a table with all upgrades we want to restrict. [Full list here](/Mission-Scripting#enhancements).
+- It's a table with all upgrades we want to restrict. [Full list here](/Development/Missions/Mission-Scripting#enhancements).
 - To unlock ACU upgrades, set new restriction without those upgrades that you want to allow.
 
 #### Other Things
@@ -496,7 +496,7 @@ We can set here camera angle so it doesn't start all the way zoomed out, reveali
 ```lua
 Cinematics.CameraMoveToMarker('Cam_1_1', 0)
 ```
-- For this to work we need to import Cinematics file, more info in [Cinematic Intro](/Mission-Scripting#cinematic-intro)
+- For this to work we need to import Cinematics file, more info in [Cinematic Intro](/Development/Missions/Mission-Scripting#cinematic-intro)
 
 Last thing to do is to set which function will follow, if we didn't spawn ACU yet, we can do it during cinematics or after first objective is assigned. In our example next function is **IntroMission1NIS**. But before we get there we need to set what will happen at the end of the game.
 
@@ -517,7 +517,7 @@ end
 - It calls a function from **ScenarioFramework** with a same name using 2 parameters.
 	- **commander** - the unit that is dying, it uses it's position to rotate the camera around it.
 	- **OpStrings.PlayerDies1** - the dialogue that will be played.
-- For this to work you also need to set this function to be called when the ACU dies, you can do that when [spawning the ACU](/Mission-Scripting#spawning-acus)
+- For this to work you also need to set this function to be called when the ACU dies, you can do that when [spawning the ACU](/Development/Missions/Mission-Scripting#spawning-acus)
 
 Everything else is handeled by the funcion and after the dialogues finished it will show the "Operation Failed" pop up to quit.
 
@@ -563,7 +563,7 @@ ScenarioFramework.SetPlayableArea('M1_Area', false)
 
 #### Camera Info Markers
 
-Setting camera angle is happening in [map editor](/GPG-Map-Editor).
+Setting camera angle is happening in [map editor](/Development/Mapping/GPG-Map-Editor).
 - Select Markers layer and place **Camera Info Marker** anywhere on the map.
 - Rotate view by holding **ALT + Middle Mouse Button**
 - Once you have angle ready, right click on the **Camera Info Marker** in the markers list and select **Set Orientation**
@@ -616,7 +616,7 @@ Cinematics.CameraMoveToMarker(ScenarioUtils.GetMarker('Cam_1_2'), 15)
 ```
 - **'Cam_1_2**' - Marker to move camera to.
 - **15** - Travel time to this marker in seconds.
-- [Voice Overs](/Mission-Scripting#voice-overs) can be placed here.
+- [Voice Overs](/Development/Missions/Mission-Scripting#voice-overs) can be placed here.
 
 After the last Camero Info marker we need to leave cinematics:
 ```lua
@@ -771,7 +771,7 @@ ScenarioInfo.M1P1:AddResultCallback(
     end
 )
 ```
-- [Voice over](/Mission-Scripting#voice-overs) that will tell us we finished objective and move us to another mission.
+- [Voice over](/Development/Missions/Mission-Scripting#voice-overs) that will tell us we finished objective and move us to another mission.
 
 ### Player's Choice
 
@@ -807,7 +807,7 @@ each mission.
 
 ### Things to do in Map Editor
 
-We need to use [Map Editor](/GPG-Map-Editor) to design base and set up markers and chains AI will use. Lets start with base template
+We need to use [Map Editor](/Development/Mapping/GPG-Map-Editor) to design base and set up markers and chains AI will use. Lets start with base template
 
 #### Base template
 
@@ -1036,7 +1036,7 @@ end
 	- **'M1_West_Base_Marker**' - Marker in save file. AI will use  only factories, and send units, that are around this marker in radius we set as next.
 	- **40** - Radius around our marker in game units.
 		- Radius of base markers **should not be overlapping!**
-		- **{M1_WestBase = 100}** - Name of unit group as we wrote in [Map Editor](/Map-Editor) / save.lua file and priority AI will rebuild buildings with.
+		- **{M1_WestBase = 100}** - Name of unit group as we wrote in [Map Editor](/Development/Mapping/GPG-Map-Editor) / save.lua file and priority AI will rebuild buildings with.
 - Second line starts the base
 	- **StartNonZeroBase** - Means that base will spawn, all units that are in ***M1_WestBase*** group. 
 		- **StarEmptyBase** - If you want this base to be build later by other base manager.
@@ -1046,7 +1046,7 @@ end
 - Next 3 lines will activates some base functionality that are  disabled by default.
 - This base was designed so only bigger part of it is spawned *(M1_WestBase)* and rest is build during missions.
 		- **AddBuildGroup** - adds group created in map editor to base manager
-			- **'M1_WestBaseExtended**' - Name of the group as it is in [Map Editor](/Map-Editor) / save.lua file.
+			- **'M1_WestBaseExtended**' - Name of the group as it is in [Map Editor](/Development/Mapping/GPG-Map-Editor) / save.lua file.
 			- **90** - priority
 			- **false** - This means that the group will not be spawned at the beginning. Use ***true*** if you want this group spawned from the beginnig.
 - Last lines are for functions that will assembly attacks.
@@ -1279,7 +1279,7 @@ Lua files with all build conditins available are in this folder:
 
 ##### Custom Unit Platoons
 
-In our custom template we can set as many unit types and unit count as we want. We will need to know ID's of the units so [Unit Database](/Unit-Database) will come in handy.
+In our custom template we can set as many unit types and unit count as we want. We will need to know ID's of the units so [Unit Database](/Play/Client/Unit-Database) will come in handy.
 ```lua
    Temp = {
        'NavalAttackTemp2',
@@ -1325,7 +1325,7 @@ In our custom template we can set as many unit types and unit count as we want. 
 		- **PlatoonType = 'Sea**' - Specify factory type that this template should be sent it.
     	- Other types are **Land, Air, Gate**
 		- **RequiresConstruction = true,** - True since we need the platoon to be built by AI.
-		- **LocationType = 'SouthNavalBase**' - Name of our base as it is in [Map Editor](/Map-Editor) / save.lua file.
+		- **LocationType = 'SouthNavalBase**' - Name of our base as it is in [Map Editor](/Development/Mapping/GPG-Map-Editor) / save.lua file.
 		- **BuildConditions** - This is optional if we want the platoon to be built only if certain conditions are met.
 - On last line our custom platoon will get finally assembled
 		- **ArmyBrains\[UEF\]** - Army that will use this template
@@ -1502,13 +1502,13 @@ This part will contain mistakes that are made quite often, example warning in th
          ...ments\github\fa\lua\ai\aiarchetype-managerloader.lua(52): in function `ExecutePlan' 
          ...users\multimedia\documents\github\fa\lua\aibrain.lua(712): in function `ExecutePlan' 
 ```
-**Solution:** [Set AI Plan for each army](/Mission-Scripting#ai-plan)
+**Solution:** [Set AI Plan for each army](/Development/Missions/Mission-Scripting#ai-plan)
 
 ### AI not building any units
 
 If you managed to spawn a base with BaseManager, engineers are assisting factories, patrol in the base, but the base is not producing any units that it should.
 
-**Solution:** [Set Faction for AI Army](/Mission-Scripting#ai-faction)
+**Solution:** [Set Faction for AI Army](/Development/Missions/Mission-Scripting#ai-faction)
 
 ### Syntax Error
 ```lua
