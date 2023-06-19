@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T23:20:34.787Z
+date: 2023-06-19T23:30:33.751Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -65,7 +65,7 @@ The GPG-Editor REMOVES the `reclaim` value from `_scenario.lua`. The `reclaim` v
 ### 2.1.3 FAF-Editor {#sec-2-1-3}
 The FAF-Editor can read and save Supreme Commander `v56` and Forged Alliance `v60` map versions.
 
-> **Note:**FAF-Editor can be used to save a `v60` map in `v56` format to be able to edit the map in the GPG-Editor. Keep in mind that the `skybox` and other content gets lost while re-saving a `v60` map as `v56` format.
+> **Note:** FAF-Editor can be used to save a `v60` map in `v56` format to be able to edit the map in the GPG-Editor. Keep in mind that the `skybox` and other content gets lost while re-saving a `v60` map as `v56` format.
 
 **FAF content**
 The FAF-Editor includes the latest FAF changes.
