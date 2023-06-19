@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:26:51.651Z
+date: 2023-06-19T09:27:12.907Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -555,7 +555,7 @@ Wreckage is created in the same way as civilians. In **ARMY_9**, create a new gr
 
 ## Last things to do
 
-Before uploading your map in [vault](/Play/Client/Map-&-Mod-Vault/Map-Vault#map-vault) make sure everything is working. Launch your map in skirmish. Take a look at these things:
+Before uploading your map in [vault](/Play/Client/Map-&-Mod-Vault#map-vault) make sure everything is working. Launch your map in skirmish. Take a look at these things:
 - Auto-teams are working correctly
 	- If not, have a look at [Start Markers](/Development/Mapping/GPG-Map-Editor#create-start-markers)
 - All player are spawned
