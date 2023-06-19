@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2023-06-19T10:15:04.746Z
+date: 2023-06-19T10:15:12.342Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -81,7 +81,7 @@ There are lots of starting points for new developers:
 ## Other
 
 Resources for working on FA modding (the game code):
-- [Modding hints](/Modding)
+- [Modding hints](/Development/Modding/Modding)
 
 - [AI Modding](/AI-Modding)
 
