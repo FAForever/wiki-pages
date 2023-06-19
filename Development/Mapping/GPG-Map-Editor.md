@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:19:50.970Z
+date: 2023-06-19T09:20:44.240Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -185,11 +185,11 @@ Name your map whatever you would like. This guide will refer to it as Summer Due
 ## Export / Import
 
 The map editor is able to export and import different parts of the map. In order to do so open the map you want the things to export from or import to. In the top toolbar click on **File** then **Export / Import** and you have 5 options: 
-- Decals - all [Decals](/Map-Editor#adding-decals) that are on the map.
-- Props - all [Props](/Map-Editor#placing-props) that are on the map.
-- Lightning - [Lighting](/Map-Editor#lighting) settings.
-- Water - [Water](/Map-Editor#water) settings.
-- Theme - [Theme](/Map-Editor#texturing) of the map, all strata settings.
+- Decals - all [Decals](/Development/Mapping/GPG-Map-Editor#adding-decals) that are on the map.
+- Props - all [Props](/Development/Mapping/GPG-Map-Editor#placing-props) that are on the map.
+- Lightning - [Lighting](/Development/Mapping/GPG-Map-Editor#lighting) settings.
+- Water - [Water](/Development/Mapping/GPG-Map-Editor#water) settings.
+- Theme - [Theme](/Development/Mapping/GPG-Map-Editor#texturing) of the map, all strata settings.
 	- heme exporting is slightly broken, read below how to fix it.
 
 It will ask you to save a new Lua file. Name it whatever you want.
