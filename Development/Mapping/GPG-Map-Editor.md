@@ -2,14 +2,14 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-08T21:27:09.860Z
+date: 2023-06-19T09:19:50.970Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
 ---
 
 ![editor_splash.png](/images/gpgmapeditor/editor_splash.png){.align-right}
-Welcome! This guide will take you step-by-step through the creation of maps for Forged Alliance Foverer, shown on a small 1v1 map entitled Summer Duel. Before you continue reading, please ensure you have all the necessary tools and everything set up: [Map Editing Tools](/Map-Editing-Tools)
+Welcome! This guide will take you step-by-step through the creation of maps for Forged Alliance Foverer, shown on a small 1v1 map entitled Summer Duel. Before you continue reading, please ensure you have all the necessary tools and everything set up: [Map Editing Tools](/Development/Mapping/Map-Editing-Tools)
 
 If you’ve already taken a look at the Supreme Commander map editor, you’re probably a little confused. At first glance it doesn’t seem like there is a whole lot there. You’ve also probably noticed that there isn’t quite as much polish as Supreme Commander itself. This is because the tool was first built for internal use. Don’t let that get you down! This is the same editor that GPG uses at their studio. We are very lucky to have access to it. Everything you need to create rich maps like the ones that shipped with the game can be found in the editor, once you get used to it.
 
@@ -23,7 +23,7 @@ By CookieNoob [here,](https://www.youtube.com/watch?v=VVxEhCuc53g&feature=youtu.
 
 #### Map Location
 
-All maps downloaded from the [Map Vault](/Map-&-Mod-Vault#map-vault) or created via [FAF Map Editor](/FA-Forever-Map-Editor) are in this folder:
+All maps downloaded from the [Map Vault](/Play/Client/Map-&-Mod-Vault) or created via [FAF Map Editor](/Development/Mapping/FA-Forever-Map-Editor) are in this folder:
 `C:\Users\%UserName%\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\maps\`
 
 The original GPG Map Editor sees only maps inside vanilla Supreme Commander maps folder. If you want to edit already existing map via GPG Map Editor, copy it there.
@@ -167,7 +167,7 @@ Map sizes:
 - **Use existing map:** You can create a new map based off of another map. For instance, if you wanted to modify Sentry Point to remove the civilians, you could fill in the Map File field with the path to Sentry Point. This is effectively the same as opening a map and saving it with a different name.
 - **Create new map:** Starts a new, completely blank map. Selecting this will allow you to check and uncheck the Water field.
 - **Width/Height:** Size of the map in game units. A 5x5 km map is 256x256 game units wide.
-	- You don't need to make square maps. Either select different Width/Height here, or later you can set [playable area](/Map-Editor#defining-gameplay-areas) so map is cut.(Example Winter Duel)
+	- You don't need to make square maps. Either select different Width/Height here, or later you can set [playable area](/Development/Mapping/GPG-Map-Editor#defining-gameplay-areas) so map is cut.(Example Winter Duel)
 - **Initial Elev.:** How high the default terrain is. A good number is usually 64. Very low or very high initial elevations may cause problems later on when you are editing your heightmap.
 - **Water:** Enables or disables water. If you don't plan to have the water on your map, disable it, else it can cause some problems with zooming in the game.
 - **Water Elev./Deep Elev./Abyss Elev.:** The threshold values for rendering water. If the heightmap is below these values, the appropriate type of water will be rendered. It is important to keep these in mind if you are designing a map with water. (These values can be changed later in Water Layer - ![properties_icon.png](/images/gpgmapeditor/properties_icon.png) Edit Water Properties)
@@ -178,7 +178,7 @@ Name your map whatever you would like. This guide will refer to it as Summer Due
 
 ### Working Map Preview
 
-[Map Vault](/Map-&-Mod-Vault#map-vault) automatically generates preview images for you, if you wish to have a working preview, there are two key things you must do.
+[Map Vault](/Play/Client/Map-&-Mod-Vault#map-vault) automatically generates preview images for you, if you wish to have a working preview, there are two key things you must do.
 - Do NOT host your map online, under the name you will upload it with, without it being in the vault (this will cause everyone online to generate a non working preview and hence when the map is uploaded to the vault, they will have no preview image for that map when it is hosted).
 - Delete any preview images in the folder before uploading. (this will ensure the preview is accurate and not of a previous version of the map).
 
