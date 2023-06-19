@@ -2,7 +2,7 @@
 title: Adaptive Mapping Guide Updated 2021
 description: an upto date guide on how to make adaptive maps
 published: true
-date: 2023-06-19T09:52:00.906Z
+date: 2023-06-19T09:52:05.096Z
 tags: mapping, adaptive, guide
 editor: markdown
 dateCreated: 2022-08-12T22:17:59.915Z
@@ -139,7 +139,7 @@ In this example we will create some defences between our players that you can ch
   	{ text = "<LOC adaptive_disabled> disabled", help="<LOC adaptive_civ_def_key_0_help> No civilian defenses.", key = 1, },
     { text = "<LOC adaptive_def_key_1> T1 Wrecks (PD+AA)" help="<LOC adaptive_civ_def_key_1_help> Spawn civilian T1 PD & AA Wrecks. Includes T1 Radar, T1 Power Generators & Energy Storage.", key = 2, },
     { text = "<LOC adaptive_def_key_2> T2 Wrecks (PD+TMD)" help="<LOC adaptive_civ_def_key_2_help> Spawn civilian T2 PD & TMD Wrecks in addition to T1.", key = 3, },
-        { text = "<LOC adaptive_def_key_3> T3 Wrecks (PD+AA)" help="<LOC adaptive_civ_def_key_3_help> Spawn civilian T3 PD & AA Wrecks in addtion to T1 & T2.", key = 4, },
+    { text = "<LOC adaptive_def_key_3> T3 Wrecks (PD+AA)" help="<LOC adaptive_civ_def_key_3_help> Spawn civilian T3 PD & AA Wrecks in addtion to T1 & T2.", key = 4, },
     { text = "<LOC adaptive_def_key_4> T1 operational (PD+AA)", help="<LOC adaptive_civ_def_key_4_help> Spawn operational civilian T1 PD & AA. Includes T1 Radar, T1 Power Generators & Energy Storage.", key = 5, },
     { text = "<LOC adaptive_def_key_5> T2 operational (PD+TMD)", help="<LOC adaptive_civ_def_key_5_help> Spawn operational civilian T2 PD & TMD in addition to T1.", key = 6, },
     { text = "<LOC adaptive_def_key_6> T3 operational (PD+AA)", help="<LOC adaptive_civ_def_key_6_help> Spawn operational civilian T3 PD & AA in addtion to T1 & T2.", key = 7, },
