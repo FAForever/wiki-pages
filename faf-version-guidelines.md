@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T23:30:33.751Z
+date: 2023-06-19T23:44:44.796Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -110,7 +110,7 @@ The file holds the following information:
 
 #### Individual Assets {#sec-2-2-1-1}
 
-Individual assets such as paths to prop or decal are hard-coded in the `.scmap` file. The path / version needs to be adapted, otherwise assets are missing or only loading when the original map is still in the` maps folder.
+Individual assets such as paths to prop or decal are hard-coded in the `.scmap` file. The path / version needs to be adapted, otherwise assets are missing or only loading when the original map is still in the maps folder.
 
 - **Changed map name / path**
   - Change path in map editor or replace asset
@@ -333,8 +333,8 @@ If the map issue doesn't dictate a specific `source` area or angle (e.g. remove 
 
 To prepare the discussion, one of the following steps is advisable:
 - Export `heightmap.raw` and create a 360° rotation/mirror video to discuss the `source` area or angle.
-    - Worldmachine Template
-- Create and test a few `source` area or angle options with the `MapTransformer` and compare the results.
+    - Worldmachine Template <span style="background-color: yellow">add</span>
+- Create and test a few `source` area or angle options on the correct `source`map version with the `MapTransformer` and compare the results.
     - Terrain issues at `source` area or angle.
     - Differences in `prop` count and `marker` placement, ...
 
