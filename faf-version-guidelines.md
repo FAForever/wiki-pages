@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T23:51:39.341Z
+date: 2023-06-19T23:57:53.428Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -488,7 +488,7 @@ The `MapTransformer` rotates and mirrors² map content based on the `symmetry` a
 > - The `symmetry` settings derive from the original map version.
 > - The `--all` option should be used to ensure a balanced `FAF version` map.
 > - The `MapTransformer` does not create AI markers / preserve connections.
-> - ² The `MapTransformer` is currently unable to mirror decals, see b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool) to mirror scmap content.
+> - ² The `MapTransformer` is currently unable to mirror decals, see b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool) to mirror `.scmap` content.
 
 #### Preparations & Usage
 
@@ -616,7 +616,7 @@ After using the `MapTransformer`, it's necessary to create a new map `preview` b
 
 > **Notes:**
 > - To preserve the original look of the map `preview`, it's recommended to save the `.scmap` file in the GPG-Editor `v56` map format (see [2.1.2](#sec-2-1-2)).
-> - If the map contains a skybox, it is a Forged Alliance `v60` map. In this case, it's recommended to save the `.scmap` file only in the FAF-Editor as `v60` map format. Otherwise, the skybox content will be lost (see [2.1.3](#sec-2-1-3)).
+> - If the map contains a `skybox`, it is a Forged Alliance `v60` map. In this case, it's recommended to save the `.scmap` file only in the FAF-Editor as `v60` map format. Otherwise, the `skybox` content will be lost (see [2.1.3](#sec-2-1-3)). All Forged Alliance maps contain a individual `skybox`.
 
 #### Heightmap (FAF-Editor)
 
