@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T22:22:31.122Z
+date: 2023-06-19T23:15:38.965Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -108,7 +108,7 @@ The file holds the following information:
 
 > **Note:** The only difference between `v56` and `v60` map formats is the content of the `.scmap` file. The other map files can be used across all map formats.
 
-#### Individual Assets
+#### Individual Assets {#sec-2-2-1-1}
 
 Individual assets such as paths to prop or decal are hard-coded in the `.scmap` file. The path / version needs to be adapted, otherwise assets are missing or only loading when the original map is still in the` maps folder.
 
@@ -322,9 +322,6 @@ Different units/structure placement and count between Supreme Commander `v56` an
 <span style="background-color: yellow">add image</span>
 
 
-
-## 3 Create FAF version {#sec-3}
-
 ### 3.2 Find Source Area / Angle {#sec-3-2}
 
 For a balanced `FAF version` of the map, it is crucial to correctly identify the `source` area or angle. The `source` marks the map content that will be used for the `FAF version` rework.
@@ -474,6 +471,295 @@ The `Editor Map Version` folder represents the work in progress as well as test 
 The `Master Map Version` folder is used to store, test and discuss final results and during the Map Upload Process. The `Master Map Version` should be placed in a separate project directory outside the FAF environment. The content of the `Master Map Version` will be updated by copying the tested necessary files (e.g. `.scmap` or `_save.lua`) from the `Editor Map Version` folder and replacing the files in the `Master Map Version` folder. This way, only relevant changes are transferred and the `Master Map Version` serves as a backup of the latest version of the map. It is not recommended to overwrite all files or to save the `Master Map Version` in a map editor, as this could result in unintended changes to the original content. Simply copy & replace `.scmap` if a new map preview was created / `_save.lua` if marker where changed (see [2.2](#sec-2-2)).
 
 > **Note:** The `_scenario.lua` content as well as the default quotation mark settings will be changed while using different map editors. It's good practice to finalize the `_scenario.lua` in the `Master Map Version` folder.
+
+
+### 3.5 Implement Source Area / Angle {#sec-3-5}
+
+After completing all the necessary preparation steps, it is now time to implement the `source` area or angle (see [3.2](#sec-3-2)).
+
+**Automating the implementation of the `source` area or angle using the `MapTransformer` by Sheikah is highly recommended. This ensures consistency and accuracy in the process, while also saving time and effort.** If you need to manually implement or recreate map assets, such as mirroring decals, refer to the documented steps at [3.5.2](#sec-3-5-2).
+
+### 3.5.1 Automated Rotation / Mirror* (MapTransformer) {#sec-3-5-1}
+
+The `MapTransformer` rotates and mirrors² map content based on the `symmetry` and `source` settings of the input map. Content that does not belong to the `source` gets deleted and repopulated according to the `symmetry` settings. Changes can be done separately or `--all` at once. The `MapTransformer` is currently a java command line tool.
+
+> **Notes:**  
+> - The `symmetry` settings derive from the original map version.
+> - The `--all` option should be used to ensure a balanced `FAF version` map.
+> - The `MapTransformer` does not create AI markers / preserve connections.
+> - ² The `MapTransformer` is currently unable to mirror decals, see b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool) to mirror scmap content.
+
+#### Preparations & Usage
+
+1. Install Java 17 (minimum requirement)
+2. In the directory where the `MapTransformer-17.jar` file is placed:
+   1. Create `TransformedMaps` folder
+   2. Create `InputMaps` folder
+   3. Place the map folder in the `InputMaps` folder
+3. Adjust the code examples to your desired `symmetry` and `source` area or angle
+4. Run terminal in the directory where the `MapTransformer-17.jar` file is placed
+5. Run code in terminal
+6. Open `TransformedMaps` to access the modified map
+
+#### Terminal options
+The options can be seen by running `java -jar MapTransformer-17.jar –help`.
+
+```
+--help		produce help message
+--in-folder-path arg	required, set the input folder for the map
+--out-folder-path arg	required, set the output folder for the transformed map
+--symmetry arg	required, set the symmetry for the map
+    • POINT2 - 180° rotation
+    • POINTN - 360°/N rotation
+    • X - mirror / flip
+    • Z - mirror / flip
+    • XZ - mirror / flip
+    • ZX - mirror / flip
+--source arg	required, set which half to use as base for forced symmetry
+    • ANGLE
+    • TOP
+    • BOTTOM
+    • LEFT
+    • RIGHT
+    • TOP_LEFT
+    • TOP_RIGHT
+    • BOTTOM_LEFT
+    • BOTTOM_RIGHT
+    • ALL
+
+--all		optional, force symmetry for all components
+--spawns		optional, force spawn symmetry
+--resources	optional, force mex symmetry
+--props		optional, force prop symmetry
+--decals		optional, force decal symmetry
+--wrecks		optional, force wreck symmetry
+--civilians		optional, force civilian symmetry
+--terrain		optional, force terrain symmetry
+--debug		optional, turn on debugging options
+```
+
+#### Rotation Code Examples
+```
+java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/setons_clutch_-_faf_version.v0001" --out-folder-path TransformedMaps --symmetry POINT2 --source 115 –all
+```
+```
+java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/the_ditch_-_faf_version.v0001" --out-folder-path TransformedMaps --symmetry POINT2 --source BOTTOM_LEFT –all
+```
+#### Mirror Code Example
+```
+java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/serenity_desert_small_-_faf_version.v0002" --out-folder-path TransformedMaps --symmetry ZX --source TOP_LEFT –all
+```
+
+
+### 3.5.2 Manual Rotation / Mirror {#sec-3-5-2}
+
+#### Preparations
+
+- Create rotation/mirror strata/layer mask of `source` area or angle for usage in map editor.
+- Create rotation/mirror setup for `source` area or angle in Worldmachine.
+
+#### Heightmap
+
+1. Export map `heightmap.raw`.
+2. Rotate/mirror and heightmap in Worldmachine, Image editing Software.
+   - Keep terrain issues at `source` area or angle axis in mind.
+3. Import rotated/mirrored `heightmap.raw`.
+
+#### Props (GPG-Editor)
+
+1. Import rotation/mirror mask of `source` area or angle as strata/layer in map editor.
+2. Delete props at opposite side of `source` area or angle.
+3. Export props.
+4. Import props.
+   - Set the correct angle (opposite of `source` area or angle) while importing.
+5. Realign props to terrain.
+   - Use `STRG+A` to select all props, then delete them and press `STRG+Z` to undo it.
+
+#### Marker (FAF-Editor)
+
+1. Import rotation/mirror mask of `source` area or angle as strata/layer in map editor.
+2. Set the correct symmetry in FAF-Editor. Select the marker on the `source` side and adjust the marker on the opposite side to the correct/marked position.
+
+#### Strata / Layer
+
+1. Export all map strata/layer.
+2. Rotate/mirror strata/layer in Worldmachine, Image editing Software.
+   - Keep coloring issues at `source` area or angle axis in mind.
+3. Import rotated/mirrored strata/layer.
+
+#### Decals (GPG-Editor)
+
+1. Import rotation/mirror mask of `source` area or angle as strata/layer in map editor.
+2. Delete decals at opposite side of `source` area or angle.
+3. Export decals.
+4. Import decals.
+   - Rotate manually to the correct angle (opposite of `source` area or angle) after import while the decals are still selected.
+
+> **Note:** Decals can currently only be mirrored with b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool).
+
+
+### 3.6 Polish Map Files Content {#sec-3-6}
+
+After implementing the `source` area or angle, it is necessary to polish the map files to eliminate issues and provide an up-to-date gaming experience.
+
+> **Note:** Issues could be introduced while implementing the `source` area or angle. Pay special attention to the rotation/mirror axis.
+
+
+### 3.6.1 .scmap {#sec-3-6-1}
+
+Also see [2.2.1](#sec-2-2-1).
+
+#### Map Preview (GPG-Editor)
+
+After using the `MapTransformer`, it's necessary to create a new map `preview` because the changes are based on the `source` area or angle and not on the correct perspective and lighting. Saving the map will overwrite the `.scmap` file and generate a new map `preview`.
+
+> **Notes:**
+> - To preserve the original look of the map `preview`, it's recommended to save the `.scmap` file in the GPG-Editor `v56` map format (see [2.1.2](#sec-2-1-2)).
+> - If the map contains a skybox, it is a Forged Alliance `v60` map. In this case, it's recommended to save the `.scmap` file only in the FAF-Editor as `v60` map format. Otherwise, the skybox content will be lost (see [2.1.3](#sec-2-1-3)).
+
+#### Heightmap (FAF-Editor)
+
+Check/fix terrain issues at the rotation/mirror axis of the `source` area or angle.
+- Example: The heightmap of [Forbidden Pass – FAF version](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/10) needed a terrain fix at the rotation line.
+
+#### Strata / Layer (FAF-Editor)
+
+Check/fix strata/layer mask issues at the rotation/mirror axis of the 'source' area or angle.
+
+- Example: The layer of [Forbidden Pass – FAF version](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/10) needed a strata/layer fix at the rotation line.
+
+#### Props
+
+Check/fix prop issues at the rotation/mirror axis of the 'source' area or angle.
+
+> **GPG-Editor Note:** If props need to be realigned to the terrain, follow step 3. If props need to be submerged and realigned to the terrain, follow steps 1-4:
+> 1. Make note of the current water level.
+> 2. Set the water level to `0`.
+> 3. Realign props to terrain.
+>    - Use `STRG+A` to select all props, then delete them and press `STRG+Z` to undo it.
+> 4. Set the water level to its original value.
+
+#### Decals (GPG-Editor)
+
+Check/fix decal issues at the rotation/mirror axis of the `source` area or angle.
+
+For a consistent visual experience, set the same `Cutoff Distance` value for all decals. This will ensure that they blend in and out at the same time. Use `STRG+A` to select all decals, then change the value according to map size:
+
+- 5 km = 1000
+- 10 km = 2000
+- 20 km = 3000
+- 40 km = 4000
+
+> **Note:** See [2.2.1.1](#sec-2-2-1-1) Individual Assets.
+
+### 3.6.2 _scenario.lua {#sec-3-6-2}
+
+> Also see [2.2.2](#sec-2-2-2).
+
+#### Description
+
+Add a similar `description` with a link to the forum channel:
+
+```
+description = "Dozens of battles have been fought over the years across Seton's Clutch. A patient searcher could find the remains of thousands of units resting beneath the earth and under the waves. - FAF version of the original FA map 'SCMAP_009': Ensures symmetrical heightmap, textures, decals, marker, props, and units. Contains improved AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework"
+```
+```
+description = "FAF version of the unknown author map 'Loki': Ensures symmetrical marker and props. Contains new AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework
+```
+
+<span style="background-color: yellow">What should be written instead of "FAF creative" in the future?</span>
+
+#### Norush Radius
+
+Add a reasonable `norushradius` if the value is `0`.
+
+#### Norush Radius Offset
+
+Adapt the `norushoffsetX/Y_ARMY_X` to changes.
+
+> **Note:** The `norushoffsetX/Y_ARMY_X` can be deleted if the offset value is `0`.
+
+#### ExtraArmies
+
+See [2.2.2](#sec-2-2-2).
+
+
+### 3.6.3 _save.lua {#sec-3-6-3}
+
+Also see [2.2.3](#sec-2-2-3).
+
+#### Marker
+
+Check/fix marker issues at the rotation/mirror axis of the `source` area or angle. Optimize/improve marker positions (armies, units, resources, and AI marker).
+<span style="background-color: yellow">Should AI marker be add, even if they get generated automatically now?</span>
+
+#### Armies & ExtraArmies
+
+See [2.2.3](#sec-2-2-3).
+
+### 3.6.4 _script.lua {#sec-3-6-4}
+
+See [2.2.4](#sec-2-2-4).
+
+### 4 Test “Master Map Version” {#sec-4}
+
+1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
+2. Copy the `Master Map Version` to the FAF maps path.
+3. Test the created `Master Map Version` thoroughly to ensure:
+   - That all map-related `issues` have been resolved (see [2.3](#sec-2-3)).
+     - Open the `Moho Log` by pressing `F9` and check for any additional issues.
+   - That all `FAF version`-related requirements have been met (see [3](#sec-3)).
+   - That structures can be built on every `resource marker`.
+   - That `AI Markers` are working as intended.
+4. If necessary, make changes based on testing results and restart the process from step 1.
+
+
+### 5 Review & Documentation {#sec-5}
+
+#### 5.1 Document prop value changes {#sec-5-1}
+
+Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original and `FAF version` map. Calculate the difference for discussion and documentation.
+
+#### 5.2 Review & Approval {#sec-5-2}
+
+Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
+- `prop` values changes (see [5.1](#sec-5-1)).
+- that all map-related `issues` have been resolved (see [2.3](#sec-2-3)).
+- that all `FAF version`-related requirements have been met (see [3](#sec-3)).
+- that the map is working like intended.
+
+#### 5.3 Document total changes {#sec-5-3}
+
+1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [2.3](#sec-2-3)).
+<span style="background-color: yellow">Where should it be documented in the future, currently i got [this](https://ethercalc.net/kkn2yatyf4wq).</span>
+2. Post/explain map changes in one [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) in a clear and concise manner for documentation (in case issues arise from changes) and to inform the community about the changes made to the map. Provide detailed and issue-related information about the values that have been changed. This ensures that the community is fully informed about the changes made to the map and can provide feedback accordingly.
+3. Update the forum post with new changes.
+
+### 6 Map Upload Process {#sec-6}
+
+1. Copy the final `Master Map Version` folder to a separate directory.
+2. Remove the `.v000X` from the `FOLDER_NAME`.
+```
+folder = 'setons_clutch_-_faf_version.v0001'
+folder = 'setons_clutch_-_faf_version'
+```
+3. Remove the `MAP_VERSION_STRING` `.v000X` from the map file path in `_scenario.lua` (and `_script.lua`).
+
+```
+map = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version.scmap',
+save = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_save.lua',
+script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.lua',
+```
+4. Select the renamed folder with the adapted file path during the upload procedure.
+5. If the upload is successful, delete the `Editor Map Version` or `Master Map Version` from the FAF map path.
+6. Download the newly uploaded map.
+7. Test the map to ensure it is working as intended (see [4](#sec-4)).
+
+
+
+
+
+
 
 
 
