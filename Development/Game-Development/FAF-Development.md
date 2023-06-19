@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2023-06-19T10:14:07.593Z
+date: 2023-06-19T10:14:54.677Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -76,7 +76,7 @@ There are lots of starting points for new developers:
 	- The devs will give useful hints about your approach and tell you about possible conflicts.
 
 ## Lessons
-- [Sources for FAF (Git and GitHub)](/FAF-Dev-School-Git)
+- [Sources for FAF (Git and GitHub)](/Development/FAF-Dev-School-Git)
 
 ## Other
 
