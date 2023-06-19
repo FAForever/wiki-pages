@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:24:34.773Z
+date: 2023-06-19T09:25:05.846Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -506,7 +506,7 @@ You can finish your water edit by creating waves on the shore.
 
 ### Fixing Minimap Colours
 
-Since the original map editor is just a pre-alpha version, it can't do all the things. One of them is that it can't save the minimap colours properly. So the minimap in the game is showing the whole map in the shades of grey. To fix this we're gonna use the [FAF Map Editor](/Map-Editing-Tools#faf-map-editor). All you need to do, is to open your map there and save it. Now the minimap should work properly.
+Since the original map editor is just a pre-alpha version, it can't do all the things. One of them is that it can't save the minimap colours properly. So the minimap in the game is showing the whole map in the shades of grey. To fix this we're gonna use the [FAF Map Editor](/Development/Mapping/Map-Editing-Tools#faf-map-editor). All you need to do, is to open your map there and save it. Now the minimap should work properly.
 
 ## Defining gameplay areas
 
