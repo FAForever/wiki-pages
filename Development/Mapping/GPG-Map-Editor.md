@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:25:05.846Z
+date: 2023-06-19T09:25:54.402Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -557,13 +557,13 @@ Wreckage is created in the same way as civilians. In **ARMY_9**, create a new gr
 
 Before uploading your map in [vault](/Map-Vault) make sure everything is working. Launch your map in skirmish. Take a look at these things:
 - Auto-teams are working correctly
-	- If not, have a look at [Start Markers](/Map-Editor#create-start-markers)
+	- If not, have a look at [Start Markers](/Development/Mapping/GPG-Map-Editor#create-start-markers)
 - All player are spawned
-	- If not, look again at [Making it playable](/Map-Editor#making-it-playable)
+	- If not, look again at [Making it playable](/Development/Mapping/GPG-Map-Editor#making-it-playable)
 - All mexes and hydros can be built (+ storages around mexes)
 - There are no props on mexes and hydros.
-- Delete any [map preview](/Map-Editor#working-map-preview) from map folder.
-- In you have a water on the map, [fix the colours on the minimap](/Map-Editor#fixing-minimap-colours).
+- Delete any [map preview](/Development/Mapping/GPG-Map-Editor#working-map-preview) from map folder.
+- In you have a water on the map, [fix the colours on the minimap](/Development/Mapping/GPG-Map-Editor#fixing-minimap-colours).
 - Map file names (before the extensions) are the same as the folder name or the vault will just say "no valid map datas" or something similar when you try to upload it.
 
 ## Adding AI Markers
