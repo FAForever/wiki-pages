@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:20:44.240Z
+date: 2023-06-19T09:22:21.623Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -200,7 +200,7 @@ If you like how some other map looks like and you don't want to spend too much t
 
 ### Fixing Exported Theme
 
-While the other options work fine, exporting Theme creates a Lua file with broken syntax. In order to import it to your new map you will have to edit the file and fix the syntax so the editor can read it. Open the exported Lua file with any text editor (those that can [highlight syntax](/Map-Editing-Tools#external-tools) are better).
+While the other options work fine, exporting Theme creates a Lua file with broken syntax. In order to import it to your new map you will have to edit the file and fix the syntax so the editor can read it. Open the exported Lua file with any text editor (those that can [highlight syntax](/Development/Mapping/Map-Editing-Tools#external-tools) are better).
 
 This is an example of an exported theme:
 ```lua
@@ -256,8 +256,8 @@ Save the file and it's ready to be imported into your map.
 
 Sometimes you might want to cut out just a part of a large map and make a new map from it. As an example you can check the map called **Shard** which is just a part of the original map **Shards**. The map editor doesn't have any function that would make this simple with few couple of clicks.
 1. Highlight the area you want to cut.
-	- For that you can set a new [area](/Map-Editor#defining-gameplay-areas).
-	- This way you will also know the X and Z coordinates you need to cut from the exported [heightmap](/Map-Editor#editing-the-heightmap-in-photoshop) and all [stratas](/Map-Editor#texturing).
+	- For that you can set a new [area](/Development/Mapping/GPG-Map-Editor#defining-gameplay-areas).
+	- This way you will also know the X and Z coordinates you need to cut from the exported [heightmap](/Development/Mapping/GPG-Map-Editor#editing-the-heightmap-in-photoshop) and all [stratas](/Development/Mapping/GPG-Map-Editor#texturing).
 2. Copy the theme, which is described above.
 3. Decals and props are bit more tricky.
 	- First delete all decals and props that are outside of the area you highlighted.
@@ -279,7 +279,7 @@ The Tool window should change if Elevation was not previously selected. It shoul
 
 ![elevation_window.png](/images/gpgmapeditor/elevation_window.png)
 
-- If you dont have any brushes in this window go to [Map Editing Tools](/Map-Editing-Tools) and get **editor.scd** file that contains default brushes.
+- If you dont have any brushes in this window go to [Map Editing Tools](/Development/Mapping/GPG-Map-Editing-Tools) and get **editor.scd** file that contains default brushes.
 - New [Custom Brushes](/Map-Editing-Tools) for Map Editor
 
 At the top is choice of all available terrain brushes. The terrain will be raised up or down in the same shape as the brush. Blue means the terrain will be raised, red means the terrain will be lowered. The other options are:
