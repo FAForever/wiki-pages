@@ -2,7 +2,7 @@
 title: FAF Development
 description: 
 published: true
-date: 2023-06-19T10:15:29.247Z
+date: 2023-06-19T10:15:41.973Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:43:14.286Z
@@ -89,6 +89,6 @@ Resources for working on FA modding (the game code):
 
 If you've not done any coding before, or have no idea where to start then this is the guide for you!
 
-The most important thing to do if we want to play with the FAF code is get a GitHub account, see the lesson on that: [Github for FAF](/FAF-Dev-School-Git)
+The most important thing to do if we want to play with the FAF code is get a GitHub account, see the lesson on that: [Github for FAF](/Development/FAF-Dev-School-Git)
 
 Once you've got a GitHub account set up, the next thing to do is to choose what FAF code you want to take a look at.
