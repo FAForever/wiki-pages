@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:23:09.501Z
+date: 2023-06-19T09:24:02.263Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -400,7 +400,7 @@ end
 function OnStart()
 end
 ```
-Finished! You should now see the map in the Supreme commander maps list and you should be able to play it! Please try to do so and if you can, you can skip ahead to the next part. If not, have a look at [Further changes to the scenario file](/Map-Editor/Further-changes-to-the-scenario-file). This should help you out (although it's a bit extensive, so just ignore it if you can actually play the map).
+Finished! You should now see the map in the Supreme commander maps list and you should be able to play it! Please try to do so and if you can, you can skip ahead to the next part. If not, have a look at [Further changes to the scenario file](/Development/Mapping/Map-Editor/Further-changes-to-the-scenario-file). This should help you out (although it's a bit extensive, so just ignore it if you can actually play the map).
 
 ## Texturing
 
