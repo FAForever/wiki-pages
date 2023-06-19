@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T23:44:44.796Z
+date: 2023-06-19T23:51:39.341Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -370,7 +370,8 @@ Derive the new map name from the original map `name` in `_scenario.lua` and chan
 ```
 name = 'map name',
 name = 'Map Name - FAF version',
-
+```
+```
 name = 'Seton’s Clutch',
 name = 'Setons Clutch - FAF version',
 ```
@@ -479,7 +480,7 @@ After completing all the necessary preparation steps, it is now time to implemen
 
 **Automating the implementation of the `source` area or angle using the `MapTransformer` by Sheikah is highly recommended. This ensures consistency and accuracy in the process, while also saving time and effort.** If you need to manually implement or recreate map assets, such as mirroring decals, refer to the documented steps at [3.5.2](#sec-3-5-2).
 
-### 3.5.1 Automated Rotation / Mirror* (MapTransformer) {#sec-3-5-1}
+### 3.5.1 Automated Rotation / Mirror² (MapTransformer) {#sec-3-5-1}
 
 The `MapTransformer` rotates and mirrors² map content based on the `symmetry` and `source` settings of the input map. Content that does not belong to the `source` gets deleted and repopulated according to the `symmetry` settings. Changes can be done separately or `--all` at once. The `MapTransformer` is currently a java command line tool.
 
