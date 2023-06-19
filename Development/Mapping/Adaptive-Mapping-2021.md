@@ -2,7 +2,7 @@
 title: Adaptive Mapping Guide Updated 2021
 description: an upto date guide on how to make adaptive maps
 published: true
-date: 2023-06-19T09:52:05.096Z
+date: 2023-06-19T09:56:29.669Z
 tags: mapping, adaptive, guide
 editor: markdown
 dateCreated: 2022-08-12T22:17:59.915Z
@@ -147,8 +147,6 @@ In this example we will create some defences between our players that you can ch
 },
 
 ```
-
-![alt text](https://i.imgur.com/Zay2Stl.png)
 
 Now go back to editor and switch to the unit tab and groups tab, Then create 3 groups in ARMY_17 named;
 Optional_Civilian_Defenses_2
