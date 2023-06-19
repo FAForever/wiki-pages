@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T23:16:54.929Z
+date: 2023-06-19T23:20:34.787Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -286,9 +286,9 @@ Download other `FAF version` maps maps from the vault and get familiar with the 
 > `FAF version` maps created by svenni_badbwoi are based on this Mapping Guidelines.
 
 
-## 3 Create FAF version {#sec-3}
+# 3 Create FAF version {#sec-3}
 
-### 3.1 Get Source Map Version {#sec-3-1}
+## 3.1 Get Source Map Version {#sec-3-1}
 
 **If the source of the `FAF version` is a GPG map, Forged Alliance `v60` maps should always be used. The Forged Alliance `v60` maps are further developed (e.g. skybox, different units, ...) compared to the Supreme Commander `v56` ones.**
 
@@ -300,36 +300,36 @@ Official GPG skirmish map folder and files are called `SCMP_0XX` (`v56` and `v60
 > **Note:**
 > GPG named the map folder and map name differently.
 
-#### 3.1.1 Supreme Commander (v56 | GPG-Editor) maps path
+### 3.1.1 Supreme Commander (v56 | GPG-Editor) maps path
 
 Default GPG path: `\Gas Powered Games\Supreme Commander\maps`  
 Default Stream path: `/steam/steamapps/common/Supreme Commander/maps`
 
-#### 3.1.2 Forged Alliance (v60) maps path
+### 3.1.2 Forged Alliance (v60) maps path
 
 Default GPG path: `\THQ\Gas Powered Games\Supreme Commander - Forged Alliance\maps`
 Default Stream path: `/steam/steamapps/common/Supreme Commander Forged Alliance/maps`
 https://api.faforever.com/maps/validate
-#### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
+### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
 
 Needed for testing or if a map from unknown or inactive author has been downloaded from the FAF Vault as the source map.
 
 Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance/maps/`
 
-#### 3.1.4 Example source map version
+### 3.1.4 Example source map version
 
 Different units/structure placement and count between Supreme Commander `v56` and Forged Alliance `v60` map versions.
 <span style="background-color: yellow">add image</span>
 
 
-### 3.2 Find Source Area / Angle {#sec-3-2}
+## 3.2 Find Source Area / Angle {#sec-3-2}
 
 For a balanced `FAF version` of the map, it is crucial to correctly identify the `source` area or angle. The `source` marks the map content that will be used for the `FAF version` rework.
 If the map issue doesn't dictate a specific `source` area or angle (e.g. remove heightmap difference at map bottom > `source = TOP`), the `source` needs to be found/discussed.
 
 > **Note:** In some cases, a different `source` area or angle was used to rework the heightmap and props differently.
 
-#### 3.2.1 Prepare Discussion {#sec-3-2-1}
+### 3.2.1 Prepare Discussion {#sec-3-2-1}
 
 To prepare the discussion, one of the following steps is advisable:
 - Export `heightmap.raw` and create a 360° rotation/mirror video to discuss the `source` area or angle.
@@ -338,24 +338,24 @@ To prepare the discussion, one of the following steps is advisable:
     - Terrain issues at `source` area or angle.
     - Differences in `prop` count and `marker` placement, ...
 
-#### 3.2.2 Discuss Source Area / Angle {#sec-3-2-2}
+### 3.2.2 Discuss Source Area / Angle {#sec-3-2-2}
 
 Discuss/Collaborate with the ladder team, Team Match Maker (TMM), and the issue reporter to determine the optimal `source` area or angle based on the preparations (see [3.2.1](#sec-3-2-1)). Please create a thread in the following channel on Discord:
 - Official Forged Alliance Forever Discord
     - [Matchmaker-submissions](https://discord.com/channels/197033481883222026/832707438443626596)
 
-#### 3.2.3 Example {#sec-3-2-3}
+### 3.2.3 Example {#sec-3-2-3}
 
 In the case of the `Setons Clutch – FAF version`, we agreed on a `source` angle of 115°(white area was used). See [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) for more examples.
 <span style="background-color: yellow">add image</span>
 
-### 3.3 Set up new map name, files, version, folder & file path {#sec-3-3}
+## 3.3 Set up new map name, files, version, folder & file path {#sec-3-3}
 
 While creating a new map, it is important to set up the folder, files, and file path according to the map name (see `_scenario.lua` Example and already uploaded `FAF version` maps). Copy the `source map version` folder to the `Master Map Version` folder (see [3.4](#sec3-4)) and make the following adjustments manually.
 
 > **Note:** Manual adjustment is recommended at this step to ensure that the changes are made correctly. Re-saving the map with a different `name` will change the original content!
 
-#### 3.3.1 New Map Name {#sec-3-3-1}
+### 3.3.1 New Map Name {#sec-3-3-1}
 
 Derive the new map name from the original map `name` in `_scenario.lua` and change it accordingly:
 - Capitalize the first letters of the original map `name`.
@@ -366,7 +366,7 @@ Derive the new map name from the original map `name` in `_scenario.lua` and chan
 - Add the suffix ` - FAF version` to get the final map name.
 <span style="background-color: yellow">Should “FAF Version” be allowed as well?</span>
 
-##### Examples
+#### Examples
 ```
 name = 'map name',
 name = 'Map Name - FAF version',
@@ -376,14 +376,14 @@ name = 'Setons Clutch - FAF version',
 ```
 
 
-#### 3.3.2 New Map File Names {#sec-3-3-2}
+### 3.3.2 New Map File Names {#sec-3-3-2}
 
 Derive the `FILE_NAME` from the new map `name` and change the map file names accordingly:
 - All characters need to be lowered (`A` becomes `a`).
 - White-spaces (` `) need to be replaced with an underscore (`_`).
 
 
-##### Example
+#### Example
 ```
 name = 'Setons Clutch - FAF version'
 FILE_NAME = 'setons_clutch_-_faf_version'
@@ -394,25 +394,25 @@ save = 'setons_clutch_-_faf_version_save.lua'
 script = 'setons_clutch_-_faf_version_script.lua'
 ```
 
-#### 3.3.3 New Map Version {#sec-3-3-3}
+### 3.3.3 New Map Version {#sec-3-3-3}
 
 Add the correct `map_version` to the `_scenario.lua` file. The value `map_version` was implemented by FAF and is needed for versioning/upload.
 
 > **Note:** The first version of a map should be number `1`.
 
-##### Example
+#### Example
 ```
 map_version = 1,
 ```
 
-#### 3.3.4 New Map Folder Name {#sec-3-3-4}
+### 3.3.4 New Map Folder Name {#sec-3-3-4}
 
 Create `FOLDER_NAME` (from `FILE_NAME` and `map_version`) and rename the map folder accordingly.
 
-##### Pattern
+#### Pattern
 `FOLDER_NAME` = `FILE_NAME` + `MAP_VERSION_STRING`
 
-##### Example
+#### Example
 ```
 official_folder_name = 'SCMP_009'
 map_version = 1,
@@ -422,20 +422,20 @@ FILE_NAME = 'setons_clutch_-_faf_version'
 FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 ```
 
-#### 3.3.5 New File Path {#sec-3-3-5}
+### 3.3.5 New File Path {#sec-3-3-5}
 
 Set the path according to the new map `FILE_NAME` and `FOLDER_NAME` in the `_scenario.lua` file.
 
 > **Note:** Some maps (e.g. adaptive maps) have a map file reference in the `_script.lua`. Make sure to update that path as well.
 
-##### Pattern
+#### Pattern
 ```
 map = '/maps/FOLDER_NAME/FILE_NAME.scmap',
 save = '/maps/FOLDER_NAME/FILE_NAME_save.lua',
 script = '/maps/FOLDER_NAME/FILE_NAME_script.lua'
 ```
 
-##### Example
+#### Example
 ```
 name = 'Setons Clutch - FAF version',
 map_version = 1,
@@ -445,35 +445,35 @@ save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save
 script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua'
 ```
 
-#### 3.3.6 Validate Map Metadata {#sec-3-3-6}
+### 3.3.6 Validate Map Metadata {#sec-3-3-6}
 
 Use the validate map metadata [web-page](https://api.faforever.com/maps/validate) to validate the map `name` and `_scenario.lua` content.
 
-#### 3.3.7 Test Map {#sec-3-3-6}
+### 3.3.7 Test Map {#sec-3-3-6}
 
 Test the map in-game before you proceed with the next step.
 
 
-### 3.4 Create Editor & Master Map Version Folder {#sec-3-4}
+## 3.4 Create Editor & Master Map Version Folder {#sec-3-4}
 
 To streamline the process and maintain backups of the latest changes, it is recommended to create an `Editor Map Version` and `Master Map Version` in different directories. This ensures that only necessary and tested changes/files are transferred to the final version of the `FAF version` map.
 
 > **Note:** To ensure that work is always being done on the latest version of the map, it's important to regularly replace the `Editor Map Version` with the `Master Map Version` folder.
 
-#### 3.4.1 Editor Map Version – FAF Maps Folder {#sec-3-4-1}
+### 3.4.1 Editor Map Version – FAF Maps Folder {#sec-3-4-1}
 
 The `Editor Map Version` folder represents the work in progress as well as test version of the map. The `Editor Map Version` folder needs to be placed in the required map folder (simply copy the folder created in [3.3](#sec-3-3) into the required directory, see [3.1](#sec-3-1)). The benefits of the `Editor Map Version` are, it can be edited, saved, destroyed or deleted without affecting the `Master Map Version` backup. 
 
 > **Note:** All changes that require the map editor or `MapTransformer` should be made in the `Editor Map Version` folder.
 
-#### 3.4.2 Master Map Version - Project Folder {#sec-3-4-2}
+### 3.4.2 Master Map Version - Project Folder {#sec-3-4-2}
 
 The `Master Map Version` folder is used to store, test and discuss final results and during the Map Upload Process. The `Master Map Version` should be placed in a separate project directory outside the FAF environment. The content of the `Master Map Version` will be updated by copying the tested necessary files (e.g. `.scmap` or `_save.lua`) from the `Editor Map Version` folder and replacing the files in the `Master Map Version` folder. This way, only relevant changes are transferred and the `Master Map Version` serves as a backup of the latest version of the map. It is not recommended to overwrite all files or to save the `Master Map Version` in a map editor, as this could result in unintended changes to the original content. Simply copy & replace `.scmap` if a new map preview was created / `_save.lua` if marker where changed (see [2.2](#sec-2-2)).
 
 > **Note:** The `_scenario.lua` content as well as the default quotation mark settings will be changed while using different map editors. It's good practice to finalize the `_scenario.lua` in the `Master Map Version` folder.
 
 
-### 3.5 Implement Source Area / Angle {#sec-3-5}
+## 3.5 Implement Source Area / Angle {#sec-3-5}
 
 After completing all the necessary preparation steps, it is now time to implement the `source` area or angle (see [3.2](#sec-3-2)).
 
@@ -598,7 +598,7 @@ java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/serenity_des
 > **Note:** Decals can currently only be mirrored with b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool).
 
 
-### 3.6 Polish Map Files Content {#sec-3-6}
+## 3.6 Polish Map Files Content {#sec-3-6}
 
 After implementing the `source` area or angle, it is necessary to polish the map files to eliminate issues and provide an up-to-date gaming experience.
 
@@ -701,7 +701,7 @@ See [2.2.3](#sec-2-2-3).
 
 See [2.2.4](#sec-2-2-4).
 
-### 4 Test “Master Map Version” {#sec-4}
+# 4 Test “Master Map Version” {#sec-4}
 
 1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
 2. Copy the `Master Map Version` to the FAF maps path.
@@ -714,14 +714,14 @@ See [2.2.4](#sec-2-2-4).
 4. If necessary, make changes based on testing results and restart the process from step 1.
 
 
-### 5 Review & Documentation {#sec-5}
+# 5 Review & Documentation {#sec-5}
 
-#### 5.1 Document prop value changes {#sec-5-1}
+## 5.1 Document prop value changes {#sec-5-1}
 
 Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original and `FAF version` map. Calculate the difference for discussion and documentation.
 <span style="background-color: yellow">Add image</span>
 
-#### 5.2 Review & Approval {#sec-5-2}
+## 5.2 Review & Approval {#sec-5-2}
 
 Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
 - `prop` values changes (see [5.1](#sec-5-1)).
@@ -729,14 +729,14 @@ Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the is
 - that all `FAF version`-related requirements have been met (see [3](#sec-3)).
 - that the map is working like intended.
 
-#### 5.3 Document total changes {#sec-5-3}
+## 5.3 Document total changes {#sec-5-3}
 
 1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [2.3](#sec-2-3)).
 <span style="background-color: yellow">Where should it be documented in the future, currently i got [this](https://ethercalc.net/kkn2yatyf4wq).</span>
 2. Post/explain map changes in one [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) in a clear and concise manner for documentation (in case issues arise from changes) and to inform the community about the changes made to the map. Provide detailed and issue-related information about the values that have been changed. This ensures that the community is fully informed about the changes made to the map and can provide feedback accordingly.
 3. Update the forum post with new changes.
 
-### 6 Map Upload Process {#sec-6}
+# 6 Map Upload Process {#sec-6}
 
 1. Copy the final `Master Map Version` folder to a separate directory.
 2. Remove the `.v000X` from the `FOLDER_NAME`.
