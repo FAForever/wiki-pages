@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-19T23:15:38.965Z
+date: 2023-06-19T23:16:22.988Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -719,6 +719,7 @@ See [2.2.4](#sec-2-2-4).
 #### 5.1 Document prop value changes {#sec-5-1}
 
 Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original and `FAF version` map. Calculate the difference for discussion and documentation.
+<span style="background-color: yellow">Add image</span>
 
 #### 5.2 Review & Approval {#sec-5-2}
 
