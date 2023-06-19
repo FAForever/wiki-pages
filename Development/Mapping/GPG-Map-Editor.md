@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:23:00.687Z
+date: 2023-06-19T09:23:09.501Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -280,7 +280,7 @@ The Tool window should change if Elevation was not previously selected. It shoul
 ![elevation_window.png](/images/gpgmapeditor/elevation_window.png)
 
 - If you dont have any brushes in this window go to [Map Editing Tools](/Development/Mapping/Map-Editing-Tools) and get **editor.scd** file that contains default brushes.
-- New [Custom Brushes](/Map-Editing-Tools) for Map Editor
+- New [Custom Brushes](/Development/Mapping/Map-Editing-Tools) for Map Editor
 
 At the top is choice of all available terrain brushes. The terrain will be raised up or down in the same shape as the brush. Blue means the terrain will be raised, red means the terrain will be lowered. The other options are:
 - **Strength:** How much your brush changes at a time.
