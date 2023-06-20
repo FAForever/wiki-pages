@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T15:50:54.687Z
+date: 2023-06-20T15:54:35.338Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -317,7 +317,7 @@ Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance
 
 Different units/structure placement and count between Supreme Commander `v56` and Forged Alliance `v60` map versions. 
 ![faf_version_source_map_version.jpg](/images/faf-version/faf_version_source_map_version.jpg)
-*Image: `v56` left; `v60` right*
+*Image: Theta Passage – Supreme Commander `v56` (left) VS Forged Alliance `v60` map version (right)*
 
 ## 3.2 Find Source Area / Angle {#sec-3-2}
 
