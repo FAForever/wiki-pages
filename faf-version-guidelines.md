@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T17:01:50.846Z
+date: 2023-06-20T17:07:16.052Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -645,10 +645,12 @@ Check/fix decal issues at the rotation/mirror axis of the `source` area or angle
 
 For a consistent visual experience, set the same `Cutoff Distance` value for all decals. This will ensure that they blend in and out at the same time. Use `STRG+A` to select all decals, then change the value according to map size:
 
-- 5 km = 1000
-- 10 km = 2000
-- 20 km = 3000
-- 40 km = 4000
+| Map Size | Cutoff Distance	|
+| ----------- | ----------- |
+| 5x5 km | 1000 |
+| 10x10 km | 2000 |
+| 20x20 km | 3000 |
+| 40x40km | 4000 |
 
 > **Note:** See [2.2.1.1](#sec-2-2-1-1) Individual Assets.
 
