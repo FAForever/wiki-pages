@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T16:29:01.682Z
+date: 2023-06-20T16:37:38.660Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -13,7 +13,7 @@ Greetings everybody, the goals of the `FAF version` maps are fair / balanced gam
 
 Maps that have been reworked arleady can be found in the vault if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience. The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
- - [Forum (new)]() <span style="background-color: yellow">Add Link</span>
+ - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
 
 
 > **IMPORTANT NOTES:**
@@ -269,8 +269,9 @@ A lot of map-specific issues are already documented. Get familiar with the open 
 ### 2.3.1 Documented Issues
 
 Check what issues are already documented or fixed.
-- [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
-- [Forum (new)]() <span style="background-color: yellow">add link</span>
+ - [Indivudual Issue Documentation](https://ethercalc.net/kkn2yatyf4wq) <span style="background-color: yellow">will this documentation of the induvidual issues replaced and or migrated to the ticket system?</span>
+ - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
+ - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
 
 ### 2.3.2 New Issues
 
