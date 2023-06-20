@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T17:07:16.052Z
+date: 2023-06-20T17:23:41.701Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -388,7 +388,8 @@ Derive the `FILE_NAME` from the new map `name` and change the map file names acc
 ```lua
 name = 'Setons Clutch - FAF version'
 FILE_NAME = 'setons_clutch_-_faf_version'
-
+```
+```lua
 scmap = 'setons_clutch_-_faf_version.scmap'
 scenario = 'setons_clutch_-_faf_version_scenario.lua'
 save = 'setons_clutch_-_faf_version_save.lua'
@@ -411,7 +412,9 @@ map_version = 1,
 Create `FOLDER_NAME` (from `FILE_NAME` and `map_version`) and rename the map folder accordingly.
 
 #### Pattern
-`FOLDER_NAME` = `FILE_NAME` + `MAP_VERSION_STRING`
+```
+FOLDER_NAME = FILE_NAME + MAP_VERSION_STRING
+```
 
 #### Example
 ```lua
@@ -419,7 +422,8 @@ official_folder_name = 'SCMP_009'
 map_version = 1,
 MAP_VERSION_STRING = '.v0001'
 FILE_NAME = 'setons_clutch_-_faf_version'
-
+```
+```lua
 FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 ```
 
@@ -438,9 +442,10 @@ script = '/maps/FOLDER_NAME/FILE_NAME_script.lua'
 
 #### Example
 ```lua
-name = 'Setons Clutch - FAF version',
-map_version = 1,
-
+FILE_NAME = 'setons_clutch_-_faf_version'
+FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
+```
+```lua
 map = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua'
