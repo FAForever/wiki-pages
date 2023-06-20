@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T00:00:13.287Z
+date: 2023-06-20T00:02:48.941Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -707,7 +707,7 @@ See [2.2.4](#sec-2-2-4).
 1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
 2. Copy the `Master Map Version` to the FAF maps path.
 3. Test the created `Master Map Version` thoroughly to ensure:
-   - That all map-related `issues` have been resolved (see [2.3](#sec-2-3)).
+   - That all map-related `issues` have been resolved (see [2.3](#sec-2-3)) and no new `issues` have been introduced.
      - Open the `Moho Log` by pressing `F9` and check for any additional issues.
    - That all `FAF version`-related requirements have been met (see [3](#sec-3)).
    - That structures can be built on every `resource marker`.
