@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2022-07-01T22:25:48.704Z
+date: 2023-06-20T08:06:20.022Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -14,12 +14,14 @@ dateCreated: 2021-11-02T17:53:00.029Z
 - [How can i open replay by ID?](/Replays-&-Live-Games#online-vault)
 - [FAF Client and Forum Rules](/FAF-Rules)
 - [How do i play FAF offline](/FAQ/Offline)
+{.links-list}
 
 ## Game
 - [Adjacency Bonus](/Learning/Adjacency-Bonus)
 - [What is Engy Mod?](/Game-Modifications-(Mods)#engy-mod)
 - [Where can I find information not about the Lobby but about the game?](/Learning)
 - [Where can i fins ther link to the latest patch](http://patchnotes.faforever.com/)
+{.links-list}
 
 ## Troubleshooting and utilities
 - [Reporting Technical Issuses](/FAQ/Reporting-Issuses)
@@ -33,7 +35,9 @@ dateCreated: 2021-11-02T17:53:00.029Z
 - [Storing FAF patches on a different Drive than C](/FAQ/Storing-FAF-patches-on-a-different-Drive-than-C)
 - [Download issues (IPv6)](/FAQ/Download-issues-(IPv6))
 - [Running the game multiple times](/FAQ/Running-the-game-multiple-times)
+{.links-list}
 
 ## Additional FAQ's
 - [New To FAF FAQ's](https://wiki.faforever.com/en/New-To-FAF)
 - [Forum FAQ's](https://forum.faforever.com/category/18/frequently-asked-questions)
+{.links-list}
