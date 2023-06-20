@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T07:38:57.229Z
+date: 2023-06-20T07:57:06.170Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -154,7 +154,7 @@ The file holds the following information:
       ```
       <span style="background-color: yellow">Or should it be ARMY_17 in GPG map rework as well?</span>
 #### Result / Settings (FAF-Editor) {#sec-2-2-2-1}
-<span style="background-color: yellow">Add Image</span>
+![faf_version_scenario.png](/images/faf-version/faf_version_scenario.png)   ![faf_version_armies_configuration.png](/images/faf-version/faf_version_armies_configuration.png)
 
 #### Example _scenario.lua {#sec-2-2-2-2}
 ```
@@ -235,7 +235,7 @@ Every playable `ARMY_X` needs an `INITIAL` Group at `Units`. `ExtraArmies` like 
 > **Note:** This is needed for some mods to work. <span style="background-color: yellow">Is that true?</span>
 
 #### Results / Settings (FAF-Editor)
-<span style="background-color: yellow">Add Image</span>
+![faf_version_save.png](/images/faf-version/faf_version_save.png)
 
 ### 2.2.4 _script.lua {#sec-2-2-4}
 
@@ -318,9 +318,9 @@ Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance
 
 ### 3.1.4 Example source map version
 
-Different units/structure placement and count between Supreme Commander `v56` and Forged Alliance `v60` map versions.
-<span style="background-color: yellow">add image</span>
-
+Different units/structure placement and count between Supreme Commander `v56` and Forged Alliance `v60` map versions. 
+![faf_version_source_map_version.jpg](/images/faf-version/faf_version_source_map_version.jpg)
+*Image: `v56` left; `v60` right*
 
 ## 3.2 Find Source Area / Angle {#sec-3-2}
 
@@ -347,7 +347,7 @@ Discuss/Collaborate with the ladder team, Team Match Maker (TMM), and the issue 
 ### 3.2.3 Example {#sec-3-2-3}
 
 In the case of the `Setons Clutch – FAF version`, we agreed on a `source` angle of 115°(white area was used). See [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) for more examples.
-<span style="background-color: yellow">add image</span>
+![faf_version_source_angle.png](/images/faf-version/faf_version_source_angle.png)
 
 ## 3.3 Set up new map name, files, version, folder & file path {#sec-3-3}
 
@@ -720,7 +720,7 @@ See [2.2.4](#sec-2-2-4).
 ## 5.1 Document prop value changes {#sec-5-1}
 
 Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original and `FAF version` map. Calculate the difference for discussion and documentation.
-<span style="background-color: yellow">Add image</span>
+![faf_version_prop_changes.png](/images/faf-version/faf_version_prop_changes.png)
 
 ## 5.2 Review & Approval {#sec-5-2}
 
