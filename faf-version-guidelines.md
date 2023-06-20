@@ -2,15 +2,14 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T07:57:06.170Z
+date: 2023-06-20T15:50:54.687Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
 ---
 
 # 1 Introduction {#sec-1}
-Greetings everybody,
-the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met, these `Mapping Guidelines` were created.
+Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met, these `Mapping Guidelines` were created.
 
 > **IMPORTANT NOTES:**
 > - **Map upload of approved content stays in the hands of <span style="background-color: yellow">FAF Creative staff / authorized FAF map maker</span>! Don't upload any `FAF version` map without authorization!**
@@ -24,10 +23,8 @@ Have you ever found yourself frustrated by unbalanced heightmaps or unevenly dis
 - Unknown author maps
 - Inactive author maps
 
-
 You are welcome to inform us about map issues here:
-- [Forum (svenni_badbowi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
-- [Ticket System]() <span style="background-color: yellow">Add Link to ticket system</span>
+- [Ticket System]() <span style="background-color: yellow">Add Link</span>
 
 
 # 2 Preparations
@@ -719,8 +716,13 @@ See [2.2.4](#sec-2-2-4).
 
 ## 5.1 Document prop value changes {#sec-5-1}
 
-Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original and `FAF version` map. Calculate the difference for discussion and documentation.
-![faf_version_prop_changes.png](/images/faf-version/faf_version_prop_changes.png)
+Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original source map version and the `FAF version` map. Calculate the difference for discussion and documentation.
+
+| Seton's Clutch - Prop Value | Mass	| Energy |
+| ----------- | ----------- | ----------- |
+| SCMP_009 (original v60 source map version) | 36.525,34 | 333.853,70 |
+| FAF version (v0001, 115° source angle) | 37.814,32 | 336.974,80 |
+| Difference | 288,98| 3.121,10 |
 
 ## 5.2 Review & Approval {#sec-5-2}
 
