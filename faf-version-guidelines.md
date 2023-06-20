@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T17:30:41.379Z
+date: 2023-06-20T17:40:16.641Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -292,26 +292,23 @@ Download other `FAF version` maps from the vault and get familiar with the requi
 
 **If the source of the `FAF version` is a GPG map, Forged Alliance `v60` maps should always be used. The Forged Alliance `v60` maps are further developed (e.g. skybox, different units, ...) compared to the Supreme Commander `v56` ones.**
 
-- skirmish maps
+- **skirmish maps**
 Official GPG skirmish map folder and files are called `SCMP_0XX` (`v56` and `v60`). `X1MP_0XX` are additional Forged Alliance `v60` skirmish maps.
-- campain maps
+- **campain maps**
 `SCCA_XXX` are Supreme Commander `v56` and `X1CA_0XX` are Forged Alliance `v60` campaign maps.
 
 > **Note:**
-> GPG named the map folder and map name differently.
+> GPG named the map folder and files differently than the map name. The map name is only visible in game or in the `_scenario.lua`
 
 ### 3.1.1 Supreme Commander (v56 | GPG-Editor) maps path
-
 Default GPG path: `\Gas Powered Games\Supreme Commander\maps`  
 Default Stream path: `/steam/steamapps/common/Supreme Commander/maps`
 
 ### 3.1.2 Forged Alliance (v60) maps path
-
 Default GPG path: `\THQ\Gas Powered Games\Supreme Commander - Forged Alliance\maps`
 Default Stream path: `/steam/steamapps/common/Supreme Commander Forged Alliance/maps`
-https://api.faforever.com/maps/validate
-### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
 
+### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
 Needed for testing or if a map from unknown or inactive author has been downloaded from the FAF Vault as the source map.
 
 Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance/maps/`
