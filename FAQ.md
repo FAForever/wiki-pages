@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2023-06-20T08:08:43.576Z
+date: 2023-06-20T08:09:02.090Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -17,9 +17,6 @@ dateCreated: 2021-11-02T17:53:00.029Z
 {.links-list}
 
 ## Game
-- [Adjacency Bonus](/Play/Learning/Adjacency-Bonus)
-- [What is Engy Mod?](/Game-Modifications-(Mods)#engy-mod)
-- [Where can I find information not about the Lobby but about the game?](/Learning)
 - [Where can i fins ther link to the latest patch](http://patchnotes.faforever.com/)
 {.links-list}
 
