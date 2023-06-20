@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T00:02:48.941Z
+date: 2023-06-20T07:38:57.229Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -655,7 +655,7 @@ For a consistent visual experience, set the same `Cutoff Distance` value for all
 
 ### 3.6.2 _scenario.lua {#sec-3-6-2}
 
-> Also see [2.2.2](#sec-2-2-2).
+Also see [2.2.2](#sec-2-2-2).
 
 #### Description
 
