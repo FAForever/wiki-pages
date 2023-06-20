@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2023-06-20T08:09:02.090Z
+date: 2023-06-20T08:09:17.925Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -23,7 +23,7 @@ dateCreated: 2021-11-02T17:53:00.029Z
 ## Troubleshooting and utilities
 - [Reporting Technical Issuses](/FAQ/Reporting-Issuses)
 - [Connection Issuses and Solutions](/FAQ/Connection-Issuses-and-Solutions)
-- [How do I create or edit maps?](/FA-Forever-Map-Editor)
+- [How do I create or edit maps?](/Development/Mapping/FA-Forever-Map-Editor)
 - [How do I create or edit Coop Missions?](/Mission-Scripting)
 - [How can I recover my password?](https://faforever.com/account/password/reset)
 - [Where can I change my username?](https://www.faforever.com/account/username/change)
