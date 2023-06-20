@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T16:12:22.115Z
+date: 2023-06-20T16:29:01.682Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -10,6 +10,11 @@ dateCreated: 2023-06-19T22:22:31.122Z
 
 # 1 Introduction {#sec-1}
 Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met, these `Mapping Guidelines` were created.
+
+Maps that have been reworked arleady can be found in the vault if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience. The documentation of the map-related changes can be found here:
+ - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
+ - [Forum (new)]() <span style="background-color: yellow">Add Link</span>
+
 
 > **IMPORTANT NOTES:**
 > - **Map upload of approved content stays in the hands of <span style="background-color: yellow">FAF Creative staff / authorized FAF map maker</span>! Don't upload any `FAF version` map without authorization!**
