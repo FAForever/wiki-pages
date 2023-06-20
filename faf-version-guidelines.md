@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T17:25:10.464Z
+date: 2023-06-20T17:30:41.379Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -283,7 +283,7 @@ Check the issues in game.
 
 ## 2.4 Check Other FAF Version Maps {#sec-2-4}
 
-Download other `FAF version` maps maps from the vault and get familiar with the requirements.
+Download other `FAF version` maps from the vault and get familiar with the requirements.
 
 
 # 3 Create FAF version {#sec-3}
