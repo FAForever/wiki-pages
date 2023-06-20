@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2023-06-20T08:08:27.203Z
+date: 2023-06-20T08:08:43.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T17:53:00.029Z
@@ -34,7 +34,6 @@ dateCreated: 2021-11-02T17:53:00.029Z
 - [Slow Connection and/or Speed up your Sim Speed](/FAQ/Slow-Connection-Speed&Sim)
 - [Storing FAF patches on a different Drive than C](/FAQ/Storing-FAF-patches-on-a-different-Drive-than-C)
 - [Download issues (IPv6)](/FAQ/Download-issues-(IPv6))
-- [Running the game multiple times](/FAQ/Running-the-game-multiple-times)
 {.links-list}
 
 ## Additional FAQ's
