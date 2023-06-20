@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T15:54:35.338Z
+date: 2023-06-20T16:07:41.657Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -140,12 +140,12 @@ The file holds the following information:
 - **armies configuration** - Playable `Armies` and `ExtraArmies` of the map. Check dependency in `_save.lua` (see [2.2.3](#sec-2-2-3)).
   - Ensure that `ARMY_9` or `ARMY_17` as well as `NEUTRAL_CIVILIAN` are added to `ExtraArmies`.
     - GPG maps need `ARMY_9` and `NEUTRAL_CIVILIAN`. The player count was limited to 8 `Armies`.
-      ```
+      ```lua
       armies = {'ARMY_1', 'ARMY_2', 'ARMY_3', 'ARMY_4', 'ARMY_5', 'ARMY_6', 'ARMY_7', 'ARMY_8'}
       ['ExtraArmies'] = STRING( 'ARMY_9 NEUTRAL_CIVILIAN' )
       ```
     - Other maps need `ARMY_17` and `NEUTRAL_CIVILIAN`. The player count is limited to 16 `Armies`.
-      ```
+      ```lua
       armies = {'ARMY_1', 'ARMY_2', 'ARMY_3', 'ARMY_4', 'ARMY_5', 'ARMY_6', 'ARMY_7', 'ARMY_8' ,'ARMY_9', 'ARMY_10', 'ARMY_11', 'ARMY_12', 'ARMY_13', 'ARMY_14', 'ARMY_15', 'ARMY_16'}
       ['ExtraArmies'] = STRING( 'ARMY_17 NEUTRAL_CIVILIAN' )
       ```
@@ -154,11 +154,11 @@ The file holds the following information:
 ![faf_version_scenario.png](/images/faf-version/faf_version_scenario.png)   ![faf_version_armies_configuration.png](/images/faf-version/faf_version_armies_configuration.png)
 
 #### Example _scenario.lua {#sec-2-2-2-2}
-```
+```lua
 version = 3 -- Lua Version. Dont touch this
 ScenarioInfo = {
     name = 'Setons Clutch - FAF version',
-    description = 'Dozens of battles have been fought over the years across Seton's Clutch. A patient searcher could find the remains of thousands of units resting beneath the earth and under the waves. - FAF version of the original Forged Alliance map "SCMAP_009": Ensures symmetrical heightmap, textures, decals, marker, props and units. Contains improved AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework',
+    description = 'Dozens of battles have been fought over the years across Setons Clutch. A patient searcher could find the remains of thousands of units resting beneath the earth and under the waves. - FAF version of the original Forged Alliance map "SCMAP_009": Ensures symmetrical heightmap, textures, decals, marker, props and units. Contains improved AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework',
     preview = '',
     map_version = 1,
     type = 'skirmish',
@@ -246,7 +246,7 @@ The file holds the following information:
 > - Some maps (e.g. adaptive maps) have a map folder and file reference in the `_script.lua`. Make sure to update the path as well.
 
 #### Example _script.lua {#sec-2-2-4-1}
-```
+```lua
 local ScenarioUtils = import('/lua/sim/ScenarioUtilities.lua')
 
 function OnPopulate()
@@ -364,11 +364,11 @@ Derive the new map name from the original map `name` in `_scenario.lua` and chan
 <span style="background-color: yellow">Should “FAF Version” be allowed as well?</span>
 
 #### Examples
-```
+```lua
 name = 'map name',
 name = 'Map Name - FAF version',
 ```
-```
+```lua
 name = 'Seton’s Clutch',
 name = 'Setons Clutch - FAF version',
 ```
@@ -382,7 +382,7 @@ Derive the `FILE_NAME` from the new map `name` and change the map file names acc
 
 
 #### Example
-```
+```lua
 name = 'Setons Clutch - FAF version'
 FILE_NAME = 'setons_clutch_-_faf_version'
 
@@ -399,7 +399,7 @@ Add the correct `map_version` to the `_scenario.lua` file. The value `map_versio
 > **Note:** The first version of a map should be number `1`.
 
 #### Example
-```
+```lua
 map_version = 1,
 ```
 
@@ -411,7 +411,7 @@ Create `FOLDER_NAME` (from `FILE_NAME` and `map_version`) and rename the map fol
 `FOLDER_NAME` = `FILE_NAME` + `MAP_VERSION_STRING`
 
 #### Example
-```
+```lua
 official_folder_name = 'SCMP_009'
 map_version = 1,
 MAP_VERSION_STRING = '.v0001'
@@ -427,14 +427,14 @@ Set the path according to the new map `FILE_NAME` and `FOLDER_NAME` in the `_sce
 > **Note:** Some maps (e.g. adaptive maps) have a map file reference in the `_script.lua`. Make sure to update that path as well.
 
 #### Pattern
-```
+```lua
 map = '/maps/FOLDER_NAME/FILE_NAME.scmap',
 save = '/maps/FOLDER_NAME/FILE_NAME_save.lua',
 script = '/maps/FOLDER_NAME/FILE_NAME_script.lua'
 ```
 
 #### Example
-```
+```lua
 name = 'Setons Clutch - FAF version',
 map_version = 1,
 
@@ -502,7 +502,7 @@ The `MapTransformer` rotates and mirrors² map content based on the `symmetry` a
 #### Terminal options
 The options can be seen by running `java -jar MapTransformer-17.jar –help`.
 
-```
+```java
 --help		produce help message
 --in-folder-path arg	required, set the input folder for the map
 --out-folder-path arg	required, set the output folder for the transformed map
@@ -524,7 +524,6 @@ The options can be seen by running `java -jar MapTransformer-17.jar –help`.
     • BOTTOM_LEFT
     • BOTTOM_RIGHT
     • ALL
-
 --all		optional, force symmetry for all components
 --spawns		optional, force spawn symmetry
 --resources	optional, force mex symmetry
@@ -537,14 +536,14 @@ The options can be seen by running `java -jar MapTransformer-17.jar –help`.
 ```
 
 #### Rotation Code Examples
-```
+```java
 java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/setons_clutch_-_faf_version.v0001" --out-folder-path TransformedMaps --symmetry POINT2 --source 115 –all
 ```
-```
+```java
 java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/the_ditch_-_faf_version.v0001" --out-folder-path TransformedMaps --symmetry POINT2 --source BOTTOM_LEFT –all
 ```
 #### Mirror Code Example
-```
+```java
 java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/serenity_desert_small_-_faf_version.v0002" --out-folder-path TransformedMaps --symmetry ZX --source TOP_LEFT –all
 ```
 
@@ -658,11 +657,11 @@ Also see [2.2.2](#sec-2-2-2).
 
 Add a similar `description` with a link to the forum channel:
 
-```
+```lua
 description = "Dozens of battles have been fought over the years across Seton's Clutch. A patient searcher could find the remains of thousands of units resting beneath the earth and under the waves. - FAF version of the original FA map 'SCMAP_009': Ensures symmetrical heightmap, textures, decals, marker, props, and units. Contains improved AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework"
 ```
-```
-description = "FAF version of the unknown author map 'Loki': Ensures symmetrical marker and props. Contains new AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework
+```lua
+description = "FAF version of the unknown author map 'Loki': Ensures symmetrical marker and props. Contains new AI marker. - Modified by FAF Creative: https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework"
 ```
 
 <span style="background-color: yellow">What should be written instead of "FAF creative" in the future?</span>
@@ -742,14 +741,23 @@ Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the is
 # 6 Map Upload Process {#sec-6}
 
 1. Copy the final `Master Map Version` folder to a separate directory.
-2. Remove the `.v000X` from the `FOLDER_NAME`.
+2. Remove the `MAP_VERSION_STRING` `.v000X` from the `FOLDER_NAME`.
+```lua
+MAP_VERSION_STRING = '.v0001'
+FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 ```
-folder = 'setons_clutch_-_faf_version.v0001'
-folder = 'setons_clutch_-_faf_version'
+```lua
+FOLDER_NAME = 'setons_clutch_-_faf_version'
 ```
 3. Remove the `MAP_VERSION_STRING` `.v000X` from the map file path in `_scenario.lua` (and `_script.lua`).
 
+```lua
+MAP_VERSION_STRING = '.v0001'
+map = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version.scmap',
+save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save.lua',
+script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua',
 ```
+```lua
 map = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.lua',
