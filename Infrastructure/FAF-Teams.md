@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-06-08T15:53:27.846Z
+date: 2023-06-22T20:06:03.106Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -276,6 +276,9 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - Turin
 - Farmsletje
 - SpikeyNoob
+- Rowey
+- Blodir
+
 
 #### Associates
 
@@ -284,8 +287,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - Swkoll
 - Penguin
 - MadMax
-- Blodir
-- Rowey
 - Dragun
 - Sladow
 
