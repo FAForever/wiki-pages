@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-06-24T17:48:18.242Z
+date: 2023-06-24T17:56:03.171Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -12,7 +12,7 @@ dateCreated: 2023-05-09T10:38:02.040Z
 
 Welcome to the Gaea Map-Making Tutorials for Forged Alliance Forever (FAF).
 
-I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. Being the unexhaustable fount of charity that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to get you up to speed right away and save you from the months of experimenting I had to go through to discover all the interesting ways that things can go wrong in. 
+I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. Being the unexhaustable fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to get you up to speed right away and save you from the months of experimenting I had to go through to discover all the interesting ways that things can go wrong in. 
 
 Gaea is a powerful terrain generation software that allows you to do some pretty nifty things, like letting you create high quality maps for Supreme Commander:Forged Alliance Forever. Whether you're a seasoned map maker or relatively new to the world of terrain generation, these tutorials will provide you with the knowledge and techniques to bring your map-making skills to the next level.
 
@@ -24,7 +24,7 @@ Because I ended up typing way too many words, this series has been split in four
 ## 1) Basic Introduction to Mapping with Gaea:
 In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation. We'll explore the user interface, essential tools and techniques for generating terrain, setting up the scale and dimensions, and discuss how to render your heightmap for use in the FAF map editor. Additionally, we'll discuss how you may generate realistic terrain features, including mountains, crater fields, canyons, and more, using the power of procedural generation.
 
-[Link to tutorial 1]
+[Link to tutorial 1](/en/Development/Mapping/Gaea/Basic-Introduction)
 
 ## 2) Producing Terrain Masks in Gaea:
 Terrain masks are crucial for defining texture distribution on your map. In this tutorial, we'll dive into the process of creating terrain masks using Gaea's powerful procedural algorithms and functions.
