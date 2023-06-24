@@ -2,7 +2,7 @@
 title: Producing Terrain Masks in Gaea
 description: n this tutorial, we'll dive into the process of creating terrain masks using Gaea.
 published: true
-date: 2023-06-24T18:00:53.840Z
+date: 2023-06-24T18:34:01.748Z
 tags: mapping, gaea, masks, mask
 editor: markdown
 dateCreated: 2023-06-24T18:00:53.840Z
@@ -17,8 +17,10 @@ This tutorial assumes you've got a basic understanding of image editing and FAF 
 Required for this tutorial is a copy of Gaea (the indie version is free to use and more than sufficient for maps up to 20km), which can be downloaded [here](https://quadspinner.com/download). Additionally, an image editor such as Photoshop or Gimp is required, though the free to use online photoshop-clone [Photopea](https://www.photopea.com/) works fine too, as is the FAF map editor.
 
 >Footnotes marked as '[0]' where needed. Notes are added to the bottom of the tutorial.
+{.is-info}
 
 >When specific nodes are referenced, they are highlighted like this: `Node`. Specific parameters for these nodes are written like this: `Slope, 30, 90, 0`, to specify a `Slope` node with Parameters 30 (min), 90 (Max), and 0 (Falloff).
+{.is-info}
 
 ## Terrain, masks, and stratum layers
 ### A quick recap of the basics:
@@ -31,7 +33,7 @@ The mask files usually have nearly the same resolution as the heightmap, with on
 * Only greyvalues of 128 to 256 (50% white to 100% white) are used to assign textures. Values below 128 are ignored. (See figure 1)
 * Due to a bug in the shader code, the normals of a layer are applied using the greyscale values of 0 to 256. Consequently, you may see the normals of a layer applied in sections where you do not see the albedo of a texture applied.[2]
 
-![6dca495f-021b-48d1-af45-e90252480ba3-image.png](/assets/uploads/files/1686990795668-6dca495f-021b-48d1-af45-e90252480ba3-image.png) 
+![greyscaleexample.png](/images/mapping/gaea/masks/greyscaleexample.png)
 >*Figure 1: Showing how greyscale values below 128 (50% white, or grey) are ignored.*
 
 ## The workflow summarized
@@ -44,10 +46,10 @@ In short, the workflow to create these masks is as follows:
 6) The masks are imported into the editor
 
 For my map [Project Dust](https://forum.faforever.com/topic/6066/index-librorum-s-maps-and-assorted-projects/4), the masks when exported at step 3 (before the greyvalues are adjusted) look like this:
-![9728062c-d07b-4d51-9135-93d01feba4c0-image.png](/assets/uploads/files/1686958842360-9728062c-d07b-4d51-9135-93d01feba4c0-image.png) 
+![projectdustmasks.png](/images/mapping/gaea/masks/projectdustmasks.png)
 >*Figure 2: An overview of the exported masks for my map Project Dust. Notice how each masks highlights different features.*
 
-After adjusting the greyscale value, the final mask looks like this (example of mask #5): ![7adbcd63-aaa0-4e06-bb33-249d24126cf6-image.png](/assets/uploads/files/1686959109492-7adbcd63-aaa0-4e06-bb33-249d24126cf6-image.png) 
+After adjusting the greyscale value, the final mask looks like this (example of mask #5): !![dustmask5.png](/images/mapping/gaea/masks/dustmask5.png)
 >*Figure 3: Grey-scale adjusted copy of mask 5.*
 
 ### Loading the terrain in Gaea
@@ -55,13 +57,13 @@ To export terrain from a map made in the editor, open the map in the FAF editor 
 
 This file can be loaded into Gaea using the **`File`** node. Add a File node to your workspace, and load in the exported heightmap. Due to differences in how Gaea and FAF interpret heightmaps, it may be required that you manually rescale the terrain vertically. The easiest way to do this is by using the `Raise` adjustments, which you can find by selecting the node and clicking the corresponding button at the bottom of the node's side-panel. Increasing the `Multiplier` value to scales the terrain up vertically. It is my understanding that for the subject of masking this scaling is optional, though I personally have found it easier to work at a scale as similar as possible to the FAF editor.
 
-![e3c0eafa-85cd-462d-9db7-698f293e8dd8-image.png](/assets/uploads/files/1686984494307-e3c0eafa-85cd-462d-9db7-698f293e8dd8-image.png) 
+![filenode.png](/images/mapping/gaea/masks/filenode.png)
 >*Figure 4: A file node is added, and the heightmap of Project Dust loaded. The Raise adjustment is selected, but in this instance the multiplier is set to 1.000, so the terrain is not scaled.*
 
 ### Defining masks
 As shown above in *Figure 2*, your aim should be to create distinct layers with specific textures in mind. The masks will allow you to distinguish specific features from the total terrain and to add extra detail to large areas that would otherwise be very homogenous. Using these masks, you can prototype a set of colours and textures within Gaea, and later use the masks for texturing your map. (Setting up this system within Gaea will be the topic of another tutorial).
 
-![58bc1037-680e-4c81-ab63-5ab65c5b8aa6-image.png](/assets/uploads/files/1686985164032-58bc1037-680e-4c81-ab63-5ab65c5b8aa6-image.png) 
+![texturemockup.png](/images/mapping/gaea/masks/texturemockup.png)
 >*Figure 5: A mockup of the textures using the generated masks in Gaea*
 
 When designing a set of masks, I aim to have at least the following:
@@ -75,27 +77,28 @@ More masks may be added to add complexity to large sections of one type of terra
 To create these masks, most commonly the nodes in the *Data* section are used. These nodes allow you to select certain parts of the heightmap, and include `Height`, `Slope`, `Soil`, `Curvature`, `Flow`,  and `Texture`. Where necessary, the outputs of these are blended and combined using the `Combine` node.
 
 To select all the cliffs on Project Dust, for example, I used the following setup:
-![13516910-e4e2-40b1-a456-b6d5b5063147-image.png](/assets/uploads/files/1686986464385-13516910-e4e2-40b1-a456-b6d5b5063147-image.png)
+![cliffmask.png](/images/mapping/gaea/masks/cliffmask.png)
 >*Figure 6: Setting up the cliff mask*
 
 First, I chained a `Slope` node to the `File` node. The `Slope` node has three main parameters: *Min*, *Max*, and *Falloff*. By adjusting the *Min* and *Max* values, you select all terrain that is sloped with an angle in degrees between those two values. The *falloff* value specifies the feathering of this selection; a *falloff* value of 0 results in a sharp delineation of the two selected and unselected regions, while the border gets progressively blurred as the value increased. 
 
-![65f35869-96df-45a3-9caf-ad47135c5432-image.png](/assets/uploads/files/1686986609259-65f35869-96df-45a3-9caf-ad47135c5432-image.png) 
+![cliffmaskfalloff.png](/images/mapping/gaea/masks/cliffmaskfalloff.png) 
 >*Figure 7: The effect of increasing the falloff value*
 
 Similarly, the `Height node` allows you to select terrain at certain relative heights. 
 
-![b9c01377-5cea-4381-9f81-4133b575a092-image.png](/assets/uploads/files/1686986736316-b9c01377-5cea-4381-9f81-4133b575a092-image.png) 
+![bottomheight.png](/images/mapping/gaea/masks/bottomheight.png)
 >*Figure 8: The bottom 50% of the terrain is selected, and the selection fades out over the next 25%.*
 
 These and others may be blended together to make selections of selections, or to add different selections together. If you want, for example, to only highlight all the slopes at the top of the terrain, you could select all the slopes (`Slope: 30, 90, 0`), selecting the bottom 50% of the terrain (`Height, 0, 50, 10, Normalized`), and subtracting the Height from the Slopes (`Combine, Subtract, 100%`).
 
 Alternatively, you may select the top 50% of the terrain (`Height, 60, 100, 10, Normalized`) and chain this node as a mask into a slope node (`Slope, 30, 90, 0`).
 
-![81f18c34-6bc8-4fc1-a3a1-a8f6eb5e23a2-image.png](/assets/uploads/files/1686987540807-81f18c34-6bc8-4fc1-a3a1-a8f6eb5e23a2-image.png) 
+![partialselect.png](/images/mapping/gaea/masks/partialselect.png)
 >*Figure 9: Two approaches to combining height and slope selection nodes to select only the slopes in the top 50% of the terrain.*
 
-The process of combining the various nodes will take some time and effort, and involves a lot of finetuning of values to get the masks exactly as you need them to. To keep all the masks organized, you may choose to rename the nodes corresponding to what terrain they select. For Project Dust, the final node tree to select all masks looked like this:![Dust mask nodes.png](/assets/uploads/files/1686988029338-dust-mask-nodes.png)  
+The process of combining the various nodes will take some time and effort, and involves a lot of finetuning of values to get the masks exactly as you need them to. To keep all the masks organized, you may choose to rename the nodes corresponding to what terrain they select. For Project Dust, the final node tree to select all masks looked like this:
+![dust-mask-nodes.png](/images/mapping/gaea/masks/dust-mask-nodes.png) 
 >*Figure 10: Overview of the node tree generating the masks for Project Dust*
 
 This somewhat complex graph might look a bit daunting at first, but it is important to realise that these structures are built one node at the time, logically following from and combining with the previous nodes.
@@ -118,7 +121,7 @@ Two steps remain before the masks can be imported to the FAF editor. First, if t
 
 Adjusting the greyscale values is as simple as adjusting the levels using your preferred image editing software.
 
-![6b53df14-1528-4d0f-bf9c-3d12bd3fc11b-image.png](/assets/uploads/files/1686990661532-6b53df14-1528-4d0f-bf9c-3d12bd3fc11b-image.png) 
+![greyvalue_masks.png](/images/mapping/gaea/masks/greyvalue_masks.png)
 >*Figure 11: Adjusting the mask using the levels adjustment layer in photoshop*
 
 Similarly, encoding these files as *.raw* can be done in Photoshop or alternative image editing software. A great free and online alternative is [Photopea](https://www.photopea.com/), for those who do not own Photoshop.
@@ -134,7 +137,7 @@ Your masks are now ready to import into the FAF editor. Navigate to the *texture
 ## Common mistakes
 "Hey", you say, "I see weird lines in my masks. What gives?"
 
-![c0d7bc3c-f52e-48e1-9ff4-646b4d87c09d-image.png](/assets/uploads/files/1686991123393-c0d7bc3c-f52e-48e1-9ff4-646b4d87c09d-image.png) 
+![masksbug.png](/images/mapping/gaea/masks/masksbug.png) 
 
 If you see something like the above, verify if you followed the instruction on the **strict requirements** above. Likely, you saved the *.raw* file as either an interleaved rather than a non-interleaved *.raw* or you exported the image as an 16-bit *.raw*.
 
