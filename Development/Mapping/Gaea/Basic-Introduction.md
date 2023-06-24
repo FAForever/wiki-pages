@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation.
 published: true
-date: 2023-06-24T18:16:10.254Z
+date: 2023-06-24T18:22:07.583Z
 tags: gaea, mapping
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -21,8 +21,11 @@ This tutorial assumes you've got a basic understanding of image editing and FAF 
 Required for this tutorial is a copy of Gaea (the indie version is free to use and more than sufficient for maps up to 20km), which can be downloaded [here](https://quadspinner.com/download). Additionally, an image editor such as Photoshop or Gimp is required, though the free to use online photoshop-clone [Photopea](https://www.photopea.com/) works fine too. Finally, you need to have installed the FAF map editor.
 
 >Footnotes marked as '[0]' where needed. Notes are added to the bottom of the tutorial.
+{.is-info}
+
 
 >When specific nodes are referenced, they are highlighted like this: `Node`. Specific parameters for these nodes are written like this: `Slope, 30, 90, 0`, to specify a `Slope` node with Parameters 30 (min), 90 (Max), and 0 (Falloff).
+{.is-info}
 
 ## Introducing Gaea
 Gaea is a graph-based application for creating terrain and focussed on providing techniques to simulate realistic erosion. To create these terrains, different nodes are linked to eachother. Nodes affect or combine with other nodes to create complex shapes and structures. While working in Gaea, you will navigate between several panels. 
@@ -30,7 +33,8 @@ Gaea is a graph-based application for creating terrain and focussed on providing
 ### The workspace
 As of June 2023, a typical workspace in Gaea might look like *Figure 2.* The workspace can be configured to your preferences, with different panels moved or scaled. The largest part of the screen is taken up by the viewports and the graph surface. The viewport shows you the terrain and masks, the view of which can be rotated, scaled, and panned. Optionally, you can press the `2D` button in the viewport toolbar to show the second, top-down, viewport. Below the viewports, you will see the graph surface, where your nodes and their connections are displayed. Clicking on a node will show the contents of that node in the viewports. 
 
->! Tip: you can lock the viewport to show one specific node by selecting the node and pressing `F` on the keyboard. The node will be marked with a small green circle on the bottom right of the node to indicate the viewport is locked on that node. This is very useful when you are adjusting parameters of nodes earlier in the chain, but want to see the result on a specific node later in the chain. Press F again while selecting the node to unlock the viewport.
+>Tip: you can lock the viewport to show one specific node by selecting the node and pressing `F` on the keyboard. The node will be marked with a small green circle on the bottom right of the node to indicate the viewport is locked on that node. This is very useful when you are adjusting parameters of nodes earlier in the chain, but want to see the result on a specific node later in the chain. Press F again while selecting the node to unlock the viewport.
+{.is-info}
 
 ![workspace.png](/images/mapping/gaea/basics/workspace.png)
 > *Figure 2: Typical workspace of Gaea. Colored accents added to highlight the different panels. Red: Main toolbar. Orange: Toolkit containing various nodes. Yellow: Viewport, 2D viewport, and viewport toolbar. Green: Graph surface. Blue: Properties panel.*
@@ -41,7 +45,7 @@ Clicking on a node will also reveal the properties panel for that node. Here, yo
 Above all the other panels is the main toolbar, which contains a few important things to discuss. First, the viewport resolution can be selected in this panel. It is generally recommended to select the resolution that you will be exporting your heightmap in. Gaea recalculates the terrain and parameters of the nodes every time you switch resolution, and the resolution can drastically affect how the terrain is shaped. Aside from the obvious increase in fine details, you might find that elements have changed shapes or moved when comparing different resolutions.
 
 >As the terrain changes based on the resolution it is rendered in, creating high-resolution map-wide decals might result in some mismatch between the heightmap and the decals. A method to prevent this will be discussed in the tutorial on map-wide assets.
-{.is-info}
+{.is-warning}
 
 ![resolutiondifferences.png](/images/mapping/gaea/basics/resolutiondifferences.png)
 >*Figure 3: Showing the differences between the viewport at 0.5k, 1k, and 2k resolution. Note the increase in fine details.* 
