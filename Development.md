@@ -2,7 +2,7 @@
 title: Creation & Development
 description: 
 published: true
-date: 2023-06-16T08:00:13.773Z
+date: 2023-06-24T18:12:23.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T11:37:27.777Z
@@ -33,7 +33,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 - [GPG Map Editor *Orginal Supcom Map Editor*](https://wiki.faforever.com/en/Development/Mapping/GPG-Map-Editor)
 - [Map Editing Tools *.*](https://wiki.faforever.com/en/Development/Mapping/Map-Editing-Tools)
 - [Maps available for adaptation to campaign-related content *.*](https://wiki.faforever.com/en/Development/Mapping/campaign-ready-maps)
-- [Gaea *Under Construction*](https://wiki.faforever.com/en/Development/Mapping/Gaea)
+- [Gaea *Using Gaea for FAF Mapping*](https://wiki.faforever.com/en/Development/Mapping/Gaea)
 {.links-list}
 
 
