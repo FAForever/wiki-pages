@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation.
 published: true
-date: 2023-06-24T17:54:16.904Z
+date: 2023-06-24T18:16:10.254Z
 tags: gaea, mapping
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -11,7 +11,7 @@ dateCreated: 2023-06-24T17:53:37.299Z
 # Gaea tutorial: A basic introduction to mapping with Gaea
 The various map projects I've made have all been made possible by Quadspinner's Gaea, a terrain design application for VFX and games. Gaea is an industry standard and a great tool to significantly speed up creating or increasing the complexity of masks, heightmaps, and decals. Because of FAF's peculiarities and the fact that the game is more than a decade old, the process of producing these assets using Gaea is a bit involved. In this tutorial series I will explain my process for creating all the relevant map assets in gaea (see *figure 1*). This specific tutorial will discuss the basics of Gaea and how it can be used to create the main heightmap for your terrain. 
 
-![2c3a4033-9450-4b1d-90da-d68c32d1d617-image.png](/assets/uploads/files/1687334769283-2c3a4033-9450-4b1d-90da-d68c32d1d617-image.png) 
+![luminarybreakdown.jpg](/images/mapping/gaea/basics/luminarybreakdown.jpg)
 > *Figure 1: a breakdown of the map Project Luminary to show all the assets generated in Gaea. Note: some of the stratum textures are stock-FAF textures and were not created in Gaea, but are here included to illustrate the different components of the map.*
 
 ## Prerequisites 
@@ -32,7 +32,7 @@ As of June 2023, a typical workspace in Gaea might look like *Figure 2.* The wor
 
 >! Tip: you can lock the viewport to show one specific node by selecting the node and pressing `F` on the keyboard. The node will be marked with a small green circle on the bottom right of the node to indicate the viewport is locked on that node. This is very useful when you are adjusting parameters of nodes earlier in the chain, but want to see the result on a specific node later in the chain. Press F again while selecting the node to unlock the viewport.
 
-![9dd641bc-e438-41d7-9e69-d0721349a7af-image.png](/assets/uploads/files/1687332630264-9dd641bc-e438-41d7-9e69-d0721349a7af-image.png) 
+![workspace.png](/images/mapping/gaea/basics/workspace.png)
 > *Figure 2: Typical workspace of Gaea. Colored accents added to highlight the different panels. Red: Main toolbar. Orange: Toolkit containing various nodes. Yellow: Viewport, 2D viewport, and viewport toolbar. Green: Graph surface. Blue: Properties panel.*
 
 The toolbox contains all the nodes you can put onto the graph surface. Nodes are grouped by type, and have a specific colour to signify which group they belong to. 
@@ -40,9 +40,10 @@ Clicking on a node will also reveal the properties panel for that node. Here, yo
 
 Above all the other panels is the main toolbar, which contains a few important things to discuss. First, the viewport resolution can be selected in this panel. It is generally recommended to select the resolution that you will be exporting your heightmap in. Gaea recalculates the terrain and parameters of the nodes every time you switch resolution, and the resolution can drastically affect how the terrain is shaped. Aside from the obvious increase in fine details, you might find that elements have changed shapes or moved when comparing different resolutions.
 
->! As the terrain changes based on the resolution it is rendered in, creating high-resolution map-wide decals might result in some mismatch between the heightmap and the decals. A method to prevent this will be discussed in the tutorial on map-wide assets.
+>As the terrain changes based on the resolution it is rendered in, creating high-resolution map-wide decals might result in some mismatch between the heightmap and the decals. A method to prevent this will be discussed in the tutorial on map-wide assets.
+{.is-info}
 
-![ResolutionDifferences.png](/assets/uploads/files/1687334655719-resolutiondifferences.png) 
+![resolutiondifferences.png](/images/mapping/gaea/basics/resolutiondifferences.png)
 >*Figure 3: Showing the differences between the viewport at 0.5k, 1k, and 2k resolution. Note the increase in fine details.* 
 
 Another important section of the main toolbar is the save button. Attached to the save button is a smaller button labeled with `(+)`. This button will create a version-copy of your project: if a project is named 'Project Luminary V1', clicking this button will create a new savefile labelled "Project Luminary V1001". The next time you click the button, the new savefile will be labelled "Project Luminary V1002". I cannot stress enough how important it is to regularly create a new version. Since before I started using Gaea, the undo and redo buttons have been rather dysfunctional. Maintaining a recent version of your project will ensure you do not lose large sections of your work when you inevitably have to undo changes that the undo-button refuses to process. Note that the save-files Gaea creates are very small: do not hesitate to create new savefiles.
@@ -54,15 +55,16 @@ Nodes often have one or more inputs, and one or more outputs. A `Combine` node, 
 
 Nodes that are improperly connected will have a red-dotted border and display the text "error". A node that has not been rendered yet will show as a blue-dotted bordered node. Clicking on this node (and, if required, un-locking any previously locked nodes from the viewport) will prompt Gaea to calculate the effect of the node and display its contents. Nodes that are selected will be marked with a blue glow. The node will then turn into a solid-bordered node, or if failed, be marked with an error.
 
->! Sometimes, Gaea runs into an error that it refuses to get unstuck from. In most cases, it suffices to select the whole graph and press the 'Force a Refresh' button at the right bottom corner of the graph surface. If this does not resolve the issue, double check your connections (a common mistake is to connect to a secondary input rather than a primary input) or restart Gaea.
+>Sometimes, Gaea runs into an error that it refuses to get unstuck from. In most cases, it suffices to select the whole graph and press the 'Force a Refresh' button at the right bottom corner of the graph surface. If this does not resolve the issue, double check your connections (a common mistake is to connect to a secondary input rather than a primary input) or restart Gaea.
+{.is-warning}
 
-![0d35f143-328e-4ad1-a921-75d2f7227a5b-image.png](/assets/uploads/files/1687335680105-0d35f143-328e-4ad1-a921-75d2f7227a5b-image.png) 
+![nodes.png](/images/mapping/gaea/basics/nodes.png)
 >*Figure 4: A properly connected and selected node, an unrendered node, and a node that was rendered but produced an error. Note how the first node has three inputs, one of which is a mask, and one output.*
 
 #### Node parameters
 Each node has a particular set of parameters that can be adjusted to change the result of the node. Some of these have obvious effects: the *Height* parameter for the `Constant` node affects the height of the flat plane that the node generates.  Common parameters include *Scale* and *Seed*. *Seed* in particular is a very powerful parameter common to nearly all nodes: changing the seed value randomizes the noise used to generate the effect of the node, which changes the outcome significantly (see *figure 5*). Other parameters are less intuitive, and require some experimenting to understand how the node is affected.
 
-![DifferentSeeds.png](/assets/uploads/files/1687347178981-differentseeds.png) 
+![differentseeds.png](/images/mapping/gaea/basics/differentseeds.png)
 > *Figure 5: Four copies of a mountain node with identical settings but different seeds.*
 
 ## Creating a heightmap for FAF
@@ -70,19 +72,19 @@ Each node has a particular set of parameters that can be adjusted to change the 
 #### Primitives
 Whether you have a design in mind or are hoping to combine nodes until something presentable falls out, you're going to want to start out with one of the primitives. This category of node is coloured green and serves as the basic building blocks for your terrain. Half of this category consists of 'plain' primitives: the `Constant` node produces a flat plane, the `Gradient` node produces a ramp or a cone. Different types of noise generators are included as well, such as `Gabor`, `LineNoise`, `Voronoi`, and `Multifractal`.
 
-![Primitives.png](/assets/uploads/files/1687347656778-primitives.png) 
+![primitives.png](/images/mapping/gaea/basics/primitives.png)
 > *Figure 6: A selection of primitive nodes: `Constant`, `Gradient`, `Gabor`, and `MultiFractal`.*
 
 #### Geo primitives
 The other half of this categories includes more complex presets of common terrain features. Among these *Geo Primitives* you will find nodes such as `Badlands`, `Crater`, `Mountain`, `Canyon`, `Dunes`, and `Island` (figure 7). Many of these advanced nodes can be recreated by combining 'plain' primitives, but as they are rather complex it is often easier to use the *Geo primitives*.
 
-![GeoPrimitives.png](/assets/uploads/files/1687348002155-geoprimitives.png) 
+![geoprimitives.png](/images/mapping/gaea/basics/geoprimitives.png)
 > *Figure 7: A selection of geoprimitive nodes: `Badlands`, `Dunes`, `Crater`, and `Canyon`.*
 
 #### Adjustments Nodes
 To start adding things together, you'll need some nodes from the next main category: the *adjustments* nodes. The `Combine` node does what it says on the tin: you can combine two different nodes into one using different blending modes and strengths. *Figure 8* shows the result of blending the `Badlands` node and `Crater` node from *figure 7* together using four different blendmodes.
 
-![Combine.png](/assets/uploads/files/1687348529589-combine.png) 
+![combine.png](/images/mapping/gaea/basics/combine.png)
 > *Figure 8: Blending `Crater` and `Badlands` using the blending modes Embed, Subtract, Divide, and Insert.*
 
 The other be scaled, rotated, and repositioned using the `Transform` command, while the `Clamp` node gives you good control over the global height of the terrain.
@@ -93,7 +95,7 @@ Once the basic design of your map has been established, you might want to take a
 
  I want to caution against using Erosion excessively; units in FAF do not like rough terrain: it messes with pathing and blocks shots. While erosion adds lots of detail to a map, consider that the main areas that units fight on should be smooth and relatively flat whenever possible. Naturally, this is of no concern in areas that are limited to air or navy only. 
 
-![Erosion.png](/assets/uploads/files/1687349527463-erosion.png)
+![erosion.png](/images/mapping/gaea/basics/erosion.png)
 > *Figure 9: A mountain and three variants with progressively stronger and more aggressive erosion (`Wizard`) applied. Note the formation of fine details, debris, and lots of sediment.*
 
 #### Modifier parameters
@@ -101,7 +103,7 @@ The properties panel of all nodes contains a set of buttons at the bottom right 
 
 Aside from these modifications, there are two more settings that are very useful. Be pressing the '*>*' button, two further options appear. The *Influence* parameter allows you to reduce the overal effect of the node. The *Drop to Floor* checkbox lowers the contents of the node to the lowest possible limit, which can be very useful after combining several layers together. 
 
-![b0a0e2b8-2721-47ba-8ada-0277be718c85-image.png](/assets/uploads/files/1687350084510-b0a0e2b8-2721-47ba-8ada-0277be718c85-image.png) 
+![parameters.png](/images/mapping/gaea/basics/parameters.png)
 
 >*Figure 10: This panel containing modifier parameters is present on all nodes and allows for adjustments without having to add more nodes. The Drop to Floor checkbox is not visible by default and will only show up when pressing the chevron to the left of the buttons.*
 
@@ -121,7 +123,7 @@ Since the greyscale value of each pixel is a number, we can easily make selectio
 
 For a more extensive introduction to *Data* nodes to create masks, please see the Gaea tutorial on Masking. 
 
-![Masks.png](/assets/uploads/files/1687351352910-masks.png) 
+![masks.png](/images/mapping/gaea/basics/masks.png)
 >*Figure 11: The 3D image, and the corresponding greyscale representation of the raw data for the heightmap. The three greyscale images show the heightmap projected on the 3D model, on a flat plane, and on a flat plane with Enhanced view enabled.*
 
 #### Using greyscale values to select
@@ -131,7 +133,7 @@ By using masks, you get infinitely more control over how nodes are applied. One 
 
 To do this, we first set up our mountain and apply the `Wizard` erosion node. Then, we create our mask. The mask that we need to limit the erosion to only half of the mountain is a mask that is half white, and half black. Only in the white regions will the erosion effect be applied. To create a full white heightmap, we could take the `Constant` node and set it to 100% height. Using a `Transform` node, we could then move the `Constant` node halfway off of the workspace. As there is no information on the now empty half of the heightmap, these pixels will be black. The results is a heightmap that is white in one half of the image, and black on the other half. When we then use the output of this `Transform` node and chain it as the mask-input of the `Wizard` node, we get the result we intend (*figure 12*).
 
-![Masks2 copy.png](/assets/uploads/files/1687353401572-masks2-copy.png) 
+![masks2_copy.png](/images/mapping/gaea/basics/masks2_copy.png)
 >*Figure 12: The erosion effect is applied to half of the mountain using a mask. Panel 2 and 3 both show the same node, but the display mode differs. The bottom panel shows the Graph to create this effect. The `Fold` node shown was used to slightly alter the result of `Mountain` node, and does not affect the process of making a mask.*
 
 Naturally, this specific effect is not something that would work well for a FAF map, but clearly illustrates the principle of using masks.
@@ -145,7 +147,7 @@ As Gaea is designed to create realistic and natural terrain, it does not create 
 #### Symmetry of basic terrain
 The most simple way to create a symmetric heightmap is done by using the `Flip` and `Combine` nodes. The `Flip` node allows for three different types of mirroring: *Horizontal*, *Vertical*, and *Both*. By combining the flipped copy with the original, you get symmetry.
 
-![Mirroring.png](/assets/uploads/files/1687357604005-mirroring.png) 
+![mirroring.png](/images/mapping/gaea/basics/mirroring.png)
 >*Figure 13: An example of how the `Flip` node can be used to create three different kinds of symmetry: Horizontal, Vertical, and Both. `Combine, Add, 100%` was used in these examples.*
 
 ### Rendering your height mask
