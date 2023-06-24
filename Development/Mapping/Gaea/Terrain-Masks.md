@@ -2,7 +2,7 @@
 title: Producing Terrain Masks in Gaea
 description: n this tutorial, we'll dive into the process of creating terrain masks using Gaea.
 published: true
-date: 2023-06-24T18:34:01.748Z
+date: 2023-06-24T18:34:54.959Z
 tags: mapping, gaea, masks, mask
 editor: markdown
 dateCreated: 2023-06-24T18:00:53.840Z
@@ -49,7 +49,8 @@ For my map [Project Dust](https://forum.faforever.com/topic/6066/index-librorum-
 ![projectdustmasks.png](/images/mapping/gaea/masks/projectdustmasks.png)
 >*Figure 2: An overview of the exported masks for my map Project Dust. Notice how each masks highlights different features.*
 
-After adjusting the greyscale value, the final mask looks like this (example of mask #5): !![dustmask5.png](/images/mapping/gaea/masks/dustmask5.png)
+After adjusting the greyscale value, the final mask looks like this (example of mask #5):
+![dustmask5.png](/images/mapping/gaea/masks/dustmask5.png)
 >*Figure 3: Grey-scale adjusted copy of mask 5.*
 
 ### Loading the terrain in Gaea
