@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-06-24T17:56:03.171Z
+date: 2023-06-24T18:01:44.093Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -29,7 +29,7 @@ In this tutorial, we'll discuss the fundamentals and guide you through the basic
 ## 2) Producing Terrain Masks in Gaea:
 Terrain masks are crucial for defining texture distribution on your map. In this tutorial, we'll dive into the process of creating terrain masks using Gaea's powerful procedural algorithms and functions.
 
-[Link to tutorial 2]
+[Link to tutorial 2](/en/Development/Mapping/Gaea/Terrain-Masks)
 
 ## 3) Texturing in Gaea:
 This tutorial on texturing in Gaea will teach you how to set up a texturing prototype using the masks you learnt to generate in tutorial two. Using this prototype, you can quickly evaluate your masks and make changes where needed. Additionally we will discuss the use of Satmaps in preparation for creating the map-wide albedo generation we will discussin tutorial four. Lastly, we will discuss how to create custom textures to further improve the aestethics of your map.
