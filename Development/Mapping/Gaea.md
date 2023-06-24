@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-06-24T18:01:44.093Z
+date: 2023-06-24T18:01:55.301Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -12,7 +12,7 @@ dateCreated: 2023-05-09T10:38:02.040Z
 
 Welcome to the Gaea Map-Making Tutorials for Forged Alliance Forever (FAF).
 
-I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. Being the unexhaustable fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to get you up to speed right away and save you from the months of experimenting I had to go through to discover all the interesting ways that things can go wrong in. 
+I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. Being the inexhaustible fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to get you up to speed right away and save you from the months of experimenting I had to go through to discover all the interesting ways that things can go wrong in. 
 
 Gaea is a powerful terrain generation software that allows you to do some pretty nifty things, like letting you create high quality maps for Supreme Commander:Forged Alliance Forever. Whether you're a seasoned map maker or relatively new to the world of terrain generation, these tutorials will provide you with the knowledge and techniques to bring your map-making skills to the next level.
 
