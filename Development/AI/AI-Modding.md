@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-08T05:35:18.589Z
+date: 2023-06-24T20:46:50.432Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -10,23 +10,23 @@ dateCreated: 2021-08-31T09:41:53.721Z
 
 # Ai Modding
 ## Custom AI
-FAF has a number of custom AI - a [separate summary is available of the various AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
+FAF has several custom AI - a [separate summary available of the various AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
 
-The below page is for if you are interested in creating your own AI in FAF.
+The below page is for if you are interested in creating your AI in FAF.
 
 ## Detailed guide
-An [AI development guide](https://docs.google.com/document/d/1puzW5hKcOBNE7wu7bXj6qXfTJ60r2f93/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true) that was created alongside a development log for one of the AIs is available, with the below containing extracts from this and other sources.
+An [AI development guide](https://docs.google.com/document/d/1puzW5hKcOBNE7wu7bXj6qXfTJ60r2f93/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true) that was created alongside a development log for one of the AIs is available, with the below-containing extracts from this and other sources.
 
 See also the [forum post relating to this AI](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v13-devlog) which includes a link to the devlog.
 
 
 ## Before you start
-It is always good to have some knowledge of how you want your AI to play out. So before you create an AI, it is recommended that you have a good idea of how the features of Forged Alliance works, e.g. The Economy, different unit roles.
+It is always good to have some knowledge of how you want your AI to play out. So before you create an AI, it is recommended that you have a good idea of how the features of Forged Alliance work, e.g. The Economy, and different unit roles.
 
 You will need a text editor of some kind:
 
 - Sublime Text or Notepad ++ will do.
-- Intellij IDEA with the EmmyLua plugin works well (some of its features that are useful include autosaving changes, good search functionality, text highlighting and prompts, error identification, shortlist of variables and functions in a file, compatible with Github desktop).
+- IntelliJ IDEA with the EmmyLua plugin works well (some of its useful features include autosaving changes, good search functionality, text highlighting and prompts, error identification, a shortlist of variables and functions in a file, and compatible with the GitHub desktop).
 
 ## Setup info
 
@@ -46,10 +46,10 @@ Lua is used for any AI coding/editing.  Useful more general links to learning Lu
 Modifying the AI code involves using the Lua language.  There’s useful information on Lua concepts and coding with Lua below:
 https://www.lua.org/pil/contents.html
 
-- Stand alone Lua code testing
+- Stand-alone Lua code testing
 
 If you want to read through this and experiment with Lua coding outside of FAF to understand some concepts, here’s a simple way to get things setup:
-- Download both the windows executables and windows DLL from the following link: http://luabinaries.sourceforge.net/download.html
+- Download both the Windows executables and Windows DLL from the following link: http://luabinaries.sourceforge.net/download.html
 - Extract to the same folder as each other
 -	Create a test Lua file - create a notepad file, rename the extension from .txt to .lua, and then add your code to it, e.g.:
 ```lua
@@ -57,7 +57,7 @@ print("Hello World")
 io.read()
 ```
 
-Click and drag the Lua file you want to run onto the windows executable (lua54.exe); if io.read() is at the end of the code then the window will stay open until you press enter.
+Click and drag the Lua file you want to run onto the Windows executable (lua54.exe); if io.read() is at the end of the code then the window will stay open until you press enter.
 For example, I made use of this to test multi-dimensional tables to ensure I was referencing them correctly.
 
 - Lua optimisation
@@ -75,9 +75,9 @@ I’ve noted some of the errors I would frequently make in case they’re of hel
 
 -	Related to this, care also needs to be taken with table references – e.g. MyTable[1][1] not MyTable[1[1]]
 
--	Case sensitive references – GetUnitID() will return an error.  However, GetUnitId() will return a unit blueprint ID (if used correctly).  Similarly MyVar is a different variable to myVar
+-	Case sensitive references – GetUnitID() will return an error.  However, GetUnitId() will return a unit blueprint ID (if used correctly).  Similarly, MyVar is a different variable to myVar
 
--	Full stops vs colons – continuing the above example, oUnit.GetUnitId() will return an error, but oUnit:GetUnitId() won’t.  (with thanks to Speed2 – the reason for this is that oUnit:GetUnitId() is syntactic sugar for oUnit.GetUnitId(self). So if you want to use the version with . you have to pass self as first arg).
+-	Full stops vs colons – continuing the above example, oUnit.GetUnitId() will return an error, but oUnit:GetUnitId() won’t.  (with thanks to Speed2 – the reason for this is that oUnit:GetUnitId() is syntactic sugar for oUnit.GetUnitId(self). So if you want to use the version with. you have to pass self as the first arg).
 
 
 ## AI Coding Overview: How to create/edit an AI in FAF
@@ -96,7 +96,7 @@ Thanks to chp2001 for the following diagrams which also give an overview of how 
 
 To do that we need to get a little info about our AI into the **aitypes** table in **/lua/ui/lobby/aitypes.lua**
 
-Fortunately for us this is really easy, we just need to add our AI table somewhere in the **/lua/AI/CustomAIs_v2/** folder (all files in this folder with a **.lua** get loaded).
+Fortunately for us, this is easy, we just need to add our AI table somewhere in the **/lua/AI/CustomAIs_v2/** folder (all files in this folder with a **.lua** get loaded).
 
 For example, we could create a file **/lua/AI/CustomAIs_v2/EpicAi.lua**, containing:
 ```lua
@@ -121,13 +121,13 @@ For example, we could create a file **/lua/AI/CustomAIs_v2/EpicAi.lua**, contain
    },
  }
 ```
-This is the table that the lobby will load in to give your AI as an option, and has subcategories for normal and cheating AIs. We can stick as many AIs as we like in here.
+This is the table that the lobby will load in to give your AI as an option and has subcategories for normal and cheating AIs. We can stick as many AIs as we like here.
 
-Next we need to create some lobby tooltips for our new AIs, these are the help texts that come up when someone hovers over our AI. To do this we will be adding to the **Tooltips** object in **/lua/ui/help/tooltips.lua**.
+Next, we need to create some lobby tooltips for our new AIs, these are the help texts that come up when someone hovers over our AI. To do this we will be adding to the **Tooltips** object in **/lua/ui/help/tooltips.lua**.
 
-Since this is already full of stuff, what we really want to do is append to it (rather than have to maintain an up to date tooltips.lua every time a new FAF patch comes out).
+Since this is already full of stuff, what we want to do is append to it (rather than have to maintain up-to-date tooltips.lua every time a new FAF patch comes out).
 
-For this we create our shadow file in **schook**: **/schook/lua/ui/help/tooltips.lua**, and our file contents should look something like:
+For this we create our shadow file in **schook**: **/schook/lua/ui/help/tooltips.lua**, and our file contents should look something like this:
 ```lua
 Tooltips.aitype_mycustomai1 = { title = "This is the title for Custom AI 1", description = "This AI really is epic!!", }
 
@@ -143,7 +143,7 @@ Please Note! AI **Keys** (Identifiers) are really important for this part. Make 
 
 AI behaviour gets keyed by files in the **/lua/AI/AIBaseTemplates/** folder.
 
-This is where it gets interesting. Once you have configured your **keys**, you can start creating templates for your AI to follow. In order to do this, you need to create a **BuildTemplate** and a list of **Builders**. You must always keep your **keys** around during this part, as they are what identify an AI individually.
+This is where it gets interesting. Once you have configured your **keys**, you can start creating templates for your AI to follow. To do this, you need to create a **BuildTemplate** and a list of **Builders**. You must always keep your **keys** around during this part, as they are what identify an AI individually.
 
 A **BuildTemplate** contains a function that returns your **key** so it knows to use that **BuildTemplate** for the AI that is linked with the specific **keys**. Let's take the **epic1** key as shown above. 
 
@@ -182,29 +182,29 @@ A bare-bones AI implementation is available on [GitHub](https://github.com/Hardl
 
 The following sets out the steps for including this so you have a starting point that you can edit/add to when creating your own AI (which may be less intimidating than starting completely from scratch)
 
--	Follow the above github link, click on the “Code” button, and download as a zip file
--	Copy/extract the folder and file groupings into the mods folder of Supreme commander, creating a folder for your mod name (i.e. the Hook and Lua folders will be subfolders of this folder you create). E.g. `C:\Users\[yourusername]\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\mods\MicroAI` Another location that might be used instead of the above is: `C:\ProgramData\FAForever\user\My Games\Gas Powered Games\Supreme Commander Forged Alliance\mods\MicroAI`
--	Giving the AI mod your own name
+-	Follow the above GitHub link, click on the “Code” button, and download as a zip file
+-	Copy/extract the folder and file groupings into the mods folder of Supreme Commander, creating a folder for your mod name (i.e. the Hook and Lua folders will be subfolders of this folder you create). E.g. `C:\Users\[yourusername]\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\mods\MicroAI` Another location that might be used instead of the above is: `C:\ProgramData\FAForever\user\My Games\Gas Powered Games\Supreme Commander Forged Alliance\mods\MicroAI`
+-	Giving the AI mod a name
 
 To avoid conflicts with other AI (which can lead to your and/or their AI not working) it’s important to use a unique reference for your AI mod, and to (wherever possible) preface any names you give with this unique reference.
 -	Rename the MicroAI folder and any files within it to replace ‘MicroAI’ with your own chosen reference
--	Open up the renamed MicroAI directory in the Lua editor, and then use the find function to replace any references to “microai” to your chosen reference (i.e. across all files).
+-	Open up the renamed MicroAI directory in the Lua editor, and then use the find function to replace any references to “microai” with your chosen reference (i.e. across all files).
 -	Update the mod_info.lua file to change the uid to a different unique reference
 In addition, whenever using hooks I’d strongly recommend using some sort of unique prefix for all functions and global variables to avoid conflict with other AIs (which can lead to game crashes and AI not functioning at all).
 
 ## Other setup and general information
 -	Github
 
-Even if you're planning on developing your AI on your own rather than collaboratively, github still has benefits some of which are summarised below 
+Even if you're planning on developing your AI on your own rather than collaboratively, GitHub still has benefits some of which are summarised below 
 -	Clearer history – Changes to code can be grouped by what they relate to, so if you're figuring out what you changed with a particular logic it’s easier (Intellij contains a local history option, but this will show all changes vs a particular time point)
--	Potential for online collaboration – if another AI developer comes across a bug it’s possible they might provide a suggested fix via github.  It also makes it easier to point people towards a particular part of your code if you want to show them how you did something (to help them) or ask for help on why something isn’t working.
+-	Potential for online collaboration – if another AI developer comes across a bug it’s possible they might provide a suggested fix via Git Hub.  It also makes it easier to point people towards a particular part of your code if you want to show them how you did something (to help them) or ask for help on why something isn’t working.
 -	Backups – Having the code backed up online gives extra protection in the unlikely event of a computer failure
-Setup involves creating an online account on Github, installing git, downloading and installing Github Desktop, and then loading Github Desktop and pointing it to the mods directory where your AI folder is.  Github Desktop will then automatically track changes made to your code, so whenever you've finished with a change you can open it up, type a few words summarising the change, and then save/publish those changes. See elsewhere for guides on using Github.  For example I came across the following from a brief search:
+Setup involves creating an online account on Github, installing git, downloading and installing Github Desktop, and then loading Github Desktop and pointing it to the mods directory where your AI folder is.  GitHub Desktop will then automatically track changes made to your code, so whenever you've finished with a change you can open it up, type a few words summarising the change, and then save/publish those changes. See elsewhere for guides on using Github.  For example, I came across the following from a brief search:
 - [Git ebook](https://git-scm.com/book/en/v2)
 - [Git commit messages](https://chris.beams.io/posts/git-commit/)
 - [AI development discord](https://discord.gg/M5zgaWTqH9)
 
-A number of AI developers are active on this discord; the Discussion-about-ai support channel can be used either to see discussions developers have among themselves about the best way of doing something (this guide contains several extracts of such conversations), or to ask queries/help for your own AI.
+Several AI developers are active on this discord; the Discussion-about-ai support channel can be used either to see discussions developers have among themselves about the best way of doing something (this guide contains several extracts of such conversations) or to ask queries/help for your AI.
 
 - Other AI discord resources
 The main FAF discord has a section relating to AI development.  To have these visible, first go to the #Role-selection channel, and in the “What are your game preferences? Part 2” section, click the robot icon that relates to having a preference for AI games.
@@ -216,21 +216,21 @@ Often it’s necessary to access the core game files to try and understand how s
 
 The base forged alliance files can be found at: `C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance\gamedata` Or for the non-steam version: `C:\Program Files (x86)\THQ\Gas Powered Games\Supreme Commander - Forged Alliance\gamedata`
 
-Meanwhile FAF files can be found: `C:\ProgramData\FAForever\gamedata`. I'd recommend making a copy of the Lua files from these in a separate location so you can view them without accidently editing them and causing a desync (or alternatively just using the main FAF github for searching/viewing code, which has the benefit of being up to date for the latest version).
+Meanwhile, FAF files can be found: `C:\ProgramData\FAForever\gamedata`. I'd recommend making a copy of the Lua files from these in a separate location so you can view them without accidentally editing them and causing a desync (or just using the main FAF GitHub for searching/viewing code, which has the benefit of being up to date for the latest version).
 
 E.g. for the FAF data, I think the lua.nx2 is the main file used. To access the files, rename the copy’s file extension to.zip, and you should be able to extract their contents.  You can then e.g. open the entire folder in Intellij which will allow you to search every script within that folder (and subfolders) in one go.
-- Built in functions
+- Built-in functions
 
 The below link also appears to give a list of core/global functions that can be used (I’ve not tested these to see if they all work, or even if they’re for FAF rather than SupCom2, but speed2 confirmed they’re for FA): [LUADOC](https://wiki.faforever.com/en/Modding/LUADOC)
 
-With thanks to speed2 for the link, some FAF functions are also documented in this [link](https://github.com/FAForever/fa/tree/deploy/fafdevelop/engine)
+With Thanks to speed2 for the link, some FAF functions are also documented in this [link](https://github.com/FAForever/fa/tree/deploy/fafdevelop/engine)
 
-The AI development guide referred to initially also includes an index of built in functions found to be of use, split by category, at the end of the guide.
+The AI development guide referred to initially also includes an index of built-in functions found to be of use, split by category, at the end of the guide.
 -	Unit blueprints
 
-The following website contains key information for each blueprint by analysing the code on github: https://unitdb.faforever.com
+The following website contains key information for each blueprint by analysing the code on GitHub: https://unitdb.faforever.com
 Therefore, if you want to see all data available on a unit blueprint, if you load up the building/unit in question, the website then has a hyperlink on the unit blueprint ID which takes you to the underlying code itself.
-Note though that the website summarising each blueprint can be out of date, so to be sure you're getting the latest information you'd want to check the underlying blueprint code on github.
+Note though that the website summarising each blueprint can be out of date, so to be sure you're getting the latest information you'd want to check the underlying blueprint code on Git Hub.
 
 E.g. the following is the code for a [T1 Aeon Engineer](https://github.com/FAForever/fa/blob/develop/units/UAL0105/UAL0105_unit.bp) If you have a blueprint object in your code, you can then reference the information contained in this code.
 
@@ -247,31 +247,31 @@ The following links give more details/examples on hooking:
 - https://supcom.fandom.com/wiki/Modding
 - https://forums.faforever.com/viewtopic.php?f=41&t=16789
 
-If you're unfamiliar with how hooks work then I'd suggest looking at an existing AI for how they've done hooks.  An example is given below which adds a variable to an ai which will allow you to check (in other code) if the AI chosen is your own (e.g. this is useful for hooks as well to avoid doing anything if you're not dealing with your own AI):
+If you're unfamiliar with how hooks work then I'd suggest looking at an existing AI for how they've done hooks.  An example is given below which adds a variable to an ai which will allow you to check (in other code) if the AI chosen is your own (e.g. this is useful for hooks as well to avoid doing anything if you're not dealing with your AI):
 
 Go to the hook\lua folder, and create a new Lua file called aibrain.lua
 
-In this case we want to hook the AIBrainClass, and specifically the OnCreateAI part of that class.  We hook it in a non-destructive manner with the following (the example given is for an AI called Micro27):
+In this case, we want to hook the AIBrainClass, and specifically the OnCreateAI part of that class.  We hook it in a non-destructive manner with the following (the example given is for an AI called Micro27):
 ```lua
 Micro27AIBrainClass = AIBrain
 AIBrain = Class(Micro27AIBrainClass) {
 --Hook of the class
 
     OnCreateAI = function(self, planName)
-        Micro27AIBrainClass.OnCreateAI(self, planName) --This means that the original code that would have run is still run (so this is a non-destructive hook)
+        Micro27AIBrainClass.OnCreateAI(self, planName) --This means that the original code that would have run is still running (so this is a non-destructive hook)
         
         --The custom code we want to also run on this hook but only for our AI:
         local personality = ScenarioInfo.ArmySetup[self.Name].AIPersonality
-        if string.find(personality, 'icro27') then --if the AI name conains icro27 then assume its ours and set a variable to true so in future we can just check the presence of this variable:
+        if string.find(personality, 'icro27') then --if the AI name contains icro27 then assume it's ours and set a variable to true so in future we can just check the presence of this variable:
             -- case sensitive
             self.Micro27AI = true
         end
     end,
 }
 ```
-If you want to hook other files or functions, then first determine the file name and location of that file (within the core FAF lua files) that its part of, and follow a similar process to what was done above for the aibrain.lua file.
+If you want to hook other files or functions, then first determine the file name and location of that file (within the core FAF lua files) that it's part of, and follow a similar process to what was done above for the aibrain.lua file.
 
-For example, you can use hooks to create your own custom code that will run on certain events (e.g. when a unit takes damage; when a weapon is fired; etc.)
+For example, you can use hooks to create your custom code that will run on certain events (e.g. when a unit takes damage; when a weapon is fired; etc.)
 
 ## Debugging
 - Console
@@ -288,22 +288,22 @@ When writing Lua code, you can send messages to the log window using LOG(), e.g.
 ```lua
 LOG('Hello world’)
 ```
-If there are errors in your code, often it will show up in yellow warning text in the log menu when it attempts to run, which may give useful information to help identify the particular code file and line item that are causing the error (along with why).
+If there are errors in your code, often it will show up in yellow warning text in the log menu when it attempts to run, which may give useful information to help identify the particular code file and a line item that are causing the error (along with why).
 
-If you’ve hooked onto existing code then the line item where an error is present will be higher than when you view the code.  I solve this by making a comment at the top of hooked code with how many line items are in the core game files, so I can then subtract this to work out the actual line in my code causing the error.  If you have mods enabled then this can also cause the line item to change if they’ve hooked onto the same file.
+If you’ve hooked onto existing code then the line item where an error is present will be higher than when you view the code.  I solve this by commenting on the top of the hooked code with how many line items are in the core game files, so I can then subtract this to work out the actual line in my code causing the error.  If you have mods enabled then this can also cause the line item to change if they’ve hooked onto the same file.
 
-I often use the log window by putting LOG() statements throughout my code, with a unique reference and then coyping the log window output (e.g. into word excel or notepad) and searching for the unique reference to see if it’s doing what I think it should.
+I often use the log window by putting LOG() statements throughout my code, with a unique reference and then copying the log window output (e.g. into word excel or Notepad) and searching for the unique reference to see if it’s doing what I think it should.
 
 You can also have the log window open when you load the game itself by adding “/showlog” to the end of the shortcut, i.e. `C:\ProgramData\FAForever\bin\ForgedAlliance.exe /showlog`
 
 - Debug window and shortcuts
 
-(with thanks to speed2) there’s a debug window that allows you to view variables/tables in-game, and can be accessed by pressing Alt+F9.
+(with thanks to speed2) there’s a debug window that allows you to view variables/tables in-game and can be accessed by pressing Alt+F9.
 
-Checking the key bindings there are also a number of related shortcuts which presumably are for use with the debug window.
-When I tried accessing this I got an error message, and others have as well, with Jip thinking it happens where the game has been installed via steam and not the CD meaning it is missing some texture files.
+Checking the key bindings there are also several related shortcuts which presumably are for use with the debug window.
+When I tried accessing this I got an error message, and others have as well, with Jip thinking it happens where the game has been installed via Steam and not the CD meaning it is missing some texture files.
 
-I ended up finding a cheap copy of the FA game disc and the debug menu now loads for me but still gives an error message on one of the files it tries to access and doesn’t do anything, so it's noted here in case it works for other people (but with a warning that there's a good chance it wont).
+I ended up finding a cheap copy of the FA game disc and the debug menu now loads for me but still gives an error message on one of the files it tries to access and doesn’t do anything, so it's noted here in case it works for other people (but with a warning that there's a good chance it won't).
 - Platoon names for debugging
 
 An alternative to using the LOG() option is to rename platoons.  E.g. Uveso’s AI will rename platoons to indicate what they’re doing, which (when coupled with the configuration option that displays platoon names) makes it easier to assess the logic a platoon is following.
@@ -332,7 +332,7 @@ If you start a game, and make changes to your code while the game is running, us
 
 You can also use command line switches to change some settings [here](https://wiki.faforever.com/en/Command-Line-Switches)
 
-With thanks to Uveso and Dragun101, you can enable offline logs using a command switch, which will create a text file of the log that you can access even after closing down the game.  I’d therefore recommend this, since if you run into a hard game crash this at least gives you something to go on to figure out whats causing it.
+Thanks to Uveso and Dragun101, you can enable offline logs using a command switch, which will create a text file of the log that you can access even after closing down the game.  I’d therefore recommend this since if you run into a hard game crash this at least gives you something to go on to figure out what's causing it.
 
 Incorporating the points above, I use the following to test offline, which shows the debug log by default, and creates a log file I can access:
 
@@ -340,47 +340,47 @@ Incorporating the points above, I use the following to test offline, which shows
 
 - Hard crashes
 
-Unfortunately not all errors result in the orange error message text that aborts the script and tells you the precise sequence of functions (and the line item) that caused the error.  Sometimes the game will just do a hard crash.  The most common causes of this that I’ve come across so far are:
--	Infinite loops (fairly obvious one – as a precaution against this I ensure that every ‘do while’ loop I use has a maximum loop count so it can abort to protect against this)
+Unfortunately, not all errors result in the orange error message text that aborts the script and tells you the precise sequence of functions (and the line item) that caused the error.  Sometimes the game will just do a hard crash.  The most common causes of this that I’ve come across so far are:
+-	Infinite loops (fairly obvious one – as a precaution against this I ensure that every ‘do while loop I use has a maximum loop count so it can abort to protect against this)
 -	Referencing units/platoons after they’re destroyed – normally this causes the ‘orange’ error message, but occasionally it would hard crash.  This can also happen if trying to reference your ACU after it’s destroyed.  To get around this if I want to reference the ACU as a variable I now use a custom function which will first check the ACU variable isn’t nil and the ACU isn’t dead before proceeding (and just wait ages if it is dead).  
--	Use of WaitTicks and WaitSeconds – This links to the above point - the danger when using these functions is that the game state will change, and could lead to previous assumptions being incorrect.  For example, you record a variable for a particular unit, then wait 1 second.  If you then try and do anything involving that unit, you could cause an error if in the meantime something has happened to that unit (e.g. it’s been destroyed).  You can avoid this by checking the variable is still valid (e.g. in the case of a variable oUnit, something like ‘if oUnit and not(oUnit.Dead)’ should work, but it’s easy to forget to do this.
+-	Use of WaitTicks and WaitSeconds – This links to the above point - the danger when using these functions is that the game state will change, and this could lead to previous assumptions being incorrect.  For example, you record a variable for a particular unit, then wait 1 second.  If you then try and do anything involving that unit, you could cause an error if in the meantime something has happened to that unit (e.g. it’s been destroyed).  You can avoid this by checking the variable is still valid (e.g. in the case of a variable oUnit, something like ‘if oUnit and not(oUnit.Dead)’ should work, but it’s easy to forget to do this.
 -	Using LOG(repr(table)) on a large table – e.g. if you try and do repr on even just a single unit variable, it will take ages to print everything or even just crash the game.  Try to do it on a table of units and the game will just crash.
 -	Errors in variable declarations – e.g. I once had a hard crash caused because at the start of a code file (above any functions) I had a variable declaration local refCategoryT1Mex = categories.STRUCTURE * categories.TECH1 * categories.EXTRACTION
--	The error was because there is no categories.EXTRACTION, only categories.MASSEXTRACTION.  Similarly, a typo in categories in that context would I think cause a hard crash.
+-	The error was because there are no categories.EXTRACTION, only categories.MASSEXTRACTION.  Similarly, a typo in categories in that context would I think cause a hard crash.
 -	Similarly, you can get a hard crash by trying to import a file that doesn’t exist (e.g. local M27MissingFile = import('/mods/M27AI/lua/AI/M27MissingFile.lua') – so if tidying up your code by removing unused code files make sure you’ve not imported that file anywhere first.
 - Using FAF Develop
 
-It’s advisable to do at least some testing on the FAF Develop version of the game (instead of the normal game), in case any of the planned changes will interfere with how your AI works.  This means you can pre-empt these and reduce the risk your AI fails when a new FAF patch is added to the core game, as well as helping improve the FAF project in the event you come across an issue with the develop version itself (as opposed to a flaw in your code that it exposes).
+It’s advisable to do at least some testing on the FAF Develop version of the game (instead of the normal game), in case any of the planned changes will interfere with how your AI works.  This means you can pre-empt these and reduce the risk your AI fails when a new FAF patch is added to the core game, as well as help improve the FAF project in the event you come across an issue with the develop version itself (as opposed to a flaw in your code that it exposes).
 
-I followed the following steps which resulted in FAF develop working:
+I followed the following steps which resulted in FAF development working:
 -	Host and play an online game through the FAF client, selecting the develop mode when hosting (NOTE: make sure you backup your AI first due to the risk of it being overwritten if you’ve already uploaded a version of your AI to the mods section and have the AI mod enabled when hosting the game; also disable your AI sim mod before actually creating the game to host):
 
 ![usingfafdevelop.png](/usingfafdevelop.png)
 
-You can also create a shortcut to running the game offline using FAF develop:
+You can also create a shortcut to running the game offline using FAF development:
 `C:\ProgramData\FAForever\bin\ForgedAlliance.exe /init init_fafdevelop.lua /EnableDiskWatch /showlog /log  C:\ProgramData\FAForever\logs\offlineDev.log`
 - Error handling
 
 With thanks to Softles, the below link discusses different options for error handling in [LUA](https://www.tutorialspoint.com/lua/lua_error_handling.htm)
 However, one of the functions in here, xpcall, doesn’t work in FAF (at least it doesn’t when I’ve tried it).
-When most errors occur in FAF, you’ll get an orange error message which tells you the line of code causing the error, a description of the error, and traces the different functions and line references that got to that point.  However, at this point the thread will abort (meaning any code after it doesn’t run).
-This is a big issue if you have looped code that is intended to always run – for example, platoon AI – your platoon can end up stuck not doing anything, because it encountered a single error.
-With thanks to Balthazaar, you can use the following line to produce a similar error message that doesn’t cause the code to stop (meaning if something unexpected happens you’ll have useful information to help identify it, and can try and get your code to handle the error without coming to a grinding halt):
+When most errors occur in FAF, you’ll get an orange error message which tells you the line of code causing the error, a description of the error, and traces the different functions and line references that got to that point.  However, at this point, the thread will abort (meaning any code after it doesn’t run).
+This is a big issue if you have looped code that is intended to always run – for example, platoon AI – your platoon can end up stuck not doing anything because it encountered a single error.
+With thanks to Balthazaar, you can use the following line to produce a similar error message that doesn’t cause the code to stop (meaning if something unexpected happens you’ll have useful information to help identify it and can try and get your code to handle the error without coming to a grinding halt):
 ```lua
 local a, s = pcall(assert, false, 'msg')
 WARN(a, s)
 ```
 
-For example, lets say you have code that will issue a move command to a unit.  If the unit is dead, then instead of issuing a move command you could just include these line items (with something more meaningful in msg such as ‘Unit is dead so stopping move command’), and avoid issuing the move command (so you don’t cause an actual error).
+For example, let's say you have code that will issue a move command to a unit.  If the unit is dead, then instead of issuing a move command you could just include these line items (with something more meaningful in msg such as ‘Unit is dead so stopping move command’), and avoid issuing the move command (so you don’t cause an actual error).
 Global variable not recognised
-Usually this error message means you’ve made a typo when referencing a variable, or have forgotten that you’re calling a function from another file (so need to have a prefix with that file’s variable; i.e. at the start of the script file you’ll have a local variable importing the other file with the function you want, e.g. `local ABCUtilities = import('/mods/ABCAI/lua/ABCutilities.lua')` and then your function or variable reference from that file has ABCUtilities. as a prefix.
+Usually, this error message means you’ve made a typo when referencing a variable, or have forgotten that you’re calling a function from another file (so need to have a prefix with that file’s variable; i.e. at the start of the script file you’ll have a local variable importing the other file with the function you want, e.g. `local ABCUtilities = import('/mods/ABCAI/lua/ABCutilities.lua')` and then your function or variable reference from that file has ABCUtilities. as a prefix.
 
-Another time this error can occur however is if you’ve messed up something in the code file itself.  For example I once commented out a while loop and replaced it with an if condition to try and figure out what was wrong with my code.  However, I forgot that I’d also included a break within the while loop (to stop infinite loops).  Having that break remaining in my code but with no loop meant that if any function in that code file was referenced (even if it was completely separate to the affected function containing the break in it) it would return an error that it couldn’t find a global variable with that name.
+Another time this error can occur however is if you’ve messed up something in the code file itself.  For example, I once commented out a while loop and replaced it with an if condition to try and figure out what was wrong with my code.  However, I forgot that I’d also included a break within the while loop (to stop infinite loops).  Having that break remaining in my code but with no loop meant that if any function in that code file was referenced (even if it was completely separate from the affected function containing the break in it) it would return an error that it couldn’t find a global variable with that name.
 - Debugging via replay: Offline replays
 
 (With thanks to Relent0r for confirming the replay location, and Spouto for suggesting) when you play a game using the FAF exe `(C:\ProgramData\FAForever\bin\ForgedAlliance.exe)`, the last game you play gets stored as LastGame and is accessible in the Replay window.  This should get stored even if you close down the game part-way through (although I’ve not double-checked it gets stored in the event of a hard crash).  My lastreplay gets saved to the following location (if you wanted to make a copy to avoid the risk of overwriting it with a new game):
 `C:\Users\[username]\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\replays\FAF_[FAF username]`
-If you come across an error that is hard to replicate, then one approach is to play until you have a game that it occurs in, then make changes to the code to help debug (or fix) the error, and then run the replay.  It will desync due to the changes, but depending on the scenario can give a way of getting more information on whats causing the error/how to resolve it.
+If you come across an error that is hard to replicate, then one approach is to play until you have a game that it occurs in, then make changes to the code to help debug (or fix) the error, and then run the replay.  It will desync due to the changes, but depending on the scenario can give a way of getting more information on what's causing the error/how to resolve it.
 
 - Debugging via replay: Online replays
 
@@ -390,7 +390,7 @@ This means you should be very careful when accessing an online replay due to the
 It also makes it harder to diagnose issues with online replays, as you have to mimic the same version to avoid the client redownloading it.
 Following a client update, mods are now saved in the below location:
 `C:\ProgramData\FAForever\user\My Games\Gas Powered Games\Supreme Commander Forged Alliance\mods`
-Simply deleting the folder for the AI in question and replacing it with alternative files (that use the same uuid and version number) won’t work, as it will still be replaced.  However, if you edit the folder and e.g. add in logs for particular issues, then it won’t replace the entire folder.
+Simply deleting the folder for the AI in question and replacing it with alternative files (that use the same uuid and version number) won’t work, as it will still be replaced.  However, if you edit the folder and e.g. add-in logs for particular issues, then it won’t replace the entire folder.
 I’ve not done further testing to figure out what the threshold is for the entire mod being replaced with a download of the version used in the replay.
 
 - Accessing an online replay offline
@@ -401,14 +401,14 @@ After starting the replay using the client you can find the scfareplay file in t
 Then you can copy that to your replay folder, rename it and play it
 You can then save it to:
 `C:\Users\[yourusername]\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\replays\FAF_[yourfafusername]`
-And then view the replay from the Replays menu when running the offline client (you'll need to try and view the replay using a consistent version of FAF, including either the FAFDevelop or normal FAF executible based on which was used for the replay).
+And then view the replay from the Replays menu when running the offline client (you'll need to try and view the replay using a consistent version of FAF, including either the FAFDevelop or normal FAF executable based on which was used for the replay).
 
 ## AI Builders
 Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
 
-If you're new to FAF then it's probably easiest to learn how AI builders work and how to change them by taking the existing Micro AI (see above for link on how to download this) and editing it for specific scenarios.  Some examples are given below.
+If you're new to FAF then it's probably easiest to learn how AI builders work and how to change them by taking the existing Micro AI (see above for a link on how to download this) and editing it for specific scenarios.  Some examples are given below.
 
-Note that you do not need to use the built in AI builders to produce something - creating your own system will provide greater flexibility, but isn't recommended as a first step to understanding how AI works.  Examples of AI which don't use the core AI builder system include DilliDalli and M27AI.
+Note that you do not need to use the built-in AI builders to produce something - creating your system will provide greater flexibility, but isn't recommended as a first step to understanding how AI works.  Examples of AI which don't use the core AI builder system include DilliDalli and M27AI.
 
 - Changing the initial build order
 Do the following to change the initial build order for the MicroAI:
@@ -428,7 +428,7 @@ BuildStructures = { -- The buildings to make
 }
 ```
 - Build order conditions and priorities
-A BuilderGroup contains various builder subtables.  Each builder subtable can be used to tell the AI to build something if certain condtiions are satisfied.
+A BuilderGroup contains various builder subtables.  Each builder subtable can be used to tell the AI to build something if certain conditions are satisfied.
 
 The Priority variable in the builder subtable determines which builder will be done first (the highest priority is done first).  I.e. the AI will loop through each builder within the buildergroup, check if the conditions are satisfied, and then try and build the builder (for which the conditions are satisfied) that has the highest priority.
 
@@ -476,4 +476,4 @@ function GreaterThanEconStorageRatio(aiBrain, mStorageRatio, eStorageRatio)
 end
 ```
 
-You can therefore create your own custom conditions using a similar approach - i.e. create a separate lua file, define a variable that imports it at the start of your builder code, have a function with a similar structure (you can choose the number of variables but note that aiBrain should always be the first variable for the function), and then add a condition to a builder that references this.
+You can therefore create your custom conditions using a similar approach - i.e. create a separate lua file, define a variable that imports it at the start of your builder code, and have a function with a similar structure (you can choose the number of variables but note that aiBrain should always be the first variable for the function), and then add a condition to a builder that references this.
