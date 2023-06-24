@@ -2,14 +2,14 @@
 title: Basic Introduction to Mapping with Gaea
 description: In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation.
 published: true
-date: 2023-06-24T17:53:37.299Z
+date: 2023-06-24T17:54:16.904Z
 tags: gaea, mapping
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
 ---
 
 # Gaea tutorial: A basic introduction to mapping with Gaea
-The various map projects I've made have all been made possible by Quadspinner's Gaea, a terrain design application for VFX and games. Gaea is an industry standard and a great tool to significantly speed up creating or increasing the complexity of masks, heightmaps, and decals. Because of FAF's peculiarities and the fact that the game is more than a decade old, the process of producing these assets using Gaea is a bit involved. Being the shiny beacon of enlightenment that I am, in this tutorial series I will explain my process for creating all the relevant map assets in gaea (see *figure 1*). This specific tutorial will discuss the basics of Gaea and how it can be used to create the main heightmap for your terrain. 
+The various map projects I've made have all been made possible by Quadspinner's Gaea, a terrain design application for VFX and games. Gaea is an industry standard and a great tool to significantly speed up creating or increasing the complexity of masks, heightmaps, and decals. Because of FAF's peculiarities and the fact that the game is more than a decade old, the process of producing these assets using Gaea is a bit involved. In this tutorial series I will explain my process for creating all the relevant map assets in gaea (see *figure 1*). This specific tutorial will discuss the basics of Gaea and how it can be used to create the main heightmap for your terrain. 
 
 ![2c3a4033-9450-4b1d-90da-d68c32d1d617-image.png](/assets/uploads/files/1687334769283-2c3a4033-9450-4b1d-90da-d68c32d1d617-image.png) 
 > *Figure 1: a breakdown of the map Project Luminary to show all the assets generated in Gaea. Note: some of the stratum textures are stock-FAF textures and were not created in Gaea, but are here included to illustrate the different components of the map.*
