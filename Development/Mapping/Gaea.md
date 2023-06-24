@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-06-24T18:01:55.301Z
+date: 2023-06-24T18:05:12.219Z
 tags: mapping
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -12,7 +12,7 @@ dateCreated: 2023-05-09T10:38:02.040Z
 
 Welcome to the Gaea Map-Making Tutorials for Forged Alliance Forever (FAF).
 
-I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. Being the inexhaustible fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to get you up to speed right away and save you from the months of experimenting I had to go through to discover all the interesting ways that things can go wrong in. 
+I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. An overview of my work can be found [here](https://forum.faforever.com/topic/6066/index-librorum-s-maps-assorted-projects-and-gaea-tutorials). Being the inexhaustible fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to get you up to speed right away and save you from the months of experimenting I had to go through to discover all the interesting ways that things can go wrong in.
 
 Gaea is a powerful terrain generation software that allows you to do some pretty nifty things, like letting you create high quality maps for Supreme Commander:Forged Alliance Forever. Whether you're a seasoned map maker or relatively new to the world of terrain generation, these tutorials will provide you with the knowledge and techniques to bring your map-making skills to the next level.
 
@@ -42,4 +42,4 @@ With the terrain created and textured, we will take a look at the map-wide asset
 [Link to tutorial 4]
 
 ## Help and frequently asked questions
-To help you on your way, all tutorials include a section on common mistakes and their fixes. If these sections do not help you when you are stuck, please feel free to ask for help in the [FAF discord's](https://discord.gg/SsxPZRbM) mapping-section. Alternatively, [contact Prohibitorum](https://discord.com/channels/@me/prohibitorum/) on discord directly.
+To help you on your way, all tutorials include a section on common mistakes and their fixes. If these sections do not help you when you are stuck, please feel free to ask for help in the [FAF discord's](https://discord.gg/SsxPZRbM) mapping-section. The mapping-channels in the FAF discord include two threads containing my research notes and comments on Gaea, which you might find useful. Alternatively, [contact Prohibitorum](https://discord.com/channels/@me/prohibitorum/) on discord directly.
