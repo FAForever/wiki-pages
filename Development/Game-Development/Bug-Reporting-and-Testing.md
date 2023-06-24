@@ -2,7 +2,7 @@
 title: Bug Reporting & Testing
 description: 
 published: true
-date: 2021-12-29T23:59:34.451Z
+date: 2023-06-24T20:55:52.269Z
 tags: development
 editor: markdown
 dateCreated: 2021-08-31T09:42:21.423Z
@@ -10,56 +10,56 @@ dateCreated: 2021-08-31T09:42:21.423Z
 
 ## Where to submit bug reports
 
-In general, all bug reports should be submitted as an issue on [github](https://github.com/FAForever). You need to register once with an email adress, which will be used to notify you about news on your bug report. There are lots of projects on [github](https://github.com/FAForever). The following guidelines should help you choosing the right project:
+In general, all bug reports should be submitted as an issue on [github](https://github.com/FAForever). You need to register once with an email address, which will be used to notify you about news on your bug report. There are lots of projects on [github](https://github.com/FAForever). The following guidelines should help you choose the right project:
 - Bugs on the website go to the [website issues](https://github.com/FAForever/website/issues)
 	- i.e. broken or dead links
 	- i.e. layout issues
-- Bugs regarding ingame behavior go to the [fa issues](https://github.com/FAForever/fa/issues).
-	- i.e. units nots firing
+- Bugs regarding ingame behaviour go to the [fa issues](https://github.com/FAForever/fa/issues).
+	- i.e. units not firing
 	- i.e. graphical glitches on menus or lobby
-	- i.e. problems in the ingame lobby
+	- i.e. problems in the game lobby
 	- For bug reports on mods other than FAF and FAF Beta please use the corresponding project or contact the original author.
 		- [FAF coop issues](https://github.com/FAForever/fa-coop/issues)
 		- [Phantom-X issues](https://github.com/FAForever/faf-phantomx/issues) 
 - Bugs regarding the (Legacy) client go to the [client issues](https://github.com/FAForever/client/issues)
 	- i.e. crashes of the client
 	- i.e. problems downloading maps or mods
-	- i.e. problems on joining games
+	- i.e. problems with joining games
 - Bugs in Offical Client (Java) client go [here](https://github.com/FAForever/Downlords-faf-client/issues)
 	- if you don't know which client you are using, it's probably the Offical client!
 - Bugs on the server go to [server issues](https://github.com/FAForever/server/issues)
 	- i.e. rating issues (unless it's a display issue of the client)
 	- i.e. replays missing
 	- i.e. login issues
-- Bugs on the api go to [api issues](https://github.com/FAForever/api/issues)
+- Bugs on the API go to [api issues](https://github.com/FAForever/api/issues)
 	- *probably relevant for developers only*
 
-If you don't know whether your bug needs to go to server, api or client, just post it in the client. The developers will close & reopen it in the right list.
+If you don't know whether your bug needs to go to the server, API or client, just post it in the client. The developers will close & reopen it in the right list.
 
 ## Guidelines for a good bug report
 
-To fix a bug it is necessary to be able to reproduce the bug and to understand what is actually wrong.
+To fix a bug it is necessary to be able to reproduce the bug and to understand what is wrong.
 
 To write a good bug report, please try to follow these questions:
 1. In which version does the bug occur?
-	- if ingame bug: are you using FAF Beta vs. standard FAF mod
+	- if in-game bug: are you using FAF Beta vs. standard FAF mod
 	- if client bug: are you using the latest official release or a developer build (for developer builds please add the used branch and latest commit)
 	- if server bug: which branch/commit are you using?
 2. How can anybody reproduce the bug?
-	- example: build a nuke and launch a missile
-3. What behaviour have you observered?
-	- example: there was no voice notification of the launch
-4. What behaviour did you actually expect?
-	- example: After launching the nuke, the game should play the sound "Nuke Launch detected"
+	- For example: build a nuke and launch a missile
+3. What behaviour have you observed?
+	- For example, there was no voice notification of the launch
+4. What behaviour did you expect?
+	- For example: After launching the nuke, the game should play the sound "Nuke Launch detected"
 5. *optional:* Elaborate a possible cause
-	- example: the nuke launch is referenced with the wrong sound file
+	- For example, the nuke launch is referenced with the wrong sound file
 6. *optional:* Offer a possible solution
-	- example: go to lua-file xxx and append the code yyy to the function zzz
+	- For example: go to lua-file xxx and append the code yyy to the function zzz
 
 ## Testing bugfixes
 
 ### Testing website changes
-- Ask a dev in slack to checkout a certain pull request on the test server
+- Ask a dev in Zulip to check out a certain pull request on the test server
 - Open [test.faforever.com](http://test.faforever.com) in your browser
 - Check the change
 - Give feedback in the pull request and/or on Slack
@@ -74,13 +74,13 @@ Navigate here: ```\`C:\\ProgramData\\FAForever\\bin\` ```
 
 Create a new lua file called:``` \`init_faf_dev.lua\` ```
 
-Open it and put inside [this code](http://pastebin.com/zt2x1gC6)
+Open it and put it inside [this code](http://pastebin.com/zt2x1gC6)
 
 Change line 177 to fit your patch to ``` \`fa\` ```repository on your PC, for example `C:\\Users\\Admin\\Documents\\GitHub\\fa`
 
 Create a desktop shortcut of ForgedAlliance.exe from ``` \`C:\\ProgramData\\FAForever\\bin\` ```
 
-Right click the shortcut, go into Properties
+Right-click the shortcut, go into Properties
 
 In ``` \`Destination\` ``` add ``` \` /init init_faf_dev.lua\` ``` - or whatever youcalled that file
 
@@ -88,7 +88,7 @@ It should look like this: ``` \`C:\\ProgramData\\FAForever\\bin\\ForgedAlliance.
 
 Make sure you have a space in front of the \`/\`
 
-In addition you can add \`/showlog\` to open a log at the beginning, or other things, more here: [Command Line Switches](/Command-Line-Switches)
+In addition, you can add \`/showlog\` to open a log at the beginning, or other things, more here: [Command Line Switches](/Command-Line-Switches)
 
 #### Using git to test Pulls Requests
 
@@ -109,22 +109,22 @@ Use 'git checkout *branchName*' to return to whatever branch you want, e.g. 'dev
 - Follow the reproduce-steps of the original issue and check whether it has been solved
 - Give feedback in the pull request and/or on Slack
 
-Some client changes require a corresponding change on server side.
+Some client changes require a corresponding change on the server side.
 
 ### Testing server changes
-- Ask a dev in slack to checkout a certain pull request on the test server
+- Ask a dev in Zulip to check out a certain pull request on the test server
 - Login with the client on the test server
-	- download [1](https://pastebin.com/BeSCVczA) this paste as and remove the ".txt" file extention
+	- download [1](https://pastebin.com/BeSCVczA) this paste as and remove the ".txt" file extension
 	- run the file and choose the test server
 - Follow the reproduce-steps of the original issue and check whether it has been solved
 - Depending on the actual issue, multiple players may be required for testing
-- Sandbox mode and cheating are recommended to reduce the time to setup the correct test case
+- Sandbox mode and cheating are recommended to reduce the time to set up the correct test case
 
 ## What can be tested?
-- Every pull request in any of the github projects is a good candidate for testing.
-	- Please read through the conversation of the pull request. This will give you an impression, whether the pull request is still in progress or ready for testing.
+- Every pull request in any of the GitHub projects is a good candidate for testing.
+	- Please read through the conversation of the pull request. This will give you an impression, of whether the pull request is still in progress or ready for testing.
 	- If unsure, ask the author of the pull request. 
-- The changelog of projects offer topics for testing. 
+- The changelog of projects offers topics for testing. 
 	- Please ask in Slack chat about the progress of tests. 
 	- **ToDo**: Provide links to the changelogs.
 - The FAF beta mod is always open for testing. Just play it and open issues for new bugs.
