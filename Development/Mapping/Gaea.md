@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-06-25T10:24:57.291Z
+date: 2023-06-25T10:26:12.784Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -16,7 +16,7 @@ I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea
 
 Gaea is a powerful industry-standard terrain generation software that allows you to build hyper-realistic looking terrain for such projects as block buster movies, games by Ubisoft and Blizzard, and whatever NASA has used it for that got their logo to show up on Quadspinner's website. You can also use it to build maps for a—somehow still active—15 year old RTS. Whether you're a seasoned map maker or relatively new to the world of terrain generation, these tutorials should provide you with the basic knowledge and techniques to bring your map-making skills to the next level.
 
-Because I ended up typing way too many words, this series has been split in four chapters. Please note that these tutorials assume you have some basic understanding of map making. While I will discuss some of the basics whenever I feel they are relevant, I'd like to recommend you refer to the various tutorials available on the wiki if you get stuck with anything that is not directly related to Gaea.
+Because the length out these tutorials fairly quickly got out of hand, I've split this series in four chapters. Please note that these tutorials assume you have some basic understanding of map making. While I will discuss some of the basics whenever I feel they are relevant, I'd like to recommend you refer to the various tutorials available on the wiki if you get stuck with anything that is not directly related to Gaea.
 
 > This section uses [*Gaea*, a third-party software developed by Quadspinner](/en/https://quadspinner.com/). As of June 2023, they offer the indie version of their software for free on their website. The indie version is limited to a maximum render resolution of 1k. As a consequence, you will require an upgraded license if you are planning to make maps that are bigger than 20x20km.
 {.is-info}
