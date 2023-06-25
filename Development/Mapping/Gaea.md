@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-06-24T19:14:30.902Z
+date: 2023-06-25T10:24:57.291Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -14,7 +14,7 @@ Welcome to the Gaea Map-Making Tutorials for Forged Alliance Forever (FAF).
 
 I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. An overview of my work can be found [here](https://forum.faforever.com/topic/6066/index-librorum-s-maps-assorted-projects-and-gaea-tutorials). Being the inexhaustible fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to save you from the pain that is trying to figure out why your masks somehow have stopped behaving as they should for the 11th time in an hour, and catapult you straight to map-making mastery.
 
-For this, we will use Gaea. Gaea is a powerful industry-standard terrain generation software that allows you to build hyper-realistic looking terrain for such projects as block buster movies, games by Ubisoft and Blizzard, and whatever NASA has used it for that got their logo to show up on Quadspinner's website. You can also use it to build maps for a—somehow still active—15 year old RTS. Whether you're a seasoned map maker or relatively new to the world of terrain generation, these tutorials should provide you with the basic knowledge and techniques to bring your map-making skills to the next level.
+Gaea is a powerful industry-standard terrain generation software that allows you to build hyper-realistic looking terrain for such projects as block buster movies, games by Ubisoft and Blizzard, and whatever NASA has used it for that got their logo to show up on Quadspinner's website. You can also use it to build maps for a—somehow still active—15 year old RTS. Whether you're a seasoned map maker or relatively new to the world of terrain generation, these tutorials should provide you with the basic knowledge and techniques to bring your map-making skills to the next level.
 
 Because I ended up typing way too many words, this series has been split in four chapters. Please note that these tutorials assume you have some basic understanding of map making. While I will discuss some of the basics whenever I feel they are relevant, I'd like to recommend you refer to the various tutorials available on the wiki if you get stuck with anything that is not directly related to Gaea.
 
