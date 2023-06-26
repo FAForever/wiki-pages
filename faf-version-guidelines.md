@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T22:29:04.236Z
+date: 2023-06-26T22:46:18.678Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -708,9 +708,9 @@ Check/fix marker issues at the rotation/mirror axis of the `source` area or angl
 > **Note:** Marker refers to the content of the `_save.lua` file (see [2.2.3](#sec-2-2-3)).
 
 **Units and structures**
-Take note of the reclaim value, as well as the quantity of structures and units used in the original `source map version`. Replace units/structures as closely as possible to the original. Try to ensure they match both in type and quantity, while considering the new `source` area or angle.
+Take note of the reclaim value, as well as the quantity of structures and units used in the original `source map version`. Replace units/structures as closely as possible to the original in the `FAF version`. Try to ensure they match in reclaim value, placement, type and quantity, while considering the new `source` area or angle.
 
-> **Note:** If a radar belongs to the `INITIAL` `NEUTRAL_CIVILIAN` group in the `source map version`, ensure it has sufficient power to operate effectively.
+> **Note:** If a radar belongs to the `INITIAL` `NEUTRAL_CIVILIAN` group, ensure it has sufficient power to operate effectively.
 
 ![faf_version_syrtis_mid_structures_compare.png](/images/faf-version/faf_version_syrtis_mid_structures_compare.png)
 *Image: [Syrtis Major](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/6) - Middle base*
