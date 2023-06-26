@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-20T17:40:16.641Z
+date: 2023-06-26T20:57:48.717Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -23,8 +23,8 @@ Maps that have been reworked arleady can be found in the vault if you search for
 
 ## 1.1 Community Support {#sec-1-1}
 Have you ever found yourself frustrated by unbalanced heightmaps or unevenly distributed marker, props and units in the following maps:
-- [Gas Powered Games (GPG) maps](https://ethercalc.net/0ds9j65h5wrr)
-- Supreme Commander and Forged Alliance stock maps included in the original game
+- [Gas Powered Games (GPG) maps](https://ethercalc.net/0ds9j65h5wrr) <span style="background-color: yellow">Add Link to GPG Editor "Original Maps" table - need a cress reference at "Original Maps" section or copy table to this article? https://wiki.faforever.com/en/Development/Mapping/GPG-Map-Editor</span>
+  - Supreme Commander and Forged Alliance stock maps included in the original game
 - Unknown author maps
 - Inactive author maps
 
@@ -62,7 +62,9 @@ The GPG-Editor DOES NOT color the land and water areas in the `minimap` differen
 The GPG-Editor DOES NOT support the export and import of `skybox` files.
 
 **Reclaim**
-The GPG-Editor REMOVES the `reclaim` value from `_scenario.lua`. The `reclaim` value is a feature of the FAF-Editor.
+The GPG-Editor REMOVES the `reclaim` value from `_scenario.lua`.
+
+> **Note:** The `reclaim` value is a feature of the FAF-Editor.
 
 ### 2.1.3 FAF-Editor {#sec-2-1-3}
 The FAF-Editor can read and save Supreme Commander `v56` and Forged Alliance `v60` map versions.
@@ -581,6 +583,10 @@ java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/serenity_des
 
 1. Import rotation/mirror mask of `source` area or angle as strata/layer in map editor.
 2. Set the correct symmetry in FAF-Editor. Select the marker on the `source` side and adjust the marker on the opposite side to the correct/marked position.
+> **Note:** Marker refers to the content of the `_save.lua` file (see [2.2.3](#sec-2-2-3)).
+
+![faf_version_manual_marker.jpg](/images/faf-version/faf_version_manual_marker.jpg)
+*Image: [Setons Clutch  - FAF version](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/5) - Manual marker rework.*
 
 #### Strata / Layer
 
@@ -696,6 +702,20 @@ Also see [2.2.3](#sec-2-2-3).
 
 Check/fix marker issues at the rotation/mirror axis of the `source` area or angle. Optimize/improve marker positions (armies, units, resources, and AI marker).
 <span style="background-color: yellow">Should AI marker be add, even if they get generated automatically now?</span>
+> **Note:** Marker refers to the content of the `_save.lua` file (see [2.2.3](#sec-2-2-3)).
+
+**Units and structures**
+Take note of the reclaim value, as well as the quantity of structures and units used in the original `source` map version. Replace units/structures as closely as possible to the original. Try to ensure they match both in type and quantity, while considering the new `source` area or angle.
+
+![faf_version_syrtis_mid_structures_compare.png](/images/faf-version/faf_version_syrtis_mid_structures_compare.png)
+*Image: [Syrtis Major](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/6) - Middle base*
+
+![faf_version_units_structures_compare_arctic_refuge.jpg](/images/faf-version/faf_version_units_structures_compare_arctic_refuge.jpg)
+*Image: [Arctic Refuge](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/36) - Middle base*
+
+![faf_version_setons_mid_units_compare.png](/images/faf-version/faf_version_setons_mid_units_compare.png)
+*Image: [Seton's Clutch](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/5) - Special middle units rework.*
+
 
 #### Armies & ExtraArmies
 
