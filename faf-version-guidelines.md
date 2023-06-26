@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T20:57:48.717Z
+date: 2023-06-26T21:00:55.861Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -586,7 +586,7 @@ java -jar MapTransformer-17.jar --debug --in-folder-path "InputMaps/serenity_des
 > **Note:** Marker refers to the content of the `_save.lua` file (see [2.2.3](#sec-2-2-3)).
 
 ![faf_version_manual_marker.jpg](/images/faf-version/faf_version_manual_marker.jpg)
-*Image: [Setons Clutch  - FAF version](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/5) - Manual marker rework.*
+*Image: [Seton's Clutch](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/5) - Manual marker rework.*
 
 #### Strata / Layer
 
