@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T21:00:55.861Z
+date: 2023-06-26T21:03:21.810Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -23,7 +23,7 @@ Maps that have been reworked arleady can be found in the vault if you search for
 
 ## 1.1 Community Support {#sec-1-1}
 Have you ever found yourself frustrated by unbalanced heightmaps or unevenly distributed marker, props and units in the following maps:
-- [Gas Powered Games (GPG) maps](https://ethercalc.net/0ds9j65h5wrr) <span style="background-color: yellow">Add Link to GPG Editor "Original Maps" table - need a cress reference at "Original Maps" section or copy table to this article? https://wiki.faforever.com/en/Development/Mapping/GPG-Map-Editor</span>
+- [Gas Powered Games (GPG) maps](https://ethercalc.net/0ds9j65h5wrr) <span style="background-color: yellow">Add Link to GPG Editor "Original Maps" table - need a cross- reference at "Original Maps" section - or copy table to this article? https://wiki.faforever.com/en/Development/Mapping/GPG-Map-Editor</span>
   - Supreme Commander and Forged Alliance stock maps included in the original game
 - Unknown author maps
 - Inactive author maps
@@ -345,7 +345,7 @@ Discuss/Collaborate with the ladder team, Team Match Maker (TMM), and the issue 
 
 ### 3.2.3 Example {#sec-3-2-3}
 
-In the case of the `Setons Clutch – FAF version`, we agreed on a `source` angle of 115°(white area was used). See [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) for more examples.
+In the case of the `Setons Clutch – FAF version`, we agreed on a `source` angle of 115° (white area was used). See [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) for more examples.
 ![faf_version_source_angle.png](/images/faf-version/faf_version_source_angle.png)
 
 ## 3.3 Set up new map name, files, version, folder & file path {#sec-3-3}
