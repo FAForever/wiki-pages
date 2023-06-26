@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T21:36:17.625Z
+date: 2023-06-26T21:50:35.294Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -87,7 +87,7 @@ The FAF-Editor supports the export and import of `skybox` files.
 The FAF-Editor adds / writes the `reclaim` value to `_scenario.lua`.
 
 ### 2.1.4 MapTransformer (by Sheikah) {#sec-2-1-4}
-The `MapTransformer` by Sheikah is the recommended tool to recreate the map based on the `source` map version and `source` area or angle. You can request the latest version of the `MapTransformer` from Sheikah through a personal message. Usage see [3.5.1](#sec-3-5-1).
+The `MapTransformer` by Sheikah is the recommended tool to recreate the map based on the `source map version` and `source` area or angle. You can request the latest version of the `MapTransformer` from Sheikah through a personal message. Usage see [3.5.1](#sec-3-5-1).
 
 > **Credit:** Huge thanks to Sheikah for creating the `MapTransformer`.
 > **Note:** If you encounter any issues or have questions, don't hesitate to reach out to Sheikah for assistance.
@@ -292,7 +292,7 @@ Download other `FAF version` maps from the vault and get familiar with the requi
 
 ## 3.1 Get Source Map Version {#sec-3-1}
 
-**If the source of the `FAF version` is a GPG map, Forged Alliance `v60` maps should always be used. The Forged Alliance `v60` maps are further developed (e.g. skybox, different units, ...) compared to the Supreme Commander `v56` ones.**
+**If the `source map version` of the `FAF version` is a GPG map, Forged Alliance `v60` maps should always be used. The Forged Alliance `v60` maps are further developed (e.g. skybox, different units, ...) compared to the Supreme Commander `v56` ones.**
 
 - **skirmish maps**
 Official GPG skirmish map folder and files are called `SCMP_0XX` (`v56` and `v60`). `X1MP_0XX` are additional Forged Alliance `v60` skirmish maps.
@@ -492,7 +492,7 @@ After completing all the necessary preparation steps, it is now time to implemen
 The `MapTransformer` rotates and mirrors² map content based on the `symmetry` and `source` settings of the input map. Content that does not belong to the `source` gets deleted and repopulated according to the `symmetry` settings. Changes can be done separately or `--all` at once. The `MapTransformer` is currently a java command line tool.
 
 > **Notes:**  
-> - The `symmetry` settings derive from the original map version.
+> - The `symmetry` settings derive from the original `source map version`. 
 > - The `--all` option should be used to ensure a balanced `FAF version` map.
 > - The `MapTransformer` does not create AI markers / preserve connections.
 > - ² The `MapTransformer` is currently unable to mirror decals, see b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool) to mirror `.scmap` content.
@@ -635,13 +635,13 @@ Check/fix terrain issues at the rotation/mirror axis of the `source` area or ang
 
 #### Strata / Layer (FAF-Editor)
 
-Check/fix strata/layer mask issues at the rotation/mirror axis of the 'source' area or angle.
+Check/fix strata/layer mask issues at the rotation/mirror axis of the `source` area or angle.
 
 - Example: The layer of [Forbidden Pass – FAF version](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/10) needed a strata/layer fix at the rotation line.
 
 #### Props
 
-Check/fix prop issues at the rotation/mirror axis of the 'source' area or angle.
+Check/fix prop issues at the rotation/mirror axis of the `source` area or angle.
 
 > **GPG-Editor Note:** If props need to be realigned to the terrain, follow step 3. If props need to be submerged and realigned to the terrain, follow steps 1-4:
 > 1. Make note of the current water level.
@@ -708,7 +708,7 @@ Check/fix marker issues at the rotation/mirror axis of the `source` area or angl
 > **Note:** Marker refers to the content of the `_save.lua` file (see [2.2.3](#sec-2-2-3)).
 
 **Units and structures**
-Take note of the reclaim value, as well as the quantity of structures and units used in the original `source` map version. Replace units/structures as closely as possible to the original. Try to ensure they match both in type and quantity, while considering the new `source` area or angle.
+Take note of the reclaim value, as well as the quantity of structures and units used in the original `source map version`. Replace units/structures as closely as possible to the original. Try to ensure they match both in type and quantity, while considering the new `source` area or angle.
 
 ![faf_version_syrtis_mid_structures_compare.png](/images/faf-version/faf_version_syrtis_mid_structures_compare.png)
 *Image: [Syrtis Major](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework/6) - Middle base*
@@ -748,7 +748,7 @@ Reviewing and documenting changes are essential steps in ensuring transparency a
 
 ## 5.1 Document prop value changes {#sec-5-1}
 
-Use the FAF-Editor to retrieve the `prop` values for mass and energy of the original source map version and the `FAF version` map. Calculate the difference for discussion and documentation.
+Use the FAF-Editor to retrieve the `prop values` for mass and energy of the original `source map version` and the `FAF version` map. Calculate the difference for discussion and documentation.
 
 | Seton's Clutch - Prop Value | Mass	| Energy |
 | ----------- | ----------- | ----------- |
