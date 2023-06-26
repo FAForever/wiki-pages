@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T21:03:21.810Z
+date: 2023-06-26T21:36:17.625Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -475,7 +475,10 @@ The `Editor Map Version` folder represents the work in progress as well as test 
 
 The `Master Map Version` folder is used to store, test and discuss final results and during the Map Upload Process. The `Master Map Version` should be placed in a separate project directory outside the FAF environment. The content of the `Master Map Version` will be updated by copying the tested necessary files (e.g. `.scmap` or `_save.lua`) from the `Editor Map Version` folder and replacing the files in the `Master Map Version` folder. This way, only relevant changes are transferred and the `Master Map Version` serves as a backup of the latest version of the map. It is not recommended to overwrite all files or to save the `Master Map Version` in a map editor, as this could result in unintended changes to the original content. Simply copy & replace `.scmap` if a new map preview was created / `_save.lua` if marker where changed (see [2.2](#sec-2-2)).
 
-> **Note:** The `_scenario.lua` content as well as the default quotation mark settings will be changed while using different map editors. It's good practice to finalize the `_scenario.lua` in the `Master Map Version` folder.
+> **Notes:**
+> - [Git](https://en.wikipedia.org/wiki/Git) is the recommended tool for committing final results in the `Master Map Version` folder.
+> - The `_scenario.lua` content as well as the default quotation mark settings will be changed while using different map editors. It's good practice to finalize the `_scenario.lua` in the `Master Map Version` folder.
+
 
 
 ## 3.5 Implement Source Area / Angle {#sec-3-5}
@@ -726,6 +729,7 @@ See [2.2.3](#sec-2-2-3).
 See [2.2.4](#sec-2-2-4).
 
 # 4 Test “Master Map Version” {#sec-4}
+Testing the `Master Map Version` is a crucial step in ensuring its quality and functionality.
 
 1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
 2. Copy the `Master Map Version` to the FAF maps path.
@@ -739,6 +743,8 @@ See [2.2.4](#sec-2-2-4).
 
 
 # 5 Review & Documentation {#sec-5}
+Reviewing and documenting changes are essential steps in ensuring transparency and effective communication within the community
+
 
 ## 5.1 Document prop value changes {#sec-5-1}
 
@@ -753,12 +759,14 @@ Use the FAF-Editor to retrieve the `prop` values for mass and energy of the orig
 ## 5.2 Review & Approval {#sec-5-2}
 
 Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
+
 - `prop` values changes (see [5.1](#sec-5-1)).
 - that all map-related `issues` have been resolved (see [2.3](#sec-2-3)).
 - that all `FAF version`-related requirements have been met (see [3](#sec-3)).
 - that the map is working like intended.
 
 ## 5.3 Document total changes {#sec-5-3}
+Comprehensive documentation is crucial for maintaining a record of changes and facilitating future issue tracking.
 
 1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [2.3](#sec-2-3)).
 <span style="background-color: yellow">Where should it be documented in the future, currently i got [this](https://ethercalc.net/kkn2yatyf4wq).</span>
@@ -766,6 +774,7 @@ Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the is
 3. Update the forum post with new changes.
 
 # 6 Map Upload Process {#sec-6}
+The map upload process is the final step in making the `FAF version` map available to the FAF community. It involves preparing the map files, adjusting the folder and file paths and uploading the map to the FAF Vault.
 
 1. Copy the final `Master Map Version` folder to a separate directory.
 2. Remove the `MAP_VERSION_STRING` `.v000X` from the `FOLDER_NAME`.
