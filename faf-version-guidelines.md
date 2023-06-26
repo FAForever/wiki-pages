@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T22:23:30.353Z
+date: 2023-06-26T22:27:47.407Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -311,7 +311,7 @@ Default GPG path: `\THQ\Gas Powered Games\Supreme Commander - Forged Alliance\ma
 Default Stream path: `/steam/steamapps/common/Supreme Commander Forged Alliance/maps`
 
 ### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
-Needed for testing or if a map from unknown or inactive author has been downloaded from the FAF Vault as the source map.
+Needed for testing or if a map from unknown or inactive author has been downloaded from the FAF Vault as `source map version`.
 
 Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance/maps/`
 
