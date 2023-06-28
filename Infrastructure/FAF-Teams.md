@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-06-28T18:54:51.546Z
+date: 2023-06-28T18:56:52.976Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -17,8 +17,8 @@ The FAF Teams are groups of FAF contributors who are tasked with diffrent aspect
 These are the current Team Leaders:
 
 - **Trainer Team Leader** 
-	> **Inspektor_Kot** (Secondary: **HintHunter**)
-
+	> **TBDr**
+  
 - **Community Manager** 
 	> **Azraeelian Angel**
 
