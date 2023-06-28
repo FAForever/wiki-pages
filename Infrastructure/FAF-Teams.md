@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-06-28T18:56:59.358Z
+date: 2023-06-28T19:00:32.497Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -560,7 +560,6 @@ This is achieved by following our key goals. Everything we do should be
 1. avoiding vendor lock-in & single point of failures and
 1. as simple as possible, but as complex as required.
 
-*More details on the dev team can be found at [DevOps](/en/Contribution/Teams/DevOps)
 ### Campaign Team
 #### Team Members:
 - Shadowlorda1
