@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-06-22T20:06:03.106Z
+date: 2023-06-28T18:54:51.546Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -20,7 +20,7 @@ These are the current Team Leaders:
 	> **Inspektor_Kot** (Secondary: **HintHunter**)
 
 - **Community Manager** 
-	> **Deribus**
+	> **Azraeelian Angel**
 
 - **Promotions Team Leeader:** 
 	>	**Jip**
