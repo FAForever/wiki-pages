@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T08:48:29.618Z
+date: 2023-06-30T09:05:14.456Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -473,27 +473,33 @@ Files
 ### FactoryManager Class
 The factory manager class drives any factories that are assigned to the manager. It contains functions and data structures specifically for the factory managers. 
 
-The process for adding factories happens within the EngineerManager where a function will be called when an OnUnitBuilt callback triggers. There is also a callback that is triggered when a factory is captured that can add the factory to the manager that the engineer that captured it belongs to.
+The process for adding factories happens within the EngineerManager where a function will be called when an OnUnitBuilt callback triggers. There is also a callback that is triggered, when a factory is captured it will add the factory to the manager that the engineer which captured it belongs to.
 
 PreBuiltUnits - TODO
 
-When a factory has been added to the manager via the AddFactory function it will setup callback triggers for factory destroyed, factory capture, unit built from factory. When the callbacks are setup it will fork a DelayBuildOrder function..
-It will then fork a rally point function for the factory.
+When a factory has been added to the manager via the AddFactory function it will setup callback triggers for factory destroyed, factory captured, factory reclaimed and unit built from factory. When the callbacks are setup it will fork a DelayBuildOrder function which started the factory build cycle.
+It will then fork a rally point function for the factory before existing the AddFactory function.
 
 **Factory Unit Build Cycle**
 
-DelayBuildOrder function runs which will add a wait based on the parameter passed, this is turn runs the AssignBuildOrder function. If a viable builder is found then a BuilPlatoon function is run against the brain with the platoon template and factory table along with the count of units.
+DelayBuildOrder function runs which will add a wait based on the parameter passed, this in turn runs the AssignBuildOrder function. If a viable builder is found then a BuildPlatoon function is run against the brain with the platoon template and factory table along with the count of instances.
 
-After this the factory will not run any other functions until the FactoryFinishBuilding function is run which is based on  the OnUnitBuilt callback. This will run an if statement that triggers specific logic for certain unit categories then will run the AssignBuilderOrder function again against the factory.
+After this the factory will not run any other functions until the FactoryFinishBuilding function triggers, which is based on the OnUnitBuilt callback. This will run an if statement that checks for specific unit categories and run functions for them, for example when they build an engineer it will add that engineer to the engineer manager, when they upgrade it will add the new upgraded factory to the factory manager. It will then run the AssignBuilderOrder function again against the factory and the cycle will repeat.
 
-Note that the template that is passed to the factory can be one or many units depending on how the template is configured. If multiple units are passed then the factory will queue up the unit builds.
+Note that the template that is passed to the factory can be one or many units depending on how the template is configured. If multiple units are passed then the factory will queue up the unit construction orders.
 
 The factory manager also handles modded unit replacements via a brain table called CustomUnits.
 
-There is also a rally point monitor that will check if a structure is within a 15 unit distance of the rally point. If it finds one it will try to move the rally point further away, then loop through all factories in the manager and change the rally points.
+There is also a rally point monitor that will check if a structure is within a 15 unit distance of the rally point. If it finds one it will try to move the rally point further away, then loop through all factories in the manager and change the rally points. 
 
 Files
 */lua/sim/factorymanager.lua*
+
+### PlatoonForm Manager Class
+The platoonform manager class is a relatively small class that contains functions and attributes for the manager. Its primary function is to form platoons based on the builders of type PlatoonFormBuilder. 
+The main function ist he ManagerLoopBody, this function will run one instance of the same function name within the BuilderManager class and the location ManagerLoopBody within the platoonform manager class. The ManagerLoopBody is called by the Manager Thread in the BuilderManager base class. It will will perform the following task.
+Check the builder priority is greater or equal to 1. So a priority of zero will not trigger any platoons. It will also verify the instance count of the builder. It will then get the army pool and platoon template data. It will run the platoon function CanFormPlatoon with the template, platoonsize, location and radius. If this returns true and the builder status (condition checks) are true it will form the platoon using the FormPlatoon function.
+It will then set a plan name, then fork the platoon behavior function that drives the platoon. If the builder contains any addon plans, functions or behaviours it will fork these as well. Add on behaviors can run seperate threads on a platoon which can take over or drive platoon behaviors. An example of these are the repair and refueling behavior for air units.
 
 ## AI Builders
 Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
