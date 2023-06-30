@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T10:12:12.051Z
+date: 2023-06-30T10:13:52.048Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -501,7 +501,9 @@ The main function ist he ManagerLoopBody, this function will run one instance of
 Check the builder priority is greater or equal to 1. So a priority of zero will not trigger any platoons. It will also verify the instance count of the builder. It will then get the army pool and platoon template data. It will run the platoon function CanFormPlatoon with the template, platoonsize, location and radius. If this returns true and the builder status (condition checks) are true it will form the platoon using the FormPlatoon function.
 It will then set a plan name, then fork the platoon behavior function that drives the platoon. If the builder contains any addon plans, functions or behaviours it will fork these as well. Add on behaviors can run seperate threads on a platoon which can take over or drive platoon behaviors. An example of these are the repair and refueling behavior for air units.
 
-It is worth noting that the platoonform manager is the heaviest of the 3 main managers in regards to sim speed impact due to the loop cycle and functions that run on every loop. Decreasing the number of platoon formers will have a positive effect on the manager sim consumption. Some AI developers will build custom threads to handle structure upgrades which decreases the load on the platoon former manager and improves responsiveness.
+It is worth noting that the platoonform manager is the heaviest of the 3 main managers in regards to sim speed impact due to the loop cycle and functions that run on every loop. Decreasing the number of platoon formers will have a positive effect on the manager sim consumption. The AI developer can increase the delay between loop cycles to try and improve performance, some AI increase the cycle for expansion bases while keeping the main base default to try and improve manager performance.
+
+Some AI developers will also build custom threads to handle structure upgrades which decreases the load on the platoon former manager and improves responsiveness.
 
 Files
 */lua/sim/platoonformmanager.lua*
