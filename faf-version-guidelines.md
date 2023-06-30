@@ -2,33 +2,36 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T15:19:43.550Z
+date: 2023-06-30T15:42:12.977Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
 ---
 
 # 1 Introduction {#sec-1}
-Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized map maker. These guidelines are based upon the pioneering work and experience of svenni_badbwoi, the original creator of `FAF version` maps. 
-
-Maps that have been reworked arleady can be found in the vault if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience. The documentation of the map-related changes can be found here:
- - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
- - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
-
+Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized map maker. These guidelines are based upon the pioneering work and experience of svenni_badbwoi, the original creator of `FAF version` maps.
 
 > **IMPORTANT NOTES:**
 > - **Map upload of approved content stays in the hands of <span style="background-color: yellow"> authorized `FAF version` map maker</span>! Don't upload any `FAF version` map without authorization!**
 > - **If you can’t meet the requirements mentioned in this document, regardless of your authorization status, you are not qualified / allowed to create and upload a `FAF version` map!**
 > - **Adaptive maps and maps with individual assets are even harder to rework and require a total understanding of all dependencies.**
 
-## 1.1 Community Support {#sec-1-1}
+## 1.1 Released FAF Version Maps & Change Documentation {#sec-1-1}
+Maps that have been reworked arleady can be found in the `FAF vault` if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience.
+
+The documentation of the map-related changes can be found here:
+ - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
+ - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
+
+
+## 1.2 Report New Issues (Community Support) {#sec-1-2}
 Have you ever found yourself frustrated by unbalanced heightmaps or unevenly distributed marker, props and units in the following maps:
 - [Gas Powered Games (GPG) maps](https://ethercalc.net/0ds9j65h5wrr) <span style="background-color: yellow">Add Link to GPG Editor "Original Maps" table - need a cross- reference at "Original Maps" section - or copy table to this article? https://wiki.faforever.com/en/Development/Mapping/GPG-Map-Editor</span>
   - Supreme Commander and Forged Alliance stock maps included in the original game
 - Unknown author maps
 - Inactive author maps
 
-You are welcome to inform us about map issues here:
+If the issue has not already been resolved (see [1.1](#sec-1-1)), please feel free to inform us about any map-related issues here:
 - [Ticket System]() <span style="background-color: yellow">Add Link</span>
 
 
@@ -751,11 +754,11 @@ Testing the `Master Map Version` is a crucial step in ensuring its quality and f
 4. If necessary, make changes based on testing results and restart the process from step 1.
 
 
-# 5 Review & Documentation {#sec-5}
+# 5 Review & Change Documentation {#sec-5}
 Reviewing and documenting changes are essential steps in ensuring transparency and effective communication within the community
 
 
-## 5.1 Document prop value changes {#sec-5-1}
+## 5.1 Document Prop Value Changes {#sec-5-1}
 
 Use the FAF-Editor to retrieve the `prop values` for mass and energy of the original `source map version` and the `FAF version` map. Calculate the difference for discussion and documentation.
 
@@ -774,7 +777,7 @@ Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the is
 - that all `FAF version`-related requirements have been met (see [3](#sec-3)).
 - that the map is working like intended.
 
-## 5.3 Document total changes {#sec-5-3}
+## 5.3 Change Documentation {#sec-5-3}
 Comprehensive documentation is crucial for maintaining a record of changes and facilitating future issue tracking.
 
 1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [2.3](#sec-2-3)).
