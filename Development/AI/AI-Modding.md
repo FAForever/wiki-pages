@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T09:05:14.456Z
+date: 2023-06-30T09:07:03.776Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
