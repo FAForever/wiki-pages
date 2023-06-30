@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:15:00.194Z
+date: 2023-06-30T16:16:09.074Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -23,7 +23,7 @@ The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
  - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
 
-> **Note:**  This [Indivudual Issue Documentation](https://ethercalc.net/kkn2yatyf4wq)  <span style="background-color: yellow">(future ticket system data base enties, with a similar requirements / columns !?)</span>  is intended for authorized `FAF version` map makers to track and resolve open reported issues as well as individual issues that arise during the map creation process. It provides details on how these issues have been resolved in specific map versions.
+> **Note:**  This [Indivudual Map Issue Documentation](https://ethercalc.net/kkn2yatyf4wq)  <span style="background-color: yellow">(future ticket system data base enties, with a similar requirements / columns !?)</span>  is intended for authorized `FAF version` map makers to track and resolve open reported issues as well as individual issues that arise during the map creation process. It provides details on how these issues have been resolved in specific map versions.
 
 
 ## 1.2 Report New Map Issues (Community Support) {#sec-1-2}
