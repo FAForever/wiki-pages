@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T09:31:05.610Z
+date: 2023-06-30T10:04:16.070Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -451,7 +451,7 @@ Files
 */lua/sim/builder.lua*
 
 
-**BuilderManager Class**
+### BuilderManager Class
 The BuilderManager class is a base class that the 3 main builder managers inherit when being instantiated.
 
 It contains certain attributes that are common to the managers. 
