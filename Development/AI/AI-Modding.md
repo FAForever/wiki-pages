@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T23:34:19.647Z
+date: 2023-06-30T23:58:34.459Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -529,6 +529,25 @@ Some AI developers will introduce limits to the number of bases that exist, or w
 Engineer location can impact the efficiency of an engineer, remember that if an engineer builds a mass extractor half way across the map there is every chance that it will then pick up a builder that requires it to be back at its base location, this will cause efficiency delays while the engineer moves back or calls for transports. 
 This is a difficult problem to work around with the default framework, the TaskFinished function of the engineer manager will attempt to work around this problem by checking if the engineer it within a certain distance of its original base. If it is beyond that radius it will run a ReassignUnit function which will try to find another base that is closer which also has a factory manager operational. If a developer is strict with his builders on expansion bases this can lead to idle engineers. 
 There are other possible solutions that developers can try but often they will require modifying the core framework. One such solution was to create a floating engineer manager that focuses on extractor builders and reclaim builders, once an engineer is beyond a certain radius from its base it will join this manager which only contains builders that operate at range making engineer far less likely to return to base wasting efficiency. Though the bases need to be good at maintaining certain engineer counts so that enough build power is available at all times.
+
+## Base Creation Process
+**Main Base**
+When a game starts the AI will create its first base, which is always called **MAIN**. The process starts with the OnCreateAI function housed within the AI brain. 
+
+The first base creation is handled within the *aiarchetype-managerload.lua* file. It will run a GetHighestBuilder function, note this is not the same one that is used by the builder managers, it just has the same name. 
+
+This will loop through all BaseBuilderTemplates, the basebuildertemplates are located in the */lua/ai/AIBaseTemplates/* directory. It will check for a function called FirstBaseFunction and if it exist it will run the function which returns an integer that acts as a priority, which ever FirstBaseFunction returns the highest priority will be the base template selected by the AI. 
+
+This is how the AI will give the illusion of having different personalities, the rush AI will select a base template that has builders and attributes that are orientated to a rush style of game play where a turtle AI will select a base template that is aimed towards that play style. Often the FirstBaseFunctions for various templates will look at the personality name of the AI (this is similar to the name seen in the host lobby) in order to increase or decrease the priority returned by this function.
+
+The InitializeSkirmishSystems function which is run during the army initialization process will call the AddBuilderManagers function which will create all the builder managers for the MAIN base and initialize them. Note that the ExecutePlan function will also get the ACU and add it to the main engineer manager, since it was never built by a factory it had no way of being added by the factory manager.
+
+**Expansion Bases**
+Expansion bases are triggered by builders that engineers pick up. If the builder contains the attribute *BuilderData.Construction.ExpansionBase* and *BuilderData.Construction.NearMarkerType* it will begin the process of creating a new base. This process starts within the EngineerBuildAI platoon function.
+The EngineerBuildAI will loop through all the markers with the type defined in the NearMarkerType attribute of the builder. Once it finds one it will check distance, threat etc to determine its selection. It will then run the *AINewExpansionBase* function which will establish the base by creating the BuilderManager using the marker name as the base key. It will start the 3 types of Builder Managers then remove the engineer from its current base and add it to the new base.
+
+Note that this process happens BEFORE the engineer starts moving to the new base, this means that if the engineer is killed while in transit there will be an empty base manager sitting there. There is a DeadBaseMonitor thread that runs every 5 seconds looking for bases that have no engineers or factories and if found it will disable and destroy the various managers. This process is done to avoid multiple engineers picking up an expansion job for the same base multiple times before the first has arrived.
+
 
 ## AI Builders
 Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
