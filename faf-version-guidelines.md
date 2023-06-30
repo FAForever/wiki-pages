@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:49:55.060Z
+date: 2023-06-30T16:52:10.447Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -780,7 +780,7 @@ Comprehensive documentation is crucial for maintaining a record of changes and f
 The map upload process is the final step in making the `FAF version` map available to the FAF community. It involves preparing the map files, adjusting the folder and file paths and uploading the map to the `FAF Vault`.
 
 To prevent the occurrence of the `DOUBLE MAP_VERSION_STRING` (see [6.1.](#sec-6-1)) error, it is essential to remove the `.v000X` from both the folder and file paths prior to uploading. This is because the map file paths for all map files will be automatically generated during the upload process, using the selected `FOLDER_NAME` and the `map_version` specified in the `_scenario.lua` file.
-<span style="background-color: yellow">Would it be enough, to only change the folder name and leave the map file path unchanged?</span>
+<span style="background-color: yellow">Is that true or is the name from the scenario.lua used? If FOLDER_NAME, would it be enough, to only change the folder name and leave the map file path unchanged?</span>
 
 
 1. Copy the final `Master Map Version` folder to a separate directory.
