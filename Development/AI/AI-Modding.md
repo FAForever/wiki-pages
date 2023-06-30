@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-24T20:46:50.432Z
+date: 2023-06-30T02:52:04.680Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -402,6 +402,95 @@ Then you can copy that to your replay folder, rename it and play it
 You can then save it to:
 `C:\Users\[yourusername]\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\replays\FAF_[yourfafusername]`
 And then view the replay from the Replays menu when running the offline client (you'll need to try and view the replay using a consistent version of FAF, including either the FAFDevelop or normal FAF executable based on which was used for the replay).
+
+## Detailed AI framework mechanics
+
+There are 7 main classes that drive the default AI.
+
+### AIBrain Class
+This contains most data that the AI leverages and most core functions and threads such as
+- creating builder managers
+- intelligence gathering
+- initialization functions
+- economy data
+- economy functions
+- control functions
+- threat functions
+
+It is a C-Engine class so has a lua component and C component.
+Files 
+*/lua/aibrain.lua 
+/engine/sim/CAiBrain.lua*
+
+### Builder Class
+This class defines builders that are used as data objects for various builder manager types. They come in the following types
+- EngineerBuilder
+- FactoryBuilder
+- PlatoonFormBuilder
+
+A builder object contains the following attributes
+
+**Priority** - When a BuilderManager runs the GetHighestBuilder function, it queries for a builder using priority to define which is selected IF all conditions pass as true. In the case where there are multiple highest builders (e.g you have 5 builders that are all 1000 priority) a random one of that group will be selected.
+
+**PlatoonTemplate** - Defines either the platoon former template or the factory builder template. Both the PlatoonFormerManager and EngineerManager use the same template types that select squads based on unit categories and the FactoryManager which units blueprint id's that pass to factories to build. The min and max integers (table position 2 and 3) are only used in the platoonformer and define the minimum and maximum number of those category units that will be added to the platoon when it is formed.
+
+**BuilderType** - Only used on the factory manager to filter what unit types a factory should attempt to check when using GetHighestBuilder. For the other managers it will be specified as Any.
+BuilderConditions - Boolean based function list that are all required to return true in order for the builder to trigger. Used to manipulate builder usage based on data.
+
+**InstanceCount** - Used to dermine how many instances of a builder can be used at any one time. For example the number of platoons created by a specific builder, or the number of engineers running a specific builder. Does not effect the FactoryManager(confirm?).
+
+**FormRadius** - Used by the PlatoonFormerManager to use as the radius to search for units based on the BuilderManagers position.
+
+**BuilderData** - Used to send data to the managers that is specific to this builder which are leveraged by platoon functions. Not used by the factory manager.
+
+**PriorityFunction** - Can be used similar to a builder condition to manipulate the priority of a builder. It is checked on when the builder is being evaluated rather than within the builder condition monitor. It is most often used to disable or enable builders based on data metrics.
+
+Files
+*/lua/sim/builder.lua*
+
+
+**BuilderManager Class**
+The BuilderManager class is a base class that the 3 main builder managers use when being instantiated.
+
+It contains shared functions and data structures used by the builder managers. It also contains certain attributes that are common to the managers. Some of these are
+
+Radius - The radius that the builder manager can operate on. Used for things like the radius that the platoon former manager will search for units, or the radius that the engineer manager will look when evaluating structures.
+
+LocationType - The name of the builder manager, usually the base name. This is a special attribute that can be passed into builder managers via the builder objects as the string ‘LocationType’, it will be automatically set to whatever the LocationType attribute on the builder manager is set to.
+
+Location - The xyz coordinates of the BuilderManager. 
+
+Note that the other managers often set these variables in their own class for mod compatibility.
+
+The builder manager class contains shared functions that deal with the builder objects and store all builders for a specific base with tables. They contain a manager thread that will test builders for priority changes, the platoonformer manager uses the MangerThread extensively as it is not self driven.
+
+Files
+*/lua/sim/buildermanager.lua*
+
+### FactoryManager Class
+The factory manager class drives any factories that are assigned to the manager. It contains functions and data structures specifically for the factory managers. 
+
+The process for adding factories happens within the EngineerManager where a function will be called when an OnUnitBuilt callback triggers. There is also a callback that is triggered when a factory is captured that can add the factory to the manager that the engineer that captured it belongs to.
+
+PreBuiltUnits - TODO
+
+When a factory has been added to the manager via the AddFactory function it will setup callback triggers for factory destroyed, factory capture, unit built from factory. When the callbacks are setup it will fork a DelayBuildOrder function..
+It will then fork a rally point function for the factory.
+
+**Factory Unit Build Cycle**
+
+DelayBuildOrder function runs which will add a wait based on the parameter passed, this is turn runs the AssignBuildOrder function. If a viable builder is found then a BuilPlatoon function is run against the brain with the platoon template and factory table along with the count of units.
+
+After this the factory will not run any other functions until the FactoryFinishBuilding function is run which is based on  the OnUnitBuilt callback. This will run an if statement that triggers specific logic for certain unit categories then will run the AssignBuilderOrder function again against the factory.
+
+Note that the template that is passed to the factory can be one or many units depending on how the template is configured. If multiple units are passed then the factory will queue up the unit builds.
+
+The factory manager also handles modded unit replacements via a brain table called CustomUnits.
+
+There is also a rally point monitor that will check if a structure is within a 15 unit distance of the rally point. If it finds one it will try to move the rally point further away, then loop through all factories in the manager and change the rally points.
+
+Files
+*/lua/sim/factorymanager.lua*
 
 ## AI Builders
 Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
