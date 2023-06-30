@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:53:41.750Z
+date: 2023-06-30T16:58:43.800Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -737,11 +737,12 @@ Testing the `Master Map Version` is a crucial step in ensuring its quality and f
 1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
 2. Copy the `Master Map Version` to the FAF maps path.
 3. Test the created `Master Map Version` thoroughly to ensure:
+   - That the map is working like intended.
    - That all map-related `issues` have been resolved (see [1.1](#sec-1-1)) and no new `issues` have been introduced.
      - Open the `Moho Log` by pressing `F9` and check for any additional issues.
    - That all `FAF version`-related requirements have been met (see [3](#sec-3)).
    - That structures can be built on every `resource marker`.
-   - That `AI Markers` are working as intended.
+   - That `AI Markers` are working.
 4. If necessary, make changes based on testing results and restart the process from step 1.
 
 
@@ -764,9 +765,7 @@ Use the FAF-Editor to retrieve the `prop values` for mass and energy of the orig
 Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
 
 - `prop value` changes (see [5.1](#sec-5-1)).
-- that all map-related `issues` have been resolved (see [1.1](#sec-1-1)) and no new `issues` have been introduced.
-- that all `FAF version`-related requirements have been met (see [3](#sec-3)).
-- that the map is working like intended.
+- requirements of [4.3](#sec-4) 
 
 ## 5.3 Change Documentation {#sec-5-3}
 Comprehensive documentation is crucial for maintaining a record of changes and facilitating future issue tracking.
