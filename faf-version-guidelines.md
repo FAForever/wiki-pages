@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T15:18:54.228Z
+date: 2023-06-30T15:19:43.550Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
