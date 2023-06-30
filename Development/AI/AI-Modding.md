@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T10:13:52.048Z
+date: 2023-06-30T22:49:51.930Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -430,14 +430,14 @@ This class defines builders that are used as data objects for various builder ma
 
 A builder object contains the following attributes
 
-**Priority** - When a BuilderManager runs the GetHighestBuilder function, it queries for a builder using priority to define which is selected IF all conditions pass as true. In the case where there are multiple highest builders (e.g you have 5 builders that are all 1000 priority) a random one of that group will be selected. A common confusion that AI developers have initially is the relationship between builder priority and conditions. The best way to remember it is that priority is only relevant when all conditions are true.
-
 **PlatoonTemplate** - Defines either the platoon former template or the factory builder template. Both the PlatoonFormerManager and EngineerManager use the same template types that select squads based on unit categories, the FactoryManager uses units blueprint id's that pass to factories for construction. The min and max integers (table position 2 and 3) are only used in the platoonformer and define the minimum and maximum number of those category units that will be added to the platoon when it is formed.
-
-**BuilderType** - Only used on the factory manager to filter what unit types a factory should attempt to check when using GetHighestBuilder. For the other managers it will be specified as 'Any'.
 
 **BuilderConditions** - Boolean based function list that are all required to return true in order for the builder to trigger. Used to manipulate builder usage based on data. They are functions stored in deperate lua files under the /lua/editor directory. In the builder files they are imported as variables such as EBC, UCBC etc. The format for the builder table object is
 condition import, function name, parameters incased in braces (curly brackets). The brain will always be passed as the first parameter to any function that is a condition.
+
+**Priority** - When a BuilderManager runs the GetHighestBuilder function, it queries for a builder using priority to define which is selected IF all conditions pass as true. In the case where there are multiple highest builders (e.g you have 5 builders that are all 1000 priority) a random one of that group will be selected. A common confusion that AI developers have initially is the relationship between builder priority and conditions. The best way to remember it is that priority is only relevant when all conditions are true.
+
+**BuilderType** - Only used on the factory manager to filter what unit types a factory should attempt to check when using GetHighestBuilder. For the other managers it will be specified as 'Any'.
 
 **InstanceCount** - Used to dermine how many instances of a builder can be used at any one time. For example the number of platoons created by a specific builder, or the number of engineers running a specific builder. Does not effect the FactoryManager(confirm?).
 
