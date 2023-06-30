@@ -2,13 +2,13 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T09:07:03.776Z
+date: 2023-06-30T09:07:23.019Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
 ---
 
-# Ai Modding
+# AI Modding
 ## Custom AI
 FAF has several custom AI - a [separate summary available of the various AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
 
