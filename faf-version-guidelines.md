@@ -2,14 +2,14 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T15:45:03.354Z
+date: 2023-06-30T15:46:07.378Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
 ---
 
 # 1 Introduction {#sec-1}
-Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized map maker. These guidelines are based upon the pioneering work and experience of svenni_badbwoi, the original creator of `FAF version` maps.
+Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized `FAF version` map maker. These guidelines are based upon the pioneering work and experience of svenni_badbwoi, the original creator of `FAF version` maps.
 
 > **IMPORTANT NOTES:**
 > - **Map upload of approved content stays in the hands of <span style="background-color: yellow"> authorized `FAF version` map maker</span>! Don't upload any `FAF version` map without authorization!**
