@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T09:07:23.019Z
+date: 2023-06-30T09:30:24.082Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -452,7 +452,7 @@ Files
 
 
 **BuilderManager Class**
-The BuilderManager class is a base class that the 3 main builder managers use when being instantiated.
+The BuilderManager class is a base class that the 3 main builder managers inherit when being instantiated.
 
 It contains shared functions and data structures used by the builder managers. It also contains certain attributes that are common to the managers. 
 Some of these are
