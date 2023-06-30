@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T15:46:07.378Z
+date: 2023-06-30T16:08:11.354Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -22,6 +22,8 @@ Maps that have been reworked arleady can be found in the `FAF vault` if you sear
 The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
  - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
+
+> **Note:**  This [Indivudual Issue Documentation](https://ethercalc.net/kkn2yatyf4wq)  <span style="background-color: yellow">(future ticket system data base enties, with a similar requirements / columns !?)</span>  is intended for authorized `FAF version` map makers to track and resolve open reported issues as well as individual issues that arise during the map creation process. It provides details on how these issues have been resolved in specific map versions.
 
 
 ## 1.2 Report New Issues (Community Support) {#sec-1-2}
@@ -269,20 +271,9 @@ end
 
 ## 2.3 Map Issues {#sec-2-3}
 
-A lot of map-specific issues are already documented. Get familiar with the open map-specific issues for optimal map rework results.
+A lot of map-specific issues are already documented or fixed (see [1.1](#sec-1-1)). Get familiar with the open map-specific issues for optimal map rework results.
 
-### 2.3.1 Documented Issues
-
-Check what issues are already documented or fixed.
- - [Indivudual Issue Documentation](https://ethercalc.net/kkn2yatyf4wq) <span style="background-color: yellow">will this documentation of the induvidual issues replaced and or migrated to the ticket system?</span>
- - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
- - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
-
-### 2.3.2 New Issues
-
-If the issue is not documented or fixed yet, add a [new ticket]() (<span style="background-color: yellow">add ticket system link</span>) for later tracking and documentation.
-
-### 2.3.3 Issues In Game
+### 2.3.1 Issues In Game {#sec-2-3-1}
 
 Check the issues in game.
 
@@ -746,7 +737,7 @@ Testing the `Master Map Version` is a crucial step in ensuring its quality and f
 1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
 2. Copy the `Master Map Version` to the FAF maps path.
 3. Test the created `Master Map Version` thoroughly to ensure:
-   - That all map-related `issues` have been resolved (see [2.3](#sec-2-3)) and no new `issues` have been introduced.
+   - That all map-related `issues` have been resolved (see [1.1](#sec-1-1)) and no new `issues` have been introduced.
      - Open the `Moho Log` by pressing `F9` and check for any additional issues.
    - That all `FAF version`-related requirements have been met (see [3](#sec-3)).
    - That structures can be built on every `resource marker`.
@@ -773,14 +764,14 @@ Use the FAF-Editor to retrieve the `prop values` for mass and energy of the orig
 Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
 
 - `prop value` changes (see [5.1](#sec-5-1)).
-- that all map-related `issues` have been resolved (see [2.3](#sec-2-3)).
+- that all map-related `issues` have been resolved (see [1.1](#sec-1-1)) and no new `issues` have been introduced.
 - that all `FAF version`-related requirements have been met (see [3](#sec-3)).
 - that the map is working like intended.
 
 ## 5.3 Change Documentation {#sec-5-3}
 Comprehensive documentation is crucial for maintaining a record of changes and facilitating future issue tracking.
 
-1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [2.3](#sec-2-3)).
+1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [1.1](#sec-1-1)).
 <span style="background-color: yellow">Where should it be documented in the future, currently i got [this](https://ethercalc.net/kkn2yatyf4wq).</span>
 2. Post/explain map changes in one [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) in a clear and concise manner for documentation (in case issues arise from changes) and to inform the community about the changes made to the map. Provide detailed and issue-related information about the values that have been changed. This ensures that the community is fully informed about the changes made to the map and can provide feedback accordingly.
 3. Update the forum post with new changes.
