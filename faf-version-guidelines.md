@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:08:38.476Z
+date: 2023-06-30T16:14:01.208Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -17,7 +17,7 @@ Greetings everybody, the goals of the `FAF version` maps are fair / balanced gam
 > - **Adaptive maps and maps with individual assets are even harder to rework and require a total understanding of all dependencies.**
 
 ## 1.1 Released FAF Version Maps & Change Documentation {#sec-1-1}
-Maps that have been reworked arleady can be found in the `FAF vault` if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience.
+`FAF version` maps that have been released arleady can be found in the `FAF vault` if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience.
 
 The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
