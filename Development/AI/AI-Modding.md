@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T10:06:47.237Z
+date: 2023-06-30T10:10:05.203Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -500,6 +500,8 @@ The platoonform manager class is a relatively small class that contains function
 The main function ist he ManagerLoopBody, this function will run one instance of the same function name within the BuilderManager class and the location ManagerLoopBody within the platoonform manager class. The ManagerLoopBody is called by the Manager Thread in the BuilderManager base class. It will will perform the following task.
 Check the builder priority is greater or equal to 1. So a priority of zero will not trigger any platoons. It will also verify the instance count of the builder. It will then get the army pool and platoon template data. It will run the platoon function CanFormPlatoon with the template, platoonsize, location and radius. If this returns true and the builder status (condition checks) are true it will form the platoon using the FormPlatoon function.
 It will then set a plan name, then fork the platoon behavior function that drives the platoon. If the builder contains any addon plans, functions or behaviours it will fork these as well. Add on behaviors can run seperate threads on a platoon which can take over or drive platoon behaviors. An example of these are the repair and refueling behavior for air units.
+
+It is worth noting that the platoonform manager is the heaviest of the 3 main classes in regards to sim speed impact due to the loop cycle and functions that run on every loop. Decreasing the number of platoon formers will have a positive effect on the manager sim consumption. 
 
 Files
 */lua/sim/platoonformmanager.lua*
