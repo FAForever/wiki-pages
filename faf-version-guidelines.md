@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:52:10.447Z
+date: 2023-06-30T16:53:41.750Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -796,7 +796,7 @@ FOLDER_NAME = 'setons_clutch_-_faf_version'
 ```
 3. Remove the `MAP_VERSION_STRING` `.v000X` from the map file path in `_scenario.lua` and `_script.lua` (if present).
 
-> **Note** The `.scmap` file does not require any modifications. It remains unchanged throughout the upload procedure. <span style="background-color: yellow">Is that true?</span>
+> **Note** The `.scmap` file does not require any modifications. It remains unchanged throughout the upload process. <span style="background-color: yellow">Is that true?</span>
 
 ```lua
 --INPUT
@@ -811,7 +811,7 @@ map = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.lua',
 ```
-4. Select the renamed folder with the adapted file path during the upload procedure.
+4. Select the renamed folder with the adapted file path during the upload process.
 5. If the upload is successful, delete the `Editor Map Version` or `Master Map Version` from the FAF map path.
 6. Download the newly uploaded map.
 7. Test the map to ensure it is working as intended (see [4](#sec-4)).
