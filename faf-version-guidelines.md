@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:16:09.074Z
+date: 2023-06-30T16:20:21.699Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -279,7 +279,7 @@ Check the issues in game.
 
 ## 2.4 Check Other FAF Version Maps {#sec-2-4}
 
-Download other `FAF version` maps from the vault and get familiar with the requirements.
+Download other `FAF version` maps from the `FAF vault` and get familiar with the requirements.
 
 
 # 3 Create FAF version {#sec-3}
@@ -306,7 +306,7 @@ Default GPG path: `\THQ\Gas Powered Games\Supreme Commander - Forged Alliance\ma
 Default Stream path: `/steam/steamapps/common/Supreme Commander Forged Alliance/maps`
 
 ### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
-Needed for testing or if a map from unknown or inactive author has been downloaded from the FAF Vault as `source map version`.
+Needed for testing or if a map from unknown or inactive author has been downloaded from the `FAF Vault` as `source map version`.
 
 Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance/maps/`
 
@@ -777,7 +777,7 @@ Comprehensive documentation is crucial for maintaining a record of changes and f
 3. Update the forum post with new changes.
 
 # 6 Map Upload Process {#sec-6}
-The map upload process is the final step in making the `FAF version` map available to the FAF community. It involves preparing the map files, adjusting the folder and file paths and uploading the map to the FAF Vault.
+The map upload process is the final step in making the `FAF version` map available to the FAF community. It involves preparing the map files, adjusting the folder and file paths and uploading the map to the `FAF Vault`.
 
 To prevent the occurrence of the `DOUBLE MAP_VERSION_STRING` (see [6.1.](#sec-6-1)) error, it is essential to remove the `.v000X` from both the folder and file paths prior to uploading. This is because the map file paths for all map files will be automatically generated during the upload process, using the selected `FOLDER_NAME` and the `map_version` specified in the `_scenario.lua` file.
 <span style="background-color: yellow">Would it be enough, to only change the folder name and leave the map file path unchanged?</span>
@@ -813,8 +813,6 @@ script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.l
 5. If the upload is successful, delete the `Editor Map Version` or `Master Map Version` from the FAF map path.
 6. Download the newly uploaded map.
 7. Test the map to ensure it is working as intended (see [4](#sec-4)).
-
-
 
 
 ## DOUBLE MAP_VERSION_STRING ERROR {#sec-6-1}
