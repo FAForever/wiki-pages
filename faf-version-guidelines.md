@@ -2,14 +2,14 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T14:49:40.413Z
+date: 2023-06-30T15:18:54.228Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
 ---
 
 # 1 Introduction {#sec-1}
-Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created. These `Mapping Guidelines` are based on `FAF version` maps created by svenni_badbwoi.
+Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized map maker. These guidelines are based upon the pioneering work and experience of svenni_badbwoi, the original creator of `FAF version` maps. 
 
 Maps that have been reworked arleady can be found in the vault if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience. The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
@@ -17,8 +17,8 @@ Maps that have been reworked arleady can be found in the vault if you search for
 
 
 > **IMPORTANT NOTES:**
-> - **Map upload of approved content stays in the hands of <span style="background-color: yellow">FAF Creative staff / authorized FAF map maker</span>! Don't upload any `FAF version` map without authorization!**
-> - **If you can’t meet the requirements mentioned in this document, you are not qualified / allowed to create and upload a `FAF version` map.**
+> - **Map upload of approved content stays in the hands of <span style="background-color: yellow"> authorized `FAF version` map maker</span>! Don't upload any `FAF version` map without authorization!**
+> - **If you can’t meet the requirements mentioned in this document, regardless of your authorization status, you are not qualified / allowed to create and upload a `FAF version` map!**
 > - **Adaptive maps and maps with individual assets are even harder to rework and require a total understanding of all dependencies.**
 
 ## 1.1 Community Support {#sec-1-1}
