@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:20:21.699Z
+date: 2023-06-30T16:20:43.227Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -818,7 +818,7 @@ script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.l
 ## DOUBLE MAP_VERSION_STRING ERROR {#sec-6-1}
 When the `MAP_VERSION_STRING` `.v000X` is not removed from both the folder and file paths before uploading, it triggers the `DOUBLE MAP_VERSION_STRING` error. This results in the duplication of the `MAP_VERSION_STRING` (`.v000X.v000X`), leading to an incorrect file path and an unplayable map.
 
-### Bad GPG Example {#sec-6-1-2}
+### Bad GPG Map Example {#sec-6-1-2}
 ```lua
 --INPUT
 FOLDER_NAME = `setons_clutch_-_faf_version.v0001`
@@ -841,7 +841,7 @@ ScenarioInfo = {
     script = '/maps/setons_clutch_-_faf_version.v0001.v0001/setons_clutch_-_faf_version_script.lua',
 ```
 
-### Bad Adaptive Example {#sec-6-1-2}
+### Bad Adaptive Map Example {#sec-6-1-2}
 ```lua
 --INPUT
 FOLDER_NAME = `adaptive_monument_valley.v0005`
