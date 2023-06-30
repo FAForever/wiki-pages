@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T23:58:34.459Z
+date: 2023-06-30T23:59:25.961Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -518,6 +518,9 @@ The AddUnit function will loop through the ConsumptionUnits table of the enginee
 After this process the ForkEngineerTask function will be run which starts the build cycle of the engineer, it will in turn fork a Wait function. The Wait function will provide a small wait followed by running the AssignEngineerTask.
 
 The AssignEngineerTask will check if the unit is currently engaged in another task and if so it will run the DelayAssign function then exit. The DelayAssign will in turn kill any forked assignment function that is running and then fork the Wait function which starts the cycle once again. If the engineer was not engaged in a task when the AssignEngineerTask function was run it will run the GetHighestBuilder function from its base class, if a builder is returned it will create a platoon based on the platoontemplate defined in the builder and start any platoon functions required (identical to the platoonform manager). It will then call the DelayAssign function so that the engineer assignment loop will continue while the engineer is performing its task.
+
+Files
+*/lua/sim/engineermanager.lua*
 
 #### Considerations
 
