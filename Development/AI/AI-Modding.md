@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T22:49:51.930Z
+date: 2023-06-30T23:34:19.647Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -507,6 +507,28 @@ Some AI developers will also build custom threads to handle structure upgrades w
 
 Files
 */lua/sim/platoonformmanager.lua*
+
+### EngineerManager Class
+The engineer manager is responsible for directing all engineers that exist under a specific base. It contains functions and data leveraged by engineers and some supporting management threads. The engineer manager does contain some utility functions that were originally designed to allow economy management based on low resource callbacks but these are disabled in FAF as they did not function correctly.
+
+When a unit is built by a factory the factory manager callback will check if the unit category is an engineer and if so it will call the AddUnit function of the engineer manager using the LocationType of the factory manager to decide the engineer manager instance that will be joined.
+
+The AddUnit function will loop through the ConsumptionUnits table of the engineer manager and add the engineer to it. It will set engineer manager attributes against the engineer unit so that it can easily be queried in platoon logic. It will then add various callbacks for the enginer such as a unit captured and unit construction finished.
+
+After this process the ForkEngineerTask function will be run which starts the build cycle of the engineer, it will in turn fork a Wait function. The Wait function will provide a small wait followed by running the AssignEngineerTask.
+
+The AssignEngineerTask will check if the unit is currently engaged in another task and if so it will run the DelayAssign function then exit. The DelayAssign will in turn kill any forked assignment function that is running and then fork the Wait function which starts the cycle once again. If the engineer was not engaged in a task when the AssignEngineerTask function was run it will run the GetHighestBuilder function from its base class, if a builder is returned it will create a platoon based on the platoontemplate defined in the builder and start any platoon functions required (identical to the platoonform manager). It will then call the DelayAssign function so that the engineer assignment loop will continue while the engineer is performing its task.
+
+#### Considerations
+
+It is worth noting that both the engineer manager and factory manager are self driven. Meaning that each individual unit drives the selection of builders. The more units that exist under the manager the more load on the manager. The platoonform manager by comparison runs a looping thread that is constantly trying to create platoons. This difference in functionality is the main reason why the platoonform manager is the heavier of the 3.
+
+Each base created has an instance of all 3 managers, this means the the more bases an AI has the more load on the sim. This is often why AI can slow down in a later game as more bases are established and more engineers, factories and platoon managers are created looking for builders.
+Some AI developers will introduce limits to the number of bases that exist, or will modify loop cycles on the expansion base managers to decrease the load on the game.
+
+Engineer location can impact the efficiency of an engineer, remember that if an engineer builds a mass extractor half way across the map there is every chance that it will then pick up a builder that requires it to be back at its base location, this will cause efficiency delays while the engineer moves back or calls for transports. 
+This is a difficult problem to work around with the default framework, the TaskFinished function of the engineer manager will attempt to work around this problem by checking if the engineer it within a certain distance of its original base. If it is beyond that radius it will run a ReassignUnit function which will try to find another base that is closer which also has a factory manager operational. If a developer is strict with his builders on expansion bases this can lead to idle engineers. 
+There are other possible solutions that developers can try but often they will require modifying the core framework. One such solution was to create a floating engineer manager that focuses on extractor builders and reclaim builders, once an engineer is beyond a certain radius from its base it will join this manager which only contains builders that operate at range making engineer far less likely to return to base wasting efficiency. Though the bases need to be good at maintaining certain engineer counts so that enough build power is available at all times.
 
 ## AI Builders
 Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
