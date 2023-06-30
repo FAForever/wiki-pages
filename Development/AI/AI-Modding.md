@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T09:30:24.082Z
+date: 2023-06-30T09:31:05.610Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -454,7 +454,7 @@ Files
 **BuilderManager Class**
 The BuilderManager class is a base class that the 3 main builder managers inherit when being instantiated.
 
-It contains shared functions and data structures used by the builder managers. It also contains certain attributes that are common to the managers. 
+It contains certain attributes that are common to the managers. 
 Some of these are
 
 Radius - The radius that the builder manager can operate on. Used as attributes like the radius that the platoon former manager will search for units, or the radius that the engineer manager will look when evaluating structures. This is often used by builder conditions to evaluate data.
