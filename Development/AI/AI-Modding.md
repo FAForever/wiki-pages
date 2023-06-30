@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-06-30T02:52:04.680Z
+date: 2023-06-30T08:48:29.618Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -430,18 +430,20 @@ This class defines builders that are used as data objects for various builder ma
 
 A builder object contains the following attributes
 
-**Priority** - When a BuilderManager runs the GetHighestBuilder function, it queries for a builder using priority to define which is selected IF all conditions pass as true. In the case where there are multiple highest builders (e.g you have 5 builders that are all 1000 priority) a random one of that group will be selected.
+**Priority** - When a BuilderManager runs the GetHighestBuilder function, it queries for a builder using priority to define which is selected IF all conditions pass as true. In the case where there are multiple highest builders (e.g you have 5 builders that are all 1000 priority) a random one of that group will be selected. A common confusion that AI developers have initially is the relationship between builder priority and conditions. The best way to remember it is that priority is only relevant when all conditions are true.
 
-**PlatoonTemplate** - Defines either the platoon former template or the factory builder template. Both the PlatoonFormerManager and EngineerManager use the same template types that select squads based on unit categories and the FactoryManager which units blueprint id's that pass to factories to build. The min and max integers (table position 2 and 3) are only used in the platoonformer and define the minimum and maximum number of those category units that will be added to the platoon when it is formed.
+**PlatoonTemplate** - Defines either the platoon former template or the factory builder template. Both the PlatoonFormerManager and EngineerManager use the same template types that select squads based on unit categories, the FactoryManager uses units blueprint id's that pass to factories for construction. The min and max integers (table position 2 and 3) are only used in the platoonformer and define the minimum and maximum number of those category units that will be added to the platoon when it is formed.
 
-**BuilderType** - Only used on the factory manager to filter what unit types a factory should attempt to check when using GetHighestBuilder. For the other managers it will be specified as Any.
-BuilderConditions - Boolean based function list that are all required to return true in order for the builder to trigger. Used to manipulate builder usage based on data.
+**BuilderType** - Only used on the factory manager to filter what unit types a factory should attempt to check when using GetHighestBuilder. For the other managers it will be specified as 'Any'.
+
+**BuilderConditions** - Boolean based function list that are all required to return true in order for the builder to trigger. Used to manipulate builder usage based on data. They are functions stored in deperate lua files under the /lua/editor directory. In the builder files they are imported as variables such as EBC, UCBC etc. The format for the builder table object is
+condition import, function name, parameters incased in braces (curly brackets). The brain will always be passed as the first parameter to any function that is a condition.
 
 **InstanceCount** - Used to dermine how many instances of a builder can be used at any one time. For example the number of platoons created by a specific builder, or the number of engineers running a specific builder. Does not effect the FactoryManager(confirm?).
 
-**FormRadius** - Used by the PlatoonFormerManager to use as the radius to search for units based on the BuilderManagers position.
+**FormRadius** - Used by the PlatoonFormerManager to use as the radius to search for units based on the BuilderManagers position. If not specified then it will use the platoonform managers radius as defined when the manager is created.
 
-**BuilderData** - Used to send data to the managers that is specific to this builder which are leveraged by platoon functions. Not used by the factory manager.
+**BuilderData** - Used to input data to the managers that are specific to this builder, used by platoon functions for configuration. In the case of engineer builders it will usually define construction data that the EngineerBuildAI platoon function will leverage to construct buildings and units. Not used by the factory manager.
 
 **PriorityFunction** - Can be used similar to a builder condition to manipulate the priority of a builder. It is checked on when the builder is being evaluated rather than within the builder condition monitor. It is most often used to disable or enable builders based on data metrics.
 
@@ -452,13 +454,14 @@ Files
 **BuilderManager Class**
 The BuilderManager class is a base class that the 3 main builder managers use when being instantiated.
 
-It contains shared functions and data structures used by the builder managers. It also contains certain attributes that are common to the managers. Some of these are
+It contains shared functions and data structures used by the builder managers. It also contains certain attributes that are common to the managers. 
+Some of these are
 
-Radius - The radius that the builder manager can operate on. Used for things like the radius that the platoon former manager will search for units, or the radius that the engineer manager will look when evaluating structures.
+Radius - The radius that the builder manager can operate on. Used as attributes like the radius that the platoon former manager will search for units, or the radius that the engineer manager will look when evaluating structures. This is often used by builder conditions to evaluate data.
 
-LocationType - The name of the builder manager, usually the base name. This is a special attribute that can be passed into builder managers via the builder objects as the string ‘LocationType’, it will be automatically set to whatever the LocationType attribute on the builder manager is set to.
+LocationType - The name of the builder manager, usually the base name. This is a special attribute that can be passed into builder managers via the builder objects as the string ‘LocationType’. It will be automatically be set to whatever the LocationType attribute on the builder manager class instance is set to.
 
-Location - The xyz coordinates of the BuilderManager. 
+Location - The xyz coordinates of the BuilderManager instance. 
 
 Note that the other managers often set these variables in their own class for mod compatibility.
 
