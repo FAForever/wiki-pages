@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-26T22:46:18.678Z
+date: 2023-06-30T14:24:29.449Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -385,10 +385,12 @@ Derive the `FILE_NAME` from the new map `name` and change the map file names acc
 
 #### Example
 ```lua
+--INPUT
 name = 'Setons Clutch - FAF version'
 FILE_NAME = 'setons_clutch_-_faf_version'
 ```
 ```lua
+--RESULT
 scmap = 'setons_clutch_-_faf_version.scmap'
 scenario = 'setons_clutch_-_faf_version_scenario.lua'
 save = 'setons_clutch_-_faf_version_save.lua'
@@ -403,6 +405,7 @@ Add the correct `map_version` to the `_scenario.lua` file. The value `map_versio
 
 #### Example
 ```lua
+--RESULT
 map_version = 1,
 ```
 
@@ -423,6 +426,7 @@ MAP_VERSION_STRING = '.v0001'
 FILE_NAME = 'setons_clutch_-_faf_version'
 ```
 ```lua
+--RESULT
 FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 ```
 
@@ -441,10 +445,12 @@ script = '/maps/FOLDER_NAME/FILE_NAME_script.lua'
 
 #### Example
 ```lua
+--INPUT
 FILE_NAME = 'setons_clutch_-_faf_version'
 FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 ```
 ```lua
+--RESULT
 map = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua'
@@ -499,7 +505,7 @@ The `MapTransformer` rotates and mirrors² map content based on the `symmetry` a
 
 #### Preparations & Usage
 
-1. Install Java 17 (minimum requirement)
+1. Install `Java 17` (minimum requirement)
 2. In the directory where the `MapTransformer-17.jar` file is placed:
    1. Create `TransformedMaps` folder
    2. Create `InputMaps` folder
@@ -513,17 +519,17 @@ The `MapTransformer` rotates and mirrors² map content based on the `symmetry` a
 The options can be seen by running `java -jar MapTransformer-17.jar –help`.
 
 ```java
---help		produce help message
---in-folder-path arg	required, set the input folder for the map
---out-folder-path arg	required, set the output folder for the transformed map
---symmetry arg	required, set the symmetry for the map
-    • POINT2 - 180° rotation
-    • POINTN - 360°/N rotation
-    • X - mirror / flip
-    • Z - mirror / flip
-    • XZ - mirror / flip
-    • ZX - mirror / flip
---source arg	required, set which half to use as base for forced symmetry
+--help		        // produce help message
+--in-folder-path  // arg	required, set the input folder for the map
+--out-folder-path // arg	required, set the output folder for the transformed map
+--symmetry        // arg	required, set the symmetry for the map
+    • POINT2      // 180° rotation
+    • POINTN      // 360°/N rotation
+    • X           // mirror / flip
+    • Z           // mirror / flip
+    • XZ          // mirror / flip
+    • ZX					// mirror / flip
+--source					// arg  required, set which half to use as base for forced symmetry
     • ANGLE
     • TOP
     • BOTTOM
@@ -534,15 +540,15 @@ The options can be seen by running `java -jar MapTransformer-17.jar –help`.
     • BOTTOM_LEFT
     • BOTTOM_RIGHT
     • ALL
---all		optional, force symmetry for all components
---spawns		optional, force spawn symmetry
---resources	optional, force mex symmetry
---props		optional, force prop symmetry
---decals		optional, force decal symmetry
---wrecks		optional, force wreck symmetry
---civilians		optional, force civilian symmetry
---terrain		optional, force terrain symmetry
---debug		optional, turn on debugging options
+--all							// optional, force symmetry for all components
+--spawns					// optional, force spawn symmetry
+--resources				// optional, force mex symmetry
+--props						// optional, force prop symmetry
+--decals					// optional, force decal symmetry
+--wrecks					// optional, force wreck symmetry
+--civilians				// optional, force civilian symmetry
+--terrain					// optional, force terrain symmetry
+--debug						// optional, turn on debugging options
 ```
 
 #### Rotation Code Examples
@@ -778,24 +784,32 @@ Comprehensive documentation is crucial for maintaining a record of changes and f
 # 6 Map Upload Process {#sec-6}
 The map upload process is the final step in making the `FAF version` map available to the FAF community. It involves preparing the map files, adjusting the folder and file paths and uploading the map to the FAF Vault.
 
+To prevent the occurrence of the `DOUBLE MAP_VERSION_STRING` (see [6.1.](#sec-6-1)) error, it is essential to remove the `.v000X` from both the folder and file paths prior to uploading. This is because the map file paths for all map files will be automatically generated during the upload process, using the selected `FOLDER_NAME` and the `map_version` specified in the `_scenario.lua` file.
+<span style="background-color: yellow">Would it be enough, to only change the folder name and leave the map file path unchanged?</span>
+
+
 1. Copy the final `Master Map Version` folder to a separate directory.
 2. Remove the `MAP_VERSION_STRING` `.v000X` from the `FOLDER_NAME`.
 ```lua
+--INPUT
 MAP_VERSION_STRING = '.v0001'
 FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 ```
 ```lua
+--RESULT
 FOLDER_NAME = 'setons_clutch_-_faf_version'
 ```
 3. Remove the `MAP_VERSION_STRING` `.v000X` from the map file path in `_scenario.lua` (and `_script.lua`).
 
 ```lua
+--INPUT
 MAP_VERSION_STRING = '.v0001'
 map = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua',
 ```
 ```lua
+--RESULT
 map = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.lua',
@@ -805,6 +819,52 @@ script = '/maps/setons_clutch_-_faf_version/setons_clutch_-_faf_version_script.l
 6. Download the newly uploaded map.
 7. Test the map to ensure it is working as intended (see [4](#sec-4)).
 
+
+
+
+## DOUBLE MAP_VERSION_STRING ERROR {#sec-6-1}
+When the `MAP_VERSION_STRING` `.v000X` is not removed from both the folder and file paths before uploading, it triggers the `DOUBLE MAP_VERSION_STRING` error. This results in the duplication of the `MAP_VERSION_STRING` (`.v000X.v000X`), leading to an incorrect file path and an unplayable map.
+
+### Bad GPG Example {#sec-6-1-2}
+```lua
+--INPUT
+FOLDER_NAME = `setons_clutch_-_faf_version.v0001`
+map_version = 1
+MAP_VERSION-STRING = `.v0001`
+map = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version.scmap',
+save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save.lua',
+script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua',
+```
+```lua
+--_scenario.lua after upload (`.v0001.v0001`)
+version = 3 -- Lua Version. Dont touch this
+ScenarioInfo = {
+    name = 'Setons Clutch - FAF version',
+    ...
+    map_version = 1,
+    ...
+    map = '/maps/setons_clutch_-_faf_version.v0001.v0001/setons_clutch_-_faf_version.scmap',
+    save = '/maps/setons_clutch_-_faf_version.v0001.v0001/setons_clutch_-_faf_version_save.lua',
+    script = '/maps/setons_clutch_-_faf_version.v0001.v0001/setons_clutch_-_faf_version_script.lua',
+```
+
+### Bad Adaptive Example {#sec-6-1-2}
+```lua
+--INPUT
+FOLDER_NAME = `adaptive_monument_valley.v0005`
+map_version = 5
+MAP_VERSION-STRING = `.v0005`
+local Tables = import('/maps/adaptive_monument_valley.v0005/adaptive_monument_valley_tables.lua')
+```
+```lua
+--_save.lua after upload (`.v0005.v0005`):
+------------------------------------------------------------------------
+----- Script by CookieNoob and KeyBlue (modified by svenni_badbwoi)-----
+------------------------------------------------------------------------
+...
+local Tables = import('/maps/adaptive_monument_valley.v0005.v0005/adaptive_monument_valley_tables.lua')
+...
+```
 
 
 
