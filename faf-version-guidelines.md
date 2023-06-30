@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T16:46:40.938Z
+date: 2023-06-30T16:49:55.060Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -796,7 +796,7 @@ FOLDER_NAME = 'setons_clutch_-_faf_version'
 ```
 3. Remove the `MAP_VERSION_STRING` `.v000X` from the map file path in `_scenario.lua` and `_script.lua` (if present).
 
-> **Note** The `.scmap` file does not require any modifications. It the only file that remains unchanged throughout the upload procedure. <span style="background-color: yellow">Is that true?</span>
+> **Note** The `.scmap` file does not require any modifications. It remains unchanged throughout the upload procedure. <span style="background-color: yellow">Is that true?</span>
 
 ```lua
 --INPUT
