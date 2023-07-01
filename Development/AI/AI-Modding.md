@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-07-01T00:01:21.547Z
+date: 2023-07-01T00:02:09.682Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -405,7 +405,7 @@ And then view the replay from the Replays menu when running the offline client (
 
 ## Detailed AI framework mechanics
 
-There are 7 main classes that drive the default AI.
+There are various classes that drive the default AI.
 
 ### AIBrain Class
 This contains most data that the AI leverages and most core functions and threads such as
