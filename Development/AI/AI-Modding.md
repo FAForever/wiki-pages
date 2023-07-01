@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-07-01T00:10:21.358Z
+date: 2023-07-01T00:12:40.882Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -548,7 +548,7 @@ The InitializeSkirmishSystems function which is run during the army initializati
 
 **Expansion Bases**
 Expansion bases are triggered by builders that engineers pick up. If the builder contains the attribute *BuilderData.Construction.ExpansionBase* and *BuilderData.Construction.NearMarkerType* it will begin the process of creating a new base. This process starts within the EngineerBuildAI platoon function.
-The EngineerBuildAI will loop through all the markers with the type defined in the NearMarkerType attribute of the builder. Once it finds one it will check distance, threat etc to determine its selection. It will then run the *AINewExpansionBase* function which will establish the base by creating the BuilderManager using the marker name as the base key, for example the base may be call 'Large Expansion 01' if a large expansion marker was used. This is done to ensure the base keys are all unique since each marker has a unique name.
+The EngineerBuildAI will loop through all the markers with the type defined in the NearMarkerType attribute of the builder. Once it finds one it will check distance, threat etc to determine its selection, it will perform a loop through the base templates and check for an *ExpansionFunction*, similar to the main base which ever expansion function returns the highest value wil determine which base template will be used. It will then run the *AINewExpansionBase* function which will establish the base by creating the BuilderManager using the marker name as the base key, for example the base may be call 'Large Expansion 01' if a large expansion marker was used. This is done to ensure the base keys are all unique since each marker has a unique name.
 
 It will start the 3 types of Builder Managers then remove the engineer from its current base and add it to the new base.
 
