@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-07-01T00:09:45.266Z
+date: 2023-07-01T00:10:21.358Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -532,7 +532,7 @@ Some AI developers will introduce limits to the number of bases that exist, or w
 Engineer location can impact the efficiency of an engineer, remember that if an engineer builds a mass extractor half way across the map there is every chance that it will then pick up a builder that requires it to be back at its base location, this will cause efficiency delays while the engineer moves back or calls for transports. 
 This is a difficult problem to work around with the default framework, the TaskFinished function of the engineer manager will attempt to work around this problem by checking if the engineer it within a certain distance of its original base. If it is beyond that radius it will run a ReassignUnit function which will try to find another base that is closer which also has a factory manager operational. If a developer is strict with his builders on expansion bases this can lead to idle engineers. 
 
-There are other possible solutions that developers can try but often they will require modifying the core framework. One such solution was to create a floating engineer manager (no factory manger or platoonform manager) that focuses on extractor builders and reclaim builders, once an engineer is beyond a certain radius from its base it will join this manager which only contains builders that operate at range making engineer far less likely to return to base wasting efficiency. Though the bases need to be good at maintaining certain engineer counts so that enough build power is available at all times.
+There are other possible solutions that developers can try but often they will require modifying the core framework. One such solution was to create a floating engineer manager (no factory manger or platoonform manager) that focuses on extractor builders and reclaim builders, once an engineer is beyond a certain radius from its base it will join this manager which only contains builders that operate at range making an engineer far less likely to return to a base wasting efficiency. Though the bases need to be good at maintaining certain engineer counts so that enough build power is available at all times.
 
 ## Base Creation Process
 **Main Base**
