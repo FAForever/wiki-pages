@@ -2,14 +2,14 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-06-30T17:06:52.970Z
+date: 2023-07-03T18:52:57.392Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
 ---
 
 # 1 Introduction {#sec-1}
-Greetings everybody, the goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized `FAF version` map maker. These guidelines are based upon the pioneering work and experience of svenni_badbwoi, the original creator of `FAF version` maps.
+The goals of the `FAF version` maps are fair / balanced gaming conditions and an improved / up-to-date gaming experience. To ensure the goals are met for every `FAF version` map, these `Mapping Guidelines` were created to empower authorized `FAF version` map maker. These guidelines are based on the `FAF version` maps created by svenni_badbwoi.
 
 > **IMPORTANT NOTES:**
 > - **Map upload of approved content stays in the hands of <span style="background-color: yellow"> authorized `FAF version` map maker</span>! Don't upload any `FAF version` map without authorization!**
@@ -295,7 +295,7 @@ Official GPG skirmish map folder and files are called `SCMP_0XX` (`v56` and `v60
 `SCCA_XXX` are Supreme Commander `v56` and `X1CA_0XX` are Forged Alliance `v60` campaign maps.
 
 > **Note:**
-> GPG named the map folder and files differently than the map name. The map name is only visible in game or in the `_scenario.lua`
+> GPG named the map folder and files differently than the map name. The map name is only visible in game or in the `_scenario.lua` file.
 
 ### 3.1.1 Supreme Commander (v56 | GPG-Editor) maps path
 Default GPG path: `\Gas Powered Games\Supreme Commander\maps`  
