@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-07-04T19:42:48.174Z
+date: 2023-07-04T20:42:15.441Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -17,7 +17,7 @@ The goals of the `FAF version` maps are fair / balanced gaming conditions and an
 > - **Adaptive maps and maps with individual assets are even harder to rework and require a total understanding of all dependencies.**
 
 ## 1.1 Released FAF Version Maps & Change Documentation {#sec-1-1}
-`FAF version` maps that have been released arleady can be found in the `FAF vault` if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience.
+`FAF version` maps that have been released already can be found in the `FAF vault` if you search for the suffix ` - FAF version`. Please download the latest map version `.v000X` for the best in game experience.
 
 The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
@@ -127,6 +127,7 @@ Individual assets such as paths to prop or decal are hard-coded in the `.scmap` 
 - **Changed map version**
   - Open `.scmap` file in binary / hex editor (Visual Studio Code, Okteta, ...) and change version `.v000X`
   
+> **Note:** Like GPG maps, the majority of maps do not contain individual assets. However, there are a community maps that incorporate individual assets.  
   
 
 ### 2.2.2 _scenario.lua {#sec-2-2-2}
@@ -231,7 +232,7 @@ The file holds the following information:
   - **Resources**
   - **AI marker**
 
-> **Note:** Changes to scripted maps like adaptive maps, require an understanding of all scripted dependencies e.g. army related mex spawning in `_options.lua`.
+> **Note:** Changes to scripted maps like adaptive maps, require an understanding of all scripted dependencies e.g. army related mex spawning in `_tables.lua` and adaptive `_options.lua`.
 
 #### NEUTRAL_CIVILIAN {#sec-2-2-3-1}
 
@@ -276,6 +277,10 @@ A lot of map-specific issues are already documented or fixed (see [1.1](#sec-1-1
 ### 2.3.1 Issues In Game {#sec-2-3-1}
 
 Check the issues in game.
+
+### 2.3.2 Issues In Editor {#sec-2-3-2}
+
+Check the issues in GPG or FAF Editor.
 
 ## 2.4 Check Other FAF Version Maps {#sec-2-4}
 
@@ -350,7 +355,7 @@ In the case of the `Setons Clutch – FAF version`, we agreed on a `source` angl
 
 ## 3.3 Set up new map name, files, version, folder & file path {#sec-3-3}
 
-While creating a new map, it is important to set up the folder, files, and file path according to the map name (see `_scenario.lua` Example and already uploaded `FAF version` maps). Copy the `source map version` folder to the `Master Map Version` folder (see [3.4](#sec3-4)) and make the following adjustments manually.
+While creating a new map, it is important to set up the folder, files, and file path according to the map name (see [Example](#sec-2-2-2-2) `_scenario.lua` and already uploaded `FAF version` maps). Copy the `source map version` folder to the `Master Map Version` directory (see [3.4](#sec3-4)) and make the following adjustments manually.
 
 > **Note:** Manual adjustment is recommended at this step to ensure that the changes are made correctly. Re-saving the map with a different `name` will change the original content!
 
@@ -707,14 +712,14 @@ See [2.2.2](#sec-2-2-2).
 
 Also see [2.2.3](#sec-2-2-3).
 
-#### Marker
+#### Marker (FAF Editor)
 
-Check/fix marker issues at the rotation/mirror axis of the `source` area or angle. Optimize/improve marker positions (armies, units, resources, and AI marker).
-<span style="background-color: yellow">Should AI marker be add, even if they get generated automatically now?</span>
+Check/fix marker issues at the rotation/mirror axis of the `source` area or angle.
+Add, optimize and improve the AI marker.  <span style="background-color: yellow">Should AI marker be add, even if they get generated automatically now?</span>
 > **Note:** Marker refers to the content of the `_save.lua` file (see [2.2.3](#sec-2-2-3)).
 
 **Units and structures**
-Take note of the reclaim value, as well as the quantity of structures and units used in the original `source map version`. Replace units/structures as closely as possible to the original in the `FAF version`. Try to ensure they match in reclaim value, placement, type and quantity, while considering the new `source` area or angle.
+Pay special attention to the reclaim value, as well as the quantity of structures and units located at the rotation/mirror axis or in the middle of the map. Take note of the reclaim value, as well as the quantity of structures and units used in the original `source map version`. Ensure the units and structures are placed as closely as possible to the original in the `FAF version`. Try to ensure they match in reclaim value, placement, type and quantity, while considering the new `source` area or angle.
 
 > **Note:** If a radar belongs to the `INITIAL` `NEUTRAL_CIVILIAN` group, ensure it has sufficient power to operate effectively.
 
@@ -741,7 +746,7 @@ Testing the `Master Map Version` is a crucial step in ensuring its quality and f
 
 1. Once all changes are final, remove the `Editor Map Version` from the FAF maps path.
 2. Copy the `Master Map Version` to the FAF maps path.
-3. Test the created `Master Map Version` thoroughly to ensure:
+3. Test the created `Master Map Version` thoroughly in game to ensure:
    - That the map is working like intended.
    - That all map-related `issues` have been resolved (see [1.1](#sec-1-1)) and no new `issues` have been introduced.
      - Open the `Moho Log` by pressing `F9` and check for any additional issues.
@@ -751,7 +756,7 @@ Testing the `Master Map Version` is a crucial step in ensuring its quality and f
 4. If necessary, make changes based on testing results and restart the process from step 1.
 
 
-# 5 Review & Change Documentation {#sec-5}
+# 5 Review, Approval & Change Documentation {#sec-5}
 Reviewing and documenting changes are essential steps in ensuring transparency and effective communication within the community
 
 
@@ -770,15 +775,20 @@ Use the FAF-Editor to retrieve the `prop values` for mass and energy of the orig
 Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
 
 - `prop value` changes (see [5.1](#sec-5-1)).
-- requirements of [4.3](#sec-4) 
+- requirements of [4.3](#sec-4)
+
+> **Note:** To make the map accessible prior to uploading it to the `FAF Vault`, create a zip file from the `Master Map Version` folder and upload the zip file to the Matchmaker-submissions Discord channel (see [3.2.2](#sec-3-2-2)). This allows others to access and review the map before it is officially uploaded.
 
 ## 5.3 Change Documentation {#sec-5-3}
 Comprehensive documentation is crucial for maintaining a record of changes and facilitating future issue tracking.
 
-1. Document issue/version related changes in `Documented Issues` for future documentation and issue tracking (see [1.1](#sec-1-1)).
+1. **Individual Map Issue Documentation**
+Document version related changes in `Individual Map Issue Documentation` for future documentation and issue tracking (see [1.1](#sec-1-1)).
 <span style="background-color: yellow">Where should it be documented in the future, currently i got [this](https://ethercalc.net/kkn2yatyf4wq).</span>
-2. Post/explain map changes in one [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) in a clear and concise manner for documentation (in case issues arise from changes) and to inform the community about the changes made to the map. Provide detailed and issue-related information about the values that have been changed. This ensures that the community is fully informed about the changes made to the map and can provide feedback accordingly.
-3. Update the forum post with new changes.
+2. **Forum Post**
+Explain map changes in one [forum post](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework) in a clear and concise manner for documentation (in case issues arise from changes) and to inform the community about the changes made to the map. Provide detailed and issue-related information about the values that have been changed. This ensures that the community is fully informed about the changes made to the map and can provide feedback accordingly.
+
+> **Note:** Keep the `Individual Map Issue Documentation` and the corresonding `Forum Post` up to date whenever a new map version is uploaded the the `FAF Vault`.
 
 # 6 Map Upload Process {#sec-6}
 The map upload process is the final step in making the `FAF version` map available to the FAF community. It involves preparing the map files, adjusting the folder and file paths and uploading the map to the `FAF Vault`.
@@ -827,15 +837,15 @@ When the `MAP_VERSION_STRING` `.v000X` is not removed from both the folder and f
 ### Bad GPG Map Senario Example {#sec-6-1-2}
 ```lua
 --INPUT
-FOLDER_NAME = `setons_clutch_-_faf_version.v0001`
+FOLDER_NAME = 'setons_clutch_-_faf_version.v0001'
 map_version = 1
-MAP_VERSION-STRING = `.v0001`
+MAP_VERSION-STRING = '.v0001'
 map = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version.scmap',
 save = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_save.lua',
 script = '/maps/setons_clutch_-_faf_version.v0001/setons_clutch_-_faf_version_script.lua',
 ```
 ```lua
---RESULT AFTER UPLOAD (`.v0001.v0001`)
+--RESULT AFTER UPLOAD ('.v0001.v0001')
 version = 3 -- Lua Version. Dont touch this
 ScenarioInfo = {
     name = 'Setons Clutch - FAF version',
@@ -850,13 +860,13 @@ ScenarioInfo = {
 ### Bad Adaptive Map Script Example {#sec-6-1-2}
 ```lua
 --INPUT
-FOLDER_NAME = `adaptive_monument_valley.v0005`
+FOLDER_NAME = 'adaptive_monument_valley.v0005'
 map_version = 5
-MAP_VERSION-STRING = `.v0005`
+MAP_VERSION-STRING = '.v0005'
 local Tables = import('/maps/adaptive_monument_valley.v0005/adaptive_monument_valley_tables.lua')
 ```
 ```lua
---RESULT AFTER UPLOAD (`.v0005.v0005`):
+--RESULT AFTER UPLOAD ('.v0005.v0005'):
 ------------------------------------------------------------------------
 ----- Script by CookieNoob and KeyBlue (modified by svenni_badbwoi)-----
 ------------------------------------------------------------------------
