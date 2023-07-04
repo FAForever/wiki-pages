@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-07-03T18:55:01.740Z
+date: 2023-07-04T19:42:48.174Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -287,39 +287,42 @@ The primary focus of this section is to guide the creation of a balanced and opt
 
 ## 3.1 Get Source Map Version {#sec-3-1}
 
-**If the `source map version` of the `FAF version` is a GPG map, Forged Alliance `v60` maps should always be used. The Forged Alliance `v60` maps are further developed (e.g. skybox, different units, ...) compared to the Supreme Commander `v56` ones.**
+**If the `source map version` of the `FAF version` is a GPG (Supreme Commader and Forged Alliance) map, Forged Alliance `v60` maps should always be used. The Forged Alliance `v60` maps are further developed (e.g. skybox, different units, ...) compared to the Supreme Commander `v56` ones (see [3.1.1](#sec-3-1-1), [3.1.2](#sec-3-1-2) and [3.1.4](#sec-3-1-4)).** 
 
-- **skirmish maps**
-Official GPG skirmish map folder and files are called `SCMP_0XX` (`v56` and `v60`). `X1MP_0XX` are additional Forged Alliance `v60` skirmish maps.
-- **campain maps**
-`SCCA_XXX` are Supreme Commander `v56` and `X1CA_0XX` are Forged Alliance `v60` campaign maps.
+In case of `unknown author` and `inactive author` maps, the `source map version` can be downloaded from the `FAF Vault` and will then be accessible in the Forged Alliance Forever maps path (see [3.1.3](#sec-3-1-3)).
 
 > **Note:**
-> GPG named the map folder and files differently than the map name. The map name is only visible in game or in the `_scenario.lua` file.
+> GPG named the map folder and files differently than the map `name`. The map `name` is only visible in game or in the `_scenario.lua` file.
+> - **GPG Skirmish Maps**
+>   - `SCMP_0XX` are official Supreme Comander `v56` and Forged Alliance `v60` skirmish map folder and files
+>   - `X1MP_0XX` are additional official Forged Alliance `v60` skirmish map folder and files
+>   
+> - **GPG Campain Maps**
+>   - `SCCA_XXX` are official Supreme Commander `v56` campain map folder and files
+>   - `X1CA_0XX` are official Forged Alliance `v60` campaign map folder and files
 
-### 3.1.1 Supreme Commander (v56 | GPG-Editor) maps path
+### 3.1.1 Supreme Commander (v56 | GPG-Editor) maps path {#sec-3-1-1}
 Default GPG path: `\Gas Powered Games\Supreme Commander\maps`  
 Default Stream path: `/steam/steamapps/common/Supreme Commander/maps`
 
-### 3.1.2 Forged Alliance (v60) maps path
+### 3.1.1 Forged Alliance (v60) maps path {#sec-3-1-2}
 Default GPG path: `\THQ\Gas Powered Games\Supreme Commander - Forged Alliance\maps`
 Default Stream path: `/steam/steamapps/common/Supreme Commander Forged Alliance/maps`
 
-### 3.1.3 Forged Alliance Forever (v56 and v60) maps path
+### 3.1.3 Forged Alliance Forever (v56 and v60) maps path {#sec-3-1-3}
 Needed for testing or if a map from unknown or inactive author has been downloaded from the `FAF Vault` as `source map version`.
 
 Default FAF path: `/My Games/Gas Powered Games/Supreme Commander Forged Alliance/maps/`
 
-### 3.1.4 Example source map version
+### 3.1.4 Example GPG Source Map Version {#sec-3-1-4}
 
 Different units/structure placement and count between Supreme Commander `v56` and Forged Alliance `v60` map versions. 
 ![faf_version_source_map_version.jpg](/images/faf-version/faf_version_source_map_version.jpg)
 *Image: Theta Passage – Supreme Commander `v56` (left) VS Forged Alliance `v60` map version (right)*
 
-## 3.2 Find Source Area / Angle {#sec-3-2}
+## 3.2 Find Source Area Or Angle {#sec-3-2}
 
-For a balanced `FAF version` of the map, it is crucial to correctly identify the `source` area or angle. The `source` marks the map content that will be used for the `FAF version` rework.
-If the map issue doesn't dictate a specific `source` area or angle (e.g. remove heightmap difference at map bottom > `source = TOP`), the `source` needs to be found/discussed.
+For a balanced `FAF version` of the map, it is crucial to correctly identify the `source` area or angle. The `source` marks the map content that will be used for the `FAF version` rework. If the map issue doesn't dictate a specific `source` area or angle (e.g. remove heightmap difference at map bottom > `source = TOP`), the `source` area or angle needs to be found/discussed.
 
 > **Note:** In some cases, a different `source` area or angle was used to rework the heightmap and props differently.
 
@@ -328,15 +331,17 @@ If the map issue doesn't dictate a specific `source` area or angle (e.g. remove 
 To prepare the discussion, one of the following steps is advisable:
 - Export `heightmap.raw` and create a 360° rotation/mirror video to discuss the `source` area or angle.
     - Worldmachine Template <span style="background-color: yellow">add</span>
-- Create and test a few `source` area or angle options on the correct `source`map version with the `MapTransformer` and compare the results.
+- Create and test a few `source` area or angle options on the correct `source map version` with the `MapTransformer` and compare the results.
     - Terrain issues at `source` area or angle.
-    - Differences in `prop` count and `marker` placement, ...
+    - Changes in `prop value` and `marker` placement, ...
 
-### 3.2.2 Discuss Source Area / Angle {#sec-3-2-2}
+### 3.2.2 Discuss Source Area Or Angle / Map Issues / Requirements {#sec-3-2-2}
 
-Discuss/Collaborate with the ladder team, Team Match Maker (TMM), and the issue reporter to determine the optimal `source` area or angle based on the preparations (see [3.2.1](#sec-3-2-1)). Please create a thread in the following channel on Discord:
+Engage in discussions with the ladder team, Team Match Maker (TMM), and the issue reporter to determine the optimal `source` area or angle based on the open individual map issues (see [1.1](#sec-1-1)), [preparations](#sec-3-2-1) and other map specific requirements. Please create a thread in the following channel on Discord:
 - Official Forged Alliance Forever Discord
     - [Matchmaker-submissions](https://discord.com/channels/197033481883222026/832707438443626596)
+
+> **Note:** It is recommended for authorized `FAF version` map makers to engage in discussions regarding open questions and unexpected issues that arise during the map rework process.
 
 ### 3.2.3 Example {#sec-3-2-3}
 
