@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2023-07-06T06:23:06.693Z
+date: 2023-07-06T06:25:45.684Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -81,3 +81,7 @@ are listed below:
 - Static T3 anti-air is much cheaper.
 - Air staging stations can now be built by T1 engineers.
 - Czar has a shield and reasonable anti-air attack
+
+## Other changes
+
+- Improvements have been made to the adaptive AI that is available by default (i.e. this is in addition to various [custom AI mods](https://wiki.faforever.com/en/Development/AI/Custom-AIs) that are available) 
