@@ -2,14 +2,14 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2023-07-06T06:21:34.548Z
+date: 2023-07-06T06:22:10.255Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
 ---
 
 Over the years, FAF made a bunch of changes to original game balance as it was in the GPG lobby. The steam version introduces a few changes of its own, this article describes key differences between Steam and FAF balance. You can also check other useful sources below:
-- [Patchnotes](https://wiki.faforever.com/en/patchnotes)
+- [Patchnotes](https://wiki.faforever.com/en/Infrastructure/patchnotes)
 - [Integrated-mods](/Game-Modifications-(Mods)#integrated-mods)
 - [Unit database](https://unitdb.faforever.com/)
 
