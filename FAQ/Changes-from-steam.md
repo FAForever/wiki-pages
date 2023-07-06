@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2023-04-15T16:23:57.118Z
+date: 2023-07-06T06:21:34.548Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -23,7 +23,6 @@ Game lobbies were improved in many ways:
 
 - Maximum player count was increased to 16.
 - In addition to unit categories, it's possible to restrict specific     units. If you hate mercies or have a grudge towards UEF T3 gunships,     you have the power to disable specifically them.
-- Improved AI known as Sorian AI has been added.
 - Teams can be set automatically in many different configurations
 	- top vs. bottom, left vs. right, even vs. odd slots, and so on.
 
