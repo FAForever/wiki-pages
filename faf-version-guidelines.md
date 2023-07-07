@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-07-07T14:56:23.748Z
+date: 2023-07-07T15:01:15.489Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -774,8 +774,9 @@ Use the FAF-Editor to retrieve the `prop values` for mass and energy of the orig
 ## 5.2 Review & Approval {#sec-5-2}
 
 Present the `FAF version` to the ladder team, Team Match Maker (TMM), and the issue reporter to review and test the changes (see [3.2](#sec-3-2)). Before proceeding, ensure that you have received approval for the following:
-
-- `prop value` changes (see [5.1](#sec-5-1)).
+Changes in prop value and marker placement, ...
+- changes in `prop value` (see [5.1](#sec-5-1))
+- changes in `marker` placement
 - requirements of [4.3](#sec-4)
 
 > **Note:** To make the map accessible prior to uploading it to the `FAF Vault`, create a zip file from the `Master Map Version` folder and upload the zip file to the Matchmaker-submissions Discord channel (see [3.2.2](#sec-3-2-2)). This allows others to access and review the map before it is officially uploaded.
