@@ -2,7 +2,7 @@
 title: FAF version - Mapping Guidelines
 description: GPG, unknown & inactive author map rework
 published: true
-date: 2023-07-04T20:42:19.957Z
+date: 2023-07-07T14:56:23.748Z
 tags: mapping, guidelines, advanced, faf_version
 editor: markdown
 dateCreated: 2023-06-19T22:22:31.122Z
@@ -23,7 +23,8 @@ The documentation of the map-related changes can be found here:
  - [Forum (svenni_badbwoi)](https://forum.faforever.com/topic/398/faf-version-gpg-unknown-inactive-author-map-rework)
  - [Forum (MadMax)](https://forum.faforever.com/topic/5869/faf-version-maps)
 
-> **Note:**  This [Indivudual Map Issue Documentation](https://ethercalc.net/kkn2yatyf4wq)  <span style="background-color: yellow">(future ticket system data base enties, with a similar requirements / columns !?)</span>  is intended for authorized `FAF version` map makers to track and resolve open reported issues as well as individual issues that arise during the map creation process. It provides details on how these issues have been resolved in specific map versions.
+> **Note:**  The [Indivudual Map Issue Documentation](https://ethercalc.net/kkn2yatyf4wq) provides an overview of all reported isses and deails on how these issues have been resolved in specific map versions. This documentation is intended for authorized `FAF version` map makers to track and resolve open reported map-related issues as well as individual issues that arise during the map creation process.
+<span style="background-color: yellow">(This documentation should be replaced and merged into the future ticket system data base enties, with similar requirements / columns)</span> 
 
 
 ## 1.2 Report New Map Issues (Community Support) {#sec-1-2}
@@ -494,16 +495,16 @@ The `Master Map Version` folder is used to store, test and discuss final results
 
 ## 3.5 Implement Source Area / Angle {#sec-3-5}
 
-After completing all the necessary preparation steps, it is now time to implement the `source` area or angle (see [3.2](#sec-3-2)).
+After completing all the necessary preparation steps, it is now time to implement the `source` area or angle (see [3.2](#sec-3-2)) based on the `Editor Map Version`.
 
 **Automating the implementation of the `source` area or angle using the `MapTransformer` by Sheikah is highly recommended. This ensures consistency and accuracy in the process, while also saving time and effort.** If you need to manually implement or recreate map assets, such as mirroring decals, refer to the documented steps at [3.5.2](#sec-3-5-2).
 
 ### 3.5.1 Automated Rotation / Mirror² (MapTransformer) {#sec-3-5-1}
 
-The `MapTransformer` rotates and mirrors² map content based on the `symmetry` and `source` settings of the input map. Content that does not belong to the `source` gets deleted and repopulated according to the `symmetry` settings. Changes can be done separately or `--all` at once. The `MapTransformer` is currently a java command line tool.
+The `MapTransformer` is a java command line tool. The `MapTransformer` rotates and mirrors² the map content based on the `symmetry` and `source` settings of the input map. Content that does not belong to the `source` gets deleted and repopulated according to the `symmetry` settings. Changes can be done separately or `--all` at once. .
 
 > **Notes:**  
-> - The `symmetry` settings derive from the original `source map version`. 
+> - The `symmetry` settings (rotation, mirror) derive from the original `source map version`.
 > - The `--all` option should be used to ensure a balanced `FAF version` map.
 > - The `MapTransformer` does not create AI markers / preserve connections.
 > - ² The `MapTransformer` is currently unable to mirror decals, see b2ag’s [scmap_mirror_tool](https://github.com/b2ag/scmap_mirror_tool) to mirror `.scmap` content.
@@ -514,8 +515,8 @@ The `MapTransformer` rotates and mirrors² map content based on the `symmetry` a
 2. In the directory where the `MapTransformer-17.jar` file is placed:
    1. Create `TransformedMaps` folder
    2. Create `InputMaps` folder
-   3. Place the map folder in the `InputMaps` folder
-3. Adjust the code examples to your desired `symmetry` and `source` area or angle
+   3. Place the map folder (`Editor Map Version`) in the `InputMaps` folder
+3. Adjust the code examples (`in-folder-path`, `symmetry` and `source` area or angle) to your needs
 4. Run terminal in the directory where the `MapTransformer-17.jar` file is placed
 5. Run code in terminal
 6. Open `TransformedMaps` to access the modified map
