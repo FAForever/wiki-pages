@@ -2,7 +2,7 @@
 title: Windows Installation
 description: 
 published: true
-date: 2023-07-11T21:06:42.222Z
+date: 2023-07-11T21:07:12.325Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
@@ -36,7 +36,7 @@ If you own a retail version of Supreme Commander, you can use its code to redeem
 
 - Some popular mods, like GAZ_UI and Hotbuild, are already [integrated](/Play/Game-Modifications-(Mods)) and require no installation - simply enable their features in-game.
 
-- All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault) and can be used according to preference.
+- All other mods can be found in the [mod vault](/Play/Client/Map-&-Mod-Vault#mod-vault) and can be used according to preference.
 
 ## What is Steam link/GOG link, why is it required, and how do I do it?
 
