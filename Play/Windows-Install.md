@@ -2,7 +2,7 @@
 title: Windows Installation
 description: 
 published: true
-date: 2023-07-11T21:05:55.388Z
+date: 2023-07-11T21:06:42.222Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
@@ -28,7 +28,7 @@ If you own a retail version of Supreme Commander, you can use its code to redeem
 - If you own a physical box copy of either Supreme Commander (base game) or Forged Alliance (expansion), either code activates both titles on Steam. This means that if you own both Supcom & FA boxes, you can actually give one of these codes to a friend and they'll also get the Supcom Gold game (with the FA expansion) unlocked on Steam.
  - **As a general rule, you do not need any external links to mods or enhancements because the FAF client automatically manages all mods and maps for you!** So you simply need to consult the [Map & Mod Vault](/Play/Client/Map-&-Mod-Vault).
 
-- There are also some mods integrated directly into FAF, which can be found [here](/Game-Modifications-(Mods)).
+- There are also some mods integrated directly into FAF, which can be found [here](/Play/Game-Modifications-(Mods)).
 
  - It patches the game separately from your current installation. That means that you can continue to use your original game and FAF concurrently – they do not “overwrite” each other.
 - FAF might ask you to specify the Forged Alliance folder so just simply direct it to your *Supreme Commander: Forged Alliance* folder on your hard drive. If you bought Supreme Commander: Forged Alliance on Steam, the game is located in your Steam Library folder. To find that folder, start Steam, go to Steam - Settings, click Downloads and click the STEAM LIBRARY FOLDERS button. The Steam Library folder has a folder steamapps\\common, there you should find your Supreme Commander Forged Alliance folder.
