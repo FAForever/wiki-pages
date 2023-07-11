@@ -2,7 +2,7 @@
 title: Integrated Mods
 description: An outline of mods that were integrated into FAF, and how to use them.
 published: true
-date: 2023-07-04T10:03:19.601Z
+date: 2023-07-11T21:08:07.349Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:34.672Z
@@ -121,7 +121,7 @@ Spread attack move works with more orders as well as other types of orders - exp
 Displays bound keys on icons in the build menu and command menu
 
 - helps a lot with memorizing (custom) keybindings
-- has different colors for key combinations
+- has different colours for key combinations
 
 ## <img src="/notify.png" width="40"/> Notify
 
