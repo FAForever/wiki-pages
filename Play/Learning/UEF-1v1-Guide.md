@@ -2,13 +2,13 @@
 title: UEF 1v1 Guide
 description: 
 published: true
-date: 2023-07-11T21:21:16.141Z
+date: 2023-07-11T21:22:02.610Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:45:37.233Z
 ---
 
-![](/images/learning/uef/uef.png "fig:Uef.png"){.align-right}This page is a guide to help you play the UEF faction in a 1v1 scenario. If you haven't already, read the [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance) and the [General 1v1 Guide](/Learning/General-1v1-Guide) first.
+![](/images/learning/uef/uef.png "fig:Uef.png"){.align-right}This page is a guide to help you play the UEF faction in a 1v1 scenario. If you haven't already, read the [Beginner's Guide to Forged Alliance](/Play/Learning/Beginners-Guide-to-Forged-Alliance) and the [General 1v1 Guide](/Learning/General-1v1-Guide) first.
 
 UEF is considered the ‘basic human’ faction of the game and has generally higher health –lower speed units in comparison to other factions, they focus on a more defensive play style, and you will find that the faction needs to reach a higher level tech to gain access to their unique units.
 - <img src="/images/learning/uef/uef_t3_pd.png" width="50" align="center"/> The Ravager point defence. (The minigun turret)
