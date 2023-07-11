@@ -2,7 +2,7 @@
 title: Windows Installation
 description: 
 published: true
-date: 2023-07-11T21:04:41.910Z
+date: 2023-07-11T21:05:55.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:06.593Z
@@ -34,7 +34,7 @@ If you own a retail version of Supreme Commander, you can use its code to redeem
 - FAF might ask you to specify the Forged Alliance folder so just simply direct it to your *Supreme Commander: Forged Alliance* folder on your hard drive. If you bought Supreme Commander: Forged Alliance on Steam, the game is located in your Steam Library folder. To find that folder, start Steam, go to Steam - Settings, click Downloads and click the STEAM LIBRARY FOLDERS button. The Steam Library folder has a folder steamapps\\common, there you should find your Supreme Commander Forged Alliance folder.
 - Your setup is now completed, but you may wish to add more to your experience by downloading [Map & Mod Vault](/Play/Client/Map-&-Mod-Vault), but normally, for any game you join, the mods and maps will be downloaded automatically, so you don't need to do anything else.
 
-- Some popular mods, like [GAZ_UI](/Mods/GAZ_UI) and Hotbuild, are already [integrated](/Game-Modifications-(Mods)#Integrated-Mods) and require no installation - simply enable their features in-game.
+- Some popular mods, like GAZ_UI and Hotbuild, are already [integrated](/Play/Game-Modifications-(Mods)) and require no installation - simply enable their features in-game.
 
 - All other mods can be found in the [mod vault](/Map-&-Mod-Vault#mod-vault) and can be used according to preference.
 
