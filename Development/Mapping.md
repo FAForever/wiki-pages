@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-17T23:50:12.476Z
+date: 2023-07-17T23:50:48.169Z
 tags: mapping, map, maps
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -27,7 +27,7 @@ Some terms in the map-making context may lack precise or consistent definitions,
 
 | Term | Definition | Term | Definition |
 |-|-|-|-|
-|Editor *or* Ozonex editor *or* FAF editor|This is the program that you use to assemble all elements of a map and export it in such a way that you may use it in FAF. This editor is the most recent of the two and significantly more modern. You may download the editor [here.](/en/Development/Mapping/FA-Forever-Map-Editor)|Old editor *or* GPG editor |The older editor, released in 2007, which you may download [here.](/en/Development/Mapping/GPG-Map-Editor). *Note:* Unless otherwise specified, 'editor' refers to the *Ozonex Editor*. 
+|Editor *or* Ozonex editor *or* FAF editor|This is the program that you use to assemble all elements of a map and export it in such a way that you may use it in FAF. This editor is the most recent of the two and significantly more modern.|Old editor *or* GPG editor |The legacy editor, released in 2007. *Note:* Unless otherwise specified, 'editor' refers to the *Ozonex Editor*. 
 |Map|The completed assembly of terrain, textures, stratum masks, decals, and other elements that together form the world that you may play games in.|Terrain|The bare geometry of the map that forms the moutains, cliffs, ground, bumps, and crevaces. The shape of the terrain is defined by the heightmap.|
 |Heightmap|A greyscale image of a certain size, for which the brightness of each pixel corresponds to the height of a specific point of the terrain.|Assets|A general term for textures, normal maps, or masks, or other files and materials used to create a map.|
 |Stratum layer *or* Stratum|The layer that contains a texture and its settings, its corresponding normal map, and a stratum mask. Each map may at most use 9 stratums, the lower of which does not accept a stratum mask.|Texture layer *or* Texture|The tiled images that you apply to the terrain using masks, which bring colour and patterns to the terrain. You may apply one texture per stratum, giving you at most 9 textures per map.|
