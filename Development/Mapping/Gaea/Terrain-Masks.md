@@ -2,7 +2,7 @@
 title: Producing Terrain Masks in Gaea
 description: A tutorial on the process of creating terrain masks using Gaea
 published: true
-date: 2023-07-17T19:30:52.213Z
+date: 2023-07-17T19:44:24.114Z
 tags: mapping, gaea, masks, mask
 editor: markdown
 dateCreated: 2023-06-24T18:00:53.840Z
@@ -151,6 +151,6 @@ If you are left with questions or need help, your best bet is to check with peop
 
 [1]: The GPG editor is known mess with these values. Any map that has touched the GPG editor at any point is suspect and the resolution of the masks should be verified by exporting the mask file and opening the image in an image editor. 
 
-[2]: There is a semi-functional workaround to prevent the normal maps from showing where they shouldn't. Finding this workaround has been left as an exercise for the reader.
+[2]: There is a semi-functional workaround to prevent the normal maps from showing where they shouldn't. Finding this workaround has been left as an exercise to the reader.
 
 [3]: If you are planning on using some of these masks in photoshop for manual adjustments or the like, it is best to export using *raw* range setting. This setting should also be used if you are attempting workarounds for the issue mentioned at [2]. The quickest and easiest method is to export as *Remapped*, though.
