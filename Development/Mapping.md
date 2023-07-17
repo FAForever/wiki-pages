@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-17T23:50:48.169Z
+date: 2023-07-17T23:56:49.667Z
 tags: mapping, map, maps
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -67,8 +67,7 @@ Magick
 Both text and video tutorials link from here
 ## How to use the editors
 Link to related pages. Check if pages contain basics, including: Installation, use, hotkeys, changing map version, other map settings, difference between v60.
-## Heightmaps and terrain
-### Water settings
+## Heightmaps, terrain, and water
 ## Stratums, textures, and masks
 ### Custom textures
 ### Mask generation
@@ -83,12 +82,14 @@ Link to related pages. Check if pages contain basics, including: Installation, u
 Uploading and rules etc
 
 # Advanced tutorials
+## WorldMachine
+## Gaea
 ## Adaptive mapping
 ### Updated
 ### Obsolete version
 ## AI
-## WorldMachine
-## Gaea
+## Clouds
+## Skyboxes
 
 # Mapping Tournaments
 ## Princess Burke
@@ -96,5 +97,9 @@ Uploading and rules etc
 
 # Other resources
 ## Discord
-## Examples of workflow
+## Assets
+### Map-wide decal templates
+### Skyboxes, texture layers, lighting, and water presents from official maps
+### Additional brushes
+## Veteran Mapper Workflows
 ## Troubleshooting
