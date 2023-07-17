@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-17T23:37:41.187Z
+date: 2023-07-17T23:47:56.414Z
 tags: mapping, map, maps
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -39,6 +39,12 @@ Decals|Decals are image files that are often either an albedo or a normal map. T
 >The above table does not include the specific names for less common terms, such as the names of elements of Gaea or WorldMachine, as those are defined in their respective tutorials.
 {.is-info}
 
+## The basics of mapping
+Intro on what is needed to create a map. Quick overview of all elements, mention necessary skills if required. Explain where creativity becomes important and where there is room for new stuff.
+
+
+>Anything below this point needs to be short on text and mostly link to other pages of the wiki.
+{.is-warning}
 # Tools and software
 ## Editors
 ### Ozonex Editor
@@ -57,24 +63,37 @@ Photoshop, gimp, photopea
 ### Encoding tools
 Magick
 
-# Tutorials
+# Basic Tutorials
+Both text and video tutorials link from here
 ## How to use the editors
+Link to related pages. Check if pages contain basics, including: Installation, use, hotkeys, changing map version, other map settings, difference between v60.
 ## Heightmaps and terrain
+### Water settings
+## Stratums, textures, and masks
+### Custom textures
+### Mask generation
+## Lighting
+## Markers
+## Props
+### Custom props
+## Decals
+### Custom decals
+## Units
+## The map vault
+### Uploading and rules
 
-
+# Advanced tutorials
 ## WorldMachine tutorials
 ## Gaea tutorials
-## Video tutorials
-
-# Adaptive mapping
+## Adaptive mapping
 ### Updated
 ### Obsolete version
-
-# AI
+## AI
 
 # Mapping Tournaments
 ## Princess Burke
 
 # Other resources
 ## Discord
+## Examples of workflow
 ## Troubleshooting
