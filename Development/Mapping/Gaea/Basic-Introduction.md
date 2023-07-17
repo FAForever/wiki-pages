@@ -1,8 +1,8 @@
 ---
 title: Basic Introduction to Mapping with Gaea
-description: In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation.
+description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-06-24T18:37:09.618Z
+date: 2023-07-17T19:31:02.604Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
