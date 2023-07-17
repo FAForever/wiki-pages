@@ -1,8 +1,8 @@
 ---
-title: Using Gaea for FAF Mapping
+title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-17T22:31:52.551Z
+date: 2023-07-17T22:41:59.959Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
