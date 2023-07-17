@@ -2,7 +2,7 @@
 title: Using Gaea for FAF Mapping
 description: 
 published: true
-date: 2023-07-17T22:09:04.864Z
+date: 2023-07-17T22:28:15.529Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -35,7 +35,10 @@ Decals|Decals are image files that are often either an albedo or a normal map. T
 |Map-wide normal map|A normal map that covers the whole map and is precisely aligned with the terrain. Using this asset, you can fake small details which the resolution of your heightmap normally would not allow, such as weathering patterns.|Map-wide shadow decal|A transparent decal that covers the whole map and precisely aligns with the terrain to add shadows to the map.|
 |Map-wide albedo decal|A map-wide decal precisely aligned to the terrain to add extra colour to the map, supporting the texture layers and adding extra detail.|Rendering *or* Exporting|Saving an image, such as assets created in Gaea, at a certain resolution and in a specific file format.|
 
->The above table does not include the specific names for less commonly terms, such as the names of elements of Gaea, as those are defined in their respective tutorials.
+>The table below does not include general mapping terms that are not relevant to these specific tutorials. For an exhaustive overview of general mapping terms, see the general [Mapping](/en/Development/Mapping) page.
+{.is-info}
+
+>The above table does not include the specific names for less common terms, such as the names of elements of Gaea, as those are defined in their respective tutorials.
 {.is-info}
 
 ## 1) Basic Introduction to Mapping with Gaea:
