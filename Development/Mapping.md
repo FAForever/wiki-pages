@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-17T23:30:37.712Z
+date: 2023-07-17T23:36:41.545Z
 tags: mapping, map, maps
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -57,6 +57,10 @@ Photoshop, gimp, photopea
 ### Encoding tools
 Magick
 
+# Tutorials
+
+## Video tutorials
+
 # Adaptive mapping
 ### Updated
 ### Obsolete version
@@ -67,6 +71,5 @@ Magick
 ## Princess Burke
 
 # Other resources
-## Video tutorials
 ## Discord
 ## Troubleshooting
