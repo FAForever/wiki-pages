@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-07-17T19:31:02.604Z
+date: 2023-07-17T21:21:53.556Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -44,7 +44,7 @@ Clicking on a node will also reveal the properties panel for that node. Here, yo
 
 Above all the other panels is the main toolbar, which contains a few important things to discuss. First, the viewport resolution can be selected in this panel. It is generally recommended to select the resolution that you will be exporting your heightmap in. Gaea recalculates the terrain and parameters of the nodes every time you switch resolution, and the resolution can drastically affect how the terrain is shaped. Aside from the obvious increase in fine details, you might find that elements have changed shapes or moved when comparing different resolutions.
 
->As the terrain changes based on the resolution it is rendered in, creating high-resolution map-wide decals might result in some mismatch between the heightmap and the decals. A method to prevent this will be discussed in the tutorial on map-wide assets.
+>As the terrain changes based on the resolution it is rendered in, creating high-resolution map-wide decals might result in some mismatch between the (lower-resolution) heightmap and the (higher resolution) decals. A method to prevent this will be discussed in the tutorial on map-wide assets.
 {.is-warning}
 
 ![resolutiondifferences.png](/images/mapping/gaea/basics/resolutiondifferences.png)
