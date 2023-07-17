@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-17T23:47:56.414Z
+date: 2023-07-17T23:49:19.040Z
 tags: mapping, map, maps
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -80,18 +80,19 @@ Link to related pages. Check if pages contain basics, including: Installation, u
 ### Custom decals
 ## Units
 ## The map vault
-### Uploading and rules
+Uploading and rules etc
 
 # Advanced tutorials
-## WorldMachine tutorials
-## Gaea tutorials
 ## Adaptive mapping
 ### Updated
 ### Obsolete version
 ## AI
+## WorldMachine
+## Gaea
 
 # Mapping Tournaments
 ## Princess Burke
+## Legacy forum tournaments
 
 # Other resources
 ## Discord
