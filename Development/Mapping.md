@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-17T23:49:19.040Z
+date: 2023-07-17T23:50:12.476Z
 tags: mapping, map, maps
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -20,7 +20,7 @@ Within these pages, we delve into the intricacies of FAF map-making, from the fu
 We believe the collaborative environment fosters growth, inspires innovation, and drives the continual improvement of map-making within the FAF community. As such, this tutorial draws upon the accumulated expertise of experienced map-makers who have generously shared their wisdom. We endeavor to create an accessible and enjoyable learning experience, suitable for newcomers and seasoned mappers alike. 
 
 If any of these tutorials leave you with questions or remarks, do not hesitate to join us on the FAF forums or on the FAF discord, where we discuss and exchange feedback, tips, and techniques. 
-{.align-right}
+
 
 ## Terminology
 Some terms in the map-making context may lack precise or consistent definitions, leading to potential misunderstandings and ambiguity. In order to provide a clear and concise reference for essential concepts in FAF mapping, this section present a list of key terms and their definitions. 
