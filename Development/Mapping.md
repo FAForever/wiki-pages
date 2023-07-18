@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T08:41:19.077Z
+date: 2023-07-18T08:42:57.476Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -121,7 +121,7 @@ As some map-making competitions place a strong emphasis on thorough documentatio
 
 # Other resources
 ## Discord
-## Assets
+## Community-made Assets
 ### Map-wide decal templates
 ### Skyboxes, texture layers, lighting, and water presents from official maps
 ### Additional brushes
