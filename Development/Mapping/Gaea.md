@@ -2,15 +2,14 @@
 title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-18T07:24:22.042Z
+date: 2023-07-18T07:41:29.254Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
 ---
 
 # Making high quality maps with Gaea - A tutorial series
-
-Welcome to the Gaea Map-Making Tutorials for Forged Alliance Forever (FAF).
+<img align="right" src="/images/mapping/gaea/gaea_general.png" width="60%">Welcome to the Gaea Map-Making Tutorials for Forged Alliance Forever (FAF).
 
 I am IndexLibrorum (AKA Prohibitorum) and I've been trialblazing the use of Gaea in FAF mapping. An overview of my work can be found [here](https://forum.faforever.com/topic/6066/index-librorum-s-maps-assorted-projects-and-gaea-tutorials). Being the inexhaustible fount of charity and enlightenment that I am, I have decided to write out this series of tutorials, in which I will explain to you how to make maps in FAF without having to do such tedious things as handpaint terrain and masks. With this series, I aim to save you from the pain that is trying to figure out why your masks somehow have stopped behaving as they should for the 11th time in an hour, and catapult you straight to map-making mastery.
 
