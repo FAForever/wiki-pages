@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T08:40:34.093Z
+date: 2023-07-18T08:40:48.823Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -34,12 +34,12 @@ Intro on what is needed to create a map. Quick overview of all elements, mention
 # Tools and software
 ## Editors
 ### Ozonex Editor
-[<img align="right" src="/faf_mapeditor_logo.png" width="25%">](/en/Development/Mapping/FA-Forever-Map-Editor)
+[<img align="right" src="/faf_mapeditor_logo.png" width="20%">](/en/Development/Mapping/FA-Forever-Map-Editor)
 
 The [FA-Forever-Map-Editor](/en/Development/Mapping/FA-Forever-Map-Editor) is a new map editor developed for FAF by ozonex. Although perpetually stuck in an unfinished alpha stage, which means the editor is in its testing phase and lacks some of the features of the GPG editor, it is considered in many ways a significant improvement over the GPG editor. Generally, this editor is the recommended editor to use.
 
 ### GPG editor
-[<img align="right" src="/images/gpgmapeditor/editor_splash.png" width="25%">](/en/Development/Mapping/GPG-Map-Editor)
+[<img align="right" src="/images/gpgmapeditor/editor_splash.png" width="20%">](/en/Development/Mapping/GPG-Map-Editor)
 
 The [GPG-Map-Editor](/en/Development/Mapping/GPG-Map-Editor) is the editor released by GPG studios and was their internal tool for map development. Note that you require a copy of Supreme Commander (which is *not* Supreme Commander *forged alliance*) to run this editor, as it is dependent on some of the core game files.
 
