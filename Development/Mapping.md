@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T08:19:11.169Z
+date: 2023-07-18T08:39:12.345Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -73,7 +73,7 @@ Link to related pages. Check if pages contain basics, including: Installation, u
 ### Custom decals
 ## Units
 ## The map vault
-Uploading and rules etc
+Finished maps need to be uploaded to the map vault. By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules).
 
 # Advanced tutorials {#AT}
 ## Map files and scripts
@@ -81,23 +81,34 @@ Uploading and rules etc
 The scenario file contains ... and provides information to the game on ...
 Manual editing of this file is generally not recommended, but may be necessary in some circumstances. [Information on changes to the scenario file is provided here.](/en/Development/Mapping/Further-changes-to-the-scenario-file)
 
+### Scripts
+
 ## WorldMachine
+
 ## Gaea
 [<img align="right" src="/images/mapping/gaea/gaea_general.png" width="40%">](/en/Development/Mapping/Gaea)
 
 Gaea is a terrain generation tool not unlike WorldMachine, though significantly more modern. The free version of Gaea allows you to create heightmaps up to a 1K resolution, which corresponds to a maximum map size of 20x20KM. 
 
 [A tutorial series on using Gaea for FAF mapping](/en/Development/Mapping/Gaea) was written by IndexLibrorum (AKA Prohibitorum) and introduces the basics of Gaea, how to create terrain, how to create stratum masks, how to texture with Gaea, and how to create map-wide assets.
+
 ## AI
 Artificial Intelligence (AI) provide players with computer-controlled opponents of different skill levels. This feature has garnered significant popularity within the FAF community, with over half of the player base actively participating in AI games. By providing players with the opportunity to challenge intelligent computer opponents, AI enhances the richness and diversity of gameplay options, catering to a wide range of preferences and skill levels. Consequently, maps should aim to be AI compatible, and be designed with AI in mind.
 
 For a comprehensive understanding of how AI functions in FAF, you may refer to the main page on AI. Relevant information in the context of mapping is provided by this tutorial on [best practises to create AI friendly maps](/en/Development/Mapping/ai-friendly-maps). It is recommended to follow these guidelines to ensure your maps are compatible with for AI.
 
+## Clouds
+
+## Skyboxes
+
 ## Adaptive mapping
 Prior to the introduction of adaptive maps, it was a common practice to upload multiple versions of the same map, each modified with slight resource variations (e.g., Canis 4v4, Canis 5v5). However, with the advent of the adaptive map script developed by CookieNoob and KeyBlue (with further modifications by svenni_badbwoi), this is no longer required. Adaptive maps enable the consolidation of several similar map versions into a single map, offering advanced map settings directly accessible from the game lobby. Such settings may allow players to adjust map resources dynamically based on the number of players, as well as add or remove resources, units, and wrecks. Two tutorials, [one legacy tutorial](/en/Development/Mapping/Adaptive-Maps) and [one updated tutorial](/en/Development/Mapping/Adaptive-Mapping-2021) are available.
 
-## Clouds
-## Skyboxes
+## Campaigns
+Experienced mappers may want to create a campaign. This requires an understanding of [mission scription.](/en/Development/Missions/Mission-Scripting). Some maps are already available for [adaption to campaign-related content](/en/Development/Mapping/campaign-ready-maps).
+
+## Creating maps for the matchmaker pool
+The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
 
 # Mapping Tournaments
 Periodically, the FAF community comes together to organize mapping tournaments with the aim of fostering creativity and inspiring mappers to produce exceptional works. These tournaments serve as exciting platforms that challenge map-makers to push the boundaries of their skills and showcase their ingenuity in crafting remarkable and immersive maps. Depending on the tournament, participants may presented with unique challenges and themes, encouraging them to explore innovative concepts and provide an avenue for recognition and celebration of outstanding map-making achievements, as well as encourages collaboration, knowledge sharing, and the evolution of map-making techniques. 
@@ -115,5 +126,7 @@ As some map-making competitions place a strong emphasis on thorough documentatio
 ### Skyboxes, texture layers, lighting, and water presents from official maps
 ### Additional brushes
 ## Veteran Mapper Workflows
+## Mapping guidelines for creating FAF versions of existing maps
+
 ## Troubleshooting
 The map editor is a powerful tool for creating custom maps in Supreme Commander: Forged Alliance, but like with any software, you might encounter various technical issues that can prevent you from creating maps that meet your vision. These issues can range from minor annoyances to serious problems that make it impossible to complete your map. [In the troubleshooting section](/en/Development/Mapping/faf-map-editor-troubleshooting), we'll cover some common technical issues you might encounter while working with the map editor and related files.
