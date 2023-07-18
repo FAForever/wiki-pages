@@ -2,7 +2,7 @@
 title: Terminology
 description: An exhaustive list of terms and definitions
 published: true
-date: 2023-07-18T06:50:26.212Z
+date: 2023-07-18T13:02:01.513Z
 tags: terms, terminology, definitions, the words mason, what do they mean
 editor: markdown
 dateCreated: 2023-07-18T06:35:43.693Z
@@ -26,6 +26,7 @@ In tutorials and converstations with other mappers we use specific words to refe
 |Terrain|The bare geometry of the map that forms the moutains, cliffs, ground, bumps, and crevaces. The shape of the terrain is defined by the heightmap.|Heightmap|A greyscale image of a certain size, for which the brightness of each pixel corresponds to the height of a specific point of the terrain.|
 |Assets|A general term for textures, normal maps, or masks, or other files and materials used to create a map.|Stratum layer *or* Stratum|The layer that contains a texture and its settings, its corresponding normal map, and a stratum mask. Each map may at most use 9 stratums, the lower of which does not accept a stratum mask.|
 |Texture layer *or* Texture|The tiled images that you apply to the terrain using masks, which bring colour and patterns to the terrain. You may apply one texture per stratum, giving you at most 9 textures per map.|Stratum mask *or* Texture mask *or* Mask|A greyscale image, for which the brightness of each pixel corresponds with the opacity of the corresponding texture. *Note*: 'mask' is a general term that is also used as an element in Gaea.|
+|Grid overlay *or* grid|A grid overlay that you can toggle in the editor by pressing <kbd>G</kbd>. Usefull for aligning map markers.|Slope overlay *or* Slope debug|A colour overlay that can be used to check the flatness or lack thereof of the terrain. Can be toggled by pressing <kbd>Ctrl+G</kbd>|
 ## Water
 
 ## Decals
