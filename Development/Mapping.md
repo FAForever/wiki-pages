@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T08:42:57.476Z
+date: 2023-07-18T08:43:52.039Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -48,7 +48,7 @@ In map-making, terrain heightmaps are typically crafted using manual brush tools
 
 Two prominent tools in this domain are WorldMachine and Gaea. Both WorldMachine and Gaea are specialized software that empowers map-makers to generate realistic and detailed terrains procedurally, employing algorithms to simulate natural geological processes like erosion, weathering, and tectonic movements. These tools allow you to quickly generate and manipulate vast landscapes with a wide range of features like mountains, valleys, and rivers.
 
-For both these tools several tutorials have been made available, the links of which you may find below, under the [*Advanced tutorials*](#AT) section.
+For both these tools several tutorials have been made available, the links of which you may find below, under the [Advanced tutorials](#AT) section.
 
 ## Other tools
 ### Image-editing tools
@@ -122,6 +122,8 @@ As some map-making competitions place a strong emphasis on thorough documentatio
 # Other resources
 ## Discord
 ## Community-made Assets
+Jip's map-wide decal templates
+Klutz's brushes
 ### Map-wide decal templates
 ### Skyboxes, texture layers, lighting, and water presents from official maps
 ### Additional brushes
