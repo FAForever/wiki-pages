@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T08:03:58.622Z
+date: 2023-07-18T08:19:11.169Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -76,6 +76,11 @@ Link to related pages. Check if pages contain basics, including: Installation, u
 Uploading and rules etc
 
 # Advanced tutorials {#AT}
+## Map files and scripts
+### The Scenario file
+The scenario file contains ... and provides information to the game on ...
+Manual editing of this file is generally not recommended, but may be necessary in some circumstances. [Information on changes to the scenario file is provided here.](/en/Development/Mapping/Further-changes-to-the-scenario-file)
+
 ## WorldMachine
 ## Gaea
 [<img align="right" src="/images/mapping/gaea/gaea_general.png" width="40%">](/en/Development/Mapping/Gaea)
@@ -95,7 +100,12 @@ Prior to the introduction of adaptive maps, it was a common practice to upload m
 ## Skyboxes
 
 # Mapping Tournaments
+Periodically, the FAF community comes together to organize mapping tournaments with the aim of fostering creativity and inspiring mappers to produce exceptional works. These tournaments serve as exciting platforms that challenge map-makers to push the boundaries of their skills and showcase their ingenuity in crafting remarkable and immersive maps. Depending on the tournament, participants may presented with unique challenges and themes, encouraging them to explore innovative concepts and provide an avenue for recognition and celebration of outstanding map-making achievements, as well as encourages collaboration, knowledge sharing, and the evolution of map-making techniques. 
+
+As some map-making competitions place a strong emphasis on thorough documentation of the map creation process and encourage peer review, studying the works of fellow mappers becomes an invaluable means of honing one's own map-making skills. You may find an overview of recent tournaments below.
+
 ## 'Princess Burke' mapping tournament
+
 ## Legacy forum tournaments
 
 # Other resources
