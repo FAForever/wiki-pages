@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T15:38:13.219Z
+date: 2023-07-18T17:44:30.206Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -55,12 +55,10 @@ For both these tools several tutorials have been made available, the links of wh
 
 ## Other tools
 ### Image-editing tools
-To create custom assets or customize existing ones, you will require some kind of image-editing tool. Photoshop will be able to do nearly anything you need, and comes highly recommended. If you do not have access to photoshop you may take a look at free alternatives, such as GIMP (a Linux based image manipulation program) or Photopea (an online photoshop-clone)
-
-Photoshop, gimp, photopea
+To create custom assets or customize existing ones, you will require some kind of image-editing tool. Photoshop will be able to do nearly anything you need, and comes highly recommended. If you do not have access to photoshop you may take a look at free alternatives, such as GIMP (a Linux based image manipulation program) or Photopea (an online photoshop-clone).
 
 ### Encoding tools
-Magick
+Assets like custom textures and decals need to be exported or encoded as a particular type of .DDS file. Plugins exist to allow photoshop and GIMP to open and export .DSS, but it is recommended to use the ImageMagick converter tool as this tool has proven to be more effective at compressing files when encoding as .DDS.  
 
 # Basic Tutorials
 Both text and video tutorials link from here
