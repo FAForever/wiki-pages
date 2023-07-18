@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T07:07:10.344Z
+date: 2023-07-18T07:19:07.493Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -44,8 +44,11 @@ The [FA-Forever-Map-Editor](/en/Development/Mapping/FA-Forever-Map-Editor) is a 
 The [GPG-Map-Editor](/en/Development/Mapping/GPG-Map-Editor) is the editor released by GPG studios and was their internal tool for map development. Note that you require a copy of Supreme Commander (which is *not* Supreme Commander *forged alliance*) to run this editor, as it is dependent on some of the core game files.
 
 ## Terrain generation tools
-### WorldMachine
-### Gaea
+In map-making, terrain heightmaps are typically crafted using manual brush tools (provided by the editor) to sculpt terrain features by hand, offering map-makers precise control over the landscape. However, for those seeking alternative approaches or aiming for more expansive and intricate terrains, specialized terrain generation tools present valuable options to streamline and enhance this process beyond the limitations of traditional hand-sculpting methods.. 
+
+Two prominent tools in this domain are WorldMachine and Gaea. Both WorldMachine and Gaea are specialized software that empowers map-makers to generate realistic and detailed terrains procedurally, employing algorithms to simulate natural geological processes like erosion, weathering, and tectonic movements. These tools allow you to quickly generate and manipulate vast landscapes with a wide range of features like mountains, valleys, and rivers.
+
+For both these tools several tutorials have been made available, the links of which you may find below, under the *Advanced tutorials* section.
 
 ## Other tools
 ### Image-editing tools
