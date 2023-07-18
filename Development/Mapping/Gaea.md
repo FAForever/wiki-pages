@@ -2,7 +2,7 @@
 title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-18T07:20:52.774Z
+date: 2023-07-18T07:21:42.909Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -21,31 +21,31 @@ Because the length out these tutorials fairly quickly got out of hand, I've spli
 > This section uses [*Gaea*, a third-party software developed by Quadspinner](/en/https://quadspinner.com/). As of June 2023, they offer the indie version of their software for free on their website. The indie version is limited to a maximum render resolution of 1k. As a consequence, you will require an upgraded license if you are planning to make maps that are bigger than 20x20km.
 {.is-info}
 
-### Terminology
+## Terminology
 In my conversations with others in the FAF discord's mapping-general channel, I've come to realize that explaining certain concepts can be a bit challenging, primarily due to the lack of clear definitions for some elements. To ensure that we're all on the same page, please refer to the terminology section on the [Map Development - General](/en/Development/Mapping/) page.
 
 >Note that the terminology list does not include the specific names for less common terms, such as the names of elements of Gaea, as those are defined in their respective tutorials.
 {.is-info}
 
-## 1) Basic Introduction to Mapping with Gaea:
+# 1) Basic Introduction to Mapping with Gaea:
 In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation. We'll explore the user interface, essential tools and techniques for generating terrain, setting up the scale and dimensions, and discuss how to render your heightmap for use in the FAF map editor. Additionally, we'll discuss how you may generate realistic terrain features, including mountains, crater fields, canyons, and more, using the power of procedural generation.
 
 [Link to tutorial 1](/en/Development/Mapping/Gaea/Basic-Introduction)
 
-## 2) Producing Terrain Masks in Gaea:
+# 2) Producing Terrain Masks in Gaea:
 Terrain masks are crucial for defining texture distribution on your map. In this tutorial, we'll dive into the process of creating terrain masks using Gaea's powerful procedural algorithms and functions.
 
 [Link to tutorial 2](/en/Development/Mapping/Gaea/Terrain-Masks)
 
-## 3) Texturing in Gaea:
+# 3) Texturing in Gaea:
 This tutorial on texturing in Gaea will teach you how to set up a texturing prototype using the masks you learnt to generate in tutorial two. Using this prototype, you can quickly evaluate your masks and make changes where needed. Additionally we will discuss the use of Satmaps in preparation for creating the map-wide albedo generation we will discussin tutorial four. Lastly, we will discuss how to create custom textures to further improve the aestethics of your map.
 
 [Link to tutorial 3]
 
-## 4) Creating Map-Wide Assets:
+# 4) Creating Map-Wide Assets:
 With the terrain created and textured, we will take a look at the map-wide assets we can create to bring our maps to the next level. We will discuss how to create a map-wide albedo decal, map-wide normal-map decal, and map-wide shadow decal. Together, these decals will add the final touches to bring your map to life.
 
 [Link to tutorial 4]
 
-## Help and frequently asked questions
+# Help and frequently asked questions
 To help you on your way, all tutorials include a section on common mistakes and their fixes. If these sections do not help you when you are stuck, please feel free to ask for help in the [FAF discord's](https://discord.gg/SsxPZRbM) mapping-section. The mapping-channels in the FAF discord include two threads containing my research notes and comments on Gaea, which you might find useful. Alternatively, [contact Prohibitorum](https://discord.com/channels/@me/prohibitorum/) on discord directly.
