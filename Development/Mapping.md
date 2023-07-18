@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T07:27:35.089Z
+date: 2023-07-18T07:41:31.141Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -78,6 +78,11 @@ Uploading and rules etc
 # Advanced tutorials {#AT}
 ## WorldMachine
 ## Gaea
+[<img align="right" src="/images/mapping/gaea/gaea_general.png" width="40%">](/en/Development/Mapping/Gaea)
+
+Gaea is a terrain generation tool not unlike WorldMachine, though significantly more modern. The free version of Gaea allows you to create heightmaps up to a 1K resolution, which corresponds to a maximum map size of 20x20KM. 
+
+[A tutorial series on using Gaea for FAF mapping](/en/Development/Mapping/Gaea) was written by IndexLibrorum (AKA Prohibitorum) and introduces the basics of Gaea, how to create terrain, how to create stratum masks, how to texture with Gaea, and how to create map-wide assets.
 ## Adaptive mapping
 ### Updated
 ### Obsolete version
@@ -97,3 +102,4 @@ Uploading and rules etc
 ### Additional brushes
 ## Veteran Mapper Workflows
 ## Troubleshooting
+The map editor is a powerful tool for creating custom maps in Supreme Commander: Forged Alliance, but like with any software, you might encounter various technical issues that can prevent you from creating maps that meet your vision. These issues can range from minor annoyances to serious problems that make it impossible to complete your map. [In the troubleshooting section](/en/Development/Mapping/faf-map-editor-troubleshooting), we'll cover some common technical issues you might encounter while working with the map editor and related files.
