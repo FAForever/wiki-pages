@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-06-28T19:00:32.497Z
+date: 2023-07-18T17:53:18.792Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -107,7 +107,6 @@ The deputy leader is also the point of contact if the team leader is absent.
 ##### Members
   - Giebmasse
   - Javi
-  - Rowey
   - CaptainKlutz
 ##### Associates 
   - Phong
@@ -343,7 +342,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 - Madmax
 - Hdt80bro
-- Rowey
 - 4z0t
 - BlackYps
 
