@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T08:40:48.823Z
+date: 2023-07-18T08:41:11.926Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -86,7 +86,7 @@ Manual editing of this file is generally not recommended, but may be necessary i
 ## WorldMachine
 
 ## Gaea
-[<img align="right" src="/images/mapping/gaea/gaea_general.png" width="40%">](/en/Development/Mapping/Gaea)
+[<img align="right" src="/images/mapping/gaea/gaea_general.png" width="30%">](/en/Development/Mapping/Gaea)
 
 Gaea is a terrain generation tool not unlike WorldMachine, though significantly more modern. The free version of Gaea allows you to create heightmaps up to a 1K resolution, which corresponds to a maximum map size of 20x20KM. 
 
