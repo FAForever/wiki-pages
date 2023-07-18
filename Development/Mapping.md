@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T14:16:53.607Z
+date: 2023-07-18T14:37:25.535Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -21,17 +21,26 @@ We believe the collaborative environment fosters growth, inspires innovation, an
 
 If any of these tutorials leave you with questions or remarks, do not hesitate to join us on the FAF forums or on the FAF discord, where we discuss and exchange feedback, tips, and techniques. 
 
-
 ## Terminology
-In tutorials and converstations with other mappers we use specific words to refer to specific elements of map making. However, some terms in these contexts may lack precise or consistent definitions, leading to potential misunderstandings and ambiguity. For others, the meaning may be unclear at first glance, making it difficult for beginning mappers to understand what is meant. In order to provide a clear and concise reference for essential concepts in FAF mapping, the [Terminology](/en/Development/Mapping/Terms) section present a list of key terms and their definitions.
+In tutorials and converstations with other mappers we use specific words to refer to specific elements of map making. However, some terms in these contexts may lack precise or consistent definitions, leading to potential misunderstandings and ambiguity. For others, the meaning may be unclear at first glance, making it difficult for beginning mappers to understand what is meant. In order to provide a clear and concise reference for essential concepts in FAF mapping, the [Terminology](/en/Development/Mapping/Terms) page present a list of key terms and their definitions.
 
 # The basics of mapping
-Intro on what is needed to create a map. Quick overview of all elements, mention necessary skills if required. Explain where creativity becomes important and where there is room for new stuff.
+At the most basic level, maps consist of the following elements:
+|-|-|
+|Terrain|The geometry of your map. Consisting of a greyscale image, either created inside the editor or imported from an external source|
+|Textures|The tiled colour images that turn your blank terrain into sandy beaches, grassy fields, and stone cliffs|
+|Texture Masks|The greyscale images that dictate where which texture is made visible. Created in the editor or imported from an external source.|
+|Spawn and resource markers|Markers that dictate where players spawn, and how mexes and hydros are placed|  
+|Props|The 3D models that populate your map, such as reclaimable rocks and trees| 
 
+On top of that, more detail and character can be introduced by adding decals—smaller images that may be freely positioned, scaled, and rotated on the map—civilian AI units, and wrecks. 
 
->Anything below this point needs to be short on text and mostly link to other pages of the wiki. (Remove this note once the page is completed)
-{.is-warning}
+The exact use of all these elements gives you a lot of room for creativity, although the large amount of freedom might at first feel somewhat overwhelming. However, do try not to be put off by this: the whole process of creating maps looks at first to be more difficult that it really is. Nonetheless, it is adviced that for your first map, you limit yourself to a 5KM map, as the amount of time required to complete a map increases significantly as the size increases.
+
+>Anything below this point needs to be short on text and mostly link to other pages of the wiki. (Remove this note once the page is completed){.is-warning}
+
 # Tools and software
+Aside from the editor, you may want to use several other external tools, such as image editing software and terrain generation tools. Below follows a short description and links to tutorials for the most commonly used tools. 
 ## Editors
 ### Ozonex Editor
 [<img align="right" src="/faf_mapeditor_logo.png" width="20%">](/en/Development/Mapping/FA-Forever-Map-Editor)
