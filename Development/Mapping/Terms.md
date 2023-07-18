@@ -2,7 +2,7 @@
 title: Terminology
 description: An exhaustive list of terms and definitions
 published: true
-date: 2023-07-18T06:48:34.255Z
+date: 2023-07-18T06:49:17.394Z
 tags: terms, terminology, definitions, the words mason, what do they mean
 editor: markdown
 dateCreated: 2023-07-18T06:35:43.693Z
