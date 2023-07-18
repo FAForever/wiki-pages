@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T06:36:42.299Z
+date: 2023-07-18T06:51:28.958Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -27,7 +27,7 @@ In tutorials and converstations with other mappers we use specific words to refe
 
 [<kbd>Link to terminology page<kbd>](/en/Development/Mapping/Terms)
 
-## The basics of mapping
+# The basics of mapping
 Intro on what is needed to create a map. Quick overview of all elements, mention necessary skills if required. Explain where creativity becomes important and where there is room for new stuff.
 
 
