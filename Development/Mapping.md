@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T07:19:07.493Z
+date: 2023-07-18T07:22:13.445Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -29,7 +29,7 @@ In tutorials and converstations with other mappers we use specific words to refe
 Intro on what is needed to create a map. Quick overview of all elements, mention necessary skills if required. Explain where creativity becomes important and where there is room for new stuff.
 
 
->Anything below this point needs to be short on text and mostly link to other pages of the wiki.
+>Anything below this point needs to be short on text and mostly link to other pages of the wiki. (Remove this note once the page is completed)
 {.is-warning}
 # Tools and software
 ## Editors
