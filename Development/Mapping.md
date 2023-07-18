@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T14:37:25.535Z
+date: 2023-07-18T15:38:13.219Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -37,19 +37,13 @@ On top of that, more detail and character can be introduced by adding decals—s
 
 The exact use of all these elements gives you a lot of room for creativity, although the large amount of freedom might at first feel somewhat overwhelming. However, do try not to be put off by this: the whole process of creating maps looks at first to be more difficult that it really is. Nonetheless, it is adviced that for your first map, you limit yourself to a 5KM map, as the amount of time required to complete a map increases significantly as the size increases.
 
->Anything below this point needs to be short on text and mostly link to other pages of the wiki. (Remove this note once the page is completed){.is-warning}
-
 # Tools and software
-Aside from the editor, you may want to use several other external tools, such as image editing software and terrain generation tools. Below follows a short description and links to tutorials for the most commonly used tools. 
+Aside from the editor, you may want to use several other external tools, such as image editing software and terrain generation tools. Below follows short descriptions and links to tutorials for the most commonly used tools. 
 ## Editors
 ### Ozonex Editor
-[<img align="right" src="/faf_mapeditor_logo.png" width="20%">](/en/Development/Mapping/FA-Forever-Map-Editor)
-
 The [FA-Forever-Map-Editor](/en/Development/Mapping/FA-Forever-Map-Editor) is a new map editor developed for FAF by ozonex. Although perpetually stuck in an unfinished alpha stage, which means the editor is in its testing phase and lacks some of the features of the GPG editor, it is considered in many ways a significant improvement over the GPG editor. Generally, this editor is the recommended editor to use.
 
 ### GPG editor
-[<img align="right" src="/images/gpgmapeditor/editor_splash.png" width="20%">](/en/Development/Mapping/GPG-Map-Editor)
-
 The [GPG-Map-Editor](/en/Development/Mapping/GPG-Map-Editor) is the editor released by GPG studios and was their internal tool for map development. Note that you require a copy of Supreme Commander (which is *not* Supreme Commander *forged alliance*) to run this editor, as it is dependent on some of the core game files.
 
 ## Terrain generation tools
@@ -61,6 +55,8 @@ For both these tools several tutorials have been made available, the links of wh
 
 ## Other tools
 ### Image-editing tools
+To create custom assets or customize existing ones, you will require some kind of image-editing tool. Photoshop will be able to do nearly anything you need, and comes highly recommended. If you do not have access to photoshop you may take a look at free alternatives, such as GIMP (a Linux based image manipulation program) or Photopea (an online photoshop-clone)
+
 Photoshop, gimp, photopea
 
 ### Encoding tools
