@@ -2,7 +2,7 @@
 title: Terminology
 description: An exhaustive list of terms and definitions
 published: true
-date: 2023-07-18T13:02:01.513Z
+date: 2023-07-18T14:25:49.728Z
 tags: terms, terminology, definitions, the words mason, what do they mean
 editor: markdown
 dateCreated: 2023-07-18T06:35:43.693Z
@@ -10,7 +10,7 @@ dateCreated: 2023-07-18T06:35:43.693Z
 
 In tutorials and converstations with other mappers we use specific words to refer to specific elements of map making. However, some terms in these contexts may lack precise or consistent definitions, leading to potential misunderstandings and ambiguity. For others, the meaning may be unclear at first glance, making it difficult for beginning mappers to understand what is meant. In order to provide a clear and concise reference for essential concepts in FAF mapping, this section present a list of key terms and their definitions. 
 
->The lists below may now include some very specific definitions for less common terms, such as the names of elements of Gaea or WorldMachine, as those are defined in their respective tutorials.
+>The lists below may not include some very specific definitions for less common terms, such as the names of elements of Gaea or WorldMachine, as those are defined in their respective tutorials.
 {.is-info}
 
 # General terms
