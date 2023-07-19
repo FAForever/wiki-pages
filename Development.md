@@ -2,7 +2,7 @@
 title: Creation & Development
 description: 
 published: true
-date: 2023-06-24T18:12:23.336Z
+date: 2023-07-19T08:47:21.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T11:37:27.777Z
@@ -23,16 +23,17 @@ If you're new to FAF and need help, here are some good introductory resources:
 {.links-list}
 
 # Mapping
-
+- [Mapping-General *A general introduction to mapping and an overview of collected resources and tutorials*](/en/Development/Mapping)
+- [Terminology *Commonly used terms and their definitions*](/en/Development/Mapping/Terms)
+- [FA Forever Map Editor *Software for Creating Maps*](https://wiki.faforever.com/en/Development/Mapping/FA-Forever-Map-Editor)
 - [Adaptive Mapping Guide Updated 2021 *An up-to-date guide on how to make adaptive maps*](https://wiki.faforever.com/en/Development/Mapping/Adaptive-Mapping-2021)
 - [Adaptive Maps *An overview of adaptive maps, the features of the script, and the setup required.*](https://wiki.faforever.com/en/Development/Mapping/Adaptive-Maps)
 - [Creating AI friendly maps *Tips for ways to make maps more AI friendly*](https://wiki.faforever.com/en/Development/Mapping/ai-friendly-maps)
-- [FA Forever Map Editor *Software for Creating Maps*](https://wiki.faforever.com/en/Development/Mapping/FA-Forever-Map-Editor)
 - [Troubleshooing Guide *Troubleshooing FA Forver Map Editor*](https://wiki.faforever.com/en/Development/Mapping/faf-map-editor-troubleshooting)
 - [Further changes to the scenario file *.*](https://wiki.faforever.com/en/Development/Mapping/Further-changes-to-the-scenario-file)
 - [GPG Map Editor *Orginal Supcom Map Editor*](https://wiki.faforever.com/en/Development/Mapping/GPG-Map-Editor)
 - [Map Editing Tools *.*](https://wiki.faforever.com/en/Development/Mapping/Map-Editing-Tools)
-- [Maps available for adaptation to campaign-related content *.*](https://wiki.faforever.com/en/Development/Mapping/campaign-ready-maps)
+- [Maps available for adaptation to campaign-related content *Completed maps that may be used to design campaigns*](https://wiki.faforever.com/en/Development/Mapping/campaign-ready-maps)
 - [Gaea *Using Gaea for FAF Mapping*](https://wiki.faforever.com/en/Development/Mapping/Gaea)
 {.links-list}
 
