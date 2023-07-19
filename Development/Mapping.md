@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T13:24:06.987Z
+date: 2023-07-19T14:17:38.703Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -42,9 +42,11 @@ The exact use of all these elements gives you a lot of room for creativity, alth
 
 A comprehensive tutorial series on the basics of map making is available on youtube, and is highly recommended material for any mapper. 
 
-- [FAF Map Development*Official video tutorial series*](https://www.youtube.com/playlist?list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
+- [🔗FAF Map Development*Official video tutorial series*](https://www.youtube.com/playlist?list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
 {.links-list}
 
+>Links to external websites are marked by a '🔗' symbol.
+{.is-info}
 # Tools and software
 Aside from the editor, you may want to use several other external tools, such as image editing software and terrain generation tools. Below follows short descriptions and links to tutorials for the most commonly used tools. 
 ## Editors
@@ -70,14 +72,14 @@ For both these tools several tutorials have been made available, the links of wh
 ### Image-editing tools
 To create custom assets or customize existing ones, you will require some kind of image-editing tool. Photoshop will be able to do nearly anything you need, and comes highly recommended. If you do not have access to photoshop you may take a look at free alternatives, such as GIMP (a Linux based image manipulation program) or Photopea (an online photoshop-clone).
 
-- [GIMP *Free-to-use image editor software*](https://www.gimp.org/)
-- [Photopea *Free-to-use Online photoshop clone*](/en/https://www.photopea.com/)
+- [🔗GIMP *Free-to-use image editor software*](https://www.gimp.org/)
+- [🔗Photopea *Free-to-use Online photoshop clone*](/en/https://www.photopea.com/)
 {.links-list}
 
 ### Encoding tools
 Assets like custom textures and decals need to be exported or encoded as a particular type of .DDS file. Plugins exist to allow photoshop and GIMP to open and export .DSS, but it is recommended to use the ImageMagick converter tool as this tool has proven to be more effective at compressing files when encoding as .DDS.
 
-- [ImageMagick *Recommended tool to encode images to DDS*](https://imagemagick.org/index.php)
+- [🔗ImageMagick *Recommended tool to encode images to DDS*](https://imagemagick.org/index.php)
 {.links-list}
 
 # Basic Tutorials
@@ -94,55 +96,56 @@ Water settings can be adjusted to enhance the visual representation of water, su
 
 Lastly, you are able to define specify the terrain type of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
 
-- [Creating a map: Heightmaps*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
+- [🔗Creating a map: Heightmaps*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
 - [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including water and terrain-type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
-- [ Mountains | GPG editor*A video tutorial on making mountains in the GPG editor*](https://www.youtube.com/watch?v=nm5NVD17kvw)
-- [Mountains | Ozonex editor*A video tutorial on making mountains in the Ozonex editor*](https://www.youtube.com/watch?v=h26369gnTEo)
+- [🔗Mountains | GPG editor*A video tutorial on making mountains in the GPG editor*](https://www.youtube.com/watch?v=nm5NVD17kvw)
+- [🔗Mountains | Ozonex editor*A video tutorial on making mountains in the Ozonex editor*](https://www.youtube.com/watch?v=h26369gnTEo)
 {.links-list}
  
 ## Stratums, textures, and masks
 
-- [Texture blending*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
-- [Creating a map: Stratum layers pt. 1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=cVb_w0-REZc&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=4)
-- [Creating a map: Stratum layers pt. 2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=lWWdLS2a5VU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=5)
+- 🔗[Texture painting*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
+- [🔗Creating a map: Stratum layers pt. 1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=cVb_w0-REZc&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=4)
+- [🔗Creating a map: Stratum layers pt. 2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=lWWdLS2a5VU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=5)
 {.links-list}
 ### Custom textures
-- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
+- [🔗Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 {.links-list}
 ### Mask generation
 
-
-
 ## Markers and resources
-- [Creating a map: Resources*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=s4-DGucm9eQ&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=2)
+- [🔗Creating a map: Resources*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=s4-DGucm9eQ&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=2)
 {.links-list}
 
 ## Props
-- [Creating a map: Trees and rocks*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=6oDs1brYB_0&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=3)
+- [🔗Creating a map: Trees and rocks*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=6oDs1brYB_0&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=3)
 {.links-list}
+
+
+  
 ### Custom props
 
 ## Decals
-- [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
-- [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
+- [🔗Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
+- [🔗Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
 {.links-list}
 ### Custom decals
 
 ## Lighting
-- [Creating a map: Lighting*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=7TXHY1_smwU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=11)
+- [🔗Creating a map: Lighting*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=7TXHY1_smwU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=11)
 {.links-list}
 
 ## Units
-- [Creating a map: (Wrecked) Civilians*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=16zuZ60XHbk&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=12)
+- [🔗Creating a map: (Wrecked) Civilians*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=16zuZ60XHbk&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=12)
 {.links-list}
 
 ## The map vault
 Finished maps need to be uploaded to the map vault. By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules).
 
-- [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
+- [🔗Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
 {.links-list}
 ## Other basic tutorials
-- [What makes a bad map?*Video tutorial explaining guidelines for map design*](https://www.youtube.com/watch?v=PqHBJkqqf38)
+- [🔗What makes a bad map?*Video tutorial explaining guidelines for map design*](https://www.youtube.com/watch?v=PqHBJkqqf38)
 {.links-list}
 
 # Advanced tutorials {#AT}
