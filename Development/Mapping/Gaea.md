@@ -2,7 +2,7 @@
 title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-19T20:44:49.377Z
+date: 2023-07-19T20:45:46.303Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -29,13 +29,13 @@ In my conversations with others in the FAF discord's mapping-general channel, I'
 # Basic introduction to mapping with Gaea:
 In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation. We'll explore the user interface, essential tools and techniques for generating terrain, setting up the scale and dimensions, and discuss how to render your heightmap for use in the FAF map editor. Additionally, we'll discuss how you may generate realistic terrain features, including mountains, crater fields, canyons, and more, using the power of procedural generation.
 
-- [Tutorial 1: A basic introduction to mapping with Gaea](/en/Development/Mapping/Gaea/Basic-Introduction)
+- [Tutorial 1: A basic introduction to mapping with Gaea*Basics of the software*](/en/Development/Mapping/Gaea/Basic-Introduction)
 {.links-list}
 
 # Producing Terrain Masks in Gaea:
 Terrain masks are crucial for defining texture distribution on your map. In this tutorial, we'll dive into the process of creating terrain masks using Gaea's powerful procedural algorithms and functions.
 
-- [Tutorial 2: Producing terrain masks in Gaea](/en/Development/Mapping/Gaea/Terrain-Masks)
+- [Tutorial 2: Producing terrain masks in Gaea*Producing stratum masks for texturing*](/en/Development/Mapping/Gaea/Terrain-Masks)
 {.links-list}
 
 # Texturing in Gaea:
