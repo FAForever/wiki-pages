@@ -2,7 +2,7 @@
 title: Weapons in Blueprints
 description: 
 published: true
-date: 2023-06-05T11:53:35.460Z
+date: 2023-07-19T14:30:26.891Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T17:45:53.023Z
@@ -76,7 +76,7 @@ When a weapon needs to be turreted it means that we are going to use a turret to
 ```lua
 TurretBoneMuzzle = 'string' -- Muzzle bone name
 TurretBonePitch = 'string' -- Bone name that will determine the pitch rotation (rotation along the X axis)
-TurretBonePitch = 'string' -- Bone name that will determine the yaw rotation (rotation along the Y axis)
+TurretBoneYaw = 'string' -- Bone name that will determine the yaw rotation (rotation along the Y axis)
 ```
 An important note to keep in mind is that if a weapon has both the pitch and yaw as the same bone then we require for the muzzle to be collinear. If they are not the same bones then they only need to be coplanar.
 
