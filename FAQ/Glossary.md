@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2023-07-19T17:29:51.490Z
+date: 2023-07-19T17:32:22.984Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -125,14 +125,14 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |HF|Have fun|
 |HP|Hitpoint|
 |Inc|Incoming|
-|Mod|[chat moderator](/User-Groups#faf-moderators)|
+|Mod|[chat moderator](https://wiki.faforever.com/en/Infrastructure/FAF-Teams#the-teams)|
 |PM|Personal message|
 |Premade|A group of players that agreed to play together, and usually are in a voice call with eachother.|
 |Sim speed|The speed at which the game runs, which can slow down in cases of lag|
 |Stacked game|A strong/decent team of players playing together|
 |Stacked game|Any game containing most high-rated people in the lobby, an unbalanced game|
-|TD|[Tournament Director](/User-Groups#tournament-directors)|
+|TD|[Tournament Director](https://wiki.faforever.com/en/Infrastructure/FAF-Teams#the-teams)|
 |Truestack|Under-rated player playing together|
-|Tut|[Tutorial](/Learning-SupCom)|
+|Tut|[Tutorial](/en/Development/Tutorials/Tutorials)|
 |VC|Voice call. Might refer to discord.|
 |WP|Well played|
