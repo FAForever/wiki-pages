@@ -1,9 +1,9 @@
 ---
-title: Mapping - General
+title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T08:31:51.021Z
-tags: mapping, basics
+date: 2023-07-19T08:40:34.884Z
+tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
 ---
@@ -24,7 +24,10 @@ If any of these tutorials leave you with questions or remarks, do not hesitate t
 ## Terminology
 In tutorials and converstations with other mappers we use specific words to refer to specific elements of map making. However, some terms in these contexts may lack precise or consistent definitions, leading to potential misunderstandings and ambiguity. For others, the meaning may be unclear at first glance, making it difficult for beginning mappers to understand what is meant. In order to provide a clear and concise reference for essential concepts in FAF mapping, the [Terminology](/en/Development/Mapping/Terms) page present a list of key terms and their definitions.
 
-# The basics of mapping
+- [Terminology *Terms and their definitions*](/en/Development/Mapping/Terms)
+{.links-list}
+
+## The basics of mapping
 At the most basic level, maps consist of the following elements:
 |-|-|
 |Terrain|The geometry of your map. Consisting of a greyscale image, either created inside the editor or imported from an external source|
@@ -43,8 +46,13 @@ Aside from the editor, you may want to use several other external tools, such as
 ### Ozonex Editor
 The [FA-Forever-Map-Editor](/en/Development/Mapping/FA-Forever-Map-Editor) is a new map editor developed for FAF by ozonex. Although perpetually stuck in an unfinished alpha stage, which means the editor is in its testing phase and lacks some of the features of the GPG editor, it is considered in many ways a significant improvement over the GPG editor. Generally, this editor is the recommended editor to use.
 
+- [FA-Forever-Map-Editor *The modern editor provided by Ozonex et al.*](/en/Development/Mapping/FA-Forever-Map-Editor)
+{.links-list}
+
 ### GPG editor
 The [GPG-Map-Editor](/en/Development/Mapping/GPG-Map-Editor) is the editor released by GPG studios and was their internal tool for map development. Note that you require a copy of Supreme Commander (which is *not* Supreme Commander *forged alliance*) to run this editor, as it is dependent on some of the core game files.
+- [GPG-Map-Editor *The legacy editor provided by GPG studios*](/en/Development/Mapping/GPG-Map-Editor)
+{.links-list}
 
 ## Terrain generation tools
 In map-making, terrain heightmaps are typically crafted using manual brush tools (provided by the editor) to sculpt terrain features by hand, offering map-makers precise control over the landscape. However, for those seeking alternative approaches or aiming for more expansive and intricate terrains, specialized terrain generation tools present valuable options to streamline and enhance this process beyond the limitations of traditional hand-sculpting methods.. 
@@ -57,13 +65,17 @@ For both these tools several tutorials have been made available, the links of wh
 ### Image-editing tools
 To create custom assets or customize existing ones, you will require some kind of image-editing tool. Photoshop will be able to do nearly anything you need, and comes highly recommended. If you do not have access to photoshop you may take a look at free alternatives, such as GIMP (a Linux based image manipulation program) or Photopea (an online photoshop-clone).
 
+- [GIMP *Free-to-use image editor software*](https://www.gimp.org/)
+- [Photopea *Free-to-use Online photoshop clone*](/en/https://www.photopea.com/)
+{.links-list}
+
 ### Encoding tools
-Assets like custom textures and decals need to be exported or encoded as a particular type of .DDS file. Plugins exist to allow photoshop and GIMP to open and export .DSS, but it is recommended to use the ImageMagick converter tool as this tool has proven to be more effective at compressing files when encoding as .DDS.  
+Assets like custom textures and decals need to be exported or encoded as a particular type of .DDS file. Plugins exist to allow photoshop and GIMP to open and export .DSS, but it is recommended to use the ImageMagick converter tool as this tool has proven to be more effective at compressing files when encoding as .DDS.
+
+- [ImageMagick *Recommended tool to encode images to DDS*](https://imagemagick.org/index.php)
+{.links-list}
 
 # Basic Tutorials
-Both text and video tutorials link from here
-## How to use the editors
-Link to related pages. Check if pages contain basics, including: Installation, use, hotkeys, changing map version, other map settings, difference between v60.
 ## Heightmaps, terrain, and water
 ## Stratums, textures, and masks
 ### Custom textures
