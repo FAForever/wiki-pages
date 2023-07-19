@@ -2,8 +2,8 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-18T17:44:30.206Z
-tags: mapping, basic
+date: 2023-07-19T08:30:37.062Z
+tags: mapping, basics
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
 ---
