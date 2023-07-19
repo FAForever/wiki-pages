@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2023-07-19T17:28:51.357Z
+date: 2023-07-19T17:29:29.534Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -71,8 +71,6 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Terms|Definitions|
 |-|-|
 |Beetles|Fire-Beetles (Cybran T2 mobile bomb)|
-
-
 |Flak|Static or mobile T2 anti-air.|
 |Ilshies|Ilshavohs (Seraphim T2 Assault Bot). May also refer to Ythotha.|
 |Mini chicken|See: Ilshies|
