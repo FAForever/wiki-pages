@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T13:12:04.979Z
+date: 2023-07-19T13:24:06.987Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -94,33 +94,48 @@ Water settings can be adjusted to enhance the visual representation of water, su
 
 Lastly, you are able to define specify the terrain type of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
 
-- [General Heightmap tutorial*Part 1 of the official tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
+- [Creating a map: Heightmaps*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
 - [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including water and terrain-type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
 - [ Mountains | GPG editor*A video tutorial on making mountains in the GPG editor*](https://www.youtube.com/watch?v=nm5NVD17kvw)
 - [Mountains | Ozonex editor*A video tutorial on making mountains in the Ozonex editor*](https://www.youtube.com/watch?v=h26369gnTEo)
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
 {.links-list}
  
-
-
 ## Stratums, textures, and masks
 
 - [Texture blending*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
-- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
+- [Creating a map: Stratum layers pt. 1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=cVb_w0-REZc&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=4)
+- [Creating a map: Stratum layers pt. 2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=lWWdLS2a5VU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=5)
 {.links-list}
 ### Custom textures
+- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
+{.links-list}
 ### Mask generation
-## Lighting
-## Markers
+
+
+
+## Markers and resources
+- [Creating a map: Resources*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=s4-DGucm9eQ&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=2)
+{.links-list}
+
 ## Props
+- [Creating a map: Trees and rocks*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=6oDs1brYB_0&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=3)
+{.links-list}
 ### Custom props
+
 ## Decals
+- [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
+- [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
+{.links-list}
 ### Custom decals
+
+## Lighting
+- [Creating a map: Lighting*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=7TXHY1_smwU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=11)
+{.links-list}
+
 ## Units
+- [Creating a map: (Wrecked) Civilians*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=16zuZ60XHbk&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=12)
+{.links-list}
+
 ## The map vault
 Finished maps need to be uploaded to the map vault. By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules).
 
