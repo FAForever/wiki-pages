@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T20:32:26.238Z
+date: 2023-07-19T20:39:31.478Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -167,7 +167,7 @@ Manual editing of this file is generally not recommended, but may be necessary i
 
 ### Changing the map version manually
 Although the Ozonex editor allows you to quickly create a new version of your map, the GPG editor requires some additional steps.
-- [Making a new map version guide for 2018*A forum post tutorial by Biass**](https://forums.faforever.com/viewtopic.php?f=53&t=16397#p165578)
+- [Making a new map version guide for 2018*A forum post tutorial by Biass*](https://forums.faforever.com/viewtopic.php?f=53&t=16397#p165578)
 {.links-list}
 
 ### Scripts
@@ -241,10 +241,11 @@ Klutz's brushes
 ### Additional brushes
 - [About the Ozonex Editor: Adding custom brushes *A forum tutorial on custom brushes by Jip*](https://forum.faforever.com/topic/277/about-weather-generating-clouds)
 {.links-list}
-## Veteran Mapper Workflows and forum threads
+## Veteran mapper workflows and forum threads
 Many of the veteran mappers have compiled maps, research notes, and comments on workflow and map design in various forum threads, both on the old and new forum. As much can be learnt from studying how others approach map making, links to these forum threads are provided here.
-- []()
+- [IndexLibrorum's maps and tutorials*A collection of posts on maps, workflows, and Gaea tutorials*](https://forum.faforever.com/topic/6066/index-librorum-s-maps-assorted-projects-and-gaea-tutorials)
 - [Svenni_badbwoi's maps*A collection of posts on maps and workflows*](https://forums.faforever.com/viewtopic.php?f=53&t=14976#p153007)
+- [MadMax's maps page*A collection of posts on maps made by MadMax*](https://forum.faforever.com/topic/4192/madmax-s-maps-page)
 {.links-list}
 
 ## Mapping guidelines for creating FAF versions of existing maps
