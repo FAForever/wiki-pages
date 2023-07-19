@@ -2,7 +2,7 @@
 title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-18T07:41:29.254Z
+date: 2023-07-19T20:44:49.377Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -26,22 +26,24 @@ In my conversations with others in the FAF discord's mapping-general channel, I'
 >Note that the terminology list does not include the specific names for less common terms, such as the names of elements of Gaea, as those are defined in their respective tutorials.
 {.is-info}
 
-# 1) Basic Introduction to Mapping with Gaea:
+# Basic introduction to mapping with Gaea:
 In this tutorial, we'll discuss the fundamentals and guide you through the basics of using Gaea for map creation. We'll explore the user interface, essential tools and techniques for generating terrain, setting up the scale and dimensions, and discuss how to render your heightmap for use in the FAF map editor. Additionally, we'll discuss how you may generate realistic terrain features, including mountains, crater fields, canyons, and more, using the power of procedural generation.
 
-[<kbd>Link to tutorial 1</kbd>](/en/Development/Mapping/Gaea/Basic-Introduction)
+- [Tutorial 1: A basic introduction to mapping with Gaea](/en/Development/Mapping/Gaea/Basic-Introduction)
+{.links-list}
 
-# 2) Producing Terrain Masks in Gaea:
+# Producing Terrain Masks in Gaea:
 Terrain masks are crucial for defining texture distribution on your map. In this tutorial, we'll dive into the process of creating terrain masks using Gaea's powerful procedural algorithms and functions.
 
-[<kbd>Link to tutorial 2</kbd>](/en/Development/Mapping/Gaea/Terrain-Masks)
+- [Tutorial 2: Producing terrain masks in Gaea](/en/Development/Mapping/Gaea/Terrain-Masks)
+{.links-list}
 
-# 3) Texturing in Gaea:
+# Texturing in Gaea:
 This tutorial on texturing in Gaea will teach you how to set up a texturing prototype using the masks you learnt to generate in tutorial two. Using this prototype, you can quickly evaluate your masks and make changes where needed. Additionally we will discuss the use of Satmaps in preparation for creating the map-wide albedo generation we will discussin tutorial four. Lastly, we will discuss how to create custom textures to further improve the aestethics of your map.
 
 [Link to tutorial 3]
 
-# 4) Creating Map-Wide Assets:
+# Creating Map-Wide Assets:
 With the terrain created and textured, we will take a look at the map-wide assets we can create to bring our maps to the next level. We will discuss how to create a map-wide albedo decal, map-wide normal-map decal, and map-wide shadow decal. Together, these decals will add the final touches to bring your map to life.
 
 [Link to tutorial 4]
