@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2023-07-19T17:29:29.534Z
+date: 2023-07-19T17:29:51.490Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -105,8 +105,6 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Asswasher|Ahwassah|
 |Bug|Soul Ripper|
 |Chicken|Ythotha. May also refer to Ilshovah.|
-
-
 |Fatty|Fatboy|
 |GC|Galactic Colussus|
 |ML|Monkeylord|
