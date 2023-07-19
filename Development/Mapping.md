@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T19:45:49.414Z
+date: 2023-07-19T20:11:03.501Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -94,11 +94,18 @@ The placement of water in a map is directly influenced by the terrain's elevatio
 
 Lastly, you are able to define specify the [terrain type](/en/Development/Mapping/FA-Forever-Map-Editor#terrain-type) of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
 
+## Tabs {.tabset}
+### Terrain
 - [Creating a map: Heightmaps*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
 - [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including water and terrain-type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
 - [ Mountains | GPG editor*A video tutorial on making mountains in the GPG editor*](https://www.youtube.com/watch?v=nm5NVD17kvw)
 - [Mountains | Ozonex editor*A video tutorial on making mountains in the Ozonex editor*](https://www.youtube.com/watch?v=h26369gnTEo)
 {.links-list}
+
+### Water
+- [About water: Introduction*A forum post series on water by Jip*]()
+{.links-list}
+
  
 ## Stratums, textures, and masks
 
@@ -125,14 +132,7 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 ## Decals
 - [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
 - [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
-- [Forum post | About decals: Introduction*Pt. 1 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/24/about-decals-introduction-part-1)
-- [Forum post | About decals: Converting normal maps*Pt. 2 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/245/about-decals-converting-normal-maps)
-- [Forum post | About decals: WorldMachine templates*Pt. 3 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/1090/about-decals-world-machine-templates)
-- [Forum post | About decals: Generating map-wide normal texture*Pt. 4 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/785/about-decals-generating-a-map-wide-normal-texture)
-- [Forum post | About decals: Generating a map-wide lighting texture*Pt. 5 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/786/about-decals-generating-a-map-wide-lighting-texture)
-
 {.links-list}
-### Custom decals
 
 ## Lighting
 - [Creating a map: Lighting*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=7TXHY1_smwU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=11)
@@ -148,7 +148,8 @@ Finished maps need to be uploaded to the map vault. By uploading to the vault, y
 - [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
 {.links-list}
 ## Other basic tutorials
-- [What makes a bad map?*Video tutorial explaining guidelines for map design*](https://www.youtube.com/watch?v=PqHBJkqqf38)
+- [What makes a bad map?*Video tutorial explaining guidelines for map design by TheDuelist*](https://www.youtube.com/watch?v=PqHBJkqqf38)
+- [Forum post | Making bad maps better*A lengthy forumpost with images by Biass*](https://forums.faforever.com/viewtopic.php?f=53&t=18647)
 {.links-list}
 
 # Advanced tutorials {#AT}
@@ -158,10 +159,19 @@ The scenario file contains ... and provides information to the game on ...
 Manual editing of this file is generally not recommended, but may be necessary in some circumstances. [Information on changes to the scenario file is provided here.](/en/Development/Mapping/Further-changes-to-the-scenario-file)
 
 ### Scripts
-
+## Custom assets
+### Custom decals
+- [About decals: Introduction*Pt. 1 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/24/about-decals-introduction-part-1)
+- [About decals: Converting normal maps*Pt. 2 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/245/about-decals-converting-normal-maps)
+- [About decals: WorldMachine templates*Pt. 3 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/1090/about-decals-world-machine-templates)
+- [About decals: Generating map-wide normal texture*Pt. 4 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/785/about-decals-generating-a-map-wide-normal-texture)
+- [About decals: Generating a map-wide lighting texture*Pt. 5 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/786/about-decals-generating-a-map-wide-lighting-texture)
+{.links-list}
 ## WorldMachine
 - [Using Worldmachine and the GPG editor to make a map*A video tutorial series by Lionhardt*](https://www.youtube.com/playlist?list=PLLKHtCMTwATBTx6vrN1ty6xFAByQgh5B-)
+- []()
 {.links-list}
+
 
 ## Gaea
 [<img align="right" src="/images/mapping/gaea/gaea_general.png" width="20%">](/en/Development/Mapping/Gaea)
@@ -175,6 +185,11 @@ Artificial Intelligence (AI) provide players with computer-controlled opponents 
 
 For a comprehensive understanding of how AI functions in FAF, you may refer to the main page on AI. Relevant information in the context of mapping is provided by this tutorial on [best practises to create AI friendly maps](/en/Development/Mapping/ai-friendly-maps). It is recommended to follow these guidelines to ensure your maps are compatible with for AI.
 
+- [About markers: AI markers*Pt.1 of the forum post series on AI markers by Jip*](https://forum.faforever.com/topic/145/about-markers-ai-markers)
+- [About markers: Movement and pathing markers*Pt.2 of the forum post series on AI markers by Jip*](https://forum.faforever.com/topic/343/about-markers-movement-pathing-markers)
+- [Adding AI markers using the GPG editor*A video tutorial by Plasia*](https://www.youtube.com/watch?v=KDO8zf2afhc)
+{.links-list}
+
 ## Clouds
 
 ## Skyboxes
@@ -184,6 +199,8 @@ Prior to the introduction of adaptive maps, it was a common practice to upload m
 
 ## Campaigns
 Experienced mappers may want to create a campaign. This requires an understanding of [mission scription.](/en/Development/Missions/Mission-Scripting). Some maps are already available for [adaption to campaign-related content](/en/Development/Mapping/campaign-ready-maps).
+- [Coop mission making*A video tutorial series by Speed2*](https://www.youtube.com/playlist?list=PLTEDjzjPnGIrFqmrj_yvOI2icU3dEV_Sc)
+{.links-list}
 
 ## Creating maps for the matchmaker pool
 The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
@@ -205,9 +222,10 @@ Klutz's brushes
 ### Map-wide decal templates
 ### Skyboxes, texture layers, lighting, and water presents from official maps
 ### Additional brushes
-## Veteran Mapper Workflows
+## Veteran Mapper Workflows and forum threads
+Many of the veteran mappers have compiled maps, research notes, and comments on workflow and map design in various forum threads, both on the old and new forum. As much can be learnt from studying how others approach map making, links to these forum threads are provided here.
 - []()
-- []()
+- [Svenni_badbwoi's maps*A collection of posts on maps and workflows*](https://forums.faforever.com/viewtopic.php?f=53&t=14976#p153007)
 {.links-list}
 
 ## Mapping guidelines for creating FAF versions of existing maps
