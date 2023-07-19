@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T20:17:57.580Z
+date: 2023-07-19T20:32:26.238Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -165,20 +165,25 @@ Finished maps need to be uploaded to the map vault. By uploading to the vault, y
 The scenario file contains ... and provides information to the game on ...
 Manual editing of this file is generally not recommended, but may be necessary in some circumstances. [Information on changes to the scenario file is provided here.](/en/Development/Mapping/Further-changes-to-the-scenario-file)
 
+### Changing the map version manually
+Although the Ozonex editor allows you to quickly create a new version of your map, the GPG editor requires some additional steps.
+- [Making a new map version guide for 2018*A forum post tutorial by Biass**](https://forums.faforever.com/viewtopic.php?f=53&t=16397#p165578)
+{.links-list}
+
 ### Scripts
 ## Custom assets
-### Custom decals
 - [About decals: Introduction*Pt. 1 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/24/about-decals-introduction-part-1)
 - [About decals: Converting normal maps*Pt. 2 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/245/about-decals-converting-normal-maps)
 - [About decals: WorldMachine templates*Pt. 3 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/1090/about-decals-world-machine-templates)
 - [About decals: Generating map-wide normal texture*Pt. 4 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/785/about-decals-generating-a-map-wide-normal-texture)
 - [About decals: Generating a map-wide lighting texture*Pt. 5 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/786/about-decals-generating-a-map-wide-lighting-texture)
 {.links-list}
+- [About custom decals and stratums*A forum post by Jip*](https://forum.faforever.com/topic/19/about-custom-decals-and-stratums)
+- [Adding custom textures to FAF*A video tutorial by Morax*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 ## WorldMachine
 - [Using Worldmachine and the GPG editor to make a map*A video tutorial series by Lionhardt*](https://www.youtube.com/playlist?list=PLLKHtCMTwATBTx6vrN1ty6xFAByQgh5B-)
-- []()
+- [World machine tutorial: Basic shapes*A video tutorial on the basics of WorldMachine*](https://www.youtube.com/watch?v=nlWssphJMkY)
 {.links-list}
-
 
 ## Gaea
 [<img align="right" src="/images/mapping/gaea/gaea_general.png" width="20%">](/en/Development/Mapping/Gaea)
@@ -225,11 +230,14 @@ As some map-making competitions place a strong emphasis on thorough documentatio
 
 # Other resources
 ## Discord
-## Community-made Assets
+## Community-made Assets and other tools
 Jip's map-wide decal templates
 Klutz's brushes
-### Map-wide decal templates
-### Skyboxes, texture layers, lighting, and water presents from official maps
+- [World Heightmapper tool*An online tool to render a section of earth as a heightmap*](https://tangrams.github.io/heightmapper/)
+{.links-list}
+### Presets from official maps
+[Skyboxes, texture layers, lighting, and water presets](https://goo.gl/oA5Xcg)
+{.links-list}
 ### Additional brushes
 - [About the Ozonex Editor: Adding custom brushes *A forum tutorial on custom brushes by Jip*](https://forum.faforever.com/topic/277/about-weather-generating-clouds)
 {.links-list}
