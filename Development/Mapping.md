@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T12:27:58.847Z
+date: 2023-07-19T13:12:04.979Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -39,6 +39,11 @@ At the most basic level, maps consist of the following elements:
 On top of that, more detail and character can be introduced by adding decals—smaller images that may be freely positioned, scaled, and rotated on the map—civilian AI units, and wrecks. 
 
 The exact use of all these elements gives you a lot of room for creativity, although the large amount of freedom might at first feel somewhat overwhelming. However, do try not to be put off by this: the whole process of creating maps looks at first to be more difficult that it really is. Nonetheless, it is adviced that for your first map, you limit yourself to a 5KM map, as the amount of time required to complete a map increases significantly as the size increases.
+
+A comprehensive tutorial series on the basics of map making is available on youtube, and is highly recommended material for any mapper. 
+
+- [FAF Map Development*Official video tutorial series*](https://www.youtube.com/playlist?list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
+{.links-list}
 
 # Tools and software
 Aside from the editor, you may want to use several other external tools, such as image editing software and terrain generation tools. Below follows short descriptions and links to tutorials for the most commonly used tools. 
@@ -89,7 +94,13 @@ Water settings can be adjusted to enhance the visual representation of water, su
 
 Lastly, you are able to define specify the terrain type of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
 
-- [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including details on water and terrain type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
+- [General Heightmap tutorial*Part 1 of the official tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
+- [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including water and terrain-type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
+- [ Mountains | GPG editor*A video tutorial on making mountains in the GPG editor*](https://www.youtube.com/watch?v=nm5NVD17kvw)
+- [Mountains | Ozonex editor*A video tutorial on making mountains in the Ozonex editor*](https://www.youtube.com/watch?v=h26369gnTEo)
+- [**]()
+- [**]()
+- [**]()
 - [**]()
 - [**]()
 {.links-list}
@@ -97,6 +108,10 @@ Lastly, you are able to define specify the terrain type of specific areas of you
 
 
 ## Stratums, textures, and masks
+
+- [Texture blending*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
+- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
+{.links-list}
 ### Custom textures
 ### Mask generation
 ## Lighting
@@ -108,6 +123,12 @@ Lastly, you are able to define specify the terrain type of specific areas of you
 ## Units
 ## The map vault
 Finished maps need to be uploaded to the map vault. By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules).
+
+- [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
+{.links-list}
+## Other basic tutorials
+- [What makes a bad map?*Video tutorial explaining guidelines for map design*](https://www.youtube.com/watch?v=PqHBJkqqf38)
+{.links-list}
 
 # Advanced tutorials {#AT}
 ## Map files and scripts
