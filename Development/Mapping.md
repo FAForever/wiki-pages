@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T08:45:54.066Z
+date: 2023-07-19T12:27:58.847Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -77,6 +77,25 @@ Assets like custom textures and decals need to be exported or encoded as a parti
 
 # Basic Tutorials
 ## Heightmaps, terrain, and water
+The most important element of a map is the heightmap, which defines the elevation and topographical features, determining the shape and contours of the landscape. Once the heightmap is ready, it forms the foundation upon which other map elements are integrated.
+
+In essence, a heightmap is a grayscale image where different shades of gray represent varying elevations. Darker areas correspond to lower points, such as valleys and depressions, while lighter areas represent higher elevations, such as hills and mountains. By manipulating the grayscale values, map-makers can create intricate landscapes with diverse topographical features.
+
+To create a heightmap, various methods can be used. The most basic approach involves using the brushes provided by either of the two editors, which allow you to manually sculpt the terrain. Alternatively, map-makers can craft heightmaps manually using graphic editing software like Adobe Photoshop or GIMP. By painting the grayscale values, you can sculpt the terrain according to your creative vision. An advanced approach involves  specialized terrain generation software like WorldMachine or Gaea, which use algorithms to simulate natural geological processes, generating realistic and organic terrains. 
+
+The placement of water in a map is directly influenced by the terrain's elevation. Water is set as a flat plane at a specific height, and any part of the terrain with an elevation below that set height will be submerged by the water. As you sculpt the terrain, the varying elevations defined directly impact where the water will be placed. When the terrain's elevation is lower than the set water height, that portion of the map will become submerged, creating lakes, rivers, or other bodies of water. 
+
+Water settings can be adjusted to enhance the visual representation of water, such as its transparency, color, or reflections. These settings, in conjunction with the terrain, contribute to the overall aesthetics of the water within the map.
+
+Lastly, you are able to define specify the terrain type of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
+
+- [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including details on water and terrain type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
+- [**]()
+- [**]()
+{.links-list}
+ 
+
+
 ## Stratums, textures, and masks
 ### Custom textures
 ### Mask generation
