@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T20:11:03.501Z
+date: 2023-07-19T20:17:57.580Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -103,7 +103,14 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 {.links-list}
 
 ### Water
-- [About water: Introduction*A forum post series on water by Jip*]()
+- [About water: Introduction*Pt.1 of the forum post series on water by Jip*](https://forum.faforever.com/topic/59/about-water-introduction)
+- [About water: Water settings*Pt.2 of the forum post series on water by Jip*](https://forum.faforever.com/topic/64/about-water-settings)
+- [About water: Wave generation*Pt.3 of the forum post series on water by Jip*](https://forum.faforever.com/topic/71/about-water-wave-generation)
+- [About water: Brushes*Pt.4 of the forum post series on water by Jip*](https://forum.faforever.com/topic/73/about-water-brushes)
+- [About water: Ramps*Pt.5 of the forum post series on water by Jip*](https://forum.faforever.com/topic/65/about-water-water-ramps)
+- [About water: Environment maps*Pt.6 of the forum post series on water by Jip*](https://forum.faforever.com/topic/72/about-water-environment-maps)
+- [About water: Waves and normal maps*Pt.7 of the forum post series on water by Jip*](https://forum.faforever.com/topic/74/about-water-waves-and-normal-maps)
+- [About water: Pixelated water*Pt.8 of the forum post series on water by Jip*](https://forum.faforever.com/topic/48/about-water-pixelated-water)
 {.links-list}
 
  
@@ -191,6 +198,8 @@ For a comprehensive understanding of how AI functions in FAF, you may refer to t
 {.links-list}
 
 ## Clouds
+- [About weather: Generating clouds*A forum tutorial on cloud generation by Jip*](https://forum.faforever.com/topic/277/about-weather-generating-clouds)
+{.links-list}
 
 ## Skyboxes
 
@@ -222,6 +231,8 @@ Klutz's brushes
 ### Map-wide decal templates
 ### Skyboxes, texture layers, lighting, and water presents from official maps
 ### Additional brushes
+- [About the Ozonex Editor: Adding custom brushes *A forum tutorial on custom brushes by Jip*](https://forum.faforever.com/topic/277/about-weather-generating-clouds)
+{.links-list}
 ## Veteran Mapper Workflows and forum threads
 Many of the veteran mappers have compiled maps, research notes, and comments on workflow and map design in various forum threads, both on the old and new forum. As much can be learnt from studying how others approach map making, links to these forum threads are provided here.
 - []()
