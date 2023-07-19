@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T16:27:28.572Z
+date: 2023-07-19T19:45:49.414Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -125,6 +125,12 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 ## Decals
 - [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
 - [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
+- [Forum post | About decals: Introduction*Pt. 1 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/24/about-decals-introduction-part-1)
+- [Forum post | About decals: Converting normal maps*Pt. 2 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/245/about-decals-converting-normal-maps)
+- [Forum post | About decals: WorldMachine templates*Pt. 3 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/1090/about-decals-world-machine-templates)
+- [Forum post | About decals: Generating map-wide normal texture*Pt. 4 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/785/about-decals-generating-a-map-wide-normal-texture)
+- [Forum post | About decals: Generating a map-wide lighting texture*Pt. 5 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/786/about-decals-generating-a-map-wide-lighting-texture)
+
 {.links-list}
 ### Custom decals
 
@@ -154,6 +160,8 @@ Manual editing of this file is generally not recommended, but may be necessary i
 ### Scripts
 
 ## WorldMachine
+- [Using Worldmachine and the GPG editor to make a map*A video tutorial series by Lionhardt*](https://www.youtube.com/playlist?list=PLLKHtCMTwATBTx6vrN1ty6xFAByQgh5B-)
+{.links-list}
 
 ## Gaea
 [<img align="right" src="/images/mapping/gaea/gaea_general.png" width="20%">](/en/Development/Mapping/Gaea)
@@ -198,6 +206,10 @@ Klutz's brushes
 ### Skyboxes, texture layers, lighting, and water presents from official maps
 ### Additional brushes
 ## Veteran Mapper Workflows
+- []()
+- []()
+{.links-list}
+
 ## Mapping guidelines for creating FAF versions of existing maps
 
 ## Troubleshooting
