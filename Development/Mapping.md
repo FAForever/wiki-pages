@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-20T08:04:04.978Z
+date: 2023-07-20T08:05:46.313Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -128,7 +128,9 @@ When creating a map, choosing the right textures and placing them carefully is v
 ### Custom textures
 The game provides you with a decently large selection of textures to use in your maps. However, if you want to give your map an unique look, or if you just cannot find a texture that works well for your map, you may choose to use custom textures. There are many beautiful custom textures available for download online, and they are often available in higher resolution than the stock textures.
 
-Custom textures need to be encoded to a .DDS file format, specifically the (DXT3) BCT2 compression format. 
+Custom textures need to be encoded in a certain way and installed in a specific folder. For tutorials on this topic, refer to the [Advanced tutorials](#AT) section.
+
+to a .DDS file format, specifically the (DXT3) BCT2 compression format. 
 - [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 {.links-list}
 ### Mask generation
