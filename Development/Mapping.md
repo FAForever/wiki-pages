@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-20T08:05:46.313Z
+date: 2023-07-20T08:07:39.846Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -125,14 +125,7 @@ When creating a map, choosing the right textures and placing them carefully is v
 - [Creating a map: Stratum layers pt. 2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=lWWdLS2a5VU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=5)
 - [Texture painting*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
 {.links-list}
-### Custom textures
-The game provides you with a decently large selection of textures to use in your maps. However, if you want to give your map an unique look, or if you just cannot find a texture that works well for your map, you may choose to use custom textures. There are many beautiful custom textures available for download online, and they are often available in higher resolution than the stock textures.
 
-Custom textures need to be encoded in a certain way and installed in a specific folder. For tutorials on this topic, refer to the [Advanced tutorials](#AT) section.
-
-to a .DDS file format, specifically the (DXT3) BCT2 compression format. 
-- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
-{.links-list}
 ### Mask generation
 
 ## Markers and resources
@@ -182,6 +175,11 @@ Although the Ozonex editor allows you to quickly create a new version of your ma
 
 ### Scripts
 ## Custom assets
+The game provides you with a decently large selection of textures to use in your maps. However, if you want to give your map an unique look, or if you just cannot find a texture that works well for your map, you may choose to use custom textures. There are many beautiful custom textures available for download online, and they are often available in higher resolution than the stock textures.
+
+Custom textures, and decals, need to be encoded to a .DDS file format, specifically the (DXT3) BCT2 compression format. Several tutorials on the topic are available.
+
+- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 - [About decals: Introduction*Pt. 1 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/24/about-decals-introduction-part-1)
 - [About decals: Converting normal maps*Pt. 2 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/245/about-decals-converting-normal-maps)
 - [About decals: WorldMachine templates*Pt. 3 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/1090/about-decals-world-machine-templates)
