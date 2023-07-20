@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-20T07:54:48.116Z
+date: 2023-07-20T08:04:04.978Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -113,7 +113,6 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 - [About water: Waves and normal maps*Pt.7 of the forum post series on water by Jip*](https://forum.faforever.com/topic/74/about-water-waves-and-normal-maps)
 - [About water: Pixelated water*Pt.8 of the forum post series on water by Jip*](https://forum.faforever.com/topic/48/about-water-pixelated-water)
 {.links-list}
-
  
 ## Stratums, textures, and masks
 Textures play a pivotal role in transforming the terrain into distinct types, such as deserts, grass fields, and rocky cliffs. Achieving this effect involves the carefull application of textures to specific areas of the terrain using masks. Masks are greyscale images wherein varying shades of gray denote different levels of texture opacity. Darker regions reveal less of the texture, while lighter regions expose more of it. 
@@ -127,6 +126,9 @@ When creating a map, choosing the right textures and placing them carefully is v
 - [Texture painting*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
 {.links-list}
 ### Custom textures
+The game provides you with a decently large selection of textures to use in your maps. However, if you want to give your map an unique look, or if you just cannot find a texture that works well for your map, you may choose to use custom textures. There are many beautiful custom textures available for download online, and they are often available in higher resolution than the stock textures.
+
+Custom textures need to be encoded to a .DDS file format, specifically the (DXT3) BCT2 compression format. 
 - [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 {.links-list}
 ### Mask generation
