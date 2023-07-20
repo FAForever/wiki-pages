@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-20T08:30:03.161Z
+date: 2023-07-20T08:57:11.532Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -129,15 +129,15 @@ When creating a map, choosing the right textures and placing them carefully is v
 ## Markers and resources
 Every map contains places for players to spawn, spots where mass extractors can be built, and often spots for hydro generators as well. To place these on your map, the editor uses markers. There are specific markers for spawn locations and resources, and more advanced markers that help  AI opponents understand how your map should be played.
 
-Placing your spawns, mexes, and hydros should be done with carefull consideration, as aside from the the terrain, this layout is the most critical to how your map will be played. A common mistake for beginner mappers is to provide either too many or too few mexes. Generally maps can be organized in three zones, and mexes should be placed accordingly.
+Placing your spawns, mexes, and hydros should be done with carefull consideration, as aside from the the terrain, this layout is the most critical to how your map will be played. A common mistake for beginner mappers is to provide either too many or too few mexes. Generally maps can be organized in three zones, and mexes should be placed accordingly. The figure below shows these zones marked on the map *Project Dust*.
 
-* The first zone consists of *core* or *safe* mexes. These include the mexes directly in range of the player upon spawning, and those slightly further removed. These mexes may be expected to remain safe throughout the game, and losing these usually signifies that player has lost control of their portion of the map.
-* The second zone consist of *expansion* mexes, and are those mexes that players expand towards after establishing their first factories. These mexes are similarly under the control of their respective player for most of the game, and are used to establish frontline factories or firebases around.
-* The third zone consists of *contestable* mexes, and include both the mexes in the middle of the map, often where players meet and most battles are fought, as well as the mexes scattered along the edges of the map. Ownership of these mexes changes often, as these mexes are harder to defend and highly raidable. 
+* <img align="right" src="/images/mapping/projectdustmexzones.png" width="25%">The first zone (green) consists of *core* or *safe* mexes. These include the mexes directly in range of the player upon spawning, and those slightly further removed. These mexes may be expected to remain safe throughout the game, and losing these usually signifies that player has lost control of their portion of the map.
+* The second zone (yellow) consist of *expansion* mexes, and are those mexes that players expand towards after establishing their first factories. These mexes are similarly under the control of their respective player for most of the game, and are often used to establish frontline factories or firebases around.
+* The third zone (red) consists of *contestable* mexes, and include both the mexes in the middle of the map, often where players meet and most battles are fought, as well as the mexes scattered along the edges of the map, if present. Ownership of these mexes changes often, as these mexes are harder to defend and highly raidable. 
 
 Although certainly affected by personal preference, it is considered good map design to carefully balance the number of contestable mexes. On the one hand, too few contestable mexes leads to stale gameplay, favouring the defence of expansion mexes and disfavouring active raiding. On the other hand, too many contestable mexes may lead to a situation where one team achieves control of slightly more than half of the map, but a significant larger amount of mexes. 
 
-The layout of these zones highly depends on the terrain of your map, and must be reconsidered with each map. Playtesting is highly recommended to evaluate if your mex placements are functional, and it is not uncommon to go through several revisions based on playtesting and player feedback.
+The layout of these zones highly depends on the terrain of your map, and must be reconsidered with each map. By changing the location of the expansion mexes and contestable mexes, you influence in what direction players develop. Commanders commonly move towards expansion mexes first, and may then fight over contestable mexes. Playtesting is highly recommended to evaluate if your mex placements are functional, and it is not uncommon to go through several revisions based on playtesting and player feedback.
 
 - [Creating a map: Resources*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=s4-DGucm9eQ&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=2)
 {.links-list}
