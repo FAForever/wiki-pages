@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-19T20:42:28.497Z
+date: 2023-07-20T07:15:11.552Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -248,6 +248,7 @@ Many of the veteran mappers have compiled maps, research notes, and comments on 
 - [IndexLibrorum's maps and tutorials*A collection of posts on maps, workflows, and Gaea tutorials*](https://forum.faforever.com/topic/6066/index-librorum-s-maps-assorted-projects-and-gaea-tutorials)
 - [Svenni_badbwoi's maps*A collection of posts on maps and workflows*](https://forums.faforever.com/viewtopic.php?f=53&t=14976#p153007)
 - [MadMax's maps page*A collection of posts on maps made by MadMax*](https://forum.faforever.com/topic/4192/madmax-s-maps-page)
+- [Jip's maps and others*A collection of posts on maps and other project by Jip*](https://forum.faforever.com/topic/497/jip-s-maps-and-others)
 {.links-list}
 
 ## Mapping guidelines for creating FAF versions of existing maps
