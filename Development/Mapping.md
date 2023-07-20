@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-20T07:19:34.647Z
+date: 2023-07-20T07:54:48.116Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -82,6 +82,7 @@ Assets like custom textures and decals need to be exported or encoded as a parti
 
 # Basic Tutorials
 ## Heightmaps, terrain, and water
+<img align="right" src="/images/mapping/heightmaskdemo.png" width="35%">
 The most important element of a map is the heightmap, which defines the elevation and topographical features, determining the shape and contours of the landscape. Once the heightmap is ready, it forms the foundation upon which other map elements are integrated.
 
 In essence, a heightmap is a grayscale image where different shades of gray represent varying elevations. Darker areas correspond to lower points, such as valleys and depressions, while lighter areas represent higher elevations, such as hills and mountains. By manipulating the grayscale values, map-makers can create intricate landscapes with diverse topographical features.
@@ -115,10 +116,15 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 
  
 ## Stratums, textures, and masks
+Textures play a pivotal role in transforming the terrain into distinct types, such as deserts, grass fields, and rocky cliffs. Achieving this effect involves the carefull application of textures to specific areas of the terrain using masks. Masks are greyscale images wherein varying shades of gray denote different levels of texture opacity. Darker regions reveal less of the texture, while lighter regions expose more of it. 
 
-- [Texture painting*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
+These textures, together with their corresponding masks, are organized as layers, known as stratums. A stratum encompasses essential settings, including the selected texture, its accompanying normal map, zoom levels for both the texture and its normal map, and the associated mask. Up to nine stratums can be used, with one designated as the 'base' stratum. This base stratum does not accept a mask and acts as the foundation on which subsequent stratums are layered.
+
+When creating a map, choosing the right textures and placing them carefully is very important. Textures not only determine how your map looks, but also help players understand the terrain. It's crucial that rough, uneven, or areas that units cannot cross are easily recognizable. To achieve this, it's a good idea to use a specific texture for cliffs, which are steep areas units cannot cross, and another texture for slopes, which are inclined areas that units might have trouble crossing or where buildings cannot be constructed. By using different textures for these terrain features, players can quickly understand which areas are passable and which are not.
+
 - [Creating a map: Stratum layers pt. 1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=cVb_w0-REZc&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=4)
 - [Creating a map: Stratum layers pt. 2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=lWWdLS2a5VU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=5)
+- [Texture painting*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
 {.links-list}
 ### Custom textures
 - [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
