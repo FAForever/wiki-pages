@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-21T10:00:43.689Z
+date: 2023-07-21T10:02:20.887Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -160,7 +160,7 @@ Albedo decals are full-color images and include images of sandy and rocky patche
 
 On the other hand, Normal decals appear as orange patterning on a green background and utilize a technique called bump mapping. [<img align="right" src="/images/mapping/luminarywithdecals.png" width="20%">](/images/mapping/luminarywithdecals.png)This technique allows them to influence how light interacts with the terrain. They create the illusion of terrain deformations, even in areas where there are no actual changes in height. This is particularly useful for adding intricate details to areas with limited resolution on the heightmap, making terrain more visually appealing without affecting unit pathing. Normal decals are especially beneficial for highlighting ramps and uneven terrain, aiding players in identifying critical landscape features during gameplay.
 
-More advanced techniques use custom decals, some of which include decals that are made to match the exact terrain of the map. Such map-wide decals can be used to add shadows, weathering, and colour correction.
+More [advanced techniques](#AT) use custom decals, some of which include decals that are made to match the exact terrain of the map. Such map-wide decals can be used to add shadows, weathering, and colour correction. The images on the right show the effect decals can achieve, with the first image showing the map without any decals, and the second image showing the map with all the decals, including a map-wide shadow decal, map-wide normal decal, and map-wide albedo decal.
 
 - [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
 - [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
