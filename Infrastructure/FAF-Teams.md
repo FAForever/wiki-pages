@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-07-20T21:44:42.321Z
+date: 2023-07-21T21:02:31.037Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -441,11 +441,22 @@ An associate is not a member of the game team.
 
 ##### Tester
 
-A tester has no responsibilities. They likely either: 
- - Participate in discussions surrounding the game
- - Contribute by making issues on Github
+With this role you'll help the community by providing insights on, and guarding the quality of what we develop. You'll have access to the Discord channels that are usually read-only for the rest of the community. There you can share your thoughts on bugs or features and participate in discussions with the game developers.
 
-A tester can give themselves access to the [Discord](https://discord.gg/mXahVSKGVb) by choosing the `Tester` role in the channel `#role-selection`.
+##### What your profile is
+
+- You have a general interest in game development
+- You have an interest in understanding the magic behind the game and the development of a game
+
+###### What you'll learn
+
+- How to navigate and contribute on [Github](https://github.com/FAForever/fa)
+- How to setup and use the [development environment](https://github.com/FAForever/fa/blob/deploy/fafdevelop/setup/setup-english.md)
+
+###### What you can aspire towards to
+
+- How to debug the game and make sense of what happened when you encounter a bug
+- About development in general and may even start contributing yourself
 
 #### Team operation
 
