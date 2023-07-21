@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-21T10:04:01.261Z
+date: 2023-07-21T10:04:50.280Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -153,8 +153,8 @@ Props come in various styles and themes, and it's important to choose ones that 
 {.links-list}
 
 ## Decals
-[<img align="right" src="/images/mapping/luminarynodecals.png" width="20%">](/images/mapping/luminarynodecals.png)
-Similar to props, decals play a significant role in enhancing the aesthetics of your map, although they are technically optional. Decals are images that can be freely positioned, scaled, and rotated on the map, contributing to its visual appeal. There are two common types of decals: Albedo decals and Normal decals.
+
+Similar to props, [<img align="right" src="/images/mapping/luminarynodecals.png" width="20%">](/images/mapping/luminarynodecals.png)decals play a significant role in enhancing the aesthetics of your map, although they are technically optional. Decals are images that can be freely positioned, scaled, and rotated on the map, contributing to its visual appeal. There are two common types of decals: Albedo decals and Normal decals.
 
 Albedo decals are full-color images and include images of sandy and rocky patches, moss, and sooty explosions. They serve various purposes, such as enhancing textures, creating visual contrast in specific areas, and supporting other map elements. By strategically placing Albedo decals, map-makers can draw attention to certain features and add intricate details to the terrain.
 
