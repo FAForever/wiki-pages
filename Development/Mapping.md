@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-20T08:57:11.532Z
+date: 2023-07-21T09:47:51.660Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -131,7 +131,7 @@ Every map contains places for players to spawn, spots where mass extractors can 
 
 Placing your spawns, mexes, and hydros should be done with carefull consideration, as aside from the the terrain, this layout is the most critical to how your map will be played. A common mistake for beginner mappers is to provide either too many or too few mexes. Generally maps can be organized in three zones, and mexes should be placed accordingly. The figure below shows these zones marked on the map *Project Dust*.
 
-* <img align="right" src="/images/mapping/projectdustmexzones.png" width="25%">The first zone (green) consists of *core* or *safe* mexes. These include the mexes directly in range of the player upon spawning, and those slightly further removed. These mexes may be expected to remain safe throughout the game, and losing these usually signifies that player has lost control of their portion of the map.
+* [<img align="right" src="/images/mapping/projectdustmexzones.png" width="25%">](/images/mapping/projectdustmexzones.png)The first zone (green) consists of *core* or *safe* mexes. These include the mexes directly in range of the player upon spawning, and those slightly further removed. These mexes may be expected to remain safe throughout the game, and losing these usually signifies that player has lost control of their portion of the map.
 * The second zone (yellow) consist of *expansion* mexes, and are those mexes that players expand towards after establishing their first factories. These mexes are similarly under the control of their respective player for most of the game, and are often used to establish frontline factories or firebases around.
 * The third zone (red) consists of *contestable* mexes, and include both the mexes in the middle of the map, often where players meet and most battles are fought, as well as the mexes scattered along the edges of the map, if present. Ownership of these mexes changes often, as these mexes are harder to defend and highly raidable. 
 
@@ -143,13 +143,22 @@ The layout of these zones highly depends on the terrain of your map, and must be
 {.links-list}
 
 ## Props
+While a map becomes technically playable once the terrain and resources are set, it is not truly complete until it is populated with props. Props, such as trees and rocks, play a crucial role in both enhancing the map's aesthetics and influencing the players' strategies. Most props are reclaimable, meaning they can be gathered for resources, though some exceptions exist.
+
+Strategic placement of props can guide players' development and decision-making. Rocks with high reclaim value become valuable targets for expanding engineers, and their positioning can influence the routes taken by engineers and early raiding units. Trees, on the other hand, offer a welcomed source of energy, helping players avoid energy shortages if they haven't built enough power generators.
+
+Props come in various styles and themes, and it's important to choose ones that match the terrain's overall design. For instance, if the map depicts a desert landscape, opting for sandy-colored rocks and cactus plants would be a fitting choice. Thoughtfully incorporating props that harmonize with the map's theme will greatly improve the quality of your map.
+
 - [Creating a map: Trees and rocks*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=6oDs1brYB_0&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=3)
 {.links-list}
 
-  
-### Custom props
-
 ## Decals
+Similar to props, decals play a significant role in enhancing the aesthetics of your map, although they are technically optional. Decals are images that can be freely positioned, scaled, and rotated on the map, contributing to its visual appeal. There are two common types of decals: Albedo decals and Normal decals.
+
+Albedo decals are full-color images and include images of sandy and rocky patches, moss, and sooty explosions. They serve various purposes, such as enhancing textures, creating visual contrast in specific areas, and supporting other map elements. By strategically placing Albedo decals, map-makers can draw attention to certain features and add intricate details to the terrain.
+
+On the other hand, Normal decals appear as orange patterning on a green background and utilize a technique called bump mapping. This technique allows them to influence how light interacts with the terrain. They create the illusion of terrain deformations, even in areas where there are no actual changes in height. This is particularly useful for adding intricate details to areas with limited resolution on the heightmap, making terrain more visually appealing without affecting unit pathing. Normal decals are especially beneficial for highlighting ramps and uneven terrain, aiding players in identifying critical landscape features during gameplay.
+
 - [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
 - [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
 {.links-list}
