@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-21T10:00:06.348Z
+date: 2023-07-21T10:00:24.246Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -158,7 +158,7 @@ Similar to props, decals play a significant role in enhancing the aesthetics of 
 
 Albedo decals are full-color images and include images of sandy and rocky patches, moss, and sooty explosions. They serve various purposes, such as enhancing textures, creating visual contrast in specific areas, and supporting other map elements. By strategically placing Albedo decals, map-makers can draw attention to certain features and add intricate details to the terrain.
 
-On the other hand, Normal decals appear as orange patterning on a green background and utilize a technique called bump mapping. This technique allows them to influence how light interacts with the terrain. They create the illusion of terrain deformations, even in areas where there are no actual changes in height. This is particularly useful for adding intricate details to areas with limited resolution on the heightmap, making terrain more visually appealing without affecting unit pathing. Normal decals are especially beneficial for highlighting ramps and uneven terrain, aiding players in identifying critical landscape features during gameplay.[<img align="right" src="/images/mapping/luminarywithdecals.png" width="25%">](/images/mapping/luminarywithdecals.png)
+On the other hand, Normal decals appear as orange patterning on a green background and utilize a technique called bump mapping. [<img align="right" src="/images/mapping/luminarywithdecals.png" width="25%">](/images/mapping/luminarywithdecals.png)This technique allows them to influence how light interacts with the terrain. They create the illusion of terrain deformations, even in areas where there are no actual changes in height. This is particularly useful for adding intricate details to areas with limited resolution on the heightmap, making terrain more visually appealing without affecting unit pathing. Normal decals are especially beneficial for highlighting ramps and uneven terrain, aiding players in identifying critical landscape features during gameplay.
 
 More advanced techniques use custom decals, some of which include decals that are made to match the exact terrain of the map. Such map-wide decals can be used to add shadows, weathering, and colour correction.
 
