@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-22T09:20:54.392Z
+date: 2023-07-22T09:28:52.222Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -191,9 +191,12 @@ As you work on your map, you will likely need to test half-finished versions of 
 
 By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules). Upon uploading, you are asked whether you wish to mark your map as a ranked map. Ranked maps impact players' global ratings upon playing matches—winning teams see rating increases, while losing teams experience decreases. If you wish your map to be marked as ranked, it is critical that the map is symmetrical, so as not to give any one team an unfair advantage.
 
-Nonadherence to the vault rules is a bannable offence, and although the rules are fairly self-explanatory, it is recommended that you read the rules carefully. 
+Nonadherence to the vault rules is a bannable offence, and although the rules are fairly self-explanatory, it is recommended that you read the rules carefully.
+
+If you wish to make changes to your map once it has been uploaded to the vault, it is necessary that you create [a new version](https://forum.faforever.com/topic/459/about-the-versioning-system) of your map. The old version of your map should remain on the vault, as this is required to watch replays, but may be hidden.
 
 - [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
+- [About the versioning system *A forum post by Jip on how to make a new version of your map*](https://forum.faforever.com/topic/459/about-the-versioning-system)
 {.links-list}
 ## Other basic tutorials
 While the definition of a good map can vary based on individual taste and playstyle, there exists a consensus on certain aspects that distinguish great maps from the merely good ones. Throughout this guide, we have already touched upon some of these standards while discussing various map elements. However, additional tutorials are presented here to offer further insights and knowledge.
