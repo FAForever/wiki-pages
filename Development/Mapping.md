@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-22T08:53:38.803Z
+date: 2023-07-22T09:01:32.774Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -196,6 +196,12 @@ Nonadherence to the vault rules is a bannable offence, and although the rules ar
 - [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
 {.links-list}
 ## Other basic tutorials
+While the definition of a good map can vary based on individual taste and playstyle, there exists a consensus on certain aspects that distinguish great maps from the merely good ones. Throughout this guide, we have already touched upon some of these standards while discussing various map elements. However, additional tutorials are presented here to offer further insights and knowledge.
+
+Should you find yourself seeking clarification or are looking to discuss different mapping aspects, we encourage you to join the official FAF discord community. There, you can interact with other passionate map-makers and enthusiasts, sharing your thoughts, ideas, and questions in the Mapping-general channel. This collaborative space serves as an invaluable resource, providing opportunities to learn from experienced map-makers, exchange ideas, and refine your mapping skills.
+
+Remember that map-making is a dynamic and creative process, and continuous learning and improvement are integral to crafting exceptional maps. Embrace the community's collective knowledge, explore new techniques, and experiment with innovative ideas. By actively participating in the FAF mapping community, you are helping to keep this old game stay active and interesting for thousands of players worldwide.
+
 - [What makes a bad map?*Video tutorial explaining guidelines for map design by TheDuelist*](https://www.youtube.com/watch?v=PqHBJkqqf38)
 - [Forum post | Making bad maps better*A lengthy forumpost with images by Biass*](https://forums.faforever.com/viewtopic.php?f=53&t=18647)
 {.links-list}
