@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-22T08:41:06.127Z
+date: 2023-07-22T08:53:38.803Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -179,14 +179,19 @@ Similar to props, you can bring extra detail and reclaim to your map by includin
 
 Unit wrecks, unlike civilian units and buildings, will not spawn as an intact unit but as its reclaimable wreck. These can be placed on maps to imply earlier battles fought or to simulate a crashed transport, for example. 
 
-Just as with props, it is important to place units and wrecks with care. The reclaim provided by these units change how players approach the map, and it is generally discouraged to place large patches of reclaim in the middle of the map, as this often leads to extremely volatile gameplay.
-As a consequence, units and wrecks should be placed in moderation and with careful consideration.
+Just as with props, it is important to place units and wrecks with care. The reclaim provided by these units change how players approach the map, and it is generally discouraged to place large patches of reclaim in the middle of the map, as this often leads to extremely volatile gameplay. As a consequence, units and wrecks should be placed in moderation and with careful consideration.
 
 - [Creating a map: (Wrecked) Civilians*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=16zuZ60XHbk&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=12)
 {.links-list}
 
 ## The map vault
-Finished maps need to be uploaded to the map vault. By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules).
+The FAF map vault is the official database containing the community-created maps, making it easy for any player to find and download new maps. Once (the first version of) your new map is ready for playing, you should submit your map to the vault so that you can host a lobby with your map. While you could host a private lobby for yourself if you do not share the map to the vault, for other players to download your map and join your lobby, the map must be uploaded to the vault. 
+
+As you work on your map, you will likely need to test half-finished versions of your map before you feel comfortable uploading the finished product to the vault. For such tests, it is recommended that for such tests you do not upload your map to the vault, but rather [test the map without uploading](https://www.youtube.com/watch?v=EQbP_mXER7M).
+
+By uploading to the vault, you agree to [the vault guidelines](/en/Development/Vault/Guidelines) and [vault rules](/en/Development/Vault/Rules). Upon uploading, you are asked whether you wish to mark your map as a ranked map. Ranked maps impact players' global ratings upon playing matches—winning teams see rating increases, while losing teams experience decreases. If you wish your map to be marked as ranked, it is critical that the map is symmetrical, so as not to give any one team an unfair advantage.
+
+Nonadherence to the vault rules is a bannable offence, and although the rules are fairly self-explanatory, it is recommended that you read the rules carefully. 
 
 - [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
 {.links-list}
