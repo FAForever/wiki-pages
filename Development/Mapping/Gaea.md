@@ -2,7 +2,7 @@
 title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-22T12:23:13.726Z
+date: 2023-07-23T00:06:33.418Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -49,4 +49,4 @@ With the terrain created and textured, we will take a look at the map-wide asset
 [Link to tutorial 4]
 
 # Help and frequently asked questions
-To help you on your way, all tutorials include a section on common mistakes and their fixes. If these sections do not help you when you are stuck, please feel free to ask for help in the [FAF discord's](https://discord.gg/SsxPZRbM) mapping-section. The mapping-channels in the FAF discord include two threads containing my research notes and comments on Gaea, which you might find useful. Alternatively, [contact Prohibitorum](https://discord.com/channels/@me/prohibitorum/) on discord directly.
+To help you on your way, all tutorials include a section on common mistakes and their fixes. If these sections do not help you when you are stuck, please feel free to ask for help in the [FAF discord's](https://discord.gg/6F54xXrEkb) mapping-section. The mapping-channels in the FAF discord include two threads containing my research notes and comments on Gaea, which you might find useful. Alternatively, [contact Prohibitorum](https://discord.com/channels/@me/prohibitorum/) on discord directly.
