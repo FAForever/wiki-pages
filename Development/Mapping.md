@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-22T09:28:52.222Z
+date: 2023-07-23T22:40:05.733Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -153,7 +153,6 @@ Props come in various styles and themes, and it's important to choose ones that 
 {.links-list}
 
 ## Decals
-
 Similar to props, [<img align="right" src="/images/mapping/luminarynodecals.png" width="20%">](/images/mapping/luminarynodecals.png)decals play a significant role in enhancing the aesthetics of your map, although they are technically optional. Decals are images that can be freely positioned, scaled, and rotated on the map, contributing to its visual appeal. There are two common types of decals: Albedo decals and Normal decals.
 
 Albedo decals are full-color images and include images of sandy and rocky patches, moss, and sooty explosions. They serve various purposes, such as enhancing textures, creating visual contrast in specific areas, and supporting other map elements. By strategically placing Albedo decals, map-makers can draw attention to certain features and add intricate details to the terrain.
@@ -269,7 +268,12 @@ For a comprehensive understanding of how AI functions in FAF, you may refer to t
 Prior to the introduction of adaptive maps, it was a common practice to upload multiple versions of the same map, each modified with slight resource variations (e.g., Canis 4v4, Canis 5v5). However, with the advent of the adaptive map script developed by CookieNoob and KeyBlue (with further modifications by svenni_badbwoi), this is no longer required. Adaptive maps enable the consolidation of several similar map versions into a single map, offering advanced map settings directly accessible from the game lobby. Such settings may allow players to adjust map resources dynamically based on the number of players, as well as add or remove resources, units, and wrecks. Two tutorials, [one legacy tutorial](/en/Development/Mapping/Adaptive-Maps) and [one updated tutorial](/en/Development/Mapping/Adaptive-Mapping-2021) are available.
 
 ## Campaigns
-Experienced mappers may want to create a campaign. This requires an understanding of [mission scription.](/en/Development/Missions/Mission-Scripting). Some maps are already available for [adaption to campaign-related content](/en/Development/Mapping/campaign-ready-maps).
+Experienced mappers may want to attempt creating a campaign. Campaigns are cooperative (Coop) games where up to four players can play together to complete a mission or storyline. Using the FAF launcher, players can play the original campaigns from Supreme Commander and Supreme Commander: Forged Alliance, as well as new community-made Coop maps, using FAF's balanced gameplay.
+
+Coop missions are scripted, with key events and the unlocking of new map regions having been prepared in advance by the campaign designer. This allows campaign designers to tell their own stories, with their own aethestics. Despite its seemingly straightforward nature, the Coop feature has become seriously popular among players. Similarly to AI games, campaigns are the perfect game mode to play with some friends, along with providing a unique challenge otherwise not seen in normal skirmish-type games.
+
+However, creating campaigns maps is significantly more involved than creating a normal map, and requires an understanding of [mission scription.](/en/Development/Missions/Mission-Scripting). To provide new campaign designers with the required information to get started, Speed2 has released a [tutorial series](https://www.youtube.com/playlist?list=PLTEDjzjPnGIrFqmrj_yvOI2icU3dEV_Sc). Furthermore, the official FAF discord has made a channel available for discussing campaign development, where you may find more information.
+
 - [Coop mission making*A video tutorial series by Speed2*](https://www.youtube.com/playlist?list=PLTEDjzjPnGIrFqmrj_yvOI2icU3dEV_Sc)
 {.links-list}
 
