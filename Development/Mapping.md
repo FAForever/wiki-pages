@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-23T22:40:05.733Z
+date: 2023-07-23T22:41:41.634Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -270,7 +270,7 @@ Prior to the introduction of adaptive maps, it was a common practice to upload m
 ## Campaigns
 Experienced mappers may want to attempt creating a campaign. Campaigns are cooperative (Coop) games where up to four players can play together to complete a mission or storyline. Using the FAF launcher, players can play the original campaigns from Supreme Commander and Supreme Commander: Forged Alliance, as well as new community-made Coop maps, using FAF's balanced gameplay.
 
-Coop missions are scripted, with key events and the unlocking of new map regions having been prepared in advance by the campaign designer. This allows campaign designers to tell their own stories, with their own aethestics. Despite its seemingly straightforward nature, the Coop feature has become seriously popular among players. Similarly to AI games, campaigns are the perfect game mode to play with some friends, along with providing a unique challenge otherwise not seen in normal skirmish-type games.
+Coop missions are scripted, with key events, such as unlocking new regions of the map, having been prepared in advance by the campaign designer. This allows campaign designers to tell their own stories, with their own aethestics. Despite its seemingly straightforward nature, the Coop feature has become seriously popular among players. Similarly to AI games, campaigns are the perfect game mode to play with some friends, along with providing a unique challenge otherwise not seen in normal skirmish-type games.
 
 However, creating campaigns maps is significantly more involved than creating a normal map, and requires an understanding of [mission scription.](/en/Development/Missions/Mission-Scripting). To provide new campaign designers with the required information to get started, Speed2 has released a [tutorial series](https://www.youtube.com/playlist?list=PLTEDjzjPnGIrFqmrj_yvOI2icU3dEV_Sc). Furthermore, the official FAF discord has made a channel available for discussing campaign development, where you may find more information.
 
