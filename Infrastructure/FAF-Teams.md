@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-07-21T21:02:31.037Z
+date: 2023-07-30T19:07:27.073Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -234,38 +234,53 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 ### Matchmaking Team
 
-#### Members
-- Tagada
+#### Team lead
 - Archsimkat
-- Harzer99
-- Inspektor_Kot
+#### Members
+- Stormlantern
+- Archsimkat
+- FTXCommando
+- Blodir
+- Tagada
+- Sladow
 - Morax
 - Yudi
-- Emperor_Penguin
+- SpikeyNoob
 
 #### Policies
+##### Primary Objectives
+- Maximize player engagement with the matchmaker
+- Keep the maps in matchmaker rotation exciting and fresh for active players without raising the entry barrier for less active players
+- Support mapmakers and give feedback for them to allow them to create the best maps they can
+
+##### Team Responsibilities
+- Curate and update the maps in the matchmaker pools on a regular basis
+- Determine matters related to the composition of matchmaker pools, such as adding new settings and removing old ones
+- Determine matchmaker behavior, such as matters related to the map pool selection algorithm
+- Gather feedback from the community
+- Gather data from the API
+- Communicate with mapmakers when they provide map submissions to help them understand why their map submission was included or excluded from the matchmaker
+- Vote on matters of the matchmaker team, such as topics related to team membership
+
 ##### Team Membership
-- Interested applicants apply by messaging the team lead
-- Applicants are discussed and voted on by the team with a majority required to join, with the team leader being the tiebreak
-- Team members may be removed due to inactivity or being no longer suitable for the position
+- Interested applicants apply by messaging the team lead or any member of the team
+- Applicants are discussed and voted on by the team with a simple (50%) majority required to join
 
 ##### Team Leader
 - The team leader acts as the point of contact with the board and other teams
-- The team leader is elected by the team vote or by the previous team leader
-- Any team member can call for team lead election at any time with a 6 month cooldown period in normal situations
-- Authority to assign team members to specific matchmaker pools
-- Authority to determine membership and structure of the matchmaker team
+- The team leader is initially elected by the team vote or by the previous team leader
+- The team leader may be removed with a two-thirds majority of the team vote, if there is a “tie” (ie. 2:1 in favor of removal) the team lead does not get an extra vote and it goes to the board to decide
+- Authority to remove members for inactivity or being no longer suitable for the position
+- Authority to assign team members to specific matchmaker pools, which gives the team member mod client access, primary responsibility for drafting a pool, and responsibility for ensuring a pool is updated on time
 
-##### Team responsibilities
-- Curate and update 1v1, 2v2, 4v4 matchmaker pools monthly
-- Determine the rating brackets and the pool breakdown by bracket
-- Update the maps rating spreadsheet to assist with making pools
-- Create matchmaker events to increase engagement with matchmaker
-- Gather data and feedback on what maps are liked by the community
-- Work with mapmakers to accept/give feedback to new matchmaker submissions
+##### Vote Mechanics
+- All members of the team may vote, with one member having 1 vote
+- The team leader has 1 vote, having an extra vote in the event of a tie
+- Not voting will not be counted towards the total vote count for purposes of determining majority
+- Majority will be determined by the number of votes at the conclusion of the vote
+- The time of conclusion of the vote will be determined by either the original deadline set by the team member starting the vote or by the team leader, with a minimum time of 24 hours and maximum time of 21 days.
 
 ### Balance Team
-
 #### Team Lead
 
 - Tagada
