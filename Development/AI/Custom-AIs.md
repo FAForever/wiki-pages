@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-06-24T20:49:20.026Z
+date: 2023-07-31T06:16:50.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -58,6 +58,8 @@ Further details on M27AI are available on its [forum thread](https://forum.fafor
 *Author: maudlin27*
 Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 600-800.  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps. Although slightly weaker than M27AI overall (as of v1 release, May 2023), it is compatible with a wider range of mods and map settings and runs roughly twice as fast as M27AI.
+
+M28AI also supports the FA and SC campaign missions (as an AI teammate)
 
 Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
