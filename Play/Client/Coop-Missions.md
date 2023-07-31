@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2023-06-08T05:45:37.264Z
+date: 2023-07-31T06:17:28.339Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -67,4 +67,4 @@ These missions are single scenarios, meaning they are not linked to larger campa
 ##### Notes:
 - FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
-- If you want to play a co-op mission with an AI buddy (instead of solo or with a human) you can install the M28AI custom AI and have it as a teammate (which currently supports the "SupCom - FA campaign" missions) - see the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI.
+- If you want to play a co-op mission with an AI buddy (instead of solo or with a human) you can install the M28AI custom AI and have it as a teammate (which currently supports the "SupCom - FA campaign" and the original suppreme commander missions in co-op) - see the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI.
