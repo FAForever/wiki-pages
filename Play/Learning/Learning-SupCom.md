@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2023-06-24T20:39:41.549Z
+date: 2023-08-02T06:41:18.418Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -22,9 +22,9 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 
 [FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words (~24 minutes)
 
-[Unit Micro - How to control your units](/Learning/Unit-Micro) - 4404 words (~20 minutes)
+[Unit Micro - How to control your units](/Play/Learning/Unit-Micro) - 4404 words (~20 minutes)
 
-[Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance) - 3817 words (~17 minutes)
+[Beginner's Guide to Forged Alliance](/Play/Learning/Beginners-Guide-to-Forged-Alliance) - 3817 words (~17 minutes)
 
 ## Improving Your Gameplay
 
@@ -42,11 +42,11 @@ If you know the basics of the game and are looking to improve your gameplay, you
 
 [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473) - 27,175 words (~2 hours)
 
-[General 1v1 Guide](/Learning/General-1v1-Guide) - 3815 words (~17 minutes)
-[UEF 1v1 Guide](/Learning/UEF-1v1-Guide) - 2553 words (~12 minutes)
-[Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide) - 8802 words (~39 minutes)
-[Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide) - 1353 words (~6 minutes)
-[Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide) - 3828 words (~17 minutes)
+[General 1v1 Guide](/Play/Learning/General-1v1-Guide) - 3815 words (~17 minutes)
+[UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide) - 2553 words (~12 minutes)
+[Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide) - 8802 words (~39 minutes)
+[Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide) - 1353 words (~6 minutes)
+[Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide) - 3828 words (~17 minutes)
 
 [BRNK's Tutorials](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1) - 19 videos (between 5 and 72 minutes each)
 
