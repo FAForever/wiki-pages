@@ -2,7 +2,7 @@
 title: Advanced mapping with Gaea
 description: 
 published: true
-date: 2023-07-31T18:02:34.078Z
+date: 2023-08-26T08:37:27.924Z
 tags: mapping, gaea
 editor: markdown
 dateCreated: 2023-05-09T10:38:02.040Z
@@ -39,7 +39,7 @@ Terrain masks are crucial for defining texture distribution on your map. In this
 {.links-list}
 
 # Texturing in Gaea:
-This tutorial on texturing in Gaea will teach you how to set up a texturing prototype using the masks you learnt to generate in tutorial two. Using this prototype, you can quickly evaluate your masks and make changes where needed. Additionally we will discuss the use of Satmaps in preparation for creating the map-wide albedo generation we will discussin tutorial four. Lastly, we will discuss how to create custom textures to further improve the aestethics of your map.
+This tutorial on texturing in Gaea will teach you how to set up a texturing prototype using the masks you learnt to generate in tutorial two. Using this prototype, you can quickly evaluate your masks and make changes where needed. Additionally we will discuss the use of Satmaps in preparation for creating the map-wide albedo generation, for which a seperate tutorial is made available. Lastly, we will discuss how to create custom textures to further improve the aestethics of your map.
 
 [Link to tutorial]
 
