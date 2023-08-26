@@ -2,7 +2,7 @@
 title: Texturing in Gaea
 description: A tutorial on the process of texturing the terrain in Gaea
 published: true
-date: 2023-08-01T18:28:52.371Z
+date: 2023-08-26T07:43:14.755Z
 tags: mapping, gaea, textures, texturing
 editor: markdown
 dateCreated: 2023-07-30T10:48:41.754Z
@@ -11,7 +11,13 @@ dateCreated: 2023-07-30T10:48:41.754Z
 # Gaea tutorial: Texturing in Gaea
 Introduction text similar to previous tutorials.
 
-This tutorial focusses on texturing your maps in Gaea. Using Gaea to texture your map can be used as a way to quickly experiment with different aestethics, to verify your masks are set up correctly, and to generate map-wide albedo decals. This tutorial will explain how to set up a a graph in Gaea to simulate how the FAF editor applies textures. That is—a way that simulates nine layers that stack on top of eachother, with layer masks determining where textures are applied.
+This tutorial focusses on texturing your maps in Gaea. Using Gaea to texture your map can be used as a way to quickly experiment with different aestethics, to verify your masks are set up correctly, and to generate map-wide albedo decals. This tutorial will explain how to set up Gaea in a way that simulates how the FAF editor applies textures, and how to use this to create a textured map.
+
+## Prerequisites
+As with texturing in the FAF editor, applying textures to specific areas of the terrain requires masks. Creating masks in Gaea is relatively simple, but allows for high detail and complexity. As such, a seperate tutorial has been made available here. 
+
+- [Producing terrain masks in Gaea*Producing stratum masks for texturing*](/en/Development/Mapping/Gaea/Terrain-Masks)
+{.links-list}
 
 ## Terminology
 In my conversations with others in the FAF discord's mapping-general channel, I've come to realize that explaining certain concepts can be a bit challenging, primarily due to the lack of clear definitions for some elements. To ensure that we're all on the same page, please refer to the [terminology page](/en/Development/Mapping/Terms) for definitions of mapping-related terms.
@@ -20,15 +26,10 @@ In my conversations with others in the FAF discord's mapping-general channel, I'
 {.is-info}
 
 # A review of texturing basics
-This workflow aims to emulate the way that textures are applied in FAF. We will setup a framework that simulates a maximum of eight stratums, stacked on top of eachother. However, the texturing in Gaea will always be an approximation, as the approach differs in a few critical areas. Firstly, FAF uses tiled textures: textures are repeated over the map and exposed to certain parts of the terrain using masks. Interestingly, this results in both higher and lower resolution textures. The resolution of the textures for each pixel of the heightmap will be bigger in game: the tiling of the textures, especially at a low zoom-level, will result in far higher pixel density per area of the map than compared to a map-wide decal. However, since these textures are tiled, the textures aren't specific for the terrain except in the sense that they are exposed to specific parts of the terrain. Creating a map-wide albedo decal in gaea however will allow you to assign specific colours and texture to specific parts of the map, but due to file size restrictions you will not be able to approach the resolution per heightmap-pixel that tiled textures will provide you.
+This workflow aims to emulate the way that textures are applied in FAF. We will setup a graph that simulates a maximum of nine stratums, one base stratum and 8 stratums with accompanying stratum masks, stacked on top of eachother. However, the texturing in Gaea will always be an approximation of what the map will look like in the FAF editor, as the approach differs in a few critical areas. Firstly, FAF uses tiled textures: textures are repeated over the map and exposed to certain parts of the terrain using masks. Interestingly, in some way this results in both higher and lower resolution. The resolution of the textures for each pixel of the heightmap will be bigger in game: the tiled textures, especially at a low zoom-level, will result in far higher pixel density per area of the map than compared to a map-wide decal. However, since these textures are tiled, the textures aren't specific to individual pixels of the terrain heightmap, except in the sense that they are exposed to specific parts of the terrain. 
 
-As a result, map-wide albedo decals should not be used to texture the full map at once. Although 16K textures might suffice for 5km maps, generally the resulting file size makes actually using this approach prohibitive. A better method is to create a textured map in Gaea,
+Creating a map-wide albedo decal in Gaea however, will allow you to assign specific colours and texture to specific parts of the map, but due to file size restrictions you will not be able to approach the resolution per heightmap-pixel that tiled textures will provide you. Although 16K textures might suffice for 5km maps, generally the resulting file size makes  using this approach prohibitive. As a result, map-wide albedo decals should not be depended on to texture the full map without support from the tiled textures. 
 
-Due to this, the resolution of the textures in the game can be of higher quality than the map-wide textures produced in Gaea, although they are less specific to the terrain.
+A better method, to get the best of both approaches, is to create a textured map in Gaea, use the result to render a map-wide albedo decall, and use that decall to support and enhance the textures applied by using the stratum layers and stratum masks. As the approach here detailed requires you to setup stratum masks anyway, using this approach should not be much more effort.
 
-
-
-## Prerequisites
-
-This process is dependent on masks, a tutorial for which is available here. 
-
+# 
