@@ -2,7 +2,7 @@
 title: Texturing in Gaea
 description: A tutorial on the process of texturing the terrain in Gaea
 published: true
-date: 2023-08-26T10:59:16.290Z
+date: 2023-08-26T11:04:10.125Z
 tags: mapping, gaea, textures, texturing
 editor: markdown
 dateCreated: 2023-07-30T10:48:41.754Z
@@ -41,9 +41,12 @@ A basic node that creates colour is the `QuickColor` node, which generates a gra
 Aside from using the gradient this node can produce, you may choose to select the same colour for both options, creating a single colour. When combined with the `Constant` node, this can be used to create a flat plane of one pure colour, which is a good way to approximate the result you would achieve in the FAF editor—an approach that will be discussed in detail below.
 
 ## CLUTer and Synth
-The `CLUTer` node is, in essence, an advanced version of the `QuickColor` node. Rather than selecting two colours to form a gradient between, `CLUTer` allows you to select multiple colours, and move these colours along the gradient, to create complex gradients. 
+The `CLUTer` node is, in essence, an advanced version of the `QuickColor` node. Rather than selecting two colours to form a gradient between, `CLUTer` allows you to select multiple colours, and move these colours along the gradient, to create complex gradients. The `Synth` node behaves similarly, but allows you to provide an image to sample the colours from. These two nodes can be used to create more complex colour patterns, and might be used to create map-wide albedo textures.
 
-## Satmap
+## SatMap
+The `SatMaps` is similar to the `CLUTer` and `Synth` nodes, but provides complex gradients out of the box. Several hundred of complex gradient presets based on satalite images are available, such as those based on mountains, deserts, and other iconic terrain. This node is a fantastic way to add a lot of colour detail to your texture, although some finetuning is often required; as these gradients were made with complex terrain in mind, the often simpler heightmaps made for FAF maps might not always produce great results out of the box. 
+
+
 Fancy CLUTer based on sat images
 
 
