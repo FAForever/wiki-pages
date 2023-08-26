@@ -2,7 +2,7 @@
 title: Producing Terrain Masks in Gaea
 description: A tutorial on the process of creating terrain masks using Gaea
 published: true
-date: 2023-07-17T19:44:24.114Z
+date: 2023-08-26T08:35:48.243Z
 tags: mapping, gaea, masks, mask
 editor: markdown
 dateCreated: 2023-06-24T18:00:53.840Z
@@ -145,7 +145,7 @@ If you see something like the above, verify if you followed the instruction on t
 A very common issue is a mismatch between the resolution of your mask and the resolution the map requires you to provide. This may be caused by [1] and should be debugged by creating a mask in the FAF editor, exporting the mask, and verifying the resolution in an image editor. 
 
 ## Remaining questions
-If you are left with questions or need help, your best bet is to check with people in the FAF discord Mapping-General channel. Alternatively, you may send me a PM on discord, or leave a message on this forum.
+If you are left with questions or need help, your best bet is to check with people in the FAF discord Mapping-General channel. Alternatively, you may send me (IndexLibrorum, or Prohibitorum) a PM on discord, or leave a message on the forum.
 
 ## Footnotes
 
