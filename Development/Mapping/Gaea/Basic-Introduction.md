@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-08-26T08:34:11.116Z
+date: 2023-08-26T08:34:42.249Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -187,4 +187,4 @@ If Gaea refuses to render your heightmap, attempt the following:
 * Add a `Transform` node to the end of the graph, and mark that node for export. Some nodes are known not to produce an output, but the `Transform` node is known  to behave as expected.
 
 ## Remaining questions
-If you are left with questions or need help, your best bet is to check with people in the FAF discord Mapping-General channel. Alternatively, you may send me a PM on discord, or leave a message on the forum.
+If you are left with questions or need help, your best bet is to check with people in the FAF discord Mapping-General channel. Alternatively, you may send me (IndexLibrorum, or Prohibitorum) a PM on discord, or leave a message on the forum.
