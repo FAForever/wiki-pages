@@ -2,7 +2,7 @@
 title: Texturing in Gaea
 description: A tutorial on the process of texturing the terrain in Gaea
 published: true
-date: 2023-08-26T08:53:55.922Z
+date: 2023-08-26T10:59:16.290Z
 tags: mapping, gaea, textures, texturing
 editor: markdown
 dateCreated: 2023-07-30T10:48:41.754Z
@@ -33,13 +33,27 @@ Creating a map-wide albedo decal in Gaea however, will allow you to assign speci
 A better method, to get the best of both approaches, is to create a textured map in Gaea, use the result to render a map-wide albedo decall, and use that decall to support and enhance the textures applied by using the stratum layers and stratum masks. As the approach here detailed requires you to setup stratum masks anyway, using this method should not be much more effort.
 
 # Colour nodes
-To texture your heightmap, there are several important nodes that you should familiarize yourself with. These nodes generally are coloured purple, designating that these nodes provide or process colour-data. 
+To texture your heightmap, there are several important nodes that you should familiarize yourself with. These nodes generally are coloured purple, designating that these nodes provide or process colour-data. Similarly, the `combine` node, which normally maintains a light blue colour to indicate it being part of the 'Adjustments' group of nodes, will turn purple when used to combine colour layers.
 
-A basic node that creates colour is the `QuickColor` node, which generates a gradient using two selected colours. This gradient is applied to the heightmap using the height values: the first colour is assigned to the highest part of the heightmap, and the second colour is applied to the lowest part, with all other colours of that gradient applied to the values in between these two extremes.
+## Quick Colour
+A basic node that creates colour is the `QuickColor` node, which generates a gradient using two selected colours. This gradient is applied to the heightmap using the height values: the first colour is assigned to the highest part of the heightmap, and the second colour is applied to the lowest part, with all other colours of that gradient applied to the values in between these two extremes. A *bias* slider is available to shift the middlepoint of the gradient in either direction, letting you adjust how the gradient is applied to the heightmap. Increasing the value for *Input noise* will make the gradient noisy rather than smooth.
+
+Aside from using the gradient this node can produce, you may choose to select the same colour for both options, creating a single colour. When combined with the `Constant` node, this can be used to create a flat plane of one pure colour, which is a good way to approximate the result you would achieve in the FAF editor—an approach that will be discussed in detail below.
+
+## CLUTer and Synth
+The `CLUTer` node is, in essence, an advanced version of the `QuickColor` node. Rather than selecting two colours to form a gradient between, `CLUTer` allows you to select multiple colours, and move these colours along the gradient, to create complex gradients. 
+
+## Satmap
+Fancy CLUTer based on sat images
 
 
+## ColorFX
+Adjustments, include HSL, B/C, etc
 
+
+# Drafting a map design using satmaps
 # Simulating the FAF editor
+Quick color node in comibnation with a constant node to make solid colour layers.
 # Common approaches
 # Rendering a map-wide albedo decal
 Many aspects similar to creating map-wide normal maps, so all information combined in one tutorial.
