@@ -2,7 +2,7 @@
 title: Texturing in Gaea
 description: A tutorial on the process of texturing the terrain in Gaea
 published: true
-date: 2023-08-26T07:43:14.755Z
+date: 2023-08-26T08:37:46.469Z
 tags: mapping, gaea, textures, texturing
 editor: markdown
 dateCreated: 2023-07-30T10:48:41.754Z
@@ -32,4 +32,13 @@ Creating a map-wide albedo decal in Gaea however, will allow you to assign speci
 
 A better method, to get the best of both approaches, is to create a textured map in Gaea, use the result to render a map-wide albedo decall, and use that decall to support and enhance the textures applied by using the stratum layers and stratum masks. As the approach here detailed requires you to setup stratum masks anyway, using this approach should not be much more effort.
 
-# 
+# Colour nodes
+# Simulating the FAF editor
+# Common approaches
+# Rendering a map-wide albedo decal
+Many aspects similar to creating map-wide normal maps, so all information combined in one tutorial.
+# Creating custom textures in Gaea
+# Common errors and checklist
+## Remaining questions
+
+If you are left with questions or need help, your best bet is to check with people in the FAF discord Mapping-General channel. Alternatively, you may send me (IndexLibrorum, or Prohibitorum) a PM on discord, or leave a message on the forum.
