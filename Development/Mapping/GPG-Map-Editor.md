@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-06-19T09:27:12.907Z
+date: 2023-10-06T19:13:44.993Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -604,3 +604,5 @@ If you were using custom textures, you have to show editor path to textures in n
 
 ![map_version1.png](/images/gpgmapeditor/map_version1.png)
 ![map_version2.png](/images/gpgmapeditor/map_version2.png)
+
+There is also this guide by Biass: [Making a new map version](https://forums.faforever.com/viewtopic.php?f=53&t=16397#p165578)
