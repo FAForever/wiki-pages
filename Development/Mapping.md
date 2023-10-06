@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-06T19:17:38.832Z
+date: 2023-10-06T19:26:24.836Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -243,8 +243,26 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 - [Forum post | Making bad maps better*A lengthy forumpost with images by Biass*](https://forums.faforever.com/viewtopic.php?f=53&t=18647)
 {.links-list}
 
+### Tips
+- Searching for concept art could help with getting inspiration for new maps.
+- Color theory should be applied to make maps visually appealing.
+- Color grading of textures (i.e. editing their hue in an image editor) should be used to create a coherent look of the map and to make textures visally fit into your map that you otherwise couldn't use.
+- The color ramp for water can be edited in an image editor as well.
+
+### Checklist of often overlooked settings
+- Did you adjust the fog settings?
+- Did you use terrain types?
+- Did you play around with water ramps?
+- Did you adjust the skybox?
+- Did you set fitting environment maps?
+- For the water as well?
+- Did you align the sun direction in the water settings?
+
 ## Creating maps for the matchmaker pool
 The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
+
+## Using a different terrain shader
+Todo
 
 ## Custom assets {#CA}
 The game provides you with a decently large selection of textures to use in your maps. However, if you want to give your map an unique look, or if you just cannot find a texture that works well for your map, you may choose to use custom textures. There are many beautiful custom textures available for download online, and they are often available in higher resolution than the stock textures.
