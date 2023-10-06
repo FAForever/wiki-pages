@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-06T19:26:24.836Z
+date: 2023-10-06T19:28:42.799Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -258,9 +258,6 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 - For the water as well?
 - Did you align the sun direction in the water settings?
 
-## Creating maps for the matchmaker pool
-The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
-
 ## Using a different terrain shader
 Todo
 
@@ -281,6 +278,9 @@ Custom textures, and decals, need to be encoded to a .DDS file format, specifica
 
 ## Adaptive mapping
 Prior to the introduction of adaptive maps, it was a common practice to upload multiple versions of the same map, each modified with slight resource variations (e.g., Canis 4v4, Canis 5v5). However, with the advent of the adaptive map script developed by CookieNoob and KeyBlue (with further modifications by svenni_badbwoi), this is no longer required. Adaptive maps enable the consolidation of several similar map versions into a single map, offering advanced map settings directly accessible from the game lobby. Such settings may allow players to adjust map resources dynamically based on the number of players, as well as add or remove resources, units, and wrecks. Two tutorials, [one legacy tutorial](/en/Development/Mapping/Adaptive-Maps) and [one updated tutorial](/en/Development/Mapping/Adaptive-Mapping-2021) are available.
+
+## Creating maps for the matchmaker pool
+The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
 
 ## Campaigns
 Experienced mappers may want to attempt creating a campaign. Campaigns are cooperative (Coop) games where up to four players can play together to complete a mission or storyline. Using the FAF launcher, players can play the original campaigns from Supreme Commander and Supreme Commander: Forged Alliance, as well as new community-made Coop maps, using FAF's balanced gameplay.
