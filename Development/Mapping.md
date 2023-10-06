@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-07-23T22:41:41.634Z
+date: 2023-10-06T19:17:38.832Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -51,6 +51,8 @@ Aside from the editor, you may want to use several other external tools, such as
 ### Ozonex Editor
 The [FA-Forever-Map-Editor](/en/Development/Mapping/FA-Forever-Map-Editor) is a new map editor developed for FAF by ozonex. Although perpetually stuck in an unfinished alpha stage, which means the editor is in its testing phase and lacks some of the features of the GPG editor, it is considered in many ways a significant improvement over the GPG editor. Generally, this editor is the recommended editor to use.
 
+It is a powerful tool for creating custom maps in Supreme Commander: Forged Alliance, but like with any software, you might encounter various technical issues that can prevent you from creating maps that meet your vision. These issues can range from minor annoyances to serious problems that make it impossible to complete your map. [In the troubleshooting page](/en/Development/Mapping/faf-map-editor-troubleshooting), we'll cover some common technical issues you might encounter while working with the map editor and related files.
+
 - [FA-Forever-Map-Editor *The modern editor provided by Ozonex et al.*](/en/Development/Mapping/FA-Forever-Map-Editor)
 {.links-list}
 
@@ -64,7 +66,19 @@ In map-making, terrain heightmaps are typically crafted using manual brush tools
 
 Two prominent tools in this domain are WorldMachine and Gaea. Both WorldMachine and Gaea are specialized software that empowers map-makers to generate realistic and detailed terrains procedurally, employing algorithms to simulate natural geological processes like erosion, weathering, and tectonic movements. These tools allow you to quickly generate and manipulate vast landscapes with a wide range of features like mountains, valleys, and rivers.
 
-For both these tools several tutorials have been made available, the links of which you may find below, under the [Advanced tutorials](#AT) section.
+### WorldMachine
+- [Using Worldmachine and the GPG editor to make a map*A video tutorial series by Lionhardt*](https://www.youtube.com/playlist?list=PLLKHtCMTwATBTx6vrN1ty6xFAByQgh5B-)
+- [World machine tutorial: Basic shapes*A video tutorial on the basics of WorldMachine*](https://www.youtube.com/watch?v=nlWssphJMkY)
+{.links-list}
+
+### Gaea {#Gaea}
+[<img align="right" src="/images/mapping/gaea/gaea_general.png" width="20%">](/en/Development/Mapping/Gaea)
+
+Gaea is a terrain generation tool not unlike WorldMachine, though significantly more modern. The free version of Gaea allows you to create heightmaps up to a 1K resolution, which corresponds to a maximum map size of 20x20KM. 
+
+A tutorial series on using Gaea for FAF mapping was written by IndexLibrorum (AKA Prohibitorum) and introduces the basics of Gaea, how to create terrain, how to create stratum masks, how to texture with Gaea, and how to create map-wide assets.
+- [A tutorial series on using Gaea for FAF mapping*An extensive tutorial series on Gaea by IndexLibrorum*](/en/Development/Mapping/Gaea)
+{.links-list}
 
 ## Other tools
 ### Image-editing tools
@@ -80,8 +94,8 @@ Assets like custom textures and decals need to be exported or encoded as a parti
 - [ImageMagick *Recommended tool to encode images to DDS*](https://imagemagick.org/index.php)
 {.links-list}
 
-# Basic Tutorials
-## Heightmaps, terrain, and water
+# The map creation process
+## Terrain
 <img align="right" src="/images/mapping/heightmaskdemo.png" width="35%">
 The most important element of a map is the heightmap, which defines the elevation and topographical features, determining the shape and contours of the landscape. Once the heightmap is ready, it forms the foundation upon which other map elements are integrated.
 
@@ -89,21 +103,17 @@ In essence, a heightmap is a grayscale image where different shades of gray repr
 
 To create a heightmap, various methods can be used. The most basic approach involves using the [brushes provided by either of the two editors](https://wiki.faforever.com/en/Development/Mapping/FA-Forever-Map-Editor#heightmap-brush), which allow you to manually sculpt the terrain. Alternatively, map-makers can craft heightmaps manually using graphic editing software like Adobe Photoshop or GIMP. By painting the grayscale values, you can sculpt the terrain according to your creative vision. An advanced approach involves  specialized terrain generation software like WorldMachine or [Gaea](#Gaea), which use algorithms to simulate natural geological processes, generating realistic and organic terrains. 
 
-The placement of water in a map is directly influenced by the terrain's elevation. Water is set as a flat plane at a specific height, and any part of the terrain with an elevation below that set height will be submerged by the water. As you sculpt the terrain, the varying elevations defined directly impact where the water will be placed. When the terrain's elevation is lower than the set water height, that portion of the map will become submerged, creating lakes, rivers, or other bodies of water. 
-
-[Water settings](/en/Development/Mapping/FA-Forever-Map-Editor#water) can be adjusted to enhance the visual representation of water, such as its transparency, color, or reflections. These settings, in conjunction with the terrain, contribute to the overall aesthetics of the water within the map.
-
-Lastly, you are able to define specify the [terrain type](/en/Development/Mapping/FA-Forever-Map-Editor#terrain-type) of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
-
-## Tabs {.tabset}
-### Terrain
 - [Creating a map: Heightmaps*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
 - [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including water and terrain-type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
 - [ Mountains | GPG editor*A video tutorial on making mountains in the GPG editor*](https://www.youtube.com/watch?v=nm5NVD17kvw)
 - [Mountains | Ozonex editor*A video tutorial on making mountains in the Ozonex editor*](https://www.youtube.com/watch?v=h26369gnTEo)
 {.links-list}
 
-### Water
+## Water
+The placement of water in a map is directly influenced by the terrain's elevation. Water is set as a flat plane at a specific height, and any part of the terrain with an elevation below that set height will be submerged by the water. As you sculpt the terrain, the varying elevations defined directly impact where the water will be placed. When the terrain's elevation is lower than the set water height, that portion of the map will become submerged, creating lakes, rivers, or other bodies of water. 
+
+[Water settings](/en/Development/Mapping/FA-Forever-Map-Editor#water) can be adjusted to enhance the visual representation of water, such as its transparency, color, or reflections. These settings, in conjunction with the terrain, contribute to the overall aesthetics of the water within the map.
+
 - [About water: Introduction*Pt.1 of the forum post series on water by Jip*](https://forum.faforever.com/topic/59/about-water-introduction)
 - [About water: Water settings*Pt.2 of the forum post series on water by Jip*](https://forum.faforever.com/topic/64/about-water-settings)
 - [About water: Wave generation*Pt.3 of the forum post series on water by Jip*](https://forum.faforever.com/topic/71/about-water-wave-generation)
@@ -114,21 +124,40 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 - [About water: Pixelated water*Pt.8 of the forum post series on water by Jip*](https://forum.faforever.com/topic/48/about-water-pixelated-water)
 {.links-list}
  
-## Stratums, textures, and masks
+## Texture stratums
 Textures play a pivotal role in transforming the terrain into distinct types, such as deserts, grass fields, and rocky cliffs. Achieving this effect involves the carefull application of textures to specific areas of the terrain using masks. Masks are greyscale images wherein varying shades of gray denote different levels of texture opacity. Darker regions reveal less of the texture, while lighter regions expose more of it. Similar to heightmaps, masks may be either created by hand using the [brush tools](en/Development/Mapping/FA-Forever-Map-Editor#painting) in the editor, or may be generated by external software such as WorldMachine or [Gaea](#Gaea).
 
 These textures, together with their corresponding masks, are organized as layers, known as [stratums](/en/Development/Mapping/FA-Forever-Map-Editor#texture-layers). A stratum encompasses essential settings, including the selected texture, its accompanying normal map, zoom levels for both the texture and its normal map, and the associated mask. Up to nine stratums can be used, with one designated as the 'base' stratum. This base stratum does not accept a mask and acts as the foundation on which subsequent stratums are layered.
 
 When creating a map, choosing the right textures and placing them carefully is very important. Textures not only determine how your map looks, but also help players understand the terrain. It's crucial that rough, uneven, or areas that units cannot cross are easily recognizable. To achieve this, it's a good idea to use a specific texture for cliffs, which are steep areas units cannot cross, and another texture for slopes, which are inclined areas that units might have trouble crossing or where buildings cannot be constructed. By using different textures for these terrain features, players can quickly understand which areas are passable and which are not.
 
+Lastly, you are able to define specify the [terrain type](/en/Development/Mapping/FA-Forever-Map-Editor#terrain-type) of specific areas of your terrain. Terrain type primarily affects the interaction between units and the terrain visually, generating specific dust patterns when units move over the terrain. However, there are some *blocking-type* terrain types available that will prohibit units from moving over areas marked as such.
+
 - [Creating a map: Stratum layers pt. 1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=cVb_w0-REZc&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=4)
 - [Creating a map: Stratum layers pt. 2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=lWWdLS2a5VU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=5)
 - [Texture painting*Video tutorial on how to blend textures in the Ozonex editor*](https://www.youtube.com/watch?v=nzTnDc2vKU4)
 {.links-list}
 
-## Markers and resources
+## Lighting
+In the lighting tab of the FAF editor, you can adjust various lighting and atmospheric settings. These settings affect the strength of the sun and its placement in the sky: both its height and its direction can be changed. Other settings can be changed to adjust the colour of the sunlight, the colour of the shadows, and the colour of the ambient light. These settings can have a significant effect on the aesthetics of your map.
+
+Aside from light settings, other settings include those for Fog and the skybox, allowing you to further adjust the environment of your map.
+
+- [Creating a map: Lighting*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=7TXHY1_smwU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=11)
+{.links-list}
+
+## Clouds
+- [About weather: Generating clouds*A forum tutorial on cloud generation by Jip*](https://forum.faforever.com/topic/277/about-weather-generating-clouds)
+{.links-list}
+
+## Skyboxes
+
+Todo
+
+## Markers
 Every map contains places for players to spawn, spots where mass extractors can be built, and often spots for hydro generators as well. To place these on your map, the editor uses markers. There are specific markers for spawn locations and resources, and more advanced markers that help  AI opponents understand how your map should be played.
 
+### Spawns and resources
 Placing your spawns, mexes, and hydros should be done with carefull consideration, as aside from the the terrain, this layout is the most critical to how your map will be played. A common mistake for beginner mappers is to provide either too many or too few mexes. Generally maps can be organized in three zones, and mexes should be placed accordingly. The figure below shows these zones marked on the map *Project Dust*.
 
 * [<img align="right" src="/images/mapping/projectdustmexzones.png" width="25%">](/images/mapping/projectdustmexzones.png)The first zone (green) consists of *core* or *safe* mexes. These include the mexes directly in range of the player upon spawning, and those slightly further removed. These mexes may be expected to remain safe throughout the game, and losing these usually signifies that player has lost control of their portion of the map.
@@ -140,6 +169,16 @@ Although certainly affected by personal preference, it is considered good map de
 The layout of these zones highly depends on the terrain of your map, and must be reconsidered with each map. By changing the location of the expansion mexes and contestable mexes, you influence in what direction players develop. Commanders commonly move towards expansion mexes first, and may then fight over contestable mexes. Playtesting is highly recommended to evaluate if your mex placements are functional, and it is not uncommon to go through several revisions based on playtesting and player feedback.
 
 - [Creating a map: Resources*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=s4-DGucm9eQ&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=2)
+{.links-list}
+
+### AI markers
+Artificial Intelligence (AI) provide players with computer-controlled opponents of different skill levels. This feature has garnered significant popularity within the FAF community, with over half of the player base actively participating in AI games. By providing players with the opportunity to challenge intelligent computer opponents, AI enhances the richness and diversity of gameplay options, catering to a wide range of preferences and skill levels. Consequently, maps should aim to be AI compatible, and be designed with AI in mind.
+
+For a comprehensive understanding of how AI functions in FAF, you may refer to the main page on AI. Relevant information in the context of mapping is provided by this tutorial on [best practises to create AI friendly maps](/en/Development/Mapping/ai-friendly-maps). It is recommended to follow these guidelines to ensure your maps are compatible with for AI.
+
+- [About markers: AI markers*Pt.1 of the forum post series on AI markers by Jip*](https://forum.faforever.com/topic/145/about-markers-ai-markers)
+- [About markers: Movement and pathing markers*Pt.2 of the forum post series on AI markers by Jip*](https://forum.faforever.com/topic/343/about-markers-movement-pathing-markers)
+- [Adding AI markers using the GPG editor*A video tutorial by Plasia*](https://www.youtube.com/watch?v=KDO8zf2afhc)
 {.links-list}
 
 ## Props
@@ -159,19 +198,13 @@ Albedo decals are full-color images and include images of sandy and rocky patche
 
 On the other hand, Normal decals appear as orange patterning on a green background and utilize a technique called bump mapping. [<img align="right" src="/images/mapping/luminarywithdecals.png" width="20%">](/images/mapping/luminarywithdecals.png)This technique allows them to influence how light interacts with the terrain. They create the illusion of terrain deformations, even in areas where there are no actual changes in height. This is particularly useful for adding intricate details to areas with limited resolution on the heightmap, making terrain more visually appealing without affecting unit pathing. Normal decals are especially beneficial for highlighting ramps and uneven terrain, aiding players in identifying critical landscape features during gameplay.
 
-More [advanced techniques](#AT-CA) use custom decals, some of which include decals that are made to match the exact terrain of the map. Such map-wide decals can be used to add shadows, weathering, and colour correction. The images on the right show the effect decals can achieve, with the first image showing the map without any decals, and the second image showing the map with all the decals, including a map-wide shadow decal, map-wide normal decal, and map-wide albedo decal.
+More advanced techniques use [custom decals](#CA), some of which include decals that are made to match the exact terrain of the map. Such map-wide decals can be used to add shadows, weathering, and colour correction. The images on the right show the effect decals can achieve, with the first image showing the map without any decals, and the second image showing the map with all the decals, including a map-wide shadow decal, map-wide normal decal, and map-wide albedo decal.
 
 - [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
 - [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
 {.links-list}
 
-## Lighting
-In the lighting tab of the FAF editor, you can adjust various lighting and atmospheric settings. These settings affect the strength of the sun and its placement in the sky: both its height and its direction can be changed. Other settings can be changed to adjust the colour of the sunlight, the colour of the shadows, and the colour of the ambient light. These settings can have a significant effect on the aesthetics of your map.
 
-Aside from light settings, other settings include those for Fog and the skybox, allowing you to further adjust the environment of your map.
-
-- [Creating a map: Lighting*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=7TXHY1_smwU&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=11)
-{.links-list}
 
 ## Units and wrecks
 Similar to props, you can bring extra detail and reclaim to your map by including units and wrecks. Units placed on the map are generally placed as either neutral or hostile civilians. Neutral civilian buildings can be captured or reclaimed by players with little effort. In contrast, any offensive unit or building, such as tanks or point deffence, belonging to hostile civilians will shoot all players that enter their range. By default, none of the civilian units will move, although this behaviour can be modified by scripts.
@@ -197,7 +230,9 @@ If you wish to make changes to your map once it has been uploaded to the vault, 
 - [Maptesting without uploading*A tutorial video on how to test a map without having to upload it to the vault*](https://www.youtube.com/watch?v=EQbP_mXER7M)
 - [About the versioning system *A forum post by Jip on how to make a new version of your map*](https://forum.faforever.com/topic/459/about-the-versioning-system)
 {.links-list}
-## Other basic tutorials
+
+# Further Information
+## Increasing the quality of your map
 While the definition of a good map can vary based on individual taste and playstyle, there exists a consensus on certain aspects that distinguish great maps from the merely good ones. Throughout this guide, we have already touched upon some of these standards while discussing various map elements. However, additional tutorials are presented here to offer further insights and knowledge.
 
 Should you find yourself seeking clarification or are looking to discuss different mapping aspects, we encourage you to join the official FAF discord community. There, you can interact with other passionate map-makers and enthusiasts, sharing your thoughts, ideas, and questions in the Mapping-general channel. This collaborative space serves as an invaluable resource, providing opportunities to learn from experienced map-makers, exchange ideas, and refine your mapping skills.
@@ -208,19 +243,10 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 - [Forum post | Making bad maps better*A lengthy forumpost with images by Biass*](https://forums.faforever.com/viewtopic.php?f=53&t=18647)
 {.links-list}
 
-# Advanced tutorials {#AT}
-## Map files and scripts
-### The Scenario file
-The scenario file contains ... and provides information to the game on ...
-Manual editing of this file is generally not recommended, but may be necessary in some circumstances. [Information on changes to the scenario file is provided here.](/en/Development/Mapping/Further-changes-to-the-scenario-file)
+## Creating maps for the matchmaker pool
+The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
 
-### Changing the map version manually
-Although the Ozonex editor allows you to quickly create a new version of your map, the GPG editor requires some additional steps.
-- [Making a new map version guide for 2018*A forum post tutorial by Biass*](https://forums.faforever.com/viewtopic.php?f=53&t=16397#p165578)
-{.links-list}
-
-### Scripts
-## Custom assets {#AT-CA}
+## Custom assets {#CA}
 The game provides you with a decently large selection of textures to use in your maps. However, if you want to give your map an unique look, or if you just cannot find a texture that works well for your map, you may choose to use custom textures. There are many beautiful custom textures available for download online, and they are often available in higher resolution than the stock textures.
 
 Custom textures, and decals, need to be encoded to a .DDS file format, specifically the (DXT3) BCT2 compression format. Several tutorials on the topic are available.
@@ -234,35 +260,6 @@ Custom textures, and decals, need to be encoded to a .DDS file format, specifica
 {.links-list}
 - [About custom decals and stratums*A forum post by Jip*](https://forum.faforever.com/topic/19/about-custom-decals-and-stratums)
 - [Adding custom textures to FAF*A video tutorial by Morax*](https://www.youtube.com/watch?v=_wXK0aYnz70)
-## WorldMachine
-- [Using Worldmachine and the GPG editor to make a map*A video tutorial series by Lionhardt*](https://www.youtube.com/playlist?list=PLLKHtCMTwATBTx6vrN1ty6xFAByQgh5B-)
-- [World machine tutorial: Basic shapes*A video tutorial on the basics of WorldMachine*](https://www.youtube.com/watch?v=nlWssphJMkY)
-{.links-list}
-
-## Gaea {#Gaea}
-[<img align="right" src="/images/mapping/gaea/gaea_general.png" width="20%">](/en/Development/Mapping/Gaea)
-
-Gaea is a terrain generation tool not unlike WorldMachine, though significantly more modern. The free version of Gaea allows you to create heightmaps up to a 1K resolution, which corresponds to a maximum map size of 20x20KM. 
-
-A tutorial series on using Gaea for FAF mapping was written by IndexLibrorum (AKA Prohibitorum) and introduces the basics of Gaea, how to create terrain, how to create stratum masks, how to texture with Gaea, and how to create map-wide assets.
-- [A tutorial series on using Gaea for FAF mapping*An extensive tutorial series on Gaea by IndexLibrorum*](/en/Development/Mapping/Gaea)
-{.links-list}
-
-## AI
-Artificial Intelligence (AI) provide players with computer-controlled opponents of different skill levels. This feature has garnered significant popularity within the FAF community, with over half of the player base actively participating in AI games. By providing players with the opportunity to challenge intelligent computer opponents, AI enhances the richness and diversity of gameplay options, catering to a wide range of preferences and skill levels. Consequently, maps should aim to be AI compatible, and be designed with AI in mind.
-
-For a comprehensive understanding of how AI functions in FAF, you may refer to the main page on AI. Relevant information in the context of mapping is provided by this tutorial on [best practises to create AI friendly maps](/en/Development/Mapping/ai-friendly-maps). It is recommended to follow these guidelines to ensure your maps are compatible with for AI.
-
-- [About markers: AI markers*Pt.1 of the forum post series on AI markers by Jip*](https://forum.faforever.com/topic/145/about-markers-ai-markers)
-- [About markers: Movement and pathing markers*Pt.2 of the forum post series on AI markers by Jip*](https://forum.faforever.com/topic/343/about-markers-movement-pathing-markers)
-- [Adding AI markers using the GPG editor*A video tutorial by Plasia*](https://www.youtube.com/watch?v=KDO8zf2afhc)
-{.links-list}
-
-## Clouds
-- [About weather: Generating clouds*A forum tutorial on cloud generation by Jip*](https://forum.faforever.com/topic/277/about-weather-generating-clouds)
-{.links-list}
-
-## Skyboxes
 
 ## Adaptive mapping
 Prior to the introduction of adaptive maps, it was a common practice to upload multiple versions of the same map, each modified with slight resource variations (e.g., Canis 4v4, Canis 5v5). However, with the advent of the adaptive map script developed by CookieNoob and KeyBlue (with further modifications by svenni_badbwoi), this is no longer required. Adaptive maps enable the consolidation of several similar map versions into a single map, offering advanced map settings directly accessible from the game lobby. Such settings may allow players to adjust map resources dynamically based on the number of players, as well as add or remove resources, units, and wrecks. Two tutorials, [one legacy tutorial](/en/Development/Mapping/Adaptive-Maps) and [one updated tutorial](/en/Development/Mapping/Adaptive-Mapping-2021) are available.
@@ -277,8 +274,9 @@ However, creating campaigns maps is significantly more involved than creating a 
 - [Coop mission making*A video tutorial series by Speed2*](https://www.youtube.com/playlist?list=PLTEDjzjPnGIrFqmrj_yvOI2icU3dEV_Sc)
 {.links-list}
 
-## Creating maps for the matchmaker pool
-The [matchmaker map pool](/en/Play/Client/tmm) consists of a selection of high quality maps selected by the [matchmaking team](/en/Infrastructure/FAF-Teams). To be eligable for inclusion in the map pool, maps have to meet several [technical](/en/Development/Matchmaker/matchmaker-technical-requirements) and [practical](/en/Development/Matchmaker/matchmaker-practical-requirements), as well as quality standards. Maps submitted for review are reviewed according to a [semi-automated reviewing process](/en/Development/Matchmaker/matchmaker-review).
+## The Scenario file
+The scenario file contains ... and provides information to the game on ...
+Manual editing of this file is generally not recommended, but may be necessary in some circumstances. [Information on changes to the scenario file is provided here.](/en/Development/Mapping/Further-changes-to-the-scenario-file)
 
 # Mapping Tournaments
 Periodically, the FAF community comes together to organize mapping tournaments with the aim of fostering creativity and inspiring mappers to produce exceptional works. These tournaments serve as exciting platforms that challenge map-makers to push the boundaries of their skills and showcase their ingenuity in crafting remarkable and immersive maps. Depending on the tournament, participants may presented with unique challenges and themes, encouraging them to explore innovative concepts and provide an avenue for recognition and celebration of outstanding map-making achievements, as well as encourages collaboration, knowledge sharing, and the evolution of map-making techniques. 
@@ -311,6 +309,4 @@ Many of the veteran mappers have compiled maps, research notes, and comments on 
 {.links-list}
 
 ## Mapping guidelines for creating FAF versions of existing maps
-
-## Troubleshooting
-The map editor is a powerful tool for creating custom maps in Supreme Commander: Forged Alliance, but like with any software, you might encounter various technical issues that can prevent you from creating maps that meet your vision. These issues can range from minor annoyances to serious problems that make it impossible to complete your map. [In the troubleshooting section](/en/Development/Mapping/faf-map-editor-troubleshooting), we'll cover some common technical issues you might encounter while working with the map editor and related files.
+Todo
