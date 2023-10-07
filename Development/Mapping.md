@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-07T13:10:59.833Z
+date: 2023-10-07T13:27:20.438Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -263,7 +263,7 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 {.links-list}
 
 ### Tips
-- Searching for concept art could help with getting inspiration for new maps.
+- Searching for concept art and reference images could help with getting inspiration for new maps. You can find a selection of images [here](https://forum.faforever.com/topic/6304/reference-and-inspiration-thread)
 - Color theory should be applied to make maps visually appealing.
 - Color grading of textures (i.e. editing their hue in an image editor) should be used to create a coherent look of the map and to make textures visally fit into your map that you otherwise couldn't use.
 - The color ramp for water can be edited in an image editor as well.
