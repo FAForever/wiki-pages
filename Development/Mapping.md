@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-07T13:10:09.950Z
+date: 2023-10-07T13:10:59.833Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -154,8 +154,7 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 ## Lighting
 In the lighting tab of the FAF editor, you can adjust various lighting and atmospheric settings. These settings affect the strength of the sun and its placement in the sky: both its height and its direction can be changed. Other settings can be changed to adjust the colour of the sunlight, the colour of the shadows, and the colour of the ambient light. These settings can have a significant effect on the aesthetics of your map.
 
-The light settings are a bit confusing because the shadow color exists and because the code for factoring in the shadow color in the game is a bit convoluted it actually affects not only the shadows, but the entire map.
-So the recommended workflow is to just set the shadow color to 0.
+The light settings are a bit confusing because the shadow color exists and because the code for factoring in the shadow color in the game is a bit convoluted it actually affects not only the shadows, but the entire map. So the recommended workflow is to just set the shadow color to 0.
 Use the ambient color to adjust the look of the shadows and then tune the sun color after that. If you later want to make the whole map brighter or darker you can use the light multiplier. This makes it easier to reason about your lighing settings and which value you should tune to reach a certain effect.
 
 Part of the lighting settings are environment maps. They determine the reflection on shiny parts of the units. Only the gpg editor exposes these settings. The environment map should be chosen by selecting a texture that is close to the colors that your map uses to create the illusion that the units actually reflect the ground and the sky.
