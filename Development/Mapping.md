@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-07T12:29:21.757Z
+date: 2023-10-07T13:10:09.950Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -114,6 +114,19 @@ The placement of water in a map is directly influenced by the terrain's elevatio
 
 [Water settings](/en/Development/Mapping/FA-Forever-Map-Editor#water) can be adjusted to enhance the visual representation of water, such as its transparency, color, or reflections. These settings, in conjunction with the terrain, contribute to the overall aesthetics of the water within the map.
 
+To get the most out of the water settings, do the following:
+Firstly, use the same min and max for the water lerp, otherwise there will be weird effects close to the shore, because that setting actually paints the surface of the water. Instead, the water ramps should be used to color the ground of the terrain to your liking. This also ensures that units underwater will get shaded as expected.
+A small but >0 value for the water lerp in combination with a dark gray surface color is recommended to simulate the light that gets lost when it gets reflected on the surface, i.e. units and terrain under the water line should immediately look a tad darker.
+You should mainly control the look of the water by adjusting the water ramp. Unfortunately these settings are only available in the gpg editor. There you can select one of the water ramp textures that the game provides.
+If you don't like the presets, you can also edit the water ramp manually in an image editor. The alpha value of the water ramp texture represents the depth. The color is the color of the water at that depth. For safest results the color should be the same everywhere and the alpha value should linearly increase from 0 to 1. The first pixel has to have an alpha value of 0 or your whole map will be tinted. For more artistic freedom you can play around with a color gradient. When you start the game with diskwatch enabled, you can edit your water ramp and whenever you save it, the game will immediately load it. Use the gradient tool in e.g. GIMP together with this trick to work with super fast iterations when experimenting with the water.
+If you made a water ramp that works well, please share it in a game dev channel on discord, so we can integrate it in the repository. This way we will over time have a bigger and better collection of water ramps that mappers can choose from and be done with it without manual edits.
+
+You can use higher quality wave textures by using the ones provided by FAF in the textures/engine directory. Either unpack the textures.nx2 archive or get them from [here](https://github.com/FAForever/fa/tree/deploy/fafdevelop/textures/engine)
+
+If you want the sun to be properly reflected in the water you need to set the sun direction for the water to the sun direction the rest of the map uses. Set the sun color to Pi (3.14...) times the sun color you defined for the terrain. (For point lights the light intensity has to be multiplied with Pi to get correct reflection results in our shading model. Without going into details, there is a mathematical reason for this. In the terrain shader we can do it in the shader code, but because the water shader is the same for all maps, you have to do it manually here.)
+Lastly, you should adjust the SunShininess to a greater value to make the reflection sharper.
+As the map editor doesn't allow you to edit these values, you have to export the water settings, change the appropriate values and import the file again.
+
 - [About water: Introduction*Pt.1 of the forum post series on water by Jip*](https://forum.faforever.com/topic/59/about-water-introduction)
 - [About water: Water settings*Pt.2 of the forum post series on water by Jip*](https://forum.faforever.com/topic/64/about-water-settings)
 - [About water: Wave generation*Pt.3 of the forum post series on water by Jip*](https://forum.faforever.com/topic/71/about-water-wave-generation)
@@ -140,6 +153,13 @@ Lastly, you are able to define specify the [terrain type](/en/Development/Mappin
 
 ## Lighting
 In the lighting tab of the FAF editor, you can adjust various lighting and atmospheric settings. These settings affect the strength of the sun and its placement in the sky: both its height and its direction can be changed. Other settings can be changed to adjust the colour of the sunlight, the colour of the shadows, and the colour of the ambient light. These settings can have a significant effect on the aesthetics of your map.
+
+The light settings are a bit confusing because the shadow color exists and because the code for factoring in the shadow color in the game is a bit convoluted it actually affects not only the shadows, but the entire map.
+So the recommended workflow is to just set the shadow color to 0.
+Use the ambient color to adjust the look of the shadows and then tune the sun color after that. If you later want to make the whole map brighter or darker you can use the light multiplier. This makes it easier to reason about your lighing settings and which value you should tune to reach a certain effect.
+
+Part of the lighting settings are environment maps. They determine the reflection on shiny parts of the units. Only the gpg editor exposes these settings. The environment map should be chosen by selecting a texture that is close to the colors that your map uses to create the illusion that the units actually reflect the ground and the sky.
+For optimal results you need to provide two environment maps. One for the land units and one for the navy units. The one for navy units needs to be specified as <water>. Ideally the default one is non-mirrored i.e. it has a sky and land and the water one is mirrored, to simulate the sky reflection on the water surface.
 
 Aside from light settings, other settings include those for Fog and the skybox, allowing you to further adjust the environment of your map.
 
@@ -256,7 +276,8 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 - Did you adjust the skybox?
 - Did you set fitting environment maps?
 - For the water as well?
-- Did you align the sun direction in the water settings?
+- Did you try out different wave textures?
+- Did you align the sun direction in the water settings to create a proper sun reflection?
 
 ## Using a different terrain shader
 FAF provides additional terrain shaders. These alter how the game renders the map and provide opportunity to improve the visual fidelity of the map. As this is pretty new, the tools for dealing with them are not really there yet, so the process is not as streamlined as the rest of mapmaking.
