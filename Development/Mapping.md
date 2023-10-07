@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-07T13:27:20.438Z
+date: 2023-10-07T22:27:07.492Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -283,11 +283,11 @@ FAF provides additional terrain shaders. These alter how the game renders the ma
 
 To change the shader of the map you have to use a software to edit binary files like Hex-Editor MX. With this you open the scmap file in your map folder. Then you search for the string TTerrainXP. This is the name of the standard shader that the map uses. You can change this to make the map use one of the shaders that are explained below. Save the file afterwards.
 You may have to set up your map settings differently depending on what the shader expects as inputs. This is explained in detail in the following sections.
-
-### Terrain001
-Terrain001 uses a mapwide texture to provide custom normals and shadows on the terrain. Previously this could be faked with decals but the decals could sometimes flicker and it would lead to double shadows when units are standing in the terrain shadow. 
-This shader resolves these problems by properly incorporating the texture into the rendering pipeline. This eliminates flickering and units standing in the shadow will not cast an additional shadow.
-The normal texture can be used to add additional details or to just correct the calculations that the game does. The calculations of the normal vector for the terrain by the game are a bit off, so it makes sense to provide  your own.
+  
+  
+### Utility texture
+All the new shaders use a new utility texture to provide custom normals and terrain shadows. Previously this could be faked with decals, but the decals could sometimes flicker and it would lead to double shadows when units are standing in the terrain shadow. The new shaders resolve these problems by properly incorporating the texture into the rendering pipeline. This eliminates flickering and units standing in the shadow will not cast an additional shadow.
+The normal channels can be used to add additional details or to just correct the calculations that the game does. The calculations of the normal vector for the terrain by the game are a bit off, so it makes sense to provide your own.
 Shadow and normal maps can be produced with the help of world machine or gaea. The map generator can also generate them, but feeding it your map is a bit complicated at the moment.
 The texture channels are read like this:
 red: normals x
@@ -295,13 +295,16 @@ green: normals z
 blue: unused
 alpha: shadow
 
-The shadow texture needs to be 1 where the sun reaches and 0 where shadow is.
+The shadow texture needs to be 1 where the sun reaches and 0 where shadow is. The resolution of the texture needs to be a power of two and should sensibly be at least the ogrid resolution of the map, but it can be higher. Just keep in mind that an extremely big texture also consumes a lot of memory.
 The texture needs to be loaded in the upper albedo texture slot. The editor will show the texture like any other texture because the editor doesn't yet feature support for this. You can just hide the texture layer if you find it distracting.
 
 To enable proper usage of this texture you need to set the scale of the upper albedo texture to a value bigger than the size of the map in ogrids (e.g. >512 for a 10x10 map). A value of 10000 will work for any map size.
 
-This shader also features more realistic water absorption. This simulates an exponential absorption of light as it travels through the water. Originally the game uses linear absorption which works as a glance but is not great.
-The game calculates the absorption on units in a different file, so we have to give it a hint to trigger exponential water absorption on the units as well. Set the lighting multiplier to 2.2 or greater. You can tune down the sun and ambient color accordingly to not mess up your lighting. If you skip setting the light multiplier, the color of the sea floor and submerged units will not match, breaking the illusion.
+### Terrain001
+Terrain001 uses the mapwide texture and features exponential water absorption.
+
+This simulates an exponential absorption of light as it travels through the water. Originally the game uses linear absorption which works as a glance but is not great because exponential falloff is the physically correct one.
+The game calculates the absorption on units in a different file, so we have to give it a hint to trigger exponential water absorption on the units as well. To do this, set the lighting multiplier to 2.2 or greater. You can tune down the sun and ambient color accordingly to not mess up your lighting. If you skip setting the light multiplier, the color of the sea floor and submerged units will not match, breaking the illusion.
 After this change you might want to edit the water ramp you are using, because the appearance of the water will change.
 
 ### Terrain002
