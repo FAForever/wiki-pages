@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2023-08-02T06:41:18.418Z
+date: 2023-10-13T14:32:21.710Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -62,13 +62,13 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
-- For an overview of the factions in Supreme Commander visit: [Faction Information](/Learning/Faction-Information)
-- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](/Learning/Adjacency-Bonus)
-- For specific information regarding the Engy mod patch visit: [Engy Mod](/Game-Modifications-(Mods)#engy-mod)
-- To view unit stats, and compare units with each other, visit: [Unit Database](/Unit-Database)
-- To see unit stats and calculations visit: [FA Stats And Calculations](/Learning/FA-Stats-And-Calculations)
-- To view specific info about tactical and strategic missiles, visit: [Missiles](/Learning/Missiles)
-- Capacity of several air types of transport: [Air Transport](/Learning/Air-Transport)
+- For an overview of the factions in Supreme Commander visit: [Faction Information](/Play/Learning/Faction-Information)
+- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](/Play/Learning/Adjacency-Bonus)
+- For specific information regarding the Engy mod patch visit: [Engy Mod](/Play/Game-Modifications-(Mods)#engy-mod)
+- To view unit stats, and compare units with each other, visit: [Unit Database](/Play/Client/Unit-Database)
+- To see unit stats and calculations visit: [FA Stats And Calculations](/Play/Learning/FA-Stats-And-Calculations)
+- To view specific info about tactical and strategic missiles, visit: [Missiles](/Play/Learning/Missiles)
+- Capacity of several air types of transport: [Air Transport](/Play/Learning/Air-Transport)
 
 - The [SupCom Wiki](http://supcom.wikia.com/wiki/Main_Page) is a comprehensive resource about Supreme Commander, however, it is out of date and does not contain accurate values.
 
