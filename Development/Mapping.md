@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-10-07T22:27:58.668Z
+date: 2023-10-27T19:47:57.193Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -158,7 +158,7 @@ The light settings are a bit confusing because the shadow color exists and becau
 Use the ambient color to adjust the look of the shadows and then tune the sun color after that. If you later want to make the whole map brighter or darker you can use the light multiplier. This makes it easier to reason about your lighing settings and which value you should tune to reach a certain effect.
 
 Part of the lighting settings are environment maps. They determine the reflection on shiny parts of the units. Only the gpg editor exposes these settings. The environment map should be chosen by selecting a texture that is close to the colors that your map uses to create the illusion that the units actually reflect the ground and the sky.
-For optimal results you need to provide two environment maps. One for the land units and one for the navy units. The one for navy units needs to be specified as <water>. Ideally the default one is non-mirrored i.e. it has a sky and land and the water one is mirrored, to simulate the sky reflection on the water surface.
+For optimal results you need to provide two environment maps. One for the land units and one for the navy units. The one for navy units needs to be specified as `<water>`. Ideally the default one is non-mirrored i.e. it has a sky and land and the water one is mirrored, to simulate the sky reflection on the water surface.
 
 Aside from light settings, other settings include those for Fog and the skybox, allowing you to further adjust the environment of your map.
 
