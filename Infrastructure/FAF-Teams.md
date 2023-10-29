@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-07-30T19:07:27.073Z
+date: 2023-10-29T08:27:03.119Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -17,7 +17,7 @@ The FAF Teams are groups of FAF contributors who are tasked with diffrent aspect
 These are the current Team Leaders:
 
 - **Trainer Team Leader** 
-	> **TBD**
+	> **Sladow**
   
 - **Community Manager** 
 	> **Azraeelian Angel**
@@ -32,7 +32,7 @@ These are the current Team Leaders:
 	>	**Swkoll**
   
 - **Matchmaking Team Leader:** 
-	>	**Archsimkat**
+	>	**Stormlantern**
 
 - **Balance Team Leader:** 
 	>	**Tagada**
@@ -57,21 +57,19 @@ These are the current Team Leaders:
 ## Tabs {.tabset}
 ### Trainer Team
 
-- Hinthunter
-- Tagada
-- Inspektor_kot
 - F-Odin
-- Javi(Femboy)
 - Sladow
-- ююю (Banani)
 - Cheeseberry
 - Morax
-- grimplex
+- Grimplex
 - LimeZ
 - Gorthaur
 - FtXCommando
 - Skrat
-- harzer99
+- Harzer99
+- Prohibitorum
+- SpikeyNoob
+- Terminal
 
 #### Policies
 We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
