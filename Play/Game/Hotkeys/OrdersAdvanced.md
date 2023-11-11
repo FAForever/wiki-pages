@@ -2,7 +2,7 @@
 title: Orders - Advanced
 description: 
 published: true
-date: 2023-11-11T10:52:48.731Z
+date: 2023-11-11T10:54:14.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-26T15:12:20.626Z
@@ -41,7 +41,7 @@ This is intentional. Due to an engine bug the transports may assign tech 1 units
 </video>
 
 
-## Abort navigation
+## Abort navigation of engineers
 
 Cancels the navigation of the engineers in your selection. A lot of orders have a navigational element in them. For this example we'll take the assist order. The unit will first move in formation around the target that you intend to assist. Usually this is a lot closer to the target then that is technically required. Using this new hotkey you can manually abort the navigation and immediately proceed to applying the order.
 
