@@ -2,7 +2,7 @@
 title: Feedback by StormLantern
 description: 
 published: true
-date: 2023-11-16T08:15:08.518Z
+date: 2023-11-16T08:15:19.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:11.962Z
@@ -14,14 +14,14 @@ dateCreated: 2023-11-16T07:46:11.962Z
 
 The submission is created by CaptainKlutz.
 
-## Kings of Beta Ceti by Stlng
+## Kings of Beta Ceti
 
 The submission is created by Stlng.
 
-## Project Vortex By Prohibitorum
+## Project Vortex
 
 The submission is created by Prohibitorum.
 
-## Stulta Aqua Pugna by TheCrimsonKnight
+## Stulta Aqua Pugna
 
 The submission is created by TheCrimsonKnight.
