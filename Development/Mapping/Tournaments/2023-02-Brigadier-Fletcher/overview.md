@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-11-16T08:15:53.082Z
+date: 2023-11-16T08:20:09.046Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:13.120Z
@@ -19,6 +19,14 @@ dateCreated: 2023-11-16T07:46:13.120Z
 ### Adaptive Fangtooth Islands
 
 The submission is created by CaptainKlutz. You can find other work on the [forums](https://forum.faforever.com/topic/2270/klutz-s-map-emporium) or by searching in the vault for the name 'CaptainKlutz'.
+
+![adaptive-fangtooth-islands-04.png](/images/mapping/tournaments/2023-02-brigadier/adaptive-fangtooth-islands-04.png)
+
+![adaptive-fangtooth-islands-01.png](/images/mapping/tournaments/2023-02-brigadier/adaptive-fangtooth-islands-01.png)
+
+![adaptive-fangtooth-islands-02.png](/images/mapping/tournaments/2023-02-brigadier/adaptive-fangtooth-islands-02.png)
+
+![adaptive-fangtooth-islands-03.png](/images/mapping/tournaments/2023-02-brigadier/adaptive-fangtooth-islands-03.png)
 
 ### Kings of Beta Ceti
 
