@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-11-16T11:47:33.795Z
+date: 2023-11-16T11:53:34.494Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:13.120Z
@@ -10,11 +10,21 @@ dateCreated: 2023-11-16T07:46:13.120Z
 
 # 'Brigadier Fletcher' Mapping tournament
 
+## Tournament theme
+
+The submission should give the user the impression it is on a planet that belongs to the UEF faction. How you achieve this is up to you. You can take inspiration from campaign maps that involve UEF bases and settlements.
+
+<div class="container-preview">
+	<img class="rounded" src="">
+</div>
+
 ## Tournament results
 
-
+<todo>
 
 ## Tournament submissions
+
+
 
 ### Adaptive Fangtooth Islands
 
