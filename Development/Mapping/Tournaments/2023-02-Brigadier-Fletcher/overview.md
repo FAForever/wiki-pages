@@ -2,21 +2,13 @@
 title: Overview
 description: 
 published: true
-date: 2023-11-16T12:12:30.480Z
+date: 2023-11-16T12:59:52.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:13.120Z
 ---
 
 # 'Brigadier Fletcher' Mapping tournament
-
-## Tournament theme
-
-The submission should give the user the impression it is on a planet that belongs to the UEF faction. How you achieve this is up to you. You can take inspiration from campaign maps that involve UEF bases and settlements.
-
-<div class="container-preview">
-	<img src="/images/mapping/tournaments/2023-02-brigadier/theme-01.png">
-</div>
 
 ## Tournament results
 
@@ -34,6 +26,16 @@ CaptainKlutz | Adaptive Fangtooth Islands | ? | ? | ? | ? | ?
 Stlng | Kings of Beta Ceti | ? | ? | ? | ? | ?
 Prohibitorum | Project Vortex | ? | ? | ? | ? | ?
 TheCrimsonKnight | Stulta Aqua Pugna | ? | ? | ? | ? | ?
+
+## Tournament theme
+
+The submission should give the user the impression it is on a planet that belongs to the UEF faction. How you achieve this is up to you. You can take inspiration from campaign maps that involve UEF bases and settlements.
+
+<div class="container-preview">
+	<img src="/images/mapping/tournaments/2023-02-brigadier/theme-01.png">
+</div>
+
+
 
 ## Tournament submissions
 
