@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-11-16T12:11:36.124Z
+date: 2023-11-16T12:11:42.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:13.120Z
@@ -28,7 +28,7 @@ Any grading is subjective. The results therefore represent the collective opinio
 
 The combined points are:
 
-Name of the author | Map that is submitted |  AI (up to 6) | Theme (up to 8) | Aesthetics (up to 10)  | Gameplay (up to 16) | Total (up to 40)
+Name of the author | Submission |  AI (up to 6) | Theme (up to 8) | Aesthetics (up to 10)  | Gameplay (up to 16) | Total (up to 40)
 -|-|-|-|-|-
 CaptainKlutz | Adaptive Fangtooth Islands | ? | ? | ? | ? | ?
 Stlng | Kings of Beta Ceti | ? | ? | ? | ? | ?
