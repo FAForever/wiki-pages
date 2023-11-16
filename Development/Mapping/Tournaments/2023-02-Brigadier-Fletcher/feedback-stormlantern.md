@@ -1,11 +1,11 @@
 ---
-title: 'Brigadier Fletcher' Mapping tournament - Feedback by StormLantern
-description: ''
-published: false
-date: 2023-06-24T21:01:36.791Z
-tags: mapping, tournament, feedback, maps
+title: Feedback by StormLantern
+description: 
+published: true
+date: 2023-11-16T07:51:43.149Z
+tags: 
 editor: markdown
-dateCreated: 2022-08-12T22:17:59.915Z
+dateCreated: 2023-11-16T07:46:11.962Z
 ---
 
 # 'Brigadier Fletcher' Mapping tournament - Feedback by StormLantern
