@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-11-16T12:12:05.614Z
+date: 2023-11-16T12:12:30.480Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:13.120Z
@@ -22,9 +22,9 @@ The submission should give the user the impression it is on a planet that belong
 
 Any grading is subjective. The results therefore represent the collective opinion of the graders. You can find their reasoning in separate pages:
 
-- [Reasoning of Deribus](en/Development/Mapping/Tournaments/2023-02-Brigadier-Fletcher/feedback-deribus)
-- [Reasoning of Jip](en/Development/Mapping/Tournaments/2023-02-Brigadier-Fletcher/feedback-jip)
-- [Reasoning of StormLantern](en/Development/Mapping/Tournaments/2023-02-Brigadier-Fletcher/feedback-stormlantern)
+- [Reasoning of Deribus](/en/Development/Mapping/Tournaments/2023-02-Brigadier-Fletcher/feedback-deribus)
+- [Reasoning of Jip](/en/Development/Mapping/Tournaments/2023-02-Brigadier-Fletcher/feedback-jip)
+- [Reasoning of StormLantern](/en/Development/Mapping/Tournaments/2023-02-Brigadier-Fletcher/feedback-stormlantern)
 
 The combined points are:
 
