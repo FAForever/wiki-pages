@@ -2,7 +2,7 @@
 title: Feedback by Deribus
 description: 
 published: true
-date: 2023-12-03T09:43:59.326Z
+date: 2023-12-03T09:54:47.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:09.671Z
@@ -235,12 +235,12 @@ The most obvious are the targeting issues. Direct fire units will sometimes refu
 
 You also seem to be forced to rush T2 air for the transports. An ACU dropped on basically any island secures it, as there won't be any land to contest and early navy isn't numerous enough to punish an ACU. 
 
-*However* if all that were fixed I do see the beginnings of a fun map. There are clumps of mexes to draw fighting, a few different ways for navy to attack, and very difficult to defend bases which should lead to aggressive gameplay. _I score this higher than Project Vortex because its issues are fixable, whereas Project Vortex' seem inherent to the map design._
+*However* if all that were fixed I do see the beginnings of a fun map. There are clumps of mexes to draw fighting, a few different ways for navy to attack, and very difficult to defend bases which should lead to aggressive gameplay. __I score this higher than Project Vortex because its issues are fixable, whereas Project Vortex' seem inherent to the map design.__
 
 ### Project Vortex: 4/16
 This map is incredibly difficult to play on, especially for hypothetical lower skilled players (not me obviously). There no mex clumps outside of spawn, so you can't focus your attention and resources anywhere specific, the entire map is equally important. Expanding is also hard because you have to drop mexes almost individually, which can be a problem because of the aforementioned drop problems. In a PvP game instead of vs AI this might not be not as taxing to play on because the other player will have similar focusing issues, but I don't expect it to make too much a difference. You end up throwing all your units face first into the enemy spawn because there aren't any clumps of resources to warrant raiding.
 
-Hover is also a massive advantage because you can send cheap hover units to mess with islands one after the other without worrying about potential pathfinding issues from navy. Although it was nice to see an actual purpose to T1 subs, because of all the spread out underwater mexes they can raid and be difficult to find. _I score this lower than Kings of Beta Ceti because its issues seem inherent to the map design, whereas Kings of Beta Ceti's are fixable._
+Hover is also a massive advantage because you can send cheap hover units to mess with islands one after the other without worrying about potential pathfinding issues from navy. Although it was nice to see an actual purpose to T1 subs, because of all the spread out underwater mexes they can raid and be difficult to find. __I score this lower than Kings of Beta Ceti because its issues seem inherent to the map design, whereas Kings of Beta Ceti's are fixable.__
 
 ### Stulta Aqua Pugna: 16/16
 I... struggle to put into words just how much I enjoyed playing this map. The spawns mean there is a 3v1 on each side, but that one player gets a massive starting bonus via the aforementioned pgens. Their teammates are also not too far away to help out, and indeed their best naval factory positions encourage helping their last player. Plus there's tons of opportunities for drops, proxy bases, naval raiding... ugh it's so good. Could use a few underwater mexes though for the early T1 sub gameplay I praised other other maps for. And maybe one or two big masses on the islands next to the solo player, get some early fightin' over there.
