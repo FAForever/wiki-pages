@@ -2,7 +2,7 @@
 title: Feedback by Deribus
 description: 
 published: true
-date: 2023-12-03T09:54:47.075Z
+date: 2023-12-03T10:00:41.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:09.671Z
@@ -192,7 +192,7 @@ It's UEF all right, but all the UEF stuff is broken. This feels like a *used to 
 
 ### Kings of Beta Ceti: 6/8
 
-For sure feels like an active UEF base, but is short on UEF-specific decals.
+For sure feels like an active UEF base, but is short on UEF-specific decals. I like the additional theming in the preview though!
 
 ### Project Vortex: 7/8
 
@@ -204,7 +204,7 @@ This really feels like a living, breathing, UEF planet. Short of a massive city 
 
 ## Aesthetics
 
-### Adaptive Fangtooth Islands: 4/10
+### Adaptive Fangtooth Islands: 5/10
 
 It feels a little... dead. The islands outside of spawn are pretty barren, and there aren't any decals underwater. The lack of any texture transition between land and water is jarring too. Could use a lil sprucing up.
 
@@ -242,18 +242,18 @@ This map is incredibly difficult to play on, especially for hypothetical lower s
 
 Hover is also a massive advantage because you can send cheap hover units to mess with islands one after the other without worrying about potential pathfinding issues from navy. Although it was nice to see an actual purpose to T1 subs, because of all the spread out underwater mexes they can raid and be difficult to find. __I score this lower than Kings of Beta Ceti because its issues seem inherent to the map design, whereas Kings of Beta Ceti's are fixable.__
 
-### Stulta Aqua Pugna: 16/16
+### Stulta Aqua Pugna: 15/16
 I... struggle to put into words just how much I enjoyed playing this map. The spawns mean there is a 3v1 on each side, but that one player gets a massive starting bonus via the aforementioned pgens. Their teammates are also not too far away to help out, and indeed their best naval factory positions encourage helping their last player. Plus there's tons of opportunities for drops, proxy bases, naval raiding... ugh it's so good. Could use a few underwater mexes though for the early T1 sub gameplay I praised other other maps for. And maybe one or two big masses on the islands next to the solo player, get some early fightin' over there.
 
 ## Totals:
 
-### Adaptive Fangtooth Islands: 26/40
+### Adaptive Fangtooth Islands: 27/40
 
 ### Kings of Beta Ceti: 20/40
 
 ### Project Vortex: 22.9999/40
 See first impressions section for why it got a point reduction. >:(
 
-### Stulta Aqua Pugna: 36/40
+### Stulta Aqua Pugna: 35/40
 
 # Love you all and I hope I didn't hurt any feelings! Good work everyone, and Jip for hosting!
