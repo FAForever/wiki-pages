@@ -2,7 +2,7 @@
 title: Feedback by StormLantern
 description: 
 published: true
-date: 2023-12-04T19:24:35.690Z
+date: 2023-12-04T19:29:37.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:11.962Z
@@ -182,3 +182,15 @@ What I like:
 
 What I dislike:
 - A little backstory in the map description could have added to the theme. 
+
+
+
+## Totals:
+
+### Adaptive Fangtooth Islands: 25/34
+
+### Kings of Beta Ceti: 23/34
+
+### Project Vortex: 23.5/34
+
+### Stulta Aqua Pugna: 21.5/34
