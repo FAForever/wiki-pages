@@ -2,7 +2,7 @@
 title: Feedback by StormLantern
 description: 
 published: true
-date: 2023-12-04T19:10:09.673Z
+date: 2023-12-04T19:11:35.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:11.962Z
@@ -55,7 +55,40 @@ What I dislike:
 
 ## Kings of Beta Ceti
 
-The submission is created by Stlng.
+The submission is created by Sting.
+
+**Total points: 23**
+
+**Strategy** (Strategy score based on the points below:  **9 out of 16**)
+What I like:
+- There are some really nice elements like the capturing of early t2 tech and a cruiser, that make for interesting early game strategy options. I think there is some interesting reclaim elements.
+- Even though all mexes can be killed by t1 navy, there is quite a bit of distance between the bases and there are a lot of mexes very close to the base, at least allowing for some eco and tech scaling. This way most games will not solely be t1 navy spam. T1 navy is still a bit too important on this map. Many games will probably not see t3 navy or air. 
+- Everyone has a clear opponent, but there is also plenty of options to help out your teammates, so that the game is not basically four 1v1’s.
+
+What I dislike:
+- The fact there is so little land, makes it a pure navy/air map. It’s usually more fun, when you can at least have some small land skirmishes, even on a navy map. 
+- The small cubes make it awkward to build, structure and defend your base. 
+- I dislike that the reclaim is so randomly distributed across the map. It’s more convenient (and less APM intensive) for the player when the reclaim is distributed in somewhat clumped up patches. 
+- The UEF cranes carry little to no mass for reclaiming. The player is not expected to know this, and not getting this mass can impede his plans/BO in a mild way.
+- The UEF administration building has a lot of hp and mass, giving unexpected reclaim timings and income, since the player has no way of knowing which buildings carry a lot of mass and which don’t. Better to keep all buildings’ reclaim value and HP somewhat on the average side.
+
+**Aesthetics** (Aesthetics score based on points below: **8 out of 10**)
+What I like:
+- Making a map look good that has mainly square cubes for land seems impossible, but it somehow worked here. The cubes are submerged right under the water line, allowing the player to build and walk on there. The surface of the cubes look really good. 
+- Great looking skybox, that fits with the dark otherworldly aesthetics of the map overall. Especially with the misty clouds on top as well. Very nice. 
+
+What I dislike:
+- A lot of players often have problems with darker looking maps, depended on their monitor and game settings. 
+- With so little land and no vegetation, there is only so much you can do artistically.
+
+**Theme ** (Theme score based on the points below:  **6 out of 8**)
+What I like:
+- The backstory is really nice and fits well with the props used and the lay-out of the terrain. 
+- Especially the little harbor area surrounding the capturable UEF navy factory looks really neat. 
+
+What I dislike:
+- I’m pretty sure there is supposed to be only 1 Black Sun weapon. Having it on both sides, kind of breaks with the game lore.
+
 
 ## Project Vortex
 
