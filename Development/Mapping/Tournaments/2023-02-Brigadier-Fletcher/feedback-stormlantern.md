@@ -2,7 +2,7 @@
 title: Feedback by StormLantern
 description: 
 published: true
-date: 2023-12-04T19:15:20.115Z
+date: 2023-12-04T19:24:35.690Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:11.962Z
@@ -145,6 +145,8 @@ What I dislike:
 ## Stulta Aqua Pugna
 
 The submission is created by TheCrimsonKnight.
+
+**Total points: 21,5**
 
 **Strategy** (Strategy score based on the points below: **7 out of 16**)
 What I like:
