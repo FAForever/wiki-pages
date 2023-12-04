@@ -2,7 +2,7 @@
 title: Feedback by StormLantern
 description: 
 published: true
-date: 2023-12-04T19:14:42.229Z
+date: 2023-12-04T19:15:20.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:11.962Z
@@ -89,7 +89,7 @@ What I dislike:
 
 
 
-**Theme ** (Theme score based on the points below:  **6 out of 8**)
+**Theme** (Theme score based on the points below:  **6 out of 8**)
 What I like:
 - The backstory is really nice and fits well with the props used and the lay-out of the terrain. 
 - Especially the little harbor area surrounding the capturable UEF navy factory looks really neat. 
