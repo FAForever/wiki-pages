@@ -2,7 +2,7 @@
 title: Feedback by StormLantern
 description: 
 published: true
-date: 2023-12-04T19:09:16.901Z
+date: 2023-12-04T19:10:09.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:11.962Z
@@ -13,6 +13,8 @@ dateCreated: 2023-11-16T07:46:11.962Z
 ## Adaptive Fangtooth Islands
 
 The submission is created by CaptainKlutz.
+
+**Total points: 25**
 
 **Strategy** (Strategy score based on the points below: **13 out of 16**)
 What I like:
