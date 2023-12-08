@@ -2,8 +2,8 @@
 title: Feedback by Deribus
 description:
 published: true
-date: 2023-12-03T10:00:41.576Z
-tags:
+date: 2023-12-08T09:45:10.655Z
+tags: 
 editor: markdown
 dateCreated: 2023-11-16T07:46:09.671Z
 ---
@@ -145,6 +145,8 @@ For naval pathing I spawned a Cybran frigate and saw where it could and couldn't
 
 To check which plateaus were too small to drop, I filled a bunch of UEF T3 transports with T1 engineers and made 3 attempts to drop each one where there was either a mex or decent mass to reclaim. A green check mark means all three attempts succeeded, a yellow circle means at least one succeeded, and a red x means none of them succeeded.
 ![project_vortex_drops.jpg](/mapping_tournaments/deribus-brigadier-fletcher/project_vortex_drops.jpg)
+
+Picture speaks for itself I think, most of the islands were functionally un-droppable.
 
 #### Invulnerable ACU
 
