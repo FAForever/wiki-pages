@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-10-30T20:57:24.150Z
+date: 2023-12-05T15:57:29.293Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -236,7 +236,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - Stormlantern
 #### Members
 - Archsimkat
-- Archsimkat
 - FTXCommando
 - Blodir
 - Tagada
@@ -289,7 +288,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - Farmsletje
 - SpikeyNoob
 - Blodir
-
+- Rowey
 
 #### Associates
 
