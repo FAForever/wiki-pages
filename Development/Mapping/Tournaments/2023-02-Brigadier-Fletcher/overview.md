@@ -1,9 +1,9 @@
 ---
 title: Overview
-description: 
+description:
 published: true
 date: 2023-11-16T12:59:52.019Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2023-11-16T07:46:13.120Z
 ---
@@ -20,12 +20,31 @@ Any grading is subjective. The results therefore represent the collective opinio
 
 The combined points are:
 
-Name of the author | Submission |  AI (up to 6) | Theme (up to 8) | Aesthetics (up to 10)  | Gameplay (up to 16) | Total (up to 40)
--|-|-|-|-|-
-CaptainKlutz | Adaptive Fangtooth Islands | ? | ? | ? | ? | ?
-Stlng | Kings of Beta Ceti | ? | ? | ? | ? | ?
-Prohibitorum | Project Vortex | ? | ? | ? | ? | ?
-TheCrimsonKnight | Stulta Aqua Pugna | ? | ? | ? | ? | ?
+| Author                        | Map                        | AI (up to 6) | Theme (up to 8) | Aesthetics (up to 10) | Strategy (up to 16) | Total   |
+| ----------------------------- | -------------------------- | ------------ | --------------- | --------------------- | ------------------- | ------- |
+| ** Grading of Deribus **      |                            |              |                 |                       |                     |         |
+| CaptainKlutz                  | Adaptive Fangtooth Islands | 6.0          | 3.0             | 5.0                   | 13.0                | 27      |
+| Sting                         | King of Beta Ceti          | 3.0          | 6.0             | 5.0                   | 6.0                 | 20      |
+| Prohibitorum                  | Project Vortex             | 2.0          | 7.0             | 10.0                  | 4.0                 | 22.9999 |
+| TheCrimsonKnight              | Stulta Aqau Pugna          | 5.0          | 7.0             | 8.0                   | 15.0                | 35      |
+| ** Grading of Jip **          |                            |              |                 |                       |                     |         |
+| CaptainKlutz                  | Adaptive Fangtooth Islands | 4.5          | 6.5             | 7.5                   | 13.5                | 32      |
+| Sting                         | King of Beta Ceti          | 5.5          | 6.5             | 11                    | 6                   | 29      |
+| Prohibitorum                  | Project Vortex             | 5.5          | 6.5             | 9.25                  | 11.75               | 33      |
+| TheCrimsonKnight              | Stulta Aqau Pugna          | 5.75         | 7.5             | 8.5                   | 15                  | 37      |
+| ** Grading of Stormlantern ** |                            |              |                 |                       |                     |         |
+| CaptainKlutz                  | Adaptive Fangtooth Islands | -            | 5.0             | 7.0                   | 13.0                | 25      |
+| Sting                         | King of Beta Ceti          | -            | 6.0             | 8.0                   | 9.0                 | 23      |
+| Prohibitorum                  | Project Vortex             | -            | 7.5             | 8.0                   | 8.0                 | 23.5    |
+| TheCrimsonKnight              | Stulta Aqau Pugna          | -            | 6.0             | 8.5                   | 7.0                 | 21.5    |
+
+| Author                 | Map                        | AI (up to 12) | Theme (up to 24) | Aesthetics (up to 30) | Strategy (up to 48) | Total |     |
+| ---------------------- | -------------------------- | ------------- | ---------------- | --------------------- | ------------------- | ----- | --- |
+| ** Combined grading ** |                            |               |                  |                       |                     |       |     |
+| CaptainKlutz           | Adaptive Fangtooth Islands | 10.5          | 14.5             | 19.5                  | 39.5                | 84    | 2nd |
+| Sting                  | King of Beta Ceti          | 8.5           | 18.5             | 24                    | 21                  | 72    | 4th |
+| Prohibitorum           | Project Vortex             | 7.5           | 21               | 27.25                 | 23.25               | 79    | 3rd |
+| TheCrimsonKnight       | Stulta Aqau Pugna          | 10.75         | 20.5             | 25.0                  | 37                  | 93,25 | 1st |
 
 ## Tournament theme
 
@@ -35,11 +54,7 @@ The submission should give the user the impression it is on a planet that belong
 	<img src="/images/mapping/tournaments/2023-02-brigadier/theme-01.png">
 </div>
 
-
-
 ## Tournament submissions
-
-
 
 ### Adaptive Fangtooth Islands
 
