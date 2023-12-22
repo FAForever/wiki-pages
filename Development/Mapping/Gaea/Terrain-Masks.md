@@ -2,7 +2,7 @@
 title: Producing Terrain Masks in Gaea
 description: A tutorial on the process of creating terrain masks using Gaea
 published: true
-date: 2023-08-26T08:35:48.243Z
+date: 2023-12-22T12:51:23.196Z
 tags: mapping, gaea, masks, mask
 editor: markdown
 dateCreated: 2023-06-24T18:00:53.840Z
@@ -12,6 +12,7 @@ dateCreated: 2023-06-24T18:00:53.840Z
 
 The various map projects I've made have all been made possible by Quadspinner's Gaea, a terrain design application for VFX and games. Gaea is an industry standard and a great tool to significantly speed up creating or increasing the complexity of masks, heightmaps, and decals. Because of FAF's peculiarities and the fact that the game is more than a decade old, the process of producing masks using Gaea is a bit involved. Being the shiny beacon of enlightenment that I am, I will here share my workflow for making these masks.
 
+## Prerequisites
 This tutorial assumes you've got a basic understanding of image editing and FAF mapping. Additionally, it is suggested you familiarize yourself with the concept of *visual node based programming*. A very rudimentary understanding of Gaea is also required: while I will discuss the relevant nodes and how they work, I will leave familiarizing yourself with the software for self study. Watch a few youtube tutorials on the basics, or read the general introduction to Gaea [here](https://docs.quadspinner.com/Guide/index.html).
 
 Required for this tutorial is a copy of Gaea (the indie version is free to use and more than sufficient for maps up to 20km), which can be downloaded [here](https://quadspinner.com/download). Additionally, an image editor such as Photoshop or Gimp is required, though the free to use online photoshop-clone [Photopea](https://www.photopea.com/) works fine too, as is the FAF map editor.
