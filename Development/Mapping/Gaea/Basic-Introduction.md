@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-12-22T12:30:18.402Z
+date: 2023-12-22T12:41:57.309Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -135,7 +135,7 @@ The greyscale values can also serve to create selections: effects of nodes can b
 
 By using masks, you get infinitely more control over how nodes are applied. One example might be limiting where erosion is applied. In the fourth panel of *figure 10*, the erosion is applied to the whole mountain. As an example, we will now limit the erosion to only half of the mountain.
 
-To do this, we first set up our mountain and apply the `Wizard` erosion node. Then, we create our mask. The mask that we need to limit the erosion to only half of the mountain is a mask that is half white, and half black. Only in the white regions will the erosion effect be applied. To create a full white heightmap, we could take the `Constant` node and set it to 100% height. Using a `Transform` node, we could then move the `Constant` node halfway off of the workspace. As there is no information on the now empty half of the heightmap, these pixels will be black. The results is a heightmap that is white in one half of the image, and black on the other half. When we then use the output of this `Transform` node and chain it as the mask-input of the `Wizard` node, we get the result we intend (*figure 12*).
+To do this, we first set up our mountain and apply the `Wizard` erosion node. Then, we create our mask. The mask that we need to limit the erosion to only half of the mountain is a mask that is half white, and half black. Only to the white regions will the erosion effect be applied. To create a full white heightmap, we may take the `Constant` node and set it to 100% height. Using a `Transform` node, we could then move the `Constant` node halfway off of the workspace. As there is no information on the now empty half of the heightmap, these pixels will be black. The results is a heightmap that is white in one half of the image, and black on the other half. When we then use the output of this `Transform` node and chain it as the mask-input of the `Wizard` node, we get the result we intend (*figure 12*).
 
 ![masks2_copy.png](/images/mapping/gaea/basics/masks2_copy.png)
 >*Figure 12: The erosion effect is applied to half of the mountain using a mask. Panel 2 and 3 both show the same node, but the display mode differs. The bottom panel shows the Graph to create this effect. The `Fold` node shown was used to slightly alter the result of `Mountain` node, and does not affect the process of making a mask.*
