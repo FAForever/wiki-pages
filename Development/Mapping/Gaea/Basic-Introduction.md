@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-08-26T08:34:42.249Z
+date: 2023-12-22T12:28:05.287Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -117,9 +117,9 @@ So far, we've discussed how nodes can be used to create the terrain for your map
 
 In games such as FAF, a greyscale image creates the terrain. Every pixel of the image has a greyscale value, which ranges from 0, complete black, to 256, complete white. The value of each pixel corresponds to the height of that pixel when it is used to render the terrain. A full white pixel is at maximum height, while a black pixel is at the minimum height. Any values between 0 and 256 correspond to a height somewhere in between the minimum and the maximum. 
 
-Gaea similarly translates greyscale pixels to terrain. By default, the viewport renders the resulting 3D terrain for you, but by changing the display mode we can visualize the flat greyscale image. Right clicking on any node and select *Show as, Mask*, or by selecting a node and pressing `T`, will change how the viewport renders that node. You will now see the greyscale pixels for your heightmap.
+Gaea similarly translates greyscale pixels to terrain. By default, the viewport renders the resulting 3D terrain for you, but by changing the display mode we can visualize the flat greyscale image. Right clicking on any node and selecting *Show as > Mask*, or by selecting a node and pressing `T`, will change how the viewport renders that node. You will now see the greyscale pixels for your heightmap.
 
-It might be that the greyscale value is still overlaid on the 3D model, rather than shown as a flat plane. This is because Gaea always shows two layers: the node and the underlay. The underlay is the geometry that Gaea projects the contents of a node on top of. This is generally selected automatically, but similarly to how you can freeze a node into the viewport by pressing `F`, a node can be chosen to serve as underlay frozen by pressing `G`. To visualize the greyscale image as on a flat plane, you can create a `Constant, 0% height` node and select that as underlay. 
+It might be that the greyscale value is still overlaid on the 3D model, rather than shown as a flat plane. This is because Gaea always shows two layers: the node and the underlay. The underlay is the geometry that Gaea projects the contents of a node on top of. This is generally selected automatically, but similarly to how you can freeze a node into the viewport by pressing `F`, a node can be locked to stay visible as underlay by pressing `G`. To visualize the greyscale image as on a flat plane, you can create a `Constant, 0% height` node and select that as underlay. 
 
 If the image is dark and you would like more contrast to see the different structures, you may press the *Show raw data* button and the *Enhanced view* button on the right side of the view port (*figure 11*).
 
