@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-22T14:38:51.618Z
+date: 2023-12-22T14:40:18.193Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -46,7 +46,7 @@ Used properly, these three layers add a lot visually to the map, and let you tak
 ## Map-wide shadows
 Shadows are added to add to the already existing shadows that the game renders. However, the shadows rendered by the game are not very visible, and adding custom shadows adds a lot visually. The main node that is used to create the shadows is the light node. The light node simulates sunlight, lets you modify the sun's position in the sky, and renders shadows, ambient occlusion, and diffuse light. These layers can be used either together, or just the shadows layer on its own, to add higher quality light effects to your map.
 ## Map-wide normals
-Map-wide normals are very similar to the 
+Map-wide normals are very similar to the small normals that you find shipped with the editor, and behaves similarly. They are added to fake terrain details were there are none, adding things like cracks, bumps, and erosion patterns to mountains and flat terrain alike.
 ## Map-wide albedo
 Map-wide albedo's are based on the map texture created within gaea. For a detailed explanation on how to produce a textured map, see the tutorial.
 
