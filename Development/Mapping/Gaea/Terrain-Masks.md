@@ -2,7 +2,7 @@
 title: Producing Terrain Masks in Gaea
 description: A tutorial on the process of creating terrain masks using Gaea
 published: true
-date: 2023-12-22T12:51:23.196Z
+date: 2023-12-22T13:46:20.165Z
 tags: mapping, gaea, masks, mask
 editor: markdown
 dateCreated: 2023-06-24T18:00:53.840Z
