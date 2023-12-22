@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-12-22T12:28:05.287Z
+date: 2023-12-22T12:30:18.402Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -121,11 +121,11 @@ Gaea similarly translates greyscale pixels to terrain. By default, the viewport 
 
 It might be that the greyscale value is still overlaid on the 3D model, rather than shown as a flat plane. This is because Gaea always shows two layers: the node and the underlay. The underlay is the geometry that Gaea projects the contents of a node on top of. This is generally selected automatically, but similarly to how you can freeze a node into the viewport by pressing `F`, a node can be locked to stay visible as underlay by pressing `G`. To visualize the greyscale image as on a flat plane, you can create a `Constant, 0% height` node and select that as underlay. 
 
-If the image is dark and you would like more contrast to see the different structures, you may press the *Show raw data* button and the *Enhanced view* button on the right side of the view port (*figure 11*).
+If the image is dark and you would like more contrast to see the different structures, you may press the *Show raw data* button and the *Enhanced view* button on the right side of the view port (*see figure 11, buttons highlighted on the right side of panel 4*).
 
 Since the greyscale value of each pixel is a number, we can easily make selections based on these values. The *Data* category of nodes contains a lot of nodes that we need to do such selections. The `Height` node lets you make selections based on the height of the terrain, which corresponds to the higher greyscale value. Similarly, `Slope` allows you to make selections of pixels that are at a certain angle, by calculating the relationship of a pixel with its neighbours.
 
-For a more extensive introduction to *Data* nodes to create masks, please see the Gaea tutorial on Masking. 
+For a more extensive introduction to *Data* nodes and their use in mask creation, please see the Gaea tutorial on [Terrain masks](/en/Development/Mapping/Gaea/Terrain-Masks). 
 
 ![masks.png](/images/mapping/gaea/basics/masks.png)
 >*Figure 11: The 3D image, and the corresponding greyscale representation of the raw data for the heightmap. The three greyscale images show the heightmap projected on the 3D model, on a flat plane, and on a flat plane with Enhanced view enabled.*
