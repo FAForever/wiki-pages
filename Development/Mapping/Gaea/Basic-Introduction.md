@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-12-22T12:41:57.309Z
+date: 2023-12-22T12:50:10.621Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -15,7 +15,7 @@ The various map projects I've made have all been made possible by Quadspinner's 
 > *Figure 1: a breakdown of the map Project Luminary to show all the assets generated in Gaea. Note: some of the stratum textures are stock-FAF textures and were not created in Gaea, but are here included to illustrate the different components of the map.*
 
 ## Prerequisites 
-This tutorial assumes you've got a basic understanding of image editing and FAF mapping. Additionally, while this specific tutorial will explain some of the basics of *visual node based programming*, the technique Gaea uses to create the assets, it is recommended that you take some time to familiarize yourself with the concept and Gaea in particular. [This 6-minute video](https://www.youtube.com/watch?v=1A1xXfTlKqM) is highly recommended, as is giving [the general documentation for gaea](https://docs.quadspinner.com/Guide/index.html) a read. Using this node system may look daunting at first, but is very intuitive and easy to learn.
+This tutorial assumes you've got a basic understanding of image editing and FAF mapping. Additionally, it is suggested you familiarize yourself with the concept of *visual node based programming*. While this specific tutorial will explain some of the basics of *visual node based programming*, the technique Gaea uses to create the assets, it is recommended that you take some time to familiarize yourself with the concept. [This 6-minute video](https://www.youtube.com/watch?v=1A1xXfTlKqM) is highly recommended, as is giving [the general documentation for gaea](https://docs.quadspinner.com/Guide/index.html) a read. Using this node system may look daunting at first, but is very intuitive and easy to learn.
 
 ### Required tools
 Required for this tutorial is a copy of Gaea (the indie version is free to use and more than sufficient for maps up to 20km), which can be downloaded [here](https://quadspinner.com/download). Additionally, an image editor such as Photoshop or Gimp is required, though the free to use online photoshop-clone [Photopea](https://www.photopea.com/) works fine too. Finally, you need to have installed the FAF map editor.
