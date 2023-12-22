@@ -2,11 +2,14 @@
 title: Terminology
 description: An exhaustive list of terms and definitions
 published: true
-date: 2023-07-20T07:34:02.135Z
+date: 2023-12-22T13:07:47.666Z
 tags: terms, terminology, definitions, the words mason, what do they mean
 editor: markdown
 dateCreated: 2023-07-18T06:35:43.693Z
 ---
+
+>This article should be expanded. You can help by editing it.
+{.is-warning}
 
 In tutorials and converstations with other mappers we use specific words to refer to specific elements of map making. However, some terms in these contexts may lack precise or consistent definitions, leading to potential misunderstandings and ambiguity. For others, the meaning may be unclear at first glance, making it difficult for beginning mappers to understand what is meant. In order to provide a clear and concise reference for essential concepts in FAF mapping, this section present a list of key terms and their definitions. Definitions for terms that are not specific to FAF mapping may be found in the [Glossary](/en/FAQ/Glossary).
 
