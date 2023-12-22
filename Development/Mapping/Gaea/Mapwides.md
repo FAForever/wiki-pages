@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-22T14:23:42.954Z
+date: 2023-12-22T14:25:54.343Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -36,7 +36,11 @@ In this tutorial specifically, I will be using the noun *texture* to mean those 
 ## General introduction to map-wide assets
 Map wide assets are an extra method to improve the aestethics of a map. They have a lot in common with the default decals, in that they add extra details, colour, and fake terrain complexity. As the name implies, they differ from normal decals in that they affect the whole map with one file. Most commonly, three types of map-wide assets are used: those that add shadows, those that add colour (albedo), and those that add normals.
 
-Size limits, generally use 4 to 8k resolution for map-wide normals and albedos. Shadows require much less detail and are fine if exported at 1k. All assets have to be tweaked so that they don't overwhelm the rest of the map. Shadows should be low opacity to not look out of place, normals should be made in a way that they don't imply very rough terrain where it is flat so players aren't confused and it's not visually cluttered. Albedo's need to be setup in a way so that they enhance the existing texture, not replace it. Because of the inherent limitation to the resolution of the albedo asset (filesize, slowing the game, max 16k and that's not enough anyway) 
+Size limits, generally use 4 to 8k resolution for map-wide normals and albedos. Shadows require much less detail and are fine if exported at 1k. All assets have to be tweaked so that they don't overwhelm the rest of the map. Shadows should be low opacity to not look out of place, normals should be made in a way that they don't imply very rough terrain where it is flat so players aren't confused and it's not visually cluttered. Albedo's need to be setup in a way so that they enhance the existing texture, not replace it. Because of the inherent limitation to the resolution of the albedo asset (filesize, slowing the game, max 16k and that's not enough anyway), it is not possible to texture a whole map with just map-wide assets if that map is larger than about 5km size. If tried anyway, zooming in will show pixelated textures. 
+
+!!! Check w/ Sting to see if he disagrees, he used map-wide albedos for texturing a lot.
+
+Used properly, these three layers add a lot visually to the map, and let you take your map from *good* to *great*.
 
 
 ## Map-wide shadows
