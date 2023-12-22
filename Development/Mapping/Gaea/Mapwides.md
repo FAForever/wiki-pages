@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-22T13:06:23.481Z
+date: 2023-12-22T13:44:34.907Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -30,5 +30,22 @@ In my conversations with others in the FAF discord's mapping-general channel, I'
 
 In this tutorial specifically, I will be using the noun *texture* to mean those little tile-able images you may use in the FAF editor to cover a stratum. The verb *to texture* will be used to refer to everything that has to do with applying colour and textures to the terrain. When using colour-nodes in Gaea to add colour to the terrain, I will be refering to the product of those nodes as a *texture design*  or *map design*. Such a *map design* can be used to create what other tutorials refer to as *map wide albedo-decals* or *texture decals*, the use of which is explained in a seperate tutorial.
 
->Note that the terminology list does not include the specific names for less common terms, such as the names of 
+>Note that the terminology list does not include the specific names for less common terms, such as the names of elements of Gaea, as those are defined in their respective tutorials.
+
+# The use and creation of map-wide assets
+## General introduction to map-wide assets
+## Map-wide shadows
+## Map-wide normals
+## Map-wide albedo
+
+# Applying map-wide assets to maps
+## As decals
+### Decal presets
+## Using the new shaders
+### General introduction new shaders
+### Creating combined shader-accepted files in Gaea
+#### Shadows and albedo
+#### Normals
+
+
 
