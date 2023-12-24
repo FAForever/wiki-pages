@@ -16,9 +16,9 @@ If you are looking for some more resources as a new player, please consult:
 
 [New Starter Guide](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit)
 
-[Three Essential Habits for the New Player](/Learning/Three-Essential-Habits-for-the-New-Player)
+[Three Essential Habits for the New Player](/Play/Learning/Three-Essential-Habits-for-the-New-Player)
 
-If you still need to setup Forged Alliance and the FAF client: [Setting Up FAF](/FAQ/Client-Setup).
+If you still need to setup Forged Alliance and the FAF client: [Windows Install](/Play/Windows-Install) [Linux Install](/Play/Linux-Install).
 
 ## Introduction
 
@@ -36,7 +36,7 @@ Let's start gaining knowledge! There are a bunch of words you'll need to know be
 - mapcontrol = how much on the map you control, doesn't necessarily have to be mass points (for example holding the area between two expansions of the opponent)
 - buildpower = how fast a unit can build, repair, capture, and reclaim
 
-This is a very small part of the [Glossary](/Glossary). Visit that for a longer list.
+This is a very small part of the [Glossary](/FAQ/Glossary). Visit that for a longer list.
 
 ### Economy - The basics
 
@@ -152,7 +152,7 @@ A build order where the ACU builds a land factory, followed by an air factory. S
 - Move to front line or help produce more factories (the first is better)
 
 The First Engineers build:
-- 1st Engie: Hydro, 1-2 Pgns, Air factory attached to hydro (for the [Adjacency Bonus](/Learning/Adjacency-Bonus))
+- 1st Engie: Hydro, 1-2 Pgns, Air factory attached to hydro (for the [Adjacency Bonus](/Play/Learning/Adjacency-Bonus))
 - 2nd Engie: Assist building hydro, expand, reclaim
 - 3rd Engie: Expand, reclaim, or assist ACU in factory production
 
@@ -175,7 +175,7 @@ There's a lot of stuff to say about the ACU, so let's start with the basics: str
 
 A Cybran ACU fighting 15 Seraphim tanks ---
 
-You can see the ACU didn't have a lot of health left, something you definitely want to avoid from happening! But you can also see the ACU took out 15 tanks, which is a lot. If the ACU had some backup, maybe 5 tanks for example, it wouldn't have been in trouble at all. You can also notice the ACU was under attack by all 15 tanks the whole time, we'll see what we can do to avoid this in [2.4 Intel](/Learning/Beginners-Guide-to-Forged-Alliance#intel).
+You can see the ACU didn't have a lot of health left, something you definitely want to avoid from happening! But you can also see the ACU took out 15 tanks, which is a lot. If the ACU had some backup, maybe 5 tanks for example, it wouldn't have been in trouble at all. You can also notice the ACU was under attack by all 15 tanks the whole time, we'll see what we can do to avoid this in [2.4 Intel](/Play/Learning/Beginners-Guide-to-Forged-Alliance#intel).
 
 **Veterancy**
 Everything that can kill gets veterancy after it desroys a certain amount of mass (double the unit's own cost for most units). This means that if a unit deals damage to an enemy unit but doesn't get the kill on it, it will still advance towards its next veterancy. The amount it advances is determined by the enemy unit's cost and the amount of damage your unit dealt to it. The ACU for example needs roughly 20 T1 tank kills to get its first veterancy (1k mass killed). You can only get a maximum of five veterancies. Why? Each time a unit gets veterancy its health will not only increase, but it'll also get a certain amount of its health back. The ACU for example extends its health capacity by around 1K (depending on the faction) and gets 10% of its health back by the first veterancy, for free!
@@ -253,7 +253,7 @@ Pro's:
 Con's:
 - T1 Bombers don't have a good precision, making them less efficient to kill the opponent's expanding engineers at the early game.
 
-For more information on intermediate-level play check the [UEF 1v1 Guide](/Learning/UEF-1v1-Guide).
+For more information on intermediate-level play check the [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide).
 
 **Cybran - Freedom!** A faction that's more difficult to play, but has many tools which make it interesting.
 Pro's:
@@ -263,7 +263,7 @@ Con's:
 - T1 Bombers have a bad precision, making them inefficient vs units, and can sometimes fail to kill enemy expanding engineers.
 - No Mobile Shields
 
-For more information on intermediate-level play check the [Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide).
+For more information on intermediate-level play check the [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide).
 
 **Seraphim - Destruction!** This faction has very strong units, and some good defenses, especially shields, but there are less of them.
 Pro's:
@@ -273,7 +273,7 @@ Pro's:
 Con's:
 - They have a distinct lack of units - such as no LABs
 
-For more information on intermediate-level play check the [Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide).
+For more information on intermediate-level play check the [Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide).
 
 **Aeon - Clarity!** One of the harder factions to play due to some quirks with their tanks, but very rewarding when used correctly.
 Pro's:
@@ -284,4 +284,4 @@ Con's:
 - T1 Aurora has very low hp, is quite slow, and requires constant attention.
 - T2 Obsidian is slow and low ranged, and not as good vs T1 as other T2 tanks.
 
-For more information on intermediate-level play check the [Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide).
+For more information on intermediate-level play check the [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide).

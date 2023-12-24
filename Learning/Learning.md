@@ -14,38 +14,38 @@ This page is intended to help you learn how to play Forged Alliance. The game ha
 This wiki contains one complete guide to playing Forged Alliance, with the FAF client. The guide in this wiki is split into different sections, which are constantly being worked on and should provide a comprehensive coverage of the game and its various aspects.
 
 ### Setting up Supreme Commander: Forged Alliance and the FAF client
-If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Setting Up FAF](/FAQ/Client-Setup).
+If you need information on how to setup Supreme Commander: Forged Alliance and the FAF client, please read [Windows Install](/Play/Windows-Install) and [Linux Install](/Play/Linux-Install).
 
 ### Introduction and Basic Game Mechanics
 This is intended for players new to Supreme Commander, but if you are a returning player this could be useful as it provides a sound knowledge base and encourages good habits.
-- [Beginner's Guide to Forged Alliance](/Learning/Beginners-Guide-to-Forged-Alliance)
+- [Beginner's Guide to Forged Alliance](/Play/Learning/Beginners-Guide-to-Forged-Alliance)
 
 Here is a guide for new players who want to improve and compete within the community.
-- [Three Essential Habits for the New Player](/Learning/Three-Essential-Habits-for-the-New-Player)
+- [Three Essential Habits for the New Player](/Play/Learning/Three-Essential-Habits-for-the-New-Player)
 
 Microing units effectively can be a difficult task, but with the right knowledge it can give you a huge advantage.
-- [Unit Micro](/Learning/Unit-Micro)
+- [Unit Micro](/Play/Learning/Unit-Micro)
 
 ### In depth 1v1 Guide
 This section covers everything you need to know about playing ladder matches and 1v1 games. This part is split into 5 guides: a general guide for 1v1, and 4 faction specific guides, designed to be read after the general guide.
-<img src="/images/random_faction.png" align="center"> [General 1v1 Guide](/Learning/General-1v1-Guide)
+<img src="/images/random_faction.png" align="center"> [General 1v1 Guide](/Play/Learning/General-1v1-Guide)
 In order to minimize overlap between the faction specific guides, the common information has been gathered into this general purpose guide.
 
 These guides are here to show you specific strategies, and help you play to their strengths:
-- [Aeon 1v1 Guide](/Learning/Aeon-1v1-Guide)
-- [Cybran 1v1 Guide](/Learning/Cybran-1v1-Guide)
-- [Seraphim 1v1 Guide](/Learning/Seraphim-1v1-Guide)
-- [UEF 1v1 Guide](/Learning/UEF-1v1-Guide)
+- [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide)
+- [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide)
+- [Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide)
+- [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide)
 
 ### Reference materials and detailed game mechanics
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
-- For an overview of the factions in Supreme Commander visit: [Faction Information](/Learning/Faction-Information)
-- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](/Learning/Adjacency-Bonus)
-- For specific Information regarding the Engy mod patch visit: [Engy Mod](/Game-Modifications-(Mods)#engy-mod)
-- To view unit stats, anc compare units with each other, visit: [Unit Database](/Unit-Database)
-- To see unit stats and calculations visit: [FA Stats And Calculations](/Learning/FA-Stats-And-Calculations)
-- To view specific info about tactical and strategic missiles, visit: [Missiles](/Learning/Missiles)
-- Capacity of several air transports: [Air Transport](/Learning/Air-Transport)
+- For an overview of the factions in Supreme Commander visit: [Faction Information](/Play/Learning/Faction-Information)
+- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](/Play/Learning/Adjacency-Bonus)
+- For specific Information regarding the Engy mod patch visit: [Engy Mod](/Play/Game-Modifications-(Mods)#engy-mod)
+- To view unit stats, anc compare units with each other, visit: [Unit Database](/Play/Client/Unit-Database)
+- To see unit stats and calculations visit: [FA Stats And Calculations](/Play/Learning/FA-Stats-And-Calculations)
+- To view specific info about tactical and strategic missiles, visit: [Missiles](/Play/Learning/Missiles)
+- Capacity of several air transports: [Air Transport](/Play/Learning/Air-Transport)
 
 ## Tutorial Videos
 
@@ -64,7 +64,7 @@ As you can notice some of the videos are not mentioned below, that is because th
 
 ## Replay Analysis
 
-It's always the same, you lost a game and you are asking yourself: Why? Why have I lost? You are looking at the [replay](/Replays-&-Live-Games) again and again, but there is no answer ...
+It's always the same, you lost a game and you are asking yourself: Why? Why have I lost? You are looking at the [replay](/Client/Replays-&-Live-Games) again and again, but there is no answer ...
 
 FAF offers Replay Analysis avalable in #gameplay-and-training channel on the FAF Discord all other players who will like to help, will try to have a look on your replay and give you a feedback about your game.
 
