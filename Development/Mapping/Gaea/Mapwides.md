@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-27T12:47:35.379Z
+date: 2023-12-27T13:14:23.602Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -40,9 +40,25 @@ Map wide assets are an extra method to improve the aestethics of a map. They hav
 
 By and large, there are two main ways to apply these decals to your map. The first way is by applying them as you would any other decal. This involves rendering the asset as an image, encoding them as a .dds file, and loading them through the resource viewer onto your map. The second method involves loading the assets into one of the stratum layers, essentially using them as a texture. Both techniques, as well as their individual benefits and disadvantages, will be discussed in detail later in this tutorial.
 
+Map-wide assets further differ from the default decals in that they are typically rather large. It is not recommended to render map-wide assets in less than 4k or 8k resolution, depending on your mapsize. This large resolution is necessary to achieve a high enough level of detail to ensure the decals are not pixelated when seen up close, such as when a player zooms all the way in. Naturally, as the decal has to be stretched further to cover larger maps, larger maps require higher resolutions. Consequently, for a 5km map a 4k map-wide decal might suffice, but a 8k resolution might barely be sufficient for a 20km map. 
+
+***-> Image of low/high res zoomed in/zoomed out. Comparison side by side. Difference for 5k/20k map. Same map, rescaled.***
+
+This advice is less relevant for map-wide shadow decals. As these decals are generally significantly less complex and do not need crisp edges as much as map-wide normals do, they may be rendered at resolutions as low as 0.5k. Lower resolutions benefit the eventual size of the map folder, which will quickly increase as larger resolution assets are added: it is not uncommon to see a mapfolder grow from 1-10MB to as much as 250MB after adding two high-resolution assets. It is important to keep this in mind, as this results in slow download speeds for players with slower internet connections.
+
+Similar to the default decals, map-wide assets should be carefully used so as not to overwhelm the other elements of your map. The idea of texturing a whole map in one go using a map-wide albedo might sound seductive, but as previously explained in the [texturing tutorial](https://wiki.faforever.com/en/Development/Mapping/Gaea/Texturing#a-review-of-texturing-basics), this approach will not be able to approach the same level of resolution that can be achieved with the tiled textures. Furthermore, bold colours and overly busy patterns only add to visual noise, which makes maps unpleasant to play. As such, it is better to use map-wide albedo decals to accentuate existing textures, add colour variation and adjustments, and to break up the repeating pattern tiled-textures might make. 
+
+Similarly, while map-wide normals are used to fake details in the geometry of the heightmap where there aren't any, care should be taken to ensure this does not confuse the player. Making mountain look rougher than they actually are is typically fine, but doing the same to flat terrain might give players the impression 
+
+As with all elements of map design, the effect of the design on the readability of the map needs to be kept in mind.
+
+It is important 
 
 
-Size limits, generally use 4 to 8k resolution for map-wide normals and albedos. Shadows require much less detail and are fine if exported at 1k. All assets have to be tweaked so that they don't overwhelm the rest of the map. Shadows should be low opacity to not look out of place, normals should be made in a way that they don't imply very rough terrain where it is flat so players aren't confused and it's not visually cluttered. Albedo's need to be setup in a way so that they enhance the existing texture, not replace it. Because of the inherent limitation to the resolution of the albedo asset (filesize, slowing the game, max 16k and that's not enough anyway), it is not possible to texture a whole map with just map-wide assets if that map is larger than about 5km size. If tried anyway, zooming in will show pixelated textures. 
+
+
+
+All assets have to be tweaked so that they don't overwhelm the rest of the map. Shadows should be low opacity to not look out of place, normals should be made in a way that they don't imply very rough terrain where it is flat so players aren't confused and it's not visually cluttered. Albedo's need to be setup in a way so that they enhance the existing texture, not replace it. Because of the inherent limitation to the resolution of the albedo asset (filesize, slowing the game, max 16k and that's not enough anyway), it is not possible to texture a whole map with just map-wide assets if that map is larger than about 5km size. If tried anyway, zooming in will show pixelated textures. 
 
 !!! Check w/ Sting to see if he disagrees, he used map-wide albedos for texturing a lot.
 
