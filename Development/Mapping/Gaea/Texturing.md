@@ -2,7 +2,7 @@
 title: Texturing in Gaea
 description: A tutorial on the process of texturing the terrain in Gaea
 published: true
-date: 2023-12-22T13:02:28.454Z
+date: 2023-12-27T13:03:53.946Z
 tags: mapping, gaea, textures, texturing
 editor: markdown
 dateCreated: 2023-07-30T10:48:41.754Z
@@ -35,7 +35,7 @@ In this tutorial specifically, I will be using the noun *texture* to mean those 
 {.is-info}
 
 # A review of texturing basics
-In this tutorial I will introduce a workflow that aims to emulate the way that textures are applied in FAF. We will setup a graph that emulates a maximum of nine stratums, one base stratum and 8 stratums with accompanying stratum masks, stacked on top of eachother. However, the texturing in Gaea will always be an approximation of what the map will look like in the FAF editor, as the approach differs in a few critical areas. Firstly, FAF uses tiled textures: textures are repeated over the map and exposed to certain parts of the terrain using masks. Interestingly, in some way this results in both higher and lower resolution. The resolution of the textures for each pixel of the heightmap will be bigger in game: the tiled textures, especially at a low zoom-level, will result in far higher pixel density per area of the map than compared to a map-wide decal. However, since these textures are tiled, the textures aren't specific to individual pixels of the terrain heightmap, except in the sense that they are exposed to specific parts of the terrain. 
+In this tutorial I will introduce a workflow that aims to emulate the way that textures are applied in FAF. We will setup a graph that emulates a maximum of nine stratums, one base stratum and 8 stratums with accompanying stratum masks, stacked on top of eachother. However, the texturing in Gaea will always be an approximation of what the map will look like in the FAF editor, as the approach differs in a few critical areas. Firstly, FAF uses tiled textures: textures are repeated over the map and exposed to certain parts of the terrain using masks. Interestingly, in some way this results in both higher and lower resolution. The resolution of the textures for each pixel of the heightmap will be higher in game: the tiled textures, especially at a low zoom-level, will result in far higher pixel density per area of the map than compared to a map-wide decal. However, since these textures are tiled, the textures aren't specific to individual pixels of the terrain heightmap, except in the sense that they are exposed to specific parts of the terrain. 
 
 Alternatively, you could texture a map using a map-wide albedo decal. Unlike tiled textures, this approach will allow you to be very specific in assign colours and texture to specific parts of the map. However, due to file size restrictions you will not be able to approach the resolution per heightmap-pixel that tiled textures will provide you. Although 16K textures might suffice for 5km maps, generally the resulting file size makes using this approach prohibitive. As a result, map-wide albedo decals should not be depended on to texture the full map without support from the tiled textures.  
 
