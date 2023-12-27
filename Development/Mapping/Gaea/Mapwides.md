@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-27T13:14:23.602Z
+date: 2023-12-27T14:49:16.245Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -48,22 +48,11 @@ This advice is less relevant for map-wide shadow decals. As these decals are gen
 
 Similar to the default decals, map-wide assets should be carefully used so as not to overwhelm the other elements of your map. The idea of texturing a whole map in one go using a map-wide albedo might sound seductive, but as previously explained in the [texturing tutorial](https://wiki.faforever.com/en/Development/Mapping/Gaea/Texturing#a-review-of-texturing-basics), this approach will not be able to approach the same level of resolution that can be achieved with the tiled textures. Furthermore, bold colours and overly busy patterns only add to visual noise, which makes maps unpleasant to play. As such, it is better to use map-wide albedo decals to accentuate existing textures, add colour variation and adjustments, and to break up the repeating pattern tiled-textures might make. 
 
-Similarly, while map-wide normals are used to fake details in the geometry of the heightmap where there aren't any, care should be taken to ensure this does not confuse the player. Making mountain look rougher than they actually are is typically fine, but doing the same to flat terrain might give players the impression 
+***-> add images of several maps that use it properly. Some of sting's work, some Jip stuff***
 
-As with all elements of map design, the effect of the design on the readability of the map needs to be kept in mind.
+Similarly, while map-wide normals are used to fake details in the geometry of the heightmap where there aren't any, care should be taken to ensure this does not confuse the player. Making mountain look rougher than they actually are is typically fine, but doing the same to flat terrain might give players the impression that units cannot cross and buildings cannot be build. As with all elements of map design, the effect of the design on the readability of the map needs to be kept in mind.
 
-It is important 
-
-
-
-
-
-All assets have to be tweaked so that they don't overwhelm the rest of the map. Shadows should be low opacity to not look out of place, normals should be made in a way that they don't imply very rough terrain where it is flat so players aren't confused and it's not visually cluttered. Albedo's need to be setup in a way so that they enhance the existing texture, not replace it. Because of the inherent limitation to the resolution of the albedo asset (filesize, slowing the game, max 16k and that's not enough anyway), it is not possible to texture a whole map with just map-wide assets if that map is larger than about 5km size. If tried anyway, zooming in will show pixelated textures. 
-
-!!! Check w/ Sting to see if he disagrees, he used map-wide albedos for texturing a lot.
-
-Used properly, these three layers add a lot visually to the map, and let you take your map from *good* to *great*.
-
+Used properly, these three types of decalls will add a lot visually to the map, and let you take your map from *good* to *great*.
 
 ## Map-wide shadows
 The game engine renders shadows for structures, units, and props. Clearly visible shadows for the terrain are largely absent, however. Using map-wide shadow decals, 
