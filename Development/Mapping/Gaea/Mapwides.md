@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-28T14:46:48.567Z
+date: 2023-12-28T14:57:16.652Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -63,7 +63,11 @@ Creating a shadow decal in Gaea is a straightforward process utilizing the `Ligh
 ***->image map without/with shadows/with complex shadows***
 
 ### Creating a basic shadow decal in Gaea
-To create a shadow decal in Gaea, we take our heightmap add the `Light` node to our graph.
+To create a shadow decal in Gaea, the first step is to prepare the heightmap we will be using as a source. 
+- If you have created the terrain for your map entirely within Gaea, we're all set: all that is needed is to add a `Light` node to the end of your graph.
+- If you have created most of the terrain within Gaea, but have since made modifications in the FAF editor or with other software, or have made the heightmap in another software entirely, we will have to import the heightmap into Gaea. This can be done with a `File` node, and using it to load the heightmap image. It may be that the vertical scale of the imported terrain is different from what you see in the FAF editor. In this case, you may need to rescale the height, which can be done using the 'Multiply' [modifier parameter](https://wiki.faforever.com/en/Development/Mapping/Gaea/Basic-Introduction#modifier-parameters). Once imported and properly scaled, a `Light` node should then be added.
+
+After preparing the heightmap and connecting the `Light` node, we may change the settings of the `Light` node. Important settings to adjust are the position of the sun in the sky.
 
 Node use, light settings. Matching to editor settings, explain difference in values. Rendering, encoding, opacity. 
 
