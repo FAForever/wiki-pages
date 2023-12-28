@@ -2,14 +2,14 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-28T13:48:11.877Z
+date: 2023-12-28T14:46:48.567Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
 ---
 
 # Gaea tutorial: Creating map-wide assets in Gaea
-This tutorial focuses on creating map-wide assets in Gaea. These tutorial will discuss the creation of custom shadows, map-wide normals, and map-wide albedo decals. Additionally, this tutorial will explain the two main ways these assets can be applied to your map, and will include a discussion on the newly developed shaders.
+This tutorial focuses on creating map-wide assets in Gaea. Here, I will discuss the creation of custom shadows, map-wide normals, and map-wide albedo decals. Additionally, this tutorial will explain the two main ways these assets can be applied to your map, and will include a discussion on the newly developed shaders.
 
 >When specific nodes are referenced, they are highlighted like this: `Node`. Specific parameters for these nodes are written like this: `Slope, 30, 90, 0`, to specify a `Slope` node with Parameters 30 (min), 90 (Max), and 0 (Falloff).
 {.is-info}
@@ -19,10 +19,11 @@ This tutorial assumes you've got a basic understanding of image editing and FAF 
 
 Required for this tutorial is a copy of Gaea (the indie version is free to use and more than sufficient for maps up to 20km), which can be downloaded [here](https://quadspinner.com/download). Additionally, an image editor such as Photoshop or Gimp is required, though the free to use online photoshop-clone [Photopea](https://www.photopea.com/) works fine too. Lastly, you will need the the FAF map editor.
 
-As with texturing in the FAF editor, applying textures to specific areas of the terrain requires masks. Creating masks in Gaea is relatively simple, but allows for high detail and complexity. As such, a seperate tutorial has been made available here. 
+Creating map-wide assets requires you to have prepared the basics of a map in advance. For the creation of a shadow and a normal-map decal, your heightmap should be finished. It is not necessary for your map to have been created within Gaea: you are able to export the heightmap from the FAF editor and import it into Gaea for further processing. For the creation of a map-wide albedo decal, you should already have most of your map texture design completed within the FAF editor. It is not required to have textured your map in Gaea, although to create a map-wide albedo decal you will need to do some texturing in Gaea. If you are unfamiliar with how to do this, you should refer to the previous parts of this tutorial series.
 
 - [General introduction to Gaea*Official documentation*](https://docs.quadspinner.com/Guide/index.html)
 - [Producing terrain masks in Gaea*Producing stratum masks for texturing*](/en/Development/Mapping/Gaea/Terrain-Masks)
+- [Texturing in Gaea*Creating a texture design for your map within Gaea*](/en/Development/Mapping/Gaea/Texturing)
 {.links-list}
 
 ## Terminology
@@ -62,6 +63,8 @@ Creating a shadow decal in Gaea is a straightforward process utilizing the `Ligh
 ***->image map without/with shadows/with complex shadows***
 
 ### Creating a basic shadow decal in Gaea
+To create a shadow decal in Gaea, we take our heightmap add the `Light` node to our graph.
+
 Node use, light settings. Matching to editor settings, explain difference in values. Rendering, encoding, opacity. 
 
 ### Creating an advanced shadow decal in Gaea
