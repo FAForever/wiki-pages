@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-28T08:39:01.302Z
+date: 2023-12-28T13:48:11.877Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -50,24 +50,48 @@ Similar to the default decals, map-wide assets should be carefully used so as no
 
 ***-> add images of several maps that use it properly. Some of sting's work, some Jip stuff***
 
-Similarly, while map-wide normals are used to fake details in the geometry of the heightmap where there aren't any, care should be taken to ensure this does not confuse the player. Making mountain look rougher than they actually are is typically fine, but doing the same to flat terrain might give players the impression that units cannot cross and buildings cannot be build. As with all elements of map design, the effect of the design on the readability of the map needs to be kept in mind.
+Similarly, while map-wide normals are used to fake details in the geometry of the heightmap where there aren't any, care should be taken to ensure this does not confuse the player. Making mountains look rougher than they actually are is typically fine, but doing the same to flat terrain might give players the impression that units cannot cross and buildings not be build. As with all elements of map design, the effect of the design on the readability of the map needs to be kept in mind.
 
-Used properly, these three types of decalls will add a lot visually to the map, and let you take your map from *good* to *great*.
+Used properly however, these three types of decalls will add a lot visually to the map, and let you take your map from *good* to *great*.
 
 ## Map-wide shadows
-The game engine renders shadows for structures, units, and props. Clearly visible shadows for the terrain are largely absent, however. Using map-wide shadow decals, 
+While the game engine inherently renders shadows for structures, units, and props, visible shadows for the terrain are often lacking. The integration of map-wide shadow decals addresses this gap, enhancing both the visual aesthetics and realism of the terrain, while providing clearer visual cues about the map's topography.
 
-Shadows are added to add to the already existing shadows that the game renders. However, the shadows rendered by the game are not very visible, and adding custom shadows adds a lot visually. The main node that is used to create the shadows is the light node. The light node simulates sunlight, lets you modify the sun's position in the sky, and renders shadows, ambient occlusion, and diffuse light. These layers can be used either together, or just the shadows layer on its own, to add higher quality light effects to your map.
+Creating a shadow decal in Gaea is a straightforward process utilizing the `Light` node. This node acts as a sunlight simulator, allowing modification of the sun's position in the virtual sky and rendering shadows, ambient occlusion, and diffuse light. A basic shadow decal can be crafted using only the shadow output. For a more nuanced composition, including ambient occlusion and diffuse light outputs adds subtle ambient-occlusion-related shadows and highlights to the terrain.
+
+***->image map without/with shadows/with complex shadows***
+
+### Creating a basic shadow decal in Gaea
+Node use, light settings. Matching to editor settings, explain difference in values. Rendering, encoding, opacity. 
+
+### Creating an advanced shadow decal in Gaea
+Node use, light settings. Using all exports. Splitting ambient occlusion into white and dark in photoshop. Creating composite, finetuning opacity values. 
 
 ## Map-wide normals
-Map-wide normals are very similar to the small normals that you find shipped with the editor, and behaves similarly. They are added to fake terrain details were there are none, adding things like cracks, bumps, and erosion patterns to mountains and flat terrain alike.
+A map-wide normal decal is very similar to the small normals that are by default included with the editor, and behaves similarly. Normal decals are added to a map to fake complex and detailed  looking terrain, without having to adjust the underlying heightmap. In this way, details like cracks, bumps, and erosion patterns can be added to mountains and flat terrain alike, without messing with unit pathing. 
+
+Creating map-wide normal decals in Gaea involves the utilization of the `Normal` node, as well as a specific cluster of nodes to make the necessary adjustments to the output of the `Normal` node. 
+
+### Creating a map-wide normal decal in Gaea
+Node use, strength, Y-flip. Adding new details using erosion nodes etc as a source rather than the 'plain' heightmap. Node-cluster to create the FAF supported format (green/orange instead of blue/purple). Splat, RGBA-A output, how different channels combine into one layer and how to adjust individual channels. Adjusting transparancy (red channel). Difference between RGB/RGBA. Rendering, resolution, filetype. Encoding using imagemagick. 
+
+***->image without/with normals***
+
+
+Ensuring coherence with the in-game environment, it's essential to align the direction of the normals with existing in-game lighting sources. This alignment guarantees that the added surface details seamlessly integrate with the natural lighting conditions. While introducing normal decals, attention should be paid to potential discrepancies that might arise, such as normal conflicts with unit or building elements. 
+
+
 
 ## Map-wide albedo
 Map-wide albedo's are based on the map texture created within gaea. For a detailed explanation on how to produce a textured map, see the tutorial.
 
+### Creating a map-wide albedo decal in Gaea
+
 # Applying map-wide assets to maps
 ## As decals
 Encoding, placing, positioning, issues.
+
+While incorporating the shadow decal, consideration should be given to potential double shadows, where the game renders unit and building shadows atop the terrain shadow. While the issue of double shadows is relatively minor, a new method has been introduced to address and mitigate this occurrence."
 
 ### Templates
 As map-wide assets are directly derived from your (height)map, it is critical that they are precisely aligned with the terrain. As getting the scale and position of the decal exactly right is a bit of a hassle, templates with placeholders have been produced and published under a CC license by Jip. More
