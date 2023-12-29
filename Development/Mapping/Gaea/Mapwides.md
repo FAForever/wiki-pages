@@ -2,7 +2,7 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-28T14:57:16.652Z
+date: 2023-12-29T14:52:09.229Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
@@ -65,11 +65,21 @@ Creating a shadow decal in Gaea is a straightforward process utilizing the `Ligh
 ### Creating a basic shadow decal in Gaea
 To create a shadow decal in Gaea, the first step is to prepare the heightmap we will be using as a source. 
 - If you have created the terrain for your map entirely within Gaea, we're all set: all that is needed is to add a `Light` node to the end of your graph.
-- If you have created most of the terrain within Gaea, but have since made modifications in the FAF editor or with other software, or have made the heightmap in another software entirely, we will have to import the heightmap into Gaea. This can be done with a `File` node, and using it to load the heightmap image. It may be that the vertical scale of the imported terrain is different from what you see in the FAF editor. In this case, you may need to rescale the height, which can be done using the 'Multiply' [modifier parameter](https://wiki.faforever.com/en/Development/Mapping/Gaea/Basic-Introduction#modifier-parameters). Once imported and properly scaled, a `Light` node should then be added.
+- If you have created most of the terrain within Gaea, but have since made modifications in the FAF editor or with other software, or have made the heightmap in another software entirely, we will have to import the heightmap into Gaea. This can be done with a `File` node, and using it to load the heightmap image. It may be that the vertical scale of the imported terrain is different from what you see in the FAF editor. In this case, you may need to rescale the height, which can be done using the 'Multiply' [modifier parameter](https://wiki.faforever.com/en/Development/Mapping/Gaea/Basic-Introduction#modifier-parameters). Once imported and properly scaled, a `Light` node needs to be added.
 
-After preparing the heightmap and connecting the `Light` node, we may change the settings of the `Light` node. Important settings to adjust are the position of the sun in the sky.
+After preparing the heightmap and connecting the `Light` node, we must change the settings of the `Light` node. Important settings to adjust are the two sliders that control the position of the sun in the sky, as that determines the direction and length of your shadows. To ensure that the shadows that we will be adding align with the shadows that are already in the game, we have to match the `Light` node settings with the Light settings in the FAF editor. For the elevation slider, which controls the height of the sun in the sky, we may copy the value straight from the FAF editor. The values for the azimuth slider, however, cannot be copied straight from FAF editor, because the FAF editor puts the sun at a different position for the '0' value. Consequently, alligning the shadows can best done by eye. 
 
-Node use, light settings. Matching to editor settings, explain difference in values. Rendering, encoding, opacity. 
+Once set-up correctly, connect an `Invert` node to the *Shadows* output of the light node. This creates an image that consists of a black background, with the shadows showing in white. This image, when added to the map in the editor as a decall, is what will create the shadows. It is important to `Invert` the *Shadows* output of the lightnode, rather than use it straight from the node where shadows are black on a white background, because the FAF editor interprets black as a transparant background, and non-black as something that should be visible.
+
+***-> Image of nodes setup correctly***
+
+Marking the `Invert` node for exporting—by selecting it and pressing <kbd>F3</kbd>, or by right-clicking on the node and selecting *'Mark for export'*—will put this node in the list of the *Build* tab. For map-wide shadow decals, exporting the file as *.png* at a resolution of 512px or 1024px works for most uses. All other export options may be left on their default settings. 
+
+Once rendered, the image should be encoded to .DDS by any of the methods previously discussed, after which it is ready to be added to the map.
+
+***-> Check if the above works as explained. Different from normal workflow, this follows EsAihSix's workflow. Verify, and credit.***
+
+Alternative method involves rendering straight from node, making transparant, keeping shadows not white but black, and adjusting opacity. 
 
 ### Creating an advanced shadow decal in Gaea
 Node use, light settings. Using all exports. Splitting ambient occlusion into white and dark in photoshop. Creating composite, finetuning opacity values. 
