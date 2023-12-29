@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-12-28T14:54:07.011Z
+date: 2023-12-29T14:35:17.687Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -33,7 +33,7 @@ Gaea is a graph-based application for creating terrain and focussed on providing
 ### The workspace
 As of June 2023, a typical workspace in Gaea might look like *Figure 2.* The workspace can be configured to your preferences, with different panels moved or scaled. The largest part of the screen is taken up by the viewports and the graph surface. The viewport shows you the terrain and masks, the view of which can be rotated, scaled, and panned. Optionally, you can press the `2D` button in the viewport toolbar to show the second, top-down, viewport. Below the viewports, you will see the graph surface, where your nodes and their connections are displayed. Clicking on a node will show the contents of that node in the viewports. 
 
->Tip: you can lock the viewport to show one specific node by selecting the node and pressing `F` on the keyboard. The node will be marked with a small green circle on the bottom right of the node to indicate the viewport is locked on that node. This is very useful when you are adjusting parameters of nodes earlier in the chain, but want to see the result on a specific node later in the chain. Press F again while selecting the node to unlock the viewport.
+>Tip: you can lock the viewport to show one specific node by selecting the node and pressing <kbd>F</kbd> on the keyboard. The node will be marked with a small green circle on the bottom right of the node to indicate the viewport is locked on that node. This is very useful when you are adjusting parameters of nodes earlier in the chain, but want to see the result on a specific node later in the chain. Press <kbd>F</kbd> again while selecting the node to unlock the viewport.
 {.is-info}
 
 ![workspace.png](/images/mapping/gaea/basics/workspace.png)
@@ -117,9 +117,9 @@ So far, we've discussed how nodes can be used to create the terrain for your map
 
 In games such as FAF, a greyscale image creates the terrain. Every pixel of the image has a greyscale value, which ranges from 0, complete black, to 256, complete white. The value of each pixel corresponds to the height of that pixel when it is used to render the terrain. A full white pixel is at maximum height, while a black pixel is at the minimum height. Any values between 0 and 256 correspond to a height somewhere in between the minimum and the maximum. 
 
-Gaea similarly translates greyscale pixels to terrain. By default, the viewport renders the resulting 3D terrain for you, but by changing the display mode we can visualize the flat greyscale image. Right clicking on any node and selecting *Show as > Mask*, or by selecting a node and pressing `T`, will change how the viewport renders that node. You will now see the greyscale pixels for your heightmap.
+Gaea similarly translates greyscale pixels to terrain. By default, the viewport renders the resulting 3D terrain for you, but by changing the display mode we can visualize the flat greyscale image. Right clicking on any node and selecting *Show as > Mask*, or by selecting a node and pressing <kbd>T</kbd>, will change how the viewport renders that node. You will now see the greyscale pixels for your heightmap.
 
-It might be that the greyscale value is still overlaid on the 3D model, rather than shown as a flat plane. This is because Gaea always shows two layers: the node and the underlay. The underlay is the geometry that Gaea projects the contents of a node on top of. This is generally selected automatically, but similarly to how you can freeze a node into the viewport by pressing `F`, a node can be locked to stay visible as underlay by pressing `G`. To visualize the greyscale image as on a flat plane, you can create a `Constant, 0% height` node and select that as underlay. 
+It might be that the greyscale value is still overlaid on the 3D model, rather than shown as a flat plane. This is because Gaea always shows two layers: the node and the underlay. The underlay is the geometry that Gaea projects the contents of a node on top of. This is generally selected automatically, but similarly to how you can freeze a node into the viewport by pressing <kbd>F</kbd>, a node can be locked to stay visible as underlay by pressing <kbd>G</kbd>. To visualize the greyscale image as on a flat plane, you can create a `Constant, 0% height` node and select that as underlay. 
 
 If the image is dark and you would like more contrast to see the different structures, you may press the *Show raw data* button and the *Enhanced view* button on the right side of the view port (*see figure 11, buttons highlighted on the right side of panel 4*).
 
@@ -155,7 +155,7 @@ The most simple way to create a symmetric heightmap is done by using the `Flip` 
 >*Figure 13: An example of how the `Flip` node can be used to create three different kinds of symmetry: Horizontal, Vertical, and Both. `Combine, Add, 100%` was used in these examples.*
 
 ### Rendering your height mask
-When you've completed your terrain, you can export it for importing into the FAF editor. To do this, take the last node in your graph and mark that node for export by selecting the node and pressing `F3`, or by right clicking it and selecting *Mark for Export*. The marked nodes will now show up under the Build tab in the top right. Adjust the relevant settings:
+When you've completed your terrain, you can export it for importing into the FAF editor. To do this, take the last node in your graph and mark that node for export by selecting the node and pressing <kbd>F3</kbd>, or by right clicking it and selecting *Mark for Export*. The marked nodes will now show up under the Build tab in the top right. Adjust the relevant settings:
 
 * Change the filetype of all masks to *.raw*
 * *Method* should be left on *Normal Build*
