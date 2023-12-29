@@ -2,13 +2,13 @@
 title: Aeon 1v1 Guide
 description: 
 published: true
-date: 2021-12-30T07:27:55.930Z
+date: 2023-12-29T10:44:04.275Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:42:02.581Z
 ---
 
-This Section of the FAF Guide to Supcom covers Aeon specific gameplay, and assumes you have already read the [Beginner's Guide to Forged Alliance](Beginner's_Guide_to_Forged_Alliance "wikilink") and the [General 1v1 Guide](General_1v1_Guide "wikilink")
+This Section of the FAF Guide to Supcom covers Aeon specific gameplay, and assumes you have already read the [Beginners-Guide-to-Forged-Alliance](/en/Play/Learning/Beginners-Guide-to-Forged-Alliance) and the [General-1v1-Guide](/en/Play/Learning/General-1v1-Guide).
 
 At first, what you must to know when you should choose the Aeon Faction, here are some basic things that you must have in mind, they are important to get right, and you could have large problems if you neglect them:
 - Energy
