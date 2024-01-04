@@ -2,7 +2,7 @@
 title: Home
 description: Landing Page of the Wiki
 published: true
-date: 2023-12-29T10:42:07.775Z
+date: 2024-01-04T05:13:03.943Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:13.010Z
@@ -23,7 +23,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 
 - [How To Play FAF & Get Better *Guides for all skill levels*](https://wiki.faforever.com/en/Play/Learning/Learning-SupCom)
 - [Rules *Rules for all FAF services*](https://wiki.faforever.com/en/Play/FAF-Rules)
-- [Vault Rules *Rules for uploading maps and mods to the vault*](https://wiki.faforever.com/en/Development/Vault/Vault-Rules)
+- [Vault Rules *Rules for uploading maps and mods to the vault*](https://wiki.faforever.com/en/Development/Vault/Rules)
 - [FAF Teams *Learn more about the teams that run FAF*](https://wiki.faforever.com/en/Infrastructure/FAF-Teams)
 {.links-list}
 
