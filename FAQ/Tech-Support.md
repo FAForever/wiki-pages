@@ -2,7 +2,7 @@
 title: Tech-Support
 description: Collection of Common Issuse
 published: true
-date: 2024-01-08T09:51:44.018Z
+date: 2024-01-08T10:06:28.282Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T09:51:44.018Z
@@ -146,23 +146,182 @@ Install Supreme Commander via Steam or GOG
 
 Test for sound issues with a new installation. If problems persist:
 
-Ensure Windows is updated.
-Configure sound card to stereo mode.
-Set sound card to 44100 Hz / 16 bit; consider 44100 Hz / 24 bit
-Disable sound enhancements for your sound card.
-Deactivate unrelated sound devices (restart PC).
+- Ensure Windows is updated.
+- Configure sound card to stereo mode.
+- Set sound card to 44100 Hz / 16 bit; consider 44100 Hz / 24 bit
+- Disable sound enhancements for your sound card.
+- Deactivate unrelated sound devices (restart PC).
+
 If you have a USB sound card like Focusrite and other devices, disable everything except your primary sound card (e.g., NVIDIA and Waves SoundGrid). If you're not using your onboard sound card, consult Google or your motherboard manual to deactivate it through the BIOS.
 
 Example: In this image NVIDIA and Waves SoundGrid were deactivated:
 
+![deeacivete_audio.png](/technical-support/deeacivete_audio.png)
 
+#### 3 User-Contributed Suggestions
+
+**3.1 Uninstall Sound Software & Try Alternate Speakers for Testing**
+
+Consider using other audio devices, such different pairs of headphones/speakers or audio hardware. Uninstall any additional software that applies filters or effects to your sound and stick to using basic drivers to avoid potential problems. Avoid high frequencies and bit depths (Example: 96000+ Hz / 32 bit).
+
+**3.2 Delete Sound Files Responsible for Crash**
+
+Head into your steam folder for SupCom:FA and delete both music files (The .xwb and the .xsb)
+
+`C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance\sounds`
+
+**3.3 Reinstall Everything**
+
+Reinstall Windows do not install any third-party software and try only with FAF and Supreme Commander.
+
+--- 
+
+**Conclusion:**
+
+The cause of the disappearing sound error is unknown (Well, it is a ~20-year-old game engine) and there is no guaranteed solution, even after many years. It may be related to numerous factors, which makes it difficult to determine the root cause, but it is related to the sound card or other software that affects sound in some way.
+
+---
+If you need any guidance, please make your own thread here:
+
+https://discord.com/channels/197033481883222026/1083855787518079066
+or
+https://forum.faforever.com/category/4/i-need-help
+
+---
+When you have found any information that could solve the sound issue, which is not listed here, please PM me about it, and I will add it. Thank you in advance.
 
 
 ### Steam account already linked / Regain access to FAF main account
 
+If you previously linked your Steam account but have forgotten your main FAF account, don't worry. You can regain access by resetting the password through this link: [Password Reset]( https://www.faforever.com/account/requestPasswordReset) 
+
+Scroll down to `Reset password via Steam` and follow the instructions there.
 
 ### Common error phrases and solutions
 
+Find out what kind of error you have, by searching up your error text from the following list. (Copy the whole phrase.)
+
+**Common errors phrases ❎:**
+
+#### Error 1
+RuntimeException: javax.net.ssl.SSLException: Tag mismatch!
+
+#### Error 2
+2. SocketException: Connection reset **or** 	WebClientRequestException: Connection timed out
+
+#### Error 3
+3. TimeoutException: Did not observe any item or terminal signal within 60000ms in 'sinkOneMulticast'
+
+#### Error 4
+4. AccessDeniedException **or** IOException: Cannot run program
+
+#### Error 5
+5. java.lang.RuntimeException: Forged Alliance Crashed with exit code 1
+
+#### Error 6
+6. Alliance Crashed with exit code -1073741515 **or** Forged Alliance terminated with exit code -1073741515
+
+#### Error 7
+7. java.io.FileNotFoundException
+
+#### Error 8
+8. Could not extract value with pattern 'code=([^ &]+)
+
+#### Error 9
+9. FileSystemException
+
+#### Error 10
+10. cartographic.fx reason: unknown error
+
+#### Error 11
+11. LoginException: Could not reach server
+
+**Solutions:👨‍🔧🍏 :**
+
+#### Error 1
+**Reason**
+The client is unable to establish a secure connection to the content server for downloading the game files.
+- Disable security software for testing purpose
+- Check firewall settings, if it blocks anything related to secure connection/FAF Launcher
+
+#### Error 2
+**Reason**
+Something is blocking the client to have access to the internet, or you have a very unstable connection.
+- Check if your internet connection is stable
+- Check if firewall is blocking the access
+- Disable security software for testing purpose
+- Try a VPN from a different country
+
+#### Error 3
+**Reason**
+Client can not detect that you are logged in from browser
+- Change default web browser.
+
+#### Error 4
+**Reason**
+Program is blocked or has wrong user rights
+- Make sure security software is not blocking the client
+- Make sure your windows account has rights to run the software
+- Remove `"C:\ProgramData\FAForever"` folder; and reinstall FAF
+- For testing purpose, run the client with admin rights.
+
+#### Error 5
+**Reason**
+Some error caused the crash
+
+- Get the last log from `"C:\ProgramData\FAForever\logs"`
+- Create own thread, explain when the error happens and upload the .log https://forum.faforever.com/category/4/i-need-help
+
+#### Error 6
+**Reason**
+Something is not working with your Supreme Commander.
+- Start Supreme Commander via Steam/GOG, to download any missing files or additional needed software, then start a skirmish mission to create a Supreme Commander profile
+
+#### Error 7
+**Reason**
+Files do not exist.
+- Make sure nothing blocks your access to the FAF client or Supreme Commander folder
+- Reinstall FAF client and Supreme Commander
+
+#### Error 8
+**Reason**
+Problem with the current browser to processed certain information
+- Change default web browser.
+- Install another browser like Firefox, Chrome, etc.
+
+#### Error 9
+**Reason**
+Another process is blocking the files
+- restart the PC
+
+#### Error 10
+**Reason**
+Unknown, yet.
+- Reinstall FAF, supreme commander
+
+#### Error 11
+**Reason**
+- On your end, something is blocking the internet access from/to the FAF client
+- You have no internet
+- Login server is down
+
+---
+If you need any guidance, please make your own thread [here](https://forum.faforever.com/category/4/i-need-help)
+
+---
+
+Notes TODO:
+https://forum.faforever.com/topic/4283/cannot-connect-to-some-of-the-players-solution
+add command to undo it:
+https://forum.faforever.com/topic/4532/cannot-launch-supcom
 
 ### Other Helpful Links
+[Forum Tech Support](https://forum.faforever.com/category/4/i-need-help)
+
+[Forum FAQ and Guidelines](https://forum.faforever.com/category/18/frequently-asked-questions)
+
+[FAForever Wiki](https://wiki.faforever.com/en/home)
+
+[Latest stable Client or Alpha Client](https://github.com/FAForever/downlords-faf-client/releases)
+
 
