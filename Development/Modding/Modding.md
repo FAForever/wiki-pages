@@ -2,13 +2,13 @@
 title: Modding
 description: 
 published: true
-date: 2023-06-19T10:12:37.214Z
+date: 2024-01-09T12:16:54.179Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
 ---
 
-## Introduction
+# Introduction
 
 Supreme Commander is extensible by [mods](/Play/Game-Modifications-(Mods)), which can alter the whole gameplay (like PhantomX for example), change the balance of units, display information to the user or make the user automatically do things like renaming units or send messages to his allies when he starts upgrading. This is a page for you to get a basic idea of modding FA.
 
