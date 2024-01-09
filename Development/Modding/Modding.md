@@ -2,7 +2,7 @@
 title: Modding
 description: Mod Development for Forged Alliance (Forever)
 published: true
-date: 2024-01-09T12:17:18.812Z
+date: 2024-01-09T12:40:47.876Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
@@ -11,8 +11,6 @@ dateCreated: 2021-08-31T09:44:35.455Z
 # Introduction
 
 Supreme Commander is extensible by [mods](/Play/Game-Modifications-(Mods)), which can alter the whole gameplay (like PhantomX for example), change the balance of units, display information to the user or make the user automatically do things like renaming units or send messages to his allies when he starts upgrading. This is a page for you to get a basic idea of modding FA.
-
-See also [Tips for Modding Efficiently](/Development/Modding/Tips-for-Modding-Efficiently).  A separate [article specifically covers AI modding](/Development/AI/AI-Modding).
 
 ### What we need
 
@@ -30,8 +28,9 @@ See also [Tips for Modding Efficiently](/Development/Modding/Tips-for-Modding-Ef
 - You can use the default hotkey F9 to open the live LOG in your game, and use LOG(text), SPEW(text) or WARN(text) in your code to print to it
 
 ### Lua Information
-- Here you can find a bunch of Functions in this [LUCADOC](/Development/Modding/LUADOC)
-- Here are some more Lua Global Functions [Lua.Globals](/Development/Modding/LUAGLOBALS)
+- [LUCADOC *Here you can find a bunch of Functions in this*](/Development/Modding/LUADOC)
+- [Lua.Globals *Here are some more Lua Global Functions*](/Development/Modding/LUAGLOBALS)
+{.links-list}
 
 ### Differences to default LUA
 
@@ -151,6 +150,9 @@ Click yes and close the archive.
 
 Now, when you open up your game again, you will find that your console (F9) will provide error exceptions related to "LazyVars".
 
-## Further Reading
-modding [Shaders](/Development/Modding/Shaders)
-modding [Emitters](/Development/Modding/Modding_Emitters)
+## Further Information
+- [Shaders](/Development/Modding/Shaders)
+- [Emitters](/Development/Modding/Modding_Emitters)
+- [Modding Efficiently](/Development/Modding/Tips-for-Modding-Efficiently)
+- [AI modding](/Development/AI/AI-Modding)
+{.links-list}
