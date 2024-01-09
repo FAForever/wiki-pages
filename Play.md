@@ -2,7 +2,7 @@
 title: Play
 description: 
 published: true
-date: 2024-01-08T18:06:13.901Z
+date: 2024-01-09T11:28:49.657Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T12:29:33.941Z
@@ -23,9 +23,7 @@ dateCreated: 2023-06-05T12:29:33.941Z
 
 # Game
 - [Taunts](https://wiki.faforever.com/en/Play/Game/Taunt)
-- [Orders - Advanced](https://wiki.faforever.com/en/Play/Game/Hotkeys/OrdersAdvanced)
-- [Orders - Queue Manipulation](https://wiki.faforever.com/en/Play/Game/Hotkeys/OrdersQueueManipulation)
-- [Orders - Mouse Context Sensitive](https://wiki.faforever.com/en/Play/Game/Hotkeys/OrdersMouseContext)
+- [Hotkeys](/en/Play/Game/Hotkeys)
 {.links-list}
 
 
