@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2024-01-09T13:05:00.063Z
+date: 2024-01-09T13:11:35.472Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
