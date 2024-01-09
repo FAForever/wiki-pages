@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2024-01-09T12:52:22.896Z
+date: 2024-01-09T12:59:47.382Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -12,30 +12,26 @@ dateCreated: 2021-12-30T20:32:41.077Z
 
 If you're new to Supreme Commander or haven't played in a long time, you may want to check out any or all of the links in this section.
 
-[Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok) - <5 minutes
-
-[FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U) - 5,276 words (~24 minutes)
-
-[Unit Micro - How to control your units](/Play/Learning/Unit-Micro) - 4404 words (~20 minutes)
-
-[Beginner's Guide to Forged Alliance](/Play/Learning/Beginners-Guide-to-Forged-Alliance) - 3817 words (~17 minutes)
+* [Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok)
+* [FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U)
+* [Unit Micro - How to control your units](/Play/Learning/Unit-Micro)
+* [Beginner's Guide to Forged Alliance](/Play/Learning/Beginners-Guide-to-Forged-Alliance)
+{.links-list}
 
 ## Improving Your Gameplay
 
 If you know the basics of the game and are looking to improve your gameplay, you may want to check out any or all of the links in this section (whether you're a new player or a pro, these resources could help you to improve).
 
-[How To Play FAF & Get Better - Cliff Notes](https://forum.faforever.com/topic/4765/how-to-play-faf-get-better-cliff-notes) - 1,879 words (~ 9 minutes)
+* [How To Play FAF & Get Better - Cliff Notes](https://forum.faforever.com/topic/4765/how-to-play-faf-get-better-cliff-notes)
+* [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365)
+* [Heaven's Video Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS)
+* [TheForgedAllianceColonel's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0)
+* [UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player)
+* [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
+{.links-list}
 
-[How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365) - 1,816 words (~8 minutes)
 
-[Heaven's Video Tutorials](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS) - 60 videos (between 3 and 54 minutes each)
-
-[TheForgedAllianceColonel's Tutorials Playlist](https://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0) - 28 videos (between 2 and 29 minutes each)
-
-[UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player) - 492 words (~3 minutes)
-
-[Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473) - 27,175 words (~2 hours)
-
+### 1v1 Guides
 [General 1v1 Guide](/Play/Learning/General-1v1-Guide) - 3815 words (~17 minutes)
 [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide) - 2553 words (~12 minutes)
 [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide) - 8802 words (~39 minutes)
