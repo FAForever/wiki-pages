@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2023-12-05T15:57:29.293Z
+date: 2024-01-09T11:33:06.246Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -20,7 +20,7 @@ These are the current Team Leaders:
 	> **Sladow**
   
 - **Community Manager** 
-	> **Azraeelian Angel**
+	> **TBD**
 
 - **Promotions Team Leeader:** 
 	>	**Jip**
