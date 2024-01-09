@@ -2,7 +2,7 @@
 title: GPG Map Editor
 description: 
 published: true
-date: 2023-10-06T19:13:44.993Z
+date: 2024-01-09T11:52:02.275Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:17.957Z
@@ -174,7 +174,7 @@ Map sizes:
 
 Name your map whatever you would like. This guide will refer to it as Summer Duel, since we’re going to make a map similar to Winter Duel. You can leave the Description field blank if you’d like. Check the Create new map box. If you want to use water, keep the Water box checked; otherwise, uncheck it. Keep the map size at 256x256 and the initial elevation at 64. Click the Create button.
 
-![coordinates_editor.png](/images/gpgmapeditor/coordinates_editor.png){.align-right} A new map will be created and displayed. Click the save button on the toolbar or go to File \> Save. **Saving your work is never a bad thing. You should do it as often as possible.** The map editor is stable, but there are certain elements beyond your control. The last thing you want is for your power to flicker and erase three hours of hard work! Take a moment and get accustomed to the feel of the editor. Zooming works the same as in Supreme Commander. You can scroll with Middle Mouse Click + Drag and rotate with Alt + Middle Mouse Click + Drag. The current world coordinates of the mouse cursor are displayed in the lower right of the window.
+![coordinates_editor.png](/images/gpgmapeditor/coordinates_editor.png){.align-right} A new map will be created and displayed. Click the save button on the toolbar or go to File \> Save. **Saving your work is never a bad thing. You should do it as often as possible.** The map editor is stable, but there are certain elements beyond your control. The last thing you want is for your power to flicker and erase three hours of hard work! Take a moment and get accustomed to the feel of the editor. Zooming works the same as in Supreme Commander. You can scroll with <kbd>Middle Mouse Click</kbd> + <kbd>Drag</kbd> and rotate with <kbd>Alt</kbd> + <kbd>Middle Mouse Click</kbd> + <kbd>Drag</kbd>. The current world coordinates of the mouse cursor are displayed in the lower right of the window.
 
 ### Working Map Preview
 
@@ -298,7 +298,7 @@ How closely together you space your steps will determine how steep the slope is.
 
 ![tutorial-5.jpg](/images/gpgmapeditor/tutorial-5.jpg)
 
-As you design cliffs, you will want to make sure you are actually creating cliffs. Go to View \> Debug and click Slope. (Hotkey: O) Green indicates that land is flat enough to construct buildings on. Red indicates that land is too steep for units to traverse. Colorless means that units can traverse that land, but it is too steep to build on. 
+As you design cliffs, you will want to make sure you are actually creating cliffs. Go to View \> Debug and click Slope. (Hotkey: <kbd>O</kbd>) Green indicates that land is flat enough to construct buildings on. Red indicates that land is too steep for units to traverse. Colorless means that units can traverse that land, but it is too steep to build on. 
 
 What next? Maps on Winter Duel frequently break into short stalemates in the center with massive defenses on opposing cliffs. Let’s add another cliff above the first to spice things up a bit. This cliff will shadow the one we just added, such that if an opponent can gain hold of it, they will gain a tactical stronghold against the enemy’s defenses. Terrain height is an important consideration when designing cliffs. A height difference of 2 is not passable by units, but such a low cliff is difficult to work with. Cliffs should typically be at least 4 units high. After some tinkering, the result should look similar to this:
 
@@ -313,13 +313,13 @@ Open up Photoshop (or Paint Shop Pro) and load your .raw file. Important: .raw f
 
 ![photoshop_raw.jpg](/images/gpgmapeditor/photoshop_raw.jpg)
 
-Select the left half of the image using the marquee tool. An easy way to get exactly half is to choose **Style: Fixed Size** at the top toolbar. Set Height to 257 and Width to 127 or 128. With these properties set, click on the image. Click inside the selection box and drag it to the left of the image. The selection should snap to the edges. Press Ctrl + C to copy the selection, and then press Ctrl + V to paste it. Press Ctrl + A to select the entire image, and then press Ctrl + T to open up the transformation controls. At the top toolbar, set the rotation angle to 180.0° and press Enter. You should now see a rotationally symmetrical image. If the rotated image did not move over to the right, select the arrow tool and move it there manually. Go to Layer \> Flatten Image, then save the image as a .raw file in your map directory. **Make sure the byte order is set to IBM PC!**
+Select the left half of the image using the marquee tool. An easy way to get exactly half is to choose **Style: Fixed Size** at the top toolbar. Set Height to 257 and Width to 127 or 128. With these properties set, click on the image. Click inside the selection box and drag it to the left of the image. The selection should snap to the edges. Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy the selection, and then press <kbd>Ctrl</kbd> + <kbd>V</kbd> to paste it. Press <kbd>Ctrl</kbd> + <kbd>A</kbd> to select the entire image, and then press <kbd>Ctrl</kbd> + <kbd>T</kbd> to open up the transformation controls. At the top toolbar, set the rotation angle to 180.0° and press Enter. You should now see a rotationally symmetrical image. If the rotated image did not move over to the right, select the arrow tool and move it there manually. Go to Layer \> Flatten Image, then save the image as a .raw file in your map directory. **Make sure the byte order is set to IBM PC!**
 
 Before importing heightmap back to editor, save your map in case something goes wrong, maybe even make a copy of your map folder. Back in the Supreme Commander map editor, click on **Import Heightmap**. Load in the heightmap you just saved from Photoshop. Be careful with this feature, because it is not undoable. You should see the following: 
 
 ![tutorial-8.jpg](/images/gpgmapeditor/tutorial-8.jpg)
 
-The next step is to complete upper cliff we started. Do so on the bottom half so that it gets mirrored to the top next time we go through the Photoshop process. To get back to the brushes, click on the brush icon ![<File:Brush> icon.PNG](Brush_icon.PNG "fig:File:Brush icon.PNG") at the top toolbar or press **B**. After that, feel free to improvise a little. Experiment with the different brushes and settings to make something interesting, and keep in mind that your map needs to be fun to play. Focus your efforts on the left hand side of the map. When you are all finished, repeat the Photoshop mirroring procedure and load the new heightmap. Hopefully it will look something like this:
+The next step is to complete upper cliff we started. Do so on the bottom half so that it gets mirrored to the top next time we go through the Photoshop process. To get back to the brushes, click on the brush icon at the top toolbar or press <kbd>B</kbd>. After that, feel free to improvise a little. Experiment with the different brushes and settings to make something interesting, and keep in mind that your map needs to be fun to play. Focus your efforts on the left hand side of the map. When you are all finished, repeat the Photoshop mirroring procedure and load the new heightmap. Hopefully it will look something like this:
 
 ![tutorial-9.jpg](/images/gpgmapeditor/tutorial-9.jpg)
 
@@ -339,7 +339,7 @@ Once you have your map set out properly it's always a good idea to try it out an
 
 ### Create start markers
 ![editor_marker.jpg](/images/gpgmapeditor/editor_marker.jpg){.align-right} First we create two markers which serve as the starting points where the ACU's will gate in.
-1. Open to the Markers Layer (or just press F6)
+1. Open to the Markers Layer (or just press <kbd>F6</kbd>)
 2. Create two blank markers by dragging the "blank marker" icon out onto your map (they should appear in the markers tool window as "Blank Marker 00" and "Blank Marker 01")
 3. Rename "Blank Marker 00" to "ARMY_1" and "Blank Marker 01" to "ARMY_2" (by clicking on them twice slowly)
 - If you double click marker editor will zoom in to that marker so you can see which one you are renaming.
@@ -347,16 +347,16 @@ Once you have your map set out properly it's always a good idea to try it out an
 
 ### Create armies
 ![games_layer.png](/images/gpgmapeditor/games_layer.png){.align-right} Next we create armies. Defining an army is important for the game scripts, everything a player can control belongs to a specific army. So for a 2 player map, we need 2 armies.
-1. Open the armies layer (or just press F2)
+1. Open the armies layer (or just press <kbd>F2</kbd>)
 2. Create two armies (click the leftmost new army button)
-3. Open the games layer (or just press F1)
+3. Open the games layer (or just press <kbd>F1</kbd>)
 4. Click on "add a configuration" and rename the configuration to "standard" (by clicking on it twice slowly)
 5. Click on "add a team"
 6. Drag the two armies ("ARMY_1" and "ARMY_2") into the teams box
 
 What we want to do next is rename the team to FFA, however the editor oesn't work very well here so we have to do it manually:
 - Save your work and close the editor
-- Go to your "\\Supreme Commander\\Map\\YourMapName" folder
+- Go to your `"\Supreme Commander\Map\YourMapName"` folder
 - Open the YourMapName_scenario.lua file with a text editor
 - Add the new parts to this file
 ```lua
@@ -382,7 +382,7 @@ What we want to do next is rename the team to FFA, however the editor oesn't wor
       },
   }}
 ```
-- Save the YourMapName_scenario.lua file, now the map is playable.
+- Save the `YourMapName_scenario.lua` file, now the map is playable.
 	- **If you want to have working map preview, don't host your map online until its done!**
 
 ### Adding a startup script
@@ -440,7 +440,7 @@ Unfortunately, there was an unforeseen problem. Notice the tan strip along the b
 
 1. Place resources on one half of the map
 2. Place some props on same position (rocks for example)
-3. Select them all, either click and drag, or click on them all while having pressed SHIFT
+3. Select them all, either click and drag, or click on them all while having pressed <kbd>SHIFT</kbd>
 4. Go to **Prop Edit** window (picture below)
 5. Check **Rotare about map center** box, set 180 Yaw and click on **Set** button
 6. Place resource markers on the other side of map and then don'd forget to delete props under them!
@@ -460,7 +460,7 @@ Here is an important note for future reference. The in-game preview for the map 
 Go to the Props layer in the Layer window. Next, click on the Props tab in the Resource Browser window. Select the Evergreen tileset in the Tileset dropdown and the trees category from the Category dropdown. Go ahead and drag one of the pictures onto your map. You should see appear, along with a blue circle. It looks like this: 
 
 ![tutorial-16.jpg](/images/gpgmapeditor/tutorial-16.jpg)
-The pink sections allow you to manipulate the prop. Clicking on the **E** and dragging up and down will allow you to change the prop’s elevation. Clicking on the arrow allows you to rotate the prop. The **S** is used for resizing other items, but is unused for props. You can move the prop by clicking on it and dragging. Alternatively, holding **R** on the keyboard will allow you to rotate the prop without clicking; holding **M** on the keyboard will allow you to move the prop without clicking.
+The pink sections allow you to manipulate the prop. Clicking on the <kbd>E</kbd> and dragging up and down will allow you to change the prop’s elevation. Clicking on the arrow allows you to rotate the prop. The <kbd>S</kbd> is used for resizing other items, but is unused for props. You can move the prop by clicking on it and dragging. Alternatively, holding <kbd>R</kbd> on the keyboard will allow you to rotate the prop without clicking; holding <kbd>M</kbd> on the keyboard will allow you to move the prop without clicking.
 
 If we had to place each tree individually, we’d be stuck for days at this stage. Fortunately there is a way to place more than one at a time. Pick some trees you like and drag them into the Active props for automatic placement section of the Prop Edit window. You should see something like this:
 
@@ -468,9 +468,9 @@ If we had to place each tree individually, we’d be stuck for days at this stag
 
 We are going to create a sort of “prop brush” defined by the settings here. What the three sliders do is self-explanatory. Slope falloff angles controls what types of slope your props will be placed on. Setting both Start and End to 0 will require the props to exist on perfectly flat terrain. A range of 0 to 20 is good for getting up close to cliffs without actually placing anything on a cliff. Once you are satisfied with your settings, click the Enable automatic placement mode checkbox.
 
-Moving the mouse over the map will display a circle defining your brush. Clicking will place props at the rate you set in Props to place per second. The actual rate may be lower because this is the number of props the editor attempts to place a second. If Min distance between props is set to a high number, the editor will not be able to fit them all within the brush. If you want to remove something from the brush, select it from the list and click the delete button ![delete_icon.png](/images/gpgmapeditor/delete_icon.png). If you placed some props you didn’t mean to, you can either undo (Ctrl + Z) or uncheck the automatic placement mode box, drag a selection around the misplaced props, and press Delete on your keyboard.
+Moving the mouse over the map will display a circle defining your brush. Clicking will place props at the rate you set in Props to place per second. The actual rate may be lower because this is the number of props the editor attempts to place a second. If Min distance between props is set to a high number, the editor will not be able to fit them all within the brush. If you want to remove something from the brush, select it from the list and click the delete button ![delete_icon.png](/images/gpgmapeditor/delete_icon.png). If you placed some props you didn’t mean to, you can either undo (<kbd>Ctrl</kbd> + <kbd>Z</kbd>) or uncheck the automatic placement mode box, drag a selection around the misplaced props, and press Delete on your keyboard.
 
-Go through and place trees and rocks on the left-hand side of your map. To make them symmetrical, press Ctrl + A to select all props on the map. Press Ctrl + C followed by Ctrl + V to duplicate every prop. Without deselecting anything, check the Rotate about map center box. Type 180 into the Yaw box and click Set. Feel free to do this with multiple sets of props to give as natural a feel as possible. Here is Summer Duel with its new props: 
+Go through and place trees and rocks on the left-hand side of your map. To make them symmetrical, press <kbd>Ctrl</kbd> + <kbd>A</kbd> to select all props on the map. Press <kbd>Ctrl</kbd> + <kbd>C</kbd> followed by <kbd>Ctrl</kbd> + <kbd>V</kbd> to duplicate every prop. Without deselecting anything, check the Rotate about map center box. Type 180 into the Yaw box and click Set. Feel free to do this with multiple sets of props to give as natural a feel as possible. Here is Summer Duel with its new props: 
 
 ![tutorial-18.jpg](/images/gpgmapeditor/tutorial-18.jpg)
 
@@ -478,11 +478,11 @@ Go through and place trees and rocks on the left-hand side of your map. To make 
 
 The difference in visual quality between Low and High fidelity is staggering. Most of the difference is due to decals. Decals are individual textures placed onto the terrain. They can take different forms. Some are placed as images on the map, like the explosion scar from the initial commander warp. Other decals act as normal maps on the ground to give the appearance of roughness. Some of the official GPG maps contain hundreds of decals. If you are serious about your map, this part can be just as time consuming as the heightmap and textures—decal placement makes the difference between a pretty map and a gorgeous map.
 
-Go to the **Decals** layer in the **Layer** window. Click on the Decals tab in the Resource Browser window. To add a decal, simply drag it from the Resource Browser window onto the map. The controls to manipulate decals work the same as for props. Holding **S** on your keyboard will allow you to resize the decal without clicking. Elevation controls are not available for decals. You can create symmetrical decals in the same way as you did props. To get to the **Map centered rotation checkbox**,click on the arrow at the top toolbar ![arrow_icon.png](/images/gpgmapeditor/arrow_icon.png).
+Go to the **Decals** layer in the **Layer** window. Click on the Decals tab in the Resource Browser window. To add a decal, simply drag it from the Resource Browser window onto the map. The controls to manipulate decals work the same as for props. Holding <kbd>S</kbd> on your keyboard will allow you to resize the decal without clicking. Elevation controls are not available for decals. You can create symmetrical decals in the same way as you did props. To get to the **Map centered rotation checkbox**,click on the arrow at the top toolbar ![arrow_icon.png](/images/gpgmapeditor/arrow_icon.png).
 
 If you drag a few decals and zoom around, you’ll notice that some of them fade out much too quickly. You can adjust this in the **Decal Properties** ![properties_icon.png](/images/gpgmapeditor/properties_icon.png) window. In the **LOD Cutoff** box, type in a higher number and click Set. You can also give a decal a minimum viewable distance with the **Near LOD Cutoff** box. Be very careful with these cutoffs. You want them high enough to be visible at normal zoom levels, but performance will be poor if you have a thousand decals with a cutoff of 10,000. With appropriate cutoffs there’s no excuse to hold back on decals, so make your map look as beautiful as possible!
 
-Have no fear if a decal gets buried under others and you can’t select it again. Holding down **Ctrl** while you click will allow you to cycle through multiple decals on top of each other. You can reorder the decal you have selected with the arrow buttons in the Decal Properties ![properties_icon.png](/images/gpgmapeditor/properties_icon.png) window (Scrool down). If you want to always see your decals in the editor, go to View \> Force Decals.
+Have no fear if a decal gets buried under others and you can’t select it again. Holding down <kbd>Ctrl</kbd> while you click will allow you to cycle through multiple decals on top of each other. You can reorder the decal you have selected with the arrow buttons in the Decal Properties ![properties_icon.png](/images/gpgmapeditor/properties_icon.png) window (Scrool down). If you want to always see your decals in the editor, go to View \> Force Decals.
 
 ## Lighting
 
@@ -568,7 +568,7 @@ Before uploading your map in [vault](/Play/Client/Map-&-Mod-Vault#map-vault) mak
 
 ## Adding AI Markers
 
-AI markers are optional sets of waypoints to give the AI an idea of how to play your map, otherwise they may not function properly, these markers are placed in the same way as mass or hydrocarbon markers. The entire process of adding AI support to a map using markers can be found in this video. Be warned it takes a few hours to add good AI support to your map: <https://www.youtube.com/watch?v=KDO8zf2afhc>
+AI markers are optional sets of waypoints to give the AI an idea of how to play your map, otherwise they may not function properly, these markers are placed in the same way as mass or hydrocarbon markers. The entire process of adding AI support to a map using markers can be found in this video. Be warned it takes a few hours to add good AI support to your map: [Youtube Video](https://www.youtube.com/watch?v=KDO8zf2afhc)
 
 More generally a page is available [summarising other tips for how to create 'AI friendly' maps](https://wiki.faforever.com/en/Development/Mapping/ai-friendly-maps).
 
@@ -576,7 +576,7 @@ More generally a page is available [summarising other tips for how to create 'AI
 
 **'X**' is your version number
 - Step 1: Open FOLDERNAME
-- Step 2: Go to MAPNAME_scenario.lua
+- Step 2: Go to `MAPNAME_scenario.lua`
 - Step 3: Change the following...
 ```lua
 map = '/maps/FOLDERNAME/MAPNAME.scmap',
