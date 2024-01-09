@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2023-06-24T20:34:41.289Z
+date: 2024-01-09T12:48:51.401Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -15,23 +15,17 @@ FAF (Forged Alliance Forever) is a non-profit organization whose overall aim is 
 
 # Useful Links
 
-* [How To Install FAF on Windows](https://wiki.faforever.com/en/Play/Windows-Install) or [Linux](https://wiki.faforever.com/en/Play/Linux-Install)
-
+* [How To Install FAF on Windows](https://wiki.faforever.com/en/Play/Windows-Install)
+* [How To Install FAF on Linux](https://wiki.faforever.com/en/Play/Linux-Install)
 * [Download FAF Client](https://github.com/FAForever/downlords-faf-client/releases/download/v2023.5.0/faf_windows-x64_2023_5_0.exe)
-
 * [FAF Discord](https://discord.gg/hgvj6Af)
-
 * [FAF Forums](https://forum.faforever.com)
-
 * [FAF Wiki Home Page](https://wiki.faforever.com/en/home)
-
 * [FAF Website Home Page](https://www.faforever.com)
-
 * [Learn How To Play FAF & Get Better](https://wiki.faforever.com/en/Play/Learning/Learning-SupCom)
-
-* If you want to learn how to make maps, get the mapping role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#mapping-resources](https://discord.gg/wNTAjpShQe) channel.
-
-* If you want to learn how to make mods, get the modding role in the [#role-selection](https://discord.gg/WZGB4H987B) channel of the FAF Discord, and then check out the [#modification-resources](https://discord.gg/WZGB4H987B) channel.
+* [Learn How To Make Maps *Assgin the mapping role from the discord role selection and then find the #mapping-resources channel*](https://discord.gg/wNTAjpShQe)
+* [Learn How To Make Mods *Assgin the modding role from the discord role selection and then find the #modification-resources channel*](https://discord.gg/WZGB4H987B)
+{.links-list}
 
 # Common Questions
 
