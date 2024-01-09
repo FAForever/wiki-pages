@@ -2,7 +2,7 @@
 title: Hotkeys
 description: 
 published: true
-date: 2023-08-26T12:00:45.007Z
+date: 2024-01-09T11:29:50.881Z
 tags: hotkeys, keys, visuals
 editor: markdown
 dateCreated: 2023-08-26T12:00:45.007Z
@@ -26,4 +26,5 @@ These pages help you understand how some of the hotkeys work.
 - [Chat](/Play/Game/Hotkeys/Chat)
 - [Debug](/Play/Game/Hotkeys/Debug)
 - [Debug - AI Tooling](/Play/Game/Hotkeys/DebugAI)
+{.links-list}
 
