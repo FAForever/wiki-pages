@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2023-06-19T10:08:47.199Z
+date: 2024-01-09T12:13:37.617Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -200,7 +200,7 @@ You can create a shortcut on your desktop of that executable, go into its proper
 `ForgedAlliance.exe /init init_coop.lua`
 - Make sure you have the Coop patch downloaded if it's different from FAF patch - to do this simply host a coop game.
 - You don't need to restart FA each time you modify a script. You can just restart the map inside FA.
-- Run FA in windowed mode and use the game log for debug. The default hotkey for showing the log window is: **F9** (in some cases, just **Ctrl + F9**). It can be opened during the map loading screen. If you make a mistake in any of the files, the log will show you what you did wrong, giving the file and line where the error is.
+- Run FA in windowed mode and use the game log for debug. The default hotkey for showing the log window is: <kbd>F9</kbd> (in some cases, just <kbd>Ctrl</kbd> + <kbd>F9</kbd>). It can be opened during the map loading screen. If you make a mistake in any of the files, the log will show you what you did wrong, giving the file and line where the error is.
 
 ## Scenario
 Game uses this file to get basic information about the map. Name, path to other files, armies, etc. It is created with map, once you save your map. You can edit these information.
