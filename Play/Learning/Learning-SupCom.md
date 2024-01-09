@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2024-01-09T12:59:47.382Z
+date: 2024-01-09T13:05:00.063Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -28,19 +28,17 @@ If you know the basics of the game and are looking to improve your gameplay, you
 * [TheForgedAllianceColonel's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0)
 * [UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player)
 * [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
+* [BRNK's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1)
+* [Все туториалы / Zlo's Tutorials Playlist *very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)* ](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr)
 {.links-list}
 
-
 ### 1v1 Guides
-[General 1v1 Guide](/Play/Learning/General-1v1-Guide) - 3815 words (~17 minutes)
-[UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide) - 2553 words (~12 minutes)
-[Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide) - 8802 words (~39 minutes)
-[Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide) - 1353 words (~6 minutes)
-[Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide) - 3828 words (~17 minutes)
-
-[BRNK's Tutorials](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1) - 19 videos (between 5 and 72 minutes each)
-
-[Все туториалы / Zlo's Tutorials Playlist](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr) - very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)
+* [General 1v1 Guide](/Play/Learning/General-1v1-Guide)
+* [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide)
+* [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide)
+* [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide)
+* [Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide)
+{.links-list}
 
 ## Getting Gameplay Advice From Others
 
@@ -52,15 +50,15 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
-- For an overview of the factions in Supreme Commander visit: [Faction Information](/Play/Learning/Faction-Information)
-- To learn more about the specific economy of Supreme Commander visit: [Adjacency Bonus](/Play/Learning/Adjacency-Bonus)
-- For specific information regarding the Engy mod patch visit: [Engy Mod](/Play/Game-Modifications-(Mods)#engy-mod)
-- To view unit stats, and compare units with each other, visit: [Unit Database](/Play/Client/Unit-Database)
-- To see unit stats and calculations visit: [FA Stats And Calculations](/Play/Learning/FA-Stats-And-Calculations)
-- To view specific info about tactical and strategic missiles, visit: [Missiles](/Play/Learning/Missiles)
-- Capacity of several air types of transport: [Air Transport](/Play/Learning/Air-Transport)
-
-- The [SupCom Wiki](http://supcom.wikia.com/wiki/Main_Page) is a comprehensive resource about Supreme Commander, however, it is out of date and does not contain accurate values.
+* [Faction Information *For an overview of the factions in Supreme Commander*](/Play/Learning/Faction-Information)
+* [Adjacency Bonus *To learn more about the specific economy of Supreme Commander*](/Play/Learning/Adjacency-Bonus)
+* [Engy Mod *For specific information regarding the Engy mod patch*](/Play/Game-Modifications-(Mods)#engy-mod)
+* [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
+* [FA Stats And Calculations *To see unit stats and calculations*](/Play/Learning/FA-Stats-And-Calculations)
+* [Missiles *To view specific info about tactical and strategic missiles*](/Play/Learning/Missiles)
+* [Air Transport *Capacity of several air types of transport*](/Play/Learning/Air-Transport)
+* [SupCom Wiki *This is a comprehensive resource about Supreme Commander, however, it is out of date and does not contain accurate values*](http://supcom.wikia.com/wiki/Main_Page)
+{.links-list}
 
 ## Additional Video Tutorials
 
