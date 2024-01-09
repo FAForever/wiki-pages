@@ -2,7 +2,7 @@
 title: Linux Installation
 description: 
 published: true
-date: 2023-06-24T20:38:50.850Z
+date: 2024-01-09T11:31:20.945Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-12T23:43:33.098Z
@@ -10,7 +10,7 @@ dateCreated: 2022-06-12T23:43:33.098Z
 
 # Linux Installation
 
-## Automated install
+## Automated install (Recommended)
 
 [FAForever/faf-linux](https://github.com/FAForever/faf-linux) provides a set of scripts to automate the installation of FAF on Linux. Please follow the instructions [here](https://github.com/FAForever/faf-linux/blob/master/README.md#setup-instructions).
 
