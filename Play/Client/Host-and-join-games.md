@@ -2,7 +2,7 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2023-06-08T05:41:37.372Z
+date: 2024-01-09T11:39:31.124Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -13,13 +13,13 @@ Remember, you need to start the game through this client for all the improvement
 
 ## Game Title
 - XvX - Showing for how many player per team is game hosted. (example 1v1, 4v4)
-- XXX - XXXX (XXXX+) - [Global Rating](/Rating-System) Limitations (example 800-1500, 1200+)
+- XXX - XXXX (XXXX+) - [Global Rating](/en/Infrastructure/Rating-System) Limitations (example 800-1500, 1200+)
 
 ## Play Tab
 
 ![game-panel.png](/game-panel.png)
 If you have any trouble joining or connecting to someone visit [Here](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
-Coop Campaign missions can be hosted at the [Co-Op](https://wiki.faforever.com/en/Play/Client/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/tmm) Tab.
+Coop Campaign missions can be hosted at the [Co-Op](/en/Play/Client/Coop-Missions) Tab & Ladder Games Can be Joined via the [Matchmaking](/en/Play/Client/tmm) Tab.
 
 ## Game Modes
 - Matchmaker
@@ -27,19 +27,19 @@ Coop Campaign missions can be hosted at the [Co-Op](https://wiki.faforever.com/e
 - Co-op
 
 ### Matchmaker
-The Matchmaker is the Over arching replacement of the Ladder secion as it now encompases the 1v1 & 2v2 matchmaking, and also has plans for a 3v3 & 4v4. For Mor information about the Matchmaker See the [Team Matchmaker](/tmm) page.
+The Matchmaker is the Over arching replacement of the Ladder secion as it now encompases the 1v1 & 2v2 matchmaking, and also has plans for a 3v3 & 4v4. For Mor information about the Matchmaker See the [Team Matchmaker](/en/Play/Client/tmm) page.
 
 ### Custom Games
-This is how most games are played - simply double click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](/Rating-System) requirements, and you may have trouble vs players who are much higher rated than you.
+This is how most games are played - simply double click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](/en/Infrastructure/Rating-System) requirements, and you may have trouble vs players who are much higher rated than you.
 - **FAF** - This is the default game type which is the most stable.
 - **FAF (Beta)** - This is a mod with the newest Balance patch available.
 - **FAF Development** - This is the Experimental branch for testing new Game updates & features.
 
 ### Co-Op Campaign & Custom Missions
-To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [Coop Missions](https://wiki.faforever.com/en/Play/Client/Coop-Missions) page.
+To learn more about the Co-Op Campaign and the all the Community made Custom Mission please go to the [Coop Missions](/en/Play/Client/Coop-Missions) page.
 
 ### Playing With AI
-In addition to the AI that are available in FAF by default, there are a number of advanced custom AI which can provide various gameplay experiences and offer a significant increase in challenge over the default AI - this [article provides further detail of the custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) available on FAF and how to play using them.
+In addition to the AI that are available in FAF by default, there are a number of advanced custom AI which can provide various gameplay experiences and offer a significant increase in challenge over the default AI - this [article provides further detail of the custom AI](/en/Development/AI/Custom-AIs) available on FAF and how to play using them.
 
 You can have any combination of human and AI players, as you wish.
 
