@@ -1,8 +1,8 @@
 ---
 title: Modding
-description: 
+description: Mod Development for Forged Alliance (Forever)
 published: true
-date: 2024-01-09T12:16:54.179Z
+date: 2024-01-09T12:17:18.812Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:44:35.455Z
