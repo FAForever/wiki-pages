@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-01-10T23:03:38.143Z
+date: 2024-01-10T23:20:27.329Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -60,7 +60,6 @@ These are the current Team Leaders:
 - F-Odin
 - Sladow
 - Cheeseberry
-- Morax
 - Grimplex
 - LimeZ
 - Gorthaur
@@ -81,10 +80,9 @@ We are a group of interested people in the development of the faf community. Our
 - Team members may be removed due to not being suitable for this role.
 
 #### Responsibilities
-- Be active in the #gat chat and #newbie chat in FAF client.
+- Help out players on the FAF discord or in the client. This includes analyzing replays.
 - Contribute guides making and other things related to them.
 
-#### Team Roles
 ##### Team leader
 This is the face of the team.
 The team leader is elected by a team vote.
