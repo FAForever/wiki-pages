@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-01-10T23:20:27.329Z
+date: 2024-01-20T12:11:59.502Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -70,6 +70,9 @@ These are the current Team Leaders:
 - SpikeyNoob
 - Terminal
 - Judoka1972
+- TheDuelist
+- Maudlin27
+- Strydxr
 
 #### Policies
 We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
