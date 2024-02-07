@@ -2,7 +2,7 @@
 title: Creating Models
 description: Specs for Sup Com models
 published: true
-date: 2024-02-07T20:33:01.934Z
+date: 2024-02-07T20:44:21.780Z
 tags: modding, models, unit
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -119,8 +119,8 @@ Animations need to pushed down the nla stack before exporting.
  - A = Transparency (team colour on seraphim shader)
 
 #### Normals :
- - luminance = X direction (left / right)
- - Alpha = Y direction (front / back)
+ - luminance = Tangent X component
+ - Alpha = Tangent Y component (DirectX format)
 
 #### Spec Team :
  - R = Reflectivity multiplier (of environment set by map)
