@@ -2,34 +2,18 @@
 title: Game & Balance Patchnotes 2012
 description: 
 published: true
-date: 2021-09-08T13:45:05.055Z
+date: 2024-02-13T15:59:28.307Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T14:14:48.329Z
 ---
 
 # Complete Changelog of all changes in 2012 {.tabset}
-
 ## 3620
-### Bug fixes
-- Fixed some aiming problems with Aeon boats, specifically those with Oblivion Cannon (T2 Destroyer, T3 Battleship).
-- Fixed Sonar range rings not being drawn for T1 Scouts.
-- Fixed Stealth range rings not correctly displaying the actual extent of the Stealth Field.
 ### Balance
 - T1 Bombers' energy cost changed to 2250 (From 1400).
 
 ## 3615
-### Known issues
-- AZUI (not GAZUI) incompatibility : Breaking the whole UI on start.
-### Exploit fixes
-- Off mapping air units are now sent back into the map after a short period of time.
-- Fixed an exploit were you can build half of a building for free.
-- Fixed an exploit were cybran were able to instantly capture a a neutral unit.
-- Fixed an exploit that made T2 mass fabricators upgradeable to T3.
-### Bugs fixes
-- Fixed aeon TMD range category being wrong.
-- Fixed a bug with UEF ACU pod upgrade.
-- Fixed a bug that make transports sometimes killing units during loading.
 ### Balance changes
 #### General  :
 - T3 naval factories cost now 5150 mass (+2000).
@@ -116,16 +100,7 @@ dateCreated: 2021-08-31T14:14:48.329Z
  Level5 = 500
 
 ## 3614
-### Bug fixes
-- You can now pause the anti-nuke missile construction.
-- Fixed a warning "info: Warning: \000/projectiles/tananglertorpedo06/tananglertorpedo06_proj.bp\000 has mesh defined both inline and by reference"
-- Fixed sera t2 torpedo launcher projectiles going through islands and damaging enemy units.
 ### Balance changes
 - T1 Bomber reload time increased to 4 seconds (from 2), to fix bomb drop exploit/abuse.
 - Reverted the T1 Tank speed to 3599 (-0.1 in speed except for mantis).
 - Fixing the UEF T3 bomber energy cost. It now costs the same as the other factions.
-
-## 3610
-- Scores were not registered correctly.
-- Chat was doubled in game.
-- Replays were not playing.
