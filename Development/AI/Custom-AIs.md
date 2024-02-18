@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2023-07-31T06:16:50.775Z
+date: 2024-02-18T09:25:52.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -26,10 +26,51 @@ Each AI has a different style of playing, so be sure to try different AI to see 
 
 
 ## Actively developed AI
+These AI are being actively developed with recent updates.  If you have feedback on these AI contact the authors via discord (preferably with a replay highlighting the feedback point)
+
+### RNGAI
+![rngai.jpg](/rngai.jpg)
+*Author: Relent0r*
+Other mods required: None (earlier versions required AI-Uveso)
+AI is aimed at players wanting to learn 1v1 gameplay. It provides an avenue to play against something that emulates some of the methods ladder players use!
+
+AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
+
+### M28AI
+![m28ai.jpg](/m28ai.jpg)
+*Author: maudlin27*
+Other mods required: None
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 700-1200.  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast, and provides a 'low micro' M28Easy version.
+
+M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI.
+
+Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+
+AI Variants: M28AI, M28AI Easy
+
+### Marlo's Sorian Edit
+![sorianedit.bmp](/sorianedit.bmp)
+Author: Degulum/!MarLo
+Other mods required: AI-Uveso
+Based on the Sorian AI, this mod looks to make improvements to the logic to provide a more competitive experience.
+
+
+## AI not under active development
+
+### M27AI
+![m27ai.jpg](/m27ai.jpg)
+*Author: maudlin27*
+Last updated: January 2024
+Other mods required: None
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).  While largely superceded by M28AI, it will play differently and can beat M28AI on some maps.  Although not actively developed it is still occasionally updated to be compatible with the latest FAF releases.
+
+Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+
 
 ### AI-Uveso
 ![uvesoai.jpg](/uvesoai.jpg)
 *Author: Uveso*
+Last updated: August 2023
 Other mods required: None
 This AI is a turtle-focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
 
@@ -37,46 +78,12 @@ The AI-Uveso mod also allows for the generation of 'map markers', which are used
 
 AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
 
-### RNGAI
-![rngai.jpg](/rngai.jpg)
-*Author: Relent0r*
-Other mods required: AI-Uveso
-AI is aimed at players wanting to learn 1v1 gameplay. It provides an avenue to play against something that emulates some of the methods ladder players use!
-
-AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
-
-### M27AI
-![m27ai.jpg](/m27ai.jpg)
-*Author: maudlin27*
-Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).
-
-Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
-
-### M28AI
-![m28ai.jpg](/m28ai.jpg)
-*Author: maudlin27*
-Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 600-800.  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps. Although slightly weaker than M27AI overall (as of v1 release, May 2023), it is compatible with a wider range of mods and map settings and runs roughly twice as fast as M27AI.
-
-M28AI also supports the FA and SC campaign missions (as an AI teammate)
-
-Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
-
-
 ### SCTA AI 
 ![sctarebalance_icon.png](/sctarebalance_icon.png)
 *Author: Dragun101*
+Last updated: July 2023
 Other mods required: SCTABalance, SCTAFix, and AI-Uveso
 Note that this AI is part of the wider SCTA conversion mod, and requires both the SCTABalance and SCTAFix modes to work (which result in the two total annihilation-based factions as playable options for humans and the SCTA AI).  The AI comes as part of these two mods.
-
-## AI not under active development
-### Marlo's Sorian Edit
-![sorianedit.bmp](/sorianedit.bmp)
-Author: Degulum/!MarLo
-Last updated: October 2022
-Other mods required: AI-Uveso
-Based on the Sorian AI, this mod looks to make improvements to the logic to provide a more competitive experience.
 
 ### DilliDalli
 ![bugfix.png](/bugfix.png)
@@ -122,7 +129,7 @@ When released Sorian AI represented an improvement to the base AI in FAF.  Note 
 AI variants: Sorian, Rush, Air, Water, Turtle, Adaptive
 
 ## Historic FAF AI
-The following AI has previously been developed for FAF, but currently does not work, and are noted briefly for reference.
+The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
 
 ### AI-Swarm
 *![swarmicon.jpg](/swarmicon.jpg)
