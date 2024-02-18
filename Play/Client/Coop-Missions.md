@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2023-07-31T06:17:28.339Z
+date: 2024-02-18T09:30:09.069Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -22,7 +22,7 @@ In addition to the original GPG campaign missions from the original Supreme Comm
 - Slightly better campaign AI
 - Additional secondary objectives (thanks to gregory1001)
 - Cooperative leaderboard. Fight for the best time!
-- Custom "M28AI" that can be played with as a teammate similar to a human player
+- Custom "M28AI" mod whose AI can be played with as a teammate similar to a human player, or which can be used to take over existing AI allies or the enemy campaign AI
 ## Interface
 The interface is mostly self-explanatory, but we'll document it here anyway, as labeled:
 1) **Hosting Missions**
@@ -67,4 +67,4 @@ These missions are single scenarios, meaning they are not linked to larger campa
 ##### Notes:
 - FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
-- If you want to play a co-op mission with an AI buddy (instead of solo or with a human) you can install the M28AI custom AI and have it as a teammate (which currently supports the "SupCom - FA campaign" and the original suppreme commander missions in co-op) - see the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI.
+- If you want to play a co-op mission with an AI buddy (instead of solo or with a human) you can install the M28AI custom AI and have it as a teammate (which currently supports the "SupCom - FA campaign" and the original suppreme commander missions in co-op) - see the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI.  This AI can also (via the game options) be used for existing AI allies on the campaign mission, or to take over the hostile AI logic.
