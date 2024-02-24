@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2023-07-19T17:32:22.984Z
+date: 2024-02-24T17:47:34.557Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -20,7 +20,8 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Billy|UEF ACU 'Billy' Nuke missle upgrade|
 |Com|ACU (Armored Command Unit)|
 |Double gun|Aeon ACU weapon upgrades, sometimes used for Seraphim|
-|E|When typed in the game chat, the player need Energy|
+|E|Short for Energy. When typed in the game chat, the player requests mass|
+|Eco|Economy|
 |Engy|Engineer|
 |Fac|Factory (may have a prefix specifying the type of factory (land factory, air fac, naval fac)|
 |Frontloaded|See: High alpha unit|
@@ -29,6 +30,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |High alpha unit|A unit whose main weapon shoots powerful shots but not so often. Aeon Obsidian, UEF Percival, Seraphim Yenzyne, sniper bots are all frontloaded|
 |HQ|HQ factory, added in engy mod update, required to build support factories (FAF / engy mod)|
 |MAA|Mobile AA|
+|M|Short for Mass. When typed in the game chat, the player requests mass|
 |Mass fabs|Mass Fabricators|
 |Mex|Mass Extractor|
 |Nano|Health/regen upgrade|
@@ -39,6 +41,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |RAS|Resource allocation system, ACU resource upgrade|
 |SCU|SACU (Support Armored Command Unit)|
 |Sera|Seraphim|
+|Sim City|Building your base without interacting with the enemy|
 |Sniper Com|Aeon ACU upgraded with double gun upgrades|
 |Speed gun|ACU upgrade that adds speed to the main weapon|
 |Stasis|Aeon ACU upgrade: Chrono Dampener|
