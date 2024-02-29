@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-01-20T12:11:59.502Z
+date: 2024-02-29T22:56:24.044Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -29,7 +29,7 @@ These are the current Team Leaders:
 	> TBD
 
 - **Tournament Team Leader:** 
-	>	**Swkoll**
+	>	TBD
   
 - **Matchmaking Team Leader:** 
 	>	**Stormlantern**
@@ -189,23 +189,14 @@ Board.
 ### Tournament Team
 #### Members
 ###### FAF Tournament Manager:
-- Swkoll
+
 ##### FAF Senior TDs:
-- Morax
-- Swkoll
+- NOC
 ##### FAF TDs:
 - Pryanichek
 - Fearghal
 - TRU_Putin
 - Lenkin
-- CaptainKlutz
-- Aeonrico
-- Kite
-- KeyBlue
-- Apofenas
-- Dragun
-- White_Owl
-- Tagada
 
 #### Policies
 ##### Requirements for being a TD:
