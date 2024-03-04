@@ -2,7 +2,7 @@
 title: New To FAF? - Start Here
 description: 
 published: true
-date: 2024-01-09T12:48:51.401Z
+date: 2024-03-04T13:22:11.801Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T00:09:41.949Z
@@ -37,16 +37,16 @@ Steam link/GOG link can be thought of as a one-time verification tool that allow
 You can check out [these helpful resources](https://wiki.faforever.com/en/Play/Learning/Learning-SupCom), learn from people in the [#training channel on the FAF Discord](https://discord.gg/VzZgSZFwuX), and or contact [a trainer](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049).
 
 ## How can I talk with people on FAF?
-You can join the [FAF Discord](https://discord.gg/hgvj6Af) and talk with people there (you can also message people via the [FAF forums](https://forum.faforever.com) and via the FAF client). A lot of people check the FAF Discord frequently. So, if you join one of the general voice channels on there, you'll likely get some company in not too long. You can also ask people in-game or in-lobby with you if they want to talk on Discord. People often say yes.
+You can join the [FAF Discord](https://discord.gg/hgvj6Af) and talk with people there (you can also message people via the [FAF forums](https://forum.faforever.com) and the FAF client). A lot of people check the FAF Discord frequently. So, if you join one of the general voice channels on there, you'll likely get some company in not too long. You can also ask people in-game or in-lobby with you if they want to talk on Discord. People often say yes.
 
 ## How can I get help?
 You can check out the [help section](https://forum.faforever.com/category/4/i-need-help) of the forums, or ask for help on the [FAF Discord](https://discord.gg/hgvj6Af) in either the [tech-support-foruml](https://discord.gg/rbXwm8BZAt) (for technical problems) or in the [#training channel](https://discord.gg/VzZgSZFwuX) (for gameplay questions, finding trainers, and improving at FAF).
 
-## How is FAF different from Steam's version of SC:FA?
+## How is FAF different from Steam's version of SC: FA?
 FAF provides integrated mod support, [better AIs](https://wiki.faforever.com/en/Development/AI/Custom-AIs), multiplayer campaign missions, community services, a matchmaking service, easy access to thousands of new maps, the ability to have games with up to 16 players, a random map generator, a lot of lag reduction, bugfixes, QoL improvements, and improved game balance.  To learn more, you can read [this more detailed explanation](https://wiki.faforever.com/en/FAQ/Changes-from-steam).
 
 ## How can I stop getting kicked for being a noob?
-You can join the 'All Welcome' games, host a game yourself, or play on the matchmaker. Playing rated games and winning some will help you build your rating, and getting a higher rating will enable you to join even more games.
+You can join the 'All-Welcome' games, host a game yourself, or play on the matchmaker. Playing rated games and winning some will help you build your rating, and getting a higher rating will enable you to join even more games.
 
 ## How can I tell if a game is rated?
 You can check out [this link](https://forum.faforever.com/topic/272/why-was-game-x-not-rated?_=1644593448265) to see the things that can make games unrated. If there is nothing that makes a game unrated, it is rated.
