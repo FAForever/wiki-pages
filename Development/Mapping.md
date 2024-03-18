@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2023-11-01T18:18:49.110Z
+date: 2024-03-18T13:57:08.641Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -382,7 +382,7 @@ The game provides you with a decently large selection of textures to use in your
 
 Custom textures, and decals, need to be encoded to a .DDS file format, specifically the (DXT3) BCT2 compression format. Several tutorials on the topic are available.
 
-- [Custom textures*Video tutorial on how to add custom textures*](https://www.youtube.com/watch?v=_wXK0aYnz70)
+- [Custom textures*Video tutorial on how to add custom textures by Morax*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 - [About decals: Introduction*Pt. 1 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/24/about-decals-introduction-part-1)
 - [About decals: Converting normal maps*Pt. 2 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/245/about-decals-converting-normal-maps)
 - [About decals: WorldMachine templates*Pt. 3 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/1090/about-decals-world-machine-templates)
@@ -390,7 +390,6 @@ Custom textures, and decals, need to be encoded to a .DDS file format, specifica
 - [About decals: Generating a map-wide lighting texture*Pt. 5 of the forum post series on decals by Jip*](https://forum.faforever.com/topic/786/about-decals-generating-a-map-wide-lighting-texture)
 {.links-list}
 - [About custom decals and stratums*A forum post by Jip*](https://forum.faforever.com/topic/19/about-custom-decals-and-stratums)
-- [Adding custom textures to FAF*A video tutorial by Morax*](https://www.youtube.com/watch?v=_wXK0aYnz70)
 
 ## Adaptive mapping
 Prior to the introduction of adaptive maps, it was a common practice to upload multiple versions of the same map, each modified with slight resource variations (e.g., Canis 4v4, Canis 5v5). However, with the advent of the adaptive map script developed by CookieNoob and KeyBlue (with further modifications by svenni_badbwoi), this is no longer required. Adaptive maps enable the consolidation of several similar map versions into a single map, offering advanced map settings directly accessible from the game lobby. Such settings may allow players to adjust map resources dynamically based on the number of players, as well as add or remove resources, units, and wrecks. Two tutorials, [one legacy tutorial](/en/Development/Mapping/Adaptive-Maps) and [one updated tutorial](/en/Development/Mapping/Adaptive-Mapping-2021) are available.
