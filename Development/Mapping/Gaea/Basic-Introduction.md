@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2023-12-29T14:35:17.687Z
+date: 2024-03-18T01:51:13.500Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -154,10 +154,10 @@ The most simple way to create a symmetric heightmap is done by using the `Flip` 
 ![mirroring.png](/images/mapping/gaea/basics/mirroring.png)
 >*Figure 13: An example of how the `Flip` node can be used to create three different kinds of symmetry: Horizontal, Vertical, and Both. `Combine, Add, 100%` was used in these examples.*
 
-### Rendering your height mask
+### Rendering your heightmap
 When you've completed your terrain, you can export it for importing into the FAF editor. To do this, take the last node in your graph and mark that node for export by selecting the node and pressing <kbd>F3</kbd>, or by right clicking it and selecting *Mark for Export*. The marked nodes will now show up under the Build tab in the top right. Adjust the relevant settings:
 
-* Change the filetype of all masks to *.raw*
+* Change the filetype of all nodes to *.raw*
 * *Method* should be left on *Normal Build*
 * *Resolution* should be set to the size corresponding to your map's heightmap (257px for a 5km map, 513px for a 10km map, 1025px for a 20km map).
 * *Colorspace* should be left on *sRGB*
