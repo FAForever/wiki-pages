@@ -2,7 +2,7 @@
 title: Basic Introduction to Mapping with Gaea
 description: A tutorial on the fundamentals of using Gaea for mapping
 published: true
-date: 2024-03-18T01:52:23.276Z
+date: 2024-03-18T01:52:44.580Z
 tags: mapping, gaea, basics
 editor: markdown
 dateCreated: 2023-06-24T17:53:37.299Z
@@ -154,7 +154,7 @@ The most simple way to create a symmetric heightmap is done by using the `Flip` 
 ![mirroring.png](/images/mapping/gaea/basics/mirroring.png)
 >*Figure 13: An example of how the `Flip` node can be used to create three different kinds of symmetry: Horizontal, Vertical, and Both. `Combine, Add, 100%` was used in these examples.*
 
-### Rendering your heightmap
+## Rendering your heightmap
 When you've completed your terrain, you can export it for importing into the FAF editor. To do this, take the last node in your graph and mark that node for export by selecting the node and pressing <kbd>F3</kbd>, or by right clicking it and selecting *Mark for Export*. The marked nodes will now show up under the Build tab in the top right. Adjust the relevant settings:
 
 * Change the filetype of all nodes to *.raw*
@@ -166,7 +166,7 @@ When you've completed your terrain, you can export it for importing into the FAF
 
 After selecting where Gaea should dump the generated files, you can render the files by pressing *Start Build*.
 
-## Rescaling height
+#### Rescaling height
 If, upon importing the heightmap into the FAF map editor, you realize that there is an issue with the vertical scale, you may want to adjust your heightmap. There are a few easy ways of achieving this. The `Clamp` node lets you scale the whole heightmap proportionally. Connect this node to the last node of your graph and adjust as necessary. Similarly, under the modifier parameters (those little buttons at the bottom right of a node's parameter panel) you will find the *Raise* modifier, a circle containing an X. This parameter behaves nearly identical to the `Clamp` node. Lastly, by setting the *Range* setting under the build menu to *Remapped*, and setting the maximum value to some fraction of 1, you can rescale the terrain.
 
 Some trial and error is likely required to find the right scale.
