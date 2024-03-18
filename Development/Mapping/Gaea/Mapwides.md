@@ -2,11 +2,16 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2023-12-29T15:00:42.051Z
+date: 2024-03-18T14:18:20.467Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
 ---
+
+>This tutorial is a draft and is currently incomplete: several segments are missing and some segments of the text needs to be rewritten or may be partially incorrect.
+{.is-danger}
+
+
 
 # Gaea tutorial: Creating map-wide assets in Gaea
 This tutorial focuses on creating map-wide assets in Gaea. Here, I will discuss the creation of custom shadows, map-wide normals, and map-wide albedo decals. Additionally, this tutorial will explain the two main ways these assets can be applied to your map, and will include a discussion on the newly developed shaders.
