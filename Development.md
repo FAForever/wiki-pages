@@ -2,7 +2,7 @@
 title: Creation & Development
 description: 
 published: true
-date: 2023-07-19T08:49:57.903Z
+date: 2024-03-20T08:57:13.836Z
 tags: modding, mapping, overview
 editor: markdown
 dateCreated: 2023-06-05T11:37:27.777Z
@@ -20,6 +20,7 @@ If you're new to FAF and need help, here are some good introductory resources:
 - [Bug Reporting & Testing *How to Create better bug reports*](https://wiki.faforever.com/en/Development/Game-Development/Bug-Reporting-and-Testing)
 - [Command Line Switches *Command line switches let you run Forged Alliance with extra options and settings.*](https://wiki.faforever.com/en/Development/Game-Development/Command-Line-Switches)
 - [FAF Development *Development for FAF*](https://wiki.faforever.com/en/Development/Game-Development/FAF-Development)
+- [Console Commands](/en/Development/Console_Commands)
 {.links-list}
 
 # Mapping
