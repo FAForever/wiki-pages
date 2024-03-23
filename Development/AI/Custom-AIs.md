@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-02-18T09:25:52.110Z
+date: 2024-03-23T20:02:52.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -40,7 +40,7 @@ AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested
 ![m28ai.jpg](/m28ai.jpg)
 *Author: maudlin27*
 Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 700-1200.  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios, applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast, and provides a 'low micro' M28Easy version.
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 700-1200 (i.e. slightly better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available.
 
 M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI.
 
@@ -57,12 +57,14 @@ Based on the Sorian AI, this mod looks to make improvements to the logic to prov
 
 ## AI not under active development
 
+Although no longer receiving updates, the following AI should still work in FAF.
+
 ### M27AI
 ![m27ai.jpg](/m27ai.jpg)
 *Author: maudlin27*
 Last updated: January 2024
 Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).  While largely superceded by M28AI, it will play differently and can beat M28AI on some maps.  Although not actively developed it is still occasionally updated to be compatible with the latest FAF releases.
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).  While largely superceded by M28AI, it will play differently and can beat M28AI on some maps.  Although not actively developed it is still occasionally updated to ensure it remains compatible with the latest FAF releases.
 
 Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
@@ -206,6 +208,10 @@ If reporting a bug with an AI, the following will be helpful for the AI develope
 Rainbow Cup tournaments have been held every 6-12 months, the most recent of which, Rainbow Cup VI, is linked below:
 https://forum.faforever.com/topic/5400/rainbow-cup-vi-3v3-1-500
 These tournaments typically pit 2 human teams against each other, with the AI featuring as a 3rd (and/or 4th) team in the game.  When one human team loses, the other human team wins the match.
+
+#### Rainbow Cup VII (February-March 2024)
+This version of the tournament featured 1-2 AI as teammates with 4 human players on each team.  Casts of almost all games in the tournament are available on the FAFLive youtube channel:
+[Rainbow Cup VII](https://www.youtube.com/playlist?list=PL0nxuIUIjpFue9BdEDI0olVqCsu3d3YsW)
 
 #### Rainbow Cup VI (March 2023)
 A number of the games in the tournament are cast, and links to the first 2 (out of 3) days of the Rainbow Cup VI casts are below:
