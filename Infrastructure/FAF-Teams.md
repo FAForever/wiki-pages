@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-02-29T22:56:24.044Z
+date: 2024-03-24T15:08:29.063Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -57,22 +57,21 @@ These are the current Team Leaders:
 ## Tabs {.tabset}
 ### Trainer Team
 
-- F-Odin
-- Sladow
 - Cheeseberry
-- Grimplex
-- LimeZ
-- Gorthaur
 - FtXCommando
-- Skrat
-- Harzer99
-- Prohibitorum
-- SpikeyNoob
-- Terminal
+- F-Odin
+- Gorthaur
+- Grimplex
 - Judoka1972
-- TheDuelist
+- LimeZ
 - Maudlin27
+- Prohibitorum
+- Skrat
+- Sladow
+- SpikeyNoob
 - Strydxr
+- Terminal
+- TheDuelist
 
 #### Policies
 We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
