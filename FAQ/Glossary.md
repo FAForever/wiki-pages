@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-04-23T22:38:26.458Z
+date: 2024-04-23T22:39:35.951Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -44,6 +44,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Sera|Seraphim|
 |Sim City|Building your base without interacting with the enemy|
 |Sniper Com|Aeon ACU upgraded with double gun upgrades|
+|Spam|Building something in excessive quantities|
 |Speed gun|ACU upgrade that adds speed to the main weapon|
 |Stasis|Aeon ACU upgrade: Chrono Dampener|
 |Sub|Submarine|
