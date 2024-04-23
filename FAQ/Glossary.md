@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-02-24T17:47:34.557Z
+date: 2024-04-23T22:35:48.160Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -24,6 +24,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Eco|Economy|
 |Engy|Engineer|
 |Fac|Factory (may have a prefix specifying the type of factory (land factory, air fac, naval fac)|
+|Float|T2 tanks and support units able to cross both land and water|
 |Frontloaded|See: High alpha unit|
 |GS|Gunship|
 |Gun|ACU combat upgrade, adds range and damage|
@@ -53,7 +54,8 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Tele|teleport|
 |Telecom|generic phrase for ACUs and SACUs with the teleporter upgrade|
 |Teledef|various forms of defense against teleporting units, usually implies T1 PD spam around crucial areas|
-|Telemazer|snipe using teleport + laser upgraded ACU|
+|Telemazer|Teleport and Laser upgrades on the Cybran ACU, typically used for snipes|
+|Tonk|A unit fulfilling the role of a tank, whithout necessarily being one. E.g. the T1 Cybran Mantis assault bot is a tonk|
 |Torp|Short for 'torpedo'. Usually followed by 'bomber', 'launcher', or 'defense', to specify the specific unit when not clear from context. If used in the phrase torp com, refers to a Cybran ACU with the torpedo upgrade on it.|
 |Torp Com|Cybran commander with the torpedo upgrade|
 |Trans|Transport|
