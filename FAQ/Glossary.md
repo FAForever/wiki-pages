@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-05-06T04:53:50.615Z
+date: 2024-05-06T04:56:37.786Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -23,7 +23,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Double gun|Aeon ACU weapon upgrades, sometimes used for Seraphim|
 |E|Short for Energy. When typed in the game chat, the player requests energy|
 |Eco|Economy|
-|Engy|Engineer|
+|Engi/Engie/Engy|Engineer|
 |Fac|Factory (may have a prefix specifying the type of factory (land factory, air fac, naval fac)|
 |Float|See Hover|
 |Frontloaded|See: High alpha unit|
@@ -39,7 +39,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Nano|Health/regen upgrade|
 |OC|Overcharge|
 |PD|Point defense|
-|Pgen (PG)|Power Generator|
+|Pgen/PG|Power Generator|
 |Range Gun|Aeon ACU upgrade that adds range to the main weapon|
 |RAS|Resource allocation system, ACU resource upgrade|
 |SCU|SACU (Support Armored Command Unit)|
@@ -133,7 +133,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |HF|Have fun|
 |HP|Hitpoint|
 |Inc|Incoming|
-|Mod|[chat moderator](https://wiki.faforever.com/en/Infrastructure/FAF-Teams#the-teams)|
+|Mod|[chat moderator](https://wiki.faforever.com/en/Infrastructure/FAF-Teams#the-teams) or UI/SIM game modification. For the latter, see the "Mods" vault section of the FAF client|
 |PM|Personal message|
 |Premade|A group of players that agreed to play together, and usually are in a voice call with eachother.|
 |Sim speed|The speed at which the game runs, which can slow down in cases of lag|
