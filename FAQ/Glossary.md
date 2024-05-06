@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-05-06T04:48:59.233Z
+date: 2024-05-06T04:49:15.602Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -29,7 +29,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |GS|Gunship|
 |Gun|ACU combat upgrade, adds range and damage|
 |High alpha unit|A unit whose main weapon shoots powerful shots but not so often. Aeon Obsidian, UEF Percival, Seraphim Yenzyne, sniper bots are all frontloaded|
-|Hoves|See Float|
+|Hover|See Float|
 |HQ|HQ factory, added in engy mod update, required to build support factories (FAF / engy mod)|
 |MAA|Mobile AA|
 |M|Short for Mass. When typed in the game chat, the player requests mass|
