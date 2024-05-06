@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-05-06T04:50:23.463Z
+date: 2024-05-06T04:53:50.615Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -15,12 +15,13 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Terms|Definitions|
 |-|-|
 |AA|Anti air|
+|ACU|Armored Command Unit, the commander unit you start the game with|
 |ARAS|Advanced Resource Allocation System|
 |Arty|Artillery|
 |Billy|UEF ACU 'Billy' Nuke missle upgrade|
-|Com|ACU (Armored Command Unit)|
+|Com|Short for Commander, see ACU|
 |Double gun|Aeon ACU weapon upgrades, sometimes used for Seraphim|
-|E|Short for Energy. When typed in the game chat, the player requests mass|
+|E|Short for Energy. When typed in the game chat, the player requests energy|
 |Eco|Economy|
 |Engy|Engineer|
 |Fac|Factory (may have a prefix specifying the type of factory (land factory, air fac, naval fac)|
@@ -37,7 +38,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Mex|Mass Extractor|
 |Nano|Health/regen upgrade|
 |OC|Overcharge|
-|PD|point defense|
+|PD|Point defense|
 |Pgen (PG)|Power Generator|
 |Range Gun|Aeon ACU upgrade that adds range to the main weapon|
 |RAS|Resource allocation system, ACU resource upgrade|
@@ -55,7 +56,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Tech|Refers to the tech level, or teching (investing resources into tech). Examples include tech 1 land (also t1 land) and I'm teching mex|
 |Tele|teleport|
 |Telecom|generic phrase for ACUs and SACUs with the teleporter upgrade|
-|Teledef|various forms of defense against teleporting units, usually implies T1 PD spam around crucial areas|
+|Teledef|Various forms of defense against teleporting units, usually implies PD spam around crucial areas|
 |Telemazer|Teleport and Laser upgrades on the Cybran ACU, typically used for snipes|
 |Tonk|A unit fulfilling the role of a tank, whithout necessarily being one. E.g. the T1 Cybran Mantis assault bot is a tonk|
 |Torp|Short for 'torpedo'. Usually followed by 'bomber', 'launcher', or 'defense', to specify the specific unit when not clear from context. If used in the phrase torp com, refers to a Cybran ACU with the torpedo upgrade on it.|
