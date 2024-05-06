@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-05-06T04:49:46.650Z
+date: 2024-05-06T04:50:23.463Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -30,7 +30,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |Gun|ACU combat upgrade, adds range and damage|
 |High alpha unit|A unit whose main weapon shoots powerful shots but not so often. Aeon Obsidian, UEF Percival, Seraphim Yenzyne, sniper bots are all frontloaded|
 |Hover|T2 tanks and support units able to cross both land and water|
-|HQ|HQ factory, added in engy mod update, required to build support factories (FAF / engy mod)|
+|HQ|HQ factory, added to base FAF in the engy mod update, required to build support factories|
 |MAA|Mobile AA|
 |M|Short for Mass. When typed in the game chat, the player requests mass|
 |Mass fabs|Mass Fabricators|
