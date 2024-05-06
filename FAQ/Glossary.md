@@ -2,7 +2,7 @@
 title: Glossary
 description: A glossary of terms, sorted by tech level.
 published: true
-date: 2024-05-06T04:56:37.786Z
+date: 2024-05-06T04:57:44.692Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:40.060Z
@@ -45,7 +45,7 @@ dateCreated: 2021-08-31T09:43:40.060Z
 |SCU|SACU (Support Armored Command Unit)|
 |Sera|Seraphim|
 |Sim City|Building your base without interacting with the enemy|
-|Sniper Com|Aeon ACU upgraded with double gun upgrades|
+|Sniper Com|Aeon ACU upgraded with triple gun upgrades, giving it more range than any other ACU|
 |Spam|Building something in excessive quantities|
 |Speed gun|ACU upgrade that adds speed to the main weapon|
 |Stasis|Aeon ACU upgrade: Chrono Dampener|
