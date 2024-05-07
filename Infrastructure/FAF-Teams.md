@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-04-15T22:19:15.364Z
+date: 2024-05-07T18:20:39.237Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -347,6 +347,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - Hdt80bro
 - 4z0t
 - BlackYps
+- Cheeseberry
 
 #### Policies:
 Every team in the FAF community is required to have a mission statement. This was made mandatory at the general meeting of the 6th of March, 2022 when the `Governance structure` proposal was accepted. The mission statement the game development team describes:
