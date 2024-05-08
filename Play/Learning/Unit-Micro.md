@@ -2,7 +2,7 @@
 title: Unit Micro
 description: 
 published: true
-date: 2023-07-11T21:16:10.210Z
+date: 2024-05-08T12:29:11.637Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T21:47:57.307Z
@@ -14,7 +14,7 @@ Microing units can greatly increase their effectiveness, however, it concentrate
 This section will cover how to use regular unit orders. Most orders can be given by using right clicks, or by using a hotkey if bound. There is also an orders panel in the bottom left of the screen which shows all the available commands that the selected group can perform. Using a hotkey or clicking on the panel is identical in all cases.
 
 ### Move Command
-Normally given with a right-click, this can be used to make units that have build power move into reclaimable objects without being disrupted.
+Normally given with a right-click, this can be used to make units that have built power move into reclaimable objects without being disrupted.
 - Give move commands with right-click, the hotkey, or the panel on the bottom left.
 - Usually used for sending units to attack, instead of the attack command.
 - Useful for microing your ACU in forested areas.
@@ -37,7 +37,7 @@ This command is given with Alt+right-click. It appears as a red attack icon, jus
 	- You can drag this command around to keep its effects while moving to another spot to reclaim.
 
 ### Reclaim Command
-When having a unit that can reclaim selected, right-click on reclaimable objects to reclaim them, use the hotkey or the icon in the bottom left panel.
+When having a unit that can reclaim selected, right-click on reclaimable objects to reclaim them, and use the hotkey or the icon in the bottom left panel.
 - Manually clicking rocks to reclaim is the fastest way to reclaim, but it takes a lot of attention.
 - Using the hotkey or the icon works slightly differently than simply mousing over reclaimable objects.
 	- The reclaim command only shows up on its own when zoomed in to a certain level.
@@ -70,15 +70,15 @@ This will order units to move between a series of waypoints and attack anything 
 A feature present for submarines and a couple of special units (f.i. seraphim destroyer). Accessible from the command panel on the bottom left or you can assign it a hotkey in the F1 menu in the game.
 - Submerged units will not be able to use any weapon not meant for use underwater, only usable weapons will be torpedoes and tactical/strategic missiles.
 - This is a strong tool to fight against the poor naval composition of your opponent, or just fight against a force with weak torpedo potential.
-- Submerged units can be attacked with groundfire by weapons with splash.
+- Submerged units can be attacked with groundfire by weapons with a splash.
 - This can be used as a way to fight pathfinding problems and stuck units. A stuck Tempest (t4 battleship of Aeon) is very common, submerging it temporarily can allow you to move it around freely.
 
 ### Transport & Ferry Commands
 There are several ways you can use your transports, one being for small drops where you want to have more control and another for an automated ferry line.
 - You can either select units and right-click on transport to load or select transport and click on units.
-- You can set up a sequence of orders for your loading units to perform after they will be dropped. For this, using shift order them to load on the transport and then proceed to queue other desired orders. Those other orders will be performed after they get dropped.
+- You can set up a sequence of orders for your loading units to perform after they are dropped. For this, shift orders them to load on the transport and then proceed to queue other desired orders. Those other orders will be performed after they get dropped.
 - You can drop individual units from a transport, left-click on a unit icon to highlight it while having a transport selected and then click on a place where to drop.
-- For ferry command you can issue many ferry orders, not necessarily only 2, this way you can make a more sophisticated ferry path, the transports will follow them all until the last one, where they will drop out all units. For normal drop command to issue a sequence of move orders, you have to use the actual move order and the drop order only at the end when you want to drop.
+- For ferry command you can issue many ferry orders, not necessarily only 2, this way you can make a more sophisticated ferry path, the transports will follow them all until the last one, where they will drop out all units. For a normal drop command to issue a sequence of move orders, you have to use the actual move order and the drop order only at the end when you want to drop.
 - You can put transports to assist your factories, they will gather all the units from them and transport them to the rally points of those factories.
 - Alternatively, you can put factories' rally points on a ferry command, units will go straight onto the ferry line after coming out of the factory.
 - You can put new transports to assist an already existing ferry command instead of creating new ones.
@@ -90,8 +90,8 @@ There are several ways you can use your transports, one being for small drops wh
 Pathfinding is one of the most prominent issues of Forged Alliance up to this day. It slows down games, ruins the experience, and causes frustration. Knowing how to deal with it is necessary. It's tightly connected with some of the topics listed below so it's recommended to familiarize yourself with them. Pathfinding in this game is bad and often causes units to collide with each other, lose acceleration, rotate undesirably and block each other's movements. This however can also be used to your advantage.
 - Time is especially important early on so you have to orchestrate your base and movements with the thought of having nothing interfering with something else.
 - Engineers that are being built in the factory will be facing the direction of the factory's rally point, and if you drag it to the opposite side while the engineer is still in production after it's built it will rotate on the spot causing your factory to sit idle as the current engineer still hasn't rolled off. You either have to change the rally point to the desired position before the engineer is started or change it already after the engineer gets built.
-- To gather a big amount of engineers in one place, use the factory attack order (alt+right click on the ground while having a factory selected, as illustrated on the screenshot to the right) instead of the standard rally point. This way they will spread out less upon reaching their destination point.
-- To have big amount of engineers assisting 1 project issue 1 engineer to assist the project and all others to assist this engineer. With how game mechanics work this will give them much better range and responsiveness.
+- To gather a large number of engineers in one place, use the factory attack order (alt+right click on the ground while having a factory selected, as illustrated on the screenshot to the right) instead of the standard rally point. This way they will spread out less upon reaching their destination point.
+- To have a large number of engineers assisting 1 project issue 1 engineer to assist the project and all others to assist this engineer. With how game mechanics work this will give them much better range and responsiveness.
 - You can use the pathfinding wankiness to your advantage by blocking enemies' acu or other units if there is a need. For this place a move order for your units as close to the unit you want to block as possible. If he is trying to escape to a safe zone like water, place units in between him and the water. This is especially strong using the spread move order which is explained below.
 - Walls are absurdly strong in the face of big unit numbers as they cause those units to cluster and slow down significantly.
 - To lower the effect of pathfinding instead of issuing one big move order for your entire force, select it by parts and issue several move orders to slightly different destinations so they don't get in each other's way.
@@ -99,7 +99,7 @@ Pathfinding is one of the most prominent issues of Forged Alliance up to this da
 
 ### Acceleration
 All units in FA require a small window of time to accelerate to the maximum speed.
-- For engineers and ACU it's usually better to have as few individual movements as possible while expanding. For example, if you can build 2 mexes while standing on 1 spot in-between them, it's recommended to move there and build from there as opposed to stopping to build 1 mex, then losing time to accelerate and move up to the 2nd one (unless you are coming from a direction where you can build 1 of the mexes fast but have to walk quite a bit to build 2nd).
+- For engineers and ACU it's usually better to have as few individual movements as possible while expanding. For example, if you can build 2 mexes while standing on 1 spot in between them, it's recommended to move there and build from there as opposed to stopping to build 1 mex, then losing time to accelerate and move up to the 2nd one (unless you are coming from a direction where you can build 1 of the mexes fast but have to walk quite a bit to build 2nd).
 - Try to not have your units collide as it will make them lose their acceleration and sometimes even rotate.
 - Try to not have any units collide with your ACU while chasing the enemy's ACU for the kill. It's essential to keep him in range and losing your acceleration can cost you the game. This works both ways however, try to block the enemy's commander as much as possible.
 - There sometimes comes a situation when you are chasing an enemy's ACU with a GC or other experimental. While moving, it will target random units so you have to stop and target-fire an ACU. Try to first get as close as possible without actually allowing the enemy to escape and then stop and target his ACU when you are sure you are going to kill him without having to move and lose time to accelerate again.
@@ -112,13 +112,13 @@ Units in FA are divided into units with a turret that can rotate the turret and 
 - If you are on a receiving end and have units with slow-rotating turrets try to not micro them much, as any sort of change to the direction of movement will rotate their bodies quickly while turrets will need time to get back in the firing position, losing valuable DPS.
 - Blocking units can cause them to act weird and rotate undesirably, useful versus ACUs.
 - Some units like Cybran destroyers have their turret only rotating a limited amount of degrees (can't shoot backwards) which means they are defenceless when retreating. If you can overrun the Cybran navy and force them to retreat you will be in an advantageous position.
-- Some units have a set minimal range of fire. If those units are with a limited turret that cant rotate 360 degrees, it can result in an opportunity to abuse a pretty absurd and overpowered "mechanic" of getting pretty much in the face of this unit, rendering it useless, to start shooting this opposing unit would need to get out of the minimal range but since it's turret doesn't allow it to shoot backwards while trying to move away it results in a very one-sided fight. A good example would be getting right in the face of Seraphim's T4 bot with the GC.
+- Some units have a set minimal range of fire. If those units have a limited turret that cant rotate 360 degrees, it can result in an opportunity to abuse a pretty absurd and overpowered "mechanic" of getting pretty much in the face of this unit, rendering it useless, to start shooting this opposing unit would need to get out of the minimal range but since it's turret doesn't allow it to shoot backwards while trying to move away it results in a very one-sided fight. A good example would be getting right in the face of Seraphim's T4 bot with the GC.
 
 ### Formation basics
 In FA you have 4 main types of movement you can use.
 - Standard move order - all units on their max speed will try to get to the destination point where they will gather in a formation.
-- Attack move - using either alt+right click or attack move from the menu on the bottom left, acts the same as move order but units will stop to kill any enemy on their way. It's recommended to issue this order via alt+right click instead of the attack move from the order menu because if you have your units on ground fire it will cause them to attack the selected point of the map instead of attack moving to it. Alt+right click doesn't have this issue. Useful to clean up raids and such but is very weak against artillery and anything with a splash.
-- Formation move - issued either by holding the right mouse button (you can use the left mouse click after the "phantoms" of units will appear to change the type of formation) or holding ctrl and right-clicking, this one however doesn't allow you to change the formation type. In this mode, units will stay in formation up to their destination and will move with the speed of the slowest unit within the group. It's rarely used because of the speed deficits and difficulty of setting it up properly. When using ctrl-right click even the slightest change of move point will cause the whole formation to rotate, causing disorder, holding the right click will allow you to fine-tune the formation but requires some time. In some cases however this can be a really good move to use, it has been proven to be fairly strong.
+- Attack move - using either alt+right click or attack move from the menu on the bottom left, acts the same as move order but units will stop to kill any enemy on their way. It's recommended to issue this order via alt+right click instead of the attack move from the order menu because if you have your units on ground fire it will cause them to attack the selected point of the map instead of the attack moving to it. Alt+right click doesn't have this issue. Useful to clean up raids and such but is very weak against artillery and anything with a splash.
+- Formation move - issued either by holding the right mouse button (you can use the left mouse click after the "phantoms" of units appear to change the type of formation) or holding ctrl and right-clicking, this one, however, doesn't allow you to change the formation type. In this mode, units will stay in formation up to their destination and will move with the speed of the slowest unit within the group. It's rarely used because of the speed deficits and difficulty of setting it up properly. When using ctrl-right click even the slightest change of move point will cause the whole formation to rotate, causing disorder, holding the right click will allow you to fine-tune the formation but requires some time. In some cases however this can be a really good move to use, it has been proven to be fairly strong.
 - Spread the attack, in more detail below. Allows units to ignore pathfinding and get an individual move order for every unit. Makes them bunch up upon reaching the destination making them extremely vulnerable to splash.
 
 ### Target Priorities and Retention
@@ -127,7 +127,7 @@ Different units have different priorities which sometimes can play to your advan
 - If you don't have to move and are not sure what will your units prioritize you can use target fire or attack move depending on the units you have, target firing weak units with something that has big overkill potential isn't the best idea.
 - In big experimental+T3 force encounters in 9/10 cases it's best to prioritize and kill the T4 first before it gets any veterancy.
 - If all units in range are of the same priority your unit will target the one it can lock on the fastest.
-- You can and should use this concept above when chasing an enemy acu for the kill with your acu. Your com might be targetting other units, in this case, target his commander and when your ACU will have its gun pointed at the enemy ACU proceed with the move order again, it now should be shooting the com again. Although this technique is not very consistent.
+- You can and should use this concept above when chasing an enemy acu for the kill with your acu. Your com might be targetting other units, in this case, target his commander and when your ACU has its gun pointed at the enemy ACU proceeds with the move order again, it now should be shooting the com again. Although this technique is not very consistent.
 - Try to not leave bombers unmicroed, their first target will be mexes while most likely you want to kill engies.
 
 ### Reload time
@@ -148,7 +148,7 @@ In FA there are 3 fire states.
 
 ### Radar vs Direct visual; Stealth, Cloak, Omni, Radar, Sonar, Jammer
 
-There are 2 main visions in the game: direct vision and radar vision. Direct vision is present in all units and is what they can "see". Radar vision can be divided into radar and sonar vision. There are also 2 types of concealing technology: stealth and cloak. Stealth hides you from both radar and sonar vision. The cloak hides you from direct vision. If you can get both (on cybran commander for example) the only way to spot you would be using an omni-vision.
+There are 2 main visions in the game: direct vision and radar vision. Direct vision is present in all units and is what they can "see". Radar vision can be divided into radar and sonar vision. There are also 2 types of concealing technology: stealth and cloak. Stealth hides you from both radar and sonar vision. The cloak hides you from direct vision. If you can get both (on Cybran Commander for example) the only way to spot you would be using an omni-vision.
 - Direct vision shows which units are present, what kinda units they are and other info such as HP. It does not detect submerged units.
 - Radar vision spots all non-stealthed land, air and surfaced naval units, but only identifies a unit type (land/sea/air), not the exact unit. It does not detect submerged units.
 - Omni vision is the type of radar vision that uncovers all stealthed and cloaked units. Present on all commanders, t3 radar, spy planes and GC (aeon T4 bot).
@@ -180,7 +180,7 @@ In FA shooting mechanics are not hit-scan and you can dodge any projectile. They
 
 EMP is a mechanic that allows you to stun enemy units for a short period. It's rare and only a few units have it.
 Aeon ACU upgrade: Chrono dampener
-Stuns when acu shoots, has a separate reload time
+Stuns when ACU shoots, has a separate reload time
 - Cybran t1 arty, medusa - will stun any t1-t2 unit (including navy and air, excluding buildings) that it hits directly. Very powerful in big numbers.
 - Cybran t3 bot, loyalist - will explode and stun any enemy units nearby after its death. By the time of writing this guide, it stuns everything including even ACUs and even some air units. This is potentially to be rebalanced.
 - Cybran t2 transport, firefly - has a weak stun gun that will shoot and consistently stun single units up to the t2 tier. Rarely useful but you can try something creative with it.
