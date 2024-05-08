@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2024-03-18T13:57:08.641Z
+date: 2024-05-08T23:57:34.208Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -99,9 +99,12 @@ Assets like custom textures and decals need to be exported or encoded as a parti
 <img align="right" src="/images/mapping/heightmaskdemo.png" width="35%">
 The most important element of a map is the heightmap, which defines the elevation and topographical features, determining the shape and contours of the landscape. Once the heightmap is ready, it forms the foundation upon which other map elements are integrated.
 
-In essence, a heightmap is a grayscale image where different shades of gray represent varying elevations. Darker areas correspond to lower points, such as valleys and depressions, while lighter areas represent higher elevations, such as hills and mountains. By manipulating the grayscale values, map-makers can create intricate landscapes with diverse topographical features.
+In essence, a heightmap is a grayscale image where different shades of gray represent varying elevations. Darker areas correspond to lower points, such as valleys and depressions, while lighter areas represent higher elevations, such as hills and mountains. 
 
-To create a heightmap, various methods can be used. The most basic approach involves using the [brushes provided by either of the two editors](https://wiki.faforever.com/en/Development/Mapping/FA-Forever-Map-Editor#heightmap-brush), which allow you to manually sculpt the terrain. Alternatively, map-makers can craft heightmaps manually using graphic editing software like Adobe Photoshop or GIMP. By painting the grayscale values, you can sculpt the terrain according to your creative vision. An advanced approach involves  specialized terrain generation software like WorldMachine or [Gaea](#Gaea), which use algorithms to simulate natural geological processes, generating realistic and organic terrains. 
+To create a heightmap, various methods can be used. The most basic approach involves using the [brushes provided by either of the two editors](https://wiki.faforever.com/en/Development/Mapping/FA-Forever-Map-Editor#heightmap-brush), which allow you to manually sculpt the terrain. Alternatively, map-makers can craft heightmaps manually using graphic editing software like Adobe Photoshop or GIMP. An advanced approach involves  specialized terrain generation software like WorldMachine or [Gaea](#Gaea), which use algorithms to simulate natural geological processes, generating realistic and organic terrains. 
+
+You can import heightmaps that you made using external programs into the editor, as long as you provide the editor with an image of the right filetype and size. Heightmaps must be encoded as a .raw file and with a resolution—the size of the image in pixels—that corresponds to the size of your map. It's important to remember that while assets such as masks, textures, and decals are usually provided to the editor in resolutions of powers of 2 (256, 512, 1024, 2048, etc.) heightmaps require you to take the size of your map in pixels, plus one. This means that a 5KM map, which is 256 by 256 pixels, requires a heightmap of 257 by 257 pixels. Similarly, a 10KM map is 512 pixels, but requires a heightmap of 513 by 513 pixels. 
+
 
 - [Creating a map: Heightmaps*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=UNajB0EOKnM&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs)
 - [Ozonex editor heightmap tools *Detailed explanation of the tools available in the editor, including water and terrain-type settings*](/en/Development/Mapping/FA-Forever-Map-Editor)
