@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2023-07-01T00:13:24.713Z
+date: 2024-05-09T20:19:35.761Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -135,7 +135,34 @@ Tooltips.aitype_mycustomai2 = { title = "AI: Custom 2", description = 
 
 Tooltips.aitype_mycustomaix = { title = "AIx: Custom", description = "This AI cheats so is marginally less epic :(", }
 ```
-This is all we need to add our AIs to the lobby.
+
+## Worked example - Mini27AI
+Following updates to FAF, the file hook\lua\aibrains\index.lua is also needed to refer to the relevant code for your aiBrain.  The Mini27AI mod was created following this to provide a worked example of how to get an AI mod working at a basic level.
+
+The steps followed for the initial setting up of the AI (to show in the lobby) and running of custom code were:
+* Created the file M27AIData.lua in \lua\AI\CustomAIs_v2
+* Populate the file by copying from an existing AI (e.g. M28AI) and then changing the relevant information
+* Create the file tooltips.lua in  \lua\AI\LobbyTooltips
+* Populate using the convention aitype_[key per the CustomAIs_v2 file]
+* Create a lua file to house the brain logic within the AI folder; I called mine M27Brain.lua
+* For now It’ll have OnBeginSession, OnDefeat and OnCreateAI, although only OnCreateAI will refer to custom code
+* Create a lua file to house logic for the AI.  E.g. I created a M27Map.lua file (in the AI folder)
+* Create a function within this to generate the navigational mesh (if you’re planning on using this) – refer to the SetupMap function; Then call this from the M27Brain.lua OnCreateAI
+* Hook the index.lua in the aibrains folder and add keys to the aibrains, referencing the M27Brain.lua file (using an existing AI as an example)
+* Create the mod_info.lua file (in your main mod folder); complete the various details (e.g. for UID this should be unique and it’s suggested you include a reference to the version number in here so you can increase it by 1 each time you upload a new version)
+* Optionally create an icon for your AI in the main mod folder directory and reference it in mod_info.lua
+* It’s suggested at this point that you create a log in the SetupMap function and then load the AI and run a game with it to check the log triggers without error messages.
+
+The commit relating to this is:
+https://github.com/maudlin27/Mini27AI/commit/3253ece2a6d535203db21080dbf05d984b3b8017
+
+## AI approach and custom vs default AI logic
+
+When deciding how to create your AI mod, there are a number of build in functions and logic which you could potentially use.  Alternatively, you could choose to write your AI's logic from the ground up via a custom approach.
+
+The advantage of a custom approach is flexibility and clarity, with greater long term potential but the downside is it will likely require more time to get the AI to a semi-competent level.
+
+The following AI development guide is primarily aimed at people making use of the default AI logic/approach.  If you are interested in creating the logic yourself the [Mini27AI mod](https://github.com/maudlin27/Mini27AI) has been released to provide a basic starting point/proof of concept.  Some of the below comments will also still be relevant to the custom AI approach.
 
 ## AI Specification
 
