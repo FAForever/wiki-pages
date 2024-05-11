@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-05-11T06:36:59.646Z
+date: 2024-05-11T06:37:33.140Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -344,7 +344,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 #### Team Members:
 
-- Madmax
+- [Madmax](https://github.com/MadMaxFAF)
 - [Hdt80bro](https://github.com/Hdt80bro)
 - [4z0t](https://github.com/BlackYps)
 - [BlackYps](https://github.com/BlackYps)
