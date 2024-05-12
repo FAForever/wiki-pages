@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-05-11T09:11:38.807Z
+date: 2024-05-12T13:00:04.062Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -340,7 +340,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 #### Team lead:
 
-- [Jip](https://github.com/Garanas)
+- Jip ([Garanas on Github](https://github.com/Garanas))
 
 #### Team Members:
 
@@ -351,6 +351,8 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - [Cheeseberry](https://github.com/clyfordv)
 - [Clyf](https://github.com/clyfordv)
 - [Relent0r](https://github.com/relent0r)
+- Nomander ([lL1l1 on Github](https://github.com/lL1l1))
+- Jip ([Garanas on Github](https://github.com/Garanas))
 
 #### Policies:
 Every team in the FAF community is required to have a mission statement. This was made mandatory at the general meeting of the 6th of March, 2022 when the `Governance structure` proposal was accepted. The mission statement the game development team describes:
