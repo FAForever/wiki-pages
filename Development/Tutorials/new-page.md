@@ -2,7 +2,7 @@
 title: 3D Printing Models
 description: 
 published: true
-date: 2024-05-13T23:32:56.763Z
+date: 2024-05-13T23:34:34.351Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
@@ -127,5 +127,3 @@ Unit ID for the Basilisk is BRL 0401
         11.  Export it from 3D builder and it should be ready to print!
 
 ![](https://lh7-us.googleusercontent.com/jogimI1d5iwfMKArcpr4cOxpszpR3ZzPADrmMe6Qbow3xRlrU2I5wLv6oWAtSPBirPLNcmiHKgU8MRSsOFrmgmz2iW7wnsNnuqAdFzW0CCvASkBgr9dOnRE1JCi_w-SwVyZqgo8V4VzU4gdOkCQjR8I)
-
-![](https://lh7-us.googleusercontent.com/m6SjxZ-TaO1p2a1sLlNg23RVE8EmViZ8-U2ute2pHGG0N78eipY-oL7gm1NUL4-FIggxlrgMSF18t6ynRGavc-VBN_vQb-icRF_Hg-5WAGnMZmxgIDM-cFtbcmWFONwVfUPnsE7kol-LzcKedoiQY1s)
