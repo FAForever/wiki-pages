@@ -2,7 +2,7 @@
 title: 3D Printing Models
 description: 
 published: true
-date: 2024-05-14T00:22:53.380Z
+date: 2024-05-14T00:32:18.155Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
@@ -22,32 +22,19 @@ https://www.blender.org/download/
 ### Figure out its unit ID
 | If it's a FAF unit | If it's a modded unit |
 |
-| Find it on the unit db [_https://unitdb.faforever.com/_](https://unitdb.faforever.com/) | 
-| Find its unit ID, hovering over the unit should make the ID pop up in the bottom |
-| ![](/images/learning/3d_print_guide/uef_engineer_id.png)![uef_engineer_id.png](/images/learning/3d_print_guide/uef_engineer_id.png) Unit ID for UEF T1 Engineer is UEL0105 |
- 1. If it’s an unmodded unit
+| Find it on the unit db [_https://unitdb.faforever.com/_](https://unitdb.faforever.com/) | Host a sandbox game with the mod you want and cheating enabled |
+| Find its unit ID, hovering over the unit should make the ID pop up in the bottom. You can also double click on the unit in the table and its ID will be at the top.| Once you launch hit Alt-F2 to open the unit spawn menu |
+| ![engineer_id.png](/images/learning/3d_print_guide/engineer_id.png) Unit ID for UEF T1 Engineer is UEL0105 | This may get intercepted by other software like GeForce Experience. You can change it from Alt-F2 in the keybinds menu. Search for “create units” |
+| | Filter or search for the unit you want and take note of the unit ID |
+| | ![](/images/learning/3d_print_guide/basilisk_id.png)Unit ID for the Basilisk is BRL 0401|
 
-    a. Find it on the unit db [_https://unitdb.faforever.com/_](https://unitdb.faforever.com/)
-    b. Find its unit ID, hovering over the unit should make the ID pop up in the bottom 
-	  > ![](/images/learning/3d_print_guide/uef_engineer_id.png) Unit ID for UEF T1 Engineer is UEL0105
-	{.is-info}
-  
-		   s
-
-2. If it’s a modded unit
-	a. Host a sandbox game with the mod you want and cheating enabled
-	b. Once you launch hit Alt-F2 to open the unit spawn menu
-	> This may get intercepted by other software like GeForce Experience. You can change it from Alt-F2 in the keybinds menu. Search for “create units” 
-	{.is-warning}
-  
-	c.  Filter or search for the unit you want and take note of the unit ID
-  	>![](/images/learning/3d_print_guide/basilisk_id.png)
-		Unit ID for the Basilisk is BRL 0401
-  	{.is-info}
-
-		s
     
-### Grab the files you need
+### Get the correct units folder
+| If it's a default unit | If it's a unit added by FAF, such as T3 MAA or a support factory | If it's a modded unit |
+|
+|Go to team, right click on Forged Alliance, and manage > browse local files
+
+
 1.  If it’s a default unit
     a.  Go to steam, right click on Forged Alliance, and manage > browse local files
     b.  Go to the gamedata folder and find units.scd
