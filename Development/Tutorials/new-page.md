@@ -2,58 +2,70 @@
 title: 3D Printing Models
 description: 
 published: true
-date: 2024-05-13T23:34:34.351Z
+date: 2024-05-14T00:22:53.380Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
 ---
 
-# Step 1: Find the unit you want to print
-
+# Step 1: Download the applications you'll need
+1. **Blender 4.1** (or whatever version is most current, this guide will be written using 4.1) 
+https://www.blender.org/download/
+2.  **Add supcom mesh importer to Blender**, instructions are in the link so I will not rewrite them here
+[_https://github.com/Solstice245/scstudio_](https://github.com/Solstice245/scstudio)
+   3.  **Microsoft 3D Builder**
+         [_https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-us&gl=US_](https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-us&gl=US)
+         This is only available for Windows. We'll only be using it to automate much of the hard work of making our models manifold. I'll explain what that means later in the guide, but that word should help you find alternatives for your operating system.
+4. **An image editor of your choice**
+	It needs to be able to open .dds files, otherwise you might have to use some kind of online converter. I use Photoshop but I understand that isn't accessible to most people.
+# Step 2: Get the files you'll need
 ### Figure out its unit ID
+| If it's a FAF unit | If it's a modded unit |
+|
+| Find it on the unit db [_https://unitdb.faforever.com/_](https://unitdb.faforever.com/) | 
+| Find its unit ID, hovering over the unit should make the ID pop up in the bottom |
+| ![](/images/learning/3d_print_guide/uef_engineer_id.png)![uef_engineer_id.png](/images/learning/3d_print_guide/uef_engineer_id.png) Unit ID for UEF T1 Engineer is UEL0105 |
+ 1. If it’s an unmodded unit
 
-1\. If it’s an unmodded unit
+    a. Find it on the unit db [_https://unitdb.faforever.com/_](https://unitdb.faforever.com/)
+    b. Find its unit ID, hovering over the unit should make the ID pop up in the bottom 
+	  > ![](/images/learning/3d_print_guide/uef_engineer_id.png) Unit ID for UEF T1 Engineer is UEL0105
+	{.is-info}
+  
+		   s
 
-![](/images/learning/3d_print_guide/uef_engineer_id.png)
+2. If it’s a modded unit
+	a. Host a sandbox game with the mod you want and cheating enabled
+	b. Once you launch hit Alt-F2 to open the unit spawn menu
+	> This may get intercepted by other software like GeForce Experience. You can change it from Alt-F2 in the keybinds menu. Search for “create units” 
+	{.is-warning}
+  
+	c.  Filter or search for the unit you want and take note of the unit ID
+  	>![](/images/learning/3d_print_guide/basilisk_id.png)
+		Unit ID for the Basilisk is BRL 0401
+  	{.is-info}
 
-Unit ID for UEF T1 Engineer is UEL0105
+		s
+    
+### Grab the files you need
+1.  If it’s a default unit
+    a.  Go to steam, right click on Forged Alliance, and manage > browse local files
+    b.  Go to the gamedata folder and find units.scd
+    c.  Copy this folder into a new folder where you’ll be working from
+    d.  Rename it to units.zip
+    e.  Unzip this folder
+2.  If it’s a FAF unit, such as T3 MAA or a support factory
+    a.  Open the client, click on the hamburger menu in the top left, and then select show data folder
+    b.  Go to FAForever > Gamedata and find units.nx2
+    c.  Copy this folder into a new folder where you’ll be working from
+    d.  Rename it to units.zip
+    e.  Unzip this folder
+3.  If it’s a modded unit
+    a.  Have the mod downloaded (duh)
+    b.  Open the client, click on the hamburger menu in the top left, and then select show mods folder
+    c.  Go to the mod you want, and copy the units folder into your working folder
 
-    a. Find it on the unit db [_https://unitdb.faforever.com/_](https://unitdb.faforever.com/)
 
-    b. Find its unit ID, hovering over the unit should make the ID pop up in the bottom 
-
-2\. If it’s a modded unit
-
-![](/images/learning/3d_print_guide/basilisk_id.png)
-
-Unit ID for the Basilisk is BRL 0401
-
-    a. Host a sandbox game with the mod you want and cheating enabled
-
-    b. Once you launch hit Alt-F2 to open the unit spawn menu
-
-        i. This may get intercepted by other software like GeForce Experience. You can change this in the keybinds menu. Search for “create units”
-
-1.  Filter or search for the unit you want and take note of the unit ID
-2.  If it’s a default unit
-    1.  Go to steam, right click on Forged Alliance, and manage > browse local files
-    2.  Go to the gamedata folder and find units.scd
-    3.  Copy this folder into a new folder where you’ll be working from
-    4.  Rename it to units.zip
-    5.  Unzip these folders
-3.  If it’s a FAF unit, such as T3 MAA or a support factory
-    1.  Open the client, click on the hamburger menu in the top left, and then select show data folder
-    2.  Go to FAForever > Gamedata and find units.nx2
-    3.  Copy this folder into a new folder where you’ll be working from
-    4.  Rename it to units.zip
-    5.  Unzip this folder
-4.  If it’s a modded unit
-    1.  Have the mod downloaded (duh)
-    2.  Open the client, click on the hamburger menu in the top left, and then select show mods folder
-    3.  Go to the mod you want, and copy the units folder into your working folder
-5.  Download blender 4.1 (or whatever version is most current, this guide will be written using 4.1) https://www.blender.org/download/
-6.  Add supcom mesh importer to Blender [_https://github.com/Solstice245/scstudio_](https://github.com/Solstice245/scstudio)
-    1.  Instructions are in that link so I will not rewrite them here
 7.  Launch Blender
     1.  Delete the default cube
     2.  File > Import > Supcom Mesh (.scm)
@@ -68,8 +80,7 @@ Unit ID for the Basilisk is BRL 0401
     3.  Click on this button to open material preview and your unit should now be shaded
 9.  Making it manifold
     1.  \[What does manifold mean?\]
-    2.  Download 3D builder
-        1.  [_https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-us&gl=US_](https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-us&gl=US)
+ 
     3.  Select your model in blender, export it as an STL, make sure only selection is enabled
     4.  Open the model in 3D builder
     5.  An error should pop up, have it repair the model
