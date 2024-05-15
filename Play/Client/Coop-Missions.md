@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-03-04T13:25:46.411Z
+date: 2024-05-15T16:47:55.857Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -57,13 +57,15 @@ Similarly to the original campaigns, these are linked in the story, and it is ad
 |1| Operation Yath-Aez        | Blockade           | 
 |2| Operation Tha-Atha-Aez    | Holy Raid          | 
 |3| Operation Uhthe-Thuum-QAI | Golden Crystals    | 
-|4| Operation Ioz-Shavoh-Kael |                    |
+|4| Operation Ioz-Shavoh-Kael | Rebel's Rest       |
+|5| Overlord Surth-Velsok			| Red Revenge        |
 ##### FAForever custom scenarios
 These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't require playing in a particular order.
 |Custom scenarios       ||||
 |---------------------- |------------------------|------------------------|------------------------|
 | Prothyon - 16         | Operation Rescue       | Theta Civilian Rescue | Novax Station Assault  |
 | Fort Clarke Assault   | Tight Spot        	   | Haven's Invasion      | Operation Trident      |
+| Rescue                | Trident                | | |
 ##### Notes:
 - FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
