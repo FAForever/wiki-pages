@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-15T16:47:55.857Z
+date: 2024-05-15T16:49:18.287Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -54,10 +54,10 @@ Note that a mission must be cleared in 'hard' difficulty in order to qualify for
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
 | | Seraphim Campaign         | Coalition Campaign |
 |-|-------------------------- |------------------- |
-|1| Operation Yath-Aez        | Blockade           | 
+|1| Yath-Aez                  | Blockade           | 
 |2| Operation Tha-Atha-Aez    | Holy Raid          | 
-|3| Operation Uhthe-Thuum-QAI | Golden Crystals    | 
-|4| Operation Ioz-Shavoh-Kael | Rebel's Rest       |
+|3| Uhthe-Thuum-QAI           | Golden Crystals    | 
+|4| Ioz-Shavoh-Kael           | Rebel's Rest       |
 |5| Overlord Surth-Velsok			| Red Revenge        |
 ##### FAForever custom scenarios
 These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't require playing in a particular order.
