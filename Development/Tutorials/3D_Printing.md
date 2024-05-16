@@ -2,13 +2,13 @@
 title: 3D Printing Models
 description: A guide on how to 3D print units from the game
 published: true
-date: 2024-05-16T02:47:48.245Z
+date: 2024-05-16T03:45:53.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
 ---
 
-# Part 1: The in-game model
+[facematching.mp4](/facematching.mp4)# Part 1: The in-game model
 ## Step 1: Download the applications you'll need
 1. **Blender 4.1** (or whatever version is most current, this guide will be written using 4.1) 
 https://www.blender.org/download/
@@ -130,7 +130,8 @@ Import the original scm back into Blender. Don't delete any of the work you did 
  10. *Now* I can explain what a UV map is. Any time you want to apply textures to a 3D model you need a way to tell the model where those textures go. Those shapes that appeared on the left window represent each face of the model, and where each part of the texture goes. Hence why it's called a map.
  11. Select your manifold version of the model. Notice that the the arrangement is shapes is completely different to the original. This is why it looks like a mess of textures. It's using the correct texture, but the map to tell where to put each part of the texture is incorrect.
  12. This is the where the first tedious part of adding detail comes in. We'll need to manually map *each face* to its proper position on the texture. First turn X-ray mode back off. Then select the same group of faces on each model, making sure they're connected in on the texture window.![both_faces_selected_2.jpg](/images/learning/3d_print_guide/both_faces_selected_2.jpg) The original is to the rear right, and my manifold version is in the front left.
- 13. You'll notice in the texture window that not only are the manifold faces (in orange) in a completely different location, they're a different shape that doesn't match 1:1 to the original in white. That's part of why we made it manifold, if it matched 1:1 then we'd have the same unprintable mess as we did originally.
+ 13. You'll notice in the texture window that not only are the manifold faces (in orange) in a completely different location, they're a different shape that doesn't match 1:1 to the original in white. That's part of why we made it manifold, if it matched 1:1 then we'd have the same unprintable mess as we did originally. Now you'll have to move, rotate, and stretch the manifold face to match the original. [Example of me doing it.](/facematching.mp4) It doesn't need to be exact, but make sure to check your material preview to make sure you have things the right way round. Rectangles can be completely upside down if you don't check!
+ 14. Rinse and repeat for every face on the model. Faces which don't exist on the original (usually underneath the model) you can just scrunch up into a random black area, it doesn't matter if they overlap. This sounds like an impossible task but it shouldn't take more than a few hours, although I completely admit it's tedious.
  
  
  # Only Written to this extent, the rest are simply draft notes for writing the rest.
