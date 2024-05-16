@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-16T19:13:19.023Z
+date: 2024-05-16T19:15:04.990Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -22,7 +22,7 @@ In addition to the original GPG campaign missions from the original Supreme Comm
 - Slightly better campaign AI
 - Additional secondary objectives (thanks to gregory1001)
 - Cooperative leaderboard. Fight for the best time!
-- Custom "M28AI" mod whose AI can be played with as a teammate similar to a human player, or which can be used to take over existing AI allies or the enemy campaign AI
+- Custom "M28AI" mod whose AI can be played with as a teammate similar to a human player, or which can be used to take over existing AI allies or the enemy campaign AI (see below for details on how to setup)
 ## Interface
 The interface is mostly self-explanatory, but we'll document it here anyway, as labelled:
 1) **Hosting Missions**
