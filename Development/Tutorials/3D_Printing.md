@@ -2,7 +2,7 @@
 title: 3D Printing Models
 description: A guide on how to 3D print units from the game
 published: true
-date: 2024-05-14T03:14:06.433Z
+date: 2024-05-16T01:51:36.448Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
@@ -123,11 +123,18 @@ Import the original scm back into Blender. Don't delete any of the work you did 
  3. Go back into object mode, select both the manifold and original, textured versions by selecting one, holding shift, and selecting the other.
  4. Right click, and click Join. The manifold tank should now also be textured, but it will be a complete jumble of textures and will look nothing like the in-game version.
  5. At the very top next to File, Edit, Render, ect., you should have a series of tabs. You are in the Layout tab by default, but we need to be in the UV Editing tab. Click on that.
+ 6. Your window will now be split into two. On the right you'll have a window that you're familiar with, but on the left you're be looking at a blank square. Let's give us something to look at, and then I can explain what UVs are and what this mode is for.
+ 7. In the top middle of your left window you should have buttons labeled "New" and "Open". Click on "Open" and then open the Albedo.dds file for your unit. You'll now have something that looks like you took an origami version of your unit and unfolded it.
+ 8. Now put your your right window into Material mode using the options in the top right corner. Immediately to the left of those options you'll have an option that looks like two squares on top of each other. This toggles X-ray mode, it allows you to see (and select) through objects. Toggle that on.
+ 9. Select all the faces of the original model by just dragging a rectangle covering all of it. You'll now have have a bunch of shapes light up on the left window.
+ 10. NOW I can explain what a UV map is. Any time you want to apply textures to a 3D model you need a way to tell the model where those textures go. Those shapes that appeared on the left window represent each face of the model, and where each part of the texture goes. Hence why it's called a map.
+ 11. Select your manifold version of the model. Notice that the the arrangement is shapes is completely different to the original. This is why it looks like a mess of textures. It's using the correct texture, but the map to tell where to put each part of the texture is incorrect.
+ 12. This is the where the first tedious part of adding detail comes in. We'll need to manually map *each face* to its proper position on the texture. First turn X-ray mode back off. Then select the same faces on each model.
+ 
+ 
  # Only Written to this extent, the rest are simply draft notes for writing the rest.
-<10.  Adding detail
-    1.  Smart uv unwrap
-    2.  Join with previous model
-    3.  Match UVs
+
+<    3.  Match UVs
     4.  Separate
     5.  Make a stencil
         1.  Open your texture in an image editor
