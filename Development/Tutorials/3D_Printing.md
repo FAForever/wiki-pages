@@ -2,7 +2,7 @@
 title: 3D Printing Models
 description: A guide on how to 3D print units from the game
 published: true
-date: 2024-05-16T01:51:36.448Z
+date: 2024-05-16T02:47:48.245Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
@@ -127,9 +127,10 @@ Import the original scm back into Blender. Don't delete any of the work you did 
  7. In the top middle of your left window you should have buttons labeled "New" and "Open". Click on "Open" and then open the Albedo.dds file for your unit. You'll now have something that looks like you took an origami version of your unit and unfolded it.
  8. Now put your your right window into Material mode using the options in the top right corner. Immediately to the left of those options you'll have an option that looks like two squares on top of each other. This toggles X-ray mode, it allows you to see (and select) through objects. Toggle that on.
  9. Select all the faces of the original model by just dragging a rectangle covering all of it. You'll now have have a bunch of shapes light up on the left window.
- 10. NOW I can explain what a UV map is. Any time you want to apply textures to a 3D model you need a way to tell the model where those textures go. Those shapes that appeared on the left window represent each face of the model, and where each part of the texture goes. Hence why it's called a map.
+ 10. *Now* I can explain what a UV map is. Any time you want to apply textures to a 3D model you need a way to tell the model where those textures go. Those shapes that appeared on the left window represent each face of the model, and where each part of the texture goes. Hence why it's called a map.
  11. Select your manifold version of the model. Notice that the the arrangement is shapes is completely different to the original. This is why it looks like a mess of textures. It's using the correct texture, but the map to tell where to put each part of the texture is incorrect.
- 12. This is the where the first tedious part of adding detail comes in. We'll need to manually map *each face* to its proper position on the texture. First turn X-ray mode back off. Then select the same faces on each model.
+ 12. This is the where the first tedious part of adding detail comes in. We'll need to manually map *each face* to its proper position on the texture. First turn X-ray mode back off. Then select the same group of faces on each model, making sure they're connected in on the texture window.![both_faces_selected_2.jpg](/images/learning/3d_print_guide/both_faces_selected_2.jpg) The original is to the rear right, and my manifold version is in the front left.
+ 13. You'll notice in the texture window that not only are the manifold faces (in orange) in a completely different location, they're a different shape that doesn't match 1:1 to the original in white. That's part of why we made it manifold, if it matched 1:1 then we'd have the same unprintable mess as we did originally.
  
  
  # Only Written to this extent, the rest are simply draft notes for writing the rest.
