@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-16T19:45:52.638Z
+date: 2024-05-16T19:50:22.053Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -71,7 +71,7 @@ These missions are single scenarios, meaning they are not linked to larger campa
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
 
 ## Custom campaign AI
-![fletcher28.png](/fletcher28.png)
+![fletcher28.png](/fletcher28.png)![rhiza28.png](/rhiza28.png)
 ### AI options
 The M28AI mod allows you to customise the AI on campaign missions - players can choose any or all of the following options:
 - An AI teammate - start the game with a teammate controlled by M28AI (in the same way that you can play a mission with a human teammate).  You can also choose to use an AiX variant and set the resource and build rate modifiers to the desired level.
