@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-16T20:36:24.793Z
+date: 2024-05-16T22:21:37.367Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -145,7 +145,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |2| Holy Raid          | 1.5
 |3| Golden Crystals    | 1.8
 |4| Rebel's Rest       | 5.5
-|5| Red Revenge        | 5.0
+|5| Red Revenge        | 5.4
 
 
 #### Notes on AI campaign difficulty
