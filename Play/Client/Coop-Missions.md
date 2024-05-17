@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-16T22:21:37.367Z
+date: 2024-05-17T11:14:45.380Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -148,10 +148,11 @@ The below also allows more of an objective measure of the difficulty of a campai
 |5| Red Revenge        | 5.4
 
 
-#### Notes on AI campaign difficulty
+#### Notes on AI campaign difficulty (for reference)
 - The human player remains afk throughout the game subject to rare exceptions where they are required to progress the mission (or are given significant starting units required to defend in the opening minutes).
 - All missions were done on default settings, meaning Hard difficulty, with timed map expansions enabled, while M28AI was only used for the AI player (not for allies or enemies).
 - Unless specifically noted, sub-1.0 AiX modifiers were not used (it is expected that many of the original supcom missions could be completed with a sub-1.0 modifier).
+- Most of the above results are based on v91-v96 of M28AI, based on the latest versions of campaign maps available in April-May 2024.
 
 ### Other notes
 - See the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI. 
