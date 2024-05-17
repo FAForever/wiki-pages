@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-17T18:39:17.785Z
+date: 2024-05-17T18:39:36.065Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -107,7 +107,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |3| Metal Shark    	| 0.5
 |4| Vaccine        	| 0.5
 |5| Forge          	| 1.1
-|6| Stone Wall     	| 0.5
+|6| Stone Wall (remastered)     	| 0.5
 
 
 | | SupCom - Aeon   	| AiX modifier |
