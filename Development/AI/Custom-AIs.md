@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-03-23T20:02:52.704Z
+date: 2024-05-17T11:13:09.269Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -16,6 +16,7 @@ FAF features several advanced AI that offers significant improvements over the d
 - Better CPU performance
 - Greater challenge
 - Unit mod compatibility
+- Campaign compatibility
 
 For example, by one measure the fastest custom AI was more than twice as fast as the default Adaptive AI (August 2022), while the Adaptive AI could lose to the most competitive custom AI even with a 100% boost to its resource generation and build speed (although as the base Adaptive AI is under active development this may change).
 
@@ -28,6 +29,16 @@ Each AI has a different style of playing, so be sure to try different AI to see 
 ## Actively developed AI
 These AI are being actively developed with recent updates.  If you have feedback on these AI contact the authors via discord (preferably with a replay highlighting the feedback point)
 
+### M28AI
+![m28ai.jpg](/m28ai.jpg)
+*Author: maudlin27*
+Other mods required: None
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 700-1200 (i.e. slightly better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available.
+
+M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI - see the [campaign section](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai) for further details.
+
+Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+
 ### RNGAI
 ![rngai.jpg](/rngai.jpg)
 *Author: Relent0r*
@@ -35,16 +46,6 @@ Other mods required: None (earlier versions required AI-Uveso)
 AI is aimed at players wanting to learn 1v1 gameplay. It provides an avenue to play against something that emulates some of the methods ladder players use!
 
 AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
-
-### M28AI
-![m28ai.jpg](/m28ai.jpg)
-*Author: maudlin27*
-Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 700-1200 (i.e. slightly better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available.
-
-M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI.
-
-Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
 AI Variants: M28AI, M28AI Easy
 
