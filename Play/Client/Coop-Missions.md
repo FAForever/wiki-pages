@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-17T18:39:36.065Z
+date: 2024-05-17T21:06:13.454Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -112,10 +112,10 @@ The below also allows more of an objective measure of the difficulty of a campai
 
 | | SupCom - Aeon   	| AiX modifier |
 |-|----------------	|-----------------	|
-|1| Joust    	| 1.0
-|2| Machine Purge     	| 1.0
-|3| High Tide    	| 1.0
-|4| Entity        	| 1.0
+|1| Joust    	| 0.5
+|2| Machine Purge     	| 0.5
+|3| High Tide    	| 0.6
+|4| Entity        	| 0.6
 |5| Shining Star          	| 1.0
 |6| Beginnings     	| 1.0
 
