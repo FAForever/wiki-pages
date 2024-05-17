@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-17T11:21:54.881Z
+date: 2024-05-17T18:39:17.785Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -102,12 +102,12 @@ The below also allows more of an objective measure of the difficulty of a campai
 
 | | SupCom - UEF   	| AiX modifier |
 |-|----------------	|-----------------	|
-|1| Black Earth    	| 1.0
-|2| Snow Blind     	| 1.0
-|3| Metal Shark    	| 1.0
-|4| Vaccine        	| 1.0
+|1| Black Earth    	| 0.5
+|2| Snow Blind     	| 0.6
+|3| Metal Shark    	| 0.5
+|4| Vaccine        	| 0.5
 |5| Forge          	| 1.1
-|6| Stone Wall     	| 1.0
+|6| Stone Wall     	| 0.5
 
 
 | | SupCom - Aeon   	| AiX modifier |
