@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-18T08:32:29.918Z
+date: 2024-05-18T08:33:04.108Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -116,7 +116,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |2| Machine Purge     	| 0.5
 |3| High Tide    	| 0.6
 |4| Entity        	| 0.6
-|5| Shining Star          	| 0.6
+|5| Shining Star          	| 0.7
 |6| Beginnings     	| 0.6
 
 
