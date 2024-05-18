@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-05-12T13:00:04.062Z
+date: 2024-05-18T20:35:36.396Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -59,16 +59,12 @@ These are the current Team Leaders:
 
 - Cheeseberry
 - FtXCommando
-- F-Odin
-- Gorthaur
 - Grimplex
 - Judoka1972
 - LimeZ
 - Maudlin27
-- Prohibitorum
 - Skrat
 - Sladow
-- SpikeyNoob
 - Strydxr
 - Terminal
 - TheDuelist
@@ -82,7 +78,7 @@ We are a group of interested people in the development of the faf community. Our
 - Team members may be removed due to not being suitable for this role.
 
 #### Responsibilities
-- Help out players on the FAF discord or in the client. This includes analyzing replays.
+- Help out players on the FAF discord. This includes analyzing replays.
 - Contribute guides making and other things related to them.
 
 ##### Team leader
@@ -91,11 +87,6 @@ The team leader is elected by a team vote.
 The team leader can be changed by the request of at least 50% of team members at any time.
 The team leader is the default point of contact with the board and other teams.
 If there is a team vote that results in a tie, that team leader acts as the tiebreaker.
-
-##### Deputy team leader (Second leader)
-This is the right arm of the team leader.
-The person is elected by the team leader. 
-The deputy leader is also the point of contact if the team leader is absent.
 
 ### Community Team
 
