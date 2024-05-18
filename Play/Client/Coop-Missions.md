@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-18T08:33:04.108Z
+date: 2024-05-18T08:40:07.421Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -122,12 +122,12 @@ The below also allows more of an objective measure of the difficulty of a campai
 
 | | SupCom - Cybran   	| AiX modifier |
 |-|----------------	|-----------------	|
-|1| Liberation    	| 1.0
-|2| Artifact     	| 1.0
-|3| Defrag    	| 1.0
-|4| Mainframe Tango        	| 1.0
-|5| Unlock          	| 1.0
-|6| Freedom     	| 2.3
+|1| Liberation    	| 0.5
+|2| Artifact     	| <=1.0
+|3| Defrag    	| <=1.0
+|4| Mainframe Tango        	| <=1.0
+|5| Unlock          	| <=1.0
+|6| Freedom (remastered)    	| 2.3
 
 
 | | Forced Alliance   	| AiX modifier |
