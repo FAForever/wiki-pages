@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-19T08:28:14.466Z
+date: 2024-05-19T09:00:40.616Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -135,7 +135,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |1| Black Day    	| 1.3
 |2| Dawn     	| 0.5
 |3| Red Flag    	| 0.5
-|4| Meltdown        	| <=1.0
+|4| Meltdown        	| 0.7
 |5| Mind Games          	| <=1.0
 |6| Overlord     	| 1.3
 
