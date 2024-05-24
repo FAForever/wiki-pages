@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-19T13:30:08.624Z
+date: 2024-05-24T07:30:14.322Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -147,6 +147,18 @@ The below also allows more of an objective measure of the difficulty of a campai
 |3| Golden Crystals    | 1.8
 |4| Rebel's Rest       | 5.5
 |5| Red Revenge        | 5.4
+
+
+| | Seraphim Campaign         | AiX modifier |
+|-|-------------------------- |------------------- |
+|1| Yath-Aez                  | 1.8          | 
+|2| Operation Tha-Atha-Aez    | >10.0*          | 
+|3| Uhthe-Thuum-QAI           | 2.1    | 
+|4| Ioz-Shavoh-Kael           | 1.5       |
+|5| Overlord Surth-Velsok			| <=2.5        |
+
+(*M28 failed with 10.0 AiX modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
+
 
 
 #### Notes on AI campaign difficulty (for reference)
