@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-24T07:30:14.322Z
+date: 2024-05-24T07:30:52.971Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -140,15 +140,6 @@ The below also allows more of an objective measure of the difficulty of a campai
 |6| Overlord     	| 1.3
 
 
-| | Coalition Campaign         | AiX modifier |
-|-|-------------------------- |------------------- |
-|1| Blockade           | 2.2
-|2| Holy Raid          | 1.5
-|3| Golden Crystals    | 1.8
-|4| Rebel's Rest       | 5.5
-|5| Red Revenge        | 5.4
-
-
 | | Seraphim Campaign         | AiX modifier |
 |-|-------------------------- |------------------- |
 |1| Yath-Aez                  | 1.8          | 
@@ -160,6 +151,13 @@ The below also allows more of an objective measure of the difficulty of a campai
 (*M28 failed with 10.0 AiX modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
 
 
+| | Coalition Campaign         | AiX modifier |
+|-|-------------------------- |------------------- |
+|1| Blockade           | 2.2
+|2| Holy Raid          | 1.5
+|3| Golden Crystals    | 1.8
+|4| Rebel's Rest       | 5.5
+|5| Red Revenge        | 5.4
 
 #### Notes on AI campaign difficulty (for reference)
 - The human player remains afk throughout the game subject to rare exceptions where they are required to progress the mission (or are given significant starting units required to defend in the opening minutes).
