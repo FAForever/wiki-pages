@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-04T15:27:37.142Z
+date: 2024-06-04T18:19:15.336Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -337,9 +337,9 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 - [Madmax](https://github.com/MadMaxFAF)
 - [Hdt80bro](https://github.com/Hdt80bro)
-- [4z0t](https://github.com/BlackYps)
+- [4z0t](https://github.com/4z0t)
 - [BlackYps](https://github.com/BlackYps)
-- [Cheeseberry](https://github.com/clyfordv)
+- [Cheeseberry](https://github.com/ChessBerry)
 - [Clyf](https://github.com/clyfordv)
 - [Relent0r](https://github.com/relent0r)
 - Nomander ([lL1l1 on Github](https://github.com/lL1l1))
