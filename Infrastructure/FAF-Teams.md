@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-05-26T21:29:44.642Z
+date: 2024-06-04T15:27:37.142Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -17,7 +17,7 @@ The FAF Teams are groups of FAF contributors who are tasked with diffrent aspect
 These are the current Team Leaders:
 
 - **Trainer Team Leader** 
-	> **Sladow**
+	> **TBD**
   
 - **Community Manager** 
 	> **TBD**
@@ -67,7 +67,6 @@ These are the current Team Leaders:
 - Prohibitorum
 - Seraphim-Com
 - Skrat
-- Sladow
 - Strydxr
 - Terminal
 - TheDuelist
@@ -225,7 +224,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - FTXCommando
 - Blodir
 - Tagada
-- Sladow
 - Morax
 - Yudi
 - SpikeyNoob
@@ -275,7 +273,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - SpikeyNoob
 - Blodir
 - Rowey
-- Sladow
 
 #### Associates
 
