@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-05-24T07:57:44.922Z
+date: 2024-06-05T22:02:48.414Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -100,34 +100,14 @@ The following is intended to provide a rough indication of the difficulty level 
 
 The below also allows more of an objective measure of the difficulty of a campaign mission, albeit with the caveat it is from the AI's perspective and human players' experiences will likely vary significantly.
 
-| | SupCom - UEF   	| AiX modifier |
+| | SupCom - UEF   	| AiX modifier | SupCom - Aeon   	| AiX modifier |SupCom - Cybran   	| AiX modifier |
 |-|----------------	|-----------------	|
-|1| Black Earth    	| 0.5
-|2| Snow Blind     	| 0.6
-|3| Metal Shark    	| 0.5
-|4| Vaccine        	| 0.5
-|5| Forge          	| 1.1
-|6| Stone Wall (remastered)     	| 0.5
-
-
-| | SupCom - Aeon   	| AiX modifier |
-|-|----------------	|-----------------	|
-|1| Joust    	| 0.5
-|2| Machine Purge     	| 0.5
-|3| High Tide    	| 0.6
-|4| Entity        	| 0.6
-|5| Shining Star          	| 0.7
-|6| Beginnings     	| 0.6
-
-
-| | SupCom - Cybran   	| AiX modifier |
-|-|----------------	|-----------------	|
-|1| Liberation    	| 0.5
-|2| Artifact     	| 0.5
-|3| Defrag    	| 0.5
-|4| Mainframe Tango        	| 0.5
-|5| Unlock          	| 0.6
-|6| Freedom (remastered)    	| 2.3
+|1| Black Earth    	| 0.5| Joust    	| 0.5| Liberation    	| 0.5
+|2| Snow Blind     	| 0.6| Machine Purge     	| 0.5| Artifact     	| 0.5
+|3| Metal Shark    	| 0.5| High Tide    	| 0.6| Defrag    	| 0.5
+|4| Vaccine        	| 0.5| Entity        	| 0.6| Mainframe Tango        	| 0.5
+|5| Forge          	| 1.1| Shining Star          	| 0.7| Unlock          	| 0.6
+|6| Stone Wall (remastered)     	| 0.5| Beginnings     	| 0.6| Freedom (remastered)    	| 2.3
 
 
 | | Forced Alliance   	| AiX modifier |
@@ -140,24 +120,16 @@ The below also allows more of an objective measure of the difficulty of a campai
 |6| Overlord     	| 1.3
 
 
-| | Seraphim Campaign         | AiX modifier |
+| | Seraphim Campaign         | AiX modifier |Coalition Campaign         | AiX modifier |
 |-|-------------------------- |------------------- |
-|1| Yath-Aez                  | 1.8          | 
-|2| Operation Tha-Atha-Aez    | >10.0*          | 
-|3| Uhthe-Thuum-QAI           | 2.1    | 
-|4| Ioz-Shavoh-Kael           | 1.5       |
-|5| Overlord Surth-Velsok			| 2.1        |
+|1| Yath-Aez                  | 1.8          | Blockade           | 2.2
+|2| Operation Tha-Atha-Aez    | >10.0*          | Holy Raid          | 1.5
+|3| Uhthe-Thuum-QAI           | 2.1    |Golden Crystals    | 1.8 
+|4| Ioz-Shavoh-Kael           | 1.5       |Rebel's Rest       | 5.5
+|5| Overlord Surth-Velsok			| 2.1        |Red Revenge        | 5.4
 
 (*M28 failed with 10.0 AiX modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
 
-
-| | Coalition Campaign         | AiX modifier |
-|-|-------------------------- |------------------- |
-|1| Blockade           | 2.2
-|2| Holy Raid          | 1.5
-|3| Golden Crystals    | 1.8
-|4| Rebel's Rest       | 5.5
-|5| Red Revenge        | 5.4
 
 #### Notes on AI campaign difficulty (for reference)
 - The human player remains afk throughout the game subject to rare exceptions where they are required to progress the mission (or are given significant starting units required to defend in the opening minutes).
