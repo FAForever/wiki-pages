@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-05T22:10:17.129Z
+date: 2024-06-05T22:12:45.102Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -92,6 +92,7 @@ You can further adjust the M28AI to apply to in-mission allies and the hostile A
 - M28Coop: Use AIX modifiers? If set to yes, then it will apply the AIx cheat and build multipliers to M28AI
 - AIx Cheat Multiplier - affects the resource modifier the AI receives (if Use AIx modifiers is set to yes). 1.0 means it receives a normal level of resources.  Set to below 1.0 for a weaker AI.
 - AIx Build Multiplier - affects the build modifier the AI receives (if "Use AIx modifiers" is set to yes, in the case of allied/hostile AIs as opposed to 'player' AIs).  1.0 means units have the normal build rate.  Set to below 1.0 for a weaker AI.
+- M28AIx Overwhelm rate, interval and limit - where the AIx modifier is to be applied to an M28AI, these allow you to make the AIx modifier increase or decrease over time (rate being the amount by which the build and resource modifiers change, interval being how many minutes between each change, and the limit being the point at which the modifier stops changing).
 - M28Coop: Hostile combat delay - where M28AI is applied to the hostile AI, it will wait this number of seconds before applying most of it's offensive logic to the hostile AI's units.  By default this is set to 300 (being 5 minutes).  On missions where the hostile AI starts with a large army, it may be necessary to increase this to avoid too high a difficulty level.  For more of a challenge, the delay can be decreased.
 - M28Coop: Use M28Easy? - This applies M28EasyAI to the allied/hostile AI instead of M28AI.  M28EasyAI uses most of the M28AI's macro logic, but doesn't micro its units and uses very simple attack logic.
 
