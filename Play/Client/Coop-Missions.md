@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-05T22:02:48.414Z
+date: 2024-06-05T22:10:17.129Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -75,9 +75,9 @@ These missions are single scenarios, meaning they are not linked to larger campa
 ![fletcher28.png](/fletcher28.png)![rhiza28.png](/rhiza28.png)
 ### AI options
 The M28AI mod allows you to customise the AI on campaign missions - players can choose any or all of the following options:
-- An AI teammate - start the game with a teammate controlled by M28AI (in the same way that you can play a mission with a human teammate).  You can also choose to use an AiX variant and set the resource and build rate modifiers to the desired level.
-- Use M28AI logic for allied AI - where there is an allied AI faction with units, this option allows M28AI to take over control of their units.  For example, this allows the rebels on Dawn (FA Mission 2) to have a significant impact on the mission if allowed to survive.  AiX modifiers can be applied to the alleid AI if desired.
-- Use M28AI logic for hostile AI - this allows M28AI to take over control of hostile AI armies in campaign missions, meaning it will actively seek to use the units under its control to defeat you (in contrast to the default AI where it can often play more passively with the exception of scripted periodic attacks).  AiX modifiers can be applied to the AI if desired (meaning you can give it a greater or reduced resource and/or build rate).
+- An AI teammate - start the game with a teammate controlled by M28AI (in the same way that you can play a mission with a human teammate).  You can also choose to use an AIx variant and set the resource and build rate modifiers to the desired level, and/or have this adjust over time using the AIx overwhelm settings (to make the AI stronger or weaker as the game progresses).
+- Use M28AI logic for allied AI - where there is an allied AI faction with units, this option allows M28AI to take over control of their units.  For example, this allows the rebels on Dawn (FA Mission 2) to have a significant impact on the mission if allowed to survive.  AIx modifiers can be applied to the alleid AI if desired.
+- Use M28AI logic for hostile AI - this allows M28AI to take over control of hostile AI armies in campaign missions, meaning it will actively seek to use the units under its control to defeat you (in contrast to the default AI where it can often play more passively with the exception of scripted periodic attacks).  AIx modifiers can be applied to the AI if desired (meaning you can give it a greater or reduced resource and/or build rate).
 
 #### Setup
 Make sure you have downloaded the M28AI mod from the FAF vault and the mod is active.
@@ -90,8 +90,8 @@ To apply M28AI to in-mission AI allies and/or enemies, select the Options within
 
 You can further adjust the M28AI to apply to in-mission allies and the hostile AI in game options as follows:
 - M28Coop: Use AIX modifiers? If set to yes, then it will apply the AIx cheat and build multipliers to M28AI
-- AIx Cheat Multiplier - affects the resource modifier the AI receives (if Use AIX modifiers is set to yes). 1.0 means it receives a normal level of resources.  Set to below 1.0 for a weaker AI.
-- AIx Build Multiplier - affects the build modifier the AI receives (if "Use AIX modifiers" is set to yes, in the case of allied/hostile AIs as opposed to 'player' AIs).  1.0 means units have the normal build rate.  Set to below 1.0 for a weaker AI.
+- AIx Cheat Multiplier - affects the resource modifier the AI receives (if Use AIx modifiers is set to yes). 1.0 means it receives a normal level of resources.  Set to below 1.0 for a weaker AI.
+- AIx Build Multiplier - affects the build modifier the AI receives (if "Use AIx modifiers" is set to yes, in the case of allied/hostile AIs as opposed to 'player' AIs).  1.0 means units have the normal build rate.  Set to below 1.0 for a weaker AI.
 - M28Coop: Hostile combat delay - where M28AI is applied to the hostile AI, it will wait this number of seconds before applying most of it's offensive logic to the hostile AI's units.  By default this is set to 300 (being 5 minutes).  On missions where the hostile AI starts with a large army, it may be necessary to increase this to avoid too high a difficulty level.  For more of a challenge, the delay can be decreased.
 - M28Coop: Use M28Easy? - This applies M28EasyAI to the allied/hostile AI instead of M28AI.  M28EasyAI uses most of the M28AI's macro logic, but doesn't micro its units and uses very simple attack logic.
 
@@ -100,7 +100,7 @@ The following is intended to provide a rough indication of the difficulty level 
 
 The below also allows more of an objective measure of the difficulty of a campaign mission, albeit with the caveat it is from the AI's perspective and human players' experiences will likely vary significantly.
 
-| | SupCom - UEF   	| AiX modifier | SupCom - Aeon   	| AiX modifier |SupCom - Cybran   	| AiX modifier |
+| | SupCom - UEF   	| AIx modifier | SupCom - Aeon   	| AIx modifier |SupCom - Cybran   	| AIx modifier |
 |-|----------------	|-----------------	|
 |1| Black Earth    	| 0.5| Joust    	| 0.5| Liberation    	| 0.5
 |2| Snow Blind     	| 0.6| Machine Purge     	| 0.5| Artifact     	| 0.5
@@ -110,7 +110,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |6| Stone Wall (remastered)     	| 0.5| Beginnings     	| 0.6| Freedom (remastered)    	| 2.3
 
 
-| | Forced Alliance   	| AiX modifier |
+| | Forced Alliance   	| AIx modifier |
 |-|----------------	|-----------------	|
 |1| Black Day    	| 1.3
 |2| Dawn     	| 0.5
@@ -120,7 +120,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |6| Overlord     	| 1.3
 
 
-| | Seraphim Campaign         | AiX modifier |Coalition Campaign         | AiX modifier |
+| | Seraphim Campaign         | AIx modifier |Coalition Campaign         | AIx modifier |
 |-|-------------------------- |------------------- |
 |1| Yath-Aez                  | 1.8          | Blockade           | 2.2
 |2| Operation Tha-Atha-Aez    | >10.0*          | Holy Raid          | 1.5
@@ -128,7 +128,7 @@ The below also allows more of an objective measure of the difficulty of a campai
 |4| Ioz-Shavoh-Kael           | 1.5       |Rebel's Rest       | 5.5
 |5| Overlord Surth-Velsok			| 2.1        |Red Revenge        | 5.4
 
-(*M28 failed with 10.0 AiX modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
+(*M28 failed with 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
 
 
 #### Notes on AI campaign difficulty (for reference)
