@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-05T22:12:45.102Z
+date: 2024-06-06T18:57:56.572Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -38,28 +38,48 @@ Double-click on the hosted game in order to join it. Enter any password as norma
 Here you can see the best times for selected missions. Watching these can give you a lot of information on how to beat a mission if you're struggling with it!
 Note that a mission must be cleared in 'hard' difficulty in order to qualify for the leaderboard. Difficulty can be changed in the lobby through usual mission options.
 
+The tables also provide an 'AIx modifier' - this is intended to give a rough indication of how difficult missions are, by showing the AIx modifier needed for M28AI to complete the indicated campaign mission 'solo' (i.e. a single M28AI teammate is included alongside the (human) player).  This allows more of an objective measure of the difficulty of a campaign mission, albeit with the caveat it is from the AI's perspective and human players' experiences will likely vary significantly.
+
 ![coop-missions.png](/coop-missions.png)
 
 ## Missions List
 ##### GPG original campaigns
-| | SupCom - UEF   	| SupCom - Aeon   	| SupCom - Cybran 	 | | SupCom - FA  |
-|-|----------------	|-----------------	|------------------- |-|------------	|
-|1| Black Earth    	| Joust           	| Liberation         | | Black Day  	|
-|2| Snow Blind     	| Machine Purge   	| Artifact           | | Dawn       	|
-|3| Metal Shark    	| High Tide       	| Defrag             | | Red Flag   	|
-|4| Vaccine        	| Entity           	| Mainframe Tango    | | Meltdown   	|
-|5| Forge          	| Shining Star    	| Unlock             | | Mind Games 	|
-|6| Stone Wall     	| Beginnings      	| Freedom            | | Overlord   	|
+| | SupCom - UEF   	| AIx modifier | SupCom - Aeon   	| AIx modifier |SupCom - Cybran   	| AIx modifier |
+|-|----------------	|-----------------	|
+|1| Black Earth    	| 0.5| Joust    	| 0.5| Liberation    	| 0.5
+|2| Snow Blind     	| 0.6| Machine Purge     	| 0.5| Artifact     	| 0.5
+|3| Metal Shark    	| 0.5| High Tide    	| 0.6| Defrag    	| 0.5
+|4| Vaccine        	| 0.5| Entity        	| 0.6| Mainframe Tango        	| 0.5
+|5| Forge          	| 1.1| Shining Star          	| 0.7| Unlock          	| 0.6
+|6| Stone Wall (remastered)     	| 0.5| Beginnings     	| 0.6| Freedom (remastered)    	| 2.3
+
+
+| | Forced Alliance   	| AIx modifier |
+|-|----------------	|-----------------	|
+|1| Black Day    	| 1.3
+|2| Dawn     	| 0.5
+|3| Red Flag    	| 0.5
+|4| Meltdown        	| 0.7
+|5| Mind Games          	| 0.7
+|6| Overlord     	| 1.3
+
 
 ##### FAForever campaigns
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
-| | Seraphim Campaign         | Coalition Campaign |
+
+
+
+| | Seraphim Campaign         | AIx modifier |Coalition Campaign         | AIx modifier |
 |-|-------------------------- |------------------- |
-|1| Yath-Aez                  | Blockade           | 
-|2| Operation Tha-Atha-Aez    | Holy Raid          | 
-|3| Uhthe-Thuum-QAI           | Golden Crystals    | 
-|4| Ioz-Shavoh-Kael           | Rebel's Rest       |
-|5| Overlord Surth-Velsok			| Red Revenge        |
+|1| Yath-Aez                  | 1.8          | Blockade           | 2.2
+|2| Operation Tha-Atha-Aez    | >10.0*          | Holy Raid          | 1.5
+|3| Uhthe-Thuum-QAI           | 2.1    |Golden Crystals    | 1.8 
+|4| Ioz-Shavoh-Kael           | 1.5       |Rebel's Rest       | 5.5
+|5| Overlord Surth-Velsok			| 2.1        |Red Revenge        | 5.4
+
+(*M28 failed with 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
+
+
 ##### FAForever custom scenarios
 These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't require playing in a particular order.
 |Custom scenarios       ||||
@@ -97,42 +117,9 @@ You can further adjust the M28AI to apply to in-mission allies and the hostile A
 - M28Coop: Use M28Easy? - This applies M28EasyAI to the allied/hostile AI instead of M28AI.  M28EasyAI uses most of the M28AI's macro logic, but doesn't micro its units and uses very simple attack logic.
 
 ### Campaign difficulty level for M28AI
-The following is intended to provide a rough indication of the difficulty level for M28AI to complete the indicated campaign mission 'solo' (i.e. a single M28AI teammate is included alongside the (human) player.
+See the above mission listings for how difficult different missions are for M28AI, based on the AIx modifier it needed to complete the mission without human assistance.
 
-The below also allows more of an objective measure of the difficulty of a campaign mission, albeit with the caveat it is from the AI's perspective and human players' experiences will likely vary significantly.
-
-| | SupCom - UEF   	| AIx modifier | SupCom - Aeon   	| AIx modifier |SupCom - Cybran   	| AIx modifier |
-|-|----------------	|-----------------	|
-|1| Black Earth    	| 0.5| Joust    	| 0.5| Liberation    	| 0.5
-|2| Snow Blind     	| 0.6| Machine Purge     	| 0.5| Artifact     	| 0.5
-|3| Metal Shark    	| 0.5| High Tide    	| 0.6| Defrag    	| 0.5
-|4| Vaccine        	| 0.5| Entity        	| 0.6| Mainframe Tango        	| 0.5
-|5| Forge          	| 1.1| Shining Star          	| 0.7| Unlock          	| 0.6
-|6| Stone Wall (remastered)     	| 0.5| Beginnings     	| 0.6| Freedom (remastered)    	| 2.3
-
-
-| | Forced Alliance   	| AIx modifier |
-|-|----------------	|-----------------	|
-|1| Black Day    	| 1.3
-|2| Dawn     	| 0.5
-|3| Red Flag    	| 0.5
-|4| Meltdown        	| 0.7
-|5| Mind Games          	| 0.7
-|6| Overlord     	| 1.3
-
-
-| | Seraphim Campaign         | AIx modifier |Coalition Campaign         | AIx modifier |
-|-|-------------------------- |------------------- |
-|1| Yath-Aez                  | 1.8          | Blockade           | 2.2
-|2| Operation Tha-Atha-Aez    | >10.0*          | Holy Raid          | 1.5
-|3| Uhthe-Thuum-QAI           | 2.1    |Golden Crystals    | 1.8 
-|4| Ioz-Shavoh-Kael           | 1.5       |Rebel's Rest       | 5.5
-|5| Overlord Surth-Velsok			| 2.1        |Red Revenge        | 5.4
-
-(*M28 failed with 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
-
-
-#### Notes on AI campaign difficulty (for reference)
+For reference, the following are noted in respect of how this was tested
 - The human player remains afk throughout the game subject to rare exceptions where they are required to progress the mission (or are given significant starting units required to defend in the opening minutes).
 - All missions were done on default settings, meaning Hard difficulty, with timed map expansions enabled, while M28AI was only used for the AI player (not for allies or enemies).
 - Most of the above results are based on v91-v96 of M28AI, based on the latest versions of campaign maps available in April-May 2024.
