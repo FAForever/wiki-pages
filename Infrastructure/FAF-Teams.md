@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-10T01:45:15.998Z
+date: 2024-06-10T01:45:27.435Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -17,7 +17,7 @@ The FAF Teams are groups of FAF contributors who are tasked with diffrent aspect
 These are the current Team Leaders:
 
 - **Trainer Team Leader** 
-	> Cheeseberry
+	> **Cheeseberry**
   
 - **Community Manager** 
 	> **TBD**
