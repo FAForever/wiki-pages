@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-10T01:46:36.292Z
+date: 2024-06-11T09:03:01.442Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -276,6 +276,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 #### Associates
 
+- Stormlantern
 - Rhaelya
 - Tex
 - Archsimkat
