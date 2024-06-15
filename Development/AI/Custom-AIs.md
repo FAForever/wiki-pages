@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-06-06T19:15:23.392Z
+date: 2024-06-15T09:22:56.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -33,7 +33,7 @@ These AI are being actively developed with recent updates.  If you have feedback
 ![m28ai.jpg](/m28ai.jpg)
 *Author: maudlin27*
 Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 800-1200 (i.e. slightly better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available, and both feature an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game.
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available, and both feature an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game.
 
 M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI - see the [campaign section](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai) for further details.
 
