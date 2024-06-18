@@ -2,13 +2,13 @@
 title: Creating Map-Wide Assets
 description: A tutorial on the process of creating map-wide assets 
 published: true
-date: 2024-03-18T14:18:20.467Z
+date: 2024-06-18T10:04:54.423Z
 tags: gaea, decal, shadow, normal, albedo
 editor: markdown
 dateCreated: 2023-12-22T12:44:57.314Z
 ---
 
->This tutorial is a draft and is currently incomplete: several segments are missing and some segments of the text needs to be rewritten or may be partially incorrect.
+>This tutorial is a draft and is currently incomplete: several segments are missing and some segments of the text needs to be rewritten or may be only partially correct.
 {.is-danger}
 
 
