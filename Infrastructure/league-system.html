@@ -2,25 +2,37 @@
 title: League System
 description: An explanation of the FAForever leaderboards
 published: true
-date: 2023-07-04T09:53:04.226Z
+date: 2024-06-20T13:18:11.847Z
 tags: leaderboard, division, rating, league
 editor: ckeditor
 dateCreated: 2022-12-02T12:12:09.412Z
 -->
 
-<p>FAF started using a division-based system for leaderboards instead of the TrueSkill ratings in 2022. This article explains why this change happened.</p>
+<p>FAF transitioned to a division-based system for leaderboards in 2022, moving away from TrueSkill ratings. This article delves into the reasons behind this change.</p>
 <p>&nbsp;</p>
-<h3>The Problem with TrueSkill</h3>
-<p><a href="/en//Infrastructure/Rating-System">TrueSkill</a> is a very good system to quickly determine players' performance, which is needed to provide balanced matches. This system relies on statistical models which makes it somewhat complicated to understand, especially without appropriate mathematical background knowledge.</p>
-<p>As the system factors in not only the rating mean but also the uncertainty of a player's rating, it regularly leads to situations where people are surprised by the rating changes after a game. (People in the team getting a different amount of points, people losing or gaining a rating after a draw, etc.) This is not a flaw in the system, but it creates a bad user experience.</p>
-<p>Additionally, people regularly ask for rating resets or decays because they feel they can’t perform on their original level anymore after a long break or because people that haven’t played in years are still at the top of the leaderboard. Many other online games circumvent these problems by building another layer on top that is easier to understand and works in seasons that provide a periodic reset of the leaderboard while the matchmaker rating – TrueSkill in our case – can work in the background undisturbed.</p>
-<p>So FAF decided to build a similar system.<br>&nbsp;</p>
-<h3>How the league system works</h3>
-<p>Matchmaking is still based on TrueSkill for fair games and the TrueSkill calculation still happens in the background as usual. Several divisions got set up that are tied to a TrueSkill rating range. Before putting a player in a division there is a placement phase of 10 games. This gives TrueSkill some time to determine the rating for new players.</p>
-<p>Subdivisions functionally behave exactly like divisions. The player will then be placed in the appropriate subdivision based on his TrueSkill rating. Specifically, 100 points lower to have a soft reset at the season start and to provide the opportunity to climb. The starting points in the division are based on his relative position in the division (many if close to the rating ceiling, less if closer to the rank rating of the division).</p>
-<p>Generally, you gain one point for a win and drop one point for a loss. A draw leads to no point change. When you have a higher rating than the rating range of your current division, then you will gain two points for a win. Similarly, if you have a lower rating than the rating range of your division, then you will drop two points for each loss. This makes sure that all players generally are in the division that correlates to their rating, ensuring that the division gives useful info about a player’s skill.</p>
-<p>Players will automatically rank up to the next (sub)division if they exceed the point maximum of the current division. They will then start with 2 points in the next division to prevent instant de-ranking. Similarly, they will de-rank if falling under 0 points and will then start with 2 points under the division point maximum to prevent an instant up-rank.</p>
-<p>At the end of a season that lasts three months, the leaderboard will be reset and people have to play placement games again. This provides the „rating“ resets for inactive players and makes sure that the leaderboard stays up to date. To make the placement games less of a drag, you will only need to play three games when you were already placed in an earlier season.</p>
+<h3>The Issues with TrueSkill</h3>
+<p>TrueSkill effectively assesses player performance to ensure balanced matches, leveraging statistical models. However, its reliance on complex statistical calculations can be challenging to grasp for users without a strong mathematical background.</p>
+<p>One significant drawback is the system's inclusion of rating uncertainty alongside mean ratings. This often results in unexpected rating changes after games—such as varying points distribution among team members or rating adjustments following draws. While not a flaw in the system per se, these outcomes can create a frustrating user experience.</p>
+<p>Moreover, players frequently request rating resets or decays due to a perceived inability to perform at their original level after extended breaks. Another common concern is outdated leaderboards, where inactive players retain top positions despite no recent gameplay. Many online games address these issues by overlaying simpler, season-based systems that reset leaderboards periodically, while the underlying matchmaking ratings (like TrueSkill) continue to operate in the background.</p>
+<p>In response to these challenges, FAF opted to implement a comparable system.<br>&nbsp;</p>
+<h2>How the League System Works</h2>
+<p>The league system on FAF retains TrueSkill for matchmaking to ensure fair games, with TrueSkill calculations operating in the background as usual. In addition to this, the system introduces divisions and subdivisions tied to specific TrueSkill rating ranges.</p>
+<h3>Placement Phase</h3>
+<p>New players undergo a placement phase consisting of 10 games. During this phase, TrueSkill determines their rating. Based on this rating, players are assigned to a division or subdivision. Subdivisions function similarly to divisions.</p>
+<h3>Division Placement</h3>
+<p>Players are placed in a division based on their TrueSkill rating, typically 100 points below the division's rating range. This soft reset at the start of each season allows for climbing opportunities. Starting points within the division depend on the player's relative position: more points are given if closer to the division's upper rating limit, and fewer if closer to the lower limit.</p>
+<h3>Points System</h3>
+<ul>
+  <li><strong>Wins and Losses:</strong> A win results in a gain of one point, while a loss leads to a one-point deduction.</li>
+  <li><strong>Draws:</strong> No change in points.</li>
+  <li><strong>Out-of-Range Ratings:</strong> Players with a higher rating than their division gain two points for a win, while those with a lower rating lose two points for a loss. This ensures players are appropriately ranked within their divisions.</li>
+</ul>
+<h3>Ranking Up and Down</h3>
+<p>Players automatically rank up to the next division or subdivision upon reaching the point maximum of their current tier. They begin with two points in the new division to prevent immediate demotion. Conversely, falling below zero points results in demotion to a lower division, with a two-point buffer below the division's maximum to prevent immediate promotion.</p>
+<h3>Seasonal Resets</h3>
+<p>At the end of each three-month season, the leaderboard resets. Players must then play placement games again. This periodic reset addresses concerns about outdated leaderboards due to inactive players retaining top positions. Returning players who were previously placed in a season need only play three games to re-establish their position.</p>
+<h3>Conclusion</h3>
+<p>This structured approach ensures that divisions and subdivisions accurately reflect players' current skill levels. It combines the precision of TrueSkill for matchmaking with a user-friendly, season-based division system to maintain an up-to-date and competitive leaderboard.</p>
 <p>&nbsp;</p>
 <figure class="table">
   <table>
