@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T13:00:01.787Z
+date: 2024-06-20T13:01:25.774Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -79,16 +79,17 @@ Similarly to the original campaigns, these are linked in the story, and it is ad
 
 *Note: The AIx modifier for "Operation Tha-Atha-Aez" is exceptionally high, indicating a very challenging mission.
 
-(*M28 failed with 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
+(*M28 failed with a 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base. Without this issue, the AIx modifier is estimated at 2.3 for this mission.)
 
+### FAForever Custom Scenarios
+These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't need to be played in a particular order.
 
-##### FAForever custom scenarios
-These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't require playing in a particular order.
-|Custom scenarios       ||||
-|---------------------- |------------------------|------------------------|------------------------|
-| Prothyon - 16         | Operation Rescue       | Theta Civilian Rescue | Novax Station Assault  |
-| Fort Clarke Assault   | Tight Spot        	   | Haven's Invasion      | Operation Trident      |
-| Rescue                | Trident                | | |
+| Custom Scenarios       |                    |                       |                         |
+|------------------------|--------------------|-----------------------|-------------------------|
+| Prothyon - 16          | Operation Rescue   | Theta Civilian Rescue | Novax Station Assault   |
+| Fort Clarke Assault    | Tight Spot         | Haven's Invasion      | Operation Trident       |
+| Rescue                 | Trident            |                       |                         |
+
 ##### Notes:
 - FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
 - Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
