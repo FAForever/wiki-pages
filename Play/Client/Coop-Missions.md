@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T12:54:12.680Z
+date: 2024-06-20T12:56:50.509Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -26,33 +26,33 @@ Alongside the original GPG campaign missions from Supreme Commander and the Forg
 
 
 ## Interface
-The interface is mostly self-explanatory, but we'll document it here anyway, as labelled:
-1) **Hosting Missions**
+The interface is mostly self-explanatory, but we'll document it here anyway:
+
+### Hosting Missions
 - Select the desired mission from the dropdown list.
-- Set the game title (Required)
-- Set a password (Optional)
+- Set the game title (Required).
+- Set a password (Optional).
+- Join Hosted Mission
+- Double-click on the hosted game to join it.
+- Enter any password as normal.
+### Leaderboards
+- View the best times for selected missions. These can provide valuable insights on how to beat a mission if you're struggling.
+- Qualification: A mission must be cleared on 'hard' difficulty to qualify for the leaderboard. Difficulty can be changed in the lobby through the usual mission options.
 
-2) **Join Hosted Mission**
-Double-click on the hosted game in order to join it. Enter any password as normal.
-
-3) **Leaderboards**
-Here you can see the best times for selected missions. Watching these can give you a lot of information on how to beat a mission if you're struggling with it!
-Note that a mission must be cleared in 'hard' difficulty in order to qualify for the leaderboard. Difficulty can be changed in the lobby through usual mission options.
-
-The tables also provide an 'AIx modifier' - this is intended to give a rough indication of how difficult missions are, by showing the AIx modifier needed for M28AI to complete the indicated campaign mission 'solo' (i.e. a single M28AI teammate is included alongside the (human) player).  This allows more of an objective measure of the difficulty of a campaign mission, albeit with the caveat it is from the AI's perspective and human players' experiences will likely vary significantly.
-
+The tables also provide an AIx modifier. This is intended to give a rough indication of mission difficulty by showing the AIx modifier needed for M28AI to complete the indicated campaign mission 'solo' (i.e., a single M28AI teammate is included alongside the human player). This offers an objective measure of the difficulty of a campaign mission, although human players' experiences may vary significantly.
 ![coop-missions.png](/coop-missions.png)
 
 ## Missions List
 ##### GPG original campaigns
-| | SupCom - UEF   	| AIx modifier | SupCom - Aeon   	| AIx modifier |SupCom - Cybran   	| AIx modifier |
-|-|----------------	|-----------------	|
-|1| Black Earth    	| 0.5| Joust    	| 0.5| Liberation    	| 0.5
-|2| Snow Blind     	| 0.6| Machine Purge     	| 0.5| Artifact     	| 0.5
-|3| Metal Shark    	| 0.5| High Tide    	| 0.6| Defrag    	| 0.5
-|4| Vaccine        	| 0.5| Entity        	| 0.6| Mainframe Tango        	| 0.5
-|5| Forge          	| 1.1| Shining Star          	| 0.7| Unlock          	| 0.6
-|6| Stone Wall (remastered)     	| 0.5| Beginnings     	| 0.6| Freedom (remastered)    	| 2.3
+
+| # | SupCom - UEF          | AIx Modifier | SupCom - Aeon         | AIx Modifier | SupCom - Cybran      | AIx Modifier |
+|---|-----------------------|--------------|-----------------------|--------------|----------------------|--------------|
+| 1 | Black Earth           | 0.5          | Joust                 | 0.5          | Liberation           | 0.5          |
+| 2 | Snow Blind            | 0.6          | Machine Purge         | 0.5          | Artifact             | 0.5          |
+| 3 | Metal Shark           | 0.5          | High Tide             | 0.6          | Defrag               | 0.5          |
+| 4 | Vaccine               | 0.5          | Entity                | 0.6          | Mainframe Tango      | 0.5          |
+| 5 | Forge                 | 1.1          | Shining Star          | 0.7          | Unlock               | 0.6          |
+| 6 | Stone Wall (remastered) | 0.5        | Beginnings            | 0.6          | Freedom (remastered) | 2.3          |
 
 
 | | Forced Alliance   	| AIx modifier |
