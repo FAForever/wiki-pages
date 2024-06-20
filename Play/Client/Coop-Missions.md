@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T13:01:52.291Z
+date: 2024-06-20T13:03:43.646Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -96,28 +96,60 @@ These missions are single scenarios, meaning they are not linked to larger campa
 
 ## Custom campaign AI
 ![fletcher28.png](/fletcher28.png)![rhiza28.png](/rhiza28.png)
-### AI options
-The M28AI mod allows you to customise the AI on campaign missions - players can choose any or all of the following options:
-- An AI teammate - start the game with a teammate controlled by M28AI (in the same way that you can play a mission with a human teammate).  You can also choose to use an AIx variant and set the resource and build rate modifiers to the desired level, and/or have this adjust over time using the AIx overwhelm settings (to make the AI stronger or weaker as the game progresses).
-- Use M28AI logic for allied AI - where there is an allied AI faction with units, this option allows M28AI to take over control of their units.  For example, this allows the rebels on Dawn (FA Mission 2) to have a significant impact on the mission if allowed to survive.  AIx modifiers can be applied to the alleid AI if desired.
-- Use M28AI logic for hostile AI - this allows M28AI to take over control of hostile AI armies in campaign missions, meaning it will actively seek to use the units under its control to defeat you (in contrast to the default AI where it can often play more passively with the exception of scripted periodic attacks).  AIx modifiers can be applied to the AI if desired (meaning you can give it a greater or reduced resource and/or build rate).
+### AI Options with M28AI Mod
 
-#### Setup
-Make sure you have downloaded the M28AI mod from the FAF vault and the mod is active.
+The M28AI mod offers customizable AI options for campaign missions, providing players with several choices:
 
-When hosting a campaign mission, to play with an M28AI buddy, include it as one of the players:
+- **AI Teammate**: Start the game with an AI-controlled teammate using M28AI, similar to playing with a human teammate. You can adjust the AIx variant and set resource and build rate modifiers, which can dynamically change using AIx overwhelm settings to adjust AI strength throughout the game.
+
+- **AI Logic for Allied AI**: Allows M28AI to take control of units belonging to allied AI factions. For instance, this option can significantly impact missions like Dawn (FA Mission 2) if the allied rebels are allowed to survive. AIx modifiers can also be applied to allied AI for additional customization.
+
+- **AI Logic for Hostile AI**: Enables M28AI to control hostile AI armies in campaign missions, making them actively use their units to challenge and defeat the player. This contrasts with the default AI behavior, which tends to be more passive except during scripted attacks. AIx modifiers can adjust the resources and build rates of hostile AI, increasing or decreasing their challenge level.
+
+These options provide players with flexibility to enhance the AI experience in campaign missions, adapting difficulty and gameplay dynamics according to their preferences and strategies.
+
+#### Setup for M28AI Mod
+
+Ensure you have downloaded and activated the M28AI mod from the FAF vault.
+
+**Hosting a Campaign Mission with M28AI:**
+
+When hosting a campaign mission and wanting to play with an M28AI teammate, include it as one of the players:
 ![m28ai_buddy.png](/m28ai_buddy.png)
 
-To apply M28AI to in-mission AI allies and/or enemies, select the Options within the lobby and choose the preferred settings (i.e. Allied AI; Enemy AI; or Allied and Enemy AI)
-![m28ai_game_options_-_ai_to_apply.png](/m28ai_game_options_-_ai_to_apply.png)
+**Applying M28AI to In-Mission AI:**
 
-You can further adjust the M28AI to apply to in-mission allies and the hostile AI in game options as follows:
-- M28Coop: Use AIX modifiers? If set to yes, then it will apply the AIx cheat and build multipliers to M28AI
-- AIx Cheat Multiplier - affects the resource modifier the AI receives (if Use AIx modifiers is set to yes). 1.0 means it receives a normal level of resources.  Set to below 1.0 for a weaker AI.
-- AIx Build Multiplier - affects the build modifier the AI receives (if "Use AIx modifiers" is set to yes, in the case of allied/hostile AIs as opposed to 'player' AIs).  1.0 means units have the normal build rate.  Set to below 1.0 for a weaker AI.
-- M28AIx Overwhelm rate, interval and limit - where the AIx modifier is to be applied to an M28AI, these allow you to make the AIx modifier increase or decrease over time (rate being the amount by which the build and resource modifiers change, interval being how many minutes between each change, and the limit being the point at which the modifier stops changing).
-- M28Coop: Hostile combat delay - where M28AI is applied to the hostile AI, it will wait this number of seconds before applying most of it's offensive logic to the hostile AI's units.  By default this is set to 300 (being 5 minutes).  On missions where the hostile AI starts with a large army, it may be necessary to increase this to avoid too high a difficulty level.  For more of a challenge, the delay can be decreased.
-- M28Coop: Use M28Easy? - This applies M28EasyAI to the allied/hostile AI instead of M28AI.  M28EasyAI uses most of the M28AI's macro logic, but doesn't micro its units and uses very simple attack logic.
+To apply M28AI logic to in-mission AI allies and/or enemies, follow these steps:
+
+1. Navigate to the Options section within the lobby.
+2. Select the preferred settings for applying M28AI:
+   - Choose "Allied AI," "Enemy AI," or both for comprehensive AI control.
+   ![m28ai_game_options_-_ai_to_apply.png](/m28ai_game_options_-_ai_to_apply.png)
+
+**Further Adjustments in Game Options:**
+
+You can fine-tune M28AI settings for in-mission allies and hostile AI with these options:
+
+- **M28Coop: Use AIx Modifiers?**
+  - Enable to apply AIx cheat and build multipliers to M28AI.
+  
+- **AIx Cheat Multiplier**
+  - Adjusts the resource modifier the AI receives. A setting of 1.0 means normal resource levels; below 1.0 weakens the AI.
+  
+- **AIx Build Multiplier**
+  - Affects the build rate of AI units. A setting of 1.0 means normal build speed; below 1.0 reduces it.
+  
+- **M28AIx Overwhelm Rate, Interval, and Limit**
+  - Controls how the AIx modifier changes over time: rate (amount of change), interval (time between changes), and limit (maximum modifier).
+  
+- **M28Coop: Hostile Combat Delay**
+  - Delays the application of offensive logic to hostile AI units. Default is 300 seconds (5 minutes); adjust as needed.
+  
+- **M28Coop: Use M28Easy?**
+  - Applies M28EasyAI to allied/hostile AI instead of M28AI, which simplifies unit micro and attack logic for a different challenge level.
+
+These settings allow you to tailor the AI experience in campaign missions according to your preferences, adjusting difficulty and gameplay dynamics for a more customized experience.
+
 
 ### Campaign difficulty level for M28AI
 See the above mission listings for how difficult different missions are for M28AI, based on the AIx modifier it needed to complete the mission without human assistance.
