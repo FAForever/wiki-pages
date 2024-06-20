@@ -2,59 +2,55 @@
 title: Rating-System
 description: 
 published: true
-date: 2023-07-04T09:59:57.085Z
+date: 2024-06-20T13:13:13.749Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:47.976Z
 ---
 
-# **Why choose Trueskill over Elo ?**
+# Why Choose Trueskill Over Elo?
 
-The Elo rating system has some weaknesses that can make it unsuited to Forged Alliance. For example, ELO is unable to rate anything but 1 vs 1 matches.
+The Elo rating system, while widely used, has limitations that may make it less suitable for Forged Alliance. For instance, Elo is primarily designed for 1 vs 1 matches and may struggle with accurately rating team-based games like those in Forged Alliance.
 
 ## Team Games
 
-ELO is only capable of rating even team games, such as 2v2, it cannot properly weigh a Free For All or a team game with more than two sides. Each team will be considered as a single player, so that the leaderboard will show a result for each pair of players, for every pair that ever exists.
+The Elo rating system is limited to rating even team games, such as 2v2, and struggles with accurately weighing Free For All or team games with more than two sides. In Elo, each team is treated as a single entity, resulting in leaderboard entries for each pair of players, regardless of the team composition.
 
-TrueSkill however, can handle any match-up. Teams are the weighted sum of the players inside, and results are correctly calculated from the team results to the players in the teams. It can easily handle FFA, 2vs2vs2 and so on.
+In contrast, TrueSkill can effectively handle any match-up. It calculates teams as weighted sums of the individual players within them and accurately computes results based on team outcomes. This capability allows TrueSkill to seamlessly manage Free For Alls, 2v2v2, and other complex team configurations.
 
 ## Draws
 
-The ELO system handles draws differently from Trueskill. For Elo, a draw is simply a half-win half-lost game.
+The Elo system and TrueSkill handle draws differently. In Elo, a draw results in each player gaining half a win and half a loss.
 
-TrueSkill measures a drawn outcome very differently Each map has a draw percentage based on all of the outcomes of games played on that map. TrueSkill considers draws as a meaningful outcome: You were matched with an equally skilled opponent.
+TrueSkill treats draws as a meaningful outcome based on the frequency of draws for each map. It recognizes that a draw against an evenly matched opponent indicates balanced skill levels.
 
-But Let's consider two players with the same skill.
+Consider two players of equal skill:
 
-On a map where draws are more unlikely, a draw game will lead to no difference in skill, but the system is learning the player better (actual skills are accurate - see below). That result will also increase the overall draw probability for that map.
+- On a map where draws are rare, a draw signifies that neither player's skill has changed significantly, but the system refines its understanding of their actual skill levels. This outcome increases the draw probability for that map.
+  
+- Conversely, on a map like "Winter Duel" where draws are common, a draw is an expected result. Here, the skill ratings remain unchanged, and the system does not gain additional insights into the players' abilities, thereby increasing the draw probability specifically for "Winter Duel".
 
-However, on a map like "Winter Duel" for example, where draws are a more likely outcome a draw is expected as a result, so the skill won't move, but the system doesn't know the players better, so that game is meaningless compared the "normal" map case. That result will also increase the draw probability on Winter Duel.
+Now, if Player 1 wins:
 
-Now let's say that player 1 win.
-
-On the "normal" map, the player will gain points, for example, 's sake say a gain +4 points, and the loser receives a penalty of -4. That result will decrease the draw probability on that map. 
-
-Now, on the Winter Duel map a draw was a more likely outcome, the fact that player 1 wow means that he is significantly better than his opponent. As a result, his rating will be revised upwards, so instead of +4, he will gain +6, and the loser -6 for example. That result will then decrease the draw probability on Winter Duel. 
+- On a typical map, Player 1 gains points (e.g., +4), indicating superiority over their opponent who loses points (e.g., -4). This outcome reduces the draw probability on that map.
+  
+- On "Winter Duel" where draws are likely, Player 1's victory indicates a significant skill gap. Consequently, their rating adjustment might be higher (e.g., +6 for the winner and -6 for the loser). This adjustment also reduces the draw probability for "Winter Duel".
 
 ## Inflation
 
-Elo systems can tend to inflate over time. Because it's only comparing 2 players' ratings to determine a new rating, a better player who plays often will gain more and more points over time. For example, at the beginning of the GPGnet ranked ladder the top 10 players were rated around 1900. Presently the highest-ranked player is around 2700. Does that mean that their skill is increasing? Maybe. But not that much. The rating increase because, like all good top-tier players, they play often. And as they are good, they win games, and gain points, increasing the rating over time.
+Elo systems can experience inflation over time due to the continuous accumulation of points by active players. The rating of top players tends to increase as they frequently win games, leading to higher ratings.
 
-To combat inflation, the ELO system has a "K-Factor", limiting the maximum points a player win or loss per game. GPGNet used a K-Factor of 30. In the Chess leaderboard, the K factor depends on the rating of the player (2400+ players got a K-Factor of 16 whereas a newer player got 32). That's arbitrary, not accurate and only artificially decreases the inflation problem. \[citation needed\]
+To counteract inflation, Elo systems incorporate a "K-Factor" that limits the maximum points a player can win or lose per game. However, the effectiveness of this approach varies across different implementations.
 
-True skill is less susceptible to inflation. When you start a game, TrueSkill calculates the possible -and probable- outcome of the game: it estimates what are your chances of winning.
-
-Let's say it predicts that you will win that game.
-
-If you win the game, as it was the expected outcome, you will gain points depending on the "chances of ranking" factor (itself depending on the difference in skill between players, and the outcome probability). If you lose the game, as an unexpected result, you will lose more points. On paper, it sounds a lot like Elo, but the algorithms behind are more evolved, and once you reach your real rating, unless you play badly or improve a lot, you will stay at that rank.
+TrueSkill is less prone to inflation because it predicts the outcome probabilities of each game based on the players' skill levels. If a player wins an expected game, they gain points proportionate to the prediction. Conversely, an unexpected loss results in a larger point deduction. This mechanism stabilizes ratings over time, ensuring they reflect actual skill levels unless players significantly improve or decline.
 
 ![mostrecentfoosballtrueskill.png](/images/mostrecentfoosballtrueskill.png)
 
-This graph represents a true skill rating for a selection of football teams. As you can see, team 1 is the best, and their rank stays stable. Team 5 had a bad start (you lost your first games), and were badly rated. Over time, TrueSkill manages to correct that and find a stable skill. Team 2 is the most interesting case: It's a new team, really good. At the start, it was rated way under their real skill. You can see how fast the system was able to determine their correct rating. One of the advantages of Trueskill is that it can determine your correct rating very quickly.
+The graph above illustrates TrueSkill ratings for various football teams. Team 1 maintains a stable top ranking, while Team 5, initially underrated due to losses, gradually reaches its true skill level. Team 2, a new team, quickly adjusts from an initial underrating to an accurate skill rating, showcasing TrueSkill's ability to rapidly determine correct ratings.
 
-## TrueSkill advantages
+## Advantages of TrueSkill
 
-TrueSkill can rate ANY game. That's why ANY custom game or ranked will contribute to your skill rating. TrueSKill can lower the impact of your result: A FFA is less meaningful than a 1v1, so the outcome of an FFA will contribute less.
+TrueSkill can effectively rate any type of game, including custom and ranked matches. It appropriately scales the impact of each match's outcome based on its format (e.g., FFA vs. 1v1), ensuring that results contribute proportionately to the overall skill rating.
 
 # **How Trueskill works**
 
