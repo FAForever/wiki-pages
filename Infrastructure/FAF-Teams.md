@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-11T09:03:01.442Z
+date: 2024-06-20T12:27:05.936Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -19,9 +19,6 @@ These are the current Team Leaders:
 - **Trainer Team Leader** 
 	> **Cheeseberry**
   
-- **Community Manager** 
-	> **TBD**
-
 - **Promotions Team Leader:** 
 	>	**Jip**
 
@@ -89,8 +86,6 @@ The team leader is elected by a team vote.
 The team leader can be changed by the request of at least 50% of team members at any time.
 The team leader is the default point of contact with the board and other teams.
 If there is a team vote that results in a tie, that team leader acts as the tiebreaker.
-
-### Community Team
 
 ### Promotions Team
 #### Members 
@@ -216,7 +211,6 @@ Senior TDs vote for a new Manager on an annual basis after the annual FAF Genera
 In cases where a Manager must be replaced, 66% of the Senior TDs can submit a petition to the Board
 
 ### Matchmaking Team
-
 #### Team lead
 - Stormlantern
 #### Members
@@ -329,7 +323,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 ❖ Engage with the community and collect feedback
 
 ### Game Team
-
 #### Team lead:
 
 - Jip ([Garanas on Github](https://github.com/Garanas))
