@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T13:04:08.564Z
+date: 2024-06-20T13:04:25.914Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -161,7 +161,8 @@ Refer to the mission listings above to understand the difficulty levels for M28A
 
 These assessments provide insights into the relative difficulty of each mission when M28AI is employed, helping players gauge potential challenges and strategize accordingly.
 
-### Other notes
-- See the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI. 
-- Custom AI are unlikely to be tested regularly on campaign maps, meaning it is possible that changes to the AI and/or to FAF could result in unexpected issues or bugs.
-- If you encounter bugs when using a custom AI in campaign, please contact the mod author via discord with further details (e.g. in the case of M28AI please contact maudlin27, and include the replayID and a summary of the issue).
+## Other Notes
+
+- For more information on using Custom AI, refer to the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section.
+- Custom AIs may not undergo regular testing on campaign maps, which could lead to unexpected issues or bugs due to changes in the AI or FAF system.
+- If you encounter bugs while using a Custom AI in campaigns, please contact the mod author via Discord. For M28AI, please reach out to maudlin27 and include the replay ID along with a summary of the issue for assistance.
