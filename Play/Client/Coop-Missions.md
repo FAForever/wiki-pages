@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T12:56:50.509Z
+date: 2024-06-20T12:57:06.452Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -43,7 +43,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 ![coop-missions.png](/coop-missions.png)
 
 ## Missions List
-##### GPG original campaigns
+### GPG original campaigns
 
 | # | SupCom - UEF          | AIx Modifier | SupCom - Aeon         | AIx Modifier | SupCom - Cybran      | AIx Modifier |
 |---|-----------------------|--------------|-----------------------|--------------|----------------------|--------------|
