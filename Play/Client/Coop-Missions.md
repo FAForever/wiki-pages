@@ -2,27 +2,28 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-06T18:57:56.572Z
+date: 2024-06-20T12:54:12.680Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
 ---
 
-Cooperative missions are an exclusive feature of Forged Alliance Forever that makes it possible for players to tackle the missions as a team, as well as on their own.
+Cooperative missions are a unique feature of Forged Alliance Forever, enabling players to tackle missions either solo or as a team.
 
-In addition to the original GPG campaign missions from the original Supreme Commander game and the Forged Alliance expansion, exclusive FAF campaigns and single-scenario missions created by the FAF community can also be found.
+Alongside the original GPG campaign missions from Supreme Commander and the Forged Alliance expansion, you can also discover exclusive FAF campaigns and single-scenario missions crafted by the FAF community.
 
 ### Features
 - Supreme Commander campaigns
 - Supreme Commander: Forged Alliance campaign
 - FAForever campaigns and single scenarios
-- Can be played solo or with up to 4 players.
-- All FAF graphics improvements
-- Adjustment for cooperative difficulty
-- Slightly better campaign AI
+- Playable solo or with up to 4 players
+- Includes all FAF graphics improvements
+- Adjusted for cooperative difficulty
+- Enhanced campaign AI
 - Additional secondary objectives (thanks to gregory1001)
-- Cooperative leaderboard. Fight for the best time!
-- Custom "M28AI" mod whose AI can be played with as a teammate similar to a human player, or which can be used to take over existing AI allies or the enemy campaign AI (see below for [details on how to setup](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai))
+- Cooperative leaderboard: compete for the best time!
+- Custom "M28AI" mod: This AI can be used as a teammate similar to a human player, or to take over existing AI allies or enemy campaign AI. [See details on setup](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai).
+
 
 ## Interface
 The interface is mostly self-explanatory, but we'll document it here anyway, as labelled:
