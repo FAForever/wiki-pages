@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T13:01:25.774Z
+date: 2024-06-20T13:01:52.291Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -90,9 +90,9 @@ These missions are single scenarios, meaning they are not linked to larger campa
 | Fort Clarke Assault    | Tight Spot         | Haven's Invasion      | Operation Trident       |
 | Rescue                 | Trident            |                       |                         |
 
-##### Notes:
-- FAForever campaigns are on average harder than the original GPG campaigns - don't forget you can adjust the difficulty setting in the lobby prior to launching the game
-- Coalition Campaign missions were designed to be played by co-op teams, rather than as solo missions - they will present quite the challenge for those attempting to play them solo
+#### Notes:
+- **FAForever campaigns** are generally more challenging than the original GPG campaigns. Remember, you can adjust the difficulty setting in the lobby before starting the game.
+- **Coalition Campaign missions** are designed for co-op teams rather than solo play. They will present a significant challenge for those attempting to complete them alone.
 
 ## Custom campaign AI
 ![fletcher28.png](/fletcher28.png)![rhiza28.png](/rhiza28.png)
