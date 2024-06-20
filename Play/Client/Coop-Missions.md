@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T13:03:43.646Z
+date: 2024-06-20T13:04:08.564Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -150,14 +150,16 @@ You can fine-tune M28AI settings for in-mission allies and hostile AI with these
 
 These settings allow you to tailor the AI experience in campaign missions according to your preferences, adjusting difficulty and gameplay dynamics for a more customized experience.
 
+### Campaign Difficulty Assessment for M28AI
 
-### Campaign difficulty level for M28AI
-See the above mission listings for how difficult different missions are for M28AI, based on the AIx modifier it needed to complete the mission without human assistance.
+Refer to the mission listings above to understand the difficulty levels for M28AI, indicated by the AIx modifier required for it to complete the mission without human intervention.
 
-For reference, the following are noted in respect of how this was tested
-- The human player remains afk throughout the game subject to rare exceptions where they are required to progress the mission (or are given significant starting units required to defend in the opening minutes).
-- All missions were done on default settings, meaning Hard difficulty, with timed map expansions enabled, while M28AI was only used for the AI player (not for allies or enemies).
-- Most of the above results are based on v91-v96 of M28AI, based on the latest versions of campaign maps available in April-May 2024.
+#### Testing Methodology:
+- **Human Player Inactivity**: The human player remains AFK (away from keyboard) throughout the game, with rare exceptions where their input is necessary to progress the mission or manage significant starting units.
+- **Default Settings**: All missions were conducted on default settings, specifically on Hard difficulty with timed map expansions enabled. M28AI was utilized solely for the AI player and not for allied or enemy factions.
+- **Version and Map Considerations**: Results are primarily based on versions v91 to v96 of M28AI, aligned with the latest campaign maps available as of April-May 2024.
+
+These assessments provide insights into the relative difficulty of each mission when M28AI is employed, helping players gauge potential challenges and strategize accordingly.
 
 ### Other notes
 - See the [Custom AI](https://wiki.faforever.com/en/Development/AI/Custom-AIs) section for further details on using Custom AI. 
