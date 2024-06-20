@@ -2,7 +2,7 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2024-06-20T13:04:59.666Z
+date: 2024-06-20T13:05:14.913Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -13,9 +13,11 @@ dateCreated: 2021-08-31T09:43:43.776Z
 This tab in the lobby is where you begin playing Forged Alliance. If you have Supreme Commander: Forged Alliance installed, no additional setup is required.
 
 Please note: To benefit from all enhancements, ensure you launch the game through this client.
+
 ## Game Title
-- XvX - Showing how many players per team is a game hosted. (example 1v1, 4v4)
-- XXX - XXXX (XXXX+) - [Global Rating](/en/Infrastructure/Rating-System) Limitations (example 800-1500, 1200+)
+
+- **XvX** - Indicates the number of players per team in the hosted game (e.g., 1v1, 4v4).
+- **XXX - XXXX (XXXX+)** - Specifies the [Global Rating](/en/Infrastructure/Rating-System) limitations for players (e.g., 800-1500, 1200+).
 
 ## Play Tab
 
