@@ -2,81 +2,109 @@
 title: Chat
 description: 
 published: true
-date: 2024-03-04T13:24:47.679Z
+date: 2024-06-20T13:08:05.906Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:19.686Z
 ---
 
+## Chat Tabs
+
 ![chat-tab2.png](/chat-tab2.png)
-## Chat tabs
-- `#aeolus` is the default channel that every player automatically joins when they start FAF. The main chat is English only, so please don't use other languages there. Also, follow the [chat rules](https://faforever.com/rules). 
-- Chatrooms without a # are private, such as direct messages to other players.
 
-You can open up a private chat with a player by double-clicking his name in the name list.
-## Chat commands
-Write chat commands directly in chat, starting with "!" "#" or "/"
+### Channel Information
 
-- **/me** - followed by text. Speaks in the 3rd person. eg. *User followed by text*.
-- **!seen** - followed by the username. Shows when the was user last time online, it is case-sensitive.
-- **!streams** - Shows all currently online [streams](/Casts&Livestreams ) of Forged Alliance. (Twitch, HitBox, etc)
-- **!casts** - Shows the last five YouTube Supreme Commander videos. (In order to get your video on this list, type in the name of the video either "Supreme Commander" or "Forged Alliance")
-- **!trainers** - PMs you a list of currently online [trainers](/User-Groups#trainers).
-- **!mods** - PMs you a list of currently online [moderators](/User-Groups#faf-moderators).
-- **!help** - Lists all available fafbot commands and their descriptions
-- **#REPLAYID** - Generated download link for [replay](/Replays-&-Live-Games), shows map played and lists all players.
-- **!kick** - used by channel operators for kicking users from the channel
-- **!ban** - used by channel operators to ban a user from a channel
-- **/topic** - followed by text. Changes the topic of a channel.
+- **#aeolus**: This is the default channel where every player automatically joins upon starting FAF. The main language used here is English. Please adhere to the [chat rules](https://faforever.com/rules).
 
-**!kick**,**!ban** and **/topic** commands can be used in your clan chat channel if the channel is [registered](/Chat-IRC-server) to your IRC.
+- Private Chatrooms: Channels without a '#' are private, such as direct messages between players.
 
-## Player list
-On the right-hand side the search window. It will try to find online players who are currently in the chat, and display how many players are online while you don't search.
-- There is an option to assign randomly coloured names to each player, but this will only override grey and dark grey colours
+### Opening Private Chats
+
+You can initiate a private chat with a player by double-clicking their name in the name list.
+
+## Chat Commands
+
+You can issue chat commands directly in the chat, starting with "!", "#", or "/":
+
+- **/me**: Followed by text. Speaks in the third person. Example: *User followed by text*.
+
+- **!seen**: Followed by the username. Shows when the user was last online (case-sensitive).
+
+- **!streams**: Displays all currently online [streams](/Casts&Livestreams) of Forged Alliance (Twitch, HitBox, etc).
+
+- **!casts**: Shows the last five YouTube Supreme Commander videos. To have your video listed, use keywords like "Supreme Commander" or "Forged Alliance".
+
+- **!trainers**: Sends a PM with a list of currently online [trainers](/User-Groups#trainers).
+
+- **!mods**: Sends a PM with a list of currently online [moderators](/User-Groups#faf-moderators).
+
+- **!help**: Lists all available fafbot commands and their descriptions.
+
+- **#REPLAYID**: Generates a download link for a [replay](/Replays-&-Live-Games), showing the map played and listing all players.
+
+- **!kick**: Used by channel operators to kick users from the channel.
+
+- **!ban**: Used by channel operators to ban a user from the channel.
+
+- **/topic**: Followed by text. Changes the topic of a channel.
+
+**Note:** **!kick**, **!ban**, and **/topic** commands can be used in your clan chat channel if the channel is [registered](/Chat-IRC-server) to your IRC.
+
+## Player List
+
+On the right-hand side, the search window attempts to find online players currently in the chat and displays the total number of online players when not searching.
+
+- Optionally, you can assign randomly colored names to each player, overriding default grey and dark grey colors.
 
 ### [Clans](/Clans)
--   Players that are a part of a clan have their clan tags in front of their names. (Example \[\] for Empire clan \[BC\] Bad Company, etc.)
+
+- Players belonging to clans have their clan tags displayed in front of their names (e.g., \[Empire\], \[BC\] Bad Company).
 
 ### User Name Change and Name History
-If you would like to change your username, you can do it here: <https://www.faforever.com/account/username/change> or by typing "!link name-change" and QAI will link the page above.
 
-This will not affect your friend's list or your account in any way, as the nickname is linked to your unique user ID.
+To change your username, visit: [Username Change](https://www.faforever.com/account/username/change) or type "!link name-change" to access the page.
 
--   If someone from your friends lists renames, you won't see him/her there until you restart FAF.
+- Changing your username does not affect your friends list or account, as it is linked to your unique user ID.
 
-User names are visible to everyone and therefore must be kept clean and age-appropriate. You can only rename once every 30 days - if a moderator has to ask you to change your name, you'll be unable to chat until you can rename. Use common sense, and if you're having trouble coming up with a name on your own, try a service such as <http://rinkworks.com/namegen/>!
+- If someone from your friends list changes their name, you won't see them until you restart FAF.
+
+Usernames are publicly visible and must be appropriate for all ages. You can only change your name once every 30 days; failure to comply with moderator requests regarding your name may result in chat restrictions. For name suggestions, consider using a service like [Name Generator](http://rinkworks.com/namegen/).
 
 ## Rating, League, and Division
-The rating shown in the lobby is always your [Global Ranking](/Rating-System). You can learn more here: Leagues and Divisions
+
+The rating displayed in the lobby is your [Global Ranking](/Rating-System). Learn more about Leagues and Divisions [here](Leagues, Divisions, and Squadrons).
 
 ## Avatars
-Right now, there are only a few ways to get avatars. Here is a list:
-***Add Image of All the avatars***
-- Be a Caster ![caster_avatar.png](/images/client-icons/avatars/caster_avatar.png) or Streamer ![streamer_avatar.png](/images/client-icons/avatars/streamer_avatar.png)
-- Participate in a tournament ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png), the easiest way to get an avatar.
-- Test the game code (playing FAF developing mods and reporting bugs). ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
-- Be first, second or third in your league.
-- Personal avatar, usually reserved for admins and mods
-- For donating to the FAF you get The Cookie ![cookie_avatar.png](/images/client-icons/avatars/cookie_avatar.png)
-- For winning a tournament, avatars are given. Usually temporary ones for BlitzTournament, WWPCTournaments, and sometimes permanent ones for big tournaments like Legends of the Stars.
-- Faction face![dostya.png](/images/client-icons/avatars/dostya.png) avatars are usually for second place in a tournament, faction logo![uef_avatar.png](/images/client-icons/avatars/uef_avatar.png) for third.
-- You also can get an avatar for contributing to the FAF project:
-	- Making a featured mod ![mod_autor.png](/images/client-icons/avatars/mod_autor.png)
-	- Making a map ![mapautor.png](/images/client-icons/avatars/mapautor.png)
-	- Contributing to the FAF code ![faf_developer.png](/images/client-icons/avatars/faf_developer.png)
-	- Writing Wiki articles ![wiki-editor.png](/images/client-icons/avatars/wiki-editor.png)
-	- Hosting tournaments![tournament_director.png](/images/client-icons/avatars/tournament_director.png)
+
+Currently, avatars can be obtained through the following methods:
+
+- **Caster**: ![caster_avatar.png](/images/client-icons/avatars/caster_avatar.png) or **Streamer**: ![streamer_avatar.png](/images/client-icons/avatars/streamer_avatar.png)
+- Participating in tournaments: ![tournament_participant.png](/images/client-icons/avatars/tournament_participant.png)
+- Testing game code (developing mods and reporting bugs): ![gamecodetester.png](/images/client-icons/avatars/gamecodetester.png)
+- Placing in the top three of your league
+- Personal avatars (typically reserved for admins and moderators)
+- Donating to FAF grants The Cookie: ![cookie_avatar.png](/images/client-icons/avatars/cookie_avatar.png)
+- Winning tournaments may grant temporary or permanent avatars, such as faction-specific avatars like ![dostya.png](/images/client-icons/avatars/dostya.png) or ![uef_avatar.png](/images/client-icons/avatars/uef_avatar.png).
+- Contributing to FAF projects: 
+  - Creating featured mods: ![mod_autor.png](/images/client-icons/avatars/mod_autor.png)
+  - Making maps: ![mapautor.png](/images/client-icons/avatars/mapautor.png)
+  - Contributing to FAF code: ![faf_developer.png](/images/client-icons/avatars/faf_developer.png)
+  - Writing wiki articles: ![wiki-editor.png](/images/client-icons/avatars/wiki-editor.png)
+  - Hosting tournaments: ![tournament_director.png](/images/client-icons/avatars/tournament_director.png)
+
 ## Player Status
-As you see in the picture, there can be one sword, crossed swords, or nothing next to each player's name.
-- Nothing: this player is just chatting or afk.
-- One Gold Sword![host.png](/images/client-icons/host.png): this player is currently hosting a game.
-- One sword![lobby.png](/images/client-icons/lobby.png): this player is currently in a game lobby.
-- Crossed swords![playing.png](/images/client-icons/playing.png): this player is playing a game.
 
-If you double-click on a single sword, you will launch FA and join the player in the lobby that they are presently in.
+Next to each player's name, you may see one of the following symbols:
 
-If you double-click on crossed swords, you will launch FA and start watching the [live replay](/LiveReplay-server-and-replays) from the beginning of their game.
+- Nothing: The player is chatting or AFK.
+- One Gold Sword: ![host.png](/images/client-icons/host.png) The player is hosting a game.
+- One Sword: ![lobby.png](/images/client-icons/lobby.png) The player is in a game lobby.
+- Crossed Swords: ![playing.png](/images/client-icons/playing.png) The player is actively playing a game.
+
+Double-clicking on a symbol will launch Forged Alliance:
+- Single Sword: Joins the player's lobby.
+- Crossed Swords: Starts watching the [live replay](/LiveReplay-server-and-replays) from the beginning.
 
 ## Joining Chat via Browser
-You can access it from any IRC client: [IRCServer](/Chat-IRC-server)
+
+Access the chat from any IRC client: [IRCServer](/Chat-IRC-server)
