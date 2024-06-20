@@ -2,7 +2,7 @@
 title: Modding - General
 description: Mod creation for Forged Alliance (Forever)
 published: true
-date: 2024-06-20T12:43:46.962Z
+date: 2024-06-20T12:43:59.209Z
 tags: modding, basics
 editor: markdown
 dateCreated: 2023-07-19T08:30:55.813Z
@@ -31,7 +31,7 @@ dateCreated: 2023-07-19T08:30:55.813Z
 * [Unit Database *Rackover*](https://unitdb.faforever.com)
 * [Unit Database *Spooky*](https://faforever.github.io/spooky-db)
 * [Online UUID Generator](https://www.uuidgenerator.net/)
-* [Blender Import/Export *2.79/2.80*](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender)
-* [Blender Import/Export *3.0*](https://github.com/Solstice245/scstudio)
+* [Blender Import/Export *Version 2.79/2.80*](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender)
+* [Blender Import/Export *Version 3.0*](https://github.com/Solstice245/scstudio)
 {.links-list}
 
