@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T12:58:30.577Z
+date: 2024-06-20T12:59:15.256Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -66,18 +66,18 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 6 | Overlord                 | 1.3          |
 
 
-##### FAForever campaigns
+### FAForever Campaigns
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
 
+| # | Seraphim Campaign       | AIx Modifier | Coalition Campaign  | AIx Modifier |
+|---|-------------------------|--------------|---------------------|--------------|
+| 1 | Yath-Aez                | 1.8          | Blockade            | 2.2          |
+| 2 | Operation Tha-Atha-Aez  | >10.0*       | Holy Raid           | 1.5          |
+| 3 | Uhthe-Thuum-QAI         | 2.1          | Golden Crystals     | 1.8          |
+| 4 | Ioz-Shavoh-Kael         | 1.5          | Rebel's Rest        | 5.5          |
+| 5 | Overlord Surth-Velsok   | 2.1          | Red Revenge         | 5.4          |
 
-
-| | Seraphim Campaign         | AIx modifier |Coalition Campaign         | AIx modifier |
-|-|-------------------------- |------------------- |
-|1| Yath-Aez                  | 1.8          | Blockade           | 2.2
-|2| Operation Tha-Atha-Aez    | >10.0*          | Holy Raid          | 1.5
-|3| Uhthe-Thuum-QAI           | 2.1    |Golden Crystals    | 1.8 
-|4| Ioz-Shavoh-Kael           | 1.5       |Rebel's Rest       | 5.5
-|5| Overlord Surth-Velsok			| 2.1        |Red Revenge        | 5.4
+*Note: The AIx modifier for "Operation Tha-Atha-Aez" is exceptionally high, indicating a very challenging mission.
 
 (*M28 failed with 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base.  Absent this, the AiX modifier is estimated at 2.3 for this mission)
 
