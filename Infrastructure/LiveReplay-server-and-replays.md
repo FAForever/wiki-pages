@@ -2,7 +2,7 @@
 title: Live Replay Server & Replays
 description: 
 published: true
-date: 2023-06-05T12:14:56.690Z
+date: 2024-06-20T13:16:11.962Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:06.277Z
@@ -10,48 +10,42 @@ dateCreated: 2021-08-31T09:44:06.277Z
 
 ## Live Replay
 
-All your games are sent to a liveReplay server, so other people can observe your game without taking your bandwidth.
+All your games are streamed to a liveReplay server, allowing others to watch without impacting your bandwidth.
 
-### How can I watch a live replay ?
+### How Can I Watch a Live Replay?
 
-You can find all games being currently played in under the live replay tab which is under the replay tab.
+You can access ongoing games under the "Live Replay" tab within the "Replays" section.
 
-Alternatively, if you have a friend hosting a game, a blue link is automatically posted by your friend into the main chat. All you have to do is click on it to launch the liveReplay.
+Alternatively, if a friend is hosting a game, they automatically share a blue link in the main chat. Simply click the link to launch the liveReplay.
 
-The liveReplay of a game will be active as long as someone is watching it : Even after a game is done, there is still a chance that you can watch it !
+LiveReplays remain active as long as someone is watching. Even after a game ends, you can still view it.
 
-### Why am I sent to the FA main menu ?
+### Why Am I Sent to the FA Main Menu?
 
-You don't have the map. So you can't view the game. Download the map (the name is given before the link) from the [vault](/Map-&-Mod-Vault), and click the liveReplay link again.
+If you lack the map required for viewing, you'll be redirected to the main menu. Download the map (map name provided in the link) from the [Map & Mod Vault](/Map-&-Mod-Vault) and click the liveReplay link again.
 
-### Is it easy to cheat with that !
+### Can I Cheat with LiveReplays?
 
-Yes and no : There is a 300 seconds (5 minutes) delay between the real game and the game you are watching.
+There's a 300-second (5-minute) delay between the actual game and the liveReplay, making cheating difficult.
 
-### The host left, the replay is ended, but not the game / How can I see a livereplay if I miss the link ?
+### The Host Left, How Do I Access the LiveReplay?
 
-Only the host is sending the link, but everybody in the game is sending the replay to the livereplay server.
+Only the host initially shares the link, but all players send replays to the liveReplay server. Double-click any player's sword icon still in the game or navigate to the liveReplay tab to access it.
 
-Just double click in any Sword icon of any player still in game or go to the live replay tab.
+### The (Live)Replay Is Desynced!
 
-### The (live)replay is desync !
+A desynced liveReplay doesn't indicate a desynced game.
 
-That doesn't mean that the game is.
-
-This could mean that you don't have mods that are being used in the game.
-
-It could also a bug that occurs in the FA engine : when someone leaves the game, it can often desync the replay.
-
-This is a bug in the engine and as result unable to be fixed.
+Possible causes include missing required mods or engine bugs triggered when players leave the game, which cannot be fixed.
 
 ## Replays
 
-### Last Game doesn't work ! I can't save my replay ! WHERE ARE THEY !?
+### Last Game Doesn't Work! Where Are My Replays Stored?
 
-Your replays are now stored in your FAF Forged Alliance directory - usually `C:\\Program Data\\Faforever\\replays\\`
+Your replays are stored in your FAF Forged Alliance directory, typically `C:\ProgramData\Faforever\replays\`.
 
-You are now able to open your replays directly from the FAF client in the [Replays tab](/Replays-&-Live-Games).
+Access and manage your replays directly from the FAF client under the [Replays tab](/Replays-&-Live-Games).
 
-### I can't open my replay !
+### I Can't Open My Replay!
 
-FAF installs a seperate directory to `C:\\Program Data\\Faforever\\bin` (or whatever your primary partition is) & install the client to the root of your primary partition (unless you specified elsewhere). Associate the replay file with the FAF client (not the game executable but the client executable). This will allow you to open any FAF Replay files directly from the directory.
+Ensure the FAF client executable, not the game executable, is associated with replay files. This setup allows direct opening of FAF replay files from their directory.
