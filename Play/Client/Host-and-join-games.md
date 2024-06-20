@@ -2,7 +2,7 @@
 title: Host & Join Games
 description: 
 published: true
-date: 2024-06-20T13:05:40.385Z
+date: 2024-06-20T13:06:55.191Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:43:43.776Z
@@ -19,42 +19,40 @@ Please note: To benefit from all enhancements, ensure you launch the game throug
 - **XvX** - Indicates the number of players per team in the hosted game (e.g., 1v1, 4v4).
 - **XXX - XXXX (XXXX+)** - Specifies the [Global Rating](/en/Infrastructure/Rating-System) limitations for players (e.g., 800-1500, 1200+).
 
-## Play Tab
-
-![game-panel.png](/game-panel.png)
-
-If you encounter any issues joining or connecting to a game, please refer to the [connection issues and solutions guide](http://wiki.faforever.com/index.php?title=Connection_issues_and_solutions).
-
-For Co-op Campaign missions, you can host them from the [Co-Op](/en/Play/Client/Coop-Missions) tab, and to join ladder games, visit the [Matchmaking](/en/Play/Client/tmm) tab.
-
 ## Game Modes
-- Matchmaker
-- Custome games
-- Co-op
 
 ### Matchmaker
-The Matchmaker is the Overarching replacement of the Ladder section as it now encompasses the 1v1 & 2v2 matchmaking, and also has plans for a 3v3 & 4v4. For more information about the Matchmaker See the [Team Matchmaker](/en/Play/Client/tmm) page.
+The Matchmaker serves as the replacement for the Ladder section, encompassing 1v1 and 2v2 matchmaking, with plans for 3v3 and 4v4 in the future. For more details about the Matchmaker, visit the [Team Matchmaker](/en/Play/Client/tmm) page.
 
 ### Custom Games
-This is how most games are played - simply double-click on a game which you like the look of and you will join it! However, bear in mind the game titles - some have [rating](/en/Infrastructure/Rating-System) requirements, and you may have trouble with players who are much higher rated than you.
-- **FAF** - This is the default game type which is the most stable.
-- **FAF (Beta)** - This is a mod with the newest Balance patch available.
-- **FAF Development** - This is the Experimental branch for testing new Game updates & features.
+Most games are played through Custom Games. Simply double-click on a game that interests you to join. Be mindful of game titles, as some may have [rating](/en/Infrastructure/Rating-System) requirements, which can affect your gameplay experience:
+- **FAF**: The default and most stable game type.
+- **FAF (Beta)**: Features the newest balance patches available.
+- **FAF Development**: The experimental branch for testing new game updates and features.
 
 ### Co-Op Campaign & Custom Missions
-To learn more about the Co-Op Campaign and all the Community Made Custom Mission please go to the [Coop Missions](/en/Play/Client/Coop-Missions) page.
+Explore Co-Op Campaigns and Community-Made Custom Missions on the [Coop Missions](/en/Play/Client/Coop-Missions) page.
 
 ### Playing With AI
-In addition to the AI that are available in FAF by default, there are a number of advanced custom AI which can provide various gameplay experiences and offer a significant increase in challenge over the default AI - this [article provides further detail of the custom AI](/en/Development/AI/Custom-AIs) available on FAF and how to play using them.
+In addition to default AI, FAF offers advanced custom AIs that provide diverse gameplay experiences and increased challenge levels. Learn more about these custom AIs in the [Custom AIs article](/en/Development/AI/Custom-AIs) and how to incorporate them into your games.
 
-You can have any combination of human and AI players, as you wish.
+You can mix and match human and AI players as desired for a variety of gameplay scenarios.
 
 ## Hosting Games
-You can host a game by double-clicking the icons on the left of the window to open a game dialogue with a variety of options.
+
+To host a game, double-click the icons on the left of the window to open a game dialogue with various options.
 ![hosting-games.png](/hosting-games.png)
-1) - The title bar sets the game title which can be seen in the custom games tab.
-2) - Password allows you to lock the game & a tick box to only show to friends on your Friend list
-3) - Here you select the game type that you wish to play
-4) - Here is where you can select any UI or SIM mod you want for your game host
-5) - Here is where you can select the map you would like to play
-6) - This is the New [Map Generator](https://youtu.be/YBGopmjUMw4) tool that will allow you to generate a new map automatically
+
+1. **Title**: Set the game title displayed in the Custom Games tab.
+   
+2. **Password**: Secure your game with a password and choose to display it only to friends on your Friend list.
+
+3. **Game Type**: Select the type of game you wish to play.
+
+4. **UI or SIM Mods**: Choose any UI or SIM mod you want for your game host.
+
+5. **Map Selection**: Select the map you would like to play on.
+
+6. **Map Generator**: Utilize the [New Map Generator](https://youtu.be/YBGopmjUMw4) tool to automatically generate a new map.
+
+These options allow you to customize your game hosting experience, from setting titles and passwords to selecting mods and maps, ensuring a tailored gameplay environment.
