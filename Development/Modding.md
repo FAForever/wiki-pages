@@ -2,7 +2,7 @@
 title: Modding - General
 description: Mod creation for Forged Alliance (Forever)
 published: true
-date: 2024-06-20T12:35:03.243Z
+date: 2024-06-20T12:35:50.918Z
 tags: modding, basics
 editor: markdown
 dateCreated: 2023-07-19T08:30:55.813Z
@@ -20,5 +20,6 @@ dateCreated: 2023-07-19T08:30:55.813Z
 * [Introduction to Sim Modding](https://github.com/FAForever/fa)
 * [Basic Moding Tutorial *Robotnik's Basic Modding Tutorial (Vidio aprox 20mins)*](https://www.youtube.com/watch?v=SYfb_XhH25si)
 * [AI Guide *Azraeel's guide on learing AI (Forum Post)*](https://forums.faforever.com/viewtopic.php?f=88&t=18359)
+* [Audio Editing *Guides and Tools for Editing SupCom Audio Files (Gitlab)*](https://forums.faforever.com/viewtopic.php?f=88&t=18359)
 {.links-list}
 
