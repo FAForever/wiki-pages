@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T12:59:15.256Z
+date: 2024-06-20T13:00:01.787Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -66,7 +66,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 6 | Overlord                 | 1.3          |
 
 
-### FAForever Campaigns
+### Seraphim FAF Campaigns & AI Difficulty
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
 
 | # | Seraphim Campaign       | AIx Modifier | Coalition Campaign  | AIx Modifier |
