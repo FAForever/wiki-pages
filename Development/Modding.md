@@ -2,7 +2,7 @@
 title: Modding - General
 description: Mod creation for Forged Alliance (Forever)
 published: true
-date: 2024-06-20T12:43:59.209Z
+date: 2024-06-20T12:46:23.885Z
 tags: modding, basics
 editor: markdown
 dateCreated: 2023-07-19T08:30:55.813Z
@@ -33,5 +33,9 @@ dateCreated: 2023-07-19T08:30:55.813Z
 * [Online UUID Generator](https://www.uuidgenerator.net/)
 * [Blender Import/Export *Version 2.79/2.80*](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender)
 * [Blender Import/Export *Version 3.0*](https://github.com/Solstice245/scstudio)
+* [Gimp Plugin *Blackyps Gimp Plugin for making new Strategic Icons (Github)*](https://github.com/BlackYps/FAF-Icon-Generator)
+* [AI Development Guide *AI Development Guide & M27AI v1 Devlog*](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v1-devlog)
+* [Green-Screen Map *(Download)*](https://cdn.discordapp.com/attachments/476200727912644618/879844797534326804/green_screen.v0002.zip)
+
 {.links-list}
 
