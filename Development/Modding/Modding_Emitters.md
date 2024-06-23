@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T17:57:42.660Z
+date: 2024-06-23T17:58:10.907Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -40,7 +40,7 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
 
 ## Creating a particle emitter
 
-<div style="display: container; grid-template-column: 1fr 1fr;">
+<div style="display: flex">
   
   <p>
     Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. 
