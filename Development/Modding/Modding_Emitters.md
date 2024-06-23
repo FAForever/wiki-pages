@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T21:22:46.840Z
+date: 2024-06-23T22:39:11.284Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -33,7 +33,7 @@ WIP expansion on the article:
 
 ---
 
-Supreme Commander uses a particle system for all kinds of special effects. The base entity in this system is the emitter. As the namee would suggest, the emitter emits particles, as well as holds all the information about itself and the particles. Emitters are stored in  dedicated blueprint files.
+Supreme Commander uses a particle system for all kinds of special effects. The base entity in this system is the emitter. As the name would suggest, the emitter emits particles, as well as holds all the information about itself and the particles. Emitters are stored in dedicated blueprint files.
 
 > Working with emitters requires manipulating game files, so follow the steps on github to setup a FAF development environment on your system. Once that is done, work with emitters can start. Remember that if you get stuck on any step of the process, you can always ask for help from the community - either on the forums or in the discord server.
 {.is-info}
@@ -43,7 +43,7 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
 <div style="display: flex">
   
   <p>
-    Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. 
+    Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, press "Ctrl + Alt + E", and a default emitter will spawn at the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. 
   
   </p>
 
@@ -51,16 +51,18 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
   
 </div>
 
-> If you can not see the default emitter and its particles, which resemble a fire, it probably means the particles aren't being rendered - make sure to zoom in more, and that the emitter wasn't created inside fog of war. You can also disable the "Only Emit if Visible" option in the LOD menu.
+> If you can not see the default emitter and its particles, which resemble a fire (see image above), it probably means the particles aren't being rendered - make sure to zoom in more, and that the emitter wasn't created inside fog of war. You can also disable the "Only Emit if Visible" option in the LOD menu or increase the LOD Cutoff Distance.
 {.is-danger}
 
 ## Emitter editor
-![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png){.align-right}
-Emitter editor is your primary tool for determining particle looks and behavior. You could also directly edit an emitter blueprint, but that is in general slower, and you don't get the instantaneous feedback. Lets look at all the parts of the editor and explain how they work.
+
+Emitter editor is your primary tool for determining particle looks and behavior. You could also directly edit an emitter blueprint file, but that is in general slower, and you don't get the instant feedback you do with the editor. Lets take a look at all the parts of the editor and explain how they work.
+
+![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png)
 
 ### [1] The menu bar
 The menu bar holds three items: File, Options and LOD.
-**File** menu allows for creating a new, saving and opening existing blueprints, as well as holding the action buttons to add a texture and a ramp file to the emitter.
+**File** menu allows for creating a new, saving and opening existing emitter blueprints, as well as holding the action buttons to load texture and ramp files to the emitter.
 **Options** menu has a lot of additional options affecting how generated particles behave:
 - Use Local Velocity: *TBD*
 - Use Local Acceleration: *TBD*
@@ -79,7 +81,7 @@ The menu bar holds three items: File, Options and LOD.
 - Only Create if Visible: *TBD*
 ### [2] Emitter and particle variables
 This second section of the emitter editor contains some variables that define fixed parameters for the emitter and particles. In addition to this, it features a timeline. The fixed parameters are:
-- Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to a negative value makes it infinite (default -1).
+- Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to a negative value makes it infinite (default -1). Value of 0 disables the emitter.
 - Repeat Time: length of the **emitter cycle**, measured in game ticks.
 - Blend mode: *TBD*
 - Fidelity: determines at which video fidelity level the emitter will emit.
@@ -87,9 +89,10 @@ This second section of the emitter editor contains some variables that define fi
 - Strip Count: *TBD*
 - Sort Order: *TBD*
 - LOD Cutoff Distance: determines how far the camera can move from the emitter before it stops emitting and rendering particles.
-- Playing: used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling.
+- Playing: is used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling. Useful for checking how the emitter behaves in a particular part of its cycle. Life time must be a positive value.
+- Cycle timeline: shows the span of the emitter's **cycle** and the current position of the marker. The marker can be moved around (ideally while paused) to observe the emitter behavior at any given point in its cycle.
 
-In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1].
+In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1]. Note that the name is often cutoff for longer texture/ramp file paths.
 ___
 As is mentioned in the "Repeat Time" description, emitters have a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a particular property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
 
@@ -105,3 +108,34 @@ If, on the other hand, the life time is longer than repeat time, then our "timel
 
 The image below depicts how the total span of the timeline (defined by **Repeat Time**) projects onto a property curve. 
 ![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)
+
+### [3] Property curves
+Property curves part of the editor is where a lot of things can be tweaked. Note that all of the curves follow the same emitter cycle principle - how far along the cycle you are projects onto how far along the property curve you are, and that value is used for the particle that is **_generated in that moment_** - again, we are edditing the emitter's behavior over time, and not the behavior of the particles themselves. Particles will change in time, but based on fixed parameters which are determined at the moment the particle is created. Once a particle is created, we can not affect it any more.
+
+### The Curve editor
+Curve editors are same for all the properties. They have 5 value boxes as well as a curve manipulation panel. The panel itself displays 5 values, as well as the curves. The values are:
+- **Parameter name** (top-left)
+- **Window Max** (top) and **Window Min** (bottom)
+- 1st (indexed 0, on the left) and last tick (right) of the **emitter cycle**. 
+
+Window Min and Window Max values affect both the "zoom" level of the parameter curve, but also the minimum and maximum value we can set for any of the nodes of the curve.
+
+
+
+
+
+---
+---
+---
+---
+### The Properties
+Let's look at what type of properties we can manipulate first. The properties themselves are split into several tabs, so we'll group them like that in this documentation as well, with the exception of first two tabs, which we will group together.
+
+#### Spacial
+Even though this is not the first tab, we will look at it first. The reason is the, as the name would suggest, spacial parameters determine the position the particles will appear at when they are first emitted. To affect the position, we 
+
+#### Direction, Rate, Lifetime & Forces
+These two tabs 
+
+
+wip
