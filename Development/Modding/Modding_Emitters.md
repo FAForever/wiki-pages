@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2021-12-29T23:39:05.608Z
+date: 2024-06-23T17:01:19.420Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -27,3 +27,59 @@ The emitter creates a particle with the specified texture, in greyscale, and col
 	- The pixels are blended so the colours can change smoothly, rather than just reading the nearest pixel value
 	- Because of how it works, the edge (top and bottom) strips need to be at least 2px high to get the pure colour and not a blend
 	- With a properly set up ramp texture its possible to change to any colour on the fly, allowing for features like emitters coloured by the army colour of a player.
+
+---
+WIP expansion on the article:
+___
+
+Supreme Commander uses a particle system for all kinds of special effects. The base entity in this system is the emitter. As the namee would suggest, the emitter emits particles, as well as holds all the information about itself and the particles. Emitters are stored in  dedicated blueprint files.
+
+> Working with emitters requires manipulating game files, so follow the steps on github to setup a FAF development environment on your system. Once that is done, work with emitters can start. Remember that if you get stuck on any step of the process, you can always ask for help from the community - either on the forums or in the discord server.
+{.is-info}
+
+## Creating a particle emitter
+Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size.
+![default-emitter.png](/particle-emitter/default-emitter.png)
+![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png)
+
+> If you can not see the default emitter and its particles, which resemble a fire, it probably means the particles aren't being rendered - make sure to zoom in more, and that the emitter wasn't created inside fog of war. You can also disable the "Only Emit if Visible" option in the LOD menu.
+{.is-danger}
+
+## Emitter editor
+Emitter editor is your primary tool for determining particle looks and behavior. You could also directly edit an emitter blueprint, but that is in general slower, and you don't get the instantaneous feedback. Lets look at all the parts of the editor and explain how they work.
+### [1] The menu bar
+The menu bar holds three items: File, Options and LOD.
+**File** menu allows for creating a new, saving and opening existing blueprints, as well as holding the action buttons to add a texture and a ramp file to the emitter.
+**Oprions** menu has a lot of additional options affecting how generated particles behave:
+- Use Local Velocity: *TBD*
+- Use Local Acceleration: *TBD*
+- Gravity: *TBD*
+- Lock Particles to Velocity: *TBD*
+- Interoplate Emitter Position: *TBD*
+- Align Initial Rotation to the Bone: *TBD*
+- Particles are flat in world space: *TBD*
+- Snap To Waterline: *TBD*
+- Only Emit on water: *TBD*
+- Enable Particle Resistance: *TBD*
+
+**LOD** menu menu holds 3 options that affect particle rendering:
+- Only Emit if Visible: particles won't be emitted if camera distance is furthen than the LOD Cutoff Distance
+- Catch up when Visible: *TBD*
+- Only Create if Visible: *TBD*
+### [2] Emitter and particle variables
+This second section of the emitter editor contains some variables that define fixed parameters for the emitter and particles. In addition to this, it features a timeline. The fixed parameters are:
+- Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to -1 makes it infinite.
+- Repeat Time: length of the emitter cycle, measured in game ticks.
+- Blend mode: *TBD*
+- Fidelity: determines at which video fidelity level the emitter will emit.
+- Frame Count: *TBD*
+- Strip Count: *TBD*
+- Sort Order: *TBD*
+- LOD Cutoff Distance: determines how far the camera can move from the emitter before it stops emitting and rendering particles.
+- Playing: used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling.
+
+In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1].
+
+As is mentioned in the "Repeat Time" description, an emitter has a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the
+
+![emitter-cycle-showcase.gif](/particle-emitter/emitter-cycle-showcase.gif)
