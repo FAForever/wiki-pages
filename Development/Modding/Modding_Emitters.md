@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T17:01:19.420Z
+date: 2024-06-23T17:31:55.157Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -30,7 +30,8 @@ The emitter creates a particle with the specified texture, in greyscale, and col
 
 ---
 WIP expansion on the article:
-___
+
+---
 
 Supreme Commander uses a particle system for all kinds of special effects. The base entity in this system is the emitter. As the namee would suggest, the emitter emits particles, as well as holds all the information about itself and the particles. Emitters are stored in  dedicated blueprint files.
 
@@ -80,6 +81,11 @@ This second section of the emitter editor contains some variables that define fi
 
 In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1].
 
-As is mentioned in the "Repeat Time" description, an emitter has a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the
+As is mentioned in the "Repeat Time" description, an emitter has a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
 
-![emitter-cycle-showcase.gif](/particle-emitter/emitter-cycle-showcase.gif)
+You can see that the **Particle Start Size** curve was modified to contain two points (instructions on how to do this later). The first point is at *tick = 10* with *value = 0.2*, and the second is at *tick = 30* *(ignore the small .08 error)* and *value = 1.8*. Note how this affects the shape of the curve. It is flat from the start (left) to the first point, as well as from the 2nd point to the end (right), and has a constant slope in between the two points. As the name suggest, this variable determines how large the particle is at the beginning of the **particle's lifetime**, and the function determines how this value is changed over the **emitter's cycle**. And we can see that behavior in the GIF below - the particles are initally emitted with a starting scale of 0.2. Then, when the mark on the timeline reaches 10th tick, they start slowly growing to 1.8 scale until the cycle mark reaches the 30th tick. When it does, the particles stop growing, and maintain the 1.8 scale.
+Note that a "point" is formed towards the top of the column of particles. This is because the *Particle End Size* curve is just a flat line with *value = 0.2* as previously mentioned, meaning particles will always end being size of 0.2, regardless of how big they start off.
+
+
+
+![emitter-cycle-showcase_2.gif](/particle-emitter/emitter-cycle-showcase_2.gif)
