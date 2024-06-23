@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T18:05:16.766Z
+date: 2024-06-23T21:22:46.840Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -61,12 +61,12 @@ Emitter editor is your primary tool for determining particle looks and behavior.
 ### [1] The menu bar
 The menu bar holds three items: File, Options and LOD.
 **File** menu allows for creating a new, saving and opening existing blueprints, as well as holding the action buttons to add a texture and a ramp file to the emitter.
-**Oprions** menu has a lot of additional options affecting how generated particles behave:
+**Options** menu has a lot of additional options affecting how generated particles behave:
 - Use Local Velocity: *TBD*
 - Use Local Acceleration: *TBD*
 - Gravity: *TBD*
 - Lock Particles to Velocity: *TBD*
-- Interoplate Emitter Position: *TBD*
+- Interpolate Emitter Position: *TBD*
 - Align Initial Rotation to the Bone: *TBD*
 - Particles are flat in world space: *TBD*
 - Snap To Waterline: *TBD*
@@ -74,12 +74,12 @@ The menu bar holds three items: File, Options and LOD.
 - Enable Particle Resistance: *TBD*
 
 **LOD** menu menu holds 3 options that affect particle rendering:
-- Only Emit if Visible: particles won't be emitted if camera distance is furthen than the LOD Cutoff Distance
+- Only Emit if Visible: particles won't be emitted if camera distance is further than the LOD Cutoff Distance
 - Catch up when Visible: *TBD*
 - Only Create if Visible: *TBD*
 ### [2] Emitter and particle variables
 This second section of the emitter editor contains some variables that define fixed parameters for the emitter and particles. In addition to this, it features a timeline. The fixed parameters are:
-- Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to -1 makes it infinite.
+- Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to a negative value makes it infinite (default -1).
 - Repeat Time: length of the **emitter cycle**, measured in game ticks.
 - Blend mode: *TBD*
 - Fidelity: determines at which video fidelity level the emitter will emit.
@@ -91,11 +91,17 @@ This second section of the emitter editor contains some variables that define fi
 
 In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1].
 ___
-As is mentioned in the "Repeat Time" description, emitters have a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
+As is mentioned in the "Repeat Time" description, emitters have a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a particular property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
 
-You can see that the **Particle Start Size** curve was modified to contain two points (instructions on how to do this later). The first point is at *tick = 10* with *value = 0.2*, and the second is at *tick = 30* *(ignore the small .08 error)* and *value = 1.8*. Note how this affects the shape of the curve. It is flat from the start (left) to the first point, as well as from the 2nd point to the end (right), and has a constant slope in between the two points. As the name suggest, this variable determines how large the particle is at the beginning of the **particle's lifetime**, and the function determines how this value is changed over the **emitter's cycle**. And we can see that behavior in the GIF below - the particles are initally emitted with a starting scale of 0.2. Then, when the mark on the timeline reaches 10th tick, they start slowly growing to 1.8 scale until the cycle mark reaches the 30th tick. When it does, the particles stop growing, and maintain the 1.8 scale.
-Note that a "point" is formed towards the top of the column of particles. This is because the *Particle End Size* curve is just a flat line with *value = 0.2* as previously mentioned, meaning particles will always end being size of 0.2, regardless of how big they start off.
+You can see that the **Particle Start Size** curve was modified to contain two points (instructions on how to do this later). The first point is at *tick = 10* with *value = 0.2*, and the second is at *tick = 30* and *value = 1.8*. Note how this affects the shape of the curve. It is flat from the start (left) to the first point, as well as from the 2nd point to the end (right), and has a constant slope in between the two points. As the name suggest, this variable determines how large the particle is at the beginning of the **particle's lifetime**, and the function determines how this value is changed over the **emitter's cycle**. And we can see that behavior in the GIF below - the particles are initially emitted with a starting scale of 0.2. Then, when the mark on the timeline reaches 10th tick, they start slowly growing to 1.8 scale until the cycle mark reaches the 30th tick. When it does, the particles stop growing, and maintain the 1.8 scale.
 
-
+Note how a "point" is formed towards the top of the column of particles. This is because the *Particle End Size* curve is just a flat line with *value = 0.2* as previously mentioned, meaning particles will always end being size of 0.2, regardless of how big they start off.
 
 ![emitter-cycle-showcase_2.gif](/particle-emitter/emitter-cycle-showcase_2.gif)
+
+So what happens when an **emitter's** lifetime is different from its repeat time? In case the life time is less than repeat time, then the particular property will only be simulated partially. If we reduced Life Time in the example above to 20, that would result in the last particle emitted to have **Particle Start Size** value equal to 0.1 - half way along the curve, which coincides with middle of the rising part of the function (between 0.2 and 1.8).
+
+If, on the other hand, the life time is longer than repeat time, then our "timeline" will be cycled through multiple times (and possibly partially as well, if the two times aren't a multiple of eachother). Note that there's no automatic smooth transition, so if we had a life time of 80 in the case above, after the 40th tick, the particles emitted on the 41st tick would have the **Particle Start Size** value equal to 0.2 (the start value of the function).
+
+The image below depicts how the total span of the timeline (defined by **Repeat Time**) projects onto a property curve. 
+![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)
