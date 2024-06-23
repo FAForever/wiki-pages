@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T17:31:55.157Z
+date: 2024-06-23T17:55:36.248Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -39,7 +39,7 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
 {.is-info}
 
 ## Creating a particle emitter
-Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size.
+Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. ![default-emitter.png](/particle-emitter/default-emitter.png){.width:100}
 ![default-emitter.png](/particle-emitter/default-emitter.png)
 ![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png)
 
@@ -70,7 +70,7 @@ The menu bar holds three items: File, Options and LOD.
 ### [2] Emitter and particle variables
 This second section of the emitter editor contains some variables that define fixed parameters for the emitter and particles. In addition to this, it features a timeline. The fixed parameters are:
 - Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to -1 makes it infinite.
-- Repeat Time: length of the emitter cycle, measured in game ticks.
+- Repeat Time: length of the **emitter cycle**, measured in game ticks.
 - Blend mode: *TBD*
 - Fidelity: determines at which video fidelity level the emitter will emit.
 - Frame Count: *TBD*
@@ -80,8 +80,8 @@ This second section of the emitter editor contains some variables that define fi
 - Playing: used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling.
 
 In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1].
-
-As is mentioned in the "Repeat Time" description, an emitter has a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
+___
+As is mentioned in the "Repeat Time" description, emitters have a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
 
 You can see that the **Particle Start Size** curve was modified to contain two points (instructions on how to do this later). The first point is at *tick = 10* with *value = 0.2*, and the second is at *tick = 30* *(ignore the small .08 error)* and *value = 1.8*. Note how this affects the shape of the curve. It is flat from the start (left) to the first point, as well as from the 2nd point to the end (right), and has a constant slope in between the two points. As the name suggest, this variable determines how large the particle is at the beginning of the **particle's lifetime**, and the function determines how this value is changed over the **emitter's cycle**. And we can see that behavior in the GIF below - the particles are initally emitted with a starting scale of 0.2. Then, when the mark on the timeline reaches 10th tick, they start slowly growing to 1.8 scale until the cycle mark reaches the 30th tick. When it does, the particles stop growing, and maintain the 1.8 scale.
 Note that a "point" is formed towards the top of the column of particles. This is because the *Particle End Size* curve is just a flat line with *value = 0.2* as previously mentioned, meaning particles will always end being size of 0.2, regardless of how big they start off.
