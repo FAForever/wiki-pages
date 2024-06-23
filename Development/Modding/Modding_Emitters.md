@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T18:03:32.992Z
+date: 2024-06-23T18:05:16.766Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -51,14 +51,13 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
   
 </div>
 
-![default-emitter.png](/particle-emitter/default-emitter.png)
-![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png)
-
 > If you can not see the default emitter and its particles, which resemble a fire, it probably means the particles aren't being rendered - make sure to zoom in more, and that the emitter wasn't created inside fog of war. You can also disable the "Only Emit if Visible" option in the LOD menu.
 {.is-danger}
 
 ## Emitter editor
+![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png){.align-right}
 Emitter editor is your primary tool for determining particle looks and behavior. You could also directly edit an emitter blueprint, but that is in general slower, and you don't get the instantaneous feedback. Lets look at all the parts of the editor and explain how they work.
+
 ### [1] The menu bar
 The menu bar holds three items: File, Options and LOD.
 **File** menu allows for creating a new, saving and opening existing blueprints, as well as holding the action buttons to add a texture and a ramp file to the emitter.
