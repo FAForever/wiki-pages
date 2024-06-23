@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T17:55:36.248Z
+date: 2024-06-23T17:57:42.660Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -39,7 +39,18 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
 {.is-info}
 
 ## Creating a particle emitter
-Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. ![default-emitter.png](/particle-emitter/default-emitter.png){.width:100}
+
+<div style="display: container; grid-template-column: 1fr 1fr;">
+  
+  <p>
+    Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, hold "Ctrl + Alt + E", and a default emitter will spawn in on the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. 
+  
+  </p>
+
+  <img src="/particle-emitter/default-emitter.png"/>
+  
+</div>
+
 ![default-emitter.png](/particle-emitter/default-emitter.png)
 ![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png)
 
