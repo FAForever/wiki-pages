@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-23T22:39:11.284Z
+date: 2024-06-24T00:04:21.097Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -113,14 +113,21 @@ The image below depicts how the total span of the timeline (defined by **Repeat 
 Property curves part of the editor is where a lot of things can be tweaked. Note that all of the curves follow the same emitter cycle principle - how far along the cycle you are projects onto how far along the property curve you are, and that value is used for the particle that is **_generated in that moment_** - again, we are edditing the emitter's behavior over time, and not the behavior of the particles themselves. Particles will change in time, but based on fixed parameters which are determined at the moment the particle is created. Once a particle is created, we can not affect it any more.
 
 ### The Curve editor
-Curve editors are same for all the properties. They have 5 value boxes as well as a curve manipulation panel. The panel itself displays 5 values, as well as the curves. The values are:
+Curve editors are same for all the properties. They have 5 value boxes as well as a curve manipulation panel. The panel itself displays 5 values in addition to the curve itself. The values are:
 - **Parameter name** (top-left)
 - **Window Max** (top) and **Window Min** (bottom)
-- 1st (indexed 0, on the left) and last tick (right) of the **emitter cycle**. 
+- 1st (indexed 0, on the left) and last (right) tick of the **emitter cycle**.
 
-Window Min and Window Max values affect both the "zoom" level of the parameter curve, but also the minimum and maximum value we can set for any of the nodes of the curve.
+**Window Min** and **Window Max** values affect both the "zoom" level of the parameter curve, but also the minimum and maximum **value** we can set for any of the nodes of the curve. They can be found and edited on the right above the curve panel [or using a mousewheel to scroll - not very precise].
 
+The curve itself is a segmented red line, which has nodes serving as ends points. Additionally, the left and right edge of the curve panel serve as a node, which has the same parameters as the node closes to that edge. Currently selected nodes are represented with a cyan square, while other nodes are represented with a red square. A selected node can be edited with the 3 parameters to the left and above of the curve panel:
+- **Tick:** represents the ticks position of the node. You can think of it as the x-axis of the curve graph.
+- **Value:** represent the value of the parameter of the node. You can think of it as a y-axis of the curve graph.
+- **Range:** is, in essence, an integrated randomness generator. It defines the total offset from the defined **Value** a parameter can have - minimum being *-**Range** / 2*, and maximum being *+**Range** / 2*. Upon generating a particle, a random value between ***Value** - **Range** / 2* and ***Value** + **Range** / 2* is chosen.
 
+While node parameters can be edited via the 3 fields, you can also edit them directly in the curve panel using your mouse. By LMB clicking on the panel, the closest node x-axis-wise is selected (true for oother mouse-actions) and moved to the position of the mouse. If you hold the LMB down, you can move the node around in both the x (Tick) and y (Value) directions. You can edit the Range value of a node by holding the MMB down and moving your mouse up and down.
+
+Adding nodes is done by clicking with the RMB anywhere on the panel, and a new node will be added at your mouse position. If you want to remove a node, you can use the Ctrl + RMB
 
 
 
