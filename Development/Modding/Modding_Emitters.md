@@ -1,8 +1,8 @@
 ---
 title: Modding Emitters
 description: 
-published: false
-date: 2024-06-24T11:10:30.361Z
+published: true
+date: 2024-06-24T12:10:57.866Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -140,14 +140,14 @@ Scroll - change Min and Max values (centered on their average)
 ### The Properties
 
 
-Let's look at what type of properties we can manipulate first. The properties themselves are split into several tabs, so we'll group them like that in this documentation as well, with the exception of first two tabs, which we will group together.
+Let's look at what type of properties we can manipulate first. The properties themselves are split into several tabs, so we'll group them like that in this documentation as well, with the exception of first two tabs, which will be grouped together.
 
 ---
 Below this is a work in progress.
 ___
 
 #### Spacial
-Even though this is not the first tab, we will look at it first. The reason is that, as the name would suggest, spacial parameters determine the position the particles will appear at when they are first emitted - their origin. To affect the position, we 
+Even though this is not the first tab, it will be covered first. The reason is that, as the name would suggest, spacial parameters determine the position the particles will appear at when they are first emitted - their origin. To affect the position, we 
 
 #### Direction, Rate, Lifetime & Forces
 These two tabs contain values that determine particle rate and life time, as well as how they move in relation to their origin.
