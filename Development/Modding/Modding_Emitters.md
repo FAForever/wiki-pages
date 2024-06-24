@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-24T00:17:27.958Z
+date: 2024-06-24T01:06:58.548Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -137,19 +137,31 @@ Ctrl + RMB - delete a node
 Scroll - change Min and Max values (centered on their average)
 {.is-info}
 
-
----
----
----
----
 ### The Properties
+
+
 Let's look at what type of properties we can manipulate first. The properties themselves are split into several tabs, so we'll group them like that in this documentation as well, with the exception of first two tabs, which we will group together.
 
+---
+Below this is a work in progress.
+___
+
 #### Spacial
-Even though this is not the first tab, we will look at it first. The reason is the, as the name would suggest, spacial parameters determine the position the particles will appear at when they are first emitted. To affect the position, we 
+Even though this is not the first tab, we will look at it first. The reason is that, as the name would suggest, spacial parameters determine the position the particles will appear at when they are first emitted - their origin. To affect the position, we 
 
 #### Direction, Rate, Lifetime & Forces
-These two tabs 
+These two tabs contain values that determine particle rate and life time, as well as how they move in relation to their origin.
+- **Emit rate:** determines how often a particle is emitted by the emitter. The rate is ***Emit Rate** / 1 Tick*. Note that if this value is greater than 1, several particles are emitted in a span of a single tick, and if the value is equal or less than 1, a particle is emitted at the end of the time span (if the rate is 0.2, particles will be emitted at the 5th, 10th, etc. tick, and not 1st, 6th, etc. tick).
+- **Lifetime:** determines how long (measured in ticks) a particle will exists after it was emitted.
+
+The three direction properties, together with the **Velocity** property from the Forces tab, determine how fast and in what direction the particle will move. In general, you can assume that the final velocity of a particle is determined as a vector sum of the three cardinal direction vectors. Each of the cardinal vectors can be determined by multiplying the Velocity value with the direction value of the particular direction. In that sense, the three direction properties are simply factors for the Velocity value.
+- **Velocity:** determines the base speed of a particle
+- **X and Z Direction:** are factors that determine the direction and intensity of the velocity vector in the flat plane
+- **Y Direction:** is a factor that determines the particle's vertical velocity component.
 
 
-wip
+#### Size and Rotation
+
+#### Animation and Selection
+
+
