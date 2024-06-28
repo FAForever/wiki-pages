@@ -2,7 +2,7 @@
 title: Game team statutes
 description: Represents the statutes of the game team
 published: true
-date: 2024-06-28T06:24:06.620Z
+date: 2024-06-28T06:27:07.248Z
 tags: game, game team, team, governance, statutes, game team statutes
 editor: markdown
 dateCreated: 2024-06-27T18:50:07.702Z
