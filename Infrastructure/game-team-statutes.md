@@ -2,7 +2,7 @@
 title: Game team statutes
 description: Represents the statutes of the game team
 published: true
-date: 2024-06-27T18:50:07.702Z
+date: 2024-06-28T06:24:06.620Z
 tags: game, game team, team, governance, statutes, game team statutes
 editor: markdown
 dateCreated: 2024-06-27T18:50:07.702Z
@@ -44,6 +44,7 @@ It is important to understand that all game team members and contributors are ex
 # Roles and attaining them
 
 The game development team consists of the following roles:
+
  - Administrator
  - Maintainer
  - Associate 
@@ -52,12 +53,13 @@ The game development team consists of the following roles:
 In the game repository there is a clear distinction between UI and simulation related code. They both require a different approach and are, from a code-perspective, unrelated to each other. It is important to understand that a contributor may not be equally equipped to solve each type of problem. We use the tags `area: sim` and `area: ui` to make this distinction for issues and pull requests. 
 
 The roles are tightly coupled with the interactions and permissions in the repository:
+
  - Administrator `->` Admin role on Github
  - Maintainer `->` Maintain role on Github
  - Associate `->` Write or Triage role on Github, part of the [contributors list](https://github.com/FAForever/fa/graphs/contributors)
  - Tester `->`Triage role on Github
 
-We'll now discuss each role and describe how someone can attain a role.
+All assigned roles or permissions to a user expire when the user is inactive for six or more months. We encourage contributors to inform the team if they decide to move on. We'll now discuss each role and describe how someone can attain a role.
 
 ## Administrator
 
