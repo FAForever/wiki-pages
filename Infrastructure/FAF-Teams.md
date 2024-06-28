@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-28T06:27:04.593Z
+date: 2024-06-28T17:55:08.740Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -398,29 +398,10 @@ discord, forum, and other FAF managed platforms.
 - Team members can be dropped from the team due to long inactivity or being deemed no longer suitable for the position
 - Moderation team members can be split between global moderators, discord moderators, IRC moderators and forum moderators
 ### DevOps Team
-#### Members
 
-* Brutus5000
-* Sheikah
-* Askaholic
-* BlackYps
-* p4block
-* MazorNoob
-* kubko
-* Rowey
-* MarcSpector
+For more information, see the following page:
 
-#### Mission statement
-
-We enable the promise of  **forever** in **Forged Alliance Forever**. 
-
-This is achieved by following our key goals. Everything we do should be
-
-1. open and reproducible,
-1. built to last,
-1. built to scale,
-1. avoiding vendor lock-in & single point of failures and
-1. as simple as possible, but as complex as required.
+- [DevOps team statutes](/Infrastructure/DevOps)
 
 ### Campaign Team
 #### Team Members:
