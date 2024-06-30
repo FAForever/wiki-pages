@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-24T12:10:57.866Z
+date: 2024-06-30T23:47:18.376Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -64,33 +64,33 @@ Emitter editor is your primary tool for determining particle looks and behavior.
 The menu bar holds three items: File, Options and LOD.
 **File** menu allows for creating a new, saving and opening existing emitter blueprints, as well as holding the action buttons to load texture and ramp files to the emitter.
 **Options** menu has a lot of additional options affecting how generated particles behave:
-- Use Local Velocity: *TBD*
-- Use Local Acceleration: *TBD*
-- Gravity: *TBD*
-- Lock Particles to Velocity: *TBD*
-- Interpolate Emitter Position: *TBD*
-- Align Initial Rotation to the Bone: *TBD*
-- Particles are flat in world space: *TBD*
-- Snap To Waterline: *TBD*
-- Only Emit on water: *TBD*
-- Enable Particle Resistance: *TBD*
+- **Use Local Velocity:** *TBD*
+- **Use Local Acceleration:** *TBD*
+- **Gravity:** *TBD*
+- **Lock Particles to Velocity:** *TBD*
+- **Interpolate Emitter Position:** *TBD*
+- **Align Initial Rotation to the Bone:** *TBD*
+- **Particles are flat in world space:** *TBD*
+- **Snap To Waterline:** *TBD*
+- **Only Emit on water:** *TBD*
+- **Enable Particle Resistance:** *TBD*
 
 **LOD** menu menu holds 3 options that affect particle rendering:
-- Only Emit if Visible: particles won't be emitted if camera distance is further than the LOD Cutoff Distance
-- Catch up when Visible: *TBD*
-- Only Create if Visible: *TBD*
+- **Only Emit if Visible:** particles won't be emitted if camera distance is further than the LOD Cutoff Distance
+- **Catch up when Visible:** *TBD*
+- **Only Create if Visible:** *TBD*
 ### [2] Emitter and particle variables
 This second section of the emitter editor contains some variables that define fixed parameters for the emitter and particles. In addition to this, it features a timeline. The fixed parameters are:
-- Life Time: the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to a negative value makes it infinite (default -1). Value of 0 disables the emitter.
-- Repeat Time: length of the **emitter cycle**, measured in game ticks.
-- Blend mode: *TBD*
-- Fidelity: determines at which video fidelity level the emitter will emit.
-- Frame Count: *TBD*
-- Strip Count: *TBD*
-- Sort Order: *TBD*
-- LOD Cutoff Distance: determines how far the camera can move from the emitter before it stops emitting and rendering particles.
-- Playing: is used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling. Useful for checking how the emitter behaves in a particular part of its cycle. Life time must be a positive value.
-- Cycle timeline: shows the span of the emitter's **cycle** and the current position of the marker. The marker can be moved around (ideally while paused) to observe the emitter behavior at any given point in its cycle.
+- **Life Time:** the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to a negative value makes it infinite (default -1). Value of 0 disables the emitter.
+- **Repeat Time:** length of the **emitter cycle**, measured in game ticks.
+- **Blend mode:** *TBD*
+- **Fidelity:** determines at which video fidelity level the emitter will emit.
+- **Frame Count:** determines how many frames a stripe of texture has (in how many pieces a texture should be chopped up vertically).
+- **Strip Count:** determines how many stripes a texture has (in how many pieces a texture should be chopped up horizontally).
+- **Sort Order:** *TBD*
+- **LOD Cutoff Distance:** determines how far the camera can move from the emitter before it stops emitting and rendering particles.
+- **Playing:** is used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling. Useful for checking how the emitter behaves in a particular part of its cycle. Life time must be a positive value.
+- ***Cycle timeline*:** shows the span of the emitter's **cycle** and the current position of the marker. The marker can be moved around (ideally while paused) to observe the emitter behavior at any given point in its cycle.
 
 In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1]. Note that the name is often cutoff for longer texture/ramp file paths.
 ___
@@ -147,21 +147,39 @@ Below this is a work in progress.
 ___
 
 #### Spacial
-Even though this is not the first tab, it will be covered first. The reason is that, as the name would suggest, spacial parameters determine the position the particles will appear at when they are first emitted - their origin. To affect the position, we 
+Even though this is not the first tab, it will be covered first. The reason is that, as the name would suggest, spacial parameters determine the position the particles when they are first emitted - their origin. To affect the particle spawn position, we have 4 parameters:
+- **Emitter Size:** defines a radius centered around emitter position. Particles will spawn randomly within this radius.
+- **X Position:** offset of the spawn point from the emitter position in X-axis (horizontal).
+- **Y Position:** offset of the spawn point from the emitter position in Y-axis (vertical).
+- **Z Position:** offset of the spawn point from the emitter position in Z-axis (horizontal).
+
+> Note the order of axis in the emitter editor menu: it's X, Y and then Z. The Y axis is used to define vertical parameters, an this will be true of all parameters that will be discussed in this document. The X and Z are the two horizontal components.
+{.is-info}
+
 
 #### Direction, Rate, Lifetime & Forces
 These two tabs contain values that determine particle rate and life time, as well as how they move in relation to their origin.
-- **Emit rate:** determines how often a particle is emitted by the emitter. The rate is ***Emit Rate** / 1 Tick*. Note that if this value is greater than 1, several particles are emitted in a span of a single tick, and if the value is equal or less than 1, a particle is emitted at the end of the time span (if the rate is 0.2, particles will be emitted at the 5th, 10th, etc. tick, and not 1st, 6th, etc. tick).
+- **Emit rate:** determines how often a particle is emitted. The rate is ***Emit Rate** / 1 Tick*. Note that if this value is greater than 1, several particles are emitted in a span of a single tick, and if the value is equal or less than 1, a particle is emitted at the end of the time span (if the rate is 0.2, particles will be emitted at the 5th, 10th, etc. tick, and not 1st, 6th, etc. tick).
 - **Lifetime:** determines how long (measured in ticks) a particle will exists after it was emitted.
 
-The three direction properties, together with the **Velocity** property from the Forces tab, determine how fast and in what direction the particle will move. In general, you can assume that the final velocity of a particle is determined as a vector sum of the three cardinal direction vectors. Each of the cardinal vectors can be determined by multiplying the Velocity value with the direction value of the particular direction. In that sense, the three direction properties are simply factors for the Velocity value.
+The three direction properties, together with the **Velocity** property from the Forces tab, determine how fast and in what direction the particle will move. In general, you can assume that the final velocity of a particle is determined as a vector sum of the three cardinal direction vectors. Each of the cardinal vectors can be determined by multiplying the Velocity value with the direction value of the particular direction. In that sense, the three direction properties are simply factors for the Velocity value. Additionally, the acceleration properties function as one might expect - they determine how a particle's speed will change over time.
 - **Velocity:** determines the base speed of a particle
 - **X and Z Direction:** are factors that determine the direction and intensity of the velocity vector in the flat plane
 - **Y Direction:** is a factor that determines the particle's vertical velocity component.
-
+- **X, Y and Z Acceleration:** determines the acceleration of a particle. 
+- **Resistance:** *TBD*
 
 #### Size and Rotation
+Size and rotation parameters are quite self-explanatory. Note that the size parameters are scale factors of the particle texture:
+- **Particle Start Size:** determines size of a particle when first emitted.
+- **Particle End Size:** determines the size of a particle at the end of its lifetime (as determined by Lifetime parameter).
+- **Particle Rotation:** determines the starting orientation of the particle, measured in degrees.
+- **Particle Rotation Rate:** determines the rate of rotation of a particle, measured in degrees/tick.
+
+Note that the particle will smoothly change its size between the start and end value, as well as smoothly rotate (dependant on framerate, and not ticks).
 
 #### Animation and Selection
+Animation and selection tab parameters allow us to manipulate the texture and the ramp files used by our emitter. You may only attach a single texture and a single ramp file to each emitter. Lets first tackle the ramp file, since it's arguably simpler if you don't have previous experience with sprites.
 
-
+The ramp file is a simple *.dds* image file that is used to "color" the texture file. The guide will get into all the possible "Blend" modes later, but for now we will use the "Add" blend mode. The way the emitter system uses the ramp is as follows:
+The width of the ramp_file.dds is subdivided to represent the lifetime of a particle. Let's assume we have a ramp file that is a single row of pixels which is 50 pixels wide. If the 
