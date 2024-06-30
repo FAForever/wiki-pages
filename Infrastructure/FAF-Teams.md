@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-28T17:55:08.740Z
+date: 2024-06-30T11:47:58.706Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -264,27 +264,17 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 - Turin
 - Farmsletje
-- SpikeyNoob
-- Blodir
+- Rhaelya
 - Rowey
 
 #### Associates
 
 - Stormlantern
-- Rhaelya
-- Tex
+- Blodir
+- SpikeyNoob
 - Archsimkat
-- Swkoll
-- Penguin
 - MadMax
 - Dragun
-
-#### Honorary Members
-
-- JaggedAppliance
-- Zlo
-- Petric
-- Keyser
 
 #### Policies
 
@@ -312,9 +302,6 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 ❖ Balance associates are expected to contribute in at least one area of team's responsibilities.
 ❖ Balance associates don't get to vote on any matters concerning the balance team and they don't decide upon balance changes. That doesn't mean that their feedback isn't welcome nor that it won't impact what gets changed. It simply means they do not have a final say in those matters.
 ❖ Activity requirements are less strict for the associates compared to members.
-
-##### Honorary Member
-❖ Honorary members are past members of the team. They provide their insights on balance matters however they don't have any voting powers and are not subject to any activity standards.
 
 ##### Team responsibilities
 ❖ The main goal of the Balance team is the continous balancing of FAF's gameplay to make it more fun, fair, and engaging.
