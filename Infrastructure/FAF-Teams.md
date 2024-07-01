@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-06-30T11:47:58.706Z
+date: 2024-07-01T14:01:39.719Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -359,16 +359,11 @@ For more information, see the following page:
 - Macronoob
 - maudlin27
 - Nemir
-- Resistance
 - Swkoll
 - Tex
 - Voodoo
 - ZLO
-#### IRC Moderators:
-- Apofenas
-- Medicraze
-- NarNerdPower
-- Viking
+- IndexLibrorum
 #### Mission:
 The moderation team’s mission is to keep the community a healthy and pleasant place
 for all users, on all FAF platforms, by enforcing the rules of the community.
