@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-06-20T13:04:25.914Z
+date: 2024-07-11T22:49:07.993Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -147,6 +147,9 @@ You can fine-tune M28AI settings for in-mission allies and hostile AI with these
   
 - **M28Coop: Use M28Easy?**
   - Applies M28EasyAI to allied/hostile AI instead of M28AI, which simplifies unit micro and attack logic for a different challenge level.
+
+- **M28 time between orders**
+  - By default M28 considers what orders to give its land, air and naval units every second, which allows it to react quickly in order to (for example) kite with its land units.  This setting allows you to increase the time between orders from 1 second to up to every 10 seconds.  This can be useful both to reduce the extent and effectiveness of M28's microing, and also make it run faster.
 
 These settings allow you to tailor the AI experience in campaign missions according to your preferences, adjusting difficulty and gameplay dynamics for a more customized experience.
 
