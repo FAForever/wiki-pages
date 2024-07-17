@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-07-01T14:01:39.719Z
+date: 2024-07-17T19:21:44.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -35,7 +35,7 @@ These are the current Team Leaders:
 	>	**Tagada**
 
 - **Games Team Leader:** 
-	>	**Jip**
+	>	**BlackYps**
 
 - **Creative Team Leader:** 
 	>	**Balthazar**
