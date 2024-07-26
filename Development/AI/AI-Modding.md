@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-05-09T20:19:35.761Z
+date: 2024-07-26T19:18:41.466Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -155,6 +155,49 @@ The steps followed for the initial setting up of the AI (to show in the lobby) a
 
 The commit relating to this is:
 https://github.com/maudlin27/Mini27AI/commit/3253ece2a6d535203db21080dbf05d984b3b8017
+
+## Creating your own AI based on Mini27AI
+The following is an example of how to get your own repository setup for your AI, making use of Intellij IDEA and Github Desktop, and is intended for someone with no experience of these/little programming experience more generally (it's also not the only way of doing this, or even the best, and it's also not a comprehensive list of steps as they have been written out based on the author's memory).
+
+* Download the Mini27AI folder to your FAF mods folder:
+** Go to https://github.com/maudlin27/Mini27AI/ click on the dropdown arrow by the green Code button, and select to download the zip file
+** Extract to your FAF mods folder (e.g. C:\ProgramData\FAForever\user\My Games\Gas Powered Games\Supreme Commander Forged Alliance\mods) such that it contains a Mini27AI folder containing the code
+** Change the Mini27AI folder name to reflect the planned (folder) name to be used for your AI
+
+* Install Intellij IDEA
+** Get the free community edition of Intellij IDEA from https://www.jetbrains.com/idea/download/?section=windows (make sure to scroll down the page, as the first result is the paid for ultimate version, but lower down it has Intellij IDEA Community Edition as an option)
+** Download and install the community edition
+* Install the LUA plugin
+** With Intellij open, you should be able to access settings with the shortcut Ctrl-Alt-S (you might need to be in a project for this to work)
+** If you go to the Plugins section, you can then (on the marketplace tab) search for plugins.  If you search for Lua, then EmmyLua should show up, and you can click to install this
+* Create a github repository for your AI
+** Go to https://github.com/ and create an account (if you dont already have one)
+** Download Github Desktop from https://desktop.github.com/download/
+** Login/link github desktop with your github account
+** Create a new repository in github desktop by going file->New Repository, and completing the initial repository details, and for local path browse to the location of the (renamed) Mini27AI folder created in the earlier step
+** Tell Githhub Desktop to use Intellij IDEA by going to File-Options, and in the Integrations tab specifying Jetbrains Intellij Idea Community Edition as the external editor
+* Update mod details, filenames and references
+** Mini27AI will use the M27 prefix for various file names, so you may wish to change these
+** Update mod_info.lua with details of your AI (e.g. description, name etc.); as part of this change the UID as it must be unique to be uploaded to the FAF mod vault
+** Change the Mini27AI.jpg picture to one for your AI
+** Open your (renamed) Mini27AI repository, which for simplicity I'll refer to as NewAI (e.g. in github desktop it should give an option to open the repository in your external editor)
+** Do a find+replace (ctrl-shift-r) to update any references to M27 or Mini27 to refer instead to the relevant acronyms/description chosen for NewAI - I'd suggest doing case sensitive searches and replacements to reduce the likelihood of issues.
+* Check your mod works in FAF
+** Create a shortcut to play FAF offline - locate the FA exe and create a shortcut, and edit the shortcut to include various command line switches, e.g.
+** C:\ProgramData\FAForever\bin\ForgedAlliance.exe /init init_faf.lua /EnableDiskWatch /showlog /nomovie /log  offlineDev.log
+** Run FAF offline using this shortcut, create a new skirmish game, go to options, mod manager, and hopefully your mod will appear here with the picture you chose in the earlier step (if the picture doesn't show properly, check the mod_info.lua path reference for the picture is correct)
+** With your mod enabled, hopefully you should be able to select your AI from the dropdown list of players
+** Select your AI as one of the players (with you as the other), and start a game
+** All going well, your AI should run the Mini27AI basic logic.  If nothing happens (e.g. no AI ACU spawns, or the ACU spawns but is idle) then an error will likely have been made in the earlier step to update references to your AI.  You can review the log file (shown when you create a game 'live', and also in the file offlineDev.log which should be located at C:\ProgramData\FAForever\bin\offlineDev.log assuming your FA exe is in the same location as noted above)
+* Make changes to your AI (e.g. in a branch)
+** One option is to create a new branch in Github Desktop to store changes for your AI for each version/release (the benefit of this is that you can then easily switch between versions, which can be useful if reviewing an online replay using your AI).
+** You can then make changes to the code in Intellij, and Github Desktop should automatically pick up on changes made
+** Once you're happy with a particular change, you can note a summary of the change in github desktop, click "Commit to [branch name]", and then Push Origin to have your Github online repository reflect the commit.
+** Once you're happy with a collection of changes and are ready to release your AI, then you can do a pull request to incorporate your branch into the 'main' branch of your repository (this way, 'main' will be the latest release version, while your branches will be the position for each individual version worked on)
+** You could also use branches to test out different competing ideas/changes - tutorials are available elsewhere online on using github, branches, etc.
+** Mini27AI is deliberately intended as a 'barebones' illustration/proof of concept of how to do certain AI tasks, with various aspects that could be easily improved.  For example, you might choose to add in engineer logic (both getting the land factory to build engineers, and then assigning orders to engineers) - the existing code should indicate how this can be achieved by copying some of the existing code and tweaking the copied code and category references.
+
+
 
 ## AI approach and custom vs default AI logic
 
