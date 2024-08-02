@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-02T21:28:11.592Z
+date: 2024-08-02T21:30:31.934Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -92,6 +92,8 @@ The team lead is liaison between the promotions team and board of the associatio
 - [YouTube](https://www.youtube.com/c/ForgedAllianceForever)
 - [Wordpress](https://direct.faforever.com/wp-login.php) (for the news hub)
 
+The team lead is to be voted upon by team members. When a team lead is unavailable then two team members may request a vote to replace the current team lead. 
+
 ## Team operations
 
 The team primarily works through Discord. Contributors are encouraged to keep a tab on other channels such as the [forums](https://forum.faforever.com/) or [Zulip](https://faforever.zulipchat.com/) to remain in touch with the (contributing part of the) community.
@@ -102,10 +104,11 @@ There are several Discord channels related to the promotions team. The following
 - [Promo projects](https://discord.gg/PKSXDdsNJD)
 - [Promo team](https://discord.gg/8Ja3TBXGx2)
 
-The [News submission](https://discord.gg/fNCdNBGKcP) can be used by everyone to submit content for the promotions team to consider to promote. The [Partnered servers](https://discord.gg/WYYTE8uKs5) can be used to promote other communities.
+The [News submission](https://discord.gg/fNCdNBGKcP) channel can be used by everyone to submit content for the promotions team to consider to promote. The [Partnered servers](https://discord.gg/WYYTE8uKs5) can be used to promote other communities.
 
 The general purpose of the promotions team is to promote content that is created by the FAForever community and is intended to be used within the atmosphere of FAForever. This applies to a wide range of content - whether that is a map, mod, video and/or audio content. This includes the promotion of contributing.
 
+<!-- 
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
 - The team leader is to be voted upon by team members
@@ -129,3 +132,5 @@ The general purpose of the promotions team is to promote content that is created
 - Promote all official FAF tournament (Organised via the Tournaments Team)
 - Update Patreon bi-monthly with written post or YouTube video's
 - Maintain Social Media Platforms with updated not limited to Facebook, Twitter, Reddit 
+
+-->
