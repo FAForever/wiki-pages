@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-02T21:10:07.976Z
+date: 2024-08-02T21:28:11.592Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -73,7 +73,7 @@ If you're interested in contributing then come in and introduce yourself on the 
 
 ### Content manager
 
-Content managers supervise the operations and content on various media platforms, primarily focusing on our [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever).
+Content managers supervise the operations and content on various media platforms, primarily focusing on the News hub and our [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever).
 
 An example of the contributions of a predecessor is the conversion of tournament streams from the [FAForever Twitch channel](https://www.twitch.tv/forgedallianceforever) to YouTube. The streams are divided into episodes using video editing software. The episodes are released according to a publishing schedule to create a steady flow of content. All episodes are added to one or more play lists to help users understand what is and find related content.
 
@@ -84,6 +84,27 @@ It is useful to be proficient with video editing software, but you do not need t
 You'll be granted access to the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever). By nature, this access is sensitive and we count on you to take the responsibility seriously. One small step towards taking it seriously is to [enable 2FA](https://support.google.com/accounts/answer/185839) to the Google account that you can use to access and modify content on the FAForever channel.
 
 If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
+
+## Team lead
+
+The team lead is liaison between the promotions team and board of the association and/or other teams. The team lead has access to all the (social) media. This includes the following media:
+
+- [YouTube](https://www.youtube.com/c/ForgedAllianceForever)
+- [Wordpress](https://direct.faforever.com/wp-login.php) (for the news hub)
+
+## Team operations
+
+The team primarily works through Discord. Contributors are encouraged to keep a tab on other channels such as the [forums](https://forum.faforever.com/) or [Zulip](https://faforever.zulipchat.com/) to remain in touch with the (contributing part of the) community.
+
+There are several Discord channels related to the promotions team. The following channels are used to discuss with members or about projects of the promotion team:
+
+- [Promo public](https://discord.gg/DCNr4cvejN)
+- [Promo projects](https://discord.gg/PKSXDdsNJD)
+- [Promo team](https://discord.gg/8Ja3TBXGx2)
+
+The [News submission](https://discord.gg/fNCdNBGKcP) can be used by everyone to submit content for the promotions team to consider to promote. The [Partnered servers](https://discord.gg/WYYTE8uKs5) can be used to promote other communities.
+
+The general purpose of the promotions team is to promote content that is created by the FAForever community and is intended to be used within the atmosphere of FAForever. This applies to a wide range of content - whether that is a map, mod, video and/or audio content. This includes the promotion of contributing.
 
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
