@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-02T21:09:50.225Z
+date: 2024-08-02T21:10:07.976Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -56,7 +56,7 @@ If you're interested in contributing then come in and introduce yourself on the 
 
 ### Video editor
 
-<todo>
+<todo/>
 
 ### Graphic designer
 
