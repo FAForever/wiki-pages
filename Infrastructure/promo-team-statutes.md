@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-02T21:08:28.916Z
+date: 2024-08-02T21:09:50.225Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -40,7 +40,50 @@ It is important to understand that all promotion team members (and contributors 
  - Be concise
  - Step down considerately
  
- ## Roles
+## Roles
+
+### Text editor
+
+Text editors play a vital role in the community by contributing through written content. Each week, the Promotions Team needs to create a diverse range of texts, including:
+
+- News texts for the client
+- Texts for media purposes, such as YouTube video descriptions
+- Texts related to other contributors, like reviewing the [balance patch notes](https://patchnotes.faforever.com/fafbeta)
+
+It is useful to be proficient in the English language. It is the primary language that we use to communicate on the FAF platforms. While you're welcome to utilize tools to assist you, we encourage using them only as a source of inspiration to preserve the authenticity of the text. The final result should be easily understandable, even for individuals with limited proficiency in English.
+
+If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
+
+### Video editor
+
+<todo>
+
+### Graphic designer
+
+Graphic designers enables the community to look and feel more professional. Great examples are the thumbnails on YouTube that were made by @phong and @fichom. Check them out on the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever/playlists)
+
+Furthermore, remarkable graphics were made for various tournaments. Check out these two:
+
+- [Legends of the Stars](https://forum.faforever.com/topic/5302/2022-legend-of-the-stars-world-championship-playoffs)
+- [Summer League event](https://forum.faforever.com/topic/6217/summer-league-2023-event)
+
+It is useful to be proficient with image editing software. We may not be able to help you learn the tools of the trade. We encourage all graphics that are created for FAForever to have a [Creative Commons](https://creativecommons.org/licenses/) license. We also encourage for all the sources to be released in a similar license. By sharing your techniques, fellow community members can glean insights and learn from your creative process. Presently, all our assets are stored on a [Google Drive](https://drive.google.com/drive/folders/1yOx6GB6ERi6eKZEsEQGytPboVdfWm_K6). Including all the source files, such as the [Photoshop files](https://drive.google.com/drive/folders/1qMxUdCkOAbprLBMRUP_B6xqi_odUZPnD) for the thumbnails you see on YouTube.
+
+If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
+
+### Content manager
+
+Content managers supervise the operations and content on various media platforms, primarily focusing on our [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever).
+
+An example of the contributions of a predecessor is the conversion of tournament streams from the [FAForever Twitch channel](https://www.twitch.tv/forgedallianceforever) to YouTube. The streams are divided into episodes using video editing software. The episodes are released according to a publishing schedule to create a steady flow of content. All episodes are added to one or more play lists to help users understand what is and find related content.
+
+Another example is the creation of [YouTube shorts](https://www.youtube.com/@ForgedAllianceForever/shorts).
+
+It is useful to be proficient with video editing software, but you do not need to excel at it. We may not be able to help you learn the tools of the trade. We encourage all graphics that are created for FAForever to have a [Creative Commons](https://creativecommons.org/licenses/) license. We also encourage for all the sources to be released in a similar license. By sharing your techniques, fellow community members can glean insights and learn from your creative process.
+
+You'll be granted access to the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever). By nature, this access is sensitive and we count on you to take the responsibility seriously. One small step towards taking it seriously is to [enable 2FA](https://support.google.com/accounts/answer/185839) to the Google account that you can use to access and modify content on the FAForever channel.
+
+If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
 
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
