@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-02T21:08:21.704Z
+date: 2024-08-02T21:08:28.916Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -21,7 +21,7 @@ dateCreated: 2024-08-02T17:34:56.224Z
   - CaptainKlutz
   - Fichom
 
-# Policies
+## Policies
 
 Every team in the FAF community is required to have a mission statement. This was made mandatory at the general meeting of the 6th of March, 2022 when the `Governance structure` proposal was accepted. The mission statement for the promotion team describes:
 
@@ -39,6 +39,8 @@ It is important to understand that all promotion team members (and contributors 
  - Be careful in the words that we choose
  - Be concise
  - Step down considerately
+ 
+ ## Roles
 
 #### Team Leader
 - The team leader is the liaison with the Association Board and other FAF Teams
