@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-02T21:44:54.216Z
+date: 2024-08-03T07:08:27.254Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -44,15 +44,13 @@ It is important to understand that all promotion team members (and contributors 
 
 ### Text editor
 
-Text editors play a vital role in the community by contributing through written content. Each week, the Promotions Team needs to create a diverse range of texts, including:
+Text editors and/or text writers enable the community to become familiar with content, updates and the general progression of the community as a whole. Text writers create (blog) stories that may turn into [forum posts](https://forum.faforever.com/category/3/blogs), Discord posts, become part of the [Steam discussion groups](https://steamcommunity.com/app/9420/discussions/), and/or [Patreon posts](https://www.patreon.com/faf). Especially the latter is critical for the community as Patreon is our only source of income.
 
-- News texts for the client
-- Texts for media purposes, such as YouTube video descriptions
-- Texts related to other contributors, like reviewing the [balance patch notes](https://patchnotes.faforever.com/fafbeta)
+The topic of a story can be about anything directly related to FAForever - whether it is an in-depth review of a map, a description of how a possibly to-be feature may work or perhaps even an interview with another contributor about their ideas for FAForever. The options are limitless in that regard and given the nostalgia factor of the game you can expect a decent audience to read your content.
 
-It is useful to be proficient in the English language. It is the primary language that we use to communicate on the FAF platforms. While you're welcome to utilize tools to assist you, we encourage using them only as a source of inspiration to preserve the authenticity of the text. The final result should be easily understandable, even for individuals with limited proficiency in English.
+The main language for FAForever is the English langauge. It is fine if you translate a text, but the text should also be available in English. While you're welcome to utilize tools to assist you, we encourage using them only as a source of inspiration to preserve the authenticity of the text. Especially references related to Supreme Commander tend to not surivive the generative nature of modern large language models (ChatGPT and the like). The final result should be easily understandable, even for individuals with limited proficiency in the target language.
 
-If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
+If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel.
 
 ### Video editor
 
