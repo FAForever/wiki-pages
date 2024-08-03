@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-03T09:26:03.317Z
+date: 2024-08-03T09:26:48.119Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -43,7 +43,7 @@ It is important to understand that all promotion team members (and contributors 
  
 In general, in whatever capacity that you contribute we encourage all promotion related materials to have a [Creative Commons](https://creativecommons.org/licenses/). This allows us to forever (hah!) (re-)use the content that is created by contributors. 
 
-We also encourage for all the sources to be released with a similar license. By sharing your sources and techniques fellow community members can gain insights and learn from your creative process. One example is the [extensive guide](https://wiki.faforever.com/en/Development/Mapping), on creating maps. Including the use of [procedural software](https://wiki.faforever.com/en/Development/Mapping/Gaea).
+We also encourage for all the sources to be released with a similar license. By sharing your sources and techniques fellow community members can gain insights and learn from your creative process. One (impressive) example is the [extensive guide](https://wiki.faforever.com/en/Development/Mapping) on creating maps. Including the use of [procedural software](https://wiki.faforever.com/en/Development/Mapping/Gaea).
 
 ## Roles
 
