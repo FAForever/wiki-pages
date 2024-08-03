@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-03T07:08:27.254Z
+date: 2024-08-03T08:55:22.325Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -54,7 +54,11 @@ If you're interested in contributing then come in and introduce yourself on the 
 
 ### Video editor
 
-<todo/>
+Video editors are the alternative to text editors. You enable the community to become familiar with content, updates and the general progression of the community as a whole. The content you create may become part of the [Steam discussion groups](https://steamcommunity.com/app/9420/discussions/), the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever) and/or a [Patreon post](https://www.patreon.com/faf). Especially the latter is critical for the community as Patreon is our only source of income.
+
+The video can be about anything that is directly related to FAForever. Whether that is a build order video, shorts/clips from a cast, a comparison between Steam FA and FAForever or perhaps an interview with another contributor about the contributions of the interviewee. The options are limitless.
+
+If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel.
 
 ### Graphic designer
 
