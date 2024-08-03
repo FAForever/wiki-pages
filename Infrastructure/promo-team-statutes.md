@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-03T09:17:28.541Z
+date: 2024-08-03T09:20:32.074Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -41,6 +41,12 @@ It is important to understand that all promotion team members (and contributors 
  
 ## Roles
 
+In general, in whatever capacity that you contribute we encourage all promotion related materials to have a [Creative Commons](https://creativecommons.org/licenses/). This allows us to forever (hah!) (re-)use the content that is created by contributors. 
+
+We also encourage for all the sources to be released with a similar license. By sharing your techniques, fellow community members can gain insights and learn from your creative process.
+
+If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the [#promo-public](https://discord.gg/DCNr4cvejN).
+
 ### Text editor
 
 Text editors and/or text writers enable the community to become familiar with content, updates and the general progression of the community as a whole. Text writers create (blog) stories that may turn into [forum posts](https://forum.faforever.com/category/3/blogs), Discord posts, become part of the [Steam discussion groups](https://steamcommunity.com/app/9420/discussions/), and/or [Patreon posts](https://www.patreon.com/faf). Especially the latter is critical for the community as Patreon is our only source of income.
@@ -49,19 +55,15 @@ The topic of a story can be about anything directly related to FAForever - wheth
 
 The main language for FAForever is the English langauge. It is fine if you translate a text, but the text should also be available in English. While you're welcome to utilize tools to assist you, we encourage using them only as a source of inspiration to preserve the authenticity of the text. Especially references related to Supreme Commander tend to not surivive the generative nature of modern large language models (ChatGPT and the like). The final result should be easily understandable, even for individuals with limited proficiency in the target language.
 
-If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel.
-
 ### Video editor
 
-Video editors are the alternative to text editors. You enable the community to become familiar with content, updates and the general progression of the community as a whole. The content you create may become part of the [Steam discussion groups](https://steamcommunity.com/app/9420/discussions/), the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever) and/or a [Patreon post](https://www.patreon.com/faf). Especially the latter is critical for the community as Patreon is our only source of income.
+Video editors are the alternative to text editors/writers. You enable the community to become familiar with content, updates and the general progression of the community as a whole. The content you create may become part of the [Steam discussion groups](https://steamcommunity.com/app/9420/discussions/), the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever) and/or a [Patreon post](https://www.patreon.com/faf). Especially the latter is critical for the community as Patreon is our only source of income.
 
 The video can be about anything that is directly related to FAForever. Whether that is a build order video, shorts/clips from a cast, a comparison between Steam FA and FAForever or perhaps an interview with another contributor about the contributions of the interviewee. The options are limitless.
 
-If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel.
-
 ### Graphic designer
 
-Graphic designers enables the community to look and feel more professional. Great examples are the thumbnails on YouTube that were made by @phong and @fichom. Check them out on the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever/playlists)
+Graphic designers enables the community to look and feel more professional. Great examples are the thumbnails on YouTube that were made by @phong6881 and @fichom. Check them out on the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever/playlists)
 
 Furthermore, remarkable graphics were made for various tournaments. Check out these two:
 
@@ -70,21 +72,11 @@ Furthermore, remarkable graphics were made for various tournaments. Check out th
 
 It is useful to be proficient with image editing software. We may not be able to help you learn the tools of the trade. We encourage all graphics that are created for FAForever to have a [Creative Commons](https://creativecommons.org/licenses/) license. We also encourage for all the sources to be released in a similar license. By sharing your techniques, fellow community members can glean insights and learn from your creative process. Presently, all our assets are stored on a [Google Drive](https://drive.google.com/drive/folders/1yOx6GB6ERi6eKZEsEQGytPboVdfWm_K6). Including all the source files, such as the [Photoshop files](https://drive.google.com/drive/folders/1qMxUdCkOAbprLBMRUP_B6xqi_odUZPnD) for the thumbnails you see on YouTube.
 
-If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
-
 ### Content manager
 
-Content managers supervise the operations and content on various media platforms, primarily focusing on the News hub and our [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever).
+Content managers supervise the operations and content on various media platforms, primarily focusing on our [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever) and the [News hub](https://www.faforever.com/news). You'll help schedule content to be released and you assist other contributors (of the promotion team) with the creation of their content.
 
-An example of the contributions of a predecessor is the conversion of tournament streams from the [FAForever Twitch channel](https://www.twitch.tv/forgedallianceforever) to YouTube. The streams are divided into episodes using video editing software. The episodes are released according to a publishing schedule to create a steady flow of content. All episodes are added to one or more play lists to help users understand what is and find related content.
-
-Another example is the creation of [YouTube shorts](https://www.youtube.com/@ForgedAllianceForever/shorts).
-
-It is useful to be proficient with video editing software, but you do not need to excel at it. We may not be able to help you learn the tools of the trade. We encourage all graphics that are created for FAForever to have a [Creative Commons](https://creativecommons.org/licenses/) license. We also encourage for all the sources to be released in a similar license. By sharing your techniques, fellow community members can glean insights and learn from your creative process.
-
-You'll be granted access to the [FAForever YouTube channel](https://www.youtube.com/@ForgedAllianceForever). By nature, this access is sensitive and we count on you to take the responsibility seriously. One small step towards taking it seriously is to [enable 2FA](https://support.google.com/accounts/answer/185839) to the Google account that you can use to access and modify content on the FAForever channel.
-
-If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the #📰-promo-public channel
+The role of a content manager is similar to the role of a lead. You help streamline the process by solving problems that content creators (such as [video editors](), [graphic designers]() and [text editors]()) perceive. You indirectly create value for the community by doing so.
 
 ## Team lead
 
