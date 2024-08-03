@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-03T09:20:32.074Z
+date: 2024-08-03T09:22:52.070Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -39,11 +39,13 @@ It is important to understand that all promotion team members (and contributors 
  - Be concise
  - Step down considerately
  
-## Roles
-
+## License
+ 
 In general, in whatever capacity that you contribute we encourage all promotion related materials to have a [Creative Commons](https://creativecommons.org/licenses/). This allows us to forever (hah!) (re-)use the content that is created by contributors. 
 
-We also encourage for all the sources to be released with a similar license. By sharing your techniques, fellow community members can gain insights and learn from your creative process.
+We also encourage for all the sources to be released with a similar license. By sharing your sources and techniques fellow community members can gain insights and learn from your creative process. One example is the [extensive guide](https://wiki.faforever.com/en/Development/Mapping), on creating maps. Including the use of [procedural software](https://wiki.faforever.com/en/Development/Mapping/Gaea).
+
+## Roles
 
 If you're interested in contributing then come in and introduce yourself on the official [Discord server](https://discord.gg/DCNr4cvejN) in the [#promo-public](https://discord.gg/DCNr4cvejN).
 
@@ -99,7 +101,7 @@ There are several Discord channels related to the promotions team. The following
 
 The [News submission](https://discord.gg/fNCdNBGKcP) channel can be used by everyone to submit content for the promotions team to consider to promote. The [Partnered servers](https://discord.gg/WYYTE8uKs5) can be used to promote other communities.
 
-The general purpose of the promotions team is to promote content that is created by the FAForever community and is intended to be used within the atmosphere of FAForever. This applies to a wide range of content - whether that is a map, mod, video and/or audio content. This includes the promotion of contributing.
+The general purpose of the promotions team is to promote content that is created by the FAForever community and is intended to be used within the atmosphere of FAForever. This applies to a wide range of content - whether that is a map, mod, video and/or audio content. This includes the promotion of contributing in general, for all teams.
 
 <!-- 
 #### Team Leader
