@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-07-26T19:23:06.312Z
+date: 2024-08-04T08:07:04.711Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -81,7 +81,7 @@ I’ve noted some of the errors I would frequently make in case they’re of hel
 
 
 ## AI Coding Overview: How to create/edit an AI in FAF
-The following diagram illustrates the code you might need or want to edit to create an AI:
+The following diagram illustrates the code you might need or want to edit to create an AI using the default framework (see later on for the Mini27AI example for an alternative approach that operates outside this framework):
 ![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg)
 
 Each item corresponds to a file in the Forged Alliance Lua code, with a basic description and file location included.
@@ -155,6 +155,13 @@ The steps followed for the initial setting up of the AI (to show in the lobby) a
 
 The commit relating to this is:
 https://github.com/maudlin27/Mini27AI/commit/3253ece2a6d535203db21080dbf05d984b3b8017
+
+## Overview of Mini27AI's logic
+The following diagram shows the logic flows for the (very simplistic) Mini27AI implementation:
+
+![mini27ai_logic_overview.png](/mini27ai_logic_overview.png)
+
+Note this isn't intended as a 'recommended' approach, but rather a starting point (for example, an obvious flaw in Mini27AI's approach for attacking units is when a unit is built it attacks the nearest visible enemy, and only reassesses its target when that unit dies.  However, the nearest enemy is likely to change over the course of the game, and you don't necessarily want your entire army to all attack the nearest enemy unit).
 
 ## Creating your own AI based on Mini27AI
 The following is an example of how to get your own repository setup for your AI, making use of Intellij IDEA and Github Desktop, and is intended for someone with no experience of these/little programming experience more generally (it's also not the only way of doing this, or even the best, and it's also not a comprehensive list of steps as they have been written out based on the author's memory).
