@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-08-02T17:34:48.773Z
+date: 2024-08-13T12:27:52.871Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -67,6 +67,7 @@ These are the current Team Leaders:
 - Strydxr
 - Terminal
 - TheDuelist
+- WillowWisppsi
 
 #### Policies
 We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
