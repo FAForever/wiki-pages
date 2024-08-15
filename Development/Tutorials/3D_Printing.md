@@ -2,13 +2,13 @@
 title: 3D Printing Models
 description: A guide on how to 3D print units from the game
 published: true
-date: 2024-05-16T03:45:53.055Z
+date: 2024-08-15T15:36:08.851Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-13T23:21:07.574Z
 ---
 
-[facematching.mp4](/facematching.mp4)# Part 1: The in-game model
+# Part 1: The in-game model
 ## Step 1: Download the applications you'll need
 1. **Blender 4.1** (or whatever version is most current, this guide will be written using 4.1) 
 https://www.blender.org/download/
