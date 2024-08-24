@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2024-03-04T13:39:51.940Z
+date: 2024-08-24T23:41:39.389Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -165,7 +165,7 @@ Buildings which are affected by mass storage
 </table>
 
 Buildings which are affected by Energy storage
-> Note: Adjacency Bonus should be used well-considered. Players with little experience tend to surround hydrocarbon power plants with energy storage to get 50% more energy or similar things. The bonus you want to have can quickly turn into an economic disadvantage if you try to profit that way. Keep in mind the costs of 12 energy storages which amount to 14400 energy and 3000 mass. It would take 5 minutes until you profit from the energy bonus. The mass covers the costs of a T3 power generator which would produce 2500 energy instead of 50.
+> Note: Adjacency Bonus should be used well-considered. Players with little experience tend to surround hydrocarbon power plants with energy storage to get 50% more energy or similar things. The bonus you want to have can quickly turn into an economic disadvantage if you try to profit that way. Keep in mind the costs of 12 energy storages which amount to 14400 energy and 3000 mass. The mass covers the costs of a T3 power generator which would produce 2500 energy instead of 1250.
 {.is-info}
 
 
