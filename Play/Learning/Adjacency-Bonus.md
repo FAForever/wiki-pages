@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2024-08-24T23:42:04.237Z
+date: 2024-08-27T22:50:59.670Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -183,7 +183,7 @@ When placed next to power generators, static artillery units gain a rate of fire
 -   20% discount for T2 power generators/hydrocarbon power plants.
 -   40% discount for T3 Power generators.
 
-The Aeon T4 Rapid-fire Artillery can achieve the maximum possible reload time discount (42%) because you can place a T1 power generator on each side in addition to a T3 power generator.
+The Aeon T4 Rapid-fire Artillery can achieve the maximum possible reload time discount of 20%. You can place a T1 power generator on each side in addition to a T3 power generator. For Salvation each T2 power generator gives 2.5% reload discount and each T3 gen gives 4.5% reload discount.
 
 This table shows all possible time values:
 
@@ -226,9 +226,9 @@ This table shows all possible time values:
   <tr>
     <td align="center"><img src="/images/learning/adjacency/a_t3_rapid_arty.png"  width="40" align="left"> T4 Rapid-fire Artillery</td>
     <td align="center">0.31s</td>
-    <td align="center">0.775s</td>
-    <td align="center">0.775s</td>
-    <td align="center">1.24s</td>
+    <td align="center">0.31s</td>
+    <td align="center">0.58s</td>
+    <td align="center">0.6s</td>
     <td>The size allows you to surround it with a T3 and T1 pgen. Reload time discount: 1.302s.</td>
   </tr>
   <tr>
