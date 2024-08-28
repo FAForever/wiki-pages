@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2024-08-27T22:50:59.670Z
+date: 2024-08-28T00:05:24.482Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -225,11 +225,11 @@ This table shows all possible time values:
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/a_t3_rapid_arty.png"  width="40" align="left"> T4 Rapid-fire Artillery</td>
-    <td align="center">0.31s</td>
-    <td align="center">0.31s</td>
-    <td align="center">0.58s</td>
-    <td align="center">0.6s</td>
-    <td>The size allows you to surround it with a T3 and T1 pgen. Reload time discount: 1.302s.</td>
+    <td align="center">0.3s</td>
+    <td align="center">0.4s</td>
+    <td align="center">0.4s</td>
+    <td align="center">0.5s</td>
+    <td>The size allows you to surround it with a T3 and T1 pgen. Reload time discount: 0.6s.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t4_static_arty.png"  width="40" align="left"> T4 Artillery</td>
