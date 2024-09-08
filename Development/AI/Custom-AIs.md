@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-06-15T09:22:56.552Z
+date: 2024-09-08T17:22:08.888Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -17,6 +17,7 @@ FAF features several advanced AI that offers significant improvements over the d
 - Greater challenge
 - Unit mod compatibility
 - Campaign compatibility
+- Unique gamemodes / settings
 
 For example, by one measure the fastest custom AI was more than twice as fast as the default Adaptive AI (August 2022), while the Adaptive AI could lose to the most competitive custom AI even with a 100% boost to its resource generation and build speed (although as the base Adaptive AI is under active development this may change).
 
@@ -35,6 +36,8 @@ These AI are being actively developed with recent updates.  If you have feedback
 Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available, and both feature an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game.
 
+A unique hybrid AI mode is also provided where you can choose M28AI to manage some of your units while you manage others.
+
 M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI - see the [campaign section](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai) for further details.
 
 Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
@@ -49,13 +52,6 @@ AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested
 
 AI Variants: M28AI, M28AI Easy
 
-### Marlo's Sorian Edit
-![sorianedit.bmp](/sorianedit.bmp)
-Author: Degulum/!MarLo
-Other mods required: AI-Uveso
-Based on the Sorian AI, this mod looks to make improvements to the logic to provide a more competitive experience.
-
-
 ## AI not under active development
 
 Although no longer receiving updates, the following AI should still work in FAF.
@@ -63,12 +59,18 @@ Although no longer receiving updates, the following AI should still work in FAF.
 ### M27AI
 ![m27ai.jpg](/m27ai.jpg)
 *Author: maudlin27*
-Last updated: January 2024
+Last updated: May 2024
 Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).  While largely superceded by M28AI, it will play differently and can beat M28AI on some maps.  Although not actively developed it is still occasionally updated to ensure it remains compatible with the latest FAF releases.
 
 Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
+### Marlo's Sorian Edit
+![sorianedit.bmp](/sorianedit.bmp)
+Author: Degulum/!MarLo
+Other mods required: AI-Uveso
+Last updated: February 2024
+Based on the Sorian AI, this mod looks to make improvements to the logic to provide a more competitive experience.
 
 ### AI-Uveso
 ![uvesoai.jpg](/uvesoai.jpg)
@@ -87,6 +89,19 @@ AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is sugg
 Last updated: July 2023
 Other mods required: SCTABalance, SCTAFix, and AI-Uveso
 Note that this AI is part of the wider SCTA conversion mod, and requires both the SCTABalance and SCTAFix modes to work (which result in the two total annihilation-based factions as playable options for humans and the SCTA AI).  The AI comes as part of these two mods.
+
+### AI-Swarm
+*![swarmicon.jpg](/swarmicon.jpg)
+Author: Azraeel*
+Other mods required: AI-Uveso
+
+Last updated: October 2022 (June 2024 - fixed version uploaded)
+Other mods required: AI-Uveso
+This AI is a multi-use AI that is designed mainly for 10km maps.  It provides an additional (optional) 'Eternal' game setting that provides the AI with a steadily increasing resource and builds a modifier to make it more challenging as the game progresses.
+Note that this AI may have compatibility issues with RNGAI.
+Variants: Terror, Eternal.
+
+Further details on SwarmAI are provided in [its forum thread](https://forum.faforever.com/topic/53/ai-swarm-ai-mod-for-faforever), including suggested maps to play it on.
 
 ### DilliDalli
 ![bugfix.png](/bugfix.png)
@@ -130,22 +145,6 @@ Last updated: Unknown
 Other mods required: None
 When released Sorian AI represented an improvement to the base AI in FAF.  Note though that the base adaptive AI has been updated more recently and is more likely to provide a greater competitive experience than the Sorian AI.
 AI variants: Sorian, Rush, Air, Water, Turtle, Adaptive
-
-## Historic FAF AI
-The following AI have previously been developed for FAF, but currently do not work, and are noted briefly for reference.
-
-### AI-Swarm
-*![swarmicon.jpg](/swarmicon.jpg)
-Author: Azraeel*
-Last updated: October 2022
-Other mods required: AI-Uveso
-Swarm stopped working following changes made to FAF in February 2023.  Although the author is currently unavailable, it is hoped that they may update Swarm at some point in the future to fix this issue.
-
-This AI is a multi-use AI that is designed mainly for 10km maps.  It provides an additional (optional) 'Eternal' game setting that provides the AI with a steadily increasing resource and builds a modifier to make it more challenging as the game progresses.
-Note that this AI may have compatibility issues with RNGAI.
-Variants: Terror, Eternal.
-
-Further details on SwarmAI are provided in [its forum thread](https://forum.faforever.com/topic/53/ai-swarm-ai-mod-for-faforever), including suggested maps to play it on.
 
 # Playing with custom AIs
 ### Installing AI mods
