@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-08-03T13:09:23.075Z
+date: 2024-09-21T18:43:17.367Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -128,3 +128,8 @@ The general purpose of the promotions team is to promote content that is created
 - Maintain Social Media Platforms with updated not limited to Facebook, Twitter, Reddit 
 
 -->
+
+## Socials
+
+The promotions team manages several social media accounts. The credentials for the accounts are in the community hosted [Vaultwarden](https://vaultwarden.faforever.com/), and specifically in the [Promotions vault](https://vaultwarden.faforever.com/#/organizations/5613e6ab-643a-47a8-beae-b86c01c58e70). At a minimum the team lead has access to these credentials. 
+
