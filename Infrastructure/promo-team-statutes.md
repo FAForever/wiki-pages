@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-09-21T19:00:48.774Z
+date: 2024-09-21T19:01:55.768Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -43,6 +43,18 @@ It is important to understand that all promotion team members (and contributors 
 In general, in whatever capacity that you contribute we encourage all promotion related materials to have a [Creative Commons](https://creativecommons.org/licenses/). This allows us to forever (hah!) (re-)use the content that is created by contributors. 
 
 We also encourage for all the sources to be released with a similar license. By sharing your sources and techniques fellow community members can gain insights and learn from your creative process. One (impressive) example is the [extensive guide](https://wiki.faforever.com/en/Development/Mapping) on creating maps. Including the use of [procedural software](https://wiki.faforever.com/en/Development/Mapping/Gaea).
+
+## Socials
+
+The promotions team manages several social media accounts. The credentials for the accounts are in the community hosted [Vaultwarden](https://vaultwarden.faforever.com/), and specifically in the [Promotions vault](https://vaultwarden.faforever.com/#/organizations/5613e6ab-643a-47a8-beae-b86c01c58e70). At a minimum the team lead has access to these credentials. 
+
+The promotion team manages the following accounts:
+
+- [Twitter/X](https://x.com/FAFOfficial_), which team members can collaborate on through [delegated](https://help.x.com/en/managing-your-account/how-to-use-the-delegate-feature) of.
+- Reddit: todo
+- [YouTube](https://www.youtube.com/@ForgedAllianceForever). The channel is a [brand account](https://support.google.com/youtube/answer/7001996) and team members can collaborate by giving their personal accounts permission to act as the brand.
+
+And occasionally we post on [Patreon](https://www.patreon.com/faf).
 
 ## Roles
 
@@ -128,16 +140,4 @@ The general purpose of the promotions team is to promote content that is created
 - Maintain Social Media Platforms with updated not limited to Facebook, Twitter, Reddit 
 
 -->
-
-## Socials
-
-The promotions team manages several social media accounts. The credentials for the accounts are in the community hosted [Vaultwarden](https://vaultwarden.faforever.com/), and specifically in the [Promotions vault](https://vaultwarden.faforever.com/#/organizations/5613e6ab-643a-47a8-beae-b86c01c58e70). At a minimum the team lead has access to these credentials. 
-
-The promotion team manages the following accounts:
-
-- [Twitter/X](https://x.com/FAFOfficial_), which team members can collaborate on through [delegated](https://help.x.com/en/managing-your-account/how-to-use-the-delegate-feature) of.
-- Reddit: todo
-- [YouTube](https://www.youtube.com/@ForgedAllianceForever). The channel is a [brand account](https://support.google.com/youtube/answer/7001996) and team members can collaborate by giving their personal accounts permission to act as the brand.
-
-And occasionally we post on [Patreon](https://www.patreon.com/faf)
 
