@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-09-24T15:45:32.958Z
+date: 2024-09-24T15:46:30.645Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -55,7 +55,7 @@ The promotion team manages the following accounts:
 - [YouTube](https://www.youtube.com/@ForgedAllianceForever). The channel is a [brand account](https://support.google.com/youtube/answer/7001996) and team members can collaborate by having their personal Google accounts being provided permission to act as the brand.
 - [Newshub powered by Wordpress](https://direct.faforever.com/wp-login.php). Team members can receive their own account and through that account they can create posts for the newshub.
 
-And occasionally we post on [Patreon](https://www.patreon.com/faf).
+And occasionally we post on [Patreon](https://www.patreon.com/faf). Separately we have a promo at faforever dot com email account. 
 
 ## Roles
 
