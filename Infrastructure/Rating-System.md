@@ -2,7 +2,7 @@
 title: Rating-System
 description: 
 published: true
-date: 2024-10-03T00:08:46.695Z
+date: 2024-10-03T19:43:03.295Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:47.976Z
@@ -22,7 +22,7 @@ TrueSkill however, can handle any match-up. Teams are the weighted sum of the pl
 
 The ELO system and the FAF implementation of Trueskill are quite similar. For Elo, a draw is simply a half-win half-lost game. TrueSkill considers draws as a meaningful outcome: You were matched with an equally skilled opponent.
 
-In FAF every game is assumed to have a draw probability of 10%. It might look like an overestimation, however the difference for measuring ranking correctly is in fact [neglible](https://forums.faforever.com/viewtopic.php?f=45&t=11698#p119599).
+In FAF every game is assumed to have a draw probability of 10%. It might look like an overestimation, however the difference for measuring ranking correctly is in fact [negligible](https://forums.faforever.com/viewtopic.php?f=45&t=11698#p119599).
 
 ## Inflation
 
