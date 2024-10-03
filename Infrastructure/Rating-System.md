@@ -2,7 +2,7 @@
 title: Rating-System
 description: 
 published: true
-date: 2024-06-20T13:15:23.494Z
+date: 2024-10-03T00:08:46.695Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:47.976Z
@@ -20,21 +20,9 @@ TrueSkill however, can handle any match-up. Teams are the weighted sum of the pl
 
 ## Draws
 
-The ELO system handles draws differently from Trueskill. For Elo, a draw is simply a half-win half-lost game.
+The ELO system and the FAF implementation of Trueskill are quite similar. For Elo, a draw is simply a half-win half-lost game. TrueSkill considers draws as a meaningful outcome: You were matched with an equally skilled opponent.
 
-TrueSkill measures a drawn outcome very differently Each map has a draw percentage based on all of the outcomes of games played on that map. TrueSkill considers draws as a meaningful outcome: You were matched with an equally skilled opponent.
-
-But Let's consider two players with the same skill.
-
-On a map where draws are more unlikely, a draw game will lead to no difference in skill, but the system is learning the player better (actual skills are accurate - see below). That result will also increase the overall draw probability for that map.
-
-However, on a map like "Winter Duel" for example, where draws are a more likely outcome a draw is expected as a result, so the skill won't move, but the system doesn't know the players better, so that game is meaningless compared the "normal" map case. That result will also increase the draw probability on Winter Duel.
-
-Now let's say that player 1 win.
-
-On the "normal" map, the player will gain points, for example, 's sake say a gain +4 points, and the loser receives a penalty of -4. That result will decrease the draw probability on that map. 
-
-Now, on the Winter Duel map a draw was a more likely outcome, the fact that player 1 wow means that he is significantly better than his opponent. As a result, his rating will be revised upwards, so instead of +4, he will gain +6, and the loser -6 for example. That result will then decrease the draw probability on Winter Duel. 
+In FAF every game is assumed to have a draw probability of 10%. It might look like an overestimation, however the difference for measuring ranking correctly is in fact [neglible](https://forums.faforever.com/viewtopic.php?f=45&t=11698#p119599).
 
 ## Inflation
 
