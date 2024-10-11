@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-09-24T16:31:02.040Z
+date: 2024-10-11T18:43:49.195Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -54,6 +54,8 @@ The promotion team manages the following accounts:
 - Reddit: todo
 - [YouTube](https://www.youtube.com/@ForgedAllianceForever). The channel is a [brand account](https://support.google.com/youtube/answer/7001996) and team members can collaborate by having their personal Google accounts being provided permission to act as the brand.
 - [Newshub powered by Wordpress](https://direct.faforever.com/wp-login.php). Team members can receive their own account and through that account they can create posts for the newshub.
+- [Twitch](https://www.twitch.tv/faflive). Team members can collaborate [by being given permission](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US#Authorized) to stream on the channel. Note that the primary stream key should never be shared, as the warning suggests.
+- - In addition there is a [nightbot](https://nightbot.tv) and [streamlabs](https://streamlabs.com/) account directly connected to the Twitch account. You may need to re-authorize when trying to log in - that is fine.
 
 And occasionally we post on [Patreon](https://www.patreon.com/faf). Separately we have a promo at faforever dot com email account. 
 
