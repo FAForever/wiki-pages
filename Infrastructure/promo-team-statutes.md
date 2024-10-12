@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-10-12T05:25:35.678Z
+date: 2024-10-12T05:32:43.570Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -96,12 +96,7 @@ The role of a content manager is similar to the role of a lead. You help streaml
 
 ## Team lead
 
-The team lead is liaison between the promotions team and board of the association and/or other teams. The team lead has access to all the (social) media. This includes the following media:
-
-- [YouTube](https://www.youtube.com/c/ForgedAllianceForever)
-- [Wordpress](https://direct.faforever.com/wp-login.php) (for the news hub)
-
-The team lead is to be voted upon by team members. When a team lead is unavailable then two team members may request a vote to replace the current team lead. 
+The team lead is liaison between the promotions team and board of the association and/or other teams. The team lead is to be voted upon by team members. When a team lead is unavailable then two team members may request a vote to replace the current team lead. 
 
 ## Team operations
 
