@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-09-08T17:22:08.888Z
+date: 2024-10-13T17:30:54.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -34,7 +34,9 @@ These AI are being actively developed with recent updates.  If you have feedback
 ![m28ai.jpg](/m28ai.jpg)
 *Author: maudlin27*
 Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  Compared with M27AI, M28AI aims to provide a more CPU-performant AI that works better in team game scenarios (while still being a deadly 1v1 opponent), applying a decentralised approach to AI decisions to work more effectively on larger maps.  Slightly stronger than M27AI on most maps (as at February 2024), with greater mod and map setting support, and runs roughly twice as fast.  While M28AI uses advanced micro, a 'low micro' M28Easy version is also available, and both feature an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game.
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  M28AI uses advanced micro tactics coupled with strong macro decisions, applying a a decentralised 'hive-mind' type approach to AI decisions and a special AI memory system to work effectively on larger maps and in teamgames (while still being a deadly 1v1 opponent).  It is compatible with a wide range of mods, maps, and unusual game settings (including unit restrictions), and also has a wide range of configuration options to refine your experience coupled with an alternative M28Easy version that disables its microing capabilities.
+
+Examples of custom options include an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game, and a unique hybrid AI mode that allows you to have M28AI manage some of your units while you manage others (including, at the extreme, a MOBA setting that turns FAF into a MOBA game).
 
 A unique hybrid AI mode is also provided where you can choose M28AI to manage some of your units while you manage others.
 
