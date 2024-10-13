@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-10-13T17:30:54.084Z
+date: 2024-10-13T17:31:20.632Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -34,7 +34,7 @@ These AI are being actively developed with recent updates.  If you have feedback
 ![m28ai.jpg](/m28ai.jpg)
 *Author: maudlin27*
 Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  M28AI uses advanced micro tactics coupled with strong macro decisions, applying a a decentralised 'hive-mind' type approach to AI decisions and a special AI memory system to work effectively on larger maps and in teamgames (while still being a deadly 1v1 opponent).  It is compatible with a wide range of mods, maps, and unusual game settings (including unit restrictions), and also has a wide range of configuration options to refine your experience coupled with an alternative M28Easy version that disables its microing capabilities.
+Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  M28AI uses advanced micro tactics coupled with strong macro decisions, applying a a decentralised 'hive-mind' type approach to AI decisions and a special AI memory system to work effectively on larger maps and in teamgames (while still being a deadly 1v1 opponent).  It is compatible with a wide range of mods, maps, and unusual game settings (including unit restrictions), and also has a wide range of configuration options to refine your experience as well as an alternative M28Easy version that disables its microing capabilities.
 
 Examples of custom options include an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game, and a unique hybrid AI mode that allows you to have M28AI manage some of your units while you manage others (including, at the extreme, a MOBA setting that turns FAF into a MOBA game).
 
