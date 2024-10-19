@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-10-19T20:54:14.040Z
+date: 2024-10-19T21:52:37.426Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:41:53.721Z
 
 # AI Modding
 ## Overview - Custom AI development
-FAF has several custom AI - a [separate summary available of the various AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
+FAF has a number of custom AI available via mods - a [separate summary is available of the various custom AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
 
 The below page is for if you are interested in creating your AI in FAF.  AI development in FAF uses LUA, with details given below for setting up a development environment for writing code in LUA.
 
