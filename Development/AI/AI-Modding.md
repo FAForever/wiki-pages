@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-10-19T20:47:46.868Z
+date: 2024-10-19T20:54:14.040Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -21,6 +21,9 @@ Simplistic AIs have also been published for both these approaches and are recomm
 * Custom style simplistic AI - Mini27AI
 
 Given the difference in approaches with the AI, various sections below may be relevant to one or both approaches.  The headers should include "General", "Custom style AI" or "GPG style AI" to indicate which approach the content is most relevant for (with general being applicable to both).
+
+In addition to the below page, you can also ask questions from other AI devs in the [AI development discord](https://discord.gg/pUyGmkyNrj).
+
 
 ## (General) Detailed pseudo-guide
 An [AI development guide](https://docs.google.com/document/d/1puzW5hKcOBNE7wu7bXj6qXfTJ60r2f93/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true) that was created alongside a development log for one of the AIs (M27AI) is available, with the below-containing extracts from this and other sources.  Note though that this guide will be slightly outdated.
