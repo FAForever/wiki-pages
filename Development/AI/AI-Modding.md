@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-10-19T20:43:18.896Z
+date: 2024-10-19T20:47:46.868Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -16,7 +16,9 @@ The below page is for if you are interested in creating your AI in FAF.  AI deve
 
 What sections of this page are of most relevant to you will depend in part on what approach you want to take with your AI.  Broadly, there are two main options - an AI that makes use of some of the built in functionality used by the original GPG developers (for example, 'builders' that can be used to decide what engineers and factories build, and a 'platoon' system that manages groups of units together similarly to how a player uses a control group), such as RNGAI; an AI that uses custom code to handle these and other scenarios such as M28AI; or some sort of hybrid, such as M27AI.
 
-Simplistic AIs have also been published for both these approaches and are recommended as a starting point since they should be much easier to follow and build on than trying to analyse some of the more established FAF AIs.  For the 'GPG' approach, MicroAI provides a starting point (albeit it may require some work to make it work on FAF due to changes in the FAF architecture), while for a 'custom AI' approach Mini27 provides a starting point.
+Simplistic AIs have also been published for both these approaches and are recommended as a starting point since they should be much easier to follow and build on than trying to analyse some of the more established FAF AIs.  See below for links to the AI code for these and further details on them.
+* GPG style simplistic AI - MicroAI
+* Custom style simplistic AI - Mini27AI
 
 Given the difference in approaches with the AI, various sections below may be relevant to one or both approaches.  The headers should include "General", "Custom style AI" or "GPG style AI" to indicate which approach the content is most relevant for (with general being applicable to both).
 
