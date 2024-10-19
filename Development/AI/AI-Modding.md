@@ -2,25 +2,31 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-08-04T08:07:04.711Z
+date: 2024-10-19T20:43:18.896Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
 ---
 
 # AI Modding
-## Custom AI
+## Overview - Custom AI development
 FAF has several custom AI - a [separate summary available of the various AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
 
-The below page is for if you are interested in creating your AI in FAF.
+The below page is for if you are interested in creating your AI in FAF.  AI development in FAF uses LUA, with details given below for setting up a development environment for writing code in LUA.
 
-## Detailed guide
-An [AI development guide](https://docs.google.com/document/d/1puzW5hKcOBNE7wu7bXj6qXfTJ60r2f93/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true) that was created alongside a development log for one of the AIs is available, with the below-containing extracts from this and other sources.
+What sections of this page are of most relevant to you will depend in part on what approach you want to take with your AI.  Broadly, there are two main options - an AI that makes use of some of the built in functionality used by the original GPG developers (for example, 'builders' that can be used to decide what engineers and factories build, and a 'platoon' system that manages groups of units together similarly to how a player uses a control group), such as RNGAI; an AI that uses custom code to handle these and other scenarios such as M28AI; or some sort of hybrid, such as M27AI.
+
+Simplistic AIs have also been published for both these approaches and are recommended as a starting point since they should be much easier to follow and build on than trying to analyse some of the more established FAF AIs.  For the 'GPG' approach, MicroAI provides a starting point (albeit it may require some work to make it work on FAF due to changes in the FAF architecture), while for a 'custom AI' approach Mini27 provides a starting point.
+
+Given the difference in approaches with the AI, various sections below may be relevant to one or both approaches.  The headers should include "General", "Custom style AI" or "GPG style AI" to indicate which approach the content is most relevant for (with general being applicable to both).
+
+## (General) Detailed pseudo-guide
+An [AI development guide](https://docs.google.com/document/d/1puzW5hKcOBNE7wu7bXj6qXfTJ60r2f93/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true) that was created alongside a development log for one of the AIs (M27AI) is available, with the below-containing extracts from this and other sources.  Note though that this guide will be slightly outdated.
 
 See also the [forum post relating to this AI](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v13-devlog) which includes a link to the devlog.
 
 
-## Before you start
+## (General) Before you start
 It is always good to have some knowledge of how you want your AI to play out. So before you create an AI, it is recommended that you have a good idea of how the features of Forged Alliance work, e.g. The Economy, and different unit roles.
 
 You will need a text editor of some kind:
@@ -28,7 +34,7 @@ You will need a text editor of some kind:
 - Sublime Text or Notepad ++ will do.
 - IntelliJ IDEA with the EmmyLua plugin works well (some of its useful features include autosaving changes, good search functionality, text highlighting and prompts, error identification, a shortlist of variables and functions in a file, and compatible with the GitHub desktop).
 
-## Setup info
+## (General) Setup info
 
 To add an AI to the game we need to load our code in the FA init file, it can't be done through the usual modding means.
 
@@ -38,7 +44,7 @@ Some root folders we'll use when modding:
 
 2) **/schook/** - this houses code that gets appended to the rest of the moddable files on startup, so **/schook/lua/** will get added to the end of stuff in **/lua/**
 
-## AI Coding Overview: LUA (general)
+## (General) AI Coding Overview: LUA
 Lua is used for any AI coding/editing.  Useful more general links to learning Lua are given below.
 
 - Coding in Lua:
@@ -79,20 +85,7 @@ I’ve noted some of the errors I would frequently make in case they’re of hel
 
 -	Full stops vs colons – continuing the above example, oUnit.GetUnitId() will return an error, but oUnit:GetUnitId() won’t.  (with thanks to Speed2 – the reason for this is that oUnit:GetUnitId() is syntactic sugar for oUnit.GetUnitId(self). So if you want to use the version with. you have to pass self as the first arg).
 
-
-## AI Coding Overview: How to create/edit an AI in FAF
-The following diagram illustrates the code you might need or want to edit to create an AI using the default framework (see later on for the Mini27AI example for an alternative approach that operates outside this framework):
-![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg)
-
-Each item corresponds to a file in the Forged Alliance Lua code, with a basic description and file location included.
-
-The items with a bold outline are what we'll need to edit to create a basic AI; other items are only needed for more advanced AI modding which we won't cover here.
-
-Thanks to chp2001 for the following diagrams which also give an overview of how AI works
-![howaiworks.png](/howaiworks.png)
-![howaiworks-buildsomethign.png](/howaiworks-buildsomethign.png)
-
-## Adding an AI to the lobby
+## (General) Adding an AI to the lobby
 
 To do that we need to get a little info about our AI into the **aitypes** table in **/lua/ui/lobby/aitypes.lua**
 
@@ -136,7 +129,17 @@ Tooltips.aitype_mycustomai2 = { title = "AI: Custom 2", description = 
 Tooltips.aitype_mycustomaix = { title = "AIx: Custom", description = "This AI cheats so is marginally less epic :(", }
 ```
 
-## Worked example - Mini27AI
+
+## (General) AI approach and custom vs default AI logic
+
+When deciding how to create your AI mod, there are a number of build in functions and logic which you could potentially use.  Alternatively, you could choose to write your AI's logic from the ground up via a custom approach.
+
+The advantage of a custom approach is flexibility and clarity, with greater long term potential but the downside is it will likely require more time to get the AI to a semi-competent level.
+
+The following AI development guide is primarily aimed at people making use of the default AI logic/approach.  If you are interested in creating the logic yourself the [Mini27AI mod](https://github.com/maudlin27/Mini27AI) has been released to provide a basic starting point/proof of concept.  Some of the below comments will also still be relevant to the custom AI approach.
+
+
+## (Custom style AI) Worked example - Mini27AI
 Following updates to FAF, the file hook\lua\aibrains\index.lua is also needed to refer to the relevant code for your aiBrain.  The Mini27AI mod was created following this to provide a worked example of how to get an AI mod working at a basic level.
 
 The steps followed for the initial setting up of the AI (to show in the lobby) and running of custom code were:
@@ -156,14 +159,14 @@ The steps followed for the initial setting up of the AI (to show in the lobby) a
 The commit relating to this is:
 https://github.com/maudlin27/Mini27AI/commit/3253ece2a6d535203db21080dbf05d984b3b8017
 
-## Overview of Mini27AI's logic
+## (Custom style AI) Overview of Mini27AI's logic
 The following diagram shows the logic flows for the (very simplistic) Mini27AI implementation:
 
 ![mini27ai_logic_overview.png](/mini27ai_logic_overview.png)
 
 Note this isn't intended as a 'recommended' approach, but rather a starting point (for example, an obvious flaw in Mini27AI's approach for attacking units is when a unit is built it attacks the nearest visible enemy, and only reassesses its target when that unit dies.  However, the nearest enemy is likely to change over the course of the game, and you don't necessarily want your entire army to all attack the nearest enemy unit).
 
-## Creating your own AI based on Mini27AI
+## (Custom style AI) Creating your own AI based on Mini27AI
 The following is an example of how to get your own repository setup for your AI, making use of Intellij IDEA and Github Desktop, and is intended for someone with no experience of these/little programming experience more generally (it's also not the only way of doing this, or even the best, and it's also not a comprehensive list of steps as they have been written out based on the author's memory).
 
 * Download the Mini27AI folder to your FAF mods folder:
@@ -204,17 +207,19 @@ The following is an example of how to get your own repository setup for your AI,
   - You could also use branches to test out different competing ideas/changes - tutorials are available elsewhere online on using github, branches, etc.
   - Mini27AI is deliberately intended as a 'barebones' illustration/proof of concept of how to do certain AI tasks, with various aspects that could be easily improved.  For example, you might choose to add in engineer logic (both getting the land factory to build engineers, and then assigning orders to engineers) - the existing code should indicate how this can be achieved by copying some of the existing code and tweaking the copied code and category references.
 
+## (GPG style AI) Coding Overview: How to create/edit an AI in FAF
+The following diagram illustrates the code you might need or want to edit to create an AI using the default framework (see later on for the Mini27AI example for an alternative approach that operates outside this framework):
+![forged_alliance_ai_lua_breakdown.jpg](/images/ai/forged_alliance_ai_lua_breakdown.jpg)
 
+Each item corresponds to a file in the Forged Alliance Lua code, with a basic description and file location included.
 
-## AI approach and custom vs default AI logic
+The items with a bold outline are what we'll need to edit to create a basic AI; other items are only needed for more advanced AI modding which we won't cover here.
 
-When deciding how to create your AI mod, there are a number of build in functions and logic which you could potentially use.  Alternatively, you could choose to write your AI's logic from the ground up via a custom approach.
+Thanks to chp2001 for the following diagrams which also give an overview of how AI works
+![howaiworks.png](/howaiworks.png)
+![howaiworks-buildsomethign.png](/howaiworks-buildsomethign.png)
 
-The advantage of a custom approach is flexibility and clarity, with greater long term potential but the downside is it will likely require more time to get the AI to a semi-competent level.
-
-The following AI development guide is primarily aimed at people making use of the default AI logic/approach.  If you are interested in creating the logic yourself the [Mini27AI mod](https://github.com/maudlin27/Mini27AI) has been released to provide a basic starting point/proof of concept.  Some of the below comments will also still be relevant to the custom AI approach.
-
-## AI Specification
+## (GPG style AI) AI Specification
 
 Please Note! AI **Keys** (Identifiers) are really important for this part. Make sure they are unique!
 
@@ -252,7 +257,7 @@ BaseBuilderTemplate {
 ```
 Feel free to use the example above to help get you started.
 
-## AI Example, and getting started using MicroAI as a starting point
+## (GPG style AI) AI Example, and getting started using MicroAI as a starting point
 
 A bare-bones AI implementation is available on [GitHub](https://github.com/HardlySoftly/Forged-Alliance-AI)
 - Including MicroAI
@@ -269,7 +274,7 @@ To avoid conflicts with other AI (which can lead to your and/or their AI not wor
 -	Update the mod_info.lua file to change the uid to a different unique reference
 In addition, whenever using hooks I’d strongly recommend using some sort of unique prefix for all functions and global variables to avoid conflict with other AIs (which can lead to game crashes and AI not functioning at all).
 
-## Other setup and general information
+## (General) Other setup and general information
 -	Github
 
 Even if you're planning on developing your AI on your own rather than collaboratively, GitHub still has benefits some of which are summarised below 
@@ -317,7 +322,7 @@ For example, if you have a function that is passed a variable builder that repre
 local iBuildDistance = builder.Blueprint.Economy.MaxBuildDistance
 ```
 
-## Hooking
+## (General) Hooking
 To give more flexibility over what we change, we want to be able to edit some of the core game code that is used by the AI.  ‘Hooks’ are a way of doing this, where you can append your code to an existing code file.
 
 The following links give more details/examples on hooking:
@@ -350,7 +355,7 @@ If you want to hook other files or functions, then first determine the file name
 
 For example, you can use hooks to create your custom code that will run on certain events (e.g. when a unit takes damage; when a weapon is fired; etc.)
 
-## Debugging
+## (General) Debugging
 - Console
 
 `'` opens up the console menu, which has some commands (although I’ve not tended to use these): https://supcom.fandom.com/wiki/Console
@@ -480,7 +485,7 @@ You can then save it to:
 `C:\Users\[yourusername]\Documents\My Games\Gas Powered Games\Supreme Commander Forged Alliance\replays\FAF_[yourfafusername]`
 And then view the replay from the Replays menu when running the offline client (you'll need to try and view the replay using a consistent version of FAF, including either the FAFDevelop or normal FAF executable based on which was used for the replay).
 
-## Detailed AI framework mechanics
+## (GPG style AI) Detailed AI framework mechanics
 
 There are various classes that drive the default AI.
 
@@ -528,7 +533,7 @@ Files
 */lua/sim/builder.lua*
 
 
-### BuilderManager Class
+### (GPG style AI) BuilderManager Class
 The BuilderManager class is a base class that the 3 main builder managers inherit when being instantiated.
 
 It contains certain attributes that are common to the managers. 
@@ -547,7 +552,7 @@ The builder manager class contains shared functions that deal with the builder o
 Files
 */lua/sim/buildermanager.lua*
 
-### FactoryManager Class
+### (GPG style AI) FactoryManager Class
 The factory manager class drives any factories that are assigned to the manager. It contains functions and data structures specifically for the factory managers. 
 
 The process for adding factories happens within the EngineerManager where a function will be called when an OnUnitBuilt callback triggers. There is also a callback that is triggered, when a factory is captured it will add the factory to the manager that the engineer which captured it belongs to.
@@ -572,7 +577,7 @@ There is also a rally point monitor that will check if a structure is within a 1
 Files
 */lua/sim/factorymanager.lua*
 
-### PlatoonForm Manager Class
+### (GPG style AI) PlatoonForm Manager Class
 The platoonform manager class is a relatively small class that contains functions and attributes for the manager. Its primary function is to form platoons based on the builders of type PlatoonFormBuilder. 
 The main function ist he ManagerLoopBody, this function will run one instance of the same function name within the BuilderManager class and the location ManagerLoopBody within the platoonform manager class. The ManagerLoopBody is called by the Manager Thread in the BuilderManager base class. It will will perform the following task.
 Check the builder priority is greater or equal to 1. So a priority of zero will not trigger any platoons. It will also verify the instance count of the builder. It will then get the army pool and platoon template data. It will run the platoon function CanFormPlatoon with the template, platoonsize, location and radius. If this returns true and the builder status (condition checks) are true it will form the platoon using the FormPlatoon function.
@@ -585,7 +590,7 @@ Some AI developers will also build custom threads to handle structure upgrades w
 Files
 */lua/sim/platoonformmanager.lua*
 
-### EngineerManager Class
+### (GPG style AI) EngineerManager Class
 The engineer manager is responsible for directing all engineers that exist under a specific base. It contains functions and data leveraged by engineers and some supporting management threads. The engineer manager does contain some utility functions that were originally designed to allow economy management based on low resource callbacks but these are disabled in FAF as they did not function correctly.
 
 When a unit is built by a factory the factory manager callback will check if the unit category is an engineer and if so it will call the AddUnit function of the engineer manager using the LocationType of the factory manager to decide the engineer manager instance that will be joined.
@@ -599,7 +604,7 @@ The AssignEngineerTask will check if the unit is currently engaged in another ta
 Files
 */lua/sim/engineermanager.lua*
 
-#### Considerations
+#### (GPG style AI) Considerations
 
 It is worth noting that both the engineer manager and factory manager are self driven. Meaning that each individual unit drives the selection of builders. The more units that exist under the manager the more load on the manager. The platoonform manager by comparison runs a looping thread that is constantly trying to create platoons. This difference in functionality is the main reason why the platoonform manager is the heavier of the 3.
 
@@ -611,7 +616,7 @@ This is a difficult problem to work around with the default framework, the TaskF
 
 There are other possible solutions that developers can try but often they will require modifying the core framework. One such solution was to create a floating engineer manager (no factory manger or platoonform manager) that focuses on extractor builders and reclaim builders, once an engineer is beyond a certain radius from its base it will join this manager which only contains builders that operate at range making an engineer far less likely to return to a base wasting efficiency. Though the bases need to be good at maintaining certain engineer counts so that enough build power is available at all times.
 
-## Base Creation Process
+## (GPG style AI) Base Creation Process
 **Main Base**
 When a game starts the AI will create its first base, which is always called **MAIN**. The process starts with the OnCreateAI function housed within the AI brain. 
 
@@ -634,7 +639,7 @@ It will start the 3 types of Builder Managers then remove the engineer from its 
 Note that this process happens BEFORE the engineer starts moving to the new base, this means that if the engineer is killed while in transit there will be an empty base manager sitting there. There is a DeadBaseMonitor thread that runs every 5 seconds looking for bases that have no engineers or factories and if found it will disable and destroy the various managers. This process is done to avoid multiple engineers picking up an expansion job for the same base multiple times before the first has arrived.
 
 
-## AI Builders
+## (GPG style AI) AI Builders
 Refer to the diagrams in the "AI Coding Overview: How to create/edit an AI in FAF" section above which give an overview of how AI builders fit into the wider FAF AI.
 
 If you're new to FAF then it's probably easiest to learn how AI builders work and how to change them by taking the existing Micro AI (see above for a link on how to download this) and editing it for specific scenarios.  Some examples are given below.
