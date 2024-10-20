@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-10-13T14:16:08.090Z
+date: 2024-10-20T20:06:39.164Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -32,7 +32,7 @@ These are the current Team Leaders:
 	>	**Stormlantern**
 
 - **Balance Team Leader:** 
-	>	**Tagada**
+	>	**Rhaelya**
 
 - **Games Team Leader:** 
 	>	**BlackYps**
@@ -229,18 +229,19 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 ### Balance Team
 #### Team Lead
 
-- Tagada
+- Rhaelya
 
 #### Members
 
 - Turin
 - Farmsletje
-- Rhaelya
+- Tagada
 - Rowey
 
 #### Associates
 
 - Stormlantern
+- Orb
 - Blodir
 - SpikeyNoob
 - Archsimkat
