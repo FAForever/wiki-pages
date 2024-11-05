@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-05T01:23:44.765Z
+date: 2024-11-05T01:23:53.853Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -240,7 +240,7 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 #### Associates
 
-- Stormlantern
+- StormLantern
 - Orb
 - Blodir
 - SpikeyNoob
