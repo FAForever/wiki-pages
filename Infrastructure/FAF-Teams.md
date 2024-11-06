@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-05T01:23:53.853Z
+date: 2024-11-06T17:19:23.738Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -189,9 +189,12 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 - FTXCommando
 - Blodir
 - Tagada
-- Morax
-- Yudi
 - SpikeyNoob
+- Karateka
+- Sladow
+- Grimplex
+- Soulripper
+- Vindex
 
 #### Policies
 ##### Primary Objectives
