@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-06T17:19:23.738Z
+date: 2024-11-16T20:07:55.477Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -61,7 +61,6 @@ These are the current Team Leaders:
 - LimeZ
 - Maudlin27
 - Paradox_of_War
-- IndexLibrorum
 - Seraphim-Com
 - Skrat
 - Strydxr
