@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-16T20:07:55.477Z
+date: 2024-11-16T20:08:23.462Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
