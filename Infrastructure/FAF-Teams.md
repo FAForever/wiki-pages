@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-16T20:08:23.462Z
+date: 2024-11-22T14:49:44.071Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -52,9 +52,15 @@ These are the current Team Leaders:
 ## The Teams
 
 ## Tabs {.tabset}
+
 ### Trainer Team
 
-- Cheeseberry
+#### Team lead:
+
+- CheeseBerry
+
+#### Team Members:
+
 - FtXCommando
 - Grimplex
 - Judoka1972
@@ -69,24 +75,76 @@ These are the current Team Leaders:
 - WillowWisppsi
 - Sladow
 
-#### Policies
-We are a group of interested people in the development of the faf community. Our goals are providing opportunities to new players to develop their own skills and adapting them within the community.
 
-#### Team Membership
-- Applicants apply by contacting the leader of the team.
-- Applicants are discussed and voted on by the team with a majority required to join.
-- Team members may be removed due to not being suitable for this role.
+#### The team
 
-#### Responsibilities
-- Help out players on the FAF discord. This includes analyzing replays.
-- Contribute guides making and other things related to them.
+We are a group of people committed to fostering the growth and development of the FAF community. Our mission is to support players in enhancing their skill and building a comprehensive knowledge repository to benefit as many players as possible.
 
-##### Team leader
-This is the face of the team.
-The team leader is elected by a team vote.
-The team leader can be changed by the request of at least 50% of team members at any time.
-The team leader is the default point of contact with the board and other teams.
+All team members are expected to act in accordance with the [Code of Conduct](https://forum.faforever.com/topic/2051/faf-code-of-conduct/1) of our community. Most importantly: Be welcoming, be empathetic, be kind, and be patient.
+
+#### Roles
+
+The trainer team currently consists of two roles:
+
+ - Team Lead
+ - Trainer
+
+##### Team Lead
+
+The team lead is responsible for fulfilling the administrative duties of the team. This includes being the default point of contact with the board and other teams and the handling of procedures outlined here, such as overseeing membership votes.
+
+The team lead has veto power regarding team membership applications.
+
+The team lead serves until they resign, get replaced via a vote of no confidence (see below) or are removed by the FAF board.
+
 If there is a team vote that results in a tie, that team leader acts as the tiebreaker.
+
+##### Trainers
+
+
+All trainers are expected to do some of the following:
+
+- Answering questions and being generally helpful for players trying to improve. 
+- Analyzing replays.
+- Live gameplay coaching.
+- Contributing guides, wiki pages and related things.
+
+##### Joining the team
+
+Applicants apply by contacting the team lead. Write a paragraph or two about who you are, how long you have played FAF, why you want to join the trainer team, how you plan to contribute and anything you think might be of interest.
+
+The application will then be discussed and voted on internally.
+
+##### What your profile is
+
+There are no must have qualities required for you to become a trainer, although some combination of the following is helpful:
+
+- You are a competent player (preferably at least 1.8k rated in matchmaker/global).
+- You are an active member of the community.
+- You have concrete ideas to improve the knowledge landscape of FAF.
+- You enjoy teaching and sharing knowledge with others.
+- You communicate clearly and respectfully.
+- You have some other unique skill or knowledge that sets you apart from the other currently active trainers.
+
+##### Procedures
+
+All votes are done in the team exclusive (trainer team discord)[https://discord.com/channels/197033481883222026/871523065425702912]. Votes cast are public.
+
+The team lead is elected via instant-runoff voting. Once a vote is called members have one week to apply to become team lead candidates. The voting period is also one week. The team lead may conclude a vote early if the accumulated votes have already reached the required threshold, regardless of how the remaining team members vote.
+
+The team lead can be removed via a constructive vote of no confidence by the team members. To start this process, 33% of current trainer team members must state their support for doing so with at least one willing alternative candidate stating their intentions to run for lead. After a vote of no confidence is triggered this way, team lead elections proceed normally
+
+Team lead resignation triggers an immediate team lead election. Preferably, a resigning team lead comes with a suggestion of a willing successor candidate.
+
+All non team lead votes are initiated by the team lead and carried out using approval voting with a one week voting period. The vote thresholds refer to a percentage of votes cast needed for a change to take effect. The non team lead votes are:
+- Membership applications: 50% vote threshold
+- Membership removal: 66% vote threshold
+- Statute changes. Draft to vote on proposed by the team lead, 66% vote threshold.
+
+
+##### Notes
+Instant-runoff voting, also named Alternative Vote, explained: https://www.youtube.com/watch?v=3Y3jE3B8HsE
+
 
 ### Promotions Team
 
