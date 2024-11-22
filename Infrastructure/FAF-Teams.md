@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-22T14:49:44.071Z
+date: 2024-11-22T15:24:34.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -128,7 +128,7 @@ There are no must have qualities required for you to become a trainer, although 
 
 ##### Procedures
 
-All votes are done in the team exclusive (trainer team discord)[https://discord.com/channels/197033481883222026/871523065425702912]. Votes cast are public.
+All votes are done in the team exclusive [trainer team discord](https://discord.com/channels/197033481883222026/871523065425702912). Votes cast are public.
 
 The team lead is elected via instant-runoff voting. Once a vote is called members have one week to apply to become team lead candidates. The voting period is also one week. The team lead may conclude a vote early if the accumulated votes have already reached the required threshold, regardless of how the remaining team members vote.
 
