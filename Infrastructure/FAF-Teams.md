@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-22T15:41:53.914Z
+date: 2024-11-27T21:46:09.778Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -414,6 +414,10 @@ discord, forum, and other FAF managed platforms.
 - Team members can be dropped from the team due to long inactivity or being deemed no longer suitable for the position
 - Moderation team members can be split between global moderators, discord moderators, IRC moderators and forum moderators
 ### DevOps Team
+
+DevOps = "Development and Operations"
+
+The DevOps team is reponsible for developing and administrating the technical infrastructure of FAForever.
 
 For more information, see the following page:
 
