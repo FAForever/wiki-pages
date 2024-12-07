@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-11-27T21:46:09.778Z
+date: 2024-12-07T17:14:23.455Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -17,7 +17,7 @@ The FAF Teams are groups of FAF contributors who are tasked with diffrent aspect
 These are the current Team Leaders:
 
 - **Trainer Team Leader** 
-	> **Cheeseberry**
+	> **Strydxr**
   
 - **Promotions Team Leader:** 
 	>	**Jip**
@@ -57,7 +57,7 @@ These are the current Team Leaders:
 
 #### Team lead:
 
-- CheeseBerry
+- Strydxr
 
 #### Team Members:
 
@@ -69,11 +69,11 @@ These are the current Team Leaders:
 - Paradox_of_War
 - Seraphim-Com
 - Skrat
-- Strydxr
 - Terminal
 - TheDuelist
 - WillowWisppsi
 - Sladow
+- CheeseBerry
 
 
 #### The team
