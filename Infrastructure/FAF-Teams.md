@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-12-07T17:14:23.455Z
+date: 2024-12-24T20:07:19.005Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -29,7 +29,7 @@ These are the current Team Leaders:
 	>	TBD
   
 - **Matchmaking Team Leader:** 
-	>	**Stormlantern**
+	>	**Archsimkat**
 
 - **Balance Team Leader:** 
 	>	**Rhaelya**
@@ -240,9 +240,9 @@ In cases where a Manager must be replaced, 66% of the Senior TDs can submit a pe
 
 ### Matchmaking Team
 #### Team lead
-- Stormlantern
-#### Members
 - Archsimkat
+#### Members
+
 - FTXCommando
 - Blodir
 - Tagada
