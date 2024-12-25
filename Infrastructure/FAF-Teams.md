@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-12-25T17:18:43.584Z
+date: 2024-12-25T17:29:00.987Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -239,9 +239,10 @@ Senior TDs vote for a new Manager on an annual basis after the annual FAF Genera
 In cases where a Manager must be replaced, 66% of the Senior TDs can submit a petition to the Board
 
 ### Matchmaking Team
+
 For more information, see the following page:
 
-    Matchmaker team statutes: https://wiki.faforever.com/en/Infrastructure/Matchmaker-team-statutes
+- [Matchmaker team statutes](/Infrastructure/Matchmaker-team-statutes)
 
 ### Balance Team
 #### Team Lead
