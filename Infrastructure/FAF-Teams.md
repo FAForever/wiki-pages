@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-12-25T17:29:00.987Z
+date: 2024-12-27T17:13:09.279Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -206,12 +206,14 @@ Board.
 ###### FAF Tournament Manager:
 
 ##### FAF Senior TDs:
-- NOC
+- hybrid_
 ##### FAF TDs:
-- Pryanichek
+- Doni aka InsidiousNoob
 - Fearghal
-- TRU_Putin
-- Lenkin
+- Rhaelya
+- Tagada
+- Syndicus
+- Farms aka TheWeakie
 
 #### Policies
 ##### Requirements for being a TD:
