@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-12-27T17:13:09.279Z
+date: 2024-12-27T17:13:39.553Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -26,7 +26,7 @@ These are the current Team Leaders:
 	> TBD
 
 - **Tournament Team Leader:** 
-	>	TBD
+	>	**hybrid_**
   
 - **Matchmaking Team Leader:** 
 	>	**Archsimkat**
