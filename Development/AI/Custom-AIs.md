@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-12-28T17:12:40.857Z
+date: 2024-12-28T17:14:19.585Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -54,6 +54,16 @@ AI is aimed at players wanting to learn 1v1 gameplay. It provides an avenue to p
 
 AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
 
+### AI-Uveso
+![uvesoai.jpg](/uvesoai.jpg)
+*Author: Uveso*
+Other mods required: None
+This AI is a turtle-focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
+
+The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain another custom AI (as of writing, March 2023, AI-Swarm,  Marlo's Sorian Edit, and Sorian AI).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
+
+AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
+
 ## AI not under active development
 
 Although no longer receiving updates, the following AI should still work in FAF.
@@ -73,17 +83,6 @@ Author: Degulum/!MarLo
 Other mods required: AI-Uveso
 Last updated: February 2024
 Based on the Sorian AI, this mod looks to make improvements to the logic to provide a more competitive experience.
-
-### AI-Uveso
-![uvesoai.jpg](/uvesoai.jpg)
-*Author: Uveso*
-Last updated: August 2023
-Other mods required: None
-This AI is a turtle-focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
-
-The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain another custom AI (as of writing, March 2023, AI-Swarm, Marlo's Sorian Edit, Sorian AI, and RNGAI, although RNGAI is expected to be updated to use separate map markers in the near future).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
-
-AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
 
 ### SCTA AI 
 ![sctarebalance_icon.png](/sctarebalance_icon.png)
