@@ -2,7 +2,7 @@
 title: Matchmaker Pools Documentation
 description: Documentation for how to curate pools for the matchmaker team
 published: true
-date: 2024-12-29T16:04:52.451Z
+date: 2024-12-29T16:06:21.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T16:04:52.451Z
@@ -24,6 +24,7 @@ dateCreated: 2024-12-29T16:04:52.451Z
      - Spam-focused maps
      - Eco maps
      - Navy maps
+   - Consider faction balance so that overall pool does not heavily favor one faction.
    - Consider difficulty levels; include easier maps for lower brackets.
 
 3. **Check Unknown Maps**  
