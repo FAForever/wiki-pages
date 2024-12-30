@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2024-05-09T00:00:01.801Z
+date: 2024-12-30T22:02:33.407Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -116,6 +116,10 @@ You can import heightmaps that you made using external programs into the editor,
 The placement of water in a map is directly influenced by the terrain's elevation. Water is set as a flat plane at a specific height, and any part of the terrain with an elevation below that set height will be submerged by the water. As you sculpt the terrain, the varying elevations defined directly impact where the water will be placed. When the terrain's elevation is lower than the set water height, that portion of the map will become submerged, creating lakes, rivers, or other bodies of water. 
 
 [Water settings](/en/Development/Mapping/FA-Forever-Map-Editor#water) can be adjusted to enhance the visual representation of water, such as its transparency, color, or reflections. These settings, in conjunction with the terrain, contribute to the overall aesthetics of the water within the map.
+
+FAF added the ability to change the water shader to a more realistic calculation of the absorption of light as it travels through the water. Originally the game uses linear absorption which works somewhat but is not great because exponential falloff is the physically correct one.
+For technical reasons this is controlled via the lighting multiplier. To enable advanced water absorption, set the lighting multiplier to 2.2 or greater. You can tune down the sun and ambient color accordingly to not mess up your lighting.
+After this change you might want to edit the water levels you are using, because the appearance of the water absorption will increase faster. To get roughly the old look you should double the height distance between the surface and the abyss level.
 
 To get the most out of the water settings, do the following:
 Firstly, use the same min and max for the water lerp, otherwise there will be weird effects close to the shore, because that setting actually paints the surface of the water. Instead, the water ramps should be used to color the ground of the terrain to your liking. This also ensures that units underwater will get shaded as expected.
@@ -284,9 +288,6 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 
 ## Using a different terrain shader
 FAF provides additional terrain shaders. These alter how the game renders the map and provide opportunity to improve the visual fidelity of the map. As this is pretty new, the tools for dealing with them are not really there yet, so the process is not as streamlined as the rest of mapmaking.
-
-To change the shader of the map you have to use a software to edit binary files like Hex-Editor MX. With this you open the scmap file in your map folder. Then you search for the string TTerrainXP. This is the name of the standard shader that the map uses. You can change this to make the map use one of the shaders that are explained below. Save the file afterwards.
-You may have to set up your map settings differently depending on what the shader expects as inputs. This is explained in detail in the following sections.
   
   
 ### Utility texture
@@ -310,11 +311,6 @@ The texture needs to be loaded in the upper albedo texture slot. The editor will
 
 To enable proper usage of this texture you need to set the scale of the upper albedo texture to a value bigger than the size of the map in ogrids (e.g. >513 for a 10x10 map). A value of 10000 will work for any map size.
 
-### Exponential water absorption
-The new terrain shaders can simulate exponential absorption of light as it travels through the water. Originally the game uses linear absorption which works somewhat but is not great because exponential falloff is the physically correct one.
-The game calculates the absorption on units in a different file, so we have to give it a hint to trigger exponential water absorption on the units as well. To do this, set the lighting multiplier to 2.2 or greater. You can tune down the sun and ambient color accordingly to not mess up your lighting. If you skip setting the light multiplier, the color of the sea floor and submerged units will not match, breaking the illusion.
-After this change you might want to edit the water ramp you are using, because the appearance of the water will change.
-
 ### Mapwide albedo texture
 Some of the new shaders use the stratum 7 albedo slot (layer 8 in ozonex editor) as a mapwide albedo texture. It works similar to the macrotexture as in the alpha channel controls the transparency directly. It doesn't react to the scale anymore and always perfectly covers the whole map.
 
@@ -322,58 +318,14 @@ Some of the new shaders use the stratum 7 albedo slot (layer 8 in ozonex editor)
 Some shaders feature improved sun reflection that can be controlled with roughness maps. This is achieved by implementing physically based rendering. This means you can use the roughness maps that you can find when you search online for PBR materials. The terrain will now react to light in a physically plausible way, in contrast to the rudimentary specular reflections that the game originally features.
 To use this, you need to provide a texture atlas with the roughness maps in the normal texture slot of layer 8. This texture atlas can be automatically generated with a mapgen tool.
 
-### Advanced splatting
-TODO
-
-### Biplanar mapping
-TODO
-
-### Rotated sampling
-This is for breaking up the texture repetition.
-TODO
-
-### Naming scheme
-The new shaders are organized by a naming scheme to make it easier to select the one you want and to add even more shaders in the future. All shaders are named 'Terrain' followed by a three-digit number. The numbers are used as follows
-
-The first digit shows the main category
-- Terrain0XX for shaders that don't use roughness maps or advanced splatting
-- Terrain1XX for shaders using roughness maps
-- Terrain2XX for shaders using advanced splatting
-- Terrain3XX for shaders using roughness maps and advanced splatting
-
-The second digit gives info about some technical properties of the shader with the range being divided into two halfes:
-- TerrainX0X to TerrainX4X for shaders with half mask range
-- TerrainX5X to TerrainX9X for shaders using the full mask range
-
-Due to an oversight by the original developers, the stratum masks in the standard shaders only work in the 128 to 255 value range and have no effect in the lower half. Annoyingly this only affects the albedo textures, the according normal textures interpret the masks in the full 0 to 255 range.
-This shader fixes this inconsistency by making both interpret the 128 to 255 value range (half range) or the 0 to 255 value range (full range) as 0 to 100%.
-We provide both options because this bug has been around for so long that many tools and mapmakers assume half range to be used, so this makes upgrading to a different shader easier.
-
-We can then use individual digits for different properties:
-- TerrainX0X and TerrainX5X for shaders without any additional properties
-- TerrainX1X and TerrainX6X for shaders using biplanar mapping
-- TerrainX2X and TerrainX7X for shaders using additional rotated sampling
-- TerrainX3X and TerrainX8X for shaders using biplanar mapping and additional rotated sampling
-
-This leaves us with the third digit to have enough room to create multiple shader variations of the same category.
 
 ### Available shaders
 
-#### Terrain001
-Terrain001 is designed as a drop-in replacement for TTerrainXP that solely introduces the exponential water absorption and map-wide normals and shadows. That's why it also keeps the half mask range for albedo layers and full mask range for normal layers.
+#### TTerrain
 
-#### Terrain002 and Terrain052
-These are very similar to Terrain001. The only difference is that they change how the texture masks get read for the stratum normals.
+#### TTerrainXP
 
-#### Terrain003 and Terrain053
-These additionally use the mapwide albedo texture and the red channel of the normal slot of layer 8 controls the amount of specular reflection. The other channels of the normal slot are unused.
-
-#### Terrain101 and Terrain151
-The normal map scales are controlled by the albedo scales to ensure that they use the same values.
-The layer mask of layer 8 acts as a roughness multiplier with 0.5 as the neutral value.
-They also use the mapwide albedo texture.
-
-#### Terrain301 and Terrain351
+#### Terrain301
 The normal map scales are controlled by the albedo scales to ensure that they use the same values.
 The layer mask of layer 8 acts as a roughness multiplier with 0.5 as the neutral value.
 Height processing happens at two scales, the albedo scales control the near scale and the normal scales control the far scale.
