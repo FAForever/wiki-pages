@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2024-12-30T22:02:33.407Z
+date: 2025-01-04T10:53:02.273Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -287,49 +287,46 @@ Remember that map-making is a dynamic and creative process, and continuous learn
 - Did you put a sun decal or other decals in your skybox?
 
 ## Using a different terrain shader
-FAF provides additional terrain shaders. These alter how the game renders the map and provide opportunity to improve the visual fidelity of the map. As this is pretty new, the tools for dealing with them are not really there yet, so the process is not as streamlined as the rest of mapmaking.
+FAF provides additional terrain shaders. These alter how the game renders the map and provide opportunity to improve the visual fidelity of the map. As this is pretty new, the tools for dealing with them are still in development, so the process is not as streamlined as the rest of mapmaking.
+The new shaders use special textures to control the new properties.
   
-  
-### Utility texture
-All the new shaders use a new utility texture to provide custom normals and terrain shadows. Previously this could be faked with decals, but the decals could sometimes flicker and it would lead to double shadows when units are standing in the terrain shadow. The new shaders resolve these problems by properly incorporating the texture into the rendering pipeline. This eliminates flickering and units standing in the shadow will not cast an additional shadow.
+### Terrain info texture
+All the new shaders use a new utility texture to provide custom terrain normals and terrain shadows. Previously this could be faked with decals, but the decals could sometimes flicker and it would lead to double shadows when units are standing in the terrain shadow. The new shaders resolve these problems by properly incorporating the texture into the rendering pipeline. This eliminates flickering and units standing in the shadow will not cast an additional shadow.
 The normal channels can be used to add additional details or to just correct the calculations that the game does. The calculations of the normal vector for the terrain by the game are a bit off, so it makes sense to provide your own.
 Providing the water depth with a texture is necessary because of technical limitations with the shader code of the game, but it also allows us to provide a higher resolution of the water depth texture than the game would generate internally.
-Shadow and normal maps can be produced with the help of world machine or gaea. The map generator will soon be able to generate the utility texture in one go.
+The map editor will soon be able to generate the utility texture in one go. If you want to generate the texture with external software, for example to control additional details in the normal map, you can find detailed specifications of the texture here:
 
-The texture channels are read like this:
+> The texture channels are read like this:
 red: normals x
 green: normals z
 blue: water depth
 alpha: shadow
-
-The normals in x direction should look like a light is shining on the map from the right hand side.
+>
+> The normals in x direction should look like a light is shining on the map from the right hand side.
 The normals in z direction should look like a light is shining on the map from the bottom.
 If these directions are not correct, then the normal calculations in the game will be incorrect and you will get unexpected lighting results.
 The water depth is a normalized depth, this means it needs to be 0 at and above the water surface and 1 at the abyss depth and below, with a linear interpolation for terrain heights between these two heights.
-The shadow texture needs to be 1 where the sun reaches and 0 where shadow is. The resolution of the texture needs to be a power of two and should sensibly be at least the ogrid resolution of the map, but it can be higher. Just keep in mind that an extremely big texture also consumes a lot of memory.
-The texture needs to be loaded in the upper albedo texture slot. The editor will show the texture like any other texture because the editor doesn't yet feature support for this. You can just hide the texture layer if you find it distracting.
+The shadow texture needs to be 1 where the sun reaches and 0 where shadow is. You can use interpolated values for soft shadows.
+>
+>The resolution of the texture needs to be a power of two and should sensibly be at least the ogrid resolution of the map (e.g. 512 for a 10km map), but it can be higher. Just keep in mind that an extremely big texture also consumes a lot of memory.
+{.is-info}
 
+The texture needs to be loaded in the upper albedo texture slot.
 To enable proper usage of this texture you need to set the scale of the upper albedo texture to a value bigger than the size of the map in ogrids (e.g. >513 for a 10x10 map). A value of 10000 will work for any map size.
 
-### Mapwide albedo texture
-Some of the new shaders use the stratum 7 albedo slot (layer 8 in ozonex editor) as a mapwide albedo texture. It works similar to the macrotexture as in the alpha channel controls the transparency directly. It doesn't react to the scale anymore and always perfectly covers the whole map.
-
 ### Roughness maps
-Some shaders feature improved sun reflection that can be controlled with roughness maps. This is achieved by implementing physically based rendering. This means you can use the roughness maps that you can find when you search online for PBR materials. The terrain will now react to light in a physically plausible way, in contrast to the rudimentary specular reflections that the game originally features.
-To use this, you need to provide a texture atlas with the roughness maps in the normal texture slot of layer 8. This texture atlas can be automatically generated with a mapgen tool.
+Some shaders feature realistic sun reflections that can be controlled with roughness maps. This is achieved internally by implementing physically based rendering (PBR). This means you can use the roughness maps that you can find when you search online for PBR materials. The terrain will now react to light in a physically plausible way, in contrast to the rudimentary specular reflections that the game originally features.
+For shaders that use this, you need to provide a texture atlas with the roughness maps in the normal texture slot of layer 8. This texture atlas can be automatically generated with a java tool.
 
+### Heightmaps for height-based texture blending.
+[<img align="right" src="/images/mapping/texture_blending_regular.png" width="20%">](texture_blending_regular.png)
+[<img align="right" src="/images/mapping/texture_blending_height.png" width="20%">](texture_blending_height.png)
+By default the game blends linearly between texture layers, which creates a very soft and washed-out look. The transition between textures can be significantly improved by using a heightmap that stores information about the height of the terrain that the texture represents. On the right you can see the difference between these two approaches. You can find an in-depth explanation and more images [here](https://www.gamedeveloper.com/programming/advanced-terrain-texture-splatting). Height maps are also typically included in PBR materials. But you don't need to use those, you can also use any texture, depending on what look you want to go for and convert it to a grayscale image. It's important that the pixel values go all the way from black to white, so you don't decrease the maks range where your texture will show up.
+
+For shaders that use this, you need to provide a texture atlas with the height maps in the normal texture slot of layer 8. This texture atlas can be automatically generated with a java tool.
 
 ### Available shaders
-
-#### TTerrain
-
-#### TTerrainXP
-
-#### Terrain301
-The normal map scales are controlled by the albedo scales to ensure that they use the same values.
-The layer mask of layer 8 acts as a roughness multiplier with 0.5 as the neutral value.
-Height processing happens at two scales, the albedo scales control the near scale and the normal scales control the far scale.
-They also use the mapwide albedo texture.
+You can switch the shader by writing the appropriate name in the shader text field in the editor. As of version 0.901 the FAF editor only directly supports three shaders: TTerrain, TTerrainXP and Terrain301. You can find a full list of all available shaders [here](/Development/Shaders/overview). It's possible to use any of those. The game will handle it correctly, just the editor will not display the results correctly when it is one of the unsupported shaders.
 
 
 ## Custom assets {#CA}
