@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2025-01-04T10:53:02.273Z
+date: 2025-01-04T10:55:02.235Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -319,8 +319,8 @@ Some shaders feature realistic sun reflections that can be controlled with rough
 For shaders that use this, you need to provide a texture atlas with the roughness maps in the normal texture slot of layer 8. This texture atlas can be automatically generated with a java tool.
 
 ### Heightmaps for height-based texture blending.
-[<img align="right" src="/images/mapping/texture_blending_regular.png" width="20%">](texture_blending_regular.png)
-[<img align="right" src="/images/mapping/texture_blending_height.png" width="20%">](texture_blending_height.png)
+[<img align="right" src="/images/mapping/texture_blending_regular.png" width="20%">](/images/mapping/texture_blending_regular.png)
+[<img align="right" src="/images/mapping/texture_blending_height.png" width="20%">](/images/mapping/texture_blending_height.png)
 By default the game blends linearly between texture layers, which creates a very soft and washed-out look. The transition between textures can be significantly improved by using a heightmap that stores information about the height of the terrain that the texture represents. On the right you can see the difference between these two approaches. You can find an in-depth explanation and more images [here](https://www.gamedeveloper.com/programming/advanced-terrain-texture-splatting). Height maps are also typically included in PBR materials. But you don't need to use those, you can also use any texture, depending on what look you want to go for and convert it to a grayscale image. It's important that the pixel values go all the way from black to white, so you don't decrease the maks range where your texture will show up.
 
 For shaders that use this, you need to provide a texture atlas with the height maps in the normal texture slot of layer 8. This texture atlas can be automatically generated with a java tool.
