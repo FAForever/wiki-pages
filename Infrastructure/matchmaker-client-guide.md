@@ -2,7 +2,7 @@
 title: Matchmaker Client Guide
 description: A guide for how to change map pools on the moderator client. 
 published: true
-date: 2025-01-08T14:28:16.562Z
+date: 2025-01-08T14:29:24.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-08T14:24:10.881Z
