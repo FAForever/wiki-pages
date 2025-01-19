@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2024-12-17T09:34:58.642Z
+date: 2025-01-19T22:25:17.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -20,5 +20,7 @@ For now this pager is just a long list of guides so that we have them all in one
 - [CheeseBerry's Guide to Seton's](https://docs.google.com/document/d/1U__7uAI75eSpU5koUIhQcD_hSpGZ12WTPxpfU_EzoYU/edit?usp=sharing)
 - [Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?usp=drivesdk)
 - [Analyzing your own replays](https://docs.google.com/document/d/1ZFqB_W4lmTexZRxd4SEF8RtHNCPg3oB_GW1StJM_OWY/edit#heading=h.44cytjw8thzm)
-- FTX's Intro PDF (lost the link)
-- 
+- [FTX's Intro PDF](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit?tab=t.0)
+- [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
+- [https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws](How to improve forever - 6 laws - Blackheart)
+- [The Guides already on the wiki](https://wiki.faforever.com/en/Play#learning)
