@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2025-01-19T22:49:35.515Z
+date: 2025-01-19T22:56:23.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -25,7 +25,7 @@ For now this pager is just a long list of guides so that we have them all in one
 - [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
 - [How to improve forever - 6 laws - Blackheart](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws)
 - [The Guides already on the wiki](https://wiki.faforever.com/en/Play#learning)
-
+- [Petric's mex breakdown on 3 maps ](https://forum.faforever.com/topic/1194/1v1-mapgen-tournament/89?_=1737278579174)
 
 ### Youtube 
 
