@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2025-01-19T22:25:17.324Z
+date: 2025-01-19T22:38:54.786Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -24,3 +24,6 @@ For now this pager is just a long list of guides so that we have them all in one
 - [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
 - [https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws](How to improve forever - 6 laws - Blackheart)
 - [The Guides already on the wiki](https://wiki.faforever.com/en/Play#learning)
+ - [Giant unsorted list of FAF Guides on Youtube that ZLO found](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr)
+ - [Femboys](https://www.youtube.com/@FemboyStrategy/videos)
+ 
