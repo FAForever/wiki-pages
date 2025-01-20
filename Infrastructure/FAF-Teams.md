@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2024-12-27T17:13:39.553Z
+date: 2025-01-20T02:54:53.900Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -64,7 +64,6 @@ These are the current Team Leaders:
 - FtXCommando
 - Grimplex
 - Judoka1972
-- LimeZ
 - Maudlin27
 - Paradox_of_War
 - Seraphim-Com
@@ -73,7 +72,6 @@ These are the current Team Leaders:
 - TheDuelist
 - WillowWisppsi
 - Sladow
-- CheeseBerry
 
 
 #### The team
