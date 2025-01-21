@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-21T01:58:27.565Z
+date: 2025-01-21T11:45:35.001Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -82,7 +82,7 @@ All team members are expected to act in accordance with the [Code of Conduct](ht
 
 #### Roles
 
-The trainer team currently consists of two roles:
+The trainer team currently consists of the following roles:
 
  - Team Lead
  - Veteran Trainer
