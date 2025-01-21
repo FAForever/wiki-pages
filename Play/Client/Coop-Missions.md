@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2024-07-11T22:49:07.993Z
+date: 2025-01-21T07:14:45.211Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -149,7 +149,12 @@ You can fine-tune M28AI settings for in-mission allies and hostile AI with these
   - Applies M28EasyAI to allied/hostile AI instead of M28AI, which simplifies unit micro and attack logic for a different challenge level.
 
 - **M28 time between orders**
-  - By default M28 considers what orders to give its land, air and naval units every second, which allows it to react quickly in order to (for example) kite with its land units.  This setting allows you to increase the time between orders from 1 second to up to every 10 seconds.  This can be useful both to reduce the extent and effectiveness of M28's microing, and also make it run faster.
+  - By default M28 considers what orders to give its land, air and naval units every second, which allows it to react quickly in order to (for example) kite with its land units.  This setting allows you to increase the time between orders from 1 second to up to every 10 seconds.
+  - This can be useful both to reduce the extent and effectiveness of M28's microing, and also make it run faster.
+  
+  **M28 enemy threat factor**
+  - Applies the specified factor to the majority of M28's calculations of how strong enemy units are.  For example, a value of 0.1 means M28 will see enemy units as being 10% as strong/valuable as normal.
+  - This could be used to try and significantly change how M28 plays (e.g. being more suicidal with its units), and/or used in conjunction with the shared armies mode.  For a competitive experience it is recommended you use the default value of 1.0.
 
 These settings allow you to tailor the AI experience in campaign missions according to your preferences, adjusting difficulty and gameplay dynamics for a more customized experience.
 
