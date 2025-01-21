@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-20T02:54:53.900Z
+date: 2025-01-21T01:27:36.934Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -68,10 +68,10 @@ These are the current Team Leaders:
 - Paradox_of_War
 - Seraphim-Com
 - Skrat
-- Terminal
 - TheDuelist
 - WillowWisppsi
 - Sladow
+- Razana
 
 
 #### The team
