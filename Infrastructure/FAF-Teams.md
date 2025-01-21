@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-21T01:27:36.934Z
+date: 2025-01-21T01:58:27.565Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -85,8 +85,10 @@ All team members are expected to act in accordance with the [Code of Conduct](ht
 The trainer team currently consists of two roles:
 
  - Team Lead
+ - Veteran Trainer
+ - Experienced Trainer
  - Trainer
-
+ 
 ##### Team Lead
 
 The team lead is responsible for fulfilling the administrative duties of the team. This includes being the default point of contact with the board and other teams and the handling of procedures outlined here, such as overseeing membership votes.
