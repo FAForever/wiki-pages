@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-22T19:48:24.053Z
+date: 2025-01-23T18:42:53.896Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -360,8 +360,8 @@ For more information, see the following page:
 - IndexLibrorum
 #### Mission:
 The moderation team’s mission is to keep the community a healthy and pleasant place
-for all users, on all FAF platforms, by enforcing the rules of the community.
-The moderation team also determines the moderation policy and rules for the client,
+for all users, on all FAF platforms, by enforcing the [rules of the community](https://www.faforever.com/rules).
+The moderation team also determines the [moderation policy](https://www.faforever.com/moderation) and rules for the client,
 discord, forum, and other FAF managed platforms.
 #### Moderation Team Lead
 - Acting as the final point of appeal for all moderation decisions
