@@ -2,7 +2,7 @@
 title: Creating Models
 description: Specs for Sup Com models
 published: true
-date: 2024-02-07T20:44:21.780Z
+date: 2025-01-25T22:54:15.958Z
 tags: modding, models, unit
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -127,7 +127,16 @@ Animations need to pushed down the nla stack before exporting.
  - G = Shininess multiplier
  - B = Glowing mask
  - A = Team colour mask (unused on seraphim shader)
+ 
+---
+## LoDs
 
+#### Mesh:
+ - The mesh file has a postfix of `_lod1` (1 is the LoD level, with higher numbers being less detailed).
+
+#### Bones:
+ - The root bone is prefixed with `lod1_`.
+ - The rest of the bones should keep their names from the base model so that manipulators such as animations and turrets function when the LoD model is used.
 
 
 
