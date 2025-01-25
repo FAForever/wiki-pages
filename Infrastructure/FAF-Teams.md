@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-23T18:42:53.896Z
+date: 2025-01-25T17:47:35.076Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -20,7 +20,7 @@ These are the current Team Leaders:
 	> **Strydxr**
   
 - **Promotions Team Leader:** 
-	>	**Jip**
+	>	**Fichom**
 
 - **FAF Live Team Leader:**
 	> TBD
