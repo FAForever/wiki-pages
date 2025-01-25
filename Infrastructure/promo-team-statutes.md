@@ -2,7 +2,7 @@
 title: Promotion team statutes
 description: Explains the various roles of the promotion team and how the team is organized.
 published: true
-date: 2024-10-31T07:56:48.340Z
+date: 2025-01-25T16:20:38.886Z
 tags: team, statutes, promotion, promotion team, promotion team statutes, promo team, promo team statutes, promo, youtube
 editor: markdown
 dateCreated: 2024-08-02T17:34:56.224Z
@@ -12,12 +12,12 @@ dateCreated: 2024-08-02T17:34:56.224Z
 
 ## Team lead
 
-  - Jip
+  - Fichom
   
 ## Team members
 
+  - Jip
   - Giebmasse
-  - Fichom
   - Greenkiller56
   - Rhaelya
   - Katsu
