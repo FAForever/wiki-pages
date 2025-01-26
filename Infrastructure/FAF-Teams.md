@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-25T17:47:35.076Z
+date: 2025-01-26T22:34:02.775Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -205,15 +205,19 @@ Board.
 #### Members
 ###### FAF Tournament Manager:
 
-##### FAF Senior TDs:
 - hybrid_
+##### FAF Senior TDs:
 ##### FAF TDs:
-- Doni aka InsidiousNoob
 - Fearghal
 - Rhaelya
 - Tagada
-- Syndicus
 - Farms aka TheWeakie
+- Sainse
+- Nuggets
+- Paradox_of_War
+- Strydxr
+- Vindex
+- Zwaffel aka Bully
 
 #### Policies
 ##### Requirements for being a TD:
