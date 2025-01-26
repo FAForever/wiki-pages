@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-26T22:34:02.775Z
+date: 2025-01-26T22:34:47.788Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -204,9 +204,9 @@ Board.
 ### Tournament Team
 #### Members
 ###### FAF Tournament Manager:
-
 - hybrid_
 ##### FAF Senior TDs:
+TBD
 ##### FAF TDs:
 - Fearghal
 - Rhaelya
