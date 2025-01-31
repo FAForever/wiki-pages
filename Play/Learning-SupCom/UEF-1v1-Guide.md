@@ -2,7 +2,7 @@
 title: UEF 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T13:18:48.825Z
+date: 2025-01-31T13:24:11.366Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:45:37.233Z
@@ -84,4 +84,4 @@ Your T3 battleship is the best because of its range and your T3 gunships tank we
 
 To rehash, UEF units are slower with more hp, they have good options on the land and you are allowed to focus on gaining high-tech levels to gain advantages. You have a good range of defensive buildings but don’t rely on them too much, and also, build walls.
 
-If you have any questions about UEF in Ladder, you can always ask in [#Aeolus](/Play/Client/FAF-chat), or a [trainer](/User-Groups#Trainers).
+If you have any questions about UEF in Ladder, you can always ask in [#Aeolus](/Play/Client/FAF-chat), or a [trainer](https://forum.faforever.com/topic/8752/trainer-team-about-me-page).
