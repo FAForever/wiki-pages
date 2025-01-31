@@ -2,7 +2,7 @@
 title: Cybran 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T13:26:09.101Z
+date: 2025-01-31T13:26:29.955Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
