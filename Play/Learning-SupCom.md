@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-01-31T12:32:42.104Z
+date: 2025-01-31T12:58:16.287Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -54,7 +54,6 @@ This section is for specific information on units, game mechanics and other fact
 * [Adjacency Bonus *To learn more about the specific economy of Supreme Commander*](/Play/Learning/Adjacency-Bonus)
 * [Engy Mod *For specific information regarding the Engy mod patch*](/Play/Game-Modifications-(Mods)#engy-mod)
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
-* [FA Stats And Calculations *To see unit stats and calculations*](/Play/Learning/FA-Stats-And-Calculations)
 * [Missiles *To view specific info about tactical and strategic missiles*](/Play/Learning/Missiles)
 * [Air Transport *Capacity of several air types of transport*](/Play/Learning/Air-Transport)
 {.links-list}
