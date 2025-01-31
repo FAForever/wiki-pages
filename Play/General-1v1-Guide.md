@@ -2,8 +2,8 @@
 title: General 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T12:14:02.063Z
-tags: learn to play
+date: 2025-01-31T12:15:31.665Z
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
 ---
