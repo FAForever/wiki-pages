@@ -2,7 +2,7 @@
 title: UEF 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T13:34:02.301Z
+date: 2025-01-31T13:34:32.261Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:45:37.233Z
@@ -76,7 +76,7 @@ Tech 3 is where a UEF player starts to get ahead. If you get it early, you can d
 
 To make up for the one thing Percival does not have (speed), you have the *Titan*. It’s a fast-raiding bot with a shield and two fast-firing guns. In comparison with the Loyalists, it’s garbage but Titans can manoeuvre and flank around to kill supporting units, engineers, or mexes. Use its speed, it’s all it has. If you have been spamming Pillars as we suggested, making the swap straight up to the far more effective Percival is a better option.
 
-You have the [Demolisher](https://supcom.fandom.com/wiki/UEF_T3_Mobile_Heavy_Artillery) for a mobile artillery piece, and that is generic too, but T3 mobile arty rips through firebases and you will want to deploy these against static opponents. you also have the [Spearhead](https://github.com/FAForever/fa/wiki/XEL0306) if you prefer missiles over shells, they are extremely cheap and better at dealing with buildings, but useless against mobile units, unlike the Demolishers. You also have the *Cougar*, which has two miniguns to snipe out air units well; use it against strategic bombers and fighter-bombers. Against gunships, however, your mobile T2 flak is more efficient as its AOE damage can harm many gunships at once.
+You have the [Demolisher](https://github.com/FAForever/fa/wiki/UEL0304) for a mobile artillery piece, and that is generic too, but T3 mobile arty rips through firebases and you will want to deploy these against static opponents. you also have the [Spearhead](https://github.com/FAForever/fa/wiki/XEL0306) if you prefer missiles over shells, they are extremely cheap and better at dealing with buildings, but useless against mobile units, unlike the Demolishers. You also have the *Cougar*, which has two miniguns to snipe out air units well; use it against strategic bombers and fighter-bombers. Against gunships, however, your mobile T2 flak is more efficient as its AOE damage can harm many gunships at once.
 
 You also have the benefits mentioned at the start of the guide, and those are also immensely powerful. Creeping Ravagers is a solid move if you have the eco and do it before the enemy can respond with artillery. The Continental can drop six Percival at a time, doing so requires you to have T3 air; but if your enemy does not have considerable anti-air, you can land 9600 damage per volley wherever you choose, killing most ACUs in under 2 volleys. Percivals are faster than ACUs too, if you’re playing against UEF in T3, be careful.
 
