@@ -2,7 +2,7 @@
 title: Learning
 description: Contains all learning resources for the FAF Project
 published: true
-date: 2025-01-31T13:00:03.793Z
+date: 2025-01-31T13:01:21.083Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T12:55:18.623Z
@@ -11,8 +11,7 @@ dateCreated: 2025-01-31T12:55:18.623Z
 ![wiki-banner.jpg](/images/wiki-banner.jpg){.align-center}
 
 # Getting Started
-If you're new to FAF and need help, here are some good introductory resources:
-
+This page will contain all learning resources related to FAF, included guides for gameplay, creation of maps,
 # Important Information
 
 - [How To Play FAF & Get Better *Guides for all skill levels*](https://wiki.faforever.com/en/Play/Learning-SupCom)
