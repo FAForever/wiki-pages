@@ -2,7 +2,7 @@
 title: General 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T12:16:29.216Z
+date: 2025-01-31T12:17:43.965Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
