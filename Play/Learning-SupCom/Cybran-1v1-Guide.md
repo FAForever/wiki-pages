@@ -2,7 +2,7 @@
 title: Cybran 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T13:29:57.907Z
+date: 2025-01-31T13:30:37.738Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -86,7 +86,7 @@ If your enemy is able to stay in the game or get ahead during this phase, Medusa
 
 You should also try and get Tech 2 before your enemy either starts to get dominance with Auroras or their own Tech 2. If you are comfortable kiting with Hoplites, ideally with mobile stealth in the mix, you should be able to destroy Aurora armies taking little or no losses. Rhinos will also cut straight through an Aurora army. However, once your enemy has Obsidians, particularly combined with mobile shields, they are very tough for your Rhinos and Medusa to beat in a straight fight and will take a long time to die to kiting Hoplites. Obsidians are big mass investments so are vulnerable to overcharge if you can manage it, but can quickly kill even an upgraded Cybran ACU, especially if supported by double gun or range+omni Aeon ACU. If a critical mass of Obsidians, shields and upgraded ACU is reached, you are in serious trouble and need to snipe T2 power (which will shut off Aeon shields and give you an opening), the HQ factory or the ACU itself to win.
 
-For more information, see the <a href="/Learning-SupCom/Aeon-1v1-Guide">Aeon 1v1 Guide</a>.
+For more information, see the <a href="https://wiki.faforever.com/en/Play/Learning-SupCom/Aeon-1v1-Guide">Aeon 1v1 Guide</a>.
 
 ## Medium Maps
 The theme of aggressive Mantis use in the early game and on small maps continues, and becomes most important, on 10x10 maps. The likelihood of getting early LABs to unguarded engineers that Mantis cannot reach is even lower on larger maps, and if the map is open then having units in more places, denying more expansions, is easier with Cybran. Remember to use your Mantis to defend enemy raids, it should be harder for enemy units to get in behind your forces and start killing expansions and expanding engineers. The period of raiding on a medium sized map will generally continue for longer, particularly if you get on top and use a Cybran style to get ahead.
