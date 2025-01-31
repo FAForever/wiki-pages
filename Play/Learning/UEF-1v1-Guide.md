@@ -2,7 +2,7 @@
 title: UEF 1v1 Guide
 description: 
 published: true
-date: 2023-07-11T21:22:52.758Z
+date: 2025-01-31T12:32:20.381Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:45:37.233Z
