@@ -2,13 +2,13 @@
 title: General 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T13:21:15.236Z
+date: 2025-01-31T13:21:48.335Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
 ---
 
-The purpose of this guide is to provide you with basic instructions on how to play 1v1, specifically ladder. It's implied that you have already read the [Beginner's Guide to Forged Alliance](https://wiki.faforever.com/en/Play/Learning/Beginner's-Guide-to-Forged-Alliance), the [Three Essential Habits for the New Player](https://wiki.faforever.com/en/Play/Learning/Three-Essential-Habits-for-the-New-Player), and the [Unit Micro](https://wiki.faforever.com/en/Play/Learning/Unit-Micro) guides and have a general understanding of the basic game mechanics and terms.
+The purpose of this guide is to provide you with basic instructions on how to play 1v1, specifically ladder. It's implied that you have already read the [Beginner's Guide to Forged Alliance](https://wiki.faforever.com/en/Play/Learning/Beginners-Guide-to-Forged-Alliance), the [Three Essential Habits for the New Player](https://wiki.faforever.com/en/Play/Learning/Three-Essential-Habits-for-the-New-Player), and the [Unit Micro](https://wiki.faforever.com/en/Play/Learning/Unit-Micro) guides and have a general understanding of the basic game mechanics and terms.
 
 ## Basic strategy
 
