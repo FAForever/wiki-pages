@@ -2,7 +2,7 @@
 title: Seraphim 1v1 Guide
 description: 
 published: true
-date: 2021-12-30T07:28:58.127Z
+date: 2025-01-31T13:36:04.191Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:44:54.865Z
