@@ -2,7 +2,7 @@
 title: Aeon 1v1 Guide
 description: 
 published: true
-date: 2023-12-29T10:44:04.275Z
+date: 2025-01-31T13:29:16.471Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:42:02.581Z
