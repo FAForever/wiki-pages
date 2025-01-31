@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-01-31T12:29:53.412Z
+date: 2025-01-31T12:32:42.104Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -34,7 +34,7 @@ If you know the basics of the game and are looking to improve your gameplay, you
 
 ### 1v1 Guides
 * [General 1v1 Guide](/Play/Learning-SupCom/General-1v1-Guide)
-* [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide)
+* [UEF 1v1 Guide](/Play/Learning-SupCom/UEF-1v1-Guide)
 * [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide)
 * [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide)
 * [Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide)
