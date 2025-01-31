@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-01-31T09:08:35.356Z
+date: 2025-01-31T11:59:41.952Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -57,7 +57,6 @@ This section is for specific information on units, game mechanics and other fact
 * [FA Stats And Calculations *To see unit stats and calculations*](/Play/Learning/FA-Stats-And-Calculations)
 * [Missiles *To view specific info about tactical and strategic missiles*](/Play/Learning/Missiles)
 * [Air Transport *Capacity of several air types of transport*](/Play/Learning/Air-Transport)
-* [SupCom Wiki *This is a comprehensive resource about Supreme Commander, however, it is out of date and does not contain accurate values*](http://supcom.wikia.com/wiki/Main_Page)
 {.links-list}
 
 ## Additional Video Tutorials
