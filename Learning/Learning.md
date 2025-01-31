@@ -2,10 +2,10 @@
 title: Learning Supreme Commander
 description: 
 published: true
-date: 2021-12-30T07:19:17.801Z
+date: 2025-01-31T12:52:50.392Z
 tags: learn to play
 editor: markdown
-dateCreated: 2021-08-31T09:44:03.279Z
+dateCreated: 2023-12-24T20:29:26.343Z
 ---
 
 This page is intended to help you learn how to play Forged Alliance. The game has many different aspects and game types so information on the game has been split into various sections for your convenience. For information on the client and not the game, please visit the [Main Page](/home)
