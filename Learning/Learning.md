@@ -2,7 +2,7 @@
 title: Learning
 description: Contains all learning resources for the FAF Project
 published: true
-date: 2025-01-31T12:55:18.623Z
+date: 2025-01-31T13:00:03.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T12:55:18.623Z
@@ -12,12 +12,6 @@ dateCreated: 2025-01-31T12:55:18.623Z
 
 # Getting Started
 If you're new to FAF and need help, here are some good introductory resources:
-
-- [New To FAF *Start here for help*](https://wiki.faforever.com/en/Play/Learning/New-To-FAF)
-- [Windows Installation *How to get FAF working on Windows*](https://wiki.faforever.com/en/Play/Windows-Install)
-- [Linux Installation *How to get FAF working on Linux*](https://wiki.faforever.com/en/Play/Linux-Install)
-{.links-list}
-
 
 # Important Information
 
