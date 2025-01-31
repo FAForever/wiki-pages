@@ -2,7 +2,7 @@
 title: Faction Information
 description: 
 published: true
-date: 2022-06-22T12:36:23.648Z
+date: 2025-01-31T13:48:30.200Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -24,7 +24,7 @@ This page presents an overview of general faction diversity. It outlines the ove
 	- <img src="/images/learning/uef/uef_t1_tank.png" width="50" align="center"/> **Tank** - High HP but slow, the first hint of UEF's overall trait. Requires very little babysitting, awesome all-rounder.
 	- <img src="/images/learning/uef/uef_t1_mobile_arty.png" width="50" align="center"/> **Artillery** – Slow fire rate but huge damage, quite accurate. Provides optical vision for a short time at impact site.
 - **Air:**
-	- <img src="/images/learning/uef/uef_t1_bomber.png" width="50" align="center"/> **Bomber** - Arguably the worst of all the T1 Bombers because of its inaccuracy, but highest overall damage output against large buildings and great against densely packed armies.
+	- <img src="/images/learning/uef/uef_t1_bomber.png" width="50" align="center"/> **Bomber** - Arguably the worst of all the T1 Bombers because of its inaccuracy, but highest overall damage output (350 per drop, including burning damage) against large buildings and great against densely packed armies.
 	- <img src="/images/learning/uef/uef_t1_interceptor.png" width="50" align="center"/> **Interceptor** - Probably the best T1 interceptor, because of the front-loaded weapon. Note that this advantage is rather tiny compared to other intis though.
 - **Naval:**
 	- <img src="/images/learning/uef/uef_t1_frigate.png" width="50" align="center"/> **Frigates** - Radar jamming to create the appearance of having a bigger navy than you actually possess. Great against the floating T1 seraphim artillery.
@@ -144,8 +144,8 @@ This page presents an overview of general faction diversity. It outlines the ove
 	- <img src="/images/learning/cybran/cybran_t1_arty.png" width="50" align="center"/> **Artillery** - Worst accuracy, stuns T1 and T2 units, has good aoe.
 	- <img src="/images/learning/cybran/cybran_t1_mobile_aa.png" width="50" align="center"/> **Mobile AA** - 2 Fire modes: Shoots air or land units.
 - **Air:**
-	- <img src="/images/learning/cybran/cybran_t1_bomber.png" width="50" align="center"/> **Bomber** - Decent.
-	- <img src="/images/learning/cybran/cybran_t1_gunship.png" width="50" align="center"/> **Gunship** - Only faction with T1 gunship.
+	- <img src="/images/learning/cybran/cybran_t1_bomber.png" width="50" align="center"/> **Bomber** - Decent. 300 damage per drop, if all bombs hit the target.
+	- <img src="/images/learning/cybran/cybran_t1_gunship.png" width="50" align="center"/> **Gunship** - Only the Cybran have a T1 gunship. Good for early harassment. Highest damage per mass among all gunships, if HP is not an issue.
 - **Naval:**
 	- <img src="/images/learning/cybran/cybran_t1_frigate.png" width="50" align="center"/> **Frigate** - Known as best frigate. Good AA.
 #### <img src="/images/learning/tech_2_icon.png"> Tech 2
