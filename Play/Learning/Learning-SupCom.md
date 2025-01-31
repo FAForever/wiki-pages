@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2024-01-09T13:11:35.472Z
+date: 2025-01-31T09:08:35.356Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -46,7 +46,7 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 
 [Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
 
-[Active Trainers Contact Page](https://forum.faforever.com/topic/1112/active-trainers-contact-page?_=1625168761049) - a list of trainers
+[Trainer Team About Me Page](https://forum.faforever.com/topic/8752/trainer-team-about-me-page/3?_=1738314404051) - a list of trainers and a quick summary about them
 
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
