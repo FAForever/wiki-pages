@@ -2,7 +2,7 @@
 title: Cybran 1v1 Guide
 description: 
 published: true
-date: 2025-01-31T13:30:37.738Z
+date: 2025-02-01T14:54:07.516Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:42:47.388Z
@@ -161,7 +161,7 @@ There are a number of medium sized maps that suit Cybran, not due to their openn
 ### Summary
 - The [Trident frigate](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0103) is mass efficient at killing other navy units, with great AA. Use it to get ahead or win at the T1 stage, then as intelligence and a meatshield support for T2.
 - Use [stealth](http://content.faforever.com/faf/unitsDB/unit.php?bp=URS0305,URL0306,XRS0205,URB4203) to greatly reduce the damage taken by your navy at range during the T2 phase.
-- Try and gain a decisive advantage before the T3 stage, particularly against the [UEF](Faction_Information#UEF "wikilink").
+- Try and gain a decisive advantage before the T3 stage, particularly against the [UEF](https://wiki.faforever.com/en/Play/Learning-SupCom/Faction-Information).
 - Always consider upgrading your ACU for naval combat - for the cost of a destroyer, it could win you the game.
 - Click on the sections below for more information.
 
