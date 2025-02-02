@@ -306,7 +306,7 @@ The First Engineers build:
 
 ## Faction Diversity
 
-As an in-depth guide of the [Factions](Faction_Information "wikilink") is available, the following is more summary.
+As an in-depth guide of the [Factions]{https://wiki.faforever.com/en/Play/Learning-SupCom/Faction-Information) is available, the following is more summary.
 
 ### UEF - Unity
 A strong faction known for their excellent defenses. Recommended for beginners.
