@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2025-01-19T22:56:23.058Z
+date: 2025-02-03T15:20:26.098Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -35,3 +35,7 @@ For now this pager is just a long list of guides so that we have them all in one
  - [Heaven's outdated tutorials](https://youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&si=ILzeuqktgM0L5zcB)
  - [The Duelist Supreme Commander Science](https://www.youtube.com/playlist?list=PLiEXWSWHm1gCTQS1AvZfoKDhqvMTtsTQh)
  - [TGS Guides](https://www.youtube.com/watch?v=9laHRzJximQ&list=PLp2GJBSquXYfJdFxPEnqkpVTmqh3ir4ic)
+ 
+ ### Replay Reviews and Similar
+ - [Replay Review Channel on the discord](https://discord.com/channels/197033481883222026/1094904988788080641)
+ - 
