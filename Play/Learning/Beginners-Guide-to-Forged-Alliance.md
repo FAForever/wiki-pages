@@ -8,131 +8,279 @@ editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
 ---
 
-**First of all, welcome to FAF! We are happy to have you!**
-
-The idea behind this guide is to show new players the ultimate basics, and a little more advanced stuff as we progress, so that you can dive into a game right away and have some basic knowledge.
-
-If you are looking for some more resources as a new player, please consult:
-
-[New Starter Guide](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit)
-
-[Three Essential Habits for the New Player](/Play/Learning/Three-Essential-Habits-for-the-New-Player)
-
-If you still need to setup Forged Alliance and the FAF client: [Windows Install](/Play/Windows-Install) [Linux Install](/Play/Linux-Install).
-
 ## Introduction
 
-In this chapter we'll cover the basics of economy and some build orders to get you started.
+**First of all, welcome to FAF! We are happy to have you!**
 
-### List of words
+The purpose of this guide is for new players to understand the ultimate basics of Supreme Commander/FAF, ensuring basic knowledge of gameplay mechanics are known before playing.
 
-Let's start gaining knowledge! There are a bunch of words you'll need to know because you'll see them fairly often, which are the following:
-- mex(es) = mass extractor(s)
-- pgen = power generator
-- bo = build order
-- eco = economy (mass + power income and storage)
-- macro = related to the base, economy and production (opposite of micro)
-- micro = the usage of units (for example dodging artillery)
-- mapcontrol = how much on the map you control, doesn't necessarily have to be mass points (for example holding the area between two expansions of the opponent)
-- buildpower = how fast a unit can build, repair, capture, and reclaim
+If you haven't setup the FAF client: [Windows Install](/Play/Windows-Install) [Linux Install](/Play/Linux-Install).
 
-This is a very small part of the [Glossary](/FAQ/Glossary). Visit that for a longer list.
+### Abbreviations
 
-### Economy - The basics
+Important to know as you'll see them fairly often in discussions:
+| Abbrv. | Short Description |
+| :---: | :---: | 
+| ACU | Armored Command Unit |
+| T# | Tech (Level) #, ranging from 1-3. </br>T4 and Experimental are interchangeable terms
+| Mex(es) | Mass Extractor(s) |
+| Pgen | Power Generator |
+| BO | Build Order |
+| Eco | Economy |
+| Macro | Encompasses base building, economy, and unit production. </br>Opposite of micro |
+| Micro | Usage and command of units (e.g. dodging artillery shell). </br>Opposite of macro |
+| Mapcontrol | How much of the map you control |
+| Buildpower | How fast a unit can build, repair, capture, and reclaim |
 
-Okay, so now you've learned some fancy words it's time to introduce you to the first aspect of the game, the ECONOMY! The economy consists out of two resources:
+The above is a small, yet pertinent, selection from the [Glossary](/FAQ/Glossary).
+
+## Economy
+
+In this section we'll cover the basics of and terms relating to production and consumption of resources.
+
+### Basics
+
+Economy consists of 2 resources:
 
 #### <img src="/images/learning/mass_icon.png" width="20"/> Mass
 
-Can be obtained via mass extractors, which can **only** be built on Mass Points. Another way to get mass income is by reclaiming wreckages or building Mass Fabricators, these will get covered in the tutorial.
+- Accumulated, per second, by building mass extractors atop of Mass Points
+- Obtained by reclaiming
+- Convert, per second, Energy into Mass with Mass Fabricators
+- Is less plentiful than Energy 
 
 #### <img src="/images/learning/energy_icon.png" width="20"/> Energy
 
-Also known as Power, this resource can be obtained via power generators, which can be built everywhere! This resource is not limited, so you can get as much as you like.
+- Also known as Power
+- Accumulated, per second, by building power generators everywhere on land, and building Hydrocarbon Power Plants atop of Hydrocarbon deposits
+- Is more plentiful than Mass
 
-You can also build hydrocarbon power plants to gain more power income. These can only be built on certain places though, and on some maps you can't build them at all. They give the same income as 5 power generators, but only cost 2.5 power generators, making them very cost-efficient. Note that the ACU cannot start construction of a hydro.
+In the early stage of a match Hydrocarbon Power plants are preferred over early game (i.e. T1) power generators, as they output more Energy per building and 1 Hydrocarbon Power Plant costs less resources to build than the amount of early game power generators required to produce the same Energy output. It must be noted that not every map has Hydrocarbon deposits.
 
-There are two things you want to prevent from happening to your economy: stalling and overflowing mass/power. Prepare for a wall of text, because these two are very important!
+There are 2 things you want to prevent from happening to your economy - stalling and overflowing.
 
-#### Stalling
+### Stalling
 
-Stalling mass/power means that your storage is empty and you're draining your economy. In almost all situations this is considered to be a bad thing, why?
-- While stalling one resource, you cannot efficiently use the other one.
-- You'll slow down everything, from building anti air turrets while under fire from gunships, to finishing the last 5% of your  experimental while the enemy is at your front lines.
-- When draining power all your shields go down, all your stealth fields and radars get disabled, and you cannot produce air  efficiently anymore.
+Stalling a resource means that your storage for that resource (resource per second that wasn't used is instead stored up to storage maximum) is 0 and consumption of that resource is greater than production. In almost all situations this is considered to be bad, why?
+- While stalling one resource, you cannot efficiently utilise the other resource.
+- You'll slow down production considerably; from building anti-air turrets while under fire from enemy gunships to finishing the last 5% of your experimental unit whilst the enemy is at your front line(s).
+- Whilst stalling Energy all your shield generators, stealth fields, and radars are disabled, and you cannot produce air units efficiently.
 
-How to deal with accidental economy stalls: Its very easy to stall your economy by accident, which puts you at a disadvantage. Luckily there are a few tricks to limit this disadvantage:
-- Stalling power is horrible, we all know that. However, pausing air for a while isn't, especially when you already have air control. And in the meantime you can build some power generators quite fast. When you've enough power income again you can continue producing air!
-- Stalling mass can be bad, depending on your total income and how much you use of it. For example stalling -10 mass at minute 1 would be really bad. However, stalling 10 mass at minute 40 ingame with a total mass income of +500 isn't bad at all. Knowing this the following trick will only work early in the game: if you have reclaim available, reclaim it. If you don't have reclaim available, make it! For example destroying one of your land factories (by selecting it and pressing CTRL+K). You don't want to destroy a T2 or T3 factory tho, in that case it's better to pause it for a while. Reclaim will get covered a lil bit further, patience!
-- When you stall, it is important to focus on a specific project. Since stalling makes all construction happen slower, you need to prioritise. Do you need factories or a T2 mex? Do you need pgens or units? Once you decide on what you need right now, pause or cancel other projects until your economy stabilises or they become the new priority.
+It's very easy to stall your economy by accident, which puts you at a disadvantage. Luckily there are a few tricks to limit this disadvantage:
+- Stalling Energy is horrible. However, pausing production of air units for a while isn't, especially when you already have air control. In the meantime, you can build power generators quickly. When Energy income is in the positive, producing air units can be resumed/unpaused.
+- Stalling Mass can be bad depending on your income and consumption. e.g. stalling -10 Mass at 1 minute game time can be debilitating. However, stalling -10 mass at 40 minute mark with mass storage of 500 isn't as debilitating. Reclaim will provide a temporary income to Mass. Hotkey:Ctrl+K will destroy selected units and buildings, reducing them to wreckage for reclaim.
+- When you stall, it is important to focus on a specific production. Since stalling makes all construction slower, you'll need to prioritise. Do you need more unit producing factories or a T2 mex? Do you need more pgens or more units? Once you decide on what you need, pause (hotkey:Z) or cancelling non-priority productions will help to stabilize economy.
 
-#### Overflowing
+### Overflowing
 
-Overflowing mass/power means that you reached the maximum capacity of your storage, thus leading to wasting the incoming resources. In a teamgame this isn't bad in some situations, because the wasted resources are given to your allies. On the famous map called Seton's Clutch for example both front players rush the middle reclaim (What is reclaim? Will get covered soon, keep reading!) and overflow mass to their allies to give them a nice eco boost, leading to advantage. So when is it bad to overflow mass/power?
-- In the first 20 minutes of a game you shouldn't come anywhere near overflowing mass, be it a teamgame or a 1vs1. Against an  equally-skilled opponent you'll have less units on the field, leading to loss of map control. If you do however manage to reach the max capacity (from reclaim for example), try to use the mass asap.
-- A common mistake by beginners is overbuilding power. This counts mostly for 1vs1 games where early tanks are important. Keep in mind a pgen is equal to +- 1,5 tanks. Make sure to put this in perspective, when you've +10K power income at minute 30 ingame and  you only use 9k of it, it doesn't matter.
+Overflowing a resource means that you have reached its maximum storage capacity yet continue to accumulate for that resource, as the overflowed resource isn't being used or stored, it's wasted, and really should've been put to use on building, upgrading to the next Tech Level, and producing units. In a game with teams this isn't bad in some situations because the "wasted" resource is diverted to your team mates.
 
-Building storages can prevent you from overflowing, but this isn't always the best option. More advanced info about storages will be covered further in this guide.
+Building Storage buildings for the respective resource can prevent overflowing by increasing its maximum storage, but this isn't always the best option as keeping resource consumption on par with resource production is more generally easier to manage and predict.
 
-How to deal with overflow: There are a few tricks you can use to efficiently deal with overflow, the best ones are:
-- When you're overflowing mass and have enough power, upgrade a mass extractor to T2. On small maps this shouldn't happen around/before minute 10 tho! In that case you better spam more land factories 
-- When you're overflowing power you can always build more air factories. Air requires way more power than land/navy. So if you have air and harass the opponent with it, he'll have to get more air aswell, and more power.
+There are a few tricks you can use to efficiently deal with overflow, the best ones are:
+- When you're overflowing Mass and have enough Energy, upgrade a Mass Extractor to it's next Tech Level. On small maps this shouldn't happen around/before the 10 minute mark though! In that case it would be better to build more Land Factories 
+- When you're overflowing Energy you can always build more Air Factories, as air unit production requires more Energy than land and naval unit production
 
-#### <img src="/images/learning/eco_icon.png" width="30"/> The economy bars & reclaim
-<img src="/images/learning/economytab.png" width="800"/>
+Remember - glance at both resource bars at the top of the screen every few seconds to make sure your economy is on track, and fixing it immediately if it's not.
 
-![begginer_5.png](/images/learning/begginer_5.png){.align-right}
-From the picture above you can see how important the economy bars are to you - they show so much information, and you need to know what that means. Study that picture carefully, you will need to know about it at a later time!
-
-Remember - you should be checking those bars every few seconds to make sure your economy is on track, and fixing it if its not.
-
-<img src="/images/learning/reclaim_icon.png" width="30"/> **Reclaim**
-Everything on the map which isn't part of the terrain is reclaim - and you can collect it to get extra resources to fuel your battles! Simply get an engineer or the ACU and right click on things that can be reclaimed to receive a nice boost! This can be a surprisingly large part of your income, and if you reclaim a lot, you will have a huge advantage over your opponent. Its quite difficult to illustrate this, but here are some numbers to help you get an understanding of its scale:
-- You tend to have mass storage for \~650 units at the start of the game
-- The amount of reclaim on maps can range from 4000 all the way to an unbelievable 200,000 units of mass!
-- Destroyed tanks give 81% of their mass cost as reclaimable mass - for 20 Strikers that's 940 mass! Never forget the destroyed tanks after a battle!
-- This is even more for experimental units - a GC wreck lets you build a new one for a fraction of the cost!
-- Experienced players can win games without building a **single** mass extractor on some reclaim heavy maps!
-
-Knowing this you can guess what happens when you let your experimental die in the hands of your enemy. Also a good lesson to not learn the hard way: retreat your experimental in time, so that you can destroy it once it's back in your base and build another one from the wreck! If you can kill the enemy ACU however, go for it.
-
-By now you should understand the eco bars (including the total income and outgoings, not only the calculated income). But what do the numbers mean? It's really easy, for example: If you have +10 mass income you get 10 mass every second.
+### <img src="/images/learning/reclaim_icon.png" width="30"/> Reclaim
+Everything on the map which isn't terrain, a building or a unit is deemed reclaim. Wreckage of destroyed buildings and units are also reclaim.
+Right clicking with selected Engineers or the ACU on objects that can be reclaimed will increase Mass per reclaimed object. This can be a surprisingly large part of your income, and you will have an economic advantage over your opponent who isn't reclaiming.
 
 Note: more info about reclaim will be covered further in the guide, but for now just remember that if you've reclaim available you should try to reclaim (and use it) asap, not only wreckages are reclaimable. Also rocks and trees, trees almost only give energy though, so they aren't always that important, but can have very special uses.
 
 An interesting Video by \[e\]speed2 on reclaim : <https://www.youtube.com/watch?v=_uPjOxCTEng>
 
-### Build orders - The two legends
+## ACU
 
-A build order is what you're going to do with your ACU and the first engineer(s) at the start. It gives you a nice start and is different for every map, however, you don't need one for every map. There are two build orders which can be applied on almost every map.
+![fafguide-beginner-7.jpg](/images/learning/fafguide-beginner-7.jpg)
 
-**Second land**
+Each player has an ACU that acts as both a builder and offense unit with a large amount of health points. Whilst not being particularly proficient at either role, the ACU can be upgraded to compliment aspects of both roles.  
+Most importantly in the Assassination game mode a player is defeated when their ACU is destroyed, so the dynamic of the ACU is very similar to a combined King and Queen playing piece in Chess.
+
+The ACU's combat abilities are worth knowing. Whilst the ACU can handle a handful of T1 Land units comfortably in it's own, it has no Anti-Air or Anti-Naval weaponary. It's advisable to have the ACU either assist the front line or lead the charge when going on the offense.
+
+### Overcharge
+
+An ability that provides the ACU a high damage, large blast radius shot which recharges charging and its damage scales with the amount of Energy in storage. Overcharge finds more practial use in destroying a cluster of enemy units and tightly placed buildings, whilst it can deal considerable damage to a T4/experimental unit it's not enough to destroy one with a single charged shot.
+
+### Upgrades
+
+The ACU doesn't have scalable progression through tiers/tech levels, instead it has modular upgrades for the left arm, right arm, and body which augment either it's offensive, defensive, or building capabilities. Each faction's ACU has slightly different offensive and defensive upgrades which gives each ACU some variation from one another.
+
+Be aware, that when the ACU is upgrading it becomes immobile, weapons are disabled, and cannot construct buildings - i.e. a sitting duck.
+
+## Teching up
+
+There are 3 Tech Levels with an Experimental Tech Level in the late game. Upgrading to a Tech Level isn't global as typically seen in the RTS genre.
+
+Matches start at T1, with upgrades to the next Tech Level occurring:
+- at Factories individually, that are then able to produce the equivalent Tech Level Engineer. Equivalent Tech Engineer is able to build equivalent and lower Tech Level buildings
+- from an upgrade for the ACU, which enables construction of equivalent and lower Tech Level buildings
+
+Tech Level for a building must be constructed by an equivalent or higher Tech Level Engineer/ACU and building's Tech Level cannot be upgraded, expect for:
+- Mass Extractors are upgraded individually
+- Factories can't be built T2 or T3, thus can only be built T1 and are upgraded individually and sequentially (T1 -> T2 -> T3)
+
+Regarding Experimentals, they are built by Tech Level 3 Engineers and/or an ACU upgraded to build Tech Level 3.
+
+## Buildings
+
+The metaphoric blocks that make a base. Progressing up Tech Levels for buildings offer more strategic options and powerful version of the previous Tech Level building. 
+
+In general:
+- Factories (Land, Air, Naval) produces units 
+- Power Generators generate Energy per second
+- Mass Extractors generate Mass per second
+- Mass Fabricators convert Energy per second into Mass per second
+- Mass/Energy Storage increase storage limit for respective resource
+- Radar and Sonar are utilised to track enemy movements 
+- Shield Generators provide protection from most types of munitions
+- Point Defense, Anti-Air Turrets, and Torpedo Launchers are static weapons used to repel attackers from land, air, and water respectively
+
+Constructing buildings has cost per second on Economy. In the UI entry for a given building is 2 numbers per resource required: the total cost resource cost of the building and, in parathesis, the cost per second. Use the first figure against required resource you have stored, **if** the building's base cost is is greater than value stored then utilise the second number against income per second for the required resoruce.
+
+Most but not all buildings have an Energy cost per second; their function is toggleable meaning it can be turned off to stop its Energy per second cost on your economy, but the building's function will cease also. In the case of a Mass Fabricator, this will stop it converting Energy to Mass. 
+
+Outside the scope of this guide but worthwhile understanding once you're comfortable with the basics is [Adjacency Bonus](/Play/Learning/Adjacency-Bonus).
+
+## Units
+
+A player can have double the eco of their opponent and still lose the match, why? Because the different kinds of units have a major impact in being successful with conducting and countering combat engagements.
+
+A key aspect to remember is a unit's sight range and it weapon(s) range are not the same. Most units can fire farther than they can see so having another unit or radar/sonar spot for them allows the firing unit to deal damage whilst reducing retaliation fire due to range advantage. 
+
+### Categories
+
+Without going into great detail and staying within T1-T3, the following is a role summation for each category of unit (that appears in more than one faction):
+
+**Engineer**  
+Builder unit, no combat capabilities
+
+**Scout**  
+Available in Land and Air format, this unit has no combat capabilities but superior vision.  
+Best used to determine where the enemy is and what they have built, and in conjunction with combat units to provide combat units vision beyond their own means.   
+
+**Assault Bot**  
+Short range, fast moving, low health. Best used firing on the move and for flanking.    
+
+**Tank**  
+Slow moving, hard hitting, moderate health unit. Amphibious variant can traverse both land and water but lack damage output of non-amphibious tanks.   
+
+**Artillery**  
+Long range in-direct fire unit with low health, splash damage great for groups of units and buildings. Keep positioned just behind front line or out of range of enemy Point Defenses.
+
+**Mobile Missile Launcher**  
+Long range in-direct fire unit with low health, precision strike for high damage against a single target. Keep positioned just behind front line or out of range of enemy Point Defenses.
+
+**Mobile Anti-Air**  
+Dedicated to combating Air units
+
+**Mobile Defense**  
+- **Mobile Shield Generator**: Slow-moving unit that provides protection from most munitions in a radius around itself. Best used in conjunction with front line units and defense of buildings whilst shield generator building being constructed.
+- **Mobile Stealth Field**: Unique to the Cybran faction, a slow moving unit that hides units from radar detection in a radius around itself. Best used to foil enemy radar coverage and aid guerrilla tactics. Contrary to the namesake, Stealth fields do not prevent enemy units from visually seeing units inside a Stealth field.
+
+**Interceptor/Fighter**  
+Dedicated Air-to-Air unit, fast moving, great for escorting other Air units and patrol duties.
+
+**Bomber**  
+Air-to-Ground, strafes and delivers payload in a line. Best against static targets, some success against slow moving Land units. Torpedo variant used exclusively against Naval units and buildings, fires one target seeking torpedo per strafe run.
+
+**Transport**  
+Used to transport or ferry Land units, including ACU, long distances quickly and over impassable terrain. Best used to move Land units to a distant front line in a fraction of the time they could themselves, drop off Engineers/ACU at an unclaimed Mass point or Hydrocarbon site, and the only method of moving Land units over water and mountains.
+Please see [Air-Transport](/Play/Learning/Air-Transport) for capacity specifics of each faction's transports.
+
+**Gunship**  
+Close Air Support, stays within close proximity of target to deliver continuous fire. Makes quick work of undefended, from air, Land and surfaced Naval targets. 
+
+**Attack Submarine**  
+Submerged unit for attacking Naval units and buildings. If not detected by Sonar it can remain unseen when firing. 
+
+**Frigate**  
+Support unit equipped with Radar and Sonar, offensive capabilities are faction dependant.
+
+**Submarine Hunter**
+Anti-submarine role primarily, additional capabilities are faction dependent.
+
+**Crusier**  
+Improved Radar and Sonar capabilities over the Frigate. Offensive capabilities are faction dependent thought they all have Anti-Air weaponry.
+
+**Destroyer**  
+Anti-Submarine role primarily, additional capabilities are faction dependent.
+
+**Battleship**  
+Long range bombardment and engagement with non-submersed Naval units primarily, additional capabilities are faction dependent.
+
+**Missile Submarine**  
+Submersible unit that fires both tactical (long-range precision strike) and buildable strategic missiles (Nukes).
+
+**Aircraft Carrier**  
+Produces, stows, and refuels Air units. In essence, a mobile Air Factory and Air Staging Facility on water.
+
+### Fuel
+
+Air units have an additional bar under their health bar which displays their current fuel. When fuel bar is depleted the Air unit's speed is greatly reduced, in turn reducing its effectiveness.  
+Landing the air unit will slowly regenerate its fuel bar, though docking at an Air Staging Facility building or at an Aircraft Carrier will instantly replenish fuel.  
+
+## Veterancy
+
+Units will receive veterancy based on the Mass of the unit that is killed. A unit also doesn't need to get the killing blow to receive veterancy.  
+Once a unit dies all the units which damaged it will receive veterancy points based on how much damage they did to that unit.
+
+A unit has to gain 200% of its Mass value in veterancy points to gain a rank. 200% drops to 50% for Experimental units.
+
+Each rank of veterancy non-cumulatively increases a unit's base health by 10% and its health regen by 10 per second, i.e.  
+- Rank 1 - Base Health + 10%, Health Regen +10/s  
+- Rank 2 - Base Health + 20%, Health Regen +20/s  
+- Rank 3 - Base Health + 30%, Health Regen +30/s  
+- Rank 4 - Base Health + 40%, Health Regen +40/s  
+- Rank 5 - Base Health + 50%, Health Regen +50/s  
+
+## Intelligence
+
+Another important aspect of the game is intelligence and counter-intelligence, i.e. you watching the enemy and preventing them from watching you.
+
+**Radar** provides coverage for spotting land, air, and naval surface units in a radius from the radar emitting unit/building. It cannot detected submerged naval units and anything inside a stealth field. Having sight of targets far beyond the visual range of units and static weapons allows them to react to incoming enemies, within weapoins range, quicker and is essential for effectively utilising the long range of units and static weapons both offensively and defensively.  
+In general, the higher the Tech Level radar building the larger the radius.
+
+**Sonar** being the naval counterpart to Radar, spotting units traversing in (i.e. submerged) and over water.
+
+**Stealth Fields** hide units and buildings from enemy radar/sonar. This can be used both defensively and offensively though it is worth noting the trade-off between mobile and static generation.  
+Mobile stealth units have a much smaller radius yet are mobile, meaning if unit vision has spotted them then they can relocate. Conversely, Stealth Generators are buildings with a far greater Stealth field radius but are immobile, if it's been spotted by enemy vision it's position will be visible to enemy players visually following the spotting unit.
+
+**Radar Jamming** is a passive ability of unit that generates more unit signatures to enemy radar/sonar than what is actually there. Counter-intelligence designed to fool enemies into thinking a larger number of units are present, suggesting to enemy player to over commit to an offense or defense of the detected unit, or units in this case.
+
+**Omni** is Radar and Sonar that ignores Stealth Fields and Radar Jamming, which makes it coveted for high priority positions. An ACU and T3 Air Scouts have this capability along with a T3 Radar building, though the T3 Radar's Omni radius is identical to the radar radius of the T2 Radar.
+
+## Build Order
+
+A build order is akin to an opening play in chess, deciding what to focus on building and producing in the early stages of a match can have advantages and disadvantages throughout a match. Map terrain also has effect on build order, e.g. a mainly water-based map will see hardly any Land units, if any at all, being utilized. 
+
+### Second land  
 A build order where the ACU builds two land factories.
 
 **The ACU builds:**
-- Land factory
+- Land Factory
 - 2 Pgens
 - 4 Mexes
 - 3 Pgens
-- Land factory
+- Land Factory
 - Move to front line or help produce more factories (the first is better)
 
-**The First Engineers build:**
+**The first Engineers build:**
 - 1st Engie: Expands, reclaims, or assists ACU
 - 2nd Engie: Expands, reclaims
 - 3rd Engie: Assists ACU, takes over base production for ACU to move toward front lines
 
----
-
-**Second Air**
-A build order where the ACU builds a land factory, followed by an air factory. This is very common in higher level of play, because it lets you build bombers for attacking the enemy, interceptors for killing enemy bomber and, most importantly, scouts for finding out what your opponent is up to.
+### Second Air  
+A build order where the ACU builds a Land Factory, followed by an Air Factory. This is very common in higher level of play, because it lets you build bombers for attacking the enemy, interceptors for killing enemy bomber and, most importantly, scouts for finding out what your opponent is up to.
 
 **The ACU builds:**
-- Land factory
+- Land Factory
 - 2 Pgens
 - 4 Mexes
 - 4-6 Pgens
-- Air factory
+- Air Factory
 - Move to front line or help produce more factories (the first is better)
 
 **The First Engineers build:**
@@ -140,148 +288,76 @@ A build order where the ACU builds a land factory, followed by an air factory. T
 - 2nd Engie: Expands, reclaims
 - 3rd Engie: Assists ACU, takes over base production for ACU to move toward front lines
 
----
-
-**Second Air (Hydro version)**
-A build order where the ACU builds a land factory, followed by an air factory. Since hydro's are very cost-efficient you should use the hydro Version if possible.
+### Second Air (Hydro version)  
+A build order where the ACU builds a Land Factory, followed by an Air Factory. Since hydrocarbon powerplants are very cost-efficient you should use this version if possible.
 
 **The ACU builds:**
-- Land factory
+- Land Factory
 - 4 Mexes
 - Assists first engineer
 - Move to front line or help produce more factories (the first is better)
 
 The First Engineers build:
-- 1st Engie: Hydro, 1-2 Pgns, Air factory attached to hydro (for the [Adjacency Bonus](/Play/Learning/Adjacency-Bonus))
-- 2nd Engie: Assist building hydro, expand, reclaim
+- 1st Engie: Hydrocarbon powerplant, 1-2 Pgens, Air factory placed next to hydrocarbon powerplant (for Adjacency bonus)
+- 2nd Engie: Assist building hydrocarbon powerplant, expand, reclaim
 - 3rd Engie: Expand, reclaim, or assist ACU in factory production
 
 <img src="/images/learning/fafguide-beginner-4.jpg" width="1000"/>
 
-## Units
+## Faction Diversity
 
-In this chapter we'll see what you can build with the stuff we've seen in the previous chapter ("Introduction").
+As an in-depth guide of the [Factions]{https://wiki.faforever.com/en/Play/Learning-SupCom/Faction-Information) is available, the following is more summary.
 
-General information There are a few things you cannot bind to one subject, like tech and upgrades for example. The game exists out of 4 techs: Tech 1 (T1), Tech 2 (T2), Tech 3 (T3), and the Experimental Tech (Exp or T4). Besides that you also have upgrades for the ACU, mexes, and some other stuff like adjacency bonus'. I'll always start from the bottom (T1) and work my way up, although you might not see any T3 in here, because these will get covered later in the guide when you understand the basics.
+### UEF - Unity
+A strong faction known for their excellent defenses. Recommended for beginners.
 
-### The ACU
+- Pros:
+  - T1 Striker can dodge incoming fire, excellent in the early game.
+  - T2 Pillar is a very cheap unit compared to other T2, making them great early in the T2 game to overwhelm the enemy.
+  - T3 Percival is the strongest frontline T3 unit available to any faction.
+- Con's:
+  - T1 Bombers don't have a good precision, making them less efficient to kill the opponent's expanding engineers at the early game.
 
-![fafguide-beginner-7.jpg](/images/learning/fafguide-beginner-7.jpg)
+For more information on intermediate-level play of this faction: [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide).
 
-The ACU is the Queen on the chessboard. It's very important, can do a lot of stuff, but also very easy to lose if not paid attention to.
+### Cybran - Freedom
+A faction that's more difficult to play but has many tools which make it interesting.
+- Pros:
+  - T1 Mantis is the fastest t1 tank, and can even assist with building; it's ability to build things is far worse than an Engineers so they should be used for this purpose in a pinch
+  - T2 Mobile stealth field is a very cheap and effective unit
+- Cons:
+  - T1 Bombers have bad precision, making them inefficient vs units and can sometimes fail to kill expanding enemy engineers.
+  - No Mobile Shield unit
 
-**Strength**
-There's a lot of stuff to say about the ACU, so let's start with the basics: strength. People often put the ACU equal to 20 tanks in a 1vs1 game, thus it can be used as a very aggressive unit. However, you don't want to risk the ACU too much, so let's see how much it can take:
+For more information on intermediate-level play of this faction: [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide).
 
-A Cybran ACU fighting 15 Seraphim tanks ---
+### Aeon - Clarity  
+One of the more difficult factions to play due to some quirks with their tanks, but very rewarding when used correctly.
+- Pros:
+  - T1 Aurora outranges all other T1 tanks, can dodge incoming fire, and is amphibious
+  - T2 Obsidian is a strong unit, effective vs other T2, but is slow moving with a short range which puts it at a disadvantage against T1 units.
+  - The only faction to have a T2 fighter, you can dominate the skies with these until T3 air hits the field.
+- Cons:
+  - T1 Aurora has very low hp, is quite slow, and requires constant attention.
+  - T2 Obsidian is slow and low ranged, and not as good vs T1 as other T2 tanks.
 
-You can see the ACU didn't have a lot of health left, something you definitely want to avoid from happening! But you can also see the ACU took out 15 tanks, which is a lot. If the ACU had some backup, maybe 5 tanks for example, it wouldn't have been in trouble at all. You can also notice the ACU was under attack by all 15 tanks the whole time, we'll see what we can do to avoid this in [2.4 Intel](/Play/Learning/Beginners-Guide-to-Forged-Alliance#intel).
+For more information on intermediate-level play of this faction: [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide).
 
-**Veterancy**
-Everything that can kill gets veterancy after it desroys a certain amount of mass (double the unit's own cost for most units). This means that if a unit deals damage to an enemy unit but doesn't get the kill on it, it will still advance towards its next veterancy. The amount it advances is determined by the enemy unit's cost and the amount of damage your unit dealt to it. The ACU for example needs roughly 20 T1 tank kills to get its first veterancy (1k mass killed). You can only get a maximum of five veterancies. Why? Each time a unit gets veterancy its health will not only increase, but it'll also get a certain amount of its health back. The ACU for example extends its health capacity by around 1K (depending on the faction) and gets 10% of its health back by the first veterancy, for free!
+### Seraphim - Destruction
+This faction has very strong units and some good defenses, especially shields, though suffer from a lack of unit choice.
+- Pros:
+  - T1 artillery is effective, and amphibious
+  - T2 Illshavoh is very strong for it's Tier, should be treated as a T2.5 unit
+  - T2 gunship is slightly stronger than other factions' T2 gunships
+- Cons:
+  - A distinct lack of units that other factions have, e.g. no Light Assault Bots (LABs)
 
-Coming soon: a video showing a nicely timed veterancy for the ACU and more explanation.
+For more information on intermediate-level play of this faction: [Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide).
 
-**Overcharge**
-Now that you know what veterancy is, you should realise you can use your ACU aggressively. And if you do this, there's one thing you should never forget: always build power storage! Because when you have more than 5K power (you start with 4K), your ACU can use his overcharge. So what is overcharge exactly? A powerful cannon shot which does great damage, it is capable of killing groups of units up to tier 3 (if they are close together). Overcharge damage scales with the more power you have in storage. A tier 3 unit won't die with just 5k power used but if you build multiple storages and fill them up, it will die just like lower tier units. Overcharge can't kill an experimental unit in a single shot but it can deal significant damage, provided you have the power for it. Here's a video showing its power:
+## Additional Learning
 
-Video coming soon
+Additional resources for new players:
 
-Upgrades Alright. A little bit earlier we saw the strength of the ACU and as you can imagine it isn't that great later in the game. That's where upgrades come into play, let's sum them all up with a nice video:
+[New Starter Guide](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit)
 
-Gun
-
-Engineering suite
-
-More to come soon
-
-Buildpower
-
-### Base
-
-Here we'll talk about pure macro. When to get what.
-
-### Offense & Defense
-
-You won't kill the enemy with nothing to attack. But what exactly is the best unit to attack with? Or defend?
-
-### Counters
-
-This is the part where it gets really interesting. A player can have double the eco of his opponent and still lose, why? Because the different kinds of units play a big role in the game! Let's make a list of what you can counter with what to get started:
-- Tech 1
-	- Point Defense = Artillery (Point Defense gets outranged by artillery!)
-	- Bombers/Jesters = Mobile Anti-Air (Mobile Anti-Air will hold off your opponent's bombers, but you should get air fast aswell)
-	- Aurora = Bombers (Bombers can one-hit the T1 aeon tanks)
-	- Zthuee's = Frigates (This counts for maps where the seraphim artillery can go over the water)
-- Tech 2
-	- Gunships = T2 Mobile Anti-Air (Don't cover the whole map with T2 Anti-Air, make it mobile!)
-	- Mobile Missile Launchers = Mobile Missile Launchers (Building TMD against MML's is in most situations useless. Either attack or build the same unit)
-	- TML = TMD (Don't wait till the TML is finished... Protect your T2 mexes asap against TML, especially in teamgames!)
-- Tech 3
-	- Artillery = Artillery (Large numbers of T2 and T3 shields can stave off artillery fire for a while but you need to act before  more start firing at your base. Counter with the same unit!)
-- Experimental Tech
-	- Land experimentals = air and other land experimentals (T3 air will destroy land based experimentals, assuming there is not  enough anti-air or opposing fighters. For a land based solution you will need your own experimental unit, an escort of T3 units  with your experimental might tip the fight slightly in your favour. In a pinch large amounts of T2 and T3 PDs might do the trick but your opponent can just go around them.)
-	- Air experimentals = T3 air superiority fighters and large amounts of T3 SAM launchers (The fighters are the preferable choice, since it is unlikely that enough SAMs can be built in time on expansions. If you resort to SAMs, you should know that merely crashing the air experimental in your base can take out a key structure, such as an anti-nuke launcher.)
-
-### Intel
-Probably the most important aspect of the game. Not only you watching the enemy, but also preventing him from watching you!
-
-Most of the time when a newby asks advice about his replay in the replay analysis thread he gets told to scout more often. However I think it isn't very helpfull to say it like that. So how should you scout?
-- Small maps
-
-On small maps you usually go second land rather than second air. Meaning you cannot build a scout plane to fly over the whole map. A good way to scout on small maps is by building some early land scouts and placing them on positions where it shouldn't be attacked, while they provide useful intel. LAB's can also be used to scout. While they don't provide radar coverage, you can send them to small chokepoints where raids could pass. If the LAB gets killed, you know there's a raid coming your way.
-- Big maps
-
-On 10x10 and 20x20 maps it's often normal to go second air. There is something you should decide when going second air: do I build a bomber or a scout with an interceptor first? Looking at your own and your enemy's faction can help you decide. For example, if you're UEF and your opponent is Seraphim, you can almost be certain he'll build a bomber. So what you can do is build a scout to get intel and the position of the bomber, followed by an interceptor to finish the bomber off.
-
-Now you've some basic knowledge about scouting, let's try to prevent it.
--   Stealth
-
-There are both static and mobile units that provide a stealth field. The most advanced stealth unit is probably the Cybran Deceiver. A mobile T2 unit that can hide your army from the enemy. There are also static T2 Stealth Field generators. The disadvantage of these is that once they get scouted, the enemy knows that area is hidden from his radars. While with deceivers on the other hand, he doesn't know which area is hidden, since they are mobile.
--   Cloak
-
-There are also a few units whom can cloak themselves, hiding them from view! These can be very usefull. However, if they aren't in a stealth field and the enemy has radar coverage over it, they will appear as a grey square making them visible. There are a few mean things you can do with cloak. The Seraphim T1 scout for example is very usefull for preventing the enemy building his mexes. How? You cloak the scout and then place it on a mex spot, the enemy engineer won't build the mex and the enemy uses valueable time (especially on smaller maps). If you're the one getting prevented from building a mex, you can simple order an attack move over the mass spot to reclaim the cloaked scout.
-
-### Faction diversity
-Now you understand quite a lot about units and economy, maybe it's time to choose a faction! There is a much more in depth version of this [here](Faction_Information "wikilink"). Alternatively you can play random to learn all of them at once!
-
-**UEF - Unity!** A strong faction, known for their excellent defenses.
-Pro's:
-- T1 Striker can dodge incoming fire, excellent in the early game.
-- T2 Pillar is a very cheap unit compared to other T2, making them great early in the T2 game to overwhelm the enemy.
-- T3 percival is the strongest frontline T3 unit available to any faction.
-Con's:
-- T1 Bombers don't have a good precision, making them less efficient to kill the opponent's expanding engineers at the early game.
-
-For more information on intermediate-level play check the [UEF 1v1 Guide](/Play/Learning/UEF-1v1-Guide).
-
-**Cybran - Freedom!** A faction that's more difficult to play, but has many tools which make it interesting.
-Pro's:
-- T1 Mantis is the fastest t1 tank, and can even assist with building projects. (The mantis' ability to build things is far worse than an engineers so they should be used as engineers only in a pinch.)
-- T2 Mobile stealth field is a very cheap and effective unit! Just try it!
-Con's:
-- T1 Bombers have a bad precision, making them inefficient vs units, and can sometimes fail to kill enemy expanding engineers.
-- No Mobile Shields
-
-For more information on intermediate-level play check the [Cybran 1v1 Guide](/Play/Learning/Cybran-1v1-Guide).
-
-**Seraphim - Destruction!** This faction has very strong units, and some good defenses, especially shields, but there are less of them.
-Pro's:
-- T1 artillery is effective, and can cross water!
-- T2 Illshavoh is very strong, it should be treated as a t2.5 unit.
-- T2 gunship is slightly stronger than the other factions' T2 gunships
-Con's:
-- They have a distinct lack of units - such as no LABs
-
-For more information on intermediate-level play check the [Seraphim 1v1 Guide](/Play/Learning/Seraphim-1v1-Guide).
-
-**Aeon - Clarity!** One of the harder factions to play due to some quirks with their tanks, but very rewarding when used correctly.
-Pro's:
-- T1 Aurora outranges all other t1 tanks, can dodge incoming fire, and even hover!
-- T2 Obsidian is a strong unit, effective vs other T2, but slow and low ranged, and not as good vs T1.
-- The only faction to have a T2 fighter, you can dominate the skies with these until T3 air hits the field.
-Con's:
-- T1 Aurora has very low hp, is quite slow, and requires constant attention.
-- T2 Obsidian is slow and low ranged, and not as good vs T1 as other T2 tanks.
-
-For more information on intermediate-level play check the [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide).
+[Three Essential Habits for the New Player](/Play/Learning/Three-Essential-Habits-for-the-New-Player)
