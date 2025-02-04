@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:01:27.798Z
+date: 2025-02-04T14:37:09.292Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -176,7 +176,9 @@ Available in Land and Air format, this unit has no combat capabilities but super
 Best used to determine where the enemy is and what they have built, and in conjunction with combat units to provide combat units vision beyond their own means.   
 
 **Assault Bot**  
-Short range, fast moving, low health. Best used firing on the move and for flanking. Only unit able to fire whilst docked in a transport unit.
+In T1 they are short range, fast moving, low health units best used firing on the move and for flanking.  s
+in T3 they become the stable front line unit.  
+Worth noting that T1 Assault Bots are able to fire whilst docked in a transport unit.
 
 **Tank**  
 Slow moving, hard hitting, moderate health unit. Amphibious variant can traverse both land and water but lack damage output of non-amphibious tanks. 
@@ -327,9 +329,9 @@ As an in-depth guide of the [Factions](https://wiki.faforever.com/en/Play/Learni
 A strong faction known for their excellent defenses. Recommended for beginners.
 
 - Pros:
-  - T1 Striker can dodge incoming fire, excellent in the early game.
-  - T2 Pillar is a very cheap unit compared to other T2, making them great early in the T2 game to overwhelm the enemy.
-  - T3 Percival is the strongest frontline T3 unit available to any faction.
+  - T1 Tank can dodge incoming fire, excellent in the early game.
+  - T2 Tank is a very cheap unit compared to other T2, making them great early in the T2 game to overwhelm the enemy.
+  - T3 Assault Bot is the strongest frontline T3 unit available to any faction. 
 - Con's:
   - T1 Bombers don't have a good precision, making them less efficient to kill the opponent's expanding engineers at the early game.
 
@@ -338,7 +340,7 @@ For more information on intermediate-level play of this faction: [UEF 1v1 Guide]
 ### Cybran - Freedom
 A faction that's more difficult to play but has many tools which make it interesting.
 - Pros:
-  - T1 Mantis is the fastest t1 tank, and can even assist with building; it's ability to build things is far worse than an Engineers so they should be used for this purpose in a pinch
+  - T1 Tank is the fastest of all T1 tanks, and can even assist with building; it's ability to build things is far worse than an Engineers so they should be used for this purpose in a pinch
   - T2 Mobile stealth field is a very cheap and effective unit
 - Cons:
   - T1 Bombers have bad precision, making them inefficient vs units and can sometimes fail to kill expanding enemy engineers.
@@ -349,21 +351,21 @@ For more information on intermediate-level play of this faction: [Cybran 1v1 Gui
 ### Aeon - Clarity  
 One of the more difficult factions to play due to some quirks with their tanks, but very rewarding when used correctly.
 - Pros:
-  - T1 Aurora outranges all other T1 tanks, can dodge incoming fire, and is amphibious
-  - T2 Obsidian is a strong unit, effective vs other T2, but is slow moving with a short range which puts it at a disadvantage against T1 units.
-  - The only faction to have a T2 fighter, you can dominate the skies with these until T3 air hits the field.
+  - T1 Tank outranges all other T1 tanks, can dodge incoming fire, and is amphibious
+  - T2 Tank is a strong unit, effective vs other T2, but is slow moving with a short range which puts it at a disadvantage against T1 units.
+  - The only faction to have a T2 Fighter, you can dominate the skies with these until T3 air hits the field.
 - Cons:
-  - T1 Aurora has very low hp, is quite slow, and requires constant attention.
-  - T2 Obsidian is slow and low ranged, and not as good vs T1 as other T2 tanks.
+  - T1 Tank has very low hp, is quite slow, and requires constant attention.
+  - T2 Tank is slow and low ranged, and not as good vs T1 as other T2 tanks.
 
 For more information on intermediate-level play of this faction: [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide).
 
 ### Seraphim - Destruction
 This faction has very strong units and some good defenses, especially shields, though suffer from a lack of unit choice.
 - Pros:
-  - T1 artillery is effective, and amphibious
-  - T2 Illshavoh is very strong for it's Tier, should be treated as a T2.5 unit
-  - T2 gunship is slightly stronger than other factions' T2 gunships
+  - T1 Artillery is effective, and amphibious
+  - T2 Assault Bot is very strong for it's Tier, should be treated as a T2.5 unit
+  - T2 Gunship is slightly stronger than other factions' T2 gunships
 - Cons:
   - A distinct lack of units that other factions have, e.g. no Light Assault Bots (LABs)
 
