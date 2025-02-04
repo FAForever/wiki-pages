@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:37:09.292Z
+date: 2025-02-04T14:37:59.792Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -176,9 +176,8 @@ Available in Land and Air format, this unit has no combat capabilities but super
 Best used to determine where the enemy is and what they have built, and in conjunction with combat units to provide combat units vision beyond their own means.   
 
 **Assault Bot**  
-In T1 they are short range, fast moving, low health units best used firing on the move and for flanking.  s
-in T3 they become the stable front line unit.  
-Worth noting that T1 Assault Bots are able to fire whilst docked in a transport unit.
+In T1 they are short range, fast moving, low health units best used firing on the move and for flanking. In T3 they become the staple front line unit.  
+It's worth noting that T1 Assault Bots are able to fire whilst docked in a transport unit.
 
 **Tank**  
 Slow moving, hard hitting, moderate health unit. Amphibious variant can traverse both land and water but lack damage output of non-amphibious tanks. 
