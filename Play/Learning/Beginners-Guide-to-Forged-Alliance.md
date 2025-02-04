@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T13:59:33.273Z
+date: 2025-02-04T14:00:53.486Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -239,7 +239,7 @@ Landing the air unit will slowly regenerate its fuel bar, though docking at an A
 
 ## Veterancy
 
-Units will receive veterancy based on the Mass of the unit that is killed. A unit also doesn't need to get the killing blow to receive veterancy.  
+Units will receive veterancy based on the Mass value of the unit that is killed. A unit doesn't need to strike the killing blow to receive veterancy.  
 Once a unit dies all the units which damaged it will receive veterancy points based on how much damage they did to that unit.
 
 A unit has to gain 200% of its Mass value in veterancy points to gain a rank. 200% drops to 50% for Experimental units.
