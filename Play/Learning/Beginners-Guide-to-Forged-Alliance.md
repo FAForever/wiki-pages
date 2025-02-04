@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T13:58:41.513Z
+date: 2025-02-04T13:59:33.273Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -176,7 +176,7 @@ Available in Land and Air format, this unit has no combat capabilities but super
 Best used to determine where the enemy is and what they have built, and in conjunction with combat units to provide combat units vision beyond their own means.   
 
 **Assault Bot**  
-Short range, fast moving, low health. Best used firing on the move and for flanking.    
+Short range, fast moving, low health. Best used firing on the move and for flanking. Only unit able to fire whilst docked in a transport unit.
 
 **Tank**  
 Slow moving, hard hitting, moderate health unit. Amphibious variant can traverse both land and water but lack damage output of non-amphibious tanks. 
