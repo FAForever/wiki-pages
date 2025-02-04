@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:41:57.799Z
+date: 2025-02-04T14:42:40.982Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -339,7 +339,7 @@ For more information on intermediate-level play of this faction: [UEF 1v1 Guide]
 ### Cybran - Freedom
 A faction that's more difficult to play but has many tools which make it interesting.
 - Pros:
-  - T1 Assault Bot is the Cybran's T1 Tank, which moves faster than other T1 tanks. It can even assist with building, though it's rate of construction is far worse than an Engineers so they should be used for this purpose in a pinch
+  - T1 Assault Bot acts as the Cybran's T1 Tank, which moves faster than other T1 tanks. It can even assist with building, though it's rate of construction is far worse than an Engineers so they should be used for this purpose in a pinch
   - T2 Mobile stealth field is a very cheap and effective unit
 - Cons:
   - T1 Bombers have bad precision, making them inefficient vs units and can sometimes fail to kill expanding enemy engineers.
