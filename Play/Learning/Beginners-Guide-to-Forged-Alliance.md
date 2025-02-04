@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2023-02-05T19:08:07.175Z
+date: 2025-02-04T13:52:38.719Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -12,7 +12,7 @@ dateCreated: 2021-10-24T20:57:18.985Z
 
 **First of all, welcome to FAF! We are happy to have you!**
 
-The purpose of this guide is for new players to understand the ultimate basics of Supreme Commander/FAF, ensuring basic knowledge of gameplay mechanics are known before playing.
+The purpose of this guide is for new players to understand the ultimate basics of Supreme Commander FAF, ensuring basic knowledge of gameplay mechanics are known before playing.
 
 If you haven't setup the FAF client: [Windows Install](/Play/Windows-Install) [Linux Install](/Play/Linux-Install).
 
@@ -115,7 +115,7 @@ Be aware, that when the ACU is upgrading it becomes immobile, weapons are disabl
 There are 3 Tech Levels with an Experimental Tech Level in the late game. Upgrading to a Tech Level isn't global as typically seen in the RTS genre.
 
 Matches start at T1, with upgrades to the next Tech Level occurring:
-- at Factories individually, that are then able to produce the equivalent Tech Level Engineer. Equivalent Tech Engineer is able to build equivalent and lower Tech Level buildings
+- at a Land, Air, or Naval Factory and only for that factory. i.e. upgrading a T1 Land factory to T2 doesn't enable T2 for Air and Naval factories
 - from an upgrade for the ACU, which enables construction of equivalent and lower Tech Level buildings
 
 Tech Level for a building must be constructed by an equivalent or higher Tech Level Engineer/ACU and building's Tech Level cannot be upgraded, expect for:
@@ -123,6 +123,18 @@ Tech Level for a building must be constructed by an equivalent or higher Tech Le
 - Factories can't be built T2 or T3, thus can only be built T1 and are upgraded individually and sequentially (T1 -> T2 -> T3)
 
 Regarding Experimentals, they are built by Tech Level 3 Engineers and/or an ACU upgraded to build Tech Level 3.
+
+### Factory Headquarters
+  
+In FAF, to initally tech up from T1 to T2 for a given Factory category (Air, Land, Naval) a Factory must be upgraded to a Factory HQ, this will in turn enable:
+1. Construction of T2 Factories for the Factory category upgraded 
+2. Upgrade of any T1 Factory, of same category, to T2.
+
+Upgrade from T2 to T3 also occurs at Factory HQ.
+
+If there is only 1 Factory HQ for a category and it's destroyed, construction and upgrade of T2 and T3 Factories, of category, will be disabled.
+
+Mid to late stages of a match it's recommended to have more than one Factory HQ for a category.
 
 ## Buildings
 
