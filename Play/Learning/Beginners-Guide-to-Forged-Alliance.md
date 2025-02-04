@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T13:52:38.719Z
+date: 2025-02-04T13:54:32.072Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -167,7 +167,7 @@ A key aspect to remember is a unit's sight range and it weapon(s) range are not 
 Without going into great detail and staying within T1-T3, the following is a role summation for each category of unit (that appears in more than one faction):
 
 **Engineer**  
-Builder unit, no combat capabilities
+Builder and repair unit, no combat capabilities
 
 **Scout**  
 Available in Land and Air format, this unit has no combat capabilities but superior vision.  
@@ -177,7 +177,7 @@ Best used to determine where the enemy is and what they have built, and in conju
 Short range, fast moving, low health. Best used firing on the move and for flanking.    
 
 **Tank**  
-Slow moving, hard hitting, moderate health unit. Amphibious variant can traverse both land and water but lack damage output of non-amphibious tanks.   
+Slow moving, hard hitting, moderate health unit. Amphibious variant can traverse both land and water but lack damage output of non-amphibious tanks. 
 
 **Artillery**  
 Long range in-direct fire unit with low health, splash damage great for groups of units and buildings. Keep positioned just behind front line or out of range of enemy Point Defenses.
@@ -196,7 +196,8 @@ Dedicated to combating Air units
 Dedicated Air-to-Air unit, fast moving, great for escorting other Air units and patrol duties.
 
 **Bomber**  
-Air-to-Ground, strafes and delivers payload in a line. Best against static targets, some success against slow moving Land units. Torpedo variant used exclusively against Naval units and buildings, fires one target seeking torpedo per strafe run.
+Air-to-Ground, strafes and delivers payload in a line. Best against static targets, some success against slow moving Land units.  
+Torpedo variant used exclusively against Naval units and buildings, fires one target seeking torpedo per strafe run.
 
 **Transport**  
 Used to transport or ferry Land units, including ACU, long distances quickly and over impassable terrain. Best used to move Land units to a distant front line in a fraction of the time they could themselves, drop off Engineers/ACU at an unclaimed Mass point or Hydrocarbon site, and the only method of moving Land units over water and mountains.
