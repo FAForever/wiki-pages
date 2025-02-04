@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T13:54:32.072Z
+date: 2025-02-04T13:57:31.569Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -122,7 +122,9 @@ Tech Level for a building must be constructed by an equivalent or higher Tech Le
 - Mass Extractors are upgraded individually
 - Factories can't be built T2 or T3, thus can only be built T1 and are upgraded individually and sequentially (T1 -> T2 -> T3)
 
-Regarding Experimentals, they are built by Tech Level 3 Engineers and/or an ACU upgraded to build Tech Level 3.
+Regarding Experimentals:
+- they are built by Tech Level 3 Engineers and/or an ACU upgraded to build Tech Level 3.
+- Each faction has unique Experimentals
 
 ### Factory Headquarters
   
