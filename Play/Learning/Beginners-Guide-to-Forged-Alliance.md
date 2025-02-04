@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:44:20.138Z
+date: 2025-02-04T14:45:13.591Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -329,7 +329,7 @@ A strong faction known for their excellent defenses. Recommended for beginners.
 
 - Pros:
   - T1 Tank can dodge incoming fire, excellent in the early game.
-  - T2 Tank is a very cheap unit compared to other T2, making them great early in the T2 game to overwhelm the enemy.
+  - T2 Tank is a very cheap unit compared to other T2 Tanks, making them great early in the mid game to overwhelm the enemy.
   - T3 Assault Bot is the strongest frontline T3 unit available to any faction. 
 - Con's:
   - T1 Bombers don't have a good precision, making them less efficient to kill the opponent's expanding engineers at the early game.
