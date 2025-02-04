@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:00:53.486Z
+date: 2025-02-04T14:01:27.798Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -321,7 +321,7 @@ The First Engineers build:
 
 ## Faction Diversity
 
-As an in-depth guide of the [Factions]{https://wiki.faforever.com/en/Play/Learning-SupCom/Faction-Information) is available, the following is more summary.
+As an in-depth guide of the [Factions](https://wiki.faforever.com/en/Play/Learning-SupCom/Faction-Information) is available, the following is more summary.
 
 ### UEF - Unity
 A strong faction known for their excellent defenses. Recommended for beginners.
