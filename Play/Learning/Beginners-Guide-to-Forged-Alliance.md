@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T13:57:31.569Z
+date: 2025-02-04T13:58:41.513Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -166,7 +166,7 @@ A key aspect to remember is a unit's sight range and it weapon(s) range are not 
 
 ### Categories
 
-Without going into great detail and staying within T1-T3, the following is a role summation for each category of unit (that appears in more than one faction):
+Without going into great detail and staying within T1-T3, the following is a role summation for each category of unit that appears in more than one faction:
 
 **Engineer**  
 Builder and repair unit, no combat capabilities
