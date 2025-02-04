@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:42:40.982Z
+date: 2025-02-04T14:44:20.138Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -354,8 +354,8 @@ One of the more difficult factions to play due to some quirks with their tanks, 
   - T2 Tank is a strong unit, effective vs other T2, but is slow moving with a short range which puts it at a disadvantage against T1 units.
   - The only faction to have a T2 Fighter, you can dominate the skies with these until T3 air hits the field.
 - Cons:
-  - T1 Tank has very low hp, is quite slow, and requires constant attention.
-  - T2 Tank is slow and low ranged, and not as good vs T1 as other T2 tanks.
+  - T1 Tank has very low health, is quite slow, and requires constant attention.
+  - T2 Tank is slow moving and short ranged; not as good vs T1 as other T2 tanks.
 
 For more information on intermediate-level play of this faction: [Aeon 1v1 Guide](/Play/Learning/Aeon-1v1-Guide).
 
