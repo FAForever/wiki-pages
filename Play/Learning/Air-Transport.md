@@ -2,7 +2,7 @@
 title: Air-Transport
 description: 
 published: true
-date: 2025-02-05T22:11:33.234Z
+date: 2025-02-05T22:14:31.113Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:04.324Z
@@ -12,7 +12,7 @@ Transports are Air units that move Land units long distances at speed. They can 
 
 ## Maximum Carrying Capacity
 
-### Tech 1 Transporters
+### Tech 1 Light Air Transport
 
 | Faction	| Tech 1 Units 	| Tech 2 Units 	| Tech 3 Units 	| Clamps 	| Rails 	|
 |----------------------------	|--------------	|--------------	|--------------	|--------	|-------	|
@@ -21,7 +21,7 @@ Transports are Air units that move Land units long distances at speed. They can 
 | Aeon                       	| 6            	| 3            	| 1 (+2 T1)    	| 6      	| 3     	|
 | Seraphim                   	| 8            	| 4            	| 1 (+2 T2)    	| 8      	| 1     	|
 
-### Tech 2 Transporters
+### Tech 2 Air Transport
 
 | Faction	| Tech 1 Units 	| Tech 2 Units 	| Tech 3 Units         	| Clamps 	| Rails 	|
 |----------------------	|--------------	|--------------	|----------------------	|--------	|-------	|
@@ -30,7 +30,7 @@ Transports are Air units that move Land units long distances at speed. They can 
 | UEF                  	| 14           	| 6 (+2 T1)    	| 3 (+2 T1)            	| 14     	| 2     	|
 | Seraphim             	| 16           	| 8            	| 4                    	| 16     	| 2     	|
 
-### Tech 3 Transporter
+### Tech 3 Heavy Air Transport
 
 | Faction	| Tech 1 Units 	| Tech 2 Units 	| Tech 3 Units 	| Clamps 	| Rails 	|
 |----------------------------	|--------------	|--------------	|--------------	|--------	|-------	|
