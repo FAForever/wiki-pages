@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:34:35.287Z
+date: 2025-02-05T09:38:36.122Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -40,7 +40,7 @@ A structure which produces a given resource gives a discount to all structures n
 The values in this table are given for **one** mass-producing structure next to a 4x4 building; more mass-producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in the game, and should not be used for calculations. Buildings which give mass discount bonuses
 
 | Mass Producing Structure 	| Discount for one structure 	| Production Bonus for all Storages 	| Comments 	|
-|---	|---	|---	|---	|
+| :---:	|---	|---	|---	|
 | ![uef_t1_mass_extractor.png](/images/learning/adjacency/uef_t1_mass_extractor.png =40x) T1 Mass Extractor 	| 7.5% | 0.3-1 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T1 Land Factories, if you're not going to eco much. 	|
 | ![uef_t2_mass_extractor.png](/images/learning/adjacency/uef_t2_mass_extractor.png =40x) T2 Mass Extractor 	| 10% | 1-2 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T2 Land Factories. 	|
 | ![uef_t3_mass_extractor.png](/images/learning/adjacency/uef_t3_mass_extractor.png =40x) T3 Mass Extractor 	| 12.5% | 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 Land Factories </br>Note: Quantum gateways only receive 10%. 	|
