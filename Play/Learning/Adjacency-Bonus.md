@@ -2,25 +2,30 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2024-11-23T13:53:02.680Z
+date: 2025-02-05T09:16:19.293Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
 ---
 
-The Adjacency Bonus is a [game mechanic](/Learning#tutorial-videos) in Supreme Commander which gives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures and can be very useful. Mass or energy can saved or produced, leading to a total of 4 possible bonuses.
+Adjacency Bonus prodives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures and can be very useful. Resources (Mass and Energy) can be consumed less or produced more from the 4 possible bonuses.
 
 ## General
 ![adjacency_diagram.png](/images/learning/adjacency/adjacency_diagram.png =425x){.align-right}
 
-To have an adjacency bonus, there must be two structures placed next to each other; one giving the bonus and one receiving it.
+To trigger an adjacency bonus, there must be two structures placed next to each other; one *giving* the bonus and one *receiving* it.
 
 - Any structure which produces a resource is a bonus giver.
-- Any structure consuming a resource is a bonus receiver, including other bonus givers (upgrading mass extractors)
-- Additionally, Storage are bonus giver to resource-producing buildings.
-- Doubling the number of adjacent bonus givers next to a structure doubles the adjacency bonus on that structure.
+- Any structure consuming a resource is a bonus receiver.
+  - Mass production structures are also bonus receivers in a certain case
+- Mass/Energy Storage are bonus giver to their respective resource-producing structure.
+- Doubling the number of bonus givers next to a bonus receiver doubles adjacency bonus.
 
-The Bonus amount is dependent on the number of bonus givers which can fit around a bonus receiver. (minimum:4 maximum:16) This means that the larger a bonus receiver the more bonus givers must be next to it to give the same bonus.
+Bonus amount is dependent on the number of bonus givers which can be place next to a bonus receiver.  
+- Minimum: 4
+- maximum: 16
+
+This means that the larger a bonus receiver the more bonus givers must be next to it to give the same bonus.
 Examples:
 - A factory surrounded by 16 T1 power generators receives the same discount as a radar surrounded by 4 T1 power generators.
 - A mass extractor surrounded by 4 storages receives the same percentage production bonus as a T3 mass fabricator surrounded by 12 mass storages.
