@@ -2,7 +2,7 @@
 title: General 1v1 Guide
 description: 
 published: true
-date: 2025-02-05T22:36:12.233Z
+date: 2025-02-05T22:42:16.866Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
@@ -31,13 +31,12 @@ Be aware, as you spend more and more Mass, you will need more and more Energy. Y
 You should also begin building a row of pgens at the back of your base with 1 or 2 Engineers, these will satisfy your new Engineers building things, various upgrades, etc. Sooner or later you will be spending more Mass than you are gaining, at that point you will need to manage your economy.  
 You can either pause or cancel projects, depending on your preference. The first thing to pause would be the engineers building pgens (assuming you aren't stalling power). If you are still stalling Mass after pausing pgen production, pause Engineers building factories and if you are still stalling a lot of Mass, pause some of the factories. You can unpause them once you get more Mass.
 
-<img src="Twin_rivers_rally_point.png" title="fig:Twin_rivers_rally_point.png" width="700" alt="Twin_rivers_rally_point.png" />
 Now, let's talk about units. Let's move all the way back to those first combat units; they are defending your expanding engineers. You can also raid with them instead, but that leaves your engineers vulnerable, pick your poison. How about your units coming out of your newer land
 factories? The rally point from those factories should be somewhere central, with good access to both your and your opponent's expansions. That way your units are at least a bit closer to where you want them to be instead of being right in your base. The queue of your land factories should be 1 scout, 5 tanks. You can add an anti-air or an artillery unit if necessary.
 
 You should find some use for the units you build, don't let them just sit somewhere doing nothing. Either send them to raid your opponent or protect your expansions. Once you start accumulating more units you can do more daring raids to your opponent's expansions, try not to waste the units though. Or if your opponent is raiding you, send your units to defend your expansions. Some PDs are okay at defence, but you shouldn't build too many of them, 1 or 2 on an expansion should be more than enough if you also send your units. Consider PD more of a support unit rather than your primary defense force. You can also take your ACU on the frontlines, its power as a combat unit should be used, but be careful. Keep your army close to it and if you are clearly winning, consider sending it back to your base so you don't accidentally get killed and lose the game.
 
-If T1 land and air alone won't win you the game or you wish to gain a tech advantage or just build higher tier mexes, see below in “teching” for some advice on when it is okay to tech.
+If T1 land and air alone won't win you the game or you wish to gain a tech advantage or just build higher tier mexes, see [Teching](#Teching) for some advice on when it is okay to tech.
 
 ### Early aggression
 
@@ -89,7 +88,7 @@ Air scouts allow you to see your opponent's base and expansions. This allows you
 
 Radar lets you see the immediate area around your expansions (and base). A T1 radar will give you some warning of enemy raids but it is not too useful in helping you raid. You can build radars on harder to reach places (plateaus, closed off areas) or you can build them close to your advancing armies. These will allow you to see more and aid you in raiding but they are vulnerable to bombers, and the forward radars will likely be lost once you retreat. You can later get T2 and T3 radars, which allow you to see further, but also cost more power to run.
 
-## General guidelines for different map sizes
+## General guidelines for map sizes
 
 ### Without water
 - **5x5**
