@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:38:36.122Z
+date: 2025-02-05T09:41:37.829Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -40,7 +40,7 @@ A structure which produces a given resource gives a discount to all structures n
 The values in this table are given for **one** mass-producing structure next to a 4x4 building; more mass-producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in the game, and should not be used for calculations. Buildings which give mass discount bonuses
 
 | Mass Producing Structure 	| Discount for one structure 	| Production Bonus for all Storages 	| Comments 	|
-| :---:	|---	|---	|---	|
+| :---:	| :---:	| :---:	| :---:	|
 | ![uef_t1_mass_extractor.png](/images/learning/adjacency/uef_t1_mass_extractor.png =40x) T1 Mass Extractor 	| 7.5% | 0.3-1 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T1 Land Factories, if you're not going to eco much. 	|
 | ![uef_t2_mass_extractor.png](/images/learning/adjacency/uef_t2_mass_extractor.png =40x) T2 Mass Extractor 	| 10% | 1-2 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T2 Land Factories. 	|
 | ![uef_t3_mass_extractor.png](/images/learning/adjacency/uef_t3_mass_extractor.png =40x) T3 Mass Extractor 	| 12.5% | 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 Land Factories </br>Note: Quantum gateways only receive 10%. 	|
@@ -55,7 +55,7 @@ The percentage discount value depends on how much of the structure in question i
 In this table, the discount percentages are shown for a **fully surrounded** structure:
 
 | Energy Producing Structures 	| Discount Percentage 	| Typical Discount value 	| Comments 	|
-|---	|---	|---	|---	|
+| :---:	| :---:	| :---:	| :---:	|
 | ![uef_t1_power_generator.png](/images/learning/adjacency/uef_t1_power_generator.png =40x) T1 Power Generator 	| 25% 	| 0.3-1 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to Radar and Air Factories. </br>Not as great next to Land Factories, but should still be used. 	|
 | ![uef_t1_hydrocarbon_power_plant.png](/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png =40x) T1 Hydrocarbon PowerPlant 	| 12.5% 	| 1-2 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| **% value for ONE Hydro shown**. Generally useful next to T1/2 Air Factories. 	|
 | ![uef_t2_power_generator.png](/images/learning/adjacency/uef_t2_power_generator.png =40x) T2 Power Generator 	| 50% 	| 2-4 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to T2 Air Factories. 	|
@@ -148,25 +148,25 @@ Buildings which are affected by mass storage
     <td align="center"><img src="/images/learning/adjacency/uef_t1_power_generator.png"  width="40" align="left"> T1 Power Generator</td>
     <td align="center">+2.5 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
     <td align="center">+10 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Almost useless due to the explosion when the storage dies.<br></td>
+    <td align="center">Almost useless due to the explosion when the Storage dies.<br></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png"  width="40" align="left"> T1 Hydrocarbon Power Plant</td>
     <td align="center">+4 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
     <td align="center">+50 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Almost useless due to the explosion when the storage dies.</td>
+    <td align="center">Almost useless due to the explosion when the Storage dies.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t2_power_generator.png"  width="40" align="left"> T2 Power Generator</td>
     <td align="center">+27.78 <img src="/images/learning/adjacency/energy_icon.png" align="center"><br></td>
     <td align="center">+250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Almost useless due to the explosion when the storage dies.</td>
+    <td align="center">Almost useless due to the explosion when the Storage dies.</td>
   </tr>
   <tr>
     <td align="center"><img src="/images/learning/adjacency/uef_t3_power_generator.png"  width="40" align="left"> T3 Power Generator</td>
     <td align="center">+78.125 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
     <td align="center">+1250 <img src="/images/learning/adjacency/energy_icon.png" align="center"></td>
-    <td align="center">Almost useless due to the explosion when the storage dies.<br></td>
+    <td align="center">Almost useless due to the explosion when the Storage dies.<br></td>
   </tr>
 </tbody>
 </table>
