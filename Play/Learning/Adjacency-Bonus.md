@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:41:37.829Z
+date: 2025-02-05T09:42:19.061Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -64,7 +64,7 @@ In this table, the discount percentages are shown for a **fully surrounded** str
 
 Buildings which give Energy discount bonuses
 
-It should be noted that Mass Extractors consume Energy per second to generate Mass per second. T1 Power Generators should only be used for adjacency bonus(es) when the Mass Extractor is upgrading from T1 to T2 very early in the game, to save some Energy whilst upgrading.
+It should be noted that Mass Extractors consume Energy per second to generate Mass per second. T1 Power Generators should only be used for adjacency bonus when the Mass Extractor is upgrading from T1 to T2 very early in the game, to save some Energy whilst upgrading.
 
 ## Production Bonus
 
