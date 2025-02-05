@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:49:09.831Z
+date: 2025-02-05T10:50:42.043Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -187,7 +187,9 @@ The values in the following tables are given when a unit is surrounded by a spec
 
 ### Rate Of Fire Bonus
 
-When placed next to power generators, static artillery units gain a rate of fire bonus which can be very significant, especially when considering that a 60% reload time can be achieved, and how much cheaper 4 T3 power generators are than a T3 artillery installation. The reduction of a reload time can be calculated with the following scheme if a unit is fully surrounded by the same type of power generator:
+When placed next to power generators, static artillery structures gain a rate of fire bonus which can be very significant, especially when considering that a 60% reload time can be achieved and how much cheaper 4 T3 power generators are than a T3 artillery installation.  
+
+The reduction of reload time can be calculated with the following scheme if a unit is fully surrounded by the same type of power generator:
 
 -   10% discount for T1 power generators.
 -   20% discount for T2 power generators/hydrocarbon power plants.
