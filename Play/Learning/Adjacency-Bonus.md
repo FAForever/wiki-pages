@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:46:26.157Z
+date: 2025-02-05T09:49:09.831Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -179,7 +179,9 @@ Keep in mind that the cost of 12 Energy Storages is 14400 Energy and 3000 Mass. 
 
 ## Weapon Bonuses
 
-Placing Power Generators next to energy-consuming weapons will reduce the reload time of the weapon, the duration of energy consumption as a result, and the energy consumption itself. All static artilleries benefit from the rate of fire bonus and energy drain reduction. UEF T3 Point Defense is an exception and only gains a reduction in energy drain.
+Placing Power Generators next to Energy-consuming static weapon (e.g. Point Defense, static Artillery) will reduce the reload time of the weapon, the duration of energy consumption as a result, and the energy consumption itself.  
+All static artillery benefit from the rate of fire bonus and Energy drain reduction.  
+UEF T3 Point Defense is an exception which only gains a reduction in Energy drain.
 
 The values in the following tables are given when a unit is surrounded by a specific power generator.
 
