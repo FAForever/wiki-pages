@@ -2,7 +2,7 @@
 title: Air-Transport
 description: 
 published: true
-date: 2025-02-05T21:30:08.773Z
+date: 2025-02-05T21:41:06.508Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:04.324Z
@@ -29,7 +29,6 @@ Transport units are airborne units capable of carrying land units. They can [loa
 | Aeon                 	| 12           	| 6            	| 2 (+4 T1), 1 (+4 T2) 	| 12     	| 3 x2  	|
 | UEF                  	| 14           	| 6 (+2 T1)    	| 3 (+2 T1)            	| 14     	| 2     	|
 | Seraphim             	| 16           	| 8            	| 4                    	| 16     	| 2     	|
-|                      	|              	|              	|                      	|        	|       	|
 
 ### Tech 3 Transporter
 
@@ -39,6 +38,6 @@ Transport units are airborne units capable of carrying land units. They can [loa
 
 ### Other
 
-| Tech 2 Gunship 	| Tech 1 Units 	| Tech 2 Units 	| Tech 3 Units 	| Clamps 	| Rails 	|
+| Faction	| Tech 1 Units 	| Tech 2 Units 	| Tech 3 Units 	| Clamps 	| Rails 	|
 |----------------	|--------------	|--------------	|--------------	|--------	|-------	|
-| UEF            	| 1            	| 1            	| 0            	| 1      	| 0     	|
+| UEF T2 Gunship | 1            	| 1            	| 0            	| 1      	| 0     	|
