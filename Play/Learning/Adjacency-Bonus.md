@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:16:48.376Z
+date: 2025-02-05T09:23:15.346Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -26,25 +26,26 @@ Bonus amount is dependent on the number of bonus givers which can be place next 
 - maximum: 16
 
 This means that the larger the size of a bonus receiver, the more bonus givers must be next to it to provide the same bonus.
+
 Examples:
-- A factory surrounded by 16 T1 power generators receives the same discount as a radar surrounded by 4 T1 power generators.
-- A mass extractor surrounded by 4 storages receives the same percentage production bonus as a T3 mass fabricator surrounded by 12 mass storages.
+- A Factory surrounded by 16 T1 Power Generators receives the same discount as a Radar surrounded by 4 T1 Power Generators.
+- A Mass Extractor surrounded by 4 Mass Storages receives the same bonus as a T3 Mass Fabricator surrounded by 12 Mass Storages.
 
 ## Consumption Bonus
-A structure which produces a resource gives a discount to all structures next to it which consume that resource. It should be noted that only structures receive this bonus, **not any engineers or engineering stations assisting them**.
+A structure which produces a given resource gives a discount to all structures next to it which consume the same resource. It should be noted that only structures receive this bonus, **not any Engineers or Engineering Stations assisting them**.
 
 
 ### ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) Mass
 
 The values in this table are given for **one** mass-producing structure next to a 4x4 building; more mass-producing structures would increase the discount. The typical discount value is to give you an idea of what you would most commonly see in the game, and should not be used for calculations. Buildings which give mass discount bonuses
 
-| Mass Producing Structures 	| Discount for one structure 	| Production Bonus for all storages 	| Comments 	|
+| Mass Producing Structure 	| Discount for one structure 	| Production Bonus for all Storages 	| Comments 	|
 |---	|---	|---	|---	|
-| ![uef_t1_mass_extractor.png](/images/learning/adjacency/uef_t1_mass_extractor.png =40x) T1 Mass Extractor 	| 7.5% 	| 0.3-1 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T1 Land Factories, if you're not going to eco much. 	|
-| ![uef_t2_mass_extractor.png](/images/learning/adjacency/uef_t2_mass_extractor.png =40x) T2 Mass Extractor 	| 10% 	| 1-2 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T2 Land Factories. 	|
-| ![uef_t3_mass_extractor.png](/images/learning/adjacency/uef_t3_mass_extractor.png =40x) T3 Mass Extractor 	| 12.5% 	| 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 Land Factories, Note: Quantum gateways only receive 10%. 	|
-| ![uef_t2_mass_fabricator.png](/images/learning/adjacency/uef_t2_mass_fabricator.png =40x) T2 Mass Fabricator 	| 1.25% 	| 0.1-0.3 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Not Very Useful. Note: If Both T2 and T3 Fabricators are turned off bonus doesn't apply. 	|
-| ![uef_t3_mass_fabricator.png](/images/learning/adjacency/uef_t3_mass_fabricator.png =40x) T3 Mass Fabricator 	| 20% 	| 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 factories and high mass consuming structures (20/s or more).<br>Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%. 	|
+| ![uef_t1_mass_extractor.png](/images/learning/adjacency/uef_t1_mass_extractor.png =40x) T1 Mass Extractor 	| 7.5% | 0.3-1 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T1 Land Factories, if you're not going to eco much. 	|
+| ![uef_t2_mass_extractor.png](/images/learning/adjacency/uef_t2_mass_extractor.png =40x) T2 Mass Extractor 	| 10% | 1-2 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T2 Land Factories. 	|
+| ![uef_t3_mass_extractor.png](/images/learning/adjacency/uef_t3_mass_extractor.png =40x) T3 Mass Extractor 	| 12.5% | 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 Land Factories </br>Note: Quantum gateways only receive 10%. 	|
+| ![uef_t2_mass_fabricator.png](/images/learning/adjacency/uef_t2_mass_fabricator.png =40x) T2 Mass Fabricator 	| 1.25% | 0.1-0.3 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Not Very Useful. </br>Note: If Both T2 and T3 Fabricators are turned off bonus doesn't apply. 	|
+| ![uef_t3_mass_fabricator.png](/images/learning/adjacency/uef_t3_mass_fabricator.png =40x) T3 Mass Fabricator 	| 20% | 2-4 ![mass_icon.png](/images/learning/adjacency/mass_icon.png =25x) 	| Useful next to T3 factories and high mass consuming structures (20/s or more).<br>Note: Quantum gateways receive only 3.75%. Nukes receive only 12.5%. 	|
 
  
 ### <img src="/images/learning/adjacency/energy_icon.png" width="30" /> Energy
