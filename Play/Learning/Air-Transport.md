@@ -2,13 +2,13 @@
 title: Air-Transport
 description: 
 published: true
-date: 2025-02-05T21:53:38.935Z
+date: 2025-02-05T21:55:39.473Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:04.324Z
 ---
 
-Transports are Air units that move Land units long distances at speed. They can [load](/Play/Learning/Unit-Micro#transport-&-Ferry-Commands), [unload](/Play/Learning/Unit-Micro#transport-&-Ferry-Commands), [ferry](/Play/Learning/Unit-Micro#transport-&-Ferry-Commands) and [assist](/Play/Learning/Unit-Micro#Assist-Command).
+Transports are Air units that move Land units long distances at speed. They can [load](/Play/Learning/Unit-Micro#transport-&-Ferry-Commands), [unload](/Play/Learning/Unit-Micro#transport-&-Ferry-Commands), [ferry](/Play/Learning/Unit-Micro#transport-&-Ferry-Commands) and [assist](/Play/Learning/Unit-Micro#assist-command).
 
 ## Maximum Carrying Capacity
 
