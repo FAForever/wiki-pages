@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:16:19.293Z
+date: 2025-02-05T09:16:48.376Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -25,7 +25,7 @@ Bonus amount is dependent on the number of bonus givers which can be place next 
 - Minimum: 4
 - maximum: 16
 
-This means that the larger a bonus receiver the more bonus givers must be next to it to give the same bonus.
+This means that the larger the size of a bonus receiver, the more bonus givers must be next to it to provide the same bonus.
 Examples:
 - A factory surrounded by 16 T1 power generators receives the same discount as a radar surrounded by 4 T1 power generators.
 - A mass extractor surrounded by 4 storages receives the same percentage production bonus as a T3 mass fabricator surrounded by 12 mass storages.
