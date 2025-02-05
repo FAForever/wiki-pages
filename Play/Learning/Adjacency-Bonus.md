@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T10:59:01.099Z
+date: 2025-02-05T18:09:20.142Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -17,7 +17,7 @@ To trigger an adjacency bonus, there must be two structures placed next to each 
 
 - Any structure which produces a resource is a bonus giver.
 - Any structure consuming a resource is a bonus receiver.
-  - Mass production structures are also bonus receivers in a certain case
+  - Mass production structures are bonus receivers when placed beside Energy Production structures 
 - Mass/Energy Storage are bonus giver to their respective resource-producing structure.
 - Doubling the number of bonus givers next to a bonus receiver doubles adjacency bonus.
 
