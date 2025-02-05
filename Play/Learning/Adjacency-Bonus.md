@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:24:45.467Z
+date: 2025-02-05T09:31:01.977Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -50,8 +50,9 @@ The values in this table are given for **one** mass-producing structure next to 
  
 ### <img src="/images/learning/adjacency/energy_icon.png" width="30" /> Energy
 
-The percentage discount value depends on how much of the structure in question is surrounded by Power Generators; as structures can be of different sizes, different numbers of Power Generators fit around them. This means that a factory that is 50% surrounded by 8 T1 Power Generators will receive the same bonus as a radar surrounded by 2 T1 Power Generators - 12.5% for both.  
-In this table, the discount percentages are shown for a **fully surrounded** structure.
+The percentage discount value depends on how much of the structure in question is surrounded by Power Generators; as structures can be of different sizes, different numbers of Power Generators fit around them. This means that a factory that is 50% surrounded by 8 T1 Power Generators will receive the same bonus as a radar surrounded by 2 T1 Power Generators - 12.5% for both.
+
+In this table, the discount percentages are shown for a **fully surrounded** structure:
 
 | Energy Producing Structures 	| Discount Percentage 	| Typical Discount value 	| Comments 	|
 |---	|---	|---	|---	|
@@ -63,15 +64,14 @@ In this table, the discount percentages are shown for a **fully surrounded** str
 
 Buildings which give Energy discount bonuses
 
-It should be noted that mass extractors consume energy to generate mass, but T1 pgens should only be used for adjacency when the extractor is upgrading from T1 to T2 very early in the game, to save some energy while upgrading.
+It should be noted that Mass Extractors consume Energy per second to generate Mass per second. T1 Power Generators should only be used for adjacency bonus(es) when the Mass Extractor is upgrading from T1 to T2 very early in the game, to save some Energy whilst upgrading.
 
 ## Production Bonus
 
-Any structure which produces a resource, when placed next to a storage of that resource, will produce a bonus percentage of that resource. This is most commonly seen when mass extractors are surrounded by storage to increase their mass income. 
+Any structure which produces a resource when placed next to a Storage of same resource, will prodive a bonus percentage of that resource. This is most commonly seen when Mass Extractors are surrounded by Storage to increase Mass income. 
 
--   Bonus is 12,5% per fully surrounded side by storages.
-    -   Maximum is 50% bonus income for a fully surrounded building by
-        storage.
+-   Bonus is 12.5% per fully surrounded side with Storages.
+-   Maximum is 50% bonus income for a fully surrounded (at all sides) structure with Storage.
 
 ### <img src="/images/learning/adjacency/mass_icon.png" title="fig:Mass_Icon.png" width="30" alt="Mass_Icon.png" /> Mass
 
