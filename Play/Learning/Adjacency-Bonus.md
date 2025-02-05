@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T09:31:01.977Z
+date: 2025-02-05T09:34:35.287Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -56,10 +56,10 @@ In this table, the discount percentages are shown for a **fully surrounded** str
 
 | Energy Producing Structures 	| Discount Percentage 	| Typical Discount value 	| Comments 	|
 |---	|---	|---	|---	|
-| ![uef_t1_power_generator.png](/images/learning/adjacency/uef_t1_power_generator.png =40x) T1 Power Generator 	| 25% 	| 0.3-1 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to radar, and air factories, not great next to land factories, but should still be used. 	|
-| ![uef_t1_hydrocarbon_power_plant.png](/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png =40x) T1 Hydrocarbon PowerPlant 	| 12.5% 	| 1-2 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| **% value for ONE Hydro shown**. Useful next to T1/2 air Factories, generally useful. 	|
-| ![uef_t2_power_generator.png](/images/learning/adjacency/uef_t2_power_generator.png =40x) T2 Power Generator 	| 50% 	| 2-4 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to T2 air Factories. 	|
-| ![uef_t3_power_generator.png](/images/learning/adjacency/uef_t3_power_generator.png =40x) T3 Power Generator 	| 75% 	| 0.1-0.3 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Very Useful next to T3 air Factories. 	|
+| ![uef_t1_power_generator.png](/images/learning/adjacency/uef_t1_power_generator.png =40x) T1 Power Generator 	| 25% 	| 0.3-1 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to Radar and Air Factories. </br>Not as great next to Land Factories, but should still be used. 	|
+| ![uef_t1_hydrocarbon_power_plant.png](/images/learning/adjacency/uef_t1_hydrocarbon_power_plant.png =40x) T1 Hydrocarbon PowerPlant 	| 12.5% 	| 1-2 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| **% value for ONE Hydro shown**. Generally useful next to T1/2 Air Factories. 	|
+| ![uef_t2_power_generator.png](/images/learning/adjacency/uef_t2_power_generator.png =40x) T2 Power Generator 	| 50% 	| 2-4 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useful next to T2 Air Factories. 	|
+| ![uef_t3_power_generator.png](/images/learning/adjacency/uef_t3_power_generator.png =40x) T3 Power Generator 	| 75% 	| 0.1-0.3 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Very Useful next to T3 Air Factories. 	|
 | ![a_paragon.png](/images/learning/adjacency/a_paragon.png =40x) T4 Paragon 	| 0% 	| 2-4 ![energy_icon.png](/images/learning/adjacency/energy_icon.png =25x) 	| Useless - better to shield it. 	|
 
 Buildings which give Energy discount bonuses
@@ -68,7 +68,7 @@ It should be noted that Mass Extractors consume Energy per second to generate Ma
 
 ## Production Bonus
 
-Any structure which produces a resource when placed next to a Storage of same resource, will prodive a bonus percentage of that resource. This is most commonly seen when Mass Extractors are surrounded by Storage to increase Mass income. 
+Any structure which produces a resource when placed next to a Storage of same resource, will prodive a bonus percentage of that resource. This is most commonly seen for Mass Extractors, that are surrounded by Storage to increase Mass income. 
 
 -   Bonus is 12.5% per fully surrounded side with Storages.
 -   Maximum is 50% bonus income for a fully surrounded (at all sides) structure with Storage.
