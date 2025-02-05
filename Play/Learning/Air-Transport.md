@@ -2,13 +2,13 @@
 title: Air-Transport
 description: 
 published: true
-date: 2025-02-05T21:41:06.508Z
+date: 2025-02-05T21:51:57.359Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:04.324Z
 ---
 
-Transport units are airborne units capable of carrying land units. They can [load](/Unit-Micro#transport-&-Ferry-Commands), [unload](/Unit-Micro#transport-&-Ferry-Commands), [ferry](/Unit-Micro#transport-&-Ferry-Commands) and [assist](/Unit-Micro#assist-command).
+Transports are Air units that move Land units long distances at speed. They can [load](/Unit-Micro#transport-&-Ferry-Commands), [unload](/Unit-Micro#transport-&-Ferry-Commands), [ferry](/Unit-Micro#transport-&-Ferry-Commands) and [assist](/Unit-Micro#Assist-Command).
 
 ## Maximum Carrying Capacity
 
