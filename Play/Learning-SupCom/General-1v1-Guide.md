@@ -2,7 +2,7 @@
 title: General 1v1 Guide
 description: 
 published: true
-date: 2025-02-05T22:45:44.646Z
+date: 2025-02-05T22:46:37.385Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:43:36.850Z
@@ -36,7 +36,7 @@ factories? The rally point from those factories should be somewhere central, wit
 
 You should find some use for the units you build, don't let them just sit somewhere doing nothing. Either send them to raid your opponent or protect your expansions. Once you start accumulating more units you can do more daring raids to your opponent's expansions, try not to waste the units though. Or if your opponent is raiding you, send your units to defend your expansions. Some PDs are okay at defence, but you shouldn't build too many of them, 1 or 2 on an expansion should be more than enough if you also send your units. Consider PD more of a support unit rather than your primary defense force. You can also take your ACU on the frontlines, its power as a combat unit should be used, but be careful. Keep your army close to it and if you are clearly winning, consider sending it back to your base so you don't accidentally get killed and lose the game.
 
-If T1 land and air alone won't win you the game or you wish to gain a tech advantage or just build higher tier mexes, see [Teching](/Play/Learning-SupCom/General-1v1-Guide#Teching) for some advice on when it is okay to tech.
+If T1 land and air alone won't win you the game or you wish to gain a tech advantage or just build higher tier mexes, see [Teching](/Play/Learning-SupCom/General-1v1-Guide#teching) for some advice on when it is okay to tech.
 
 ### Early aggression
 
