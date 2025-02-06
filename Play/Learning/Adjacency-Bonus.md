@@ -2,7 +2,7 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-06T08:42:01.700Z
+date: 2025-02-06T14:58:01.818Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
@@ -177,9 +177,9 @@ Buildings which are affected by Energy storage
 {.is-info}
 
 
-## Weapon Bonuses
+## Static weapon Bonuses
 
-Placing Power Generators next to Energy-consuming static weapon (e.g. Point Defense, static Artillery) will reduce the reload time of the weapon, the duration of energy consumption as a result, and the energy consumption itself.  
+Placing Power Generators next to Energy-consuming static weapons (e.g. Point Defense, static Artillery) will reduce the reload time of the weapon and duration of Energy consumption as a result, and the Energy consumption itself.  
 All static artillery benefit from the rate of fire bonus and Energy drain reduction.  
 UEF T3 Point Defense is an exception which only gains a reduction in Energy drain.
 
