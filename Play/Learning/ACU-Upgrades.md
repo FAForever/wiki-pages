@@ -2,18 +2,15 @@
 title: ACU Enhancements
 description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-06T18:21:27.338Z
+date: 2025-02-06T23:46:39.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
 ---
 
-## Overview
 The Armored Command Unit (ACU) is not only responsible for inital construction at start of a match but is also a powerful offensive unit in the early game. Unfortunately, as a match progresses through the Tech Levels, both construction and offensive capablilties of the ACU become less potent.
 
 ACU Upgrades serve as means to keep your ACU relevant as a match progresses by augmenting either it's engineering or offensive capabilities.
-
-## Specifics
 
 Three sections of an ACU can be upgraded:
 1. Left Arm
@@ -24,126 +21,53 @@ A section can have only one upgrade applied, if a different upgrade is to be app
 
 An ACU upgrade can be paused or cancelled, like upgrades at Mass Extractors and Factories, though a paused Commander
 
-## Enhancements
+# {.tabset}
 
-### Left Arm
-#### Tech 2 Engineering Suite
+## <img src="/images/learning/uef/uef.png" width="50" align="top"/>
+### {.tabset}
+text
+#### Left Arm
+##### Nano-Repair System
 
-UEF, Aeon, Cybran, Seraphim
+#### Back
+##### Personal Shield Generator
 
-#### Tech 3 Engineering Suite
+#### Right Arm
+##### Zepher Amplifier
 
-UEF, Aeon, Cybran, Seraphim
+## <img src="/images/learning/aeon/aeon.png">
+### {.tabset}
+text
+#### Left Arm
+##### Enchanced Quantum Disruptor
 
-#### Enchanced Quantum Disruptor
+#### Back
+##### Chrono Dampener
 
-Aeon
+#### Right Arm
+##### Enhanced Sensor System
 
-#### Nano-Repair System
+## <img src="/images/learning/cybran/cybran.png">
+### {.tabset}
+text
+#### Left Arm
+##### Microwave Accelerator
 
-UEF
+#### Back
+##### Personal Teleporter
 
-#### Personal Teleporter
+#### Right Arm
+##### Microwave Laser Generator
 
-UEF
+## <img src="/images/learning/sera/seraphim.png">
 
-#### Microwave Accelerator
-Cybran
+### {.tabset}
+text
+#### Left Arm
+##### Restoration Field
 
-#### Restoration Field
-Seraphim
+#### Back
+##### Personal Teleporter
 
-#### Advanced Restoration Field
-Seraphim
-
-#### Refracting Chronotron Amplifier
-Seraphim
-
-### Back
-
-#### Chrono Dampener
-
-Aeon
-
-#### Personal Teleporter
-
-Aeon, Cybran, Seraphim
-
-#### Personal Shield Generator
-
-UEF, Aeon
-
-#### Heavy Personal Shield Generator
-
-Aeon
-
-#### Shield Generator Field
-
-UEF
-
-#### C-D1 Shoulder Drone
-
-UEF
-
-#### Tactical Missile Launcher
-
-UEF, Seraphim
-
-#### Advanced Tactical Missile Launcher
-
-UEF
-
-#### Resource Allocation System
-
-Aeon, Cybran
-
-#### Advanced Resource Allocation System
-
-Aeon
-
-#### Personal Stealth Generator
-Cybran
-
-#### Nano-Repair System
-
-Cybran, Seraphim
-
-#### Advanced Nano-Repair System
-
-Seraphim
-
-#### Personal Cloaking Generator
-Cybran
-
-### Right Arm
-
-#### Chronotron Accelerator
-Seraphim
-
-#### Microwave Laser Generator
-
-Cybran
-
-#### Nanite Torpedo Launcher
-
-Cybran
-
-#### Enhanced Sensor System
-
-Aeon
-
-#### Quantum Accelerator
-
-Aeon
-
-#### Zepher Amplifier
-
-UEF
-
-#### Resource Allocation System
-
-UEF, Seraphim
-
-#### Advanced Resource Allocation System
-
-Seraphim
+#### Right Arm
+##### Chronotron Accelerator
