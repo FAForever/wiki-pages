@@ -2,7 +2,7 @@
 title: ACU Enhancements
 description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-06T23:46:39.487Z
+date: 2025-02-06T23:48:31.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
@@ -25,49 +25,77 @@ An ACU upgrade can be paused or cancelled, like upgrades at Mass Extractors and 
 
 ## <img src="/images/learning/uef/uef.png" width="50" align="top"/>
 ### {.tabset}
-text
 #### Left Arm
 ##### Nano-Repair System
+##### Personal Teleporter
+##### Tech 2 Engineering Suite
+##### Tech 3 Engineering Suite
 
 #### Back
 ##### Personal Shield Generator
+##### Shield Generator Field
+##### C-D1 Shoulder Drone
+##### Tactical Missile Launcher
+##### Advanced Tactical Missile Launcher
 
 #### Right Arm
 ##### Zepher Amplifier
+##### Resource Allocation System
 
 ## <img src="/images/learning/aeon/aeon.png">
 ### {.tabset}
-text
 #### Left Arm
 ##### Enchanced Quantum Disruptor
+##### Tech 2 Engineering Suite
+##### Tech 3 Engineering Suite
 
 #### Back
 ##### Chrono Dampener
+##### Personal Teleporter
+##### Personal Shield Generator
+##### Heavy Personal Shield Generator
+##### Resource Allocation System
+##### Advanced Resource Allocation System
 
 #### Right Arm
 ##### Enhanced Sensor System
+##### Quantum Accelerator
 
 ## <img src="/images/learning/cybran/cybran.png">
 ### {.tabset}
-text
 #### Left Arm
 ##### Microwave Accelerator
+##### Tech 2 Engineering Suite
+##### Tech 3 Engineering Suite
 
 #### Back
 ##### Personal Teleporter
+##### Resource Allocation System
+##### Personal Stealth Generator
+##### Nano-Repair System
+##### Personal Cloaking Generator
 
 #### Right Arm
 ##### Microwave Laser Generator
+##### Nanite Torpedo Launcher
 
 ## <img src="/images/learning/sera/seraphim.png">
 
 ### {.tabset}
-text
 #### Left Arm
 ##### Restoration Field
+##### Advanced Restoration Field
+##### Refracting Chronotron Amplifier
+##### Tech 2 Engineering Suite
+##### Tech 3 Engineering Suite
 
 #### Back
 ##### Personal Teleporter
+##### Tactical Missile Launcher
+##### Nano-Repair System
+##### Advanced Nano-Repair System
 
 #### Right Arm
 ##### Chronotron Accelerator
+##### Resource Allocation System
+##### Advanced Resource Allocation System
