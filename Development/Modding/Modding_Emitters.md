@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2025-02-06T12:42:49.216Z
+date: 2025-02-06T12:43:17.094Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -124,7 +124,7 @@ If, on the other hand, the life time is longer than repeat time, then our "timel
 
 The image below depicts how the total span of the timeline (defined by **Repeat Time**) projects onto a property curve. 
 
-<span id="emitter_curve">![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)</span>
+<span id="emitter_curve"></span>![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)
 
 
 ___
