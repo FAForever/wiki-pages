@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2025-02-06T12:43:17.094Z
+date: 2025-02-06T12:43:48.045Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -123,8 +123,11 @@ So what happens when an **emitter's** lifetime is different from its repeat time
 If, on the other hand, the life time is longer than repeat time, then our "timeline" will be cycled through multiple times (and possibly partially as well, if the two times aren't a multiple of each other). Note that there's no automatic smooth transition, so if we had a life time of 80 in the case above, after the 40th tick, the particles emitted on the 41st tick would have the **Particle Start Size** value equal to 0.2 (the start value of the function).
 
 The image below depicts how the total span of the timeline (defined by **Repeat Time**) projects onto a property curve. 
+<span id="emitter_curve">
 
-<span id="emitter_curve"></span>![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)
+</span>
+
+![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)
 
 
 ___
