@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance
 description: 
 published: true
-date: 2025-02-04T14:45:13.591Z
+date: 2025-02-06T09:47:56.559Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -85,9 +85,12 @@ Remember - glance at both resource bars at the top of the screen every few secon
 
 ### <img src="/images/learning/reclaim_icon.png" width="30"/> Reclaim
 Everything on the map which isn't terrain, a building or a unit is deemed reclaim. Wreckage of destroyed buildings and units are also reclaim.
-Right clicking with selected Engineers or the ACU on objects that can be reclaimed will increase Mass per reclaimed object. This can be a surprisingly large part of your income, and you will have an economic advantage over your opponent who isn't reclaiming.
+Right clicking with selected builder units (Engineers, the ACU) on objects that can be reclaimed on land and in water, will increase Mass by a set amount based on reclaimed object.
+This can be a surprisingly large part of your income, and you will have an economic advantage over an opponent who isn't reclaiming.
 
-Note: more info about reclaim will be covered further in the guide, but for now just remember that if you've reclaim available you should try to reclaim (and use it) asap, not only wreckages are reclaimable. Also rocks and trees, trees almost only give energy though, so they aren't always that important, but can have very special uses.
+Not only are wreckages reclaimable but also rocks and trees; trees almost only give energy though, so they aren't always that important but can have very special uses.
+
+Utilising the Patrol command with builder units will automate collection of Reclaim along Patrolling path.
 
 An interesting Video by \[e\]speed2 on reclaim : <https://www.youtube.com/watch?v=_uPjOxCTEng>
 
