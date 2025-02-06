@@ -2,13 +2,13 @@
 title: Adjacency Bonus
 description: 
 published: true
-date: 2025-02-05T18:09:20.142Z
+date: 2025-02-06T08:08:59.459Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:41:57.317Z
 ---
 
-Adjacency Bonus prodives discounts and production bonuses to structures positioned next to each other. The nature of the bonus depends on both of the structures and can be very useful. Resources (Mass and Energy) can be consumed less or produced more from the 4 possible bonuses.
+Adjacency Bonus provides consumption discounts and production increases to structures positioned next to each other. The nature of the bonus depends on both of the structures and can be very useful. Resources (Mass and Energy) can be consumed less or produced more from the 4 possible bonuses.
 
 ## General
 ![adjacency_diagram.png](/images/learning/adjacency/adjacency_diagram.png =425x){.align-right}
