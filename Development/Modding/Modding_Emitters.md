@@ -2,7 +2,7 @@
 title: Modding Emitters
 description: 
 published: true
-date: 2024-06-30T23:47:18.376Z
+date: 2025-02-06T12:42:49.216Z
 tags: modding
 editor: markdown
 dateCreated: 2021-10-24T20:36:49.905Z
@@ -42,7 +42,7 @@ Supreme Commander uses a particle system for all kinds of special effects. The b
 
 <div style="display: flex">
   
-  <p>
+  <p style="padding-right: 2%; text-align: justify">
     Creating a particle emitter is quite simple. Simply run the game from your development environment, and start a skirmish game - consider enabling cheats and sandbox mode, as well as disabling fog of war (particles can't be seen if they are hidden by the fog of war by default). Once in game, press "Ctrl + Alt + E", and a default emitter will spawn at the position of your mouse. In addition to that, a separate "Emitter Editor" window should open. It often gets "hidden" behind the game window, so you might have to move it around to be able to access it. Multiple screens make it much easier to handle, but you can also set your game to windowed mode, and reduce its size. 
   
   </p>
@@ -60,10 +60,17 @@ Emitter editor is your primary tool for determining particle looks and behavior.
 
 ![default-emitter-editor-marked.png](/particle-emitter/default-emitter-editor-marked.png)
 
-### [1] The menu bar
+
+---
+
+
+<div style="font-weight: bold; font-size: 130%; color:rgb(220, 50, 40)">
+[1] The menu bar
+</div>
+
 The menu bar holds three items: File, Options and LOD.
-**File** menu allows for creating a new, saving and opening existing emitter blueprints, as well as holding the action buttons to load texture and ramp files to the emitter.
-**Options** menu has a lot of additional options affecting how generated particles behave:
+**_File_** menu allows for creating a new, saving and opening existing emitter blueprints, as well as holding the action buttons to load texture and ramp files to the emitter.
+**_Options_** menu has a lot of additional options affecting how generated particles behave:
 - **Use Local Velocity:** *TBD*
 - **Use Local Acceleration:** *TBD*
 - **Gravity:** *TBD*
@@ -75,24 +82,33 @@ The menu bar holds three items: File, Options and LOD.
 - **Only Emit on water:** *TBD*
 - **Enable Particle Resistance:** *TBD*
 
-**LOD** menu menu holds 3 options that affect particle rendering:
-- **Only Emit if Visible:** particles won't be emitted if camera distance is further than the LOD Cutoff Distance
-- **Catch up when Visible:** *TBD*
+**_LOD_** menu holds 3 options that affect particle rendering:
+- **Only Emit if Visible:** particles won't be emitted if the emitter is not within camera PoV (including LOD Cutoff Distance)
+- **Catch up when Visible:** particles that would have been 
 - **Only Create if Visible:** *TBD*
-### [2] Emitter and particle variables
+
+
+___
+
+
+<div style="font-weight: bold; font-size: 130%; color:rgb(250, 220, 100)">
+[2] Emitter and particle variables
+</div>
+
 This second section of the emitter editor contains some variables that define fixed parameters for the emitter and particles. In addition to this, it features a timeline. The fixed parameters are:
 - **Life Time:** the life time of the **emitter** , measured in game ticks (1/10th of seconds). Setting it to a negative value makes it infinite (default -1). Value of 0 disables the emitter.
 - **Repeat Time:** length of the **emitter cycle**, measured in game ticks.
-- **Blend mode:** *TBD*
+- **Blend mode:** ***TBD**, has to do with how rendering of particles is done*
 - **Fidelity:** determines at which video fidelity level the emitter will emit.
-- **Frame Count:** determines how many frames a stripe of texture has (in how many pieces a texture should be chopped up vertically).
-- **Strip Count:** determines how many stripes a texture has (in how many pieces a texture should be chopped up horizontally).
-- **Sort Order:** *TBD*
+- **Frame Count:** determines how many frames a strip of texture has (in how many pieces a texture should be chopped up vertically).
+- **Strip Count:** determines how many strips a texture has (in how many pieces a texture should be chopped up horizontally).
+- **Sort Order:** ***TBD** (probably to do with which particles render first)*
 - **LOD Cutoff Distance:** determines how far the camera can move from the emitter before it stops emitting and rendering particles.
 - **Playing:** is used to pause/play the emitter cycle. Note it does not stop the emitter from emitting, just from cycling. Useful for checking how the emitter behaves in a particular part of its cycle. Life time must be a positive value.
-- ***Cycle timeline*:** shows the span of the emitter's **cycle** and the current position of the marker. The marker can be moved around (ideally while paused) to observe the emitter behavior at any given point in its cycle.
 
-In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in [1]. Note that the name is often cutoff for longer texture/ramp file paths.
+**The Cycle timeline** shows the span of the emitter's **cycle** and the current time in the cycle (marker). The marker can be moved around (ideally while paused) to observe the emitter's behavior at any given point in its cycle.
+
+In addition to the variables above, this part of the interface also displays the path for the currently used Texture and Ramp files. These can be changed in the **File menu** as mentioned in <span style="font-weight: bold; font-size: 100%; color:rgb(220, 50, 40)">[1]</span>. Note that the name is often cutoff for longer texture/ramp file paths.
 ___
 As is mentioned in the "Repeat Time" description, emitters have a cycle. Cycles have a certain amounts of steps, and the total amount of steps determine both the length and the resolution of a cycle. The length and the resolution, in turn, determine how the particles emitted in a particular moment of the emitter's life time will look like, as defined by a particular property curve. Let's take a look at our base particle that was modified in a few ways. First, what you can not see from the gif below is that the **Emit Rate** was increased to 4. Additionally, **Life Time** and **Repeat Time** were both set to 40, and the **Particle End Size** was set to be a constant 0.2.
 
@@ -102,18 +118,26 @@ Note how a "point" is formed towards the top of the column of particles. This is
 
 ![emitter-cycle-showcase_2.gif](/particle-emitter/emitter-cycle-showcase_2.gif)
 
-So what happens when an **emitter's** lifetime is different from its repeat time? In case the life time is less than repeat time, then the particular property will only be simulated partially. If we reduced Life Time in the example above to 20, that would result in the last particle emitted to have **Particle Start Size** value equal to 0.1 - half way along the curve, which coincides with middle of the rising part of the function (between 0.2 and 1.8).
+So what happens when an **emitter's** lifetime is different from its repeat time? In case the life time is less than repeat time, then the particular property will only be simulated partially. If we reduced Life Time in the example above to 20, that would result in the last particle emitted to have **Particle Start Size** value equal to 1.0 - half way along the curve, which coincides with middle of the rising part of the function (between 0.2 and 1.8).
 
 If, on the other hand, the life time is longer than repeat time, then our "timeline" will be cycled through multiple times (and possibly partially as well, if the two times aren't a multiple of each other). Note that there's no automatic smooth transition, so if we had a life time of 80 in the case above, after the 40th tick, the particles emitted on the 41st tick would have the **Particle Start Size** value equal to 0.2 (the start value of the function).
 
 The image below depicts how the total span of the timeline (defined by **Repeat Time**) projects onto a property curve. 
-![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)
 
-### [3] Property curves
+<span id="emitter_curve">![emitter-cycle-showcase.png](/particle-emitter/emitter-cycle-showcase.png)</span>
+
+
+___
+
+
+<div style="font-weight: bold; font-size: 130%; color:rgb(150, 190, 240)">
+[3] Property curves
+</div>
+
 Property curves part of the editor is where a lot of things can be tweaked. Note that all of the curves follow the same emitter cycle principle - how far along the cycle you are projects onto how far along the property curve you are, and that value is used for the particle that is **_generated in that moment_** - again, we are editing the emitter's behavior over time, and not the behavior of the particles themselves. Particles will change in time, but based on fixed parameters which are determined at the moment the particle is created. Once a particle is created, we can not affect it any more.
 
 ### The Curve editor
-Curve editors are same for all the properties. They have 5 parameter boxes as well as a curve manipulation panel. The panel itself displays 5 values in addition to the curve itself. The values are:
+Curve editors are same for all the properties. They have 5 parameter boxes as well as a curve manipulation panel. The panel itself displays 5 values in addition to the curve itself (see <a href="#emitter_curve">previous image</a>). The values are:
 - **Parameter name** (top-left)
 - **Window Max** (top) and **Window Min** (bottom)
 - 1st (indexed 0, on the left) and last (right) tick of the **emitter cycle**.
