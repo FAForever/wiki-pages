@@ -1,8 +1,8 @@
 ---
-title: ACU Upgrades
-description: Reference of ACU Upgrades in FAF
+title: ACU Enhancements
+description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-06T13:20:00.461Z
+date: 2025-02-06T18:17:03.861Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
@@ -13,27 +13,136 @@ The Armored Command Unit (ACU) is not only responsible for inital construction a
 
 ACU Upgrades serve as means to keep your ACU relevant as a match progresses by augmenting either it's engineering or offensive capabilities.
 
-## Upgrade Modules
+## Specifics
 
 Three sections of an ACU can be upgraded:
 1. Left Arm
 2. Right Arm
-3. Body
+3. Back
 
 A section can have only one upgrade applied, if a different upgrade is to be applied then the desired upgrade will replace the currently applied.
 
 An ACU upgrade can be paused or cancelled, like upgrades at Mass Extractors and Factories, though a paused Commander
 
-## Common Upgrades
-Available to all factions
-### Tech 2 Engineering Suite
+## Enhancements
 
-### Tech 3 Engineering Suite
+### Left Arm
+#### Tech 2 Engineering Suite
 
-## UEF
+UEF, Aeon, Cybran, Seraphim
 
-## Aeon
+#### Tech 3 Engineering Suite
 
-## Cybran
+UEF, Aeon, Cybran, Seraphim
 
-## Seraphim
+#### Enchanced Quantum Disruptor
+
+Aeon
+
+#### Nano-Repair System
+
+UEF
+
+#### Personal Teleporter
+
+UEF
+
+#### Microwave Accelerator
+Cybran
+
+#### Restoration Field
+Seraphim
+
+#### Advanced Restoration Field
+Seraphim
+
+#### Refracting Chronotron Amplifier
+
+### Back
+
+#### Chrono Dampener
+
+Aeon
+
+#### Personal Teleporter
+
+Aeon, Cybran, Seraphim
+
+#### Personal Shield Generator
+
+UEF, Aeon
+
+#### Heavy Personal Shield Generator
+
+Aeon
+
+#### Shield Generator Field
+
+UEF
+
+#### C-D1 Shoulder Drone
+
+UEF
+
+#### Tactical Missile Launcher
+
+UEF, Seraphim
+
+#### Advanced Tactical Missile Launcher
+
+UEF
+
+#### Resource Allocation System
+
+Aeon, Cybran
+
+#### Advanced Resource Allocation System
+
+Aeon
+
+#### Personal Stealth Generator
+Cybran
+
+#### Nano-Repair System
+
+Cybran, Seraphim
+
+#### Advanced Nano-Repair System
+
+Seraphim
+
+#### Personal Cloaking Generator
+Cybran
+
+### Right Arm
+
+#### Chronotron Accelerator
+Seraphim
+
+#### Microwave Laser Generator
+
+Cybran
+
+#### Nanite Torpedo Launcher
+
+Cybran
+
+#### Enhanced Sensor System
+
+Aeon
+
+#### Quantum Accelerator
+
+Aeon
+
+#### Zepher Amplifier
+
+UEF
+
+#### Resource Allocation System
+
+UEF, Seraphim
+
+#### Advanced Resource Allocation System
+
+Seraphim
