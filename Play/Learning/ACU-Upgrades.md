@@ -2,7 +2,7 @@
 title: ACU Enhancements
 description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-07T11:59:39.990Z
+date: 2025-02-07T14:03:24.650Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
@@ -28,7 +28,9 @@ Like upgrades at Mass Extractors and Factories, ACU Enhancements can be paused o
 ### {.tabset}
 #### Left Arm
 ##### Nano-Repair System
+Increases health regen per second 
 ##### Personal Teleporter
+Teleports ACU to chosen location on map. Requires Energy and charge up time to teleport 
 ##### Tech 2 Engineering Suite
 Not only does this enable the ACU to contruct T2 buildings, but enables construction all T1 buildings
 ##### Tech 3 Engineering Suite
