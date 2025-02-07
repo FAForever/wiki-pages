@@ -2,7 +2,7 @@
 title: ACU Enhancements
 description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-07T14:03:24.650Z
+date: 2025-02-07T14:42:45.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
@@ -28,9 +28,9 @@ Like upgrades at Mass Extractors and Factories, ACU Enhancements can be paused o
 ### {.tabset}
 #### Left Arm
 ##### Nano-Repair System
-Increases health regen per second 
+Increases total health by 1500 and health regen by per second 
 ##### Personal Teleporter
-Teleports ACU to chosen location on map. Requires Energy and charge up time to teleport 
+Teleports ACU to chosen location on map. Energy cost and charge up increases with distance from ACU's current position to target position
 ##### Tech 2 Engineering Suite
 Not only does this enable the ACU to contruct T2 buildings, but enables construction all T1 buildings
 ##### Tech 3 Engineering Suite
@@ -42,8 +42,10 @@ Enables ACU to construct T3 buildings and Experimental units.
 ##### Personal Shield Generator
 ##### Shield Generator Field
 ##### C-D1 Shoulder Drone (I)
+Increases ACU's buildpower by 8
 ##### C-D1 Shoulder Drone (II)
 - Requires: C-D1 Shoulder Drone (I)
+Increases ACU's buildpower by, another, 8
 ##### Tactical Missile Launcher
 ##### Advanced Tactical Missile Launcher
 - Requires: Tactical Missile Launcher
