@@ -2,7 +2,7 @@
 title: Faction Information
 description: 
 published: true
-date: 2025-02-07T00:01:21.333Z
+date: 2025-02-07T00:12:09.710Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
@@ -42,27 +42,59 @@ Probably the best T1 interceptor, because of the front-loaded weapon. Note that 
 Radar jamming to create the appearance of having a bigger navy than you actually possess. Great against the floating T1 seraphim artillery.
 
 #### <img src="/images/learning/tech_2_icon.png"> Tech 2
-- **Buildings:**
-	- <img src="/images/learning/uef/uef_t2_pd.png" width="50" align="center"/> **Point Defense** – Good AOE, good rate of fire, and the fact that they are not blocked by terrain make the Triad a good allround point defense.
-	- <img src="/images/learning/uef/uef_t2_static_shield.png" width="50" align="center"/> **Static Shield** – One of the weaker T2 shields, but still worthwhile. Upgradable to T3 though this is not recommended.
-	- <img src="/images/learning/uef/uef_t2_tmd.png" width="50" align="center"/> **TMD** – The weakest TMD, has trouble with overkilling missiles.
-	- <img src="/images/learning/uef/uef_t1_engineering_station.png" width="50" align="center"/> **Engineering station** – Drones that can fly anywhere and cant be hit by ASFs. While inefficient buildpower-per-mass wise, their mobility and the absence of pathfinding problems make these useful late-game for focussing your economy. Upgradeable to obtain another drone per building.
-- **Land:**
-	- <img src="/images/learning/uef/uef_t2_gatling_bot.png" width="50" aling="center"/> **Mongoose Bots** - Ranged bot with low damage, somewhat useful when paired with mobile shields, but highly dependant on good micro.
-	- <img src="/images/learning/uef/uef_t2_tank.png" width="50" align="center"/> **Pillar tanks** - Solid all-around assault tank with good HP/mass ratio, this should usually form the backbone of your T2 land force.
-	- <img src="/images/learning/uef/uef_t2_hover_tank.png" width="50" align="center"/> **Riptide** - Stronger but more expensive than other factions hover units, good vs T1 Units, especially the floating ones.
-	- <img src="/images/learning/uef/uef_t2_mobile_shield.png" width="50" align="center"/> **Mobile shields** - Inefficient in large numbers, but the big radius makes protecting your army easier than using the Aeon mobile shield.
-	- <img src="/images/learning/uef/uef_t2_field_engineer.png" width="50" align="center"/> **Combat Engineer - Sparky** – Fast, good HP, high build power, Radar Jamming and a built-in gun which can fire while reclaiming or building. They can only build combat-related structures. Can also be built from T2 air factories. /!\\ can't build radar.
-- **Air:**
-	- <img src="/images/learning/uef/uef_t2_gunship.png" width="50" align="center"/> **Gunships** - Can transport a single T1 or T2 unit. LABs can fire from the transport clamp, increasing the DPS.
-	- <img src="/images/learning/uef/uef_t2_fighter_bomber.png" width="50" align="center"/> **Fighter/Bomber** - Can fight air and ground. Not strong versus either, due to comparably low air damage and very spread out bombs. Sometimes useful against large groups of units.
-	- <img src="/images/learning/uef/uef_t2_transport.png" width="50" align="center"/> **Transport** - Can transport up to 14 T1 units or 6 T2 + 2 T1 units or 3 T3 + 2 T1 units.
-	- <img src="/images/learning/uef/uef_t2_torpedo_bomber.png" width="50" align="center"/> **Torpedo Bomber** - Good and reliable torpedo bomber.
-- **Naval:**
-	- <img src="/images/learning/uef/uef_t2_destroyer.png" width="50" align="center"/> **Destroyer** – Small range and very weak torpedoes make this one of the weaker destroyers, but it has, once in range, high DPS.
-	- <img src="/images/learning/uef/uef_t2_cruiser.png" width="50" align="center"/> **Cruiser** – Cruise missiles which can overwhelm TMD, has non-splash SAMs as AA. Also has a small direct-fire gun.
-	- <img src="/images/learning/uef/uef_t2_shield_boat.png" width="50" aling="center"/> **Shield Boat** – The backbone of the UEF navy and one of the two reasons it has the strongest navy overall. Avoid producing too many, as the efficiency of shield boats decreases proportional to the amount of shield boats you already have (due to shared shield damage for overlapping shields).
-	- <img src="/images/learning/uef/uef_t2_torpedo_boat.png" width="50" alt="center"/> **Torpedo Boat** – Good torpedos and epic torpedo defences, but low HP and vulnerable to direct fire, also fairly small range, so they cannot operate on their own.
+###### Buildings
+<img src="/images/learning/uef/uef_t2_pd.png" width="50" align="center"/> **Point Defense**
+Good AOE, good rate of fire, and the fact that they are not blocked by terrain make the Triad a good allround point defense.
+
+<img src="/images/learning/uef/uef_t2_static_shield.png" width="50" align="center"/> **Static Shield**
+One of the weaker T2 shields, but still worthwhile. Upgradable to T3 though this is not recommended.
+
+<img src="/images/learning/uef/uef_t2_tmd.png" width="50" align="center"/> **TMD**
+The weakest TMD, has trouble with overkilling missiles.
+
+<img src="/images/learning/uef/uef_t1_engineering_station.png" width="50" align="center"/> **Engineering station**
+Drones that can fly anywhere and cant be hit by ASFs. While inefficient buildpower-per-mass wise, their mobility and the absence of pathfinding problems make these useful late-game for focussing your economy. Upgradeable to obtain another drone per building.
+##### Land
+<img src="/images/learning/uef/uef_t2_gatling_bot.png" width="50" align="center"/> **Mongoose Bots**
+Ranged bot with low damage, somewhat useful when paired with mobile shields, but highly dependant on good micro.
+
+<img src="/images/learning/uef/uef_t2_tank.png" width="50" align="center"/> **Pillar tanks**
+Solid all-around assault tank with good HP/mass ratio, this should usually form the backbone of your T2 land force.
+
+<img src="/images/learning/uef/uef_t2_hover_tank.png" width="50" align="center"/> **Riptide**
+Stronger but more expensive than other factions hover units, good vs T1 Units, especially the floating ones.
+
+<img src="/images/learning/uef/uef_t2_mobile_shield.png" width="50" align="center"/> **Mobile shields**
+Inefficient in large numbers, but the big radius makes protecting your army easier than using the Aeon mobile shield.
+
+<img src="/images/learning/uef/uef_t2_field_engineer.png" width="50" align="center"/> **Combat Engineer - Sparky**
+Fast, good HP, high build power, Radar Jamming and a built-in gun which can fire while reclaiming or building. They can only build combat-related structures. Can also be built from T2 air factories. /!\\ can't build radar.
+
+###### Air
+<img src="/images/learning/uef/uef_t2_gunship.png" width="50" align="center"/> **Gunships**
+Can transport a single T1 or T2 unit. LABs can fire from the transport clamp, increasing the DPS.
+
+<img src="/images/learning/uef/uef_t2_fighter_bomber.png" width="50" align="center"/> **Fighter/Bomber**
+Can fight air and ground. Not strong versus either, due to comparably low air damage and very spread out bombs. Sometimes useful against large groups of units.
+
+<img src="/images/learning/uef/uef_t2_transport.png" width="50" align="center"/> **Transport**
+Can transport up to 14 T1 units or 6 T2 + 2 T1 units or 3 T3 + 2 T1 units.
+
+<img src="/images/learning/uef/uef_t2_torpedo_bomber.png" width="50" align="center"/> **Torpedo Bomber**
+Good and reliable torpedo bomber.
+
+##### Naval
+<img src="/images/learning/uef/uef_t2_destroyer.png" width="50" align="center"/> **Destroyer**
+Small range and very weak torpedoes make this one of the weaker destroyers, but it has, once in range, high DPS.
+
+<img src="/images/learning/uef/uef_t2_cruiser.png" width="50" align="center"/> **Cruiser**
+Cruise missiles which can overwhelm TMD, has non-splash SAMs as AA. Also has a small direct-fire gun.
+
+<img src="/images/learning/uef/uef_t2_shield_boat.png" width="50" align="center"/> **Shield Boat**
+The backbone of the UEF navy and one of the two reasons it has the strongest navy overall. Avoid producing too many, as the efficiency of shield boats decreases proportional to the amount of shield boats you already have (due to shared shield damage for overlapping shields).
+
+<img src="/images/learning/uef/uef_t2_torpedo_boat.png" width="50" align="center"/> **Torpedo Boat**
+Good torpedos and epic torpedo defences, but low HP and vulnerable to direct fire, also fairly small range, so they cannot operate on their own.
 
 #### <img src="/images/learning/tech_3_icon.png"> Tech 3
 - **Buildings:**
@@ -82,7 +114,7 @@ Radar jamming to create the appearance of having a bigger navy than you actually
 	- <img src="/images/learning/uef/uef_t3_battleship.png" width="50" align="center"/> **Battleship** - The best battleship in the game, this unit has the highest range, great damage and good HP. There are no torpedoes, nor torpedo defences, the AA is pitiful and the firing cycle of one salvo every 20 seconds makes it vulnerable to T2 hover tanks and T1 frigates.
 	- UEF has no 'traditional' T3 aircraft carrier. However, the experimental submarine Atlantis (see below) allows for production, storing and refueling of planes.
 
-#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+#### <img src="/images/learning/tech_4_icon.png"> Experimental
 - <img src="/images/learning/uef/uef_t4_mobile_factory.png" width="50" align="center"/> **Fatboy** – It's slow, has a large hit area, and has comparably low HP. It has a bubble shield to protect itself and your army, as a mobile factory it can build an army by itself and can refuel and repair your aircraft. This is not a direct fire unit, it is a long range artillery and should live behind the bulk of your army, raining huge damage from a long distance. Extremely vulnerable to attack from air.
 - <img src="/images/learning/uef/uef_t4_aircraft_carrier.png" width="50" align="center"/> **Atlantis** – Submersible aircraft carrier capable of building its own planes. Can be used for a sneaky air attack, but its also cheap, has good HP, huge vision radius, and long-range, high-damage Torpedoes. One tool to counter Seraphim's T3 sub hunters.
 - <img src="/images/learning/uef/uef_t4_satellite_center.png" width="50" align="center"/> **Defense Satellite** – This unique unit is a building which spawns a satellite. It can fly anywhere on the map and fire a laser down in bursts. The satellite cannot be destroyed other than having a nuke collide with it or destroying the building. The only other way to kill it is to hit ground underneath it with a Yolona Oss missile.
@@ -136,7 +168,7 @@ Radar jamming to create the appearance of having a bigger navy than you actually
 - **Naval:**
 	- <img src="/images/learning/sera/sera_t3_sub_hunter.png" width="50" align="center"/> **Submarine Hunter** - The only T3 combat submarine, it's fast, it's got ridiculous torpedoes, and it has astonishing AA weapons when surfaced.
 	- <img src="/images/learning/sera/sera_t3_battleship.png" width="50" align="center"/> **Battleship** - Solid all-around battleship, but also doubles as a mobile nuke platform instead of a nuke sub.
-#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+#### <img src="/images/learning/tech_4_icon.png"> Experimental
 - <img src="/images/learning/sera/sera_t4_assault_bot.png" width="50" align="center"/> **Ythotha Assault Bot** - Great against groups of units with a high splash damage 'Ball of doom' cannon. When destroyed releases a highly destructive orb of lightning energy that attack any unit or structure nearby for 30 seconds.
 - <img src="/images/learning/sera/sera_t4_bomber.png" width="50" align="center"/> **Ahwassa Bomber** - Absurdly powerful bomber, it's vulnerable to interception but if this thing drops, you can assume the target died.
 - <img src="/images/learning/sera/sera_t4_nuke.png" width="50" align="center"/> **Nuke Launcher** - Hyper-expensive game-ender class mega-nuke. Each missile takes two anti-nuke missiles to defend it, the nukes load faster, they do more damage and they have a frankly ridiculous AOE.
@@ -204,7 +236,7 @@ Radar jamming to create the appearance of having a bigger navy than you actually
 	- <img src="/images/learning/cybran/cybran_t3_aircraft_carrier.png" width="50" align="center" /> **Aircraft Carrier** - Can carry, build and repair aircraft. Good AA.
 	- <img src="/images/learning/cybran/cybran_t3_nuke_sub.png" width="50" align="center" /> **Strategic Submarine** - Can build nukes. Has personal stealth, torpedoes and cruise missiles.
 
-#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+#### <img src="/images/learning/tech_4_icon.png"> Experimental
 - <img src="/images/learning/cybran/cybran_t4_monkey_bot.png" width="50" align="center" /> **Monkey Lord** - Cheapest land experimental. Low HP. Has a stealth field. Short range, high damage laser. Good for early T4 stage.
 - <img src="/images/learning/cybran/cybran_t4_mega_bot.png" width="50" align="center" /> **Megalith** - Heavy direct fire experimental with a lot of HP. Can't shoot backwards, but can be microed to move back while shooting. Can produce some T2 and T3 units.
 - <img src="/images/learning/cybran/cybran_t4_gunship.png" width="50" align="center" /> **Soul Ripper** - Strong experimental gunship. Good splash damage against groups of units. 
@@ -274,7 +306,7 @@ Radar jamming to create the appearance of having a bigger navy than you actually
 	- <img src="/images/learning/aeon/a_t3_sub.png" width="50" align="center"/> **Strategic Submarine** - Can build nukes. Has cruise missiles.
 	- <img src="/images/learning/aeon/a_t3_missile_ship.png" width="50" align="center"/> **Missile Ship** - Long ranged rapid firing cruise missiles. Almost impossible to stop with TMD.
 
-#### <img src="/images/learning/tech_4_icon.png"> Tech 4 – Experimental
+#### <img src="/images/learning/tech_4_icon.png"> Experimental
 
 - <img src="/images/learning/aeon/a_gc.png" width="50" align="center"/> **Galactic Colossus** - Strong experimental bot with lots of HP. Long range laser. 2 tractor claws. Has omni and decent vision radius.
 - <img src="/images/learning/aeon/a_czar.png" width="50" align="center"/> **CZAR** - Experimental aircraft carrier. Anti ground beam that deals a lot of damage. Decent AA. Can carry, build and repair aircraft.
