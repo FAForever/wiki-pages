@@ -2,24 +2,24 @@
 title: ACU Enhancements
 description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-07T00:21:14.718Z
+date: 2025-02-07T11:31:53.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
 ---
 
-The Armored Command Unit (ACU) is not only responsible for inital construction at start of a match but is also a powerful offensive unit in the early game. Unfortunately, as a match progresses through the Tech Levels, both construction and offensive capablilties of the ACU become less potent.
+The Armored Command Unit (ACU) is not only responsible for inital construction at start of a match but is also a powerful offensive unit in the early game. Unfortunately, as a match progresses through the Tech Levels, capablilties of the ACU become less potent.
 
-ACU Upgrades serve as means to keep your ACU relevant as a match progresses by augmenting either it's engineering or offensive capabilities.
+ACU enhancements serve as upgrades to keep your ACU relevant as a match progresses by augmenting its capabilities.
 
-Three sections of an ACU can be upgraded:
+Three sections, or slots if you will, of an ACU can be upgraded:
 1. Left Arm
-2. Right Arm
-3. Back
+2. Back
+3. Right Arm
 
-A section can have only one upgrade applied, if a different upgrade is to be applied then the desired upgrade will replace the currently applied.
+A section can have only one upgrade applied and initial choice isn't permanent. Different enhancements for a section can be applied, which replace the current enhancement. Prior applied enhancements are available for re-application.
 
-An ACU upgrade can be paused or cancelled, like upgrades at Mass Extractors and Factories, though a paused Commander
+Like upgrades at Mass Extractors and Factories, ACU Enhancements can be paused or cancelled though a paused Commander is immobile.
 
 # {.tabset}
 
