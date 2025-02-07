@@ -2,13 +2,13 @@
 title: Faction Information
 description: 
 published: true
-date: 2025-02-07T00:00:03.149Z
+date: 2025-02-07T00:01:21.333Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-08-31T09:43:23.243Z
 ---
 
-This page presents an overview of general faction diversity. It outlines the overall strengths and weaknesses of each faction, and highlights some of their more unique units. The units that are extremely similar throughout the factions are not included on this page. Detailed statistics about every unit in the game can be found in the [Unit Database](/Unit-Database).
+This page presents an overview of general faction diversity. It outlines the overall strengths and weaknesses of each faction, and highlights some of their more unique units. The units that are extremely similar throughout the factions are not included on this page. Detailed statistics about every unit in the game can be found in the [Unit Database](/Play/Client/Unit-Database).
 # {.tabset}
 ## <img src="/images/learning/uef/uef.png" width="50" align="top"/>
 
