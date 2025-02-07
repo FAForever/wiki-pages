@@ -2,7 +2,7 @@
 title: ACU Enhancements
 description: Reference of ACU Enhancements in FAF
 published: true
-date: 2025-02-07T11:31:53.378Z
+date: 2025-02-07T11:43:58.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:00.461Z
@@ -22,6 +22,7 @@ A section can have only one upgrade applied and initial choice isn't permanent. 
 Like upgrades at Mass Extractors and Factories, ACU Enhancements can be paused or cancelled though a paused Commander is immobile.
 
 # {.tabset}
+
 
 ## <img src="/images/learning/uef/uef.png" width="50" align="top"/>
 ### {.tabset}
