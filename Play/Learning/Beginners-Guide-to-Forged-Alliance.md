@@ -1,8 +1,8 @@
 ---
-title: Beginner's Guide to Forged Alliance
+title: Beginner's Guide to Forged Alliance Forever
 description: 
 published: true
-date: 2025-02-06T09:47:56.559Z
+date: 2025-02-10T18:03:59.374Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
