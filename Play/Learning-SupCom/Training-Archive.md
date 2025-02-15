@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:24:41.368Z
+date: 2025-02-15T21:29:04.839Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -44,9 +44,9 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
-* [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
-* [FAF Unit Stage Comparison Chart *To view faction viability in each stage of the game in Land Air and Navy*](https://forum.faforever.com/topic/7348/stage-comparison-chart?_=1739651010041)
-* [Cheeseberry's Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?tab=t.0)
+* [Air-transports](https://wiki.faforever.com/en/Play/Learning/Air-Transport)
+* [Adjacency Bonus](https://wiki.faforever.com/en/Play/Learning/Adjacency-Bonus)
+
 {.links-list}
 
 
