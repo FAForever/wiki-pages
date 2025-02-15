@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T21:18:48.277Z
+date: 2025-02-15T21:22:34.125Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -48,7 +48,8 @@ This section is for specific information on units, game mechanics and other fact
 {.links-list}
 
 ## Outdated Training Archive
-
+* [Training Archive](https://wiki.faforever.com/en/Play/Learning-SupCom/Training-Archive)
+{.links-list}
 
 
 ## Additional Video Tutorials
