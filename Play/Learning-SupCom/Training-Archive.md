@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:36:39.808Z
+date: 2025-02-15T21:37:00.848Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -50,6 +50,7 @@ This section is for specific information on units, game mechanics and other fact
  * [Faction Information *For an overview of the factions in Supreme Commander*](/Play/Learning-SupCom/Faction-Information)
 * [Air-transports](https://wiki.faforever.com/en/Play/Learning/Air-Transport)
 * [Adjacency Bonus](https://wiki.faforever.com/en/Play/Learning/Adjacency-Bonus)
+ * [Engy Mod *For specific information regarding the Engy mod patch*](/Play/Game-Modifications-(Mods)#engy-mod)
 * [Missiles](https://wiki.faforever.com/en/Play/Learning/Missiles)
 * [Three Essential Habits For The New Player](https://wiki.faforever.com/en/Play/Learning/Three-Essential-Habits-for-the-New-Player)
 {.links-list}
