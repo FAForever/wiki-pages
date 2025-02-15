@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:35:45.012Z
+date: 2025-02-15T21:36:39.808Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -47,6 +47,7 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
+ * [Faction Information *For an overview of the factions in Supreme Commander*](/Play/Learning-SupCom/Faction-Information)
 * [Air-transports](https://wiki.faforever.com/en/Play/Learning/Air-Transport)
 * [Adjacency Bonus](https://wiki.faforever.com/en/Play/Learning/Adjacency-Bonus)
 * [Missiles](https://wiki.faforever.com/en/Play/Learning/Missiles)
