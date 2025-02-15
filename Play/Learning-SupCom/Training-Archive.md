@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:19:59.931Z
+date: 2025-02-15T21:21:02.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -19,8 +19,6 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 {.links-list}
 
 ## Improving Your Gameplay
-
-If you know the basics of the game and are looking to improve your gameplay, you may want to check out any or all of the links in this section (whether you're a new player or a pro, these resources could help you to improve).
 
 * [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365)
 * [Heaven's Video Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS)
@@ -46,8 +44,6 @@ This section is for specific information on units, game mechanics and other fact
 * [FAF Unit Stage Comparison Chart *To view faction viability in each stage of the game in Land Air and Navy*](https://forum.faforever.com/topic/7348/stage-comparison-chart?_=1739651010041)
 * [Cheeseberry's Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?tab=t.0)
 {.links-list}
-
-## Outdated Training Archive
 
 
 
