@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-02-15T18:03:22.096Z
+date: 2025-02-15T18:04:59.570Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -263,7 +263,6 @@ For more information, see the following page:
 
 #### Associates
 
-- StormLantern
 - Orb
 - Basilsk3
 - SpikeyNoob
