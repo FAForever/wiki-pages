@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-01-26T22:34:47.788Z
+date: 2025-02-15T17:59:58.011Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -260,17 +260,14 @@ For more information, see the following page:
 - Turin
 - Farmsletje
 - Tagada
-- Rowey
 
 #### Associates
 
 - StormLantern
 - Orb
-- Blodir
+- Basilsk3
 - SpikeyNoob
 - Archsimkat
-- MadMax
-- Dragun
 - Nomander
 - Sainse
 
