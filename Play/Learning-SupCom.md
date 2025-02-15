@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T21:08:00.110Z
+date: 2025-02-15T21:18:48.277Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -46,6 +46,9 @@ This section is for specific information on units, game mechanics and other fact
 * [FAF Unit Stage Comparison Chart *To view faction viability in each stage of the game in Land Air and Navy*](https://forum.faforever.com/topic/7348/stage-comparison-chart?_=1739651010041)
 * [Cheeseberry's Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?tab=t.0)
 {.links-list}
+
+## Outdated Training Archive
+
 
 
 ## Additional Video Tutorials
