@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-05T20:50:05.477Z
+date: 2025-02-15T20:45:06.231Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -25,7 +25,6 @@ If you know the basics of the game and are looking to improve your gameplay, you
 * [How To Play FAF & Get Better - Cliff Notes](https://forum.faforever.com/topic/4765/how-to-play-faf-get-better-cliff-notes)
 * [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365)
 * [Heaven's Video Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS)
-* [TheForgedAllianceColonel's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLWe0mYs3ObwL36zemynMh5G4b-3s5vol0)
 * [UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player)
 * [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
 * [BRNK's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1)
