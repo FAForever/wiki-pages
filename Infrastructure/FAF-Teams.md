@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-02-15T17:59:58.011Z
+date: 2025-02-15T18:03:22.096Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -277,7 +277,7 @@ For more information, see the following page:
 ❖ Interested applicants apply by messaging the team lead.
 ❖ Applicants are discussed and voted on by the team members with a majority required to join, with the team leader being the tiebreak.
 ❖ If accepted new members become balance associates.
-❖ Applicants are expected to have atleast one of the following: game design knowledge, LUA coding knowledge being familiar with fa repo or be an experienced player with a good understanding of the competitive gameplay.
+❖ Applicants are expected to have at least one of the following: game design knowledge, LUA coding knowledge being familiar with fa repo or be an experienced player with a good understanding of the competitive gameplay.
 ❖ New members are accepted on a trial period that lasts up to 3 months.
 ❖ Team members may be removed, by the team leader or a majority vote, due to inactivity or being no longer suitable for the position.
 
