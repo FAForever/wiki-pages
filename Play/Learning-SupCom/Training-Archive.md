@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:29:04.839Z
+date: 2025-02-15T21:29:56.633Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -46,7 +46,7 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 * [Air-transports](https://wiki.faforever.com/en/Play/Learning/Air-Transport)
 * [Adjacency Bonus](https://wiki.faforever.com/en/Play/Learning/Adjacency-Bonus)
-
+* [Missiles](https://wiki.faforever.com/en/Play/Learning/Missiles)
 {.links-list}
 
 
