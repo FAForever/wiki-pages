@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T20:53:19.654Z
+date: 2025-02-15T20:53:27.178Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -43,7 +43,6 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 * [Faction Information *For an overview of the factions in Supreme Commander*](/Play/Learning-SupCom/Faction-Information)
-* [Engy Mod *For specific information regarding the Engy mod patch*](/Play/Game-Modifications-(Mods)#engy-mod)
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
 {.links-list}
 
