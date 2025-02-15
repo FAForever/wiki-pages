@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:29:56.633Z
+date: 2025-02-15T21:30:30.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -47,6 +47,7 @@ This section is for specific information on units, game mechanics and other fact
 * [Air-transports](https://wiki.faforever.com/en/Play/Learning/Air-Transport)
 * [Adjacency Bonus](https://wiki.faforever.com/en/Play/Learning/Adjacency-Bonus)
 * [Missiles](https://wiki.faforever.com/en/Play/Learning/Missiles)
+* [Three Essential Habits For The New Player](https://wiki.faforever.com/en/Play/Learning/Three-Essential-Habits-for-the-New-Player)
 {.links-list}
 
 
