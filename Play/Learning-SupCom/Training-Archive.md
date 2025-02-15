@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:34:36.337Z
+date: 2025-02-15T21:34:49.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -25,6 +25,7 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 * [UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player)
 * [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
 * [BRNK's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1)
+* [Все туториалы / Zlo's Tutorials Playlist *very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)* ](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr)
 {.links-list}
 
 ### 1v1 Guides
