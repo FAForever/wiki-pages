@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T20:59:37.613Z
+date: 2025-02-15T21:08:00.110Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -44,6 +44,7 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
 * [FAF Unit Stage Comparison Chart *To view faction viability in each stage of the game in Land Air and Navy*](https://forum.faforever.com/topic/7348/stage-comparison-chart?_=1739651010041)
+* [Cheeseberry's Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?tab=t.0)
 {.links-list}
 
 
