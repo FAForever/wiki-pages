@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T21:22:34.125Z
+date: 2025-02-15T21:43:17.730Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -50,38 +50,4 @@ This section is for specific information on units, game mechanics and other fact
 ## Outdated Training Archive
 * [Training Archive](https://wiki.faforever.com/en/Play/Learning-SupCom/Training-Archive)
 {.links-list}
-
-
-## Additional Video Tutorials
-
-<table>
-<tbody>
-<tr class="odd">
-<td><h4 id="micro">Gameplay & Micro</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=bgdtF63mkvA&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=4">Micro Overview Video</a></li>
-<li><a href="https://www.youtube.com/watch?v=OFfThjfIC30">Basic Land micro: How to dodge correctly</a></li>
-<li><a href="https://www.youtube.com/watch?v=yXOVsI-I5P8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=3">Map Control</a></li>
-<li><a href="https://www.youtube.com/watch?v=tzv7nOH-IrY">How to counter: Early Air</a></li>
-<li><a href="https://www.youtube.com/watch?v=TMosOhCkf-g">How to deal with T2 Turtles</a></li>
-<li><a href="https://www.youtube.com/watch?v=7MVmqyORsKI">Unit Blocking</a></li>
-<li><a href="https://www.youtube.com/watch?v=Llm1HHmJp9E&amp;list=PLxH0oefiZR_W8xpoGh3DbGQH9_ezdV3B-&amp;index=1">Construction Site Block</a></li>
-<li><a href="https://youtu.be/w7VSbf_Lxmw?t=2m20s">General Air Micro</a></li>
-<li><a href="https://www.youtube.com/watch?v=H5fLQ9quSXw">Tips &amp; Tricks</a></li>
-<li><a href="https://www.youtube.com/watch?v=m22CnQ90m6M">TML Blocking</a></li>
-</ul></td>
-<td><h4 id="build_orders_anything_that_uses_ras_is_outdated">Build Orders</h4>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=_6uE1-xS2uk">Generic Build Orders</a></li>
-<li><a href="https://www.youtube.com/watch?v=ozRcglfzicU">Bacis Build Orders &amp; PvP Gameplay</a></li>
-<li><a href="https://www.youtube.com/watch?v=u_m53YcP9OA">Basic Build Orders</a></li>
-<li><a href="https://www.youtube.com/user/praisegugleourmaster/videos?query=build">List of Build Orders</a></li>
-<li><a href="https://www.youtube.com/watch?v=TYwZf14xKEk&amp;list=PLxH0oefiZR_UssM3V9gTcI2WXdDo47yTm&amp;index=1">Playlist of Updated Map-Specific Build Orders</a></li>
-<li><a href="https://www.youtube.com/watch?v=h-GzOhDQwA8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=12">How to Eco: Sources of Mass by Efficiency</a></li>
-<li><a href="https://www.youtube.com/watch?v=lvRYxvk6EzE&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=13">3 Tips for Better Eco</a></li>
-</ul></td>
-</ul></td>
-</tr>
-</tbody>
-</table>
 
