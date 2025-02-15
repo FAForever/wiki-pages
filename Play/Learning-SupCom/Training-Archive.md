@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:31:46.341Z
+date: 2025-02-15T21:33:49.311Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -19,7 +19,7 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 {.links-list}
 
 ## Improving Your Gameplay
-
+ * [How To Play FAF & Get Better - Cliff Notes](https://forum.faforever.com/topic/4765/how-to-play-faf-get-better-cliff-notes)
 * [How to improve forever - Blackheart's 6 laws](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws?_=1625166213365)
 * [Heaven's Video Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS)
 * [UI mod guide for the improving player](https://forum.faforever.com/topic/7346/ui-mod-guide-for-the-improving-player)
