@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2025-02-03T15:23:25.648Z
+date: 2025-02-15T22:55:45.602Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -18,7 +18,7 @@ For now this pager is just a long list of guides so that we have them all in one
  - [Sladow's link overview in Guides](https://discord.com/channels/197033481883222026/1192636619061198868/1192636619061198868)
  - [Sladow's FAQ on the Forum](https://discord.com/channels/197033481883222026/1192636619061198868/11926366190611988680)
  - [Changes from Steam Wiki Page (Outdated?)](https://wiki.faforever.com/en/FAQ/Changes-from-steam)
- - [CheeseBerry's Guide to Seton's](https://docs.google.com/document/d/1U__7uAI75eSpU5koUIhQcD_hSpGZ12WTPxpfU_EzoYU/edit?usp=sharing)
+ - [Ultimate Seton's Guide](https://docs.google.com/document/d/1U__7uAI75eSpU5koUIhQcD_hSpGZ12WTPxpfU_EzoYU/edit?usp=sharing)
  - [Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?usp=drivesdk)
  - [Analyzing your own replays](https://docs.google.com/document/d/1ZFqB_W4lmTexZRxd4SEF8RtHNCPg3oB_GW1StJM_OWY/edit#heading=h.44cytjw8thzm)
  - [FTX's Intro PDF](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit?tab=t.0)
