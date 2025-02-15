@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T20:45:06.231Z
+date: 2025-02-15T20:45:36.561Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -28,7 +28,6 @@ If you know the basics of the game and are looking to improve your gameplay, you
 * [UI mod guide for the improving player](https://forum.faforever.com/topic/1186/ui-mod-guide-for-the-improving-player)
 * [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
 * [BRNK's Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PL8njGw0L9GCMmWuVXUix1t_0rQ5phYRU1)
-* [Все туториалы / Zlo's Tutorials Playlist *very large playlist of videos from numerous sources (many are in Russian) / очень большой плейлист видео из многочисленных источников (многие на русском)* ](https://www.youtube.com/playlist?list=PLIwKk1Z5BqbwN9QgYjoY2YUvtpOgIeOlr)
 {.links-list}
 
 ### 1v1 Guides
