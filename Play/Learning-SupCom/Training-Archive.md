@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:24:23.368Z
+date: 2025-02-15T21:24:33.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -29,7 +29,7 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 ### 1v1 Guides
 * [General 1v1 Guide](/Play/Learning-SupCom/General-1v1-Guide)
 * [Aeon 1v1 Guide]
-* [Cybran 1v1 Guide]
+* [Cybran 1v1 Guide](https://wiki.faforever.com/en/Play/Learning-SupCom/Cybran-1v1-Guide)
 * [Seraphim 1v1 Guide](https://wiki.faforever.com/en/Play/Learning-SupCom/Seraphim-1v1-Guide)
 * [UEF 1v1 Guide](https://wiki.faforever.com/en/Play/Learning-SupCom/UEF-1v1-Guide)
 {.links-list}
