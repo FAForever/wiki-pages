@@ -2,7 +2,7 @@
 title: Training Archive
 description: Page dedicated to outdated training materials. 
 published: true
-date: 2025-02-15T21:30:30.347Z
+date: 2025-02-15T21:31:46.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T21:19:59.931Z
@@ -79,6 +79,17 @@ This section is for specific information on units, game mechanics and other fact
 <li><a href="https://www.youtube.com/watch?v=TYwZf14xKEk&amp;list=PLxH0oefiZR_UssM3V9gTcI2WXdDo47yTm&amp;index=1">Playlist of Updated Map-Specific Build Orders</a></li>
 <li><a href="https://www.youtube.com/watch?v=h-GzOhDQwA8&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=12">How to Eco: Sources of Mass by Efficiency</a></li>
 <li><a href="https://www.youtube.com/watch?v=lvRYxvk6EzE&amp;list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS&amp;index=13">3 Tips for Better Eco</a></li>
+<td><h4 id="specific_units">Specific Units</h4>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=nJM8OZYllq4">T3 Air (ASF Micro)</a></li>
+<li><a href="https://youtu.be/dkDQd5EsvdA">Hoverbombing Strats</a></li>
+<li><a href="https://www.youtube.com/watch?v=V-blUZq8Jts">Selens (Seraphim T1 Scouts)</a></li>
+<li><a href="https://www.youtube.com/watch?v=Z05hNoPpE_A">ACU Self Destruct</a></li>
+<li><a href="https://youtu.be/6JKtn5oB2ag">Fire Beetles</a></li>
+<li><a href="https://www.youtube.com/watch?v=xcYBCiTfO0w&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=2">Sprite Strikers (Illuminate Sniper Bots)</a></li>
+<li><a href="https://www.youtube.com/watch?v=xjSVmgvq_kw&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=1">T3 Stationary Arty Base Design</a></li>
+<li><a href="https://www.youtube.com/watch?v=GYFKmWY_Xps&amp;list=PLxH0oefiZR_UXQrC_3xswDypNDF0_2kyH&amp;index=3">T4 Resource Generator (Paragon)</a></li>
+<li><a href="https://www.youtube.com/watch?v=e9jGeqc2Cpg">Megalith</a></li>
 </ul></td>
 </ul></td>
 </tr>
