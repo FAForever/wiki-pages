@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-15T20:50:29.213Z
+date: 2025-02-15T20:53:19.654Z
 tags: learn to play, guide
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -45,8 +45,6 @@ This section is for specific information on units, game mechanics and other fact
 * [Faction Information *For an overview of the factions in Supreme Commander*](/Play/Learning-SupCom/Faction-Information)
 * [Engy Mod *For specific information regarding the Engy mod patch*](/Play/Game-Modifications-(Mods)#engy-mod)
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
-* [Missiles *To view specific info about tactical and strategic missiles*](/Play/Learning/Missiles)
-* [Air Transport *Capacity of several air types of transport*](/Play/Learning/Air-Transport)
 {.links-list}
 
 ## Additional Video Tutorials
