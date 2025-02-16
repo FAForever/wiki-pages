@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-02-16T00:02:06.920Z
+date: 2025-02-16T00:02:33.296Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -217,6 +217,7 @@ TBD
 - Paradox_of_War
 - Strydxr
 - Vindex
+- LoliChan
 
 #### Policies
 ##### Requirements for being a TD:
