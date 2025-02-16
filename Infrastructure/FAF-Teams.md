@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-02-16T01:31:10.951Z
+date: 2025-02-16T17:13:13.587Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -206,16 +206,15 @@ Board.
 ###### FAF Tournament Manager:
 - hybrid_
 ##### FAF Senior TDs:
-TBD
+- Rhaelya
+- Strydxr
 ##### FAF TDs:
 - Fearghal
-- Rhaelya
 - Tagada
 - Farms aka TheWeakie
 - Sainse
 - Nuggets
 - Paradox_of_War
-- Strydxr
 - Vindex
 - LoliChan
 
