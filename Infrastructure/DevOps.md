@@ -2,7 +2,7 @@
 title: DevOps
 description: 
 published: true
-date: 2023-10-29T14:39:01.108Z
+date: 2025-02-16T21:18:00.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T14:39:01.108Z
@@ -17,7 +17,6 @@ dateCreated: 2023-10-29T14:39:01.108Z
 - p4block
 - MazorNoob
 - kubko
-- Rowey
 - MarcSpector
 
 ## Mission statement
@@ -303,14 +302,14 @@ More features can mean:
 Every change has a risk.
 
 - The risk of introducing a bug
-- The risk to make an application or even an entiry system crash
+- The risk to make an application or even an entire system crash
 - The risk to lose data
 
 Risks have a probability of occurrence and a potential damage they do.
 Minor risks such as uncritical bugs already have a high probability of occurence, but usually have low damage.
 Major risks causing systems to fail have a low probability but a high damage.
 
-Usually you weigh them by probability * potential damage. But that's not important for us. What is important is that risk is acumulated. The bigger the system gets, the more componants it contains, the more complexity we have, the risk will grow.
+Usually you weigh them by probability * potential damage. But that's not important for us. What is important is that risk is acumulated. The bigger the system gets, the more components it contains, the more complexity we have, the risk will grow.
 
 There are ways to reduce risk probability or to reduce the damage. But these things take up resources and knowledge that is not always available.
 
@@ -323,7 +322,7 @@ So whatever we do, we have to keep costs at a minimum.
 
 This has drawbacks, as it in general removes options to run on managed platforms (such as AWS) or single managed services (such as Twilio, MailJet, managed MariaDB or hosted NodeBB).
 
-As a side note: FAF funds will never suffice to contract fulltime developers or admins. But this would questionable for other reasons anyway.
+As a side note: FAF funds will never suffice to contract fulltime developers or admins. But this would be questionable for other reasons anyway.
 
 ### Time
 
