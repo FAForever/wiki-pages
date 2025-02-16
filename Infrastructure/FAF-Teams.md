@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-02-15T20:45:20.700Z
+date: 2025-02-16T00:02:06.920Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -217,7 +217,6 @@ TBD
 - Paradox_of_War
 - Strydxr
 - Vindex
-- Zwaffel aka Bully
 
 #### Policies
 ##### Requirements for being a TD:
