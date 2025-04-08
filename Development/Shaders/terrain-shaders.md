@@ -2,7 +2,7 @@
 title: FAF Terrain Shaders
 description: An in-depth explanation of the FAF terrain shaders
 published: true
-date: 2025-04-08T21:30:12.072Z
+date: 2025-04-08T22:02:16.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T21:15:13.333Z
@@ -145,7 +145,8 @@ Height processing for the blending happens at two scales, for each layer, the al
 You can control the blurriness of the texture blending. A too low blurriness can look artificial, a too high blurriness will look washed out. The perfect value depends on the textures you use and the look you want to go for.
 
 ### Selecting the shader in the editor
-You can switch the shader that the map uses by typing the appropriate name in the shader text field in the editor (Map > General). 
+You can switch the shader that the map uses by typing the appropriate name in the shader text field in the editor (Map > General).
+After you have done that, you need to provide the necessary textures, so the shader works correctly. For the Terrain200 shader family for example this entails creating the PBR texture atlas, the terrain normal texture and the terrain info texture. You can find buttons to generate each texture in the texture tab (Textures > Tools). You can also find a button there to set the roughness modifier mask (the texture mask of layer 8) to the neutral value of 0.5.
 
 ### Detailed info on the Terrain Info Texture and Terrain Normal Texture
 For advanced mappers who want greater control over terrain shading and blending, it is possible to create custom textures using external tools. This allows for the inclusion of custom normal maps and fine-tuned ambient occlusion and shadow data.
