@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:29:29.534Z
+date: 2025-04-12T07:34:12.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -10,6 +10,18 @@ dateCreated: 2025-04-12T07:15:24.063Z
 
 Introduction Paragraph
 
+---
+## FAF Opening Build Orders
+## Early Game{.tabset}
+
+### Hydro Build Opener
+
+- Text
+
+### Non Hydro Build Opener
+
+- Text
+___
 ## Basic Strategy
 ## Early Game{.tabset}
 
