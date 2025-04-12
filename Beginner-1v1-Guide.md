@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:40:07.589Z
+date: 2025-04-12T07:41:10.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -86,27 +86,6 @@ Cost Efficiency: Trades 2:1 in mass against submarines
 
 
 When placed behind a naval factory, torpedo launchers gain a buffer of protection, and their effectiveness can be enhanced with basic micro or engineer support. In most cases, two torpedo launchers are enough to completely neutralize a T1 submarine threat.
-Torpedo Bombers
-Torpedo bombers are arguably one of the most powerful units in the game’s naval meta:
-Damage: 750 per drop
-
-
-Cost: Similar to a frigate, significantly cheaper than a sub
-
-
-Effectiveness: Two torpedo bombers can kill a T1 sub in one pass
-
-
-Unlike subs, torpedo bombers are fast, efficient, and can't be countered by the submarines they target. Their ability to act as a highly cost-effective counter — even when the opponent isn’t using submarines — makes them a valuable addition to any navy composition.
-Tip: Use Distribute Orders (Formerly “Spread Attack”)
-Torpedo bombers can become inefficient if given basic attack orders, often overkilling individual subs. Instead, use the Distribute Orders command to assign two bombers to each target. This allows for precise and highly efficient submarine removal.
-To use:
-Select torpedo bombers and queue multiple attack orders on enemy subs.
-
-
-Press the Distribute Orders hotkey (e.g., Shift+G).
-
-Watch each sub die in a single pass.
 
 - Destroyers
 All destroyers, except for the UEF variant, trade extremely well against T1 submarines, even without using surface weaponry. UEF destroyers lack underwater torpedoes and instead rely on torpedo boats or bombers.
