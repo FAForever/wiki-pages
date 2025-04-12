@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:16:10.350Z
+date: 2025-04-12T07:18:05.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -13,13 +13,13 @@ Introduction Paragraph
 ## Early Game
 ## Early Game{.tabset}
 
-### Summary
+### Basic Strategy
 - Raid early and often on land maps, the T1 Assault Bot **Mantis** has a massive speed advantage.
 - Don't depend on your bomber's success, or be really good at your bomber micro.
 - Getting a T1 Gunship **Jester** after securing very early air control can also win you the game if you keep it alive.
 - Click on the sections below for more information.
 
-### Mantis
+### Frigates
 
 While you have LABs that can be used in the opening 90-120 seconds of the game due to their low build time, your main tank (actually another bot technically) is nearly as fast and will win if it runs in to an early lab from your enemy. The top speed of all LABs is 4.0 (remember that your Hunter has the lowest HP), the Mantis is 3.7, the Thaam is 3.5, the Striker is 3.4 and the Aurora is 2.9. The Mantis generally is about even with or slightly better than the Thaam in a straight fight, as it has 2 DPS more and 10 HP less, and is half way between a Striker and a LAB for speed.
 
@@ -27,7 +27,7 @@ This means you should be able to shut down enemy raids if you scout well and del
 
 The slow turret speed of the Mantis does complicate this advantage - it's quite possible to lose to an enemy Mantis that your opponent is not paying attention to if you micro your own Mantis badly in a 1v1. Generally speaking you want to approach or run away from your enemy's tank in a zig zag. You will usually either escape with your superior speed or win the fight. You should avoid charging past the enemy tank or causing very sharp changes of direction. Your turret may fail to track the target and stop firing for a crucial amount of time.
 
-### Air
+### Submarines
 Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arguably the worst in the game (although possibly slightly better than the UEF Scorcher), with the lowest damage and bad accuracy. Early bombers can still win you games with good build orders and a slow counter from the enemy, but if your opponent is dodging their engineers and you are not countering this with good micro, you may find yourself making multiple passes on engineers for no kills. Keep in mind that bad micro can allow stationary or un-dodged engineers survive a pass for a variety of reasons.
 
 You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.
