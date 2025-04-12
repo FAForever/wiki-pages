@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:26:21.328Z
+date: 2025-04-12T07:29:29.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -39,9 +39,60 @@ Frigates have an excellent mass-to-DPS (damage per second) ratio, which makes th
 You can suicide a few of your Frigates into the naval yard of your enemy to kill the engies around the factory. This denies the fast naval production of your enemy and allows you to outscale him in the long run
 
 ### Submarines
-Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arguably the worst in the game (although possibly slightly better than the UEF Scorcher), with the lowest damage and bad accuracy. Early bombers can still win you games with good build orders and a slow counter from the enemy, but if your opponent is dodging their engineers and you are not countering this with good micro, you may find yourself making multiple passes on engineers for no kills. Keep in mind that bad micro can allow stationary or un-dodged engineers survive a pass for a variety of reasons.
+The Strengths and Weaknesses of T1 Submarines
+- Why T1 Submarines Seem Strong
+T1 submarines can be difficult to scout and are immune to most unit types. In low-rated games, they often feel unkillable due to a general lack of understanding of their counters. Many newer players either attempt to respond with submarines of their own or fail to react altogether, resulting in the loss of their navy. The illusion of strength largely comes from a knowledge gap.
+However, submarines being powerful only against inexperienced players — but ineffective against experienced ones — makes them what is commonly referred to as a "noob trap."
+- Why T1 Submarines Are Actually Weak
+1. Despite their untargetability by most T1 units, T1 submarines have very poor combat efficiency:
+2. Cost: 25% more than a T1 frigate
+3. Damage Output: 25% less than a frigate
+4. Durability: Less than one-third the health of a frigate
+5. Additionally, they lack any form of radar and have no surface attack capability. A single T1 torpedo defense can shut them down completely, making it impossible for them to threaten harbors or even exposed mass extractors near the water.
+6. T1 subs are ineffective at targeting engineers — especially Aeon and Seraphim engineers, which hover and cannot be attacked unless the submarine surfaces, forfeiting its main strength.
+7. Their movement speed is equal to that of frigates, so they cannot chase or escape enemy ships. If the opponent simply retreats or repositions their navy, T1 subs become useless.
+8. Their inefficacy becomes even more apparent at higher tech levels, where torpedo bombers and destroyers can eliminate them with ease.
 
-You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.
+Effective Counters to T1 Submarines
+While they are immune to most T1 units, everything that can target T1 submarines tends to destroy them extremely efficiently in terms of mass and cost.
+Torpedo Launchers
+T1 torpedo launchers are highly effective:
+Build Time: ~500 (vs. ~1500 for a T1 sub)
+
+
+Range: ~50 (vs. ~30 for a T1 sub)
+
+
+Cost Efficiency: Trades 2:1 in mass against submarines
+
+
+When placed behind a naval factory, torpedo launchers gain a buffer of protection, and their effectiveness can be enhanced with basic micro or engineer support. In most cases, two torpedo launchers are enough to completely neutralize a T1 submarine threat.
+Torpedo Bombers
+Torpedo bombers are arguably one of the most powerful units in the game’s naval meta:
+Damage: 750 per drop
+
+
+Cost: Similar to a frigate, significantly cheaper than a sub
+
+
+Effectiveness: Two torpedo bombers can kill a T1 sub in one pass
+
+
+Unlike subs, torpedo bombers are fast, efficient, and can't be countered by the submarines they target. Their ability to act as a highly cost-effective counter — even when the opponent isn’t using submarines — makes them a valuable addition to any navy composition.
+Tip: Use Distribute Orders (Formerly “Spread Attack”)
+Torpedo bombers can become inefficient if given basic attack orders, often overkilling individual subs. Instead, use the Distribute Orders command to assign two bombers to each target. This allows for precise and highly efficient submarine removal.
+To use:
+Select torpedo bombers and queue multiple attack orders on enemy subs.
+
+
+Press the Distribute Orders hotkey (e.g., Shift+G).
+
+Watch each sub die in a single pass.
+
+- Destroyers
+All destroyers, except for the UEF variant, trade extremely well against T1 submarines, even without using surface weaponry. UEF destroyers lack underwater torpedoes and instead rely on torpedo boats or bombers.
+Against any tech-level submarine, simply move your destroyers directly on top of them to eliminate them quickly. Destroyers’ dominance over T1 submarines further limits the latter’s usefulness once T2 navy is reached.
+
 
 ### Unit Queue (Navy)
 Based on these observations we can create unit queue:
