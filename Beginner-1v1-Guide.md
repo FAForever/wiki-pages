@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:41:10.643Z
+date: 2025-04-12T14:02:01.333Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -27,7 +27,15 @@ Introduction Paragraph
 ___
 
 ## Spending Resources 
-- text
+## Spending Resources{.tabset}
+
+### Introduction 
+
+### Mass
+
+### Energy 
+
+### Build Power
 ___
 ## Basic Strategy
 ## Early Game{.tabset}
