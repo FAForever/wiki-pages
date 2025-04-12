@@ -2,17 +2,13 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:15:24.063Z
+date: 2025-04-12T07:16:10.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
 ---
 
-This page is intended to help you learn how to play Cybran in 1v1s. It is long, so it may be more useful to check specific sections that you are curious about and/or reading the Summary sections only, instead of reading it all at once. A lot of the content in this guide also applies to team games, where you can also mix your units with other factions' tech to create really interesting, hard to beat combinations.
-
-Cybran is the most common faction among the top 100 1v1 ladder players due to it being strong in most situations, particularly inside the first 30 minutes when the vast majority of high level 1v1s are decided. There are very few stages of the game where Cybran is uncounterably strong, but aside from certain amphibious maps you should be very competitive in nearly all situations. As a general rule, you have more options available to you as Cybran, due to having unique units, such as the Jester and the Fire Beetle, and units with special abilities, such as stealth and splitting tactical missiles.
-
-The aggressive, flexible play style is also quite a lot of fun.
+Introduction Paragraph
 
 ## Early Game
 ## Early Game{.tabset}
