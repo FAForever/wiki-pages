@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:25:03.534Z
+date: 2025-04-12T07:26:21.328Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -43,8 +43,15 @@ Your air, on the other hand, is not so strong early. The T1 Cybran bomber is arg
 
 You may be tempted to use an early Jester, which can work very well if your opponent has neglected to build air, however it is a major risk given the cost for an early-game economy. It is less of an "all-in" to secure air superiority first with interceptors (which are arguably the worst in the game due to their inability to kill an air scout in one volley) before causing serious damage with a Jester. A Jester rush works best on small (5x5) maps where you have intel on the enemy’s second factory. A land scout after the second engineer on most 5x5 maps, will arrive at the enemy base just in time to see what factory they are building second. If it is a land factory, go ahead with your Jester. If they make an air factory second, build an interceptor and ambush their air with yours. If your Jester is successful, it can be a good time to get Tech 2 land while you are ahead, especially against Aeon.
 
-### Auroras and Zthuees
-On amphibious maps, you will have trouble against Aeon and Seraphim. If you expect units to be appearing across a body of water, you need to make early frigates if you can, and fortunately your frigate is the most mass efficient one of the four factions, but you will be behind on land units if you do this due to the high mass investment required for naval units. You may also have some success with early Jesters if you can secure air control. Fortunately for Cybran (and UEF), a number of these maps have been removed from the [map pool](Ladder_Map_Pool "wikilink"), meaning being blindsided by this is less likely now.
+### Unit Queue (Navy)
+Based on these observations we can create unit queue:
+
+- No underwater Mexes:
+3-5 Frigates : 1 Sub
+
+- With underwater Mexes
+1-3 Frigates : 1 Sub
+
 
 ## Small Maps
 A lot of games on small maps in particular are decided by the "basics" - better raiding, eco balance, unit micro and knowing when to attack, when to upgrade your ACU/land factory/eco or how to take advantage of it when your opponent does these things. You can't do this stuff worse than your opponent and expect to win often. Cybran is a bit under rated on small land maps due to the low hit points of their units. However Cybran offers you unique ways to win.
