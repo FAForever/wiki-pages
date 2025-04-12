@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:23:46.079Z
+date: 2025-04-12T07:25:03.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -10,7 +10,7 @@ dateCreated: 2025-04-12T07:15:24.063Z
 
 Introduction Paragraph
 
-## Early Game
+## Basic Strategy
 ## Early Game{.tabset}
 
 ### Basic Strategy
