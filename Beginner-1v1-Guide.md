@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:35:47.513Z
+date: 2025-04-12T07:37:25.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -22,6 +22,9 @@ Introduction Paragraph
 
 - Text
 
+## Recommended Starter Faction
+- Text
+___
 ## Basic Strategy
 ## Early Game{.tabset}
 
