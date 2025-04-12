@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T07:34:12.115Z
+date: 2025-04-12T07:35:47.513Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -21,7 +21,7 @@ Introduction Paragraph
 ### Non Hydro Build Opener
 
 - Text
-___
+
 ## Basic Strategy
 ## Early Game{.tabset}
 
