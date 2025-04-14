@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T22:14:13.901Z
+date: 2025-04-14T22:16:41.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -31,9 +31,16 @@ Engis 3+:  Expand
 *Depending on the mex positions around your base, a small energy stall might happen but it's nothing you should worry about. After the initial build it's crucial to keep scaling your energy and production as you'll claim more and more mexes.*
 ### Non Hydro Build Opener
 **Triple Land (Without Hydro):**
-ACU:      Landfac - 2 PG - 2 Mex - 1 PG - 2 Mex - 2 PG - Landfac - PG - Landfac
-Engis:    Expand
+Triple Land Opening without Hydro:
+ACU: Landfac → 2 PG → 2 Mex → 1 PG → 2 Mex → 2 PG → Landfac → PG → Landfac
+Engis: Expand
 
+Same as the Triple Land Opening with Hydro you might experience a brief energy stall early on. Again, this is generally not a concern.
+
+Once you're comfortable with both openings, adapting them becomes straightforward. Just keep two key principles in mind:
+- Air factories require 3 PGs, land factories only need 1 PG.
+- For each engineer assisting your ACU, add 1 extra PG before building your next factory.
+For example, if you want to go second air, simply replace the 1 PG with 3 PGs and build an air factory instead of a land factory. If you're assisting your ACU with 2 engineers, queue up 2 extra PGs beforehand to avoid stalling.
 ### Beginner Unit Composition
 **Now to the question of "What should I even build in the landfactories?":**
 It is recommended to go for a standard queue until you get a feeling for the opening phase. The queue in your first factory looks something like this:
