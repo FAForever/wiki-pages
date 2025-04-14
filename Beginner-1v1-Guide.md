@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T08:50:53.320Z
+date: 2025-04-14T09:05:59.050Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -41,10 +41,7 @@ ___
 ## Early Game{.tabset}
 
 ### Basic Strategy
-- Raid early and often on land maps, the T1 Assault Bot **Mantis** has a massive speed advantage.
-- Don't depend on your bomber's success, or be really good at your bomber micro.
-- Getting a T1 Gunship **Jester** after securing very early air control can also win you the game if you keep it alive.
-- Click on the sections below for more information.
+- text
 
 ### Frigates
 
