@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:07:44.820Z
+date: 2025-04-14T09:09:08.889Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -20,9 +20,12 @@ Even though you're a complete beginner, sadly the most fundamental aspect of thi
 There are two standard openings. One with the hydro carbon (also referred as "Hydro") and the one without. We'll take a look at 3 land factories as switching things up is rather easy.
 
 ### Hydro Build Opener
+**Triple land opening with hydro:**
+ACU: Landfac - 4 Mex - Assists Hydro - Landfac - Pg - Landfac - Pg
+Engis 1-2: Build Hydro, then expand
+Engis 3+:  Expand
 
-- Text
-
+*Depending on the mex positions around your base, a small energy stall might happen but it's nothing you should worry about. After the initial build it's crucial to keep scaling your energy and production as you'll claim more and more mexes.*
 ### Non Hydro Build Opener
 
 - Text
