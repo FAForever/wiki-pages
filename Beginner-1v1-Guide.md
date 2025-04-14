@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:05:59.050Z
+date: 2025-04-14T09:07:44.820Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -13,6 +13,11 @@ Introduction Paragraph
 ---
 ## FAF Opening Build Orders
 ## Early Game{.tabset}
+
+### Beginner Fundamental Information
+Even though you're a complete beginner, sadly the most fundamental aspect of this game is something you kind of have to learn. It's about the standard opening, aiming to properly balance your resources and scaling. Luckily it'll be the only thing you really have to learn by heart and it's also not the most complex topic, so let me break it down to you:
+
+There are two standard openings. One with the hydro carbon (also referred as "Hydro") and the one without. We'll take a look at 3 land factories as switching things up is rather easy.
 
 ### Hydro Build Opener
 
