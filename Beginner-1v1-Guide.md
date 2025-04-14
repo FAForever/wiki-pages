@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T10:52:55.915Z
+date: 2025-04-14T10:58:09.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -56,14 +56,19 @@ ___
 ## Spending Resources{.tabset}
 
 ### Introduction 
-One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method.
+One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method. Here is a legend of the terms I will be utilising in this section:
+
+- Mass Extractors - Mexes
+- Power Generators - Pgens
+- Build Power - BP
 
 ### Mass
 
 ### Energy 
+Energy is a required resource within FAF. This resource is required for both constructon of units and structues, and powers your mexes. 
 
 ### Build Power
-Build Power (otherwise known as BP) is one of the three essential resources of FAF. BP is required to spend both your Mass and Energy, and within there are three main sources of BP in FAF:
+Build Power is one of the three essential resources of FAF. BP is required to spend both your Mass and Energy, and within there are three main sources of BP in FAF:
 
 - Armored Command Unit
 - Engineers
