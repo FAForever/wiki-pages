@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T22:21:40.126Z
+date: 2025-04-14T22:23:52.747Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -25,6 +25,7 @@ There are two main variants: one that includes the hydrocarbon power plant (comm
 
 Here is a legend of technical terms we will be utilising throughout this guide: 
 
+- Armoured Command Unit - ACU
 - Mass Extractors - Mexes
 - Power Generators - Pgens / PG
 - Build Power - BP
@@ -69,11 +70,7 @@ ___
 ## Spending Resources{.tabset}
 
 ### Introduction 
-One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method. Here is a legend of the terms I will be utilising in this section:
-
-- Mass Extractors - Mexes
-- Power Generators - Pgens
-- Build Power - BP
+One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method.
 
 ### Mass
 Mass is the first of the three resources we will cover, Mass is utilised in the construction of both units and structures, and is the resource with a gimmick. Mass can be gathered by three means 
