@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T10:46:37.418Z
+date: 2025-04-14T10:48:58.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -56,14 +56,14 @@ ___
 ## Spending Resources{.tabset}
 
 ### Introduction 
-One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. 
+One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method.
 
 ### Mass
 
 ### Energy 
 
 ### Build Power
-
+Build Power (otherwise known as BP) is one of the three essential resources of FAF. 
 ___
 ## Basic Strategy
 ## Early Game{.tabset}
