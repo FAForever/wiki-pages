@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T10:58:09.006Z
+date: 2025-04-14T11:00:23.650Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -75,6 +75,10 @@ Build Power is one of the three essential resources of FAF. BP is required to sp
 - Factories (Land, Air, Navy)
 
 Each of these sources of BP will spend your Mass and Energy and produce units or structures, both of which you can use further to win games.
+
+### Basic Economy Balance
+
+
 ___
 ## Basic Strategy
 ## Early Game{.tabset}
