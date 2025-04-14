@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T11:06:02.195Z
+date: 2025-04-14T11:17:02.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -66,6 +66,11 @@ One of the most important parts of FAF is spending your resources, and in 1v1 it
 
 ### Energy 
 Energy is a required resource within FAF. This resource is required for both constructon of units and structues, and powers your mexes. 
+There are three main ways of acquiring energy, they are:
+
+- ACU 
+- Pgens 
+- Reclaim (mainly trees)
 
 ### Build Power
 Build Power is one of the three essential resources of FAF. BP is required to spend both your Mass and Energy, and within there are three main sources of BP in FAF:
