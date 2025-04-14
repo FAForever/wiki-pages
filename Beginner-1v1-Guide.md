@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:15:26.762Z
+date: 2025-04-14T09:23:44.005Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -58,6 +58,10 @@ ___
 ### Energy 
 
 ### Build Power
+
+### Basic Resource Chart
+
+
 ___
 ## Basic Strategy
 ## Early Game{.tabset}
