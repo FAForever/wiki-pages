@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T11:52:55.411Z
+date: 2025-04-14T15:02:44.714Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -184,6 +184,8 @@ Where your ACU moves is going to depend on the map. ***Generally speaking, you w
 - Chokepoints
 
 In the pictures below, the bisecting line I mentioned earlier is drawn in cyan and the potential places you can send your ACU are highlighted in yellow:
+
+[ad_4nxce-nl8jc1h6zvkbnx_b_8r-7usszt-t3ghokqb9xbmw8i70eqcpjfpws51jwneldz_52geew-n6maedznltd3onr2_huslk6rqmy4i4bteo-dotuitjepsaiq_uo35iia0o5z2eq](/beginner-1v1-guide/ad_4nxce-nl8jc1h6zvkbnx_b_8r-7usszt-t3ghokqb9xbmw8i70eqcpjfpws51jwneldz_52geew-n6maedznltd3onr2_huslk6rqmy4i4bteo-dotuitjepsaiq_uo35iia0o5z2eq)
 
 
 
