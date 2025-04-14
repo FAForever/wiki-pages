@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T10:51:44.413Z
+date: 2025-04-14T10:52:55.915Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -66,8 +66,10 @@ One of the most important parts of FAF is spending your resources, and in 1v1 it
 Build Power (otherwise known as BP) is one of the three essential resources of FAF. BP is required to spend both your Mass and Energy, and within there are three main sources of BP in FAF:
 
 - Armored Command Unit
-- Tier 1 Engineer
+- Engineers
 - Factories (Land, Air, Navy)
+
+Each of these sources of BP will spend your Mass and Energy and produce units or structures, both of which you can use further to win games.
 ___
 ## Basic Strategy
 ## Early Game{.tabset}
