@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T22:23:52.747Z
+date: 2025-04-14T23:23:16.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -79,7 +79,7 @@ Mass is the first of the three resources we will cover, Mass is utilised in the 
 - Mexes 
 - Reclaim
 
-what makes Mass different to energy is that you can only build Mexes on mass deposits, which are spread out in quantity and area differently on each map, requiring you to fight for map control. 
+What differentiates mass from energy is that you can only build mexes on mass deposits, which are spread out in varying quantities across different maps. This means that map control is something important to fight for so that you can build more mexes.
 
 ### Energy 
 Energy is a required resource within FAF. This resource is required for both constructon of units and structues, and powers your mexes. 
