@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:10:20.752Z
+date: 2025-04-14T09:12:35.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -30,6 +30,9 @@ Engis 3+:  Expand
 **Triple Land (Without Hydro):**
 ACU:      Landfac - 2 PG - 2 Mex - 1 PG - 2 Mex - 2 PG - Landfac - PG - Landfac
 Engis:    Expand
+
+### Air?
+Want to go second air? Change the 1 PG to 3 PGs and you have the resources for air. Want to assist your ACU with 2 engis? Build 2 additional PGs before your next factory and you're good to go. Want to eco up more? Just skip a factory or two entirely.
 
 ## Recommended Starter Faction
 - Text
