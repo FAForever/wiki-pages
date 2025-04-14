@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T18:38:15.649Z
+date: 2025-04-14T18:44:31.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -198,9 +198,8 @@ For the maps where there are two or more possible locations to send your ACU, yo
 
 In the illustration below, Blue's ACU is positioned ahead of their units whereas Red's ACU is behind theirs. Red currently does not have enough units to overwhelm Blue's ACU so Red's units are getting farmed for free by Blue's ACU while Blue's army is unharmed, but ready to back up their ACU if Red commits to a hard push.
 ![basic_acu_movement_how_example1.png](/beginner-1v1-guide/basic_acu_movement_how_example1.png)
-
+In this second illustration, both ACUs are posturing against each other with their army behind them. This is because they are attempting to secure the reclaim at this location while also taking pot shots at each other's army if given the chance.
 ![basic_acu_movement_how_example2.png](/beginner-1v1-guide/basic_acu_movement_how_example2.png)
-
 
 This is obviously a potentially dangerous move as your ACU can be overwhelmed if there are too many opposing tanks. But understanding the limits of what your ACU can do at different stages of the game is a critical component for improving in the game. So do not be afraid to throw your ACU into danger if you think you can win the engagement. If you were correct, then you took a calculated risk and reaped the benefits. If you were wrong and lost the game, then you gained experience and should understand what went wrong so you can avoid making the same mistake in the future. 
 
