@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T11:00:23.650Z
+date: 2025-04-14T11:06:02.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -74,7 +74,7 @@ Build Power is one of the three essential resources of FAF. BP is required to sp
 - Engineers
 - Factories (Land, Air, Navy)
 
-Each of these sources of BP will spend your Mass and Energy and produce units or structures, both of which you can use further to win games.
+Each of these sources of BP will spend your Mass and Energy and produce units or structures, both of which you can use further to win games. **Although it is wise to balance your BP**, as having too little will leave you unable to spend your Mass and Energy, and having too much will leave you with wasted Mass and Energy in BP that you can't utilise effectively.
 
 ### Basic Economy Balance
 
