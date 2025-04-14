@@ -2,14 +2,14 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:57:23.568Z
+date: 2025-04-14T09:59:51.368Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
 ---
 
 Welcome to the 1v1 Ladder! Whether you are a new player or simply wishing to improve, these are the guides for you. These guides are written by several trainers that are designed to provide a steady stream of information and improvement that you can read at your own pace, whilst also teaching the important concepts of self-improvement in 1v1 ladder.
-You will notice that this is the first guide of the four 1v1 Guides we aim to provide to the FAF Community. This is for people who are within the 0-1000 range, and therefore will only be taught the fundamentals of the game, as this is the biggest hurdle within your skill range. 
+You will notice that this is the first guide of the four 1v1 Guides we aim to provide to the FAF Community. This is for people who are within the 0-1000 range, and therefore will only be taught the fundamentals of the game, as this is the biggest hurdle within your skill range. Once you have mastered these fundamentals, you will shoot up the 1k+ skill rating, and you can move on to the next Guide.
 
 
 ---
