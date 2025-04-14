@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:13:33.718Z
+date: 2025-04-14T09:15:26.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -45,7 +45,7 @@ and the other 20%
 Want to go second air? Change the 1 PG to 3 PGs and you have the resources for air. Want to assist your ACU with 2 engis? Build 2 additional PGs before your next factory and you're good to go. Want to eco up more? Just skip a factory or two entirely.
 
 ## Recommended Starter Faction
-- Text
+When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage. While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
 ___
 
 ## Spending Resources 
