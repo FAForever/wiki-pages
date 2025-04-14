@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-12T14:02:01.333Z
+date: 2025-04-14T08:46:17.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -110,5 +110,19 @@ Based on these observations we can create unit queue:
 1-3 Frigates : 1 Sub
 
 ## Basic ACU Movement 
-- text
+
+## Basic ACU Movement{.tabset}
+
+### Why?
+
+***Your Armored Command Unit (ACU) is one of the strongest offensive tools available to you in the game.*** Although there are some statline differences between the ACUs of different factions, this is not important for you when starting out. Instead, understand that without factoring in upgrades, Overcharge usage, or veterancy: An ACU has approximately the HP of 40 T1 tanks and the DPS of 4 T1 tanks. This is why it is important to learn how to use your ACU offensively in the frontlines instead of relegating it to a mere engineer in your home base. Otherwise, you are at a severe disadvantage in 1v1s if your opponent knows how to use their ACU as a weapon and you don’t. 
+
+### When?
+
+- test
+
+### Where?
+
+
+### How?
 ___
