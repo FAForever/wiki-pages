@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T18:07:57.125Z
+date: 2025-04-14T18:37:58.899Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -195,6 +195,11 @@ For the maps where there are two or more possible locations to send your ACU, yo
 ### How?
 
 ***During combat, have your ACU slightly in front of your units and not the other way around!*** As mentioned earlier, your ACU is a very tanky unit (10-12K HP depending on faction) compared to your T1 tanks (155-300 HP). Therefore, it is very important that your ACU absorb as much damage as possible without actually dying. Every shot that goes towards it is a shot that didn’t go towards your squishier army. Thus, your army will live longer and its effective DPS will be preserved.
+
+In the illustration below, Blue's ACU is positioned ahead of their units whereas Red's ACU is behind theirs. Red currently does not have enough units to overwhelm Blue's ACU so Red's units are getting farmed for free by Blue's ACU while Blue's army is unharmed, but ready to back up their ACU if Red commits to a hard push.
+![basic_acu_movement_how_example1.png](/beginner-1v1-guide/basic_acu_movement_how_example1.png)
+![basic_acu_movement_how_example2.png](/beginner-1v1-guide/basic_acu_movement_how_example2.png)
+
 
 This is obviously a potentially dangerous move as your ACU can be overwhelmed if there are too many opposing tanks. But understanding the limits of what your ACU can do at different stages of the game is a critical component for improving in the game. So do not be afraid to throw your ACU into danger if you think you can win the engagement. If you were correct, then you took a calculated risk and reaped the benefits. If you were wrong and lost the game, then you gained experience and should understand what went wrong so you can avoid making the same mistake in the future. 
 
