@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T18:44:31.235Z
+date: 2025-04-14T22:14:13.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -19,10 +19,9 @@ You will notice that this is the first of the four 1v1 Guides we aim to provide 
 ## Early Game{.tabset}
 
 ### Beginner Fundamental Information
-Even though you're a complete beginner, sadly the most fundamental aspect of this game is something you kind of have to learn. It's about the standard opening, aiming to properly balance your resources and scaling. Luckily it'll be the only thing you really have to learn by heart and it's also not the most complex topic, so let me break it down to you:
+Even as a complete beginner, there’s one fundamental aspect of the game you’ll need to learn early on: the standard opening. It’s all about managing your resources efficiently and setting up a solid foundation for scaling. The good news? It’s the only part you truly need to memorize, and fortunately, it’s not too complex.
 
-There are two standard openings. One with the hydro carbon (also referred as "Hydro") and the one without. We'll take a look at 3 land factories as switching things up is rather easy.
-
+There are two main variants: one that includes the hydrocarbon power plant (commonly called “Hydro”) and one without. We’ll focus on the 3-land-factory version, since adapting from there is relatively straightforward.
 ### Hydro Build Opener
 **Triple land opening with hydro:**
 ACU: Landfac - 4 Mex - Assists Hydro - Landfac - Pg - Landfac - Pg
