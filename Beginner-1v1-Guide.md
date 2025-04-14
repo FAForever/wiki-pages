@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T15:02:44.714Z
+date: 2025-04-14T15:10:53.994Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -183,10 +183,13 @@ Where your ACU moves is going to depend on the map. ***Generally speaking, you w
 - Reclaim piles
 - Chokepoints
 
-In the pictures below, the bisecting line I mentioned earlier is drawn in cyan and the potential places you can send your ACU are highlighted in yellow:
+In the images below, the bisecting line there was mentioned earlier is drawn in cyan and the potential places where you can send your ACU are highlighted in yellow:
 
-[ad_4nxce-nl8jc1h6zvkbnx_b_8r-7usszt-t3ghokqb9xbmw8i70eqcpjfpws51jwneldz_52geew-n6maedznltd3onr2_huslk6rqmy4i4bteo-dotuitjepsaiq_uo35iia0o5z2eq](/beginner-1v1-guide/ad_4nxce-nl8jc1h6zvkbnx_b_8r-7usszt-t3ghokqb9xbmw8i70eqcpjfpws51jwneldz_52geew-n6maedznltd3onr2_huslk6rqmy4i4bteo-dotuitjepsaiq_uo35iia0o5z2eq)
+![acu_movement_where_example1.png](/beginner-1v1-guide/acu_movement_where_example1.png)![acu_movement_where_example2.png](/beginner-1v1-guide/acu_movement_where_example2.png)
+![acu_movement_where_example3.png](/beginner-1v1-guide/acu_movement_where_example3.png)![acu_movement_where_example4.png](/beginner-1v1-guide/acu_movement_where_example4.png)
+![acu_movement_where_example5.png](/beginner-1v1-guide/acu_movement_where_example5.png)
 
+For the maps where there are two or more possible locations to send your ACU, you can usually take the safer approach and head towards the POI that is closer to your half of the map so that you can protect the position with your ACU. On the other hand, an early offensive move towards the enemy’s POI on their half of the map is usually too risky, especially if their ACU is already there with some of their own tanks. However, this can be an effective move if they are too slow to secure their own contested POI which is usually the case for lower rated 1v1 players. 
 
 
 ### How?
