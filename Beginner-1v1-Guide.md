@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T18:37:58.899Z
+date: 2025-04-14T18:38:15.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -198,6 +198,7 @@ For the maps where there are two or more possible locations to send your ACU, yo
 
 In the illustration below, Blue's ACU is positioned ahead of their units whereas Red's ACU is behind theirs. Red currently does not have enough units to overwhelm Blue's ACU so Red's units are getting farmed for free by Blue's ACU while Blue's army is unharmed, but ready to back up their ACU if Red commits to a hard push.
 ![basic_acu_movement_how_example1.png](/beginner-1v1-guide/basic_acu_movement_how_example1.png)
+
 ![basic_acu_movement_how_example2.png](/beginner-1v1-guide/basic_acu_movement_how_example2.png)
 
 
