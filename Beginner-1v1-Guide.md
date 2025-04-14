@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T08:50:25.715Z
+date: 2025-04-14T08:50:53.320Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -136,5 +136,10 @@ In the pictures below, the bisecting line I mentioned earlier is drawn in cyan a
 
 
 ### How?
+
+***During combat, have your ACU slightly in front of your units and not the other way around!*** As mentioned earlier, your ACU is a very tanky unit (10-12K HP depending on faction) compared to your T1 tanks (155-300 HP). Therefore, it is very important that your ACU absorb as much damage as possible without actually dying. Every shot that goes towards it is a shot that didn’t go towards your squishier army. Thus, your army will live longer and its effective DPS will be preserved.
+
+This is obviously a potentially dangerous move as your ACU can be overwhelmed if there are too many opposing tanks. But understanding the limits of what your ACU can do at different stages of the game is a critical component for improving in the game. So do not be afraid to throw your ACU into danger if you think you can win the engagement. If you were correct, then you took a calculated risk and reaped the benefits. If you were wrong and lost the game, then you gained experience and should understand what went wrong so you can avoid making the same mistake in the future. 
+
 
 ___
