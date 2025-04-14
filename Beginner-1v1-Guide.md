@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T15:10:53.994Z
+date: 2025-04-14T18:07:57.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -183,7 +183,7 @@ Where your ACU moves is going to depend on the map. ***Generally speaking, you w
 - Reclaim piles
 - Chokepoints
 
-In the images below, the bisecting line there was mentioned earlier is drawn in cyan and the potential places where you can send your ACU are highlighted in yellow:
+In the images below, the bisecting lines that were mentioned earlier are drawn in cyan and the potential places where you can send your ACU are highlighted in yellow:
 
 ![acu_movement_where_example1.png](/beginner-1v1-guide/acu_movement_where_example1.png)![acu_movement_where_example2.png](/beginner-1v1-guide/acu_movement_where_example2.png)
 ![acu_movement_where_example3.png](/beginner-1v1-guide/acu_movement_where_example3.png)![acu_movement_where_example4.png](/beginner-1v1-guide/acu_movement_where_example4.png)
