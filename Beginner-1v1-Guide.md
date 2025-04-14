@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T22:19:36.364Z
+date: 2025-04-14T22:21:40.126Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -22,6 +22,16 @@ You will notice that this is the first of the four 1v1 Guides we aim to provide 
 Even as a complete beginner, there’s one fundamental aspect of the game you’ll need to learn early on: the standard opening. It’s all about managing your resources efficiently and setting up a solid foundation for scaling. The good news? It’s the only part you truly need to memorize, and fortunately, it’s not too complex.
 
 There are two main variants: one that includes the hydrocarbon power plant (commonly called “Hydro”) and one without. We’ll focus on the 3-land-factory version, since adapting from there is relatively straightforward.
+
+Here is a legend of technical terms we will be utilising throughout this guide: 
+
+- Mass Extractors - Mexes
+- Power Generators - Pgens / PG
+- Build Power - BP
+- Hydrocarbon Plant - Hydro
+- Engineer - Engi
+- Mobile Anti Air - MAA
+
 ### Hydro Build Opener
 **Triple land opening with hydro:**
 ACU: Landfac - 4 Mex - Assists Hydro - Landfac - Pg - Landfac - Pg
