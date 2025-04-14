@@ -2,13 +2,13 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:24:30.251Z
+date: 2025-04-14T09:50:25.530Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
 ---
 
-Introduction Paragraph
+Welcome to the 1v1 Ladder! Whether you are a new player or simply wishing to improve, these are the guides for you. 
 
 ---
 ## FAF Opening Build Orders
