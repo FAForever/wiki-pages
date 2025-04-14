@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:12:35.582Z
+date: 2025-04-14T09:13:33.718Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -30,6 +30,16 @@ Engis 3+:  Expand
 **Triple Land (Without Hydro):**
 ACU:      Landfac - 2 PG - 2 Mex - 1 PG - 2 Mex - 2 PG - Landfac - PG - Landfac
 Engis:    Expand
+
+### Beginner Unit Composition
+**Now to the question of "What should I even build in the landfactories?":**
+It is recommended to go for a standard queue until you get a feeling for the opening phase. The queue in your first factory looks something like this:
+3 engis - tank - scout - engi - tank - scout - X engis
+where "X engis" depends on the map. On larger maps with reclaim you can afford building more engis than on small maps without reclaim.
+80% of all the landfactories you build afterwards want to queue something like
+tank - scout - 5 tanks
+and the other 20%
+2 arty - 1 MAA
 
 ### Air?
 Want to go second air? Change the 1 PG to 3 PGs and you have the resources for air. Want to assist your ACU with 2 engis? Build 2 additional PGs before your next factory and you're good to go. Want to eco up more? Just skip a factory or two entirely.
