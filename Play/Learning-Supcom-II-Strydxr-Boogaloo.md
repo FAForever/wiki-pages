@@ -2,7 +2,7 @@
 title: Learning Supcom II
 description: 
 published: true
-date: 2025-04-14T11:12:34.689Z
+date: 2025-04-14T11:13:52.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T16:04:12.081Z
@@ -53,7 +53,6 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 [Trainer Team About Me Page](https://forum.faforever.com/topic/8752/trainer-team-about-me-page?_=1738314404051) - a list of trainers and a quick summary about them
 
 [The Dojo - Discord for training entirely new players](https://discord.gg/MSfJP8kuxt)
-
 ## Popular Maps
 
 * [Dual Gap]
