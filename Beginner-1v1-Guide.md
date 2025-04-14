@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T11:17:02.749Z
+date: 2025-04-14T11:52:55.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -63,6 +63,13 @@ One of the most important parts of FAF is spending your resources, and in 1v1 it
 - Build Power - BP
 
 ### Mass
+Mass is the first of the three resources we will cover, Mass is utilised in the construction of both units and structures, and is the resource with a gimmick. Mass can be gathered by three means 
+
+- ACU
+- Mexes 
+- Reclaim
+
+what makes Mass different to energy is that you can only build Mexes on mass deposits, which are spread out in quantity and area differently on each map, requiring you to fight for map control. 
 
 ### Energy 
 Energy is a required resource within FAF. This resource is required for both constructon of units and structues, and powers your mexes. 
