@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T08:46:17.452Z
+date: 2025-04-14T08:50:25.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -119,10 +119,22 @@ Based on these observations we can create unit queue:
 
 ### When?
 
-- test
+***At a basic level, your ACU should move out of spawn when your initial storage of mass is depleted*** and before you start stalling mass. The exact timing in which this occurs can be different depending on the availability of nearby reclaim and the number of mexes within the ACU’s build range. So keep an eye on your mass bar so that you don’t move the ACU too early or too late. Once your ACU starts moving out, your T1 engineers at home can take over the responsibility of building factories and power generators.
+
 
 ### Where?
 
+Where your ACU moves is going to depend on the map. ***Generally speaking, you want to move your ACU to contested points of interest (POIs) on the map.*** These locations contain something worth fighting for and are usually somewhere near the imaginary line that bisects your half of map and the opponent’s half. Some examples of these POIs are:
+
+
+- Concentrated clusters of mexes
+- Reclaim piles
+- Chokepoints
+
+In the pictures below, the bisecting line I mentioned earlier is drawn in cyan and the potential places you can send your ACU are highlighted in yellow:
+
+
 
 ### How?
+
 ___
