@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T10:44:24.784Z
+date: 2025-04-14T10:46:37.418Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -56,6 +56,7 @@ ___
 ## Spending Resources{.tabset}
 
 ### Introduction 
+One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. 
 
 ### Mass
 
