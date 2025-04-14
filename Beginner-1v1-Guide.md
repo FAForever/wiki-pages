@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-14T22:16:41.434Z
+date: 2025-04-14T22:19:36.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -50,9 +50,6 @@ where "X engis" depends on the map. On larger maps with reclaim you can afford b
 tank - scout - 5 tanks
 and the other 20%
 2 arty - 1 MAA
-
-### Air?
-Want to go second air? Change the 1 PG to 3 PGs and you have the resources for air. Want to assist your ACU with 2 engis? Build 2 additional PGs before your next factory and you're good to go. Want to eco up more? Just skip a factory or two entirely.
 
 ## Recommended Starter Faction
 When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage. While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
