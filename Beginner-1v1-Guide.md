@@ -2,7 +2,7 @@
 title: Beginner-1v1-Guide 
 description: 
 published: true
-date: 2025-04-14T09:09:08.889Z
+date: 2025-04-14T09:10:20.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -27,8 +27,9 @@ Engis 3+:  Expand
 
 *Depending on the mex positions around your base, a small energy stall might happen but it's nothing you should worry about. After the initial build it's crucial to keep scaling your energy and production as you'll claim more and more mexes.*
 ### Non Hydro Build Opener
-
-- Text
+**Triple Land (Without Hydro):**
+ACU:      Landfac - 2 PG - 2 Mex - 1 PG - 2 Mex - 2 PG - Landfac - PG - Landfac
+Engis:    Expand
 
 ## Recommended Starter Faction
 - Text
