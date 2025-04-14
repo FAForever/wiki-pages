@@ -1,8 +1,8 @@
 ---
-title: Beginner-1v1-Guide 
+title: Beginner 1v1 Guide 
 description: 
 published: true
-date: 2025-04-14T10:01:43.749Z
+date: 2025-04-14T10:07:44.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
