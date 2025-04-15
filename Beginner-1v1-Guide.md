@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:27:58.153Z
+date: 2025-04-15T02:28:10.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -24,7 +24,6 @@ Even as a complete beginner, there’s one fundamental aspect of the game you’
 There are two main variants: one that includes the hydrocarbon power plant (commonly called “Hydro”) and one without. We’ll focus on the 3-land-factory version, since adapting from there is relatively straightforward.
 
 ---
-
 Here is a legend of technical terms we will be utilising throughout this guide: 
 
 - Armoured Command Unit - ACU
