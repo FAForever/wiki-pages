@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:32:31.913Z
+date: 2025-04-15T02:34:01.207Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -178,17 +178,6 @@ ___
 Additionally, they lack any form of radar and have no surface attack capability. A single T1 torpedo defense can shut them down completely, making it impossible for them to threaten harbors or even exposed mass extractors near the water.
 T1 subs are ineffective at targeting engineers — especially Aeon and Seraphim engineers, which hover and cannot be attacked unless the submarine surfaces, forfeiting its main strength.
 Their movement speed is equal to that of frigates, so they cannot chase or escape enemy ships. If the opponent simply retreats or repositions their navy, T1 subs become useless.
-
----
-- Effective Counters to T1 Submarines
-While they are immune to most T1 units, everything that can target T1 submarines tends to destroy them extremely efficiently in terms of mass and cost.
-1. Torpedo Launchers
-- T1 torpedo launchers are highly effective:
-- Build Time: ~500 (vs. ~1500 for a T1 sub)
-- Range: ~50 (vs. ~30 for a T1 sub)
-- Cost Efficiency: Trades 2:1 in mass against submarines
-
-When placed behind a naval factory, torpedo launchers gain a buffer of protection, and their effectiveness can be enhanced with basic micro or engineer support. In most cases, two torpedo launchers are enough to completely neutralize a T1 submarine threat.
 
 ### Unit Queue (Navy)
 Based on these observations we can create unit queue:
