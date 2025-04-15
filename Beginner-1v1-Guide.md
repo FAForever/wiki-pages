@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T03:15:28.587Z
+date: 2025-04-15T03:47:22.625Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -61,15 +61,6 @@ where "X engis" depends on the map. On larger maps with reclaim you can afford b
 tank - scout - 5 tanks
 and the other 20%
 2 arty - 1 MAA
-
-### Beginner Unit Composition (Navy)
-Based on these observations we can create unit queue:
-
-- No underwater Mexes:
-3-5 Frigates : 1 Sub
-
-- With underwater Mexes
-1-3 Frigates : 1 Sub
 
 ## Recommended Starter Faction
 When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage. While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
@@ -155,15 +146,29 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 - Eventually launch a decisive attack on enemy base or acu directly to win the game
 
 ### Basic Navy Strategy 
-Roughly 20% of maps in the 1v1 ladder are navy focused in a typical pool. 
-- Spam Frigs 
-- Subs if underwater mex 
-- Transports?
-- Destros 
-- Missile Cruisers 
-- T2 Air
+Roughly 20% of maps in the 1v1 ladder are navy focused in a typical pool. These maps play differently than land and thus require a new strategy.
+- Begin with your basic opener (hydro or non-hydro)
+- Set your initial factories build queue to purely engineers if you are on a island (as is common)
+- Build an air factory and extra pgens to run it 
+- Produce a couple interceptors, scouts and then a transport to drop engineers all around the map to claim mexes and reclaim
+- Continue building intes and air scouts for the rest of the game to defend you territory from air attack. You can optionally add extra factories and/or engie assistance to fruther increase your air force 
+- Build a few t1 navy factories to produce mainly frigates and some submarines (3:1 ratio works well)
+- Raid mexes of your opponent close to shore with frigates (they have limited range) and any underwater mexes with subs
+- Upon growing your economy from the transported engies building mexes, and engies at home spamming t1 pgens, start a t2 navy HQ upgrade, with as many engies as you can spare assisting
+- T2 destroyers and cruisers are your win condition on most navy maps, if you can deploy even just a few of these uncontested on the shore of your opponents base, the damage they will sustain will very often be crippling
+- This is where the intes, frigs and subs you built earlier come in. Your opponent may try to counter your destro+cruiser push with swarms of frigates or t2 torpedo bombers or gunships
+- If they send frigates, you must react to this by sending your own frigs and supporting with your destros in the rear
+- If they send t2 air, you must rely on your own air force and cruisers to shoot them down
+- If you are able to defend your destroyers and cruisers, your opponents infrustructure should be severely damaged, if not obliterated entirely
 
+### Unit Queue (Navy)
+Based on these observations we can create unit queue:
 
+- No underwater Mexes:
+3-5 Frigates : 1 Sub
+
+- With underwater Mexes
+1-3 Frigates : 1 Sub
 
 ## Basic ACU Movement 
 
