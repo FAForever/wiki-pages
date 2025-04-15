@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:30:39.740Z
+date: 2025-04-15T02:31:48.493Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -181,7 +181,6 @@ ___
 Additionally, they lack any form of radar and have no surface attack capability. A single T1 torpedo defense can shut them down completely, making it impossible for them to threaten harbors or even exposed mass extractors near the water.
 T1 subs are ineffective at targeting engineers — especially Aeon and Seraphim engineers, which hover and cannot be attacked unless the submarine surfaces, forfeiting its main strength.
 Their movement speed is equal to that of frigates, so they cannot chase or escape enemy ships. If the opponent simply retreats or repositions their navy, T1 subs become useless.
-Their inefficacy becomes even more apparent at higher tech levels, where torpedo bombers and destroyers can eliminate them with ease.
 
 ---
 - Effective Counters to T1 Submarines
