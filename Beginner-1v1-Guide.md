@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:29:59.033Z
+date: 2025-04-15T02:30:39.740Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -193,12 +193,6 @@ While they are immune to most T1 units, everything that can target T1 submarines
 - Cost Efficiency: Trades 2:1 in mass against submarines
 
 When placed behind a naval factory, torpedo launchers gain a buffer of protection, and their effectiveness can be enhanced with basic micro or engineer support. In most cases, two torpedo launchers are enough to completely neutralize a T1 submarine threat.
-
-___
-- Destroyers
-All destroyers, except for the UEF variant, trade extremely well against T1 submarines, even without using surface weaponry. UEF destroyers lack underwater torpedoes and instead rely on torpedo boats or bombers.
-Against any tech-level submarine, simply move your destroyers directly on top of them to eliminate them quickly. Destroyers’ dominance over T1 submarines further limits the latter’s usefulness once T2 navy is reached.
-
 
 ### Unit Queue (Navy)
 Based on these observations we can create unit queue:
