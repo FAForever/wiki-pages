@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T19:42:54.771Z
+date: 2025-04-15T21:49:48.170Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -32,10 +32,10 @@ Here is a legend of technical terms we will be utilising throughout this guide:
 - Hydrocarbon Plant - Hydro
 - Engineer - Engi
 - Mobile Anti Air - MAA
-- Interceptor - Inte
+- Interceptor - Int
 ### Hydro Build Opener
 **Triple land opening with hydro:**
-ACU: Landfac - 4 Mex - Assists Hydro - Landfac - Pg - Landfac - Pg
+ACU: Landfac → 4 Mex → Assists Hydro → Landfac → Pg → Landfac → Pg
 Engis 1-2: Build Hydro, then expand
 Engis 3+:  Expand
 
@@ -55,7 +55,7 @@ For example, if you want to go second air, simply replace the 1 PG with 3 PGs an
 ### Beginner Unit Composition
 **Now to the question of "What should I even build in the landfactories?":**
 It is recommended to go for a standard queue until you get a feeling for the opening phase. The queue in your first factory looks something like this:
-3 engis - tank - scout - engi - tank - scout - X engis
+3 engis → tank → scout → engi → tank → scout → X engis
 where "X engis" depends on the map. On larger maps with reclaim you can afford building more engis than on small maps without reclaim.
 80% of all the landfactories you build afterwards want to queue something like
 tank - scout - 5 tanks
