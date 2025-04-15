@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:48:18.276Z
+date: 2025-04-15T02:49:31.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -153,35 +153,6 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 - Destros 
 - Missile Cruisers 
 - T2 Air
-
-### Frigates
-
-Frigates remain valuable throughout the entire game due to their cost-effectiveness and utility:
-
-1. Radar Coverage
-Frigates provide excellent radar and can be stationed in strategic positions to detect drops, bombers, and incoming threats and counter them afterwards.
-
-2. Tanky and Efficient
-Frigates have approximately 2.5 times more HP per mass compared to destroyers. This makes them especially valuable in lower-rated games, where target priority micro is less common than in higher-rated matches. In these scenarios, frigates serve as highly effective meat shields, soaking up damage and allowing your destroyers to survive longer and deal more damage over time.
-
-3. High DPS per Mass
-Frigates have an excellent mass-to-DPS (damage per second) ratio, which makes them highly effective even when your opponent uses target priority to focus only on your destroyers. In such cases, you can send your frigates in to deal substantial damage to enemy destroyers without taking return fire. This advantage becomes even more significant during the T3 stage of the game, as battleships have a low rate of fire and slow-moving volleys, making it difficult for them to hit fast-moving frigates. As a result, even if you're behind by one or two battleships, having a fleet of 30–40 frigates while your opponent has none allows you to engage effectively, dealing massive “free” DPS that can turn the tide of a battle.
-
-4. Killing Buildpower
-You can suicide a few of your Frigates into the naval yard of your enemy to kill the engies around the factory. This denies the fast naval production of your enemy and allows you to outscale him in the long run
-
-### Submarines
-
-___
-- Why T1 Submarines Are Actually Weak
-1. Despite their untargetability by most T1 units, T1 submarines have very poor combat efficiency:
-2. Cost: 25% more than a T1 frigate
-3. Damage Output: 25% less than a frigate
-4. Durability: Less than one-third the health of a frigate
-
-Additionally, they lack any form of radar and have no surface attack capability. A single T1 torpedo defense can shut them down completely, making it impossible for them to threaten harbors or even exposed mass extractors near the water.
-T1 subs are ineffective at targeting engineers — especially Aeon and Seraphim engineers, which hover and cannot be attacked unless the submarine surfaces, forfeiting its main strength.
-Their movement speed is equal to that of frigates, so they cannot chase or escape enemy ships. If the opponent simply retreats or repositions their navy, T1 subs become useless.
 
 ### Unit Queue (Navy)
 Based on these observations we can create unit queue:
