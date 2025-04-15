@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:13:43.090Z
+date: 2025-04-15T02:18:18.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -131,7 +131,7 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 
 - Begin with your basic opener (hydro or non-hydro)
 - Set your initial factories build queue (see recommended build queues)
-- Balance 
+- Balance:
 1. Expanding aggressively to all mexes on your half of the map (if mass stalling, send more engineers out to expand)
 2. Spending mass resources as quickly as possible into facts(mainly land) and the pgens to run them (if holding excess mass, hold back engineers in your base to spend it)
 - Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and aa if needed)
