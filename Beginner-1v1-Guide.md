@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:18:18.310Z
+date: 2025-04-15T02:22:32.822Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -170,17 +170,21 @@ The Strengths and Weaknesses of T1 Submarines
 - Why T1 Submarines Seem Strong
 T1 submarines can be difficult to scout and are immune to most unit types. In low-rated games, they often feel unkillable due to a general lack of understanding of their counters. Many newer players either attempt to respond with submarines of their own or fail to react altogether, resulting in the loss of their navy. The illusion of strength largely comes from a knowledge gap.
 However, submarines being powerful only against inexperienced players — but ineffective against experienced ones — makes them what is commonly referred to as a "noob trap."
+
+___
 - Why T1 Submarines Are Actually Weak
 1. Despite their untargetability by most T1 units, T1 submarines have very poor combat efficiency:
 2. Cost: 25% more than a T1 frigate
 3. Damage Output: 25% less than a frigate
 4. Durability: Less than one-third the health of a frigate
-5. Additionally, they lack any form of radar and have no surface attack capability. A single T1 torpedo defense can shut them down completely, making it impossible for them to threaten harbors or even exposed mass extractors near the water.
-6. T1 subs are ineffective at targeting engineers — especially Aeon and Seraphim engineers, which hover and cannot be attacked unless the submarine surfaces, forfeiting its main strength.
-7. Their movement speed is equal to that of frigates, so they cannot chase or escape enemy ships. If the opponent simply retreats or repositions their navy, T1 subs become useless.
-8. Their inefficacy becomes even more apparent at higher tech levels, where torpedo bombers and destroyers can eliminate them with ease.
 
-Effective Counters to T1 Submarines
+Additionally, they lack any form of radar and have no surface attack capability. A single T1 torpedo defense can shut them down completely, making it impossible for them to threaten harbors or even exposed mass extractors near the water.
+T1 subs are ineffective at targeting engineers — especially Aeon and Seraphim engineers, which hover and cannot be attacked unless the submarine surfaces, forfeiting its main strength.
+Their movement speed is equal to that of frigates, so they cannot chase or escape enemy ships. If the opponent simply retreats or repositions their navy, T1 subs become useless.
+Their inefficacy becomes even more apparent at higher tech levels, where torpedo bombers and destroyers can eliminate them with ease.
+
+---
+- Effective Counters to T1 Submarines
 While they are immune to most T1 units, everything that can target T1 submarines tends to destroy them extremely efficiently in terms of mass and cost.
 Torpedo Launchers
 T1 torpedo launchers are highly effective:
@@ -195,6 +199,7 @@ Cost Efficiency: Trades 2:1 in mass against submarines
 
 When placed behind a naval factory, torpedo launchers gain a buffer of protection, and their effectiveness can be enhanced with basic micro or engineer support. In most cases, two torpedo launchers are enough to completely neutralize a T1 submarine threat.
 
+___
 - Destroyers
 All destroyers, except for the UEF variant, trade extremely well against T1 submarines, even without using surface weaponry. UEF destroyers lack underwater torpedoes and instead rely on torpedo boats or bombers.
 Against any tech-level submarine, simply move your destroyers directly on top of them to eliminate them quickly. Destroyers’ dominance over T1 submarines further limits the latter’s usefulness once T2 navy is reached.
