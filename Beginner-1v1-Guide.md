@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:28:10.559Z
+date: 2025-04-15T02:29:59.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -23,7 +23,6 @@ Even as a complete beginner, there’s one fundamental aspect of the game you’
 
 There are two main variants: one that includes the hydrocarbon power plant (commonly called “Hydro”) and one without. We’ll focus on the 3-land-factory version, since adapting from there is relatively straightforward.
 
----
 Here is a legend of technical terms we will be utilising throughout this guide: 
 
 - Armoured Command Unit - ACU
@@ -187,16 +186,11 @@ Their inefficacy becomes even more apparent at higher tech levels, where torpedo
 ---
 - Effective Counters to T1 Submarines
 While they are immune to most T1 units, everything that can target T1 submarines tends to destroy them extremely efficiently in terms of mass and cost.
-Torpedo Launchers
-T1 torpedo launchers are highly effective:
-Build Time: ~500 (vs. ~1500 for a T1 sub)
-
-
-Range: ~50 (vs. ~30 for a T1 sub)
-
-
-Cost Efficiency: Trades 2:1 in mass against submarines
-
+1. Torpedo Launchers
+- T1 torpedo launchers are highly effective:
+- Build Time: ~500 (vs. ~1500 for a T1 sub)
+- Range: ~50 (vs. ~30 for a T1 sub)
+- Cost Efficiency: Trades 2:1 in mass against submarines
 
 When placed behind a naval factory, torpedo launchers gain a buffer of protection, and their effectiveness can be enhanced with basic micro or engineer support. In most cases, two torpedo launchers are enough to completely neutralize a T1 submarine threat.
 
