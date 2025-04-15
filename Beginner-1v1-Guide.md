@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T01:02:26.098Z
+date: 2025-04-15T01:03:23.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -130,6 +130,24 @@ As a beginner, this is the size of map you will be given most commonly. Luckily 
 - Snowball tank lead with superior map control and army size
 - Eventually launch a decisive attack on enemy base or acu directly to win the game
 
+### Execution on 10x10 maps:
+As a beginner 10x10km+ maps are not the most common size, but you will see them more and more as you improve. These maps offer far more gameplay variety in the tactics you can employ successfully. Still however, our ‘monkey’ t1 land spam strategy should be at the core of how we approach these maps.
+
+- Begin with your basic opener (hydro or non-hydro)
+- Set your initial factories build queue (see recommended build queues)
+- Balance 
+1. Expanding aggressively to all mexes on your half of the map (if mass stalling, send more engineers out to expand)
+2. Spending mass resources as quickly as possible into facts(mainly land) and the pgens to run them (if holding excess mass, hold back engineers in your base to spend it)
+- Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and aa if needed)
+- Remember to set the rally point for each fac. Spread them out slightly behind the half way mark of the map, preferably in front mex expansions
+- Dont forget an air factory. Queue a scout, three intes, and an optional bomber on repeat. On ~10x10km maps, making air as your third factory is standard to shoot down pesky early bombers in time and start scouting for your tank army.
+- Begin flooding the enemies side of the map with your tank army. Raid spread out mex locations with a few tanks. Keep the bulk of your armies together to overwhelm major expansions hosting many mex and potentially factories of your opponent. Small raids can be done blindly, but large tank movements should always be preceded with scouting to determine if a battle is winnable.
+- Be aggressive with your tanks, but also be careful not to suicide them. Any expansions you conquer, build the mexes with your own engineers and then place attack-moves to get the reclaim
+- Get multiple dispersed t1 radar, and eventually a central t2 radar as soon as you can to view enemy tank counts and movement
+- Perpetually choke the enemy out of expansions by attacking with superior numbers
+- Use mass lead to further scale land factories and tank production
+- Snowball tank lead with superior map control and army size
+- Eventually launch a decisive attack on enemy base or acu directly to win the game
 
 
 ### Frigates
