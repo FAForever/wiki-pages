@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:45:13.327Z
+date: 2025-04-15T02:47:34.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -147,6 +147,12 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 
 ### Basic Navy Strategy 
 
+- Spam Frigs 
+- Subs if underwater mex 
+- Transports?
+- Destros 
+- Missile Cruisers 
+- T2 Air
 
 ### Frigates
 
