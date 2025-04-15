@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:09:08.880Z
+date: 2025-04-15T02:12:51.242Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -117,7 +117,7 @@ As a beginner, this is the size of map you will be given most commonly. Luckily 
 - Begin with your basic opener (hydro or non-hydro)
 - Set your initial factories build queue (see recommended build queues)
 - Expanding aggressively to all mexes on your half of the map (if mass stalling, send more engineers or acu out to expand)
-- Expand with acu aggressively to the front lines after a few factories. Try to ‘farm’ as many enemy tanks as possible, but keep an army close by for safety (he is by far the most powerful unit on the map early in a game)
+- Send the acu aggressively to the front lines after a few factories. Try to ‘farm’ as many enemy tanks as possible, but keep an army close by for safety (he is by far the most powerful unit on the map early in a game)
 - Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and aa if needed)
 - Remember to set the rally point for each fac. Spread them out slightly behind the halfway mark of the map
 - Probe the enemy with your tanks and land scouts. Raid isolated mexes and try to take good tank trades (such as 2v1 or 5v3, etc.)
