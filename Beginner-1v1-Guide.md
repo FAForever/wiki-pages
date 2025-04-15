@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:49:31.358Z
+date: 2025-04-15T03:07:41.575Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -146,7 +146,7 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 - Eventually launch a decisive attack on enemy base or acu directly to win the game
 
 ### Basic Navy Strategy 
-
+Roughly 20% of maps in the 1v1 ladder are navy focused in a typical pool. 
 - Spam Frigs 
 - Subs if underwater mex 
 - Transports?
