@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:12:51.242Z
+date: 2025-04-15T02:13:43.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -121,7 +121,6 @@ As a beginner, this is the size of map you will be given most commonly. Luckily 
 - Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and aa if needed)
 - Remember to set the rally point for each fac. Spread them out slightly behind the halfway mark of the map
 - Probe the enemy with your tanks and land scouts. Raid isolated mexes and try to take good tank trades (such as 2v1 or 5v3, etc.)
-- Get a central t1 radar as soon as you can to view enemy tank counts and movement
 - Perpetually choke the enemy out of expansions by attacking with superior numbers
 - Use mass lead to further scale land factories and tank production
 - Snowball tank lead with superior map control and army size
