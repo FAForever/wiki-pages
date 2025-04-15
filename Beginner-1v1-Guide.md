@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T02:47:34.381Z
+date: 2025-04-15T02:48:18.276Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -171,10 +171,6 @@ Frigates have an excellent mass-to-DPS (damage per second) ratio, which makes th
 You can suicide a few of your Frigates into the naval yard of your enemy to kill the engies around the factory. This denies the fast naval production of your enemy and allows you to outscale him in the long run
 
 ### Submarines
-The Strengths and Weaknesses of T1 Submarines
-- Why T1 Submarines Seem Strong
-T1 submarines can be difficult to scout and are immune to most unit types. In low-rated games, they often feel unkillable due to a general lack of understanding of their counters. Many newer players either attempt to respond with submarines of their own or fail to react altogether, resulting in the loss of their navy. The illusion of strength largely comes from a knowledge gap.
-However, submarines being powerful only against inexperienced players — but ineffective against experienced ones — makes them what is commonly referred to as a "noob trap."
 
 ___
 - Why T1 Submarines Are Actually Weak
