@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T08:10:32.051Z
+date: 2025-04-15T19:42:54.771Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -32,7 +32,7 @@ Here is a legend of technical terms we will be utilising throughout this guide:
 - Hydrocarbon Plant - Hydro
 - Engineer - Engi
 - Mobile Anti Air - MAA
-
+- Interceptor - Inte
 ### Hydro Build Opener
 **Triple land opening with hydro:**
 ACU: Landfac - 4 Mex - Assists Hydro - Landfac - Pg - Landfac - Pg
