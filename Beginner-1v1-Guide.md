@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T03:07:41.575Z
+date: 2025-04-15T03:15:28.587Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -61,6 +61,15 @@ where "X engis" depends on the map. On larger maps with reclaim you can afford b
 tank - scout - 5 tanks
 and the other 20%
 2 arty - 1 MAA
+
+### Beginner Unit Composition (Navy)
+Based on these observations we can create unit queue:
+
+- No underwater Mexes:
+3-5 Frigates : 1 Sub
+
+- With underwater Mexes
+1-3 Frigates : 1 Sub
 
 ## Recommended Starter Faction
 When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage. While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
@@ -154,14 +163,7 @@ Roughly 20% of maps in the 1v1 ladder are navy focused in a typical pool.
 - Missile Cruisers 
 - T2 Air
 
-### Unit Queue (Navy)
-Based on these observations we can create unit queue:
 
-- No underwater Mexes:
-3-5 Frigates : 1 Sub
-
-- With underwater Mexes
-1-3 Frigates : 1 Sub
 
 ## Basic ACU Movement 
 
