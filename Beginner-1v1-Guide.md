@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-15T22:21:56.540Z
+date: 2025-04-15T22:43:32.577Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -87,6 +87,8 @@ There are three main ways of acquiring energy, they are:
 - ACU 
 - Pgens 
 - Reclaim (mainly trees)
+
+Energy is also used for Overcharge, which is a high damage shot you can use to kill a group of t1 tanks, but it requires an E storage to unlock due to it's higher E cost to fire.
 
 ### Build Power
 Build Power is one of the three essential resources of FAF. BP is required to spend both your Mass and Energy, and within there are three main sources of BP in FAF:
