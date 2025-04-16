@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-04-16T07:06:19.404Z
+date: 2025-04-16T07:06:58.069Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -26,6 +26,7 @@ If you know the basics of the game and are looking to improve your gameplay, you
 * [Heaven's Video Tutorials *Youtube Playlist*](https://www.youtube.com/playlist?list=PLxH0oefiZR_VrY6qtvv4iIHfn6i6ipnaS)
 * [UI mod guide for the improving player](https://forum.faforever.com/topic/7346/ui-mod-guide-for-the-improving-player)
 * [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
+* [Cheeseberry's Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?tab=t.0)
 {.links-list}
 
 ### 1v1 Guides
@@ -55,7 +56,6 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
 * [FAF Unit Stage Comparison Chart *To view faction viability in each stage of the game in Land Air and Navy*](https://forum.faforever.com/topic/7348/stage-comparison-chart?_=1739651010041)
-* [Cheeseberry's Eco Compendium](https://docs.google.com/document/d/1T7iWUZtmVKdUQZKOdDSPCfIbHa5Pj2MzqBoBQJ9OK3Y/edit?tab=t.0)
 {.links-list}
 
 ## Outdated Training Archive
