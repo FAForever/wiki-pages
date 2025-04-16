@@ -1,8 +1,8 @@
 ---
-title: Learning Supcom II
+title: Learning Supcom
 description: 
 published: true
-date: 2025-04-14T11:14:08.491Z
+date: 2025-04-16T06:59:49.848Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T16:04:12.081Z
