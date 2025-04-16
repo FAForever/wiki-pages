@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-16T07:08:53.813Z
+date: 2025-04-16T07:09:35.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
