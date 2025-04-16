@@ -1,8 +1,8 @@
 ---
-title: Learning Supcom
+title: Learning Supcom Trainer Test Page
 description: 
 published: true
-date: 2025-04-16T06:59:49.848Z
+date: 2025-04-16T07:02:56.703Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T16:04:12.081Z
