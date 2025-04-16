@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-04-16T07:10:55.581Z
+date: 2025-04-16T07:18:07.618Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -43,7 +43,7 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 
 [Trainer Team About Me Page](https://forum.faforever.com/topic/8752/trainer-team-about-me-page?_=1738314404051) - a list of trainers and a quick summary about them
 
-[The Dojo](https://discord.gg/MSfJP8kuxt)
+[The Dojo](https://discord.gg/MSfJP8kuxt) - A server dedicated to training players and helping them improve in a like-minded community. 
 
 ## Self Improvement 
 
