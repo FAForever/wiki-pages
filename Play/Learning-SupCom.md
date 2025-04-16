@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-04-16T07:01:47.984Z
+date: 2025-04-16T07:01:58.481Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -18,7 +18,7 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 * [Beginner's Guide to Forged Alliance Forever](/Play/Learning/Beginners-Guide-to-Forged-Alliance)
 {.links-list}
 
-## Improving Your Gameplay
+## In-Game Basics
 
 If you know the basics of the game and are looking to improve your gameplay, you may want to check out any or all of the links in this section (whether you're a new player or a pro, these resources could help you to improve).
 
