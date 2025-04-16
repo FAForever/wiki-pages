@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-16T07:09:35.497Z
+date: 2025-04-16T11:05:28.044Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -100,7 +100,7 @@ Build Power is one of the three essential resources of FAF. BP is required to sp
 Each of these sources of BP will spend your Mass and Energy and produce units or structures, both of which you can use further to win games. **Although it is wise to balance your BP**, as having too little will leave you unable to spend your Mass and Energy, and having too much will leave you with wasted Mass and Energy in BP that you can't utilise effectively.
 
 ### Basic Economy Balance
-The FAF Economy balance is relatively simple in theory, but requires a lot of trial and error to adjust. For this rating, it would involve simply spending your resources, whether that be factories, pgens or units. Although, there are scenarios in which economic mistakes happen, and I shall explain the more prominent examples within 0-1000 rating, they are ordered in severeity, with 1 being worst case scenario, and 4 being least worst case scenario:
+The FAF Economy balance is relatively simple in theory, but requires a lot of trial and error to adjust. For this rating, it would involve simply spending your resources, whether that be factories, pgens or units. Although, there are scenarios in which economic mistakes happen, even for the best players in the world, this guide aims for explaining the more prominent examples within 0-1000 rating, they are ordered in severeity, with 1 being worst case scenario, and 4 being least worst case scenario:
 
 1. Energy Stall
 2. Mass Overflow
