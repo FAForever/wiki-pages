@@ -2,13 +2,13 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-02-18T10:55:04.993Z
-tags: learn to play, guide
+date: 2025-04-16T07:01:47.984Z
+tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
 ---
 
-## Learning Basic Game Mechanics
+## Essential Beginner Information
 
 If you're new to Supreme Commander or haven't played in a long time, you may want to check out any or all of the links in this section.
 
