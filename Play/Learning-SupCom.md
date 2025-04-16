@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-04-16T07:01:58.481Z
+date: 2025-04-16T07:04:33.507Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -29,17 +29,20 @@ If you know the basics of the game and are looking to improve your gameplay, you
 {.links-list}
 
 ### 1v1 Guides
-* [General 1v1 Guide](/Play/Learning-SupCom/General-1v1-Guide)
+* Beginner 1v1 Guide (0-1000)()
 {.links-list}
 
-## Getting Gameplay Advice From Others
+## Trainer Resources
 
 If you're confused, or stuck in a rut, or you want help from others, you could benefit from some trainers' advice.  Replay analysis is often available upon request as well.
 
 [Training Channel in FAF Discord](https://discord.gg/VzZgSZFwuX) - a place to ask questions and learn things
 
+[Replay Review channel](https://discord.com/channels/197033481883222026/1094904988788080641)
+
 [Trainer Team About Me Page](https://forum.faforever.com/topic/8752/trainer-team-about-me-page?_=1738314404051) - a list of trainers and a quick summary about them
 
+[The Dojo](https://discord.gg/MSfJP8kuxt)
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
