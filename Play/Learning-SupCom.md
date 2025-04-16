@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-04-16T07:06:58.069Z
+date: 2025-04-16T07:10:55.581Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -30,7 +30,7 @@ If you know the basics of the game and are looking to improve your gameplay, you
 {.links-list}
 
 ### 1v1 Guides
-* Beginner 1v1 Guide (0-1000)()
+* [Beginner 1v1 Guide (0-1000)](https://wiki.faforever.com/en/Play/Learning-SupCom/Beginner-1v1-Guide)
 {.links-list}
 
 ## Trainer Resources
