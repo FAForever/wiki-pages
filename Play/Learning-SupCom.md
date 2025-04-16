@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-04-16T07:04:33.507Z
+date: 2025-04-16T07:06:19.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -43,6 +43,14 @@ If you're confused, or stuck in a rut, or you want help from others, you could b
 [Trainer Team About Me Page](https://forum.faforever.com/topic/8752/trainer-team-about-me-page?_=1738314404051) - a list of trainers and a quick summary about them
 
 [The Dojo](https://discord.gg/MSfJP8kuxt)
+
+## Self Improvement 
+
+* [Integrating Reclaim - TBC]()
+* [Transport Rush - TBC]()
+* [Self Analysis of Replays - TBC]()
+{.links-list}
+
 ## Additional Reference Materials
 This section is for specific information on units, game mechanics and other facts and numbers which are useful to know when playing Forged Alliance.
 * [Unit Database *To view unit stats, and compare units with each other*](/Play/Client/Unit-Database)
