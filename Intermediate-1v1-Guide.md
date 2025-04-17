@@ -2,13 +2,12 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-04-17T18:13:42.561Z
+date: 2025-04-17T18:13:47.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
 ---
 
-# Header
 
 ---
 ## Hotkeys
