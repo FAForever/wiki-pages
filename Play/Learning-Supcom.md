@@ -2,7 +2,7 @@
 title: Learning Supcom Trainer Test Page
 description: 
 published: true
-date: 2025-04-16T07:02:56.703Z
+date: 2025-04-17T18:23:51.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T16:04:12.081Z
@@ -34,7 +34,7 @@ If you know the basics of the game and are looking to improve your gameplay, you
 ### 1v1 Guides
 
 * [Beginner (0-1000) 1v1 Guide](https://wiki.faforever.com/en/Beginner-1v1-Guide)
-* [Advanced (1000-1500)  1v1 Guide]
+* [Intermediate (1000-1500)  1v1 Guide](https://wiki.faforever.com/en/Play/Learning-Supcom/Intermediate-1v1-Guide)
 * [Expert (1500-1800) 1v1 Guide]
 * [Pro (1800+) 1v1 Guide]
 {.links-list}
