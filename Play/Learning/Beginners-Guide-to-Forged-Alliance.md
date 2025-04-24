@@ -2,7 +2,7 @@
 title: Beginner's Guide to Forged Alliance Forever
 description: 
 published: true
-date: 2025-02-10T18:03:59.374Z
+date: 2025-04-24T19:15:48.551Z
 tags: learn to play
 editor: markdown
 dateCreated: 2021-10-24T20:57:18.985Z
@@ -105,11 +105,11 @@ The ACU's combat abilities are worth knowing. Whilst the ACU can handle a handfu
 
 ### Overcharge
 
-An ability that provides the ACU a high damage, large blast radius shot which recharges charging and its damage scales with the amount of Energy in storage. Overcharge finds more practial use in destroying a cluster of enemy units and tightly placed buildings, whilst it can deal considerable damage to a T4/experimental unit it's not enough to destroy one with a single charged shot.
+An ability that provides the ACU a high damage, large blast radius shot which requires charging and its damage scales with the amount of Energy in storage. Overcharge finds more practial use in destroying a cluster of enemy units and tightly placed buildings, whilst it can deal considerable damage to a T4/Experimental unit it's not enough to destroy one with a single charged shot.
 
 ### Upgrades
 
-The ACU doesn't have scalable progression through tiers/tech levels, instead it has modular upgrades for the left arm, right arm, and body which augment either it's offensive, defensive, or building capabilities. Each faction's ACU has slightly different offensive and defensive upgrades which gives each ACU some variation from one another.
+The ACU doesn't have scalable progression through Tech Levels, instead it has modular upgrades for the left arm, right arm, and body which augment either it's offensive, defensive, or building capabilities. Each faction's ACU has slightly different offensive and defensive upgrades which gives each ACU some variation from one another.
 
 Be aware, that when the ACU is upgrading it becomes immobile, weapons are disabled, and cannot construct buildings - i.e. a sitting duck.
 
@@ -121,9 +121,7 @@ Matches start at T1, with upgrades to the next Tech Level occurring:
 - at a Land, Air, or Naval Factory and only for that factory. i.e. upgrading a T1 Land factory to T2 doesn't enable T2 for Air and Naval factories
 - from an upgrade for the ACU, which enables construction of equivalent and lower Tech Level buildings
 
-Tech Level for a building must be constructed by an equivalent or higher Tech Level Engineer/ACU and building's Tech Level cannot be upgraded, expect for:
-- Mass Extractors are upgraded individually
-- Factories can't be built T2 or T3, thus can only be built T1 and are upgraded individually and sequentially (T1 -> T2 -> T3)
+Tech Level for a building must be constructed by an equivalent or higher Tech Level Engineer/ACU.
 
 Regarding Experimentals:
 - they are built by Tech Level 3 Engineers and/or an ACU upgraded to build Tech Level 3.
@@ -143,7 +141,7 @@ Mid to late stages of a match it's recommended to have more than one Factory HQ 
 
 ## Buildings
 
-The metaphoric blocks that make a base. Progressing up Tech Levels for buildings offer more strategic options and powerful version of the previous Tech Level building. 
+The metaphoric blocks that make a base. Progressing up Tech Levels for buildings offer more strategic options and powerful versions of the previous Tech Level building. 
 
 In general:
 - Factories (Land, Air, Naval) produces units 
@@ -269,7 +267,7 @@ Mobile stealth units have a much smaller radius yet are mobile, meaning if unit 
 
 **Radar Jamming** is a passive ability of unit that generates more unit signatures to enemy radar/sonar than what is actually there. Counter-intelligence designed to fool enemies into thinking a larger number of units are present, suggesting to enemy player to over commit to an offense or defense of the detected unit, or units in this case.
 
-**Omni** is Radar and Sonar that ignores Stealth Fields and Radar Jamming, which makes it coveted for high priority positions. An ACU and T3 Air Scouts have this capability along with a T3 Radar building, though the T3 Radar's Omni radius is identical to the radar radius of the T2 Radar.
+**Omni** is Radar and Sonar that ignores Stealth Fields and Radar Jamming, which makes it coveted for high priority positions. An ACU and Scouts have this capability along with a T3 Radar building, though the T3 Radar's Omni radius is identical to the radar radius of T2 Radar.
 
 ## Build Order
 
