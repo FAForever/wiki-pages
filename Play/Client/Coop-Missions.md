@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2025-01-21T07:14:45.211Z
+date: 2025-04-26T21:20:05.500Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -77,9 +77,7 @@ Similarly to the original campaigns, these are linked in the story, and it is ad
 | 4 | Ioz-Shavoh-Kael         | 1.5          | Rebel's Rest        | 5.5          |
 | 5 | Overlord Surth-Velsok   | 2.1          | Red Revenge         | 5.4          |
 
-*Note: The AIx modifier for "Operation Tha-Atha-Aez" is exceptionally high, indicating a very challenging mission.
-
-(*M28 failed with a 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base. Without this issue, the AIx modifier is estimated at 2.3 for this mission.)
+*Note: The AIx modifier for "Operation Tha-Atha-Aez" failed with a 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base. Without this issue, the AIx modifier is estimated at 2.3 for this mission (meaning a human player is likely to find some of the other maps harder than this mission).
 
 ### FAForever Custom Scenarios
 These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't need to be played in a particular order.
@@ -145,8 +143,8 @@ You can fine-tune M28AI settings for in-mission allies and hostile AI with these
 - **M28Coop: Hostile Combat Delay**
   - Delays the application of offensive logic to hostile AI units. Default is 300 seconds (5 minutes); adjust as needed.
   
-- **M28Coop: Use M28Easy?**
-  - Applies M28EasyAI to allied/hostile AI instead of M28AI, which simplifies unit micro and attack logic for a different challenge level.
+- **M28Coop: M28 Personality**
+  - Applies the specified personality to allied/hostile AI.  E.g. use M28Easy to simplify unit micro and attack logic for a different challenge level.
 
 - **M28 time between orders**
   - By default M28 considers what orders to give its land, air and naval units every second, which allows it to react quickly in order to (for example) kite with its land units.  This setting allows you to increase the time between orders from 1 second to up to every 10 seconds.
@@ -154,7 +152,7 @@ You can fine-tune M28AI settings for in-mission allies and hostile AI with these
   
   **M28 enemy threat factor**
   - Applies the specified factor to the majority of M28's calculations of how strong enemy units are.  For example, a value of 0.1 means M28 will see enemy units as being 10% as strong/valuable as normal.
-  - This could be used to try and significantly change how M28 plays (e.g. being more suicidal with its units), and/or used in conjunction with the shared armies mode.  For a competitive experience it is recommended you use the default value of 1.0.
+  - This could be used to try and significantly change how M28 plays (e.g. a value of below 1 means M28 will attack more often with units where it would normally have held off due to expecting to lose the fight), and/or used in conjunction with the shared armies mode.  For a competitive experience it is recommended you use the default value of 1.0.
 
 These settings allow you to tailor the AI experience in campaign missions according to your preferences, adjusting difficulty and gameplay dynamics for a more customized experience.
 
