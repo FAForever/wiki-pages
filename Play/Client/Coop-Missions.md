@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2025-04-26T21:20:05.500Z
+date: 2025-04-30T07:37:40.545Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -145,14 +145,32 @@ You can fine-tune M28AI settings for in-mission allies and hostile AI with these
   
 - **M28Coop: M28 Personality**
   - Applies the specified personality to allied/hostile AI.  E.g. use M28Easy to simplify unit micro and attack logic for a different challenge level.
-
-- **M28 time between orders**
-  - By default M28 considers what orders to give its land, air and naval units every second, which allows it to react quickly in order to (for example) kite with its land units.  This setting allows you to increase the time between orders from 1 second to up to every 10 seconds.
-  - This can be useful both to reduce the extent and effectiveness of M28's microing, and also make it run faster.
   
   **M28 enemy threat factor**
   - Applies the specified factor to the majority of M28's calculations of how strong enemy units are.  For example, a value of 0.1 means M28 will see enemy units as being 10% as strong/valuable as normal.
   - This could be used to try and significantly change how M28 plays (e.g. a value of below 1 means M28 will attack more often with units where it would normally have held off due to expecting to lose the fight), and/or used in conjunction with the shared armies mode.  For a competitive experience it is recommended you use the default value of 1.0.
+  
+- **Adjust M28 micro (various)**
+The following game options allow you to adjust certain micro logic for M28:
+  - M28: Use dodge micro? - Allows you to limit the number of units M28 will try to micro to dodge incoming fire
+  - M28: Use hover air micro? - Allows you to limit the extent to which bombers will use 'hover-micro' to quickly turn around or hover-bomb (and disables such hovering for inties/asfs)
+  - M28 time between orders - By default M28 considers what orders to give its land, air and naval units every second, which allows it to react quickly in order to (for example) kite with its land units.  This setting allows you to increase the time between orders from 1 second to up to every 10 seconds.  This can be useful both to reduce the extent and effectiveness of M28's general microing, and also make it run faster.
+
+**M28: CPU performance mode**
+- Disables some of the more CPU intensive logic/uses simpler alternatives.  This reduces the effectiveness of M28 slightly, but also means it should run slightly faster (so may be useful for slow CPUs)
+
+**M28: Prioritise stronger units**
+- By default M28 will try and build the units it thinks are the strongest (where it has multiple units of a particular category/type).  Enabling this means it ignores such prioritisation, and can lead to a greater variety of units being built (in the case of certain mods that provide additional units).
+
+**M28: Combined AI-Human armies**
+- Enabling this mode allows you to transfer control (temporarily or permanently) of your units to M28 to manage for you, by selecting the relevant units and clicking on the M28 icon in the unit abilities section.
+- It can also be worth enabling this even if you dont intend to have M28 take control of any of your units, if M28 is a teammate, as enabling this means M28 assumes you will use your units to support it in the same way that an M28 player would (and so enabling this impacts on its behaviour as a teammate).
+- Poor CPUs or games on large maps with lots of players may run slower with this option enabled.
+- M28: CA Inherit constructing unit status can be used to set whether units built by such an 'M28 controlled' unit should default to also being controlled by M28 (e.g. enabling this and then giving M28 control of an engineer means if that engineer builds a land factory M28 will start building units, which it will then control, until you click the M28AI icon to toggle its control of the units).
+
+**M28: Helpful teammates**
+- If M28 is a teammate of yours (i.e. you star the game with M28AI in one of the player slots) then it by default should try and be helpful, doing things like assisting experimentals you construct if it's nearby, highlighting major enemy threats, etc.; this setting allows you to disable such behaviour.
+- As noted above you can also enable the Combined AI-Human armies to have M28 work better with your own forces as a teammate.
 
 These settings allow you to tailor the AI experience in campaign missions according to your preferences, adjusting difficulty and gameplay dynamics for a more customized experience.
 
