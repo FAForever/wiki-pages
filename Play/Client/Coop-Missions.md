@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2025-04-30T07:37:40.545Z
+date: 2025-04-30T07:38:00.641Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -124,7 +124,7 @@ To apply M28AI logic to in-mission AI allies and/or enemies, follow these steps:
    - Choose "Allied AI," "Enemy AI," or both for comprehensive AI control.
    ![m28ai_game_options_-_ai_to_apply.png](/m28ai_game_options_-_ai_to_apply.png)
 
-**Further Adjustments in Game Options:**
+**Further Adjustments to M28's behaviour in Game Options:**
 
 You can fine-tune M28AI settings for in-mission allies and hostile AI with these options:
 
