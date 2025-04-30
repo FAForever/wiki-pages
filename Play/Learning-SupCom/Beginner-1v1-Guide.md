@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-30T06:42:08.541Z
+date: 2025-04-30T07:08:03.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -25,14 +25,20 @@ There are two main variants: one that includes the hydrocarbon power plant (comm
 
 Here is a legend of technical terms we will be utilising throughout this guide: 
 
-- Armoured Command Unit - ACU
-- Mass Extractors - Mexes
-- Power Generators - Pgens / PG
-- Build Power - BP
-- Hydrocarbon Plant - Hydro
-- Engineer - Engi
-- Mobile Anti Air - MAA
-- Interceptor - Int
+- ACU - Armoured Command Unit
+- arty - T1 mobile artillery
+- BP - Build Power
+- E - Energy
+- Engi - Engineer
+- Hydro - Hydrocarbon Plant
+- Inties - Interceptors
+- Landfac - Land factory
+- MAA - Mobile Anti Air
+- Mexes - Mass Extractors
+- Pgens / PG - Power Generators
+- sub - Submarine
+- T1/T2/T3 - Tech 1/Tech 2/Tech 3
+
 ### Hydro Build Opener
 **Triple land opening with hydro:**
 ACU: Landfac → 4 Mex → Assists Hydro → Landfac → Pg → Landfac → Pg
@@ -62,14 +68,14 @@ and the other 20%
 2 arty - 1 MAA
 
 ## Recommended Starter Faction
-When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage. While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
+When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage** (where you need to 'kite' with auroras, i.e. retreat them when in range of the enemy, and are punished more for not having land scouts with your army). **While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
 ___
 
 ## Spending Resources 
 ## Spending Resources{.tabset}
 
 ### Introduction 
-One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in it's importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method.
+One of the most important parts of FAF is spending your resources, and in 1v1 it's exemplified in its importance. In ladder it's very important you spend your resources effectively, and within your current rating bracket, that would be spending the resources within a semi-reasonable method.
 
 ### Mass
 Mass is the first of the three resources we will cover, Mass is utilised in the construction of both units and structures, and is the resource with a gimmick. Mass can be gathered by three means 
@@ -124,8 +130,8 @@ As a beginner, this is the size of map you will be given most commonly. Luckily 
 - Set your initial factories build queue (see recommended build queues)
 - Expanding aggressively to all mexes on your half of the map (if mass stalling, send more engineers or acu out to expand)
 - Send the acu aggressively to the front lines after a few factories. Try to ‘farm’ as many enemy tanks as possible, but keep an army close by for safety (he is by far the most powerful unit on the map early in a game)
-- Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and aa if needed)
-- Remember to set the rally point for each fac. Spread them out slightly behind the halfway mark of the map
+- Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and MAA if needed)
+- Remember to set the rally point for each land fac. Spread them out slightly behind the halfway mark of the map
 - Probe the enemy with your tanks and land scouts. Raid isolated mexes and try to take good tank trades (such as 2v1 or 5v3, etc.)
 - Perpetually choke the enemy out of expansions by attacking with superior numbers
 - Use mass lead to further scale land factories and tank production
@@ -139,11 +145,11 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 - Set your initial factories build queue (see recommended build queues)
 - Balance:
 1. Expanding aggressively to all mexes on your half of the map (if mass stalling, send more engineers out to expand)
-2. Spending mass resources as quickly as possible into facts(mainly land) and the pgens to run them (if holding excess mass, hold back engineers in your base to spend it)
-- Remember to set the build queue for each new land fac. Have and infinite loop of 5 tanks and one scout (later you can add some arty and aa if needed)
+2. Spending mass resources as quickly as possible into facs (mainly land) and the pgens to run them (if holding excess mass, hold back engineers in your base to spend it)
+- Remember to set the build queue for each new land fac. Have an infinite loop of 5 tanks and one scout (later you can add some arty and MAA if needed)
 - Remember to set the rally point for each fac. Spread them out slightly behind the half way mark of the map, preferably in front mex expansions
-- Dont forget an air factory. Queue a scout, three intes, and an optional bomber on repeat. On ~10x10km maps, making air as your third factory is standard to shoot down pesky early bombers in time and start scouting for your tank army.
-- Begin flooding the enemies side of the map with your tank army. Raid spread out mex locations with a few tanks. Keep the bulk of your armies together to overwhelm major expansions hosting many mex and potentially factories of your opponent. Small raids can be done blindly, but large tank movements should always be preceded with scouting to determine if a battle is winnable.
+- Dont forget an air factory. Queue a scout, three inties, and an optional bomber on repeat. On ~10x10km maps, making air as your third factory is standard to shoot down pesky early bombers in time and start scouting for your tank army.
+- Begin flooding the enemy's side of the map with your tank army. Raid spread out mex locations with a few tanks. Keep the bulk of your armies together to overwhelm major expansions hosting many mexes and potentially factories of your opponent. Small raids can be done blindly, but large tank movements should always be preceded with scouting to determine if a battle is winnable.
 - Be aggressive with your tanks, but also be careful not to suicide them. Any expansions you conquer, build the mexes with your own engineers and then place attack-moves to get the reclaim
 - Get multiple dispersed t1 radar, and eventually a central t2 radar as soon as you can to view enemy tank counts and movement
 - Perpetually choke the enemy out of expansions by attacking with superior numbers
@@ -152,18 +158,18 @@ As a beginner 10x10km+ maps are not the most common size, but you will see them 
 - Eventually launch a decisive attack on enemy base or acu directly to win the game
 
 ### Basic Navy Strategy 
-Roughly 20% of maps in the 1v1 ladder are navy focused in a typical pool. These maps play differently than land and thus require a new strategy.
+Roughly 20% of maps in the 1v1 ladder are navy focused in a typical pool. These maps play differently than land and thus require a new strategy.  Navy maps can typically be identified by maps where you start on an island, or maps with 1-2 narrow land chokepoints coupled with water/ponds where T1-T2 navy built on your side can threaten a significant number of mexes on the enemy side.
 - Begin with your basic opener (hydro or non-hydro)
 - Set your initial factories build queue to purely engineers if you are on a island (as is common)
 - Build an air factory and extra pgens to run it 
 - Produce a couple interceptors, scouts and then a transport to drop engineers all around the map to claim mexes and reclaim
-- Continue building intes and air scouts for the rest of the game to defend you territory from air attack. You can optionally add extra factories and/or engie assistance to fruther increase your air force 
+- Continue building inties and air scouts for the rest of the game to defend you territory from air attack. You can optionally add extra factories and/or engie assistance to fruther increase your air force 
 - Build a few t1 navy factories to produce mainly frigates and some submarines (3:1 ratio works well)
 - Raid mexes of your opponent close to shore with frigates (they have limited range) and any underwater mexes with subs
 - Upon growing your economy from the transported engies building mexes, and engies at home spamming t1 pgens, start a t2 navy HQ upgrade, with as many engies as you can spare assisting
 - T2 destroyers and cruisers are your win condition on most navy maps, if you can deploy even just a few of these uncontested on the shore of your opponents base, the damage they will sustain will very often be crippling
-- This is where the intes, frigs and subs you built earlier come in. Your opponent may try to counter your destro+cruiser push with swarms of frigates or t2 torpedo bombers or gunships
-- If they send frigates, you must react to this by sending your own frigs and supporting with your destros in the rear
+- This is where the inties, frigates and subs you built earlier come in. Your opponent may try to counter your destroyer+cruiser push with swarms of frigates or t2 torpedo bombers or gunships
+- If they send frigates, you must react to this by sending your own frigates and supporting with your destroyers in the rear
 - If they send t2 air, you must rely on your own air force and cruisers to shoot them down
 - If you are able to defend your destroyers and cruisers, your opponents infrustructure should be severely damaged, if not obliterated entirely
 
