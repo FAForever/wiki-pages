@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2024-12-28T17:14:19.585Z
+date: 2025-04-30T07:39:39.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -23,6 +23,14 @@ For example, by one measure the fastest custom AI was more than twice as fast as
 
 Further details on the custom AI available in FAF, and how to play using them, are given below.
 
+Many of the AI developers can be contacted on an [AI development discord](https://discord.gg/pUyGmkyNrj)
+
+## Other information relating to custom AI:
+- [Playing with custom AI in the campaign](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai)
+- [Developing your own custom AI](https://wiki.faforever.com/en/Development/AI/AI-Modding)
+- [Making maps more AI friendly](https://wiki.faforever.com/en/Development/Mapping/ai-friendly-maps)
+- [AI comparisons and tournaments](https://wiki.faforever.com/en/Development/AI/Custom-AIs#ai-comparisons-and-tournaments)
+
 # FAF Custom AI
 Each AI has a different style of playing, so be sure to try different AI to see the ones that you like the most.
 
@@ -34,13 +42,11 @@ These AI are being actively developed with recent updates.  If you have feedback
 ![m28ai.jpg](/m28ai.jpg)
 *Author: maudlin27*
 Other mods required: None
-Adaptive AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  M28AI uses advanced micro tactics coupled with strong macro decisions, applying a a decentralised 'hive-mind' type approach to AI decisions and a special AI memory system to work effectively on larger maps and in teamgames (while still being a deadly 1v1 opponent).  It is compatible with a wide range of mods, maps, and unusual game settings (including unit restrictions), and also has a wide range of configuration options to refine your experience as well as an alternative M28Easy version that disables its microing capabilities.
+Adaptive and customisable AI, intended for both 1v1 and team games.  Provides a competitive experience, with an estimated rank of 900-1200 (i.e. better than the average FAF player).  M28AI uses advanced micro tactics coupled with strong macro decisions, applying a a decentralised 'hive-mind' type approach to AI decisions and a special AI memory system to work effectively on larger maps and in teamgames (while still being a deadly 1v1 opponent).  It is compatible with a wide range of mods, maps, and unusual game settings (including unit restrictions), and also has a wide range of configuration options to refine your experience as well as an alternative M28Easy version that disables its microing capabilities.
 
-Examples of custom options include an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game, and a unique hybrid AI mode that allows you to have M28AI manage some of your units while you manage others (including, at the extreme, a MOBA setting that turns FAF into a MOBA game).
+Examples of custom options include an 'AIx overwhelm' option that can make the AI get harder or weaker over the course of a game, a unique hybrid AI mode that allows you to have M28AI manage some of your units while you manage others (including, at the extreme, a MOBA setting that turns FAF into a MOBA game), and being able to adjust how much it micros.
 
-A unique hybrid AI mode is also provided where you can choose M28AI to manage some of your units while you manage others.
-
-M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI - see the [campaign section](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai) for further details.
+M28AI also supports the FA and SC campaign missions, both as an AI teammate, and (via game settings) as the hostile campaign AI - see the [campaign section](https://wiki.faforever.com/en/Play/Client/Coop-Missions#custom-campaign-ai) for further details.  This also includes details on various M28 configuration options.
 
 Further details on M28AI are available on its [forum thread](https://forum.faforever.com/topic/5331/m28ai-devlog-wip-pre-release), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1e07YIwLK2AZbLHSsYU_5F4s4HWbhgNID/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
 
@@ -71,7 +77,7 @@ Although no longer receiving updates, the following AI should still work in FAF.
 ### M27AI
 ![m27ai.jpg](/m27ai.jpg)
 *Author: maudlin27*
-Last updated: May 2024
+Last updated: March 2025
 Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).  While largely superceded by M28AI, it will play differently and can beat M28AI on some maps.  Although not actively developed it is still occasionally updated to ensure it remains compatible with the latest FAF releases.
 
@@ -209,6 +215,11 @@ If reporting a bug with an AI, the following will be helpful for the AI develope
 Rainbow Cup tournaments have been held every 6-12 months, the most recent of which, Rainbow Cup VI, is linked below:
 https://forum.faforever.com/topic/5400/rainbow-cup-vi-3v3-1-500
 These tournaments typically pit 2 human teams against each other, with the AI featuring as a 3rd (and/or 4th) team in the game.  When one human team loses, the other human team wins the match.
+
+#### Rainbow Cup VIII (February-March 2025)
+This tournament featured 2 teams of 4 human players fighting each other, with AI featuring in a variety of ways, sometimes as a teammate (similarly to Rainbow Cup VI), NS sometimes as enemy team(s),
+
+Casts of the games are available on the [FAForever youtube channel](https://www.youtube.com/@ForgedAllianceForever).
 
 #### Rainbow Cup VII (February-March 2024)
 This version of the tournament featured 1-2 AI as teammates with 4 human players on each team.  Casts of almost all games in the tournament are available on the FAFLive youtube channel:
