@@ -2,7 +2,7 @@
 title: Beginner 1v1 Guide (0-1000 Rating)
 description: 
 published: true
-date: 2025-04-16T11:05:28.044Z
+date: 2025-04-30T06:42:08.541Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T07:15:24.063Z
@@ -111,14 +111,14 @@ ___
 ## Basic Strategy
 ## Early Game{.tabset}
 
-### ‘Monkey’ spamming on land maps 
+### Tank spamming on land maps 
 
-Roughly 80% of maps in the 1v1 ladder are land focused in a typical pool. While a wide variety of strategies and tactics exist to give a player a decisive advantage in a 1v1 game, without understanding the fundamentals of the land spam strategy, a player will lose map control and likely lose before they can implement any of them. In fact, if executed properly, a ‘monkey’ t1 land spam strategy can outright win a player most games in the lower rating ranges, and even give them a decisive advantage in high rating ranges.
+Roughly 80% of maps in the 1v1 ladder are land focused in a typical pool. While a wide variety of strategies and tactics exist to give a player a decisive advantage in a 1v1 game, without understanding the fundamentals of the land spam strategy, a player will lose map control and likely lose before they can implement any of them. In fact, if executed properly, a t1 tank land spam strategy (where your focus is spending your mass on t1 tanks, and more t1 land factories to get more tanks if you dont have enough to spend all your mass) can outright win a player most games in the lower rating ranges, and even give them a decisive advantage in high rating ranges.
 
 As you rise in the ladder, you will find more and more players embodying this strategy in their play. Luckily for you, there will be many inefficiencies in their execution. Ranking up from 0-1000+ thus only requires you to continually hone this strategy.
 
 ### Execution on 5x5km maps:
-As a beginner, this is the size of map you will be given most commonly. Luckily for you, it is the simplest map type to implement our ‘monkey’ t1 land spam strategy.
+As a beginner, this is the size of map you will be given most commonly. Luckily for you, it is the simplest map type to implement our t1 land spam strategy.
 
 - Begin with your basic opener (hydro or non-hydro)
 - Set your initial factories build queue (see recommended build queues)
@@ -133,7 +133,7 @@ As a beginner, this is the size of map you will be given most commonly. Luckily 
 - Eventually launch a decisive attack on enemy base or acu directly to win the game
 
 ### Execution on 10x10 maps:
-As a beginner 10x10km+ maps are not the most common size, but you will see them more and more as you improve. These maps offer far more gameplay variety in the tactics you can employ successfully. Still however, our ‘monkey’ t1 land spam strategy should be at the core of how we approach these maps.
+As a beginner 10x10km+ maps are not the most common size, but you will see them more and more as you improve. These maps offer far more gameplay variety in the tactics you can employ successfully. Still however, our t1 land spam strategy should be at the core of how we approach these maps.
 
 - Begin with your basic opener (hydro or non-hydro)
 - Set your initial factories build queue (see recommended build queues)
