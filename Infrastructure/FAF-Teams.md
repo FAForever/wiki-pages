@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-04-30T13:32:48.723Z
+date: 2025-04-30T13:44:33.316Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -212,7 +212,6 @@ Board.
 - Tagada
 - Farms aka TheWeakie
 - Sainse
-- Nuggets
 - Paradox_of_War
 - Vindex
 - LoliChan
