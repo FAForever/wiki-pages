@@ -2,7 +2,7 @@
 title: Learning Supcom
 description: 
 published: true
-date: 2025-05-03T18:02:05.551Z
+date: 2025-05-03T18:02:16.729Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T20:32:41.077Z
@@ -15,7 +15,7 @@ If you're new to Supreme Commander or haven't played in a long time, you may wan
 * [Video intro to some basic concepts in FAF](https://youtu.be/Nks9loE96ok)
 * [FAF Guide - In-depth explanations of basic FAF concepts](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U)
 * [Unit Micro - How to control your units](/Play/Learning/Unit-Micro)
-* [Beginner's Guide to Forged Alliance Forever](https://wiki.faforever.com/en/Play/Learning-SupCom/Beginners-Guide-to-Forged-Alliance)
+* [Beginner's Guide to Forged Alliance Forever](/Play/Learning-SupCom/Beginners-Guide-to-Forged-Alliance)
 {.links-list}
 
 ## In-Game Basics
