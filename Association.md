@@ -2,8 +2,8 @@
 title: Association
 description: 
 published: true
-date: 2025-05-31T12:57:33.062Z
-tags: association
+date: 2025-05-31T12:58:45.012Z
+tags: 
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
 ---
@@ -38,3 +38,8 @@ As of March 2025 the members of the FAForever board are:
 * Tagada
 * Giebmasse
 * Mizer
+
+## Links to resources
+
+- [Public minutes of meetings of the association](/Association/Minutes)
+
