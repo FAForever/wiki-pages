@@ -2,7 +2,7 @@
 title: Minutes of the board meeting of 2025/03/30
 description: Minutes of the board meeting on the 30th of March, 2025
 published: true
-date: 2025-05-31T12:55:24.798Z
+date: 2025-05-31T12:56:02.344Z
 tags: association
 editor: markdown
 dateCreated: 2025-05-31T12:55:24.798Z
