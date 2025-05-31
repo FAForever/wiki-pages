@@ -2,7 +2,7 @@
 title: Association
 description: 
 published: true
-date: 2025-05-31T13:02:39.809Z
+date: 2025-05-31T13:13:52.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
@@ -43,4 +43,3 @@ As of March 2025 the members of the FAForever board are:
 
 - [Public minutes of meetings of the association](/Association/Minutes)
 - [Public topics of the association](/Association/Topics)
-
