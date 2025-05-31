@@ -2,7 +2,7 @@
 title: Public minutes of the association
 description: An overview page of all the public minutes of meetings of the association.
 published: true
-date: 2025-05-31T12:56:37.985Z
+date: 2025-05-31T12:56:55.373Z
 tags: association
 editor: markdown
 dateCreated: 2025-05-28T16:26:07.316Z
@@ -14,4 +14,4 @@ This page links to all public minutes of meetings that are related to the associ
 
 ## 2025
 
-- [Minutes of board meeting of 2025/03](/Association/Minutes/BoardMeeting-2025-03-30)
+- [Minutes of board meeting of March 30th, 2025](/Association/Minutes/BoardMeeting-2025-03-30)
