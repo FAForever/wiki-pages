@@ -2,8 +2,8 @@
 title: Association
 description: 
 published: true
-date: 2025-05-31T12:45:17.505Z
-tags: 
+date: 2025-05-31T12:57:33.062Z
+tags: association
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
 ---
