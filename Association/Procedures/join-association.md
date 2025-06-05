@@ -2,7 +2,7 @@
 title: Procedure to join the association
 description: An informal description of how to join the association.
 published: true
-date: 2025-06-05T14:10:42.103Z
+date: 2025-06-05T14:13:03.052Z
 tags: association, procedure
 editor: markdown
 dateCreated: 2025-06-05T14:10:42.103Z
