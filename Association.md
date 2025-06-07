@@ -2,7 +2,7 @@
 title: Association
 description: 
 published: true
-date: 2025-06-05T12:35:15.622Z
+date: 2025-06-07T07:08:08.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
@@ -23,7 +23,7 @@ The association is managed by a board, elected annually from the FAForever assoc
 * Hosting and promoting of tournaments relating to the game.
 * Supporting the development of third party content such as maps and mods.
 
-The FAForever association also has [statutes of association](https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM) with further details on the association. 
+The FAForever association also has [statutes of association](https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM) with further details on the association, along with setting out a [structure for teams that the board has delegated responsibilities to](https://forum.faforever.com/topic/3381/proposals-for-the-gm-about-faf-governance) (the community role referred to in this proposal has since been retired).   
 
 Details of how to apply to join the FAForever association as a member are [available on the forums](https://forum.faforever.com/topic/2346/how-to-become-a-member-of-the-association).
 
