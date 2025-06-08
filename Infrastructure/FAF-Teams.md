@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-05-31T12:44:37.438Z
+date: 2025-06-08T16:18:01.582Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -347,14 +347,13 @@ For more information, see the following page:
 - magge
 - Deribus
 - maudlin27
-- ZLO
 - IndexLibrorum
 - ObliiLaCybrance (Discord: ModBlii)
-- Hyp3r2001
-
 - Archsimkat
-- nemir
 - Gorton
+
+##### Retired moderators
+- ZLO
 - LegionDarrath
 - Macronoob
 - Nemir
@@ -362,22 +361,23 @@ For more information, see the following page:
 - Tex
 - Voodoo
 
-
 #### Mission:
-The moderation team’s mission is to keep the community a healthy and pleasant place
-for all users, on all FAF platforms, by enforcing the [rules of the community](https://www.faforever.com/rules).
-The moderation team also determines the [moderation policy](https://www.faforever.com/moderation) and rules for the client,
-discord, forum, and other FAF managed platforms.
+The moderation team’s mission is to keep the community a healthy and pleasant place for all users, on all FAF platforms, by enforcing the [rules of the community](https://www.faforever.com/rules). The moderation team also determines the [moderation policy](https://www.faforever.com/moderation) and rules for the client, discord, forum, and other FAF managed platforms.
+
 #### Moderation Team Lead
 - Acting as the final point of appeal for all moderation decisions
 - Determining the membership and structure of the moderation team
 - Chosen by the moderation team, with a 12 month cooldown period during normal circumstances
 
-#### Team Members
-- Interested candidates send their application to the team lead
+#### Team Membership
+- Interested candidates may send an application to the team lead
 - Applicants are discussed and voted for within the team, with the team lead having the final say regarding new team members
 - Team members can be dropped from the team due to long inactivity or being deemed no longer suitable for the position
-- Moderation team members can be split between global moderators, discord moderators, IRC moderators and forum moderators
+- Moderators split their attention between FAF reports, the FAF discord, Aeolus IRC, and the forum
+
+#### Retired moderators
+- Retired moderators are (semi)-inactive members of the team that are asked from time to time for advice or information, based on their experience as a moderator
+
 ### DevOps Team
 
 DevOps = "Development and Operations"
