@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:30:31.585Z
+date: 2025-06-09T10:31:38.954Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -31,6 +31,12 @@ You can then input this streamkey to your streaming software of choice. Then, an
 The Moderator role not only allows you to moderate chat, but also grants you permission to modify the Nightbot settings. Nightbot is a tool integrated with FAFLive for automatic moderation, chat commands, and basic stream info editing. The lattermost allows us to modify the stream’s title or tags without needing full access to the FAFLive Twitch account. 
 
 Similar to above, you can get the moderator role by requesting it from whoever is in charge of the FAFLive Twitch account. However, you must give them your Twitch handle instead of your email. It’s up to you whether you want to use your personal Twitch handle or if you want to create another one exclusively for FAF. 
+
+---
+
+## OBS Setup
+
+Work-in-progress
 
 ---
 
@@ -107,7 +113,7 @@ This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/f
 
 ---
 
-## Casting guidelines
+## Casting Guidelines
 *Under construction because Razana isn’t an experienced caster and everyone has their own preferred style. Please leave your comments here on what should be added*
 
 - Check your audio and video quality before going live. A caster with a bad mic and screen isn’t going to be a fun experience for the viewers. Having a few days to test recordings and streams can help you iron out any issues before the actual tournament.
@@ -120,6 +126,6 @@ This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/f
 
 ---
 
-## Moderation
+## Moderation Guidelines
 
 *Under construction because Razana hasn’t had to deal with this yet.*
