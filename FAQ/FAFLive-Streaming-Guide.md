@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:35:33.677Z
+date: 2025-06-09T10:36:40.857Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -36,7 +36,7 @@ Similar to above, you can get the moderator role by requesting it from whoever i
 
 ## OBS Setup
 
-Work-in-progress
+*Under construction*
 
 ---
 
@@ -109,12 +109,11 @@ This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/f
 ---
 
 ## Asset Management
-*Under construction because Razana hasn’t had to deal with this yet.*
+*Under construction*
 
 ---
 
 ## Casting Guidelines
-*Under construction because Razana isn’t an experienced caster and everyone has their own preferred style. Please leave your comments here on what should be added*
 
 - Check your audio and video quality before going live. A caster with a bad mic and screen isn’t going to be a fun experience for the viewers. Having a few days to test recordings and streams can help you iron out any issues before the actual tournament.
 - 
@@ -128,4 +127,4 @@ This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/f
 
 ## Moderation Guidelines
 
-*Under construction because Razana hasn’t had to deal with this yet.*
+*Under construction*
