@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:24:12.026Z
+date: 2025-06-09T10:27:14.084Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -50,7 +50,7 @@ The !title command displays the current title of the stream and allows you and y
 The !tags command allows you to update Twitch stream tags for better directory discoverability.
 
 	!tags stream,tags
-
+  
 <span style="color:red">stream</span>, <span style="color:purple">tags</span> tags  is an optional list of comma-separated list of stream tags.
 
 ### Polls (!poll)
@@ -69,13 +69,13 @@ The !poll command allows you and your moderators to easily create polls using St
 
 The !commands command allows users to get a link to your custom commands page and allows you to add, remove, and modify custom commands.
 
-i) Viewing Commands:
+Viewing Commands
 
 	!commands
 
 This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/faflive/commands
 
-ii) Adding Commands:
+Adding Commands
 
 	!commands add !command_name command response
 
@@ -84,7 +84,7 @@ ii) Adding Commands:
 <span style="color:purple">command response</span>  is the message you want Nightbot to reply with when the command is called
 
 
-iii) Editing Commands
+Editing Commands
 
 	!commands edit !command_name command response
 
@@ -94,7 +94,7 @@ iii) Editing Commands
 <span style="color:purple">command response</span>  is the message you want Nightbot to reply with when the command is called
 
 
-iv) Deleting Commands
+Deleting Commands
 
 	!commands delete !command_name
 
