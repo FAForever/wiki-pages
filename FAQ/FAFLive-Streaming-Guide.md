@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:27:14.084Z
+date: 2025-06-09T10:27:41.436Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -69,13 +69,13 @@ The !poll command allows you and your moderators to easily create polls using St
 
 The !commands command allows users to get a link to your custom commands page and allows you to add, remove, and modify custom commands.
 
-Viewing Commands
+**Viewing Commands**
 
 	!commands
 
 This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/faflive/commands
 
-Adding Commands
+**Adding Commands**
 
 	!commands add !command_name command response
 
@@ -84,7 +84,7 @@ Adding Commands
 <span style="color:purple">command response</span>  is the message you want Nightbot to reply with when the command is called
 
 
-Editing Commands
+**Editing Commands**
 
 	!commands edit !command_name command response
 
@@ -94,7 +94,7 @@ Editing Commands
 <span style="color:purple">command response</span>  is the message you want Nightbot to reply with when the command is called
 
 
-Deleting Commands
+**Deleting Commands**
 
 	!commands delete !command_name
 
