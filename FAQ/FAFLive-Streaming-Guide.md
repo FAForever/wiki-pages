@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:13:23.271Z
+date: 2025-06-09T10:21:09.750Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -44,18 +44,17 @@ The !title command displays the current title of the stream and allows you and y
 
 	!title title
 
-title is the title you wish to change your stream title to. Only place a title to change the title. Omitting this value displays the current title.
+<span style="color:red">title</span> is the title you wish to change your stream title to. Only place a title to change the title. Omitting this value displays the current title.
 
-<span style="color:blue">some *This is Blue italic.* text</span>
 
 
 ### Stream tags (!tags)
 
 The !tags command allows you to update Twitch stream tags for better directory discoverability.
 
-	!tags stream, tags
+	!tags stream,tags
 
-stream, tags is an optional list of comma-separated list of stream tags.
+<span style="color:red">stream</span>, <span style="color:purple">stream</span> tags  is an optional list of comma-separated list of stream tags.
 
 ### Polls (!poll)
 
@@ -63,9 +62,9 @@ The !poll command allows you and your moderators to easily create polls using St
 
 	!poll new title | option 1 | option 2
 
-title is the main title/question of your poll.
+<span style="color:red">title</span> is the main title/question of your poll.
 
-options are the individual options your users can vote for. Split by a vertical bar |, 
+<span style="color:purple">options</span> are the individual options your users can vote for. Split by a vertical bar |, 
 
 2 options are required, however, a maximum of 30 can be added.
 
@@ -83,25 +82,26 @@ ii) Adding Commands:
 
 	!commands add !command_name command response
 
-	!command_name is the name of the command you wish to use. Commands are usually prefixed with an exclamation mark
+<span style="color:red">command_name</span> is the name of the command you wish to use. Commands are usually prefixed with an exclamation mark
 
-command response is the message you want Nightbot to reply with when the command is called
+<span style="color:purple">command response</span>  is the message you want Nightbot to reply with when the command is called
 
 
 iii) Editing Commands
 
 	!commands edit !command_name command response
 
-	!command_name is the name of command you wish to edit
 
-command response is the message you want Nightbot to reply with when the command is called
+<span style="color:red">!command_name</span>	 is the name of command you wish to edit
+
+<span style="color:purple">command response</span>  is the message you want Nightbot to reply with when the command is called
 
 
 iv) Deleting Commands
 
 	!commands delete !command_name
 
-!command_name is the name of command you wish to delete
+<span style="color:red">command_name</span> is the name of command you wish to delete
 
 ## Asset Management
 *Under construction because Razana hasn’t had to deal with this yet.*
