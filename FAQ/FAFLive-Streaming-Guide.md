@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:29:41.942Z
+date: 2025-06-09T10:30:31.585Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -32,6 +32,8 @@ The Moderator role not only allows you to moderate chat, but also grants you per
 
 Similar to above, you can get the moderator role by requesting it from whoever is in charge of the FAFLive Twitch account. However, you must give them your Twitch handle instead of your email. It’s up to you whether you want to use your personal Twitch handle or if you want to create another one exclusively for FAF. 
 
+---
+
 ## Basic Nightbot Guide
 The full documentation can be found [here](https://docs.nightbot.tv/). This section of the guide will focus primarily on the common Nightbot use cases for FAFLive.
 
@@ -42,8 +44,6 @@ The !title command displays the current title of the stream and allows you and y
 	!title title
 
 <span style="color:red">title</span> is the title you wish to change your stream title to. Only place a title to change the title. Omitting this value displays the current title.
-
-
 
 ### Stream tags (!tags)
 
@@ -100,9 +100,12 @@ This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/f
 
 <span style="color:red">command_name</span> is the name of command you wish to delete
 
+---
+
 ## Asset Management
 *Under construction because Razana hasn’t had to deal with this yet.*
 
+---
 
 ## Casting guidelines
 *Under construction because Razana isn’t an experienced caster and everyone has their own preferred style. Please leave your comments here on what should be added*
@@ -115,8 +118,7 @@ This returns a link to FAFLive’s custom commands page: https://nightbot.tv/t/f
 - 
 - Be conservative with the zooming and panning. It is very easy to nauseate the audience if you go too crazy with the camera movement. Tone down your zoom and pan sensitivity in the game settings and try not to rely on it too much if you want to draw the audience’s attention to something. As an alternative, you can use the draw feature (Hold right-click without anything selected) to highlight something interesting on-screen while being relatively zoomed out. This is not to say that you shouldn’t zoom and pan across the map. Just don’t do it too much and too fast. Extreme example of how not to zoom: https://www.youtube.com/watch?v=Gs9IeUF3f3w&t=623s
 
-
-
+---
 
 ## Moderation
 
