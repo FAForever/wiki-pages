@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:21:09.750Z
+date: 2025-06-09T10:22:13.966Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -54,7 +54,7 @@ The !tags command allows you to update Twitch stream tags for better directory d
 
 	!tags stream,tags
 
-<span style="color:red">stream</span>, <span style="color:purple">stream</span> tags  is an optional list of comma-separated list of stream tags.
+<span style="color:red">stream</span>, <span style="color:purple">tags</span> tags  is an optional list of comma-separated list of stream tags.
 
 ### Polls (!poll)
 
