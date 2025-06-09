@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:12:45.753Z
+date: 2025-06-09T10:13:23.271Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -44,7 +44,10 @@ The !title command displays the current title of the stream and allows you and y
 
 	!title title
 
-<mark>title is the title you wish to change your stream title to. Only place a title to change the title. Omitting this value displays the current title.</mark>
+title is the title you wish to change your stream title to. Only place a title to change the title. Omitting this value displays the current title.
+
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 
 ### Stream tags (!tags)
 
