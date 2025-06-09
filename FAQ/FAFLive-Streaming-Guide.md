@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:33:22.782Z
+date: 2025-06-09T10:35:33.677Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -19,14 +19,14 @@ This is a work-in-progress to standardise the streaming process under the FAFLiv
 
 This allows multiple accounts to broadcast under the FAFLive handle. To obtain one, you’ll have to request it from whoever is currently in charge of the FAFLive Twitch account (This is probably Hybrid as of June 2025). You’ll need to give them your email but it doesn’t have to be the same one registered to your Twitch account. If successful, you will receive a stream key that looks like this: 
 
-[Image goes here]
+[Placeholder for image]
 
 You can then input this streamkey to your streaming software of choice. Then, any stream from your PC will be broadcast to FAFLive until you change the streamkey. (Please Google how to do this for your preferred platform because there’s so many out there)
 
 
 2. Moderator role for FAFLive on your Twitch account
 
-[Image goes here]
+[Placeholder for image]
 
 The Moderator role not only allows you to moderate chat, but also grants you permission to modify the Nightbot settings. Nightbot is a tool integrated with FAFLive for automatic moderation, chat commands, and basic stream info editing. The lattermost allows us to modify the stream’s title or tags without needing full access to the FAFLive Twitch account. 
 
