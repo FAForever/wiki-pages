@@ -2,7 +2,7 @@
 title: FAFLive Streaming Guide
 description: Basic guide for streaming under the FAFLive handle
 published: true
-date: 2025-06-09T10:27:41.436Z
+date: 2025-06-09T10:29:41.942Z
 tags: streaming, faflive
 editor: markdown
 dateCreated: 2025-06-07T16:05:20.732Z
@@ -65,7 +65,7 @@ The !poll command allows you and your moderators to easily create polls using St
 
 2 options are required, however, a maximum of 30 can be added.
 
-### Chat commands (!commands)
+### Chat Commands (!commands)
 
 The !commands command allows users to get a link to your custom commands page and allows you to add, remove, and modify custom commands.
 
