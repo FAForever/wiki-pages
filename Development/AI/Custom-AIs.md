@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2025-06-28T09:20:09.269Z
+date: 2025-06-28T09:20:41.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -219,7 +219,7 @@ These tournaments typically pit 2 human teams against each other, with the AI fe
 Casts of the recent games have been shown on the [FAForever youtube channel](https://www.youtube.com/@ForgedAllianceForever), and are linked further below.
 
 #### Rainbow Cup VIII (February-March 2025)
-This tournament featured 2 teams of 4 human players fighting each other, with AI featuring in a variety of ways, sometimes as a teammate (similarly to Rainbow Cup VI), NS sometimes as enemy team(s),
+This tournament featured 2 teams of 4 human players fighting each other, with AI featuring in a variety of ways, sometimes as a teammate (similarly to Rainbow Cup VI), and sometimes as enemy team(s).
 
 [Rainbow Cup VIII Playlist](https://www.youtube.com/watch?v=9VeGdCa9mwI&list=PL0nxuIUIjpFsQtNO5nhvEkRE_4A7AGXsB)
 
