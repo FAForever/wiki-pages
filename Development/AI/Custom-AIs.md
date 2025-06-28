@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2025-06-28T09:19:59.648Z
+date: 2025-06-28T09:20:09.269Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -221,7 +221,7 @@ Casts of the recent games have been shown on the [FAForever youtube channel](htt
 #### Rainbow Cup VIII (February-March 2025)
 This tournament featured 2 teams of 4 human players fighting each other, with AI featuring in a variety of ways, sometimes as a teammate (similarly to Rainbow Cup VI), NS sometimes as enemy team(s),
 
-[Rainbow Cup VII Playlist](https://www.youtube.com/watch?v=9VeGdCa9mwI&list=PL0nxuIUIjpFsQtNO5nhvEkRE_4A7AGXsB)
+[Rainbow Cup VIII Playlist](https://www.youtube.com/watch?v=9VeGdCa9mwI&list=PL0nxuIUIjpFsQtNO5nhvEkRE_4A7AGXsB)
 
 #### Rainbow Cup VII (February-March 2024)
 This version of the tournament featured 1-2 AI as teammates with 4 human players on each team.  Casts of almost all games in the tournament are available on the FAFLive youtube channel:
