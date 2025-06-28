@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2025-04-30T07:39:39.451Z
+date: 2025-06-28T09:19:59.648Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -212,14 +212,16 @@ If reporting a bug with an AI, the following will be helpful for the AI develope
 # AI comparisons and tournaments
 ## AI vs Human tournaments
 ### Rainbow Cup
-Rainbow Cup tournaments have been held every 6-12 months, the most recent of which, Rainbow Cup VI, is linked below:
-https://forum.faforever.com/topic/5400/rainbow-cup-vi-3v3-1-500
+Rainbow Cup tournaments have been held every 6-12 months, the most recent of which are linked below.
+
 These tournaments typically pit 2 human teams against each other, with the AI featuring as a 3rd (and/or 4th) team in the game.  When one human team loses, the other human team wins the match.
+
+Casts of the recent games have been shown on the [FAForever youtube channel](https://www.youtube.com/@ForgedAllianceForever), and are linked further below.
 
 #### Rainbow Cup VIII (February-March 2025)
 This tournament featured 2 teams of 4 human players fighting each other, with AI featuring in a variety of ways, sometimes as a teammate (similarly to Rainbow Cup VI), NS sometimes as enemy team(s),
 
-Casts of the games are available on the [FAForever youtube channel](https://www.youtube.com/@ForgedAllianceForever).
+[Rainbow Cup VII Playlist](https://www.youtube.com/watch?v=9VeGdCa9mwI&list=PL0nxuIUIjpFsQtNO5nhvEkRE_4A7AGXsB)
 
 #### Rainbow Cup VII (February-March 2024)
 This version of the tournament featured 1-2 AI as teammates with 4 human players on each team.  Casts of almost all games in the tournament are available on the FAFLive youtube channel:
