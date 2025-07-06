@@ -2,7 +2,7 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2024-01-09T12:13:37.617Z
+date: 2025-07-06T11:05:17.916Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
@@ -1444,7 +1444,7 @@ Here is a list of tools you require to add sounds to your map (or mod):
 - The sound files you want to put in, formatted as .wav files
 - (Optional) Some Sound editing software, just to make it easier if some of the sounds are not quite right.
 
-Everything else can be done from inside the tool. If you mess around with it, you should be able to work out how it works in 5 minutes, there is also a pretty good documentation of the tool [here](https://msdn.microsoft.com/en-us/library/ff827590.aspx). Once you have made your *wavebank (.xwb)* and *soundbank (.xsb)* files, you need to place them into:s
+Everything else can be done from inside the tool. If you mess around with it, you should be able to work out how it works in 5 minutes, there is also a pretty good documentation of the tool [here](https://archive.org/details/dxsdk_aug2007). Once you have made your *wavebank (.xwb)* and *soundbank (.xsb)* files, you need to place them into:s
 
 `Supreme Commander - Forged Alliance\sounds\Voice\us`
 
