@@ -2,7 +2,7 @@
 title: Procedure to join the association
 description: An informal description of how to join the association.
 published: true
-date: 2025-06-05T14:13:03.052Z
+date: 2025-08-10T10:48:29.322Z
 tags: association, procedure
 editor: markdown
 dateCreated: 2025-06-05T14:10:42.103Z
@@ -85,9 +85,15 @@ An example of such a response could be:
 > 
 > You've been approved by (name of non-board member) and (name of board member). I've finalized your request to join, you are now officially a member of the association.
 > 
-> The association is a legal entity unlike other facets of FAForever. By joining the association you are affiliated to the association. To prevent issues with this it is best if you follow the contributing guidelines. The contributing guidelines outline how you are expected to behave. Especially, but not limited to, when you communicate over channels that are specifically for the association. You can read about the contributing guidelines [here](https://faforever.com/cg). Failure to behave can be grounds for the board to remove you from the association.
+> The association is a legal entity unlike other facets of FAForever. By joining the association you are affiliated to the association. To prevent issues with this it is best if you follow the contributing guidelines. The contributing guidelines outline how you are expected to behave. Especially, but not limited to, when you communicate over channels that are specifically for the association. You can read about the contributing guidelines here:
+>
+> - https://faforever.com/cg
 > 
-> Because the association is a legal entity we are bound to operate in accordance with Danish and European laws. These supersede any proposal and/or the [statutes](https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM) of the association. 
+>  Failure to behave can be grounds for the board to remove you from the association.
+> 
+> Because the association is a legal entity we are bound to operate in accordance with Danish and European laws. These supersede any proposal and/or the statutes of the association. You can find those here:
+>
+> - https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM
 > 
 > The association is a slow organization. This is intentional. A lot of decisions are at the 'strategic' level and should therefore not be rushed. On top of that, a lot of decisions and operations are asynchronous. As this is a voluntary organization, this means it may take several days for someone to be able to respond and share their thoughts. The board has a meeting once every month, on the last sunday of the month. You're welcome to observe these as an association member.
 > 
