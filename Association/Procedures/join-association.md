@@ -2,7 +2,7 @@
 title: Procedure to join the association
 description: An informal description of how to join the association.
 published: true
-date: 2025-08-10T12:00:52.044Z
+date: 2025-08-10T12:04:47.858Z
 tags: association, procedure
 editor: markdown
 dateCreated: 2025-06-05T14:10:42.103Z
@@ -95,9 +95,9 @@ An example of such a response could be:
 >
 > - https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM
 > 
-> The association is a slow organization. This is intentional. A lot of decisions are at the strategic level and should therefore not be rushed. On top of that, a lot of decisions and operations are asynchronous. As this is a voluntary organization. This means it may take several days for someone to be able to respond and share their thoughts. The board has a meeting once every month, on the last sunday of the month. You're welcome to observe these as an association member.
+> The association is a slow organization. This is intentional. A lot of decisions are at the strategic level and should therefore not be rushed. On top of that, a lot of decisions and operations are asynchronous. As this is a voluntary organization. This means it may take several days for someone to be able to respond and share their thoughts. The board has a meeting once every month, on the last Sunday of the month. You're welcome to observe these as an association member.
 > 
-> All official correspondence will go to this email adres that you receive this message with. As an example, you will be invited to the yearly general meeting through this email adres.
+> All official correspondence will go to this email address  that you receive this message with. As an example, you will be invited to the yearly general meeting through this email address .
 > 
 > With kind regards,
 > 
