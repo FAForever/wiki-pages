@@ -2,7 +2,7 @@
 title: Procedure to join the association
 description: An informal description of how to join the association.
 published: true
-date: 2025-08-10T10:48:29.322Z
+date: 2025-08-10T12:00:52.044Z
 tags: association, procedure
 editor: markdown
 dateCreated: 2025-06-05T14:10:42.103Z
@@ -91,13 +91,13 @@ An example of such a response could be:
 > 
 >  Failure to behave can be grounds for the board to remove you from the association.
 > 
-> Because the association is a legal entity we are bound to operate in accordance with Danish and European laws. These supersede any proposal and/or the statutes of the association. You can find those here:
+> Because the association is a legal entity we are bound to operate in accordance with Danish and European laws. These supersede any proposal and/or the statutes of the association. You can find the statutes here:
 >
 > - https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM
 > 
-> The association is a slow organization. This is intentional. A lot of decisions are at the 'strategic' level and should therefore not be rushed. On top of that, a lot of decisions and operations are asynchronous. As this is a voluntary organization, this means it may take several days for someone to be able to respond and share their thoughts. The board has a meeting once every month, on the last sunday of the month. You're welcome to observe these as an association member.
+> The association is a slow organization. This is intentional. A lot of decisions are at the strategic level and should therefore not be rushed. On top of that, a lot of decisions and operations are asynchronous. As this is a voluntary organization. This means it may take several days for someone to be able to respond and share their thoughts. The board has a meeting once every month, on the last sunday of the month. You're welcome to observe these as an association member.
 > 
-> All official correspondence will go to this email. As an example, you will be invited to the yearly general meeting through this email. 
+> All official correspondence will go to this email adres that you receive this message with. As an example, you will be invited to the yearly general meeting through this email adres.
 > 
 > With kind regards,
 > 
