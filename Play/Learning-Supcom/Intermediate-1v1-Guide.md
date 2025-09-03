@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:42:20.706Z
+date: 2025-09-03T13:44:03.312Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -23,6 +23,8 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Select all air fighters | Ctrl-F on Hotbuild
 - Select all navy units | Ctrl-S on Hotbuild 
 - Select nearest onscreen lowest tech idle mass extractor | Ctrl-I on Hotbuild
+- Select nearest idle engineer | Alt-Period on Hotbuild
+- Select your ACU | Alt-Comma on Hotbuild
 
 ## Mapreading
 ## Mapreading {.tabset}
