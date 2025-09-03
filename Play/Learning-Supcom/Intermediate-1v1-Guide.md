@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:31:36.870Z
+date: 2025-09-03T13:33:10.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -16,6 +16,7 @@ dateCreated: 2025-04-17T18:06:29.481Z
 With hotkeys coming as far as they have since the original SupCom, we encourage all players to start utilizing them. There are several presets that you can start with in Forged Alliance Forever, but we recommend the Hotbuild preset to start with. This preset will assign most buildings and actions you can do a hotkey, which you should begin practicing in hopes of making your gameplay quicker and more precise.  
 
 ### Recommended Hotkeys
+There are several hotkeys we can recommend you use at this level to help with your overall gameplay. 
 
 ## Mapreading
 ## Mapreading {.tabset}
