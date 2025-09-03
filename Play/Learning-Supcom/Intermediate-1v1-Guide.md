@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:04:26.724Z
+date: 2025-09-03T14:06:14.757Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -50,6 +50,22 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Select your ACU | Alt-Comma on Hotbuild
 #### Hotbuilding - Extra Keys
 - Build Energy Storage | 
+### Target Priorities 
+
+- ACU
+- Arty
+- Engs
+- EXP
+- Fighters 
+- Gunship 
+- Mex
+- PD
+- Power
+- Shields
+- SMD
+- Snipe
+- Units 
+- Default
 ## Mapreading
 ## Mapreading {.tabset}
 ### Introduction 
