@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:44:03.312Z
+date: 2025-09-03T13:47:23.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -18,6 +18,20 @@ With hotkeys coming as far as they have since the original SupCom, we encourage 
 ### Recommended Hotkeys
 There are several hotkeys we can recommend you use at this level to help with your overall gameplay. Some of these are:
 
+#### Orders
+- Attack
+- Attack (SHIFT version) - 
+- Capture
+- Move
+- Move (SHIFT version) - 
+- Overcharge - 
+- Pause
+- Reclaim - 
+- Repair - 
+- Stop and cancel all orders except the current one - 
+- Stop and canel all orders - 
+- Toggle factory repeat build
+- 
 #### Selection
 - Select all land on Screen | Ctrl-D (replace select all land with select all land on Screen)
 - Select all air fighters | Ctrl-F on Hotbuild
