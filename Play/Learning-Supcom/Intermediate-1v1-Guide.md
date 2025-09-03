@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:55:41.891Z
+date: 2025-09-03T14:04:26.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -48,7 +48,8 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Select nearest onscreen lowest tech idle mass extractor | Ctrl-I on Hotbuild
 - Select nearest idle engineer | Alt-Period on Hotbuild
 - Select your ACU | Alt-Comma on Hotbuild
-
+#### Hotbuilding - Extra Keys
+- Build Energy Storage | 
 ## Mapreading
 ## Mapreading {.tabset}
 ### Introduction 
