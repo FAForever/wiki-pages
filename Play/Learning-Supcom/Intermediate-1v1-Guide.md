@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:34:16.335Z
+date: 2025-09-03T14:41:20.740Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -26,16 +26,16 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Launch Tactical Missile | Ctrl-Alt-Shift-Q
 - Move |  Q 
 - Overcharge | Ctrl-X
-- Pause | 
+- Pause | Tab
 - Patrol | Z
 - Reclaim | A
 - Repair | Ctrl-Z
-- Stop and cancel all orders except the current one | 
-- Stop and canel all orders | 
-- Toggle factory repeat build | 
+- Stop and cancel all orders except the current one | Ctrl-Tab
+- Stop and canel all orders | Ctrl-Shift-Tab
+- Toggle factory repeat build | tilde
 
 #### Orders - Advanced
-- Interrupt Pathfinding of engineers | Ctrl-Shift-E
+- Interrupt Pathfinding of engineers | Ctrl-tilde
 - Load into transports | Ctrl-Shift-Y
 #### Orders - Queue Manipulation
 - Distribute Orders | Ctrl-Shift-E
