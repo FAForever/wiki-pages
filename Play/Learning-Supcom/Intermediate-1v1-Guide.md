@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:33:10.682Z
+date: 2025-09-03T13:42:20.706Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -16,7 +16,13 @@ dateCreated: 2025-04-17T18:06:29.481Z
 With hotkeys coming as far as they have since the original SupCom, we encourage all players to start utilizing them. There are several presets that you can start with in Forged Alliance Forever, but we recommend the Hotbuild preset to start with. This preset will assign most buildings and actions you can do a hotkey, which you should begin practicing in hopes of making your gameplay quicker and more precise.  
 
 ### Recommended Hotkeys
-There are several hotkeys we can recommend you use at this level to help with your overall gameplay. 
+There are several hotkeys we can recommend you use at this level to help with your overall gameplay. Some of these are:
+
+#### Selection
+- Select all land on Screen | Ctrl-D (replace select all land with select all land on Screen)
+- Select all air fighters | Ctrl-F on Hotbuild
+- Select all navy units | Ctrl-S on Hotbuild 
+- Select nearest onscreen lowest tech idle mass extractor | Ctrl-I on Hotbuild
 
 ## Mapreading
 ## Mapreading {.tabset}
