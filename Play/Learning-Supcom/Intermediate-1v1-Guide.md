@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:22:07.391Z
+date: 2025-09-03T14:27:58.130Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -37,7 +37,8 @@ There are several hotkeys we can recommend you use at this level to help with yo
 #### Orders - Advanced
 - Interrupt Pathfinding of engineers | Ctrl-Shift-E
 - Load into transports | Ctrl-Shift-Y
-
+#### Orders - Queue Manipulation
+- Distribute Orders | Ctrl-Shift-E
 #### Selection
 - Select all land on Screen | Ctrl-D (replace select all land with select all land on Screen)
 - Select all air fighters | Ctrl-F on Hotbuild
