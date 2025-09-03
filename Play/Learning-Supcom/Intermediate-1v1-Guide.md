@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:29:36.536Z
+date: 2025-09-03T14:30:30.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -45,6 +45,7 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Select all navy units | Ctrl-S on Hotbuild 
 - Select nearest onscreen lowest tech idle mass extractor | Ctrl-I on Hotbuild
 - Select nearest idle engineer | Alt-Period on Hotbuild | Ctrl-W
+- Select idle engineers onscreen | Space
 - Select your ACU | Alt-Comma on Hotbuild | Ctrl-X
 #### Hotbuilding - Extra Keys
 - Build Energy Storage | Your energy key 
