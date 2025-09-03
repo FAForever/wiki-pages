@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:41:34.096Z
+date: 2025-09-03T14:42:11.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -50,7 +50,9 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Cycle through unit types in selection (Land, Sea, Air) | Ctrl-E
 #### Hotbuilding - Extra Keys
 - Build Energy Storage | Your energy key 
-### Target Priorities 
+
+### Recommended UI mods for Hotkey Success!
+#### Target Priorities 
 - ACU
 - Arty
 - Engs
@@ -65,7 +67,6 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Snipe
 - Units 
 - Default
-### Recommended UI mods for Hotkey Success!
 
 ## Mapreading
 ## Mapreading {.tabset}
