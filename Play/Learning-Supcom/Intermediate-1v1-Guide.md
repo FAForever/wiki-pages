@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:47:23.423Z
+date: 2025-09-03T13:49:19.753Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -19,10 +19,11 @@ With hotkeys coming as far as they have since the original SupCom, we encourage 
 There are several hotkeys we can recommend you use at this level to help with your overall gameplay. Some of these are:
 
 #### Orders
-- Attack
+- Assist - 
+- Attack - 
 - Attack (SHIFT version) - 
-- Capture
-- Move
+- Capture - 
+- Move - 
 - Move (SHIFT version) - 
 - Overcharge - 
 - Pause
