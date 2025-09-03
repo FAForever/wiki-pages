@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:06:14.757Z
+date: 2025-09-03T14:10:02.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -51,7 +51,6 @@ There are several hotkeys we can recommend you use at this level to help with yo
 #### Hotbuilding - Extra Keys
 - Build Energy Storage | 
 ### Target Priorities 
-
 - ACU
 - Arty
 - Engs
@@ -66,6 +65,8 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Snipe
 - Units 
 - Default
+### Recommended UI mods for Hotkey Success!
+
 ## Mapreading
 ## Mapreading {.tabset}
 ### Introduction 
