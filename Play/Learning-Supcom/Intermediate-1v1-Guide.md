@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:10:02.776Z
+date: 2025-09-03T14:14:20.651Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -21,13 +21,10 @@ There are several hotkeys we can recommend you use at this level to help with yo
 #### Orders
 - Assist - 
 - Attack - 
-- Attack (SHIFT version) - 
 - Capture - 
 - Immediately kill selected units | Ctrl-K On Hotbuild
 - Launch Tactical Missile | 
-- Launch Tactical Missile (SHIFT version) | 
-- Move - 
-- Move (SHIFT version) - 
+- Move -  
 - Overcharge - 
 - Pause
 - Reclaim - 
@@ -38,9 +35,7 @@ There are several hotkeys we can recommend you use at this level to help with yo
 
 #### Orders - Advanced
 - Interrupt Pathfinding of engineers |
-- Interrupt Pathfinding of engineers (SHIFT version) |
 - Load into transports | 
-- Load into transports (SHIFT version) | 
 #### Selection
 - Select all land on Screen | Ctrl-D (replace select all land with select all land on Screen)
 - Select all air fighters | Ctrl-F on Hotbuild
