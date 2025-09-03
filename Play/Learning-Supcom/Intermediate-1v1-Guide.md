@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:14:20.651Z
+date: 2025-09-03T14:22:07.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -19,23 +19,25 @@ With hotkeys coming as far as they have since the original SupCom, we encourage 
 There are several hotkeys we can recommend you use at this level to help with your overall gameplay. Some of these are:
 
 #### Orders
-- Assist - 
-- Attack - 
-- Capture - 
+- Assist | Ctrl-Alt-A
+- Attack | Ctrl-Q
+- Capture | Ctrl-A
 - Immediately kill selected units | Ctrl-K On Hotbuild
-- Launch Tactical Missile | 
-- Move -  
-- Overcharge - 
-- Pause
-- Reclaim - 
-- Repair - 
-- Stop and cancel all orders except the current one - 
-- Stop and canel all orders - 
-- Toggle factory repeat build- 
+- Launch Tactical Missile | Ctrl-Alt-Shift-Q
+- Move |  Q 
+- Overcharge | 
+- Pause | 
+- Patrol | Z
+- Reclaim | A
+- Repair | Ctrl-Z
+- Stop and cancel all orders except the current one | 
+- Stop and canel all orders | 
+- Toggle factory repeat build | 
 
 #### Orders - Advanced
-- Interrupt Pathfinding of engineers |
-- Load into transports | 
+- Interrupt Pathfinding of engineers | Ctrl-Shift-E
+- Load into transports | Ctrl-Shift-Y
+
 #### Selection
 - Select all land on Screen | Ctrl-D (replace select all land with select all land on Screen)
 - Select all air fighters | Ctrl-F on Hotbuild
@@ -44,7 +46,7 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Select nearest idle engineer | Alt-Period on Hotbuild
 - Select your ACU | Alt-Comma on Hotbuild
 #### Hotbuilding - Extra Keys
-- Build Energy Storage | 
+- Build Energy Storage | Your energy key 
 ### Target Priorities 
 - ACU
 - Arty
