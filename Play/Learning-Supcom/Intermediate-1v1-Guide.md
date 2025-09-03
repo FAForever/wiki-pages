@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T13:51:10.860Z
+date: 2025-09-03T13:51:17.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -23,7 +23,7 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Attack - 
 - Attack (SHIFT version) - 
 - Capture - 
-- Immediately kill selected units - Ctrl-K On Hotbuild
+- Immediately kill selected units | Ctrl-K On Hotbuild
 - Move - 
 - Move (SHIFT version) - 
 - Overcharge - 
