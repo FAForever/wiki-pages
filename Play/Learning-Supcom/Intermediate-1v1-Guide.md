@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-06-13T20:43:45.714Z
+date: 2025-09-03T13:31:36.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -13,7 +13,7 @@ dateCreated: 2025-04-17T18:06:29.481Z
 ## Hotkeys
 ## Hotkeys {.tabset}
 ### Hotbuild Preset
-With hotkeys coming as far as they have since the original SupCom, we encourage all players to start utilizing them. There are several presets that you can start with in Forged Alliance Forever, but we recommend the Hotbuild preset to start with. 
+With hotkeys coming as far as they have since the original SupCom, we encourage all players to start utilizing them. There are several presets that you can start with in Forged Alliance Forever, but we recommend the Hotbuild preset to start with. This preset will assign most buildings and actions you can do a hotkey, which you should begin practicing in hopes of making your gameplay quicker and more precise.  
 
 ### Recommended Hotkeys
 
@@ -42,7 +42,8 @@ With hotkeys coming as far as they have since the original SupCom, we encourage 
 
 ## T2 Air
 ## T2 Air {.tabset}
-### 
+### How to utilise T2 air 
+### How to counter T2 air 
 
 ## Expanded ACU Usage
 ## Expanded ACU Usage {.tabset}
