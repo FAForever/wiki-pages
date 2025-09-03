@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:41:20.740Z
+date: 2025-09-03T14:41:34.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -24,7 +24,7 @@ There are several hotkeys we can recommend you use at this level to help with yo
 - Capture | Ctrl-A
 - Immediately kill selected units | Ctrl-K On Hotbuild
 - Launch Tactical Missile | Ctrl-Alt-Shift-Q
-- Move |  Q 
+- Move | Q 
 - Overcharge | Ctrl-X
 - Pause | Tab
 - Patrol | Z
