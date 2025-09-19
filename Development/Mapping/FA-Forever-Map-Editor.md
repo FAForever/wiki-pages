@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2023-07-16T14:01:01.406Z
+date: 2025-09-19T21:18:04.944Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -417,7 +417,7 @@ For information on how to make decent markers, please refer to [Thisforumpost](h
 
 ### Chains
 
-\[TODO\]
+Campaign maps rely heavily on chains
 
 ### Adaptive map
 
