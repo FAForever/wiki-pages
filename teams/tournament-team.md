@@ -2,8 +2,8 @@
 title: tournament-team
 description: 
 published: true
-date: 2025-10-02T14:28:24.249Z
-tags: 
+date: 2025-10-02T14:30:18.386Z
+tags: team, tournament team, tournaments, qualifiers, invitational
 editor: markdown
 dateCreated: 2021-08-31T09:45:35.852Z
 ---
