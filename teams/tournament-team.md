@@ -2,7 +2,7 @@
 title: tournament-team
 description: 
 published: true
-date: 2025-10-02T14:30:18.386Z
+date: 2025-10-02T14:37:11.356Z
 tags: team, tournament team, tournaments, qualifiers, invitational
 editor: markdown
 dateCreated: 2021-08-31T09:45:35.852Z
@@ -14,11 +14,17 @@ Welcome to the documentation of the tournament team! You can learn more about co
 
 ## Documentation
 
-### How to host a team
+### [How to host a team](teams/tournament-team/how-to)
 
-### Tournament formats
+All you need to learn about how to host a decent tournament for FAForever. The article describes a general procedure on how to organize a tournament with additional context so that you can make a grounded choice.
 
-### Team statutes
+### [Tournament formats](teams/tournament-team/formats)
+
+There are many type of tournament formats. By all means, this is almost a science on its own. This article provides you an overview of common tournament formats that worked in the past for FAForever. 
+
+### [Tournament statutes](teams/tournament-team/statutes)
+
+The statutes of the tournament team. It describes the various roles that are necessary to keep the tournament scene of FAForever going in the future. 
 
 ## History
 
