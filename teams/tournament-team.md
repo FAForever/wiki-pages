@@ -2,7 +2,7 @@
 title: tournament-team
 description: 
 published: true
-date: 2025-10-02T14:40:46.146Z
+date: 2025-10-02T14:48:53.987Z
 tags: team, tournament team, tournaments, qualifiers, invitational
 editor: markdown
 dateCreated: 2021-08-31T09:45:35.852Z
@@ -46,36 +46,85 @@ The statutes of the tournament team. It describes the various roles that are nec
 
 #### Summer invitational series
 
-- Summer Invitational (https://forum.faforever.com/topic/9361/2025-summer-invitational/1)
-- Summer Invitational Open Qualifier (https://forum.faforever.com/topic/9362/2025-summer-invitational-qualifier/1)
+- [Summer Invitational](tournaments/2025/summer-invitational) 
+
+(https://forum.faforever.com/topic/9361/2025-summer-invitational/1)
+
+- [Summer Invitational Open Qualifier](tournaments/2025/summer-invitational-open-qualifier)
+
+(https://forum.faforever.com/topic/9362/2025-summer-invitational-qualifier/1)
 
 #### Under 1100 series
 
-- Under 1100 Tournament II (https://forum.faforever.com/topic/8662/u1100-tournament-ii/1)
-- Under 1100 Tournament III (https://forum.faforever.com/topic/8897/u1100-1v1-tournament-iii/1)
-- Under 1100 Tournament IV (https://forum.faforever.com/topic/9081/u1100-1v1-tournament-iv/1)
-- Under 1100 Tournament VI (https://forum.faforever.com/topic/9508/u1100-1v1-tournament-vi/1)
+- [Under 1100 Tournament II](tournaments/2025/under-1100-ii)
+
+(https://forum.faforever.com/topic/8662/u1100-tournament-ii/1)
+
+- [Under 1100 Tournament III](tournaments/2025/under-1100-iii)
+
+(https://forum.faforever.com/topic/8897/u1100-1v1-tournament-iii/1)
+ 
+- [Under 1100 Tournament IV](tournaments/2025/under-1100-iv)
+
+(https://forum.faforever.com/topic/9081/u1100-1v1-tournament-iv/1)
+
+- [Under 1100 Tournament VI](tournaments/2025/under-1100-vi)
+
+(https://forum.faforever.com/topic/9508/u1100-1v1-tournament-vi/1)
 
 #### Under 1500 seies
 
-- Under 1500 Tournament III (https://forum.faforever.com/topic/8777/u1500-1v1-tournament-3/1)
-- Under 1500 Tournament IV (https://forum.faforever.com/topic/9144/u1500-1v1-tournament-iv/1)
-- Under 1500 Tournament V (https://forum.faforever.com/topic/9400/u1500-1v1-tournament-v/1)
+- [Under 1500 Tournament III](tournaments/2025/under-1500-iii)
+
+(https://forum.faforever.com/topic/8777/u1500-1v1-tournament-3/1)
+
+- [Under 1500 Tournament IV](tournaments/2025/under-1500-iv)
+
+(https://forum.faforever.com/topic/9144/u1500-1v1-tournament-iv/1)
+
+- [Under 1500 Tournament V](tournaments/2025/under-1500-v)
+
+(https://forum.faforever.com/topic/9400/u1500-1v1-tournament-v/1)
 
 #### Under 1900 series
 
-- Under 1900 Tournament - Mapgen Edition (https://forum.faforever.com/topic/8735/u1900-1v1-tournament-mapgen-edition/1)
-- Under 1900 Tournament III (https://forum.faforever.com/topic/8897/u1100-1v1-tournament-iii/1)
-- Under 1900 Tournament IV (https://forum.faforever.com/topic/9300/u1900-1v1-tournament-4-july-12th/1)
-- Under 1900 Tournament V (https://forum.faforever.com/topic/9443/u1900-1v1-v/1)
+- [Under 1900 Tournament - Mapgen Edition](tournaments/2025/under-1900-mapgen-edition) 
+
+(https://forum.faforever.com/topic/8735/u1900-1v1-tournament-mapgen-edition/1)
+
+- [Under 1900 Tournament III](tournaments/2025/under-1900-iii)
+
+ (https://forum.faforever.com/topic/8897/u1100-1v1-tournament-iii/1)
+
+- [Under 1900 Tournament IV](tournaments/2025/under-1900-iv)
+
+ (https://forum.faforever.com/topic/9300/u1900-1v1-tournament-4-july-12th/1)
+
+- [Under 1900 Tournament V](tournaments/2025/under-1900-v)
+
+ (https://forum.faforever.com/topic/9443/u1900-1v1-v/1)
 
 #### Double Allied series
 
-- Double Allied Tournament II (https://forum.faforever.com/topic/7656/double-allied-tournament-2v2/1)
-- Double Allied Tournament IV (https://forum.faforever.com/topic/8910/double-allied-tournament-4/1)
+- [Double Allied Tournament II](tournaments/2025/double-allied-tournament-ii)
+
+ (https://forum.faforever.com/topic/7656/double-allied-tournament-2v2/1)
+
+- [Double Allied Tournament IV](tournaments/2025/double-allied-tournament-iv)
+
+ (https://forum.faforever.com/topic/8910/double-allied-tournament-4/1)
 
 #### Other series
 
-- Rainbow Cup VIII (https://forum.faforever.com/topic/8644/rcviii-mars-attacks-4v4-2-100/1)
-- Seton's Tournament 2025 (https://forum.faforever.com/topic/9544/seton-s-clutch-tournament-2025/1)
+- [Rainbow Cup VIII](tournaments/2025/rainbow-cup-viii)
+
+ (https://forum.faforever.com/topic/8644/rcviii-mars-attacks-4v4-2-100/1)
+
+- [Seton's Tournament 2025](tournaments/2025/setons-tournament) 
+
+(https://forum.faforever.com/topic/9544/seton-s-clutch-tournament-2025/1)
+
+- [Challenger Cups](tournaments/2025/challengers-cup)
+
+(https://forum.faforever.com/topic/9241/challengers-cup-4v4-u6000/1)
 
