@@ -2,7 +2,7 @@
 title: tournament-team
 description: 
 published: true
-date: 2025-10-02T14:37:34.309Z
+date: 2025-10-02T14:40:24.799Z
 tags: team, tournament team, tournaments, qualifiers, invitational
 editor: markdown
 dateCreated: 2021-08-31T09:45:35.852Z
@@ -32,9 +32,17 @@ The statutes of the tournament team. It describes the various roles that are nec
 
 #### Spring invitational series
 
-- Spring Invitational Open Qualifier (https://forum.faforever.com/topic/9092/2025-spring-invitational-open-qualifier/1)
-- Spring Invitational Group Stage (https://forum.faforever.com/topic/9175/2025-spring-invitational-group-stage/1)
-- Spring Invitational (https://forum.faforever.com/topic/9076/2025-spring-invitational/1)
+- [Spring Invitational Open Qualifier](tournaments/2025/spring-invitational-open-qualifier) 
+
+(https://forum.faforever.com/topic/9092/2025-spring-invitational-open-qualifier/1)
+
+- [Spring Invitational Group Stage](tournaments/2025/spring-invitational-group-stage) 
+
+(https://forum.faforever.com/topic/9175/2025-spring-invitational-group-stage/1)
+
+- [Spring Invitational](tournaments/2025/spring-invitational) 
+
+(https://forum.faforever.com/topic/9076/2025-spring-invitational/1)
 
 #### Summer invitational series
 
