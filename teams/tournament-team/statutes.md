@@ -2,7 +2,7 @@
 title: Tournament team statutes
 description: The mission statement of the tournament team
 published: true
-date: 2025-10-03T07:40:22.977Z
+date: 2025-10-03T07:46:37.984Z
 tags: tournament, team, statutes, tournament team, graphic designer
 editor: markdown
 dateCreated: 2025-10-03T07:40:22.977Z
@@ -62,6 +62,8 @@ Tournament Directors ensure tournaments run smoothly on the event days. Working 
 - Assisting participants with questions and resolving issues during the tournament.
 - Managing and recording game results accurately.
 - Formatting results in a clear, structured way for verification and post-event documentation.
+
+Becoming a Tournament Director is also the easiest step toward becoming a Tournament Organizer. By directing onr or more tournaments you gain hands-on experience with the details of planning, coordinating, and running tournaments. This is the most natural way to learn how to organize your own tournaments.
 
 ### Graphic designer
 
