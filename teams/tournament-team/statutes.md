@@ -2,7 +2,7 @@
 title: Tournament team statutes
 description: The mission statement of the tournament team
 published: true
-date: 2025-10-03T07:59:17.576Z
+date: 2025-10-03T07:59:43.187Z
 tags: tournament, team, statutes, tournament team, graphic designer
 editor: markdown
 dateCreated: 2025-10-03T07:40:22.977Z
@@ -37,7 +37,7 @@ We work closely with the Promotions and FAF Live teams to build anticipation, pr
 
 It is important to understand that all tournament team members (and contributors in general) are expected to act in accordance with the [Code of Conduct](https://forum.faforever.com/topic/2051/faf-code-of-conduct/1) of our community. This includes, but is not limited to:
 
- - Be open
+ - Be welcoming
  - Be empathetic, welcoming, friendly, and patient
  - Be collaborative
  - Be inquisitive
