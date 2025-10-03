@@ -2,7 +2,7 @@
 title: Tournament team statutes
 description: The mission statement of the tournament team
 published: true
-date: 2025-10-03T07:54:59.328Z
+date: 2025-10-03T07:59:17.576Z
 tags: tournament, team, statutes, tournament team, graphic designer
 editor: markdown
 dateCreated: 2025-10-03T07:40:22.977Z
@@ -32,6 +32,19 @@ dateCreated: 2025-10-03T07:40:22.977Z
 As the Tournament Team, we strive to host events that challenge, inspire, and connect players. We foster fair competition by designing tournament formats with specific audiences in mind. Through this we create memorable experiences for the participants and the FAForever community as a whole.
 
 We work closely with the Promotions and FAF Live teams to build anticipation, provide live coverage and in general cultivate an atmosphere of excitement that extends beyond the matches of the tournaments themselves.
+
+## Code of Conduct
+
+It is important to understand that all tournament team members (and contributors in general) are expected to act in accordance with the [Code of Conduct](https://forum.faforever.com/topic/2051/faf-code-of-conduct/1) of our community. This includes, but is not limited to:
+
+ - Be open
+ - Be empathetic, welcoming, friendly, and patient
+ - Be collaborative
+ - Be inquisitive
+ - Be careful in the words that we choose
+ - Be concise
+ - Step down considerately
+
 
 ## Roles
 
@@ -76,18 +89,6 @@ This may involve one or more of the following:
 - Creating reusable assets that can be adapted easily for recurring tournaments or series.
 
 To reduce the burden of contribution in general, assets should be versatile and require minimal effort to adapt. For example, many tournament series only need minor adjustments such as changing the title, background image, or color hue. See examples of high-quality, reusable thumbnails on our [YouTube channel](https://www.youtube.com/@ForgedAllianceForever/playlists).
-
-## Code of Conduct
-
-It is important to understand that all tournament team members (and contributors in general) are expected to act in accordance with the [Code of Conduct](https://forum.faforever.com/topic/2051/faf-code-of-conduct/1) of our community. This includes, but is not limited to:
-
- - Be open
- - Be empathetic, welcoming, friendly, and patient
- - Be collaborative
- - Be inquisitive
- - Be careful in the words that we choose
- - Be concise
- - Step down considerately
 
 ## License
  
