@@ -2,7 +2,7 @@
 title: Tournament team statutes
 description: The mission statement of the tournament team
 published: true
-date: 2025-10-03T07:46:37.984Z
+date: 2025-10-03T07:54:50.126Z
 tags: tournament, team, statutes, tournament team, graphic designer
 editor: markdown
 dateCreated: 2025-10-03T07:40:22.977Z
@@ -49,6 +49,7 @@ This may involve one or more of the following:
 - Appointing one or more Tournament Directors.
 - Writing and publishing the forum announcement.
 - Managing signups and, when applicable, any selection phase.
+- Discuss with the tournament team lead the prizes of the tournament.
 
 And after the tournament:
 
