@@ -2,7 +2,7 @@
 title: Tournament team statutes
 description: The mission statement of the tournament team
 published: true
-date: 2025-10-03T07:59:43.187Z
+date: 2025-10-03T08:03:10.939Z
 tags: tournament, team, statutes, tournament team, graphic designer
 editor: markdown
 dateCreated: 2025-10-03T07:40:22.977Z
@@ -86,7 +86,7 @@ A picture is worth a thousand words. Graphics Designers play a key role in enhan
 This may involve one or more of the following:
 
 - Designing assets that represent the tournament and FAForever in a polished way.
-- Creating reusable assets that can be adapted easily for recurring tournaments or series.
+- In general, create assets that can be adapted conveniently for recurring tournaments or series.
 
 To reduce the burden of contribution in general, assets should be versatile and require minimal effort to adapt. For example, many tournament series only need minor adjustments such as changing the title, background image, or color hue. See examples of high-quality, reusable thumbnails on our [YouTube channel](https://www.youtube.com/@ForgedAllianceForever/playlists).
 
