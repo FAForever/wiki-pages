@@ -2,7 +2,7 @@
 title: Tournament team statutes
 description: The mission statement of the tournament team
 published: true
-date: 2025-10-03T07:54:50.126Z
+date: 2025-10-03T07:54:59.328Z
 tags: tournament, team, statutes, tournament team, graphic designer
 editor: markdown
 dateCreated: 2025-10-03T07:40:22.977Z
@@ -47,9 +47,9 @@ This may involve one or more of the following:
 - Working with the FAF Live team to secure casters and coverage.
 - Checking for scheduling conflicts with the Game and DevOps teams.
 - Appointing one or more Tournament Directors.
+- Discuss with the tournament team lead the prizes of the tournament.
 - Writing and publishing the forum announcement.
 - Managing signups and, when applicable, any selection phase.
-- Discuss with the tournament team lead the prizes of the tournament.
 
 And after the tournament:
 
