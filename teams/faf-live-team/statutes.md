@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-16T14:55:42.064Z
+date: 2025-10-16T15:19:38.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
