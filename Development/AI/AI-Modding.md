@@ -2,7 +2,7 @@
 title: AI-Modding
 description: 
 published: true
-date: 2024-10-19T21:52:37.426Z
+date: 2025-10-16T07:37:42.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:41:53.721Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-31T09:41:53.721Z
 
 # AI Modding
 ## Overview - Custom AI development
-FAF has a number of custom AI available via mods - a [separate summary is available of the various custom AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them.
+FAF has a number of custom AI available via mods - a [separate summary is available of the various custom AI available](https://wiki.faforever.com/en/Development/AI/Custom-AIs) and how to play against them, while for map creators see also a [page on how to make maps more AI friendly](https://wiki.faforever.com/en/Development/Mapping/ai-friendly-maps).
 
 The below page is for if you are interested in creating your AI in FAF.  AI development in FAF uses LUA, with details given below for setting up a development environment for writing code in LUA.
 
@@ -211,6 +211,10 @@ The following is an example of how to get your own repository setup for your AI,
   - Once you're happy with a collection of changes and are ready to release your AI, then you can do a pull request to incorporate your branch into the 'main' branch of your repository (this way, 'main' will be the latest release version, while your branches will be the position for each individual version worked on)
   - You could also use branches to test out different competing ideas/changes - tutorials are available elsewhere online on using github, branches, etc.
   - Mini27AI is deliberately intended as a 'barebones' illustration/proof of concept of how to do certain AI tasks, with various aspects that could be easily improved.  For example, you might choose to add in engineer logic (both getting the land factory to build engineers, and then assigning orders to engineers) - the existing code should indicate how this can be achieved by copying some of the existing code and tweaking the copied code and category references.
+
+* Examples of areas for improvement
+The AI development discord includes some comments from a discussion on areas you could look at improving if using Mini27 as a base for your own custom AI which may be a useful reference point:
+https://discord.com/channels/619646141306503181/619653654928162846/1428280784422436884
 
 ## (GPG style AI) Coding Overview: How to create/edit an AI in FAF
 The following diagram illustrates the code you might need or want to edit to create an AI using the default framework (see later on for the Mini27AI example for an alternative approach that operates outside this framework):
