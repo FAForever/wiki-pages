@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-19T15:31:20.628Z
+date: 2025-10-19T15:48:19.830Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
@@ -42,11 +42,29 @@ It is important to understand that all tournament team members (and contributors
 
 ## Roles
 
-### FAFLive Team Role 
+### Video editor
 
-### 
+For creation of ... ?
 
-### Associate Casters/Streamers 
+### Graphics designer
+
+For creation of banners, thumbnails, UI, etc.
+
+### Content creators
+
+The input for video editors
+
+#### Caster
+
+Pre-recorded 
+
+#### Streamers
+
+Live
+
+### Channel manager
+
+Organize (access to) a channel such as Twitch or YouTube, to manage the uploading of content, its metadata such as descriptions or thumbnails and of course when it is released
 
 ## License
 
