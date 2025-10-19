@@ -2,7 +2,7 @@
 title: Slope
 description: 
 published: true
-date: 2025-10-19T10:51:30.040Z
+date: 2025-10-19T10:53:53.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T10:50:32.890Z
@@ -10,14 +10,14 @@ dateCreated: 2025-10-19T10:50:32.890Z
 
 # Slope
 
-A slope is similar to a [hill](../hill) except that it takes you from one elevation level to another. It is conceptually similar to a stretched out ramp. However, just like a hill a slope is usually infamous among players. A slope is often visually difficult to see. But structures require terrain to be reasonably flat in order to build them. The player may be frustrated to find a build site for larger structures such as a factory. 
+A slope is conceptually similar to a stretched out ramp. It (usually) takes you from one elevation level to another elevation level. The common problem with slopes is that it's usually difficult to see from the standard top-down view while it actively impedes your ability to build structures. The use of (too many) slopes can therefore be frustrating to players.
 
 ## Tabs {.tabset}
 ### Long John Silver
 
 ![A subtle slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-01.png =700x)
 
-Example of a subtle slope on the map Long John Silver. The slope is visually not distinctive from the standard top-down view.
+Example of a subtle slope on the map Long John Silver that is problematic.
 
 ![An accentuated slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-02.png =700x)
 
@@ -27,7 +27,7 @@ Example of a clearly accentuated slope through stratum masks and decals. It's cl
 
 ![slope-burial-mounds-01.png](/teams/matchmaker-team/slope-burial-mounds-01.png =700x)
 
-Example of a subtle slope or hill on the map Burial Mounds.
+Example of a subtle slope or hill on the map Burial Mounds that is problematic.
 
 ![slope-burial-mounds-02.png](/teams/matchmaker-team/slope-burial-mounds-02.png =700x)
 
