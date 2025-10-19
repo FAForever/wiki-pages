@@ -2,7 +2,7 @@
 title: Slope
 description: 
 published: true
-date: 2025-10-19T10:50:32.890Z
+date: 2025-10-19T10:51:30.040Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T10:50:32.890Z
@@ -15,21 +15,21 @@ A slope is similar to a [hill](../hill) except that it takes you from one elevat
 ## Tabs {.tabset}
 ### Long John Silver
 
-![A subtle slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-01.png =700x){.align-center}
+![A subtle slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-01.png =700x)
 
 Example of a subtle slope on the map Long John Silver. The slope is visually not distinctive from the standard top-down view.
 
-![An accentuated slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-02.png =700x){.align-center}
+![An accentuated slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-02.png =700x)
 
 Example of a clearly accentuated slope through stratum masks and decals. It's clear to the user that the user should not expect to be able to build here.
 
 ### Burial Mounds
 
-![slope-burial-mounds-01.png](/teams/matchmaker-team/slope-burial-mounds-01.png =700x){.align-center}
+![slope-burial-mounds-01.png](/teams/matchmaker-team/slope-burial-mounds-01.png =700x)
 
 Example of a subtle slope or hill on the map Burial Mounds.
 
-![slope-burial-mounds-02.png](/teams/matchmaker-team/slope-burial-mounds-02.png =700x){.align-center}
+![slope-burial-mounds-02.png](/teams/matchmaker-team/slope-burial-mounds-02.png =700x)
 
 Another example of a subtle long slope in the corners of Burial Mounds. You'd expect the factories in the middle to be legitimate build locations, but they're not.
 
