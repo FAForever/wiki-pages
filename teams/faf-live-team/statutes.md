@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-19T15:56:05.219Z
+date: 2025-10-19T16:10:44.721Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
@@ -86,3 +86,7 @@ The FAF Live team manages the following accounts:
 - [YouTube](https://www.youtube.com/@ForgedAllianceForever). The channel is a [brand account](https://support.google.com/youtube/answer/7001996) and team members can collaborate by having their personal Google accounts being provided permission to act as the brand.
 
 - ..., somewhere to upload the gigabytes of content.
+
+## Organization
+
+Talk about the organization of media assets on Discord
