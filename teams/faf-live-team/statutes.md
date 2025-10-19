@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-16T15:19:38.257Z
+date: 2025-10-19T15:16:49.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
@@ -17,6 +17,13 @@ dateCreated: 2025-10-14T21:06:22.337Z
 ## Team members
  - Strydrx
  - Hybrid 
+ - Derp
+ - Endranii
+ - FoleyBTS
+ - SpikeyNoob
+ - Willow
+ - Syndicus
+ 
 ## Mission Statement
 FAF Productions Team mission is to deliver quality content across our platforms through streams and video uploads that highlight events hosted by the community.
 ## Code of conduct
