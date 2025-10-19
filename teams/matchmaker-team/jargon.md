@@ -2,7 +2,7 @@
 title: Jargon about terrain topology
 description: An introduction to various definitions to make it more convenient to discuss and reason about a map.
 published: true
-date: 2025-10-19T11:39:26.826Z
+date: 2025-10-19T19:25:54.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:35:25.438Z
@@ -19,6 +19,7 @@ In this section we introduce various jargon to help discuss and reason about the
 - [Flat](flat)
 - [Hill](hill)
 - [Slope](slope)
+- [Cliff](cliff)
 - [Ridge](ridge)
 - [Ramps](ramp)
 - [Elevation](elevation)
