@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-19T15:48:19.830Z
+date: 2025-10-19T15:56:05.219Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
@@ -62,6 +62,10 @@ Pre-recorded
 
 Live
 
+#### Voice actors
+
+.... ?
+
 ### Channel manager
 
 Organize (access to) a channel such as Twitch or YouTube, to manage the uploading of content, its metadata such as descriptions or thumbnails and of course when it is released
@@ -76,8 +80,9 @@ We also encourage for all the sources to be released with a similar license. By 
 
 The FAF Live team manages the following accounts:
 
-- Twitch
+- [Twitch](https://www.twitch.tv/faflive). Team members can collaborate [by being given permission](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US#Authorized) to stream on the channel. Note that the primary stream key should never be shared, as the warning suggests.
+- - In addition there is a [nightbot](https://nightbot.tv) and [streamlabs](https://streamlabs.com/) account directly connected to the Twitch account. You may need to re-authorize when trying to log in - that is fine.
 
-- YouTube
+- [YouTube](https://www.youtube.com/@ForgedAllianceForever). The channel is a [brand account](https://support.google.com/youtube/answer/7001996) and team members can collaborate by having their personal Google accounts being provided permission to act as the brand.
 
-TODO!
+- ..., somewhere to upload the gigabytes of content.
