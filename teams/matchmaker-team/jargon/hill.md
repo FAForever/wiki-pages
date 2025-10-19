@@ -2,7 +2,7 @@
 title: Map topology - Hills
 description: 
 published: true
-date: 2025-10-19T11:36:11.681Z
+date: 2025-10-19T11:36:46.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:44:17.682Z
@@ -29,7 +29,7 @@ Example of a hill in Archsimkats Valley where the hill is accentuated with the u
 
 ![An accentuated hill on Theta Passage](/teams/matchmaker-team/hills-theta-passage.png =700x)
 
-Example of a hill in the center of Theta Passage where the hill is accentuated with the use of a stratum mask and decals. 
+Example of a hill in the center of Theta Passage where the hill is accentuated with the use of a stratum mask, decals and subtle lighting changes.
 
 ## Guidelines
 
