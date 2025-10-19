@@ -2,7 +2,7 @@
 title: Map topology - Hills
 description: 
 published: true
-date: 2025-10-19T10:09:59.792Z
+date: 2025-10-19T11:36:11.681Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:44:17.682Z
@@ -15,15 +15,21 @@ Hills are height differences in the terrain that do not block units. They are us
 ## Tabs {.tabset}
 ### Finn's Revenge
 
-![A subtle hill on the map Finn's Revenge](/teams/matchmaker-team/hills-finns-revenge.png "A subtle hill on the map Finn's Revenge" =700x){.align-center}
+![A subtle hill on the map Finn's Revenge](/teams/matchmaker-team/hills-finns-revenge.png =700x)
 
 Example of a subtle hill in an original map Finn's Revenge. The walls help visualize the hill. This particular hill is infamous, it is difficult to see for the user but it can be devastating for the damage output of units.
 
 ### Archsimkats Valley
 
-![An accentuated hill on Archsimkats Valley](/teams/matchmaker-team/hills-archsimkat-valley.png "An accentuated hill on Archsimkats Valley" =700x){.align-center}
+![An accentuated hill on Archsimkats Valley](/teams/matchmaker-team/hills-archsimkat-valley.png =700x)
 
 Example of a hill in Archsimkats Valley where the hill is accentuated with the use of a stratum mask and decals. 
+
+### Theta Passage
+
+![An accentuated hill on Theta Passage](/teams/matchmaker-team/hills-theta-passage.png =700x)
+
+Example of a hill in the center of Theta Passage where the hill is accentuated with the use of a stratum mask and decals. 
 
 ## Guidelines
 
