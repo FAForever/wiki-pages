@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-20T18:32:11.664Z
+date: 2025-10-20T19:50:47.140Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
@@ -26,7 +26,7 @@ dateCreated: 2025-10-14T21:06:22.337Z
  
 ## Mission Statement
 
-FAF Productions Team mission is to deliver quality content across our platforms through streams and video uploads that highlight events hosted by the community. These events range from personal trainings, the community game nights, authoring maps and mods of all kinds all the way up to tournaments.
+FAF Productions Team mission is to deliver quality content across our platforms through streams and video uploads that highlight events hosted by the community. These events range from personal trainings, the community game nights, authoring maps and mods of all kinds, casting of regular games and tournaments.
 
 ## Code of conduct
 
