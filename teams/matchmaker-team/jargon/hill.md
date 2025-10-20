@@ -2,7 +2,7 @@
 title: Map topology - Hills
 description: 
 published: true
-date: 2025-10-20T15:23:09.203Z
+date: 2025-10-20T18:53:11.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:44:17.682Z
@@ -30,6 +30,12 @@ Example of a hill in Archsimkats Valley where the hill is accentuated with the u
 ![An accentuated hill on Theta Passage](/teams/matchmaker-team/hills-theta-passage.png =700x)
 
 Example of a hill in the center of Theta Passage where the hill is accentuated with the use of a stratum mask, decals and subtle lighting changes.
+
+### Strip Mine :green_circle:
+
+![An accentuated hill on Strip Mine](/teams/matchmaker-team/hills-strip-mine.png =700x)
+
+Example of one of the many well designed hills that are all accentuated with stratum masks, decals and subtle lighting changes on the map Strip Mine.
 
 ## Guidelines
 
