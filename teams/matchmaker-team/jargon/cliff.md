@@ -2,7 +2,7 @@
 title: Cliff
 description: 
 published: true
-date: 2025-10-20T05:30:59.761Z
+date: 2025-10-20T05:31:30.861Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -18,9 +18,9 @@ Air units are sensitive to excessive height changes above land. If the rate of h
 
 A few simple guidelines:
 
-- Small cliffs of the size of a tech 1 power generator should not have more height difference than a Brick.
-- Medium cliffs of the size of a tech 2 power generator should not have more height difference than a Monkey Lord.
-- Large cliffs of the size of a tech 3 power generator should not have more height difference than a Megalith. 
+- Small cliffs of the size of a tech 1 power generator (2x2) should not have more height difference than a Brick.
+- Medium cliffs of the size of a tech 2 power generator (6x6) should not have more height difference than a Monkey Lord.
+- Large cliffs of the size of a tech 3 power generator (8x8) should not have more height difference than a Megalith. 
 
 In general any elevation difference between a lower ground and an upper ground should not be higher than a Megalith. All projectiles in this game are simulated. They rely on computing a firing trajectory. Especially for tech 1 artillery, when the difference in height is larger than a Megalith chances are that they're unable to find a firing trajectory and therefore refuse to fire even though the target is in range. The player usually does not anticipate this and therefore it is a frustrating experience.
 
