@@ -2,7 +2,7 @@
 title: Cliff
 description: 
 published: true
-date: 2025-10-20T15:21:30.815Z
+date: 2025-10-20T15:21:55.937Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -13,13 +13,13 @@ dateCreated: 2025-10-19T19:53:35.835Z
 A cliff is the most basic feature to influence how land units navigate. When terrain that is above water is too steep it blocks the pathing of land, amphibious and hover units. The same applies for amphibious units for terrain that is below water. 
 
 ## Tabs {.tabset}
-### Williamson's Bridge :white_check_mark:
+### Williamson's Bridge :green_circle:
 
 ![Image of a Megalith next to a cliff on the map Williamson's Bridge](/teams/matchmaker-team/cliff-williamson-bridge.png =700x)
 
 Example of a cliff with reasonable slope on the map Williamson's Bridge.
 
-### Project Tabula :warning:
+### Project Tabula :red_circle:
 
 <br>
 
