@@ -2,7 +2,7 @@
 title: Flat
 description: 
 published: true
-date: 2025-10-19T11:34:15.914Z
+date: 2025-10-20T15:22:55.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T10:57:02.860Z
@@ -15,13 +15,13 @@ The majority of the terrain is flat to the perception of the player until it is 
 The water surface can also be considered 'flat' for all naval and hover units.
 
 ## Tabs {.tabset}
-### Tabula Rasa
+### Tabula Rasa :green_circle:
 
 ![A flat area on Tabula Rasa](/teams/matchmaker-team/flat-tabula-rasa.png =700x)
 
 Example of a highly detailed area that can be considered flat.
 
-### Theta Passage
+### Theta Passage :green_circle:
 
 ![flat-theta-passage.png](/teams/matchmaker-team/flat-theta-passage.png =700x)
 
