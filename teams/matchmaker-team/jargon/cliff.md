@@ -2,7 +2,7 @@
 title: Cliff
 description: 
 published: true
-date: 2025-10-20T15:16:17.814Z
+date: 2025-10-20T15:17:31.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -15,7 +15,9 @@ A cliff is the most basic feature to influence how land units navigate. When ter
 ## Tabs {.tabset}
 ### Williamson's Bridge
 
-![cliff-williamson-bridge.png](/teams/matchmaker-team/cliff-williamson-bridge.png)
+<div style="border-radius: 10px" width="700" height="450">
+	<img src="/teams/matchmaker-team/cliff-williamson-bridge.png"/>
+</div>
 
 Example of a cliff with reasonable slope on the map Williamson's Bridge.
 
