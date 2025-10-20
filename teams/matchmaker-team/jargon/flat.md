@@ -2,7 +2,7 @@
 title: Flat
 description: 
 published: true
-date: 2025-10-20T15:22:55.907Z
+date: 2025-10-20T18:58:02.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T10:57:02.860Z
@@ -15,7 +15,7 @@ The majority of the terrain is flat to the perception of the player until it is 
 The water surface can also be considered 'flat' for all naval and hover units.
 
 ## Tabs {.tabset}
-### Tabula Rasa :green_circle:
+### Project Tabula :green_circle:
 
 ![A flat area on Tabula Rasa](/teams/matchmaker-team/flat-tabula-rasa.png =700x)
 
