@@ -2,7 +2,7 @@
 title: Jargon about terrain topology
 description: An introduction to various definitions to make it more convenient to discuss and reason about a map.
 published: true
-date: 2025-10-19T19:25:54.970Z
+date: 2025-10-20T16:02:59.972Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:35:25.438Z
@@ -14,30 +14,35 @@ In this section we introduce various jargon to help discuss and reason about the
 
 ## Topology
 
-### Basic terrain features
+### Basic building blocks
+
+The following are the basic building blocks for any heightmap. Everything that you'll do will be a combination of the following definitions.
 
 - [Flat](flat)
 - [Hill](hill)
 - [Slope](slope)
 - [Cliff](cliff)
-- [Ridge](ridge)
-- [Ramps](ramp)
+- [Ramp](ramp)
+
+
+### Land terrain shapes
+
 - [Elevation](elevation)
 - [Passage](passage)
-- [Island](island)
 - [Plateau](plateau)
 - [Crater](crater)
 - [Mountain](mountain)
 
-### Water related features
+### Water terrain shapes
 
+- [Island](island)
 - [Pond](pond)
 - [Lake](lake)
 - [Sea](sea)
 - [Landbridge](land-bridge)
 - [Beach](beach)
 
-### Advanced terrain features
+### Advanced terrain shapes
 
 - [Reverse expansion hill]()
 - [Peninsula]()
