@@ -1,8 +1,8 @@
 ---
-title: Jargon about terrain topology
+title: Terrain topology
 description: An introduction to various definitions to make it more convenient to discuss and reason about a map.
 published: true
-date: 2025-10-20T16:02:59.972Z
+date: 2025-10-20T18:51:20.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:35:25.438Z
