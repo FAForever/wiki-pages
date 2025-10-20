@@ -2,7 +2,7 @@
 title: FAF Live Team statutes
 description: The mission statement of the FAF Live team
 published: true
-date: 2025-10-19T16:10:44.721Z
+date: 2025-10-20T18:32:11.664Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-14T21:06:22.337Z
@@ -44,27 +44,30 @@ It is important to understand that all tournament team members (and contributors
 
 ### Video editor
 
-For creation of ... ?
+The Video Editor is responsible for creating and editing videos for the channel. They ensure that all uploaded content meets quality standards and is presented in a polished and appropriate manner.
 
 ### Graphics designer
 
-For creation of banners, thumbnails, UI, etc.
+The Graphic Designer often working alongside the Promotions Team, helps create visual assets for the Productions Team. This includes static displays such as UI elements, overlays, banners, and thumbnails. Their work enhances the overall look and professionalism of our streams and videos.
 
 ### Content creators
 
-The input for video editors
+The Content Creator focuses on developing and proposing ideas for what to post on our channels or ways to enhance our streams to make them more engaging for the audience. This role isn’t necessarily about producing visual or audio content directly, but rather about contributing to the creative and planning process that shapes the team’s overall direction.
 
 #### Caster
 
-Pre-recorded 
+The Caster role is for individuals who provide commentary on pre-recorded matches rather than live broadcasts. Casters narrate gameplay, analyze strategies, and bring personality and excitement to the recorded footage. After recording their commentary, they edit and refine the video to ensure clear pacing, audio quality, and engaging presentation before submitting it for final review and upload to official FAF channels.
+
+This role is ideal for creators who enjoy producing polished, high-quality game coverage at their own pace, focusing on insightful analysis and entertaining storytelling without the pressure of a live environment.
 
 #### Streamers
 
-Live
+The Streamer role is designed for individuals who can confidently commentate and engage with an audience on live platforms such as YouTube or Twitch or any other platform that supports live broadcasting.
+
 
 #### Voice actors
 
-.... ?
+The Voice Actor role is for individuals who wish to lend their voice to various creative projects developed by our content creators. This may include teasers, cinematics, trailers, meme videos, and other audio driven content.
 
 ### Channel manager
 
