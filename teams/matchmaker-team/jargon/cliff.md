@@ -2,7 +2,7 @@
 title: Cliff
 description: 
 published: true
-date: 2025-10-20T15:21:55.937Z
+date: 2025-10-20T15:23:59.051Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -42,7 +42,13 @@ A few simple guidelines:
 
 In general any elevation difference between a lower ground and an upper ground should not be higher than a Megalith. All projectiles in this game are simulated. They rely on computing a firing trajectory. Especially for tech 1 artillery, when the difference in height is larger than a Megalith chances are that they're unable to find a firing trajectory and therefore refuse to fire even though the target is in range. The player usually does not anticipate this and therefore it is a frustrating experience.
 
-## Interesting facts
+## Misconceptions
+
+The official FAF editor used to give an incorrect estimation as to what parts of the terrain would be inaccessible due to steep terrain.  This was fixed however since 2023 with []().
+
+Bombers used to miss occasionally, but this is fixed in [] and []. 
+
+## Trivia
 
 The formula to compute the slope was found by Balthazar and is the following:
 
@@ -60,9 +66,3 @@ end
 The slope is defined by a [Lua source file](https://github.com/FAForever/fa/blob/develop/lua/footprints.lua). The maximum slope can be different for units of different sizes. In practice however, the maximum slope is always set to 0.75 for a 1x1 block of terrain.
 
 Terrain types also influence the navigation of units when the field `Blocking` is set to `true`. Terrain types are also defined by a [Lua source file](https://github.com/FAForever/fa/blob/develop/lua/TerrainTypes.lua). 
-
-## Misconceptions
-
-The official FAF editor used to give an incorrect estimation as to what parts of the terrain would be inaccessible due to steep terrain.  This was fixed however since 2023 with []().
-
-Bombers used to miss occasionally, but this is fixed in [] and []. 
