@@ -2,7 +2,7 @@
 title: Cliff
 description: 
 published: true
-date: 2025-10-19T19:53:35.835Z
+date: 2025-10-20T05:30:59.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -10,9 +10,19 @@ dateCreated: 2025-10-19T19:53:35.835Z
 
 # Cliff
 
-A cliff is the most basic feature to influence how land units navigate. Units have a limit set to the maximum slope that they can traverse. This limit is defined by the value `MaxSlope` in the source file 
+A cliff is the most basic feature to influence how land units navigate. When terrain that is above water is too steep it blocks the pathing of land, amphibious and hover units. The same applies for amphibious units for terrain that is below water. 
 
 ## Guidelines
+
+Air units are sensitive to excessive height changes above land. If the rate of height change is significant enough it will change the behavior of air units. This is very difficult for the player to take into account, especially for the long attack runs of bombers. Therefore excessive height changes above land are a frustrating experience. 
+
+A few simple guidelines:
+
+- Small cliffs of the size of a tech 1 power generator should not have more height difference than a Brick.
+- Medium cliffs of the size of a tech 2 power generator should not have more height difference than a Monkey Lord.
+- Large cliffs of the size of a tech 3 power generator should not have more height difference than a Megalith. 
+
+In general any elevation difference between a lower ground and an upper ground should not be higher than a Megalith. All projectiles in this game are simulated. They rely on computing a firing trajectory. Especially for tech 1 artillery, when the difference in height is larger than a Megalith chances are that they're unable to find a firing trajectory and therefore refuse to fire even though the target is in range. The player usually does not anticipate this and therefore it is a frustrating experience.
 
 ## Interesting facts
 
@@ -37,3 +47,4 @@ Terrain types also influence the navigation of units when the field `Blocking` i
 
 The official FAF editor used to give an incorrect estimation as to what parts of the terrain would be inaccessible due to steep terrain.  This was fixed however since 2023 with []().
 
+Bombers used to miss occasionally, but this is fixed in [] and []. 
