@@ -2,7 +2,7 @@
 title: Slope
 description: 
 published: true
-date: 2025-10-19T10:53:53.669Z
+date: 2025-10-20T15:23:24.266Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T10:50:32.890Z
@@ -13,7 +13,7 @@ dateCreated: 2025-10-19T10:50:32.890Z
 A slope is conceptually similar to a stretched out ramp. It (usually) takes you from one elevation level to another elevation level. The common problem with slopes is that it's usually difficult to see from the standard top-down view while it actively impedes your ability to build structures. The use of (too many) slopes can therefore be frustrating to players.
 
 ## Tabs {.tabset}
-### Long John Silver
+### Long John Silver :red_circle:
 
 ![A subtle slope on the map Long John Silver](/teams/matchmaker-team/slope-long-john-silver-01.png =700x)
 
@@ -23,7 +23,7 @@ Example of a subtle slope on the map Long John Silver that is problematic.
 
 Example of a clearly accentuated slope through stratum masks and decals. It's clear to the user that the user should not expect to be able to build here.
 
-### Burial Mounds
+### Burial Mounds :red_circle:
 
 ![slope-burial-mounds-01.png](/teams/matchmaker-team/slope-burial-mounds-01.png =700x)
 
