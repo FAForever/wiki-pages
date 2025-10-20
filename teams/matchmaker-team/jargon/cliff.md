@@ -2,7 +2,7 @@
 title: Cliff
 description: 
 published: true
-date: 2025-10-20T15:15:40.113Z
+date: 2025-10-20T15:16:17.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -21,9 +21,13 @@ Example of a cliff with reasonable slope on the map Williamson's Bridge.
 
 ### Project Tabula
 
+<br>
+
 <video style="border-radius: 10px" width="700" height="450" controls>
   <source src="/teams/matchmaker-team/bomber-behavior-01.mp4" type="video/mp4">
 </video>
+
+Example of poor behavior of air units when the height difference is too excessive on the map Project Tabula.
 
 
 ## Guidelines
