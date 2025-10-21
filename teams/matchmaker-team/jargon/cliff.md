@@ -2,7 +2,7 @@
 title: Terrain Topology: Cliffs
 description: Describes the general guidelines on the use of cliffs.
 published: true
-date: 2025-10-20T15:27:31.470Z
+date: 2025-10-21T14:04:49.462Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T19:53:35.835Z
@@ -19,7 +19,7 @@ A cliff is the most basic feature to influence how land units navigate. When ter
 
 Example of a cliff with reasonable slope on the map Williamson's Bridge.
 
-### Project Tabula :red_circle:
+### Project Tabula :yellow_circle:
 
 <br>
 
