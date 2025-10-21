@@ -2,7 +2,7 @@
 title: Terrain topology
 description: An introduction to various definitions to make it more convenient to discuss and reason about a map.
 published: true
-date: 2025-10-20T18:51:20.432Z
+date: 2025-10-21T14:09:54.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:35:25.438Z
@@ -23,11 +23,11 @@ The following are the basic building blocks for any heightmap. Everything that y
 - [Slope](slope)
 - [Cliff](cliff)
 - [Ramp](ramp)
-
+- [Elevation](elevation)
+- [Water](water)
 
 ### Land terrain shapes
 
-- [Elevation](elevation)
 - [Passage](passage)
 - [Plateau](plateau)
 - [Crater](crater)
@@ -41,13 +41,15 @@ The following are the basic building blocks for any heightmap. Everything that y
 - [Sea](sea)
 - [Landbridge](land-bridge)
 - [Beach](beach)
-
-### Advanced terrain shapes
-
-- [Reverse expansion hill]()
 - [Peninsula]()
 
+### Advanced concepts
+
+- [Reverse expansion hill]()
+
 - [Zones]()
+
+
 
 ## Technical specifications for this section
 
