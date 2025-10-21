@@ -2,7 +2,7 @@
 title: Terrain topology
 description: An introduction to various definitions to make it more convenient to discuss and reason about a map.
 published: true
-date: 2025-10-21T14:09:54.784Z
+date: 2025-10-21T14:11:27.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T09:35:25.438Z
@@ -23,8 +23,8 @@ The following are the basic building blocks for any heightmap. Everything that y
 - [Slope](slope)
 - [Cliff](cliff)
 - [Ramp](ramp)
-- [Elevation](elevation)
 - [Water](water)
+- [Terraces](terraces)
 
 ### Land terrain shapes
 
