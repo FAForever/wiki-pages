@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T15:34:48.085Z
+date: 2025-10-23T19:21:06.556Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
@@ -27,6 +27,19 @@ As we increase the complexity we are talking about maps such as *Gap of Rohan*, 
 Through this lens we can see that maps of reasonable complexity are a tradeoff in complexity. They encourage some game mechanics and discourage or make other game mechanics entirely unavailable. This brings us to the last category - the category where the map allows the player to use a lot or maybe even all of the game mechanics that are available. In this category there are maps such as *Twin Rivers*, *Regor VI Highlands*, *Forbidden Pass* and of course *Seton's Clutch*.
 
 ## Navigational layers
+
+One of the most visible and intuitive game mechanic. Mobile units are almost naturally limited by the terrain. This almost requires no explanation, but there are some subtleties. Let's start with a quick overview of the five available navigational layers:
+
+- Air units can go everywhere, but may behave poorly when it encounters extremely steep terrain.
+- Land units can only traverse land that is not too steep.
+- Naval units can only traverse water that is at least 1 world unit deep.
+- Hover units can only traverse land and all of the water.
+- Amphibious units can only traverse land up to a depth of 25. 
+
+Then take this the following screenshot of the map _Regor VI Highlands_:
+
+![navigational-layers-regor-vi-highlands.png](/teams/matchmaker-team/navigational-layers-regor-vi-highlands.png)
+
 
 ## Weapon arcs
 
