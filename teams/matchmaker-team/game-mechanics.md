@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T13:52:05.914Z
+date: 2025-10-23T13:52:24.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
@@ -14,8 +14,8 @@ The collection of game mechanics is defined by [Wikipedia](https://en.wikipedia.
 
 Creating a map is just like any other design process. You start with an audience that you'd like to want to play the map. Then you proceed to pick and choose to encourage, discourage or remove elements of play that match with the expectations of that audience. To keep it simple we'll narrow it down to three type of audiences:
 
-- (1) Players that new to the genre.
-- (2) Players that are comfortable with the genre with a casual undertone.
+- (1) Players that are new to the genre.
+- (2) Players that are comfortable with the genre, but do not want to sweat it.
 - (3) Competitive players that play tournaments.
 
 
