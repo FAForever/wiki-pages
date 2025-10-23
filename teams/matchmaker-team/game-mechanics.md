@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T19:34:09.091Z
+date: 2025-10-23T19:35:24.767Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
