@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T09:49:02.563Z
+date: 2025-10-23T09:49:26.268Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-22T19:14:06.146Z
 
 # Rewarding the using of game mechanics
 
-The collection of game mechanics is defined by [Wikipedia](https://en.wikipedia.org/wiki/Game_mechanics) as the rules or elements of play that govern and guide player actions. The interplay of various mechanics determines the game's complexity. Supreme Commander: Forged Alliance is packed with game mechanics that interplay in some fashion. A map can be designed to enable or disable the player to exploit certain game mechanics. Through this we can actively design a map to be perceived as more or less complicated.
+The collection of game mechanics is defined by [Wikipedia](https://en.wikipedia.org/wiki/Game_mechanics) as the rules or elements of play that govern and guide player actions. The interplay of various mechanics determines the perceived complexity of the game. Supreme Commander: Forged Alliance is packed with game mechanics that interplay in some fashion. A map can be designed to enable or disable the player to exploit certain game mechanics. Through this we can actively design a map to be perceived as more or less complicated.
 
 
 When all game mechanics are a valid decision for a player to take the complexity of the game can be astounding. Fortunately, for map authors we can tweak the impact of game mechanics as we design a map. We can do this by designing the terrain in such a way that a player can take advantage by using one or more game mechanics. 
