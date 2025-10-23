@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T09:58:26.804Z
+date: 2025-10-23T09:58:33.405Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-22T19:14:06.146Z
 
 # Rewarding the using of game mechanics
 
-The collection of game mechanics is defined by [Wikipedia](https://en.wikipedia.org/wiki/Game_mechanics) as the rules or elements of play that govern and guide player actions. The interplay of various mechanics determines the perceived complexity of the game by players. Supreme Commander: Forged Alliance is packed with game mechanics that interplay in some fashion. By design, this allows for gameplay with many detailed decisions that may impact the outcome of a game. A lot of the game mechanics can be made encouraged, discouraged or entirely unavailable depending on the map. A trivial example is that when a map author did not create significant pockets of water then you'll not be able to experience the naval aspect of the game. 
+The collection of game mechanics is defined by [Wikipedia](https://en.wikipedia.org/wiki/Game_mechanics) as the rules or elements of play that govern and guide player actions. The interplay of various mechanics determines the perceived complexity of the game by players. Supreme Commander: Forged Alliance is packed with game mechanics that interplay in some fashion. By design, this allows for gameplay with many detailed decisions that may impact the outcome of a game. A lot of the game mechanics can be made encouraged, discouraged or entirely unavailable depending on the map. A trivial example is that when a map author did not create significant pockets of water then you'll not be able to experience the entire naval aspect of the game. 
 
 
 
