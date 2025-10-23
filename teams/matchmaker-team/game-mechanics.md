@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T19:21:06.556Z
+date: 2025-10-23T19:34:09.091Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
@@ -36,10 +36,17 @@ One of the most visible and intuitive game mechanic. Mobile units are almost nat
 - Hover units can only traverse land and all of the water.
 - Amphibious units can only traverse land up to a depth of 25. 
 
-Then take this the following screenshot of the map _Regor VI Highlands_:
+Then take the following screenshots of the map _Regor VI Highlands_:
 
 ![navigational-layers-regor-vi-highlands.png](/teams/matchmaker-team/navigational-layers-regor-vi-highlands.png)
 
+Through that small pond we enable players to take advantage of hover and amphibious units. In this scenario you encourage the player to quickly expand in the early game through engineers that are amphibious. The player will be unable to escort the engineers however, as the average light assault bot and tank are land units. This introduces risk. Therefore it may be better to just expand with the ACU instead, but that's up to the player.
+
+![navigational-layers-regor-vi-highlands.png](/teams/matchmaker-team/navigational-layers-regor-vi-highlands-02.png)
+
+In this scenario you'll encourage players to have amphibious units in their army composition. The average (tech 2) amphibious unit is not worth it in comparison to regular land units. They're only useful to include in your army composition when you can take advantage of their amphibious nature. In this scenario you reward the player for including amphibious units as they are able to skip two choke points that are likely be fortified with other units and/or point defenses. 
+
+And last but not least, in all scenario's the small ponds provide a safe area for the ACU to retreat to. This can encourage players to be more aggressive with the ACU as it is on average easier to retreat.
 
 ## Weapon arcs
 
