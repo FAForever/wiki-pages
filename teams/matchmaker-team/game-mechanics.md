@@ -2,7 +2,7 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-23T19:40:56.917Z
+date: 2025-10-24T13:27:06.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
@@ -28,7 +28,7 @@ Through this lens we can see that maps of reasonable complexity are a tradeoff i
 
 ## Navigational layers
 
-One of the most visible game mechanics is how units behave as they traverse the terrain. Mobile units are almost naturally limited by the terrain. This almost requires no explanation, but there are some subtleties. Let's start with a quick overview of the five available navigational layers:
+One of the most visible game mechanics is how units behave as you order them around. Mobile units are almost naturally limited by the terrain. This almost requires no explanation, but there are some subtleties that you can take into account as you design a map. First a quick overview of the five available navigational layers:
 
 - Air units can go everywhere, but may behave poorly when it encounters extremely steep terrain.
 - Land units can only traverse land that is not too steep.
