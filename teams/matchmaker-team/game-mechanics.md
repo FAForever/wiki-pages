@@ -2,13 +2,43 @@
 title: Game mechanics
 description: 
 published: true
-date: 2025-10-24T13:27:06.153Z
+date: 2025-10-24T20:32:40.664Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T19:14:06.146Z
 ---
 
 # Rewarding the using of game mechanics
+
+<!-- Introduction: why should the reader read this? -->
+
+Supreme Commander: Forged Alliance is packed with game mechanics. As you design, sculpt and populate a map with markers and props you create an environment where you encourage, discourage or even make some game mechanics entirely unavailable. In this article we'll explore how some of the game mechanics work and how you can tweak their relevance as you create a map. By the end of the article you'll have an understanding how to reason about the complexity of a map, which you can then incorporate in your design process.
+
+<!-- Some background about game mechanics -->
+
+Before we continue we need to make sure we have the same definition of a game mechanic. A game mechanic is an element of play. It is an interaction with the game that is under control of the player. An example of this is when you issue an order to one or more units. Each type of order that you can issue is a related game mechanic. Through this example you can figure out quite a few game mechanics: the ability of units to move, attack, reclaim, capture, build and even sacrifice is a game mechanic.
+
+There are other game mechanics that are indirectly under control of the player. An example of this is the preferred target of weapons as units move into range. You can control the target directly through an attack order. You can also control it indirectly by adjusting the target priorities of the weapons. The game then picks and chooses the target. You can configure the priority 
+
+A lot of game mechanics have one or more parameters. As an example, the range and the build rate are parameters of the build mechanic. Another example are the parameters of weapons that define the arc, the number of projectiles per salvo and the initial velocity of the projectiles of the weapon. 
+
+As you combine game mechanics 
+
+<!-- Example: you can't experience naval combat without water -->
+
+As a quick example, imagine how naval combat would work out in one the following maps:
+
+<!-- examples of maps with no water -->
+
+You may be confused, but that's how much a map can tweak the relevance of a game mechanic. In these maps the entire naval aspect of the game is just made unavailable. 
+
+
+
+
+A game mechanic is an element of play. It is something that the player can interact with or through. For example, a player can interact with units by issueing an order to a group of units. Units then perform this order by moving, attacking, reclaiming or building accordingly. 
+
+
+ down to details such as the initial available reclaim on a map. All of these decisions will have an impact on how viable 
 
 The collection of game mechanics is defined by [Wikipedia](https://en.wikipedia.org/wiki/Game_mechanics) as the rules or elements of play that govern and guide player actions. The interplay of various mechanics determines the perceived complexity of the game by players. Supreme Commander: Forged Alliance is packed with game mechanics that interplay in some fashion. By design, this allows for gameplay with many detailed decisions that may all impact the outcome of a game. A lot of the game mechanics can be made encouraged, discouraged or entirely unavailable depending on the map. A trivial example is that when a map author did not create significant pockets of water then you'll not be able to experience the entire naval aspect of the game. 
 
