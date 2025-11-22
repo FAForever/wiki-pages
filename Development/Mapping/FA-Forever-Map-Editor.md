@@ -2,7 +2,7 @@
 title: FA Forever Map Editor
 description: 
 published: true
-date: 2025-09-19T21:24:54.454Z
+date: 2025-11-22T14:57:32.538Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:58.014Z
@@ -40,8 +40,6 @@ The maximum number of steps saved in memory for Undo and Redo.
 Settings for using *File/Play map*. You can select a **faction** and disable **Fog of war**.
 **Markers 2D**
 This will scale markers up when the camera is away. Use this feature to better see all markers on the map. 
-**Heigtmap brush Clamp**
-This will not allow for painting higher or lower than 50 units from the lowest/highest point on the map to prevent a "black plane bug". This bug has been fixed for FAF so this is no longer required
 **UI Scale**
 Change the scale of editors' UI
 {.is-info}
@@ -205,9 +203,9 @@ You can export and import heightmap as \*.raw file. It's a 16-bit texture, that 
 
 ### Black plane bug
 
-In Forged Alliance there is a known bug, that the lower parts of your map will become black. It happens when the height difference between the lowest and the highest point is bigger than 50.
+In Forged Alliance there is a known bug, that the lower parts of your map will become black. It happens when the height difference between the lowest and the highest point is bigger than 50. It has been fixed in Forged Alliance Forever, so you don't have to worry about it, unless you create maps for the use outside of FAF.
 
-There are 2 ways to fix it:
+There are 2 ways to prevent the bug:
 -   Reduce mountains' height or depth of water
 -   Add a very deep hole somewhere in the map
 
