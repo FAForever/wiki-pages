@@ -2,7 +2,7 @@
 title: Command Line Switches
 description: Command line switches let you run Forged Alliance with extra options and settings.
 published: true
-date: 2023-05-02T20:21:16.108Z
+date: 2025-12-14T17:06:23.681Z
 tags: modding, development
 editor: markdown
 dateCreated: 2021-08-31T09:42:35.315Z
@@ -63,6 +63,7 @@ Set game speed ("normal", "fast" or "adjustable")
 | /exitongameover             | Application will exit when the game is over                                                                                                                                                                                                      |
 | /file                       |                                                                                                                                                                                                                                                  |
 | /framerate                  |                                                                                                                                                                                                                                                  |
+| /gameoptions                    | Allows setting individual game options like so: `/gameoptions CheatsEnabled:true GameSpeed:adjustable`                                                                                                                            |
 | /genpath                    |                                                                                                                                                                                                                                                  |
 | /gpgnet                     |                                                                                                                                                                                                                                                  |
 | /gpgnetdev                  |                                                                                                                                                                                                                                                  |
