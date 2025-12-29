@@ -2,7 +2,7 @@
 title: Tips for Modding Efficiently
 description: How to set up an efficient cycle for rapid development.
 published: true
-date: 2021-12-30T00:25:02.744Z
+date: 2025-12-29T17:45:41.576Z
 tags: modding
 editor: markdown
 dateCreated: 2021-08-31T09:45:32.416Z
@@ -12,11 +12,29 @@ Following are some ideas about how to get started modding quickly. This is more 
 
 ## Development
 
-For an IDE, a decent option is to use Visual Studio (free) with BabeLua installed. You get syntax highlighting looks like this:
+For an IDE, a decent option is to use Visual Studio Code (free) with our Custom [Intelisense](https://github.com/FAForever/fa-lua-vscode-extension). You get syntax highlighting looks like this:
 
-![vs.syntax.png](/images/modding/vs.syntax.png){.align-center}
+```Lua
+function LogStuff()
+	for name,cclass in moho do
+  	for k,v in moho[name] do
+    	LOG(name.. '\t' .. k.. '\t'..type(v));
+    end
+  end
+end
+
+function Show(t)
+	if type(t) == "table" then
+  	for k,v in pairsByKeys(t) do LOG(tostring(k).. "\t"..type(v).."\t"..tostring(v)) end
+  else
+  	LOG(t)
+  end
+  LOG("show fin")
+end
+```
+
 To work out what LUA commands are available
-- See the Other Sources section in the [Modding](Modding "wikilink") page. The spreadsheet there contains every global function call in the game. Search through it to find what you want.
+- See the Other Sources section in the [Modding](/Modding) page. The spreadsheet there contains every global function call in the game. Search through it to find what you want.
 - The existing LUA source code from the base game is found in the files lua.scd and moholua.scd, which is in the gamedata folder of your FA installation. Unzip these files and index the folder.Then you can search quickly for a keyword across the whole code base. This is handy when you are trying to work out how to use a function - you can find existing usages of it.
 - Try and think of a mod that does something similar, go through its code
 
@@ -49,7 +67,7 @@ You can restart a skirmish with ctrl-f10.
 
 ## Creating a test loop
 
-Create a [mod test loop](/Modding/Mod-test-loop) that allows you to test your code instantly.
+Create a [mod test loop](/Development/Modding/Mod-test-loop) that allows you to test your code instantly.
 
 ## Dealing with errors
 
