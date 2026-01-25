@@ -2,7 +2,7 @@
 title: Association
 description: 
 published: true
-date: 2025-06-07T07:08:08.369Z
+date: 2026-01-25T19:20:28.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
@@ -25,7 +25,7 @@ The association is managed by a board, elected annually from the FAForever assoc
 
 The FAForever association also has [statutes of association](https://docs.google.com/document/d/1hvEtv6hCD3-ZUhTHDzyYpNAcHc8PYY3BMT_-UDyc0uM) with further details on the association, along with setting out a [structure for teams that the board has delegated responsibilities to](https://forum.faforever.com/topic/3381/proposals-for-the-gm-about-faf-governance) (the community role referred to in this proposal has since been retired).   
 
-Details of how to apply to join the FAForever association as a member are [available on the forums](https://forum.faforever.com/topic/2346/how-to-become-a-member-of-the-association).
+Details of how to apply to join the FAForever association as a member are [available on the forums](https://forum.faforever.com/topic/9401/%E2%84%B9-faforever-association-membership-information).
 
 ## Board
 
