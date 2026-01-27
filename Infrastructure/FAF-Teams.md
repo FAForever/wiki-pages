@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2025-06-08T16:18:01.582Z
+date: 2026-01-27T15:10:03.769Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -154,15 +154,14 @@ For more information, see the following page:
  
 ### FAFLive Team
 #### Members
-##### FAFLive Manager:
-- TBD
-##### FAFLive Organizers:
-- Tagada
-- Farmsletje
+##### FAFLive Team Lead:
+- Syndicus
+##### FAFLive Team:
+- Foley
+- Hybrid_
 - Endranii
-- Javi
-- Swkoll
-- Morax
+- Strydrx
+- Fichom
 ##### FAFLive Associates:
 - WillowsDuality
 - TheDuelist
@@ -177,7 +176,7 @@ For more information, see the following page:
 - Apofenas
 - HICHI
 - BananaNoob
-
+- Farmsletje
 #### Policies
 ##### FAFLive Associate:
 The role given out by the FAFLive Manager in order to make managing the account as easy as
