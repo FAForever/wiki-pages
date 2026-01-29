@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2026-01-29T12:59:51.932Z
+date: 2026-01-29T13:00:47.576Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -43,3 +43,4 @@ For now this pager is just a long list of guides so that we have them all in one
 - [Ladder 1v1 - Beginner, Intermediate, and Advanced Topics - by arma473](https://forum.faforever.com/topic/766/ladder-1v1-beginner-intermediate-and-advanced-topics-by-arma473)
 - [FTX's Intro PDF](https://docs.google.com/document/d/13S4nBDfcBK4WmFtykXGKNmvIPe9L2nbiriISpHNgE4U/edit?tab=t.0)
 - [How to improve forever - 6 laws - Blackheart](https://forum.faforever.com/topic/1222/how-to-improve-forever-6-laws)
+- [Replay Review Channel on the discord](https://discord.com/channels/197033481883222026/1094904988788080641)
