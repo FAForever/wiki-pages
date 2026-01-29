@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-01-29T13:11:16.129Z
+date: 2026-01-29T13:12:24.855Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -161,7 +161,7 @@ For more information, see the following page:
 - Foley
 - Hybrid_
 - Endranii
-- Strydrx
+- Strydxr
 - Fichom
 ##### FAFLive Associates:
 - WillowsDuality
