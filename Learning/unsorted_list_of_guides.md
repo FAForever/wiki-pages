@@ -2,7 +2,7 @@
 title: Unsorted List of Guides
 description: 
 published: true
-date: 2026-01-29T13:00:47.576Z
+date: 2026-01-29T13:00:53.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T09:27:50.000Z
@@ -34,8 +34,7 @@ For now this pager is just a long list of guides so that we have them all in one
  - 
  
  ### Replay Reviews and Similar
- - [Replay Review Channel on the discord](https://discord.com/channels/197033481883222026/1094904988788080641)
- - 
+
  
  ### Already Implemented 
 - [The Guides already on the wiki](https://wiki.faforever.com/en/Play#learning)
