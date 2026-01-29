@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T11:47:50.988Z
+date: 2026-01-29T11:48:32.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -123,6 +123,7 @@ As we can see, each ACU has a gun upgrade for you to use, with Aeon having it's 
 - Nano-Repair / Shield, each faction has either of these options (UEF has both available), great for survivability should your 1v1 game go on for extended time periods. 
 - Cybran has access to Stealth on their ACU, which is very common and very useful.
 - Aeon has access to the Sensor upgrade, which is a useful intel upgrade.
+- Seraphim has access to the Restoration Field upgrade, which is useful for aggressive ACU usage, particularly at the T2 stage.
   
 ### Overcharge 
 ### Positioning 
