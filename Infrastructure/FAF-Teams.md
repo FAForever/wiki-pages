@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-01-27T15:10:28.350Z
+date: 2026-01-29T13:11:16.129Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -67,10 +67,11 @@ These are the current Team Leaders:
 - Maudlin27
 - Paradox_of_War
 - Seraphim-Com
-- Skrat
 - WillowWisppsi
 - Sladow
 - Razana
+- Mui
+- Godsmistake
 
 
 #### The team
