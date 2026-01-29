@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T11:34:56.796Z
+date: 2026-01-29T11:42:50.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -111,7 +111,13 @@ The early bomber strategy is often a big roadblock for many players to adapt aro
 
 When it comes to 1v1 gameplay, ACU upgrades a heavily important concepts that can both win and lose you games. With these tips, you can maximise the efficiency of said concept and win more games, but more important understand and apply this system much better.
 
-- For most ladder maps, the "gun" upgrade is almost essential. 
+- For most ladder maps, the "gun" upgrade is almost essential. The gun upgrade is self explanatory, but for convenience they are the following
+	1. UEF: Zephyr Amplifier (Damage & Range)
+  2. Aeon: Enhanced Quantum Disruptor (Range), Quantum Accelerator (Speed), Advanced Quantum Disruptor LCH (Advanced Range)
+  3. Cybran: Microwave Accelerator (Speed & Range)
+  4. Seraphim: Chronoton Accelerator RCH (Speed & Range)
+  
+  
 ### Overcharge 
 ### Positioning 
 ### Micro 
