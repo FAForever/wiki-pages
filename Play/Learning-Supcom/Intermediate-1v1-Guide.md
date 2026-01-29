@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T11:48:32.396Z
+date: 2026-01-29T11:52:01.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -124,6 +124,10 @@ As we can see, each ACU has a gun upgrade for you to use, with Aeon having it's 
 - Cybran has access to Stealth on their ACU, which is very common and very useful.
 - Aeon has access to the Sensor upgrade, which is a useful intel upgrade.
 - Seraphim has access to the Restoration Field upgrade, which is useful for aggressive ACU usage, particularly at the T2 stage.
+
+You should experiment with these upgrades and how they affect certain stages of the game, but be very wary of how much they cost! It's not recommended to go gun unless you have 200-300 energy overflow available, and other upgrades will likely be more resource intensive.
+
+Lastly, it is NOT ideal to upgrade your ACU unassisted! Most ACU upgrades take a significant amount of time unassisted, which could use used to gain value in another way, including keeping your ACU safe, ideally you will have engineers nearby already for reclaim / building purposes, but bringing some over in a transport (or simply moving them their), will certainly be worth it.
   
 ### Overcharge 
 ### Positioning 
