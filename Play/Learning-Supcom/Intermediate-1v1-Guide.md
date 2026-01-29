@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T11:42:50.936Z
+date: 2026-01-29T11:44:52.441Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -116,7 +116,8 @@ When it comes to 1v1 gameplay, ACU upgrades a heavily important concepts that ca
   2. Aeon: Enhanced Quantum Disruptor (Range), Quantum Accelerator (Speed), Advanced Quantum Disruptor LCH (Advanced Range)
   3. Cybran: Microwave Accelerator (Speed & Range)
   4. Seraphim: Chronoton Accelerator RCH (Speed & Range)
-  
+
+As we can see, each ACU has a gun upgrade for you to use, with Aeon having it's old range upgrade split into two upgrades (with the second giving it +5 range over other ACUs). Although these upgrades are not the only ones you can get, 
   
 ### Overcharge 
 ### Positioning 
