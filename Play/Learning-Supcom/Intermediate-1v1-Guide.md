@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T11:28:08.348Z
+date: 2026-01-29T11:29:24.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -84,6 +84,7 @@ The early bomber strategy is often a big roadblock for many players to adapt aro
 - Build two Mobile Anti Airs and a Scout when you see an enemy scout or bomber! The best counter to an earily bomber (provided you don't have an air factory yet) will be Mobile Anti Air which can right click the bomber and kill it before it does too much damage.
 - Dodge with your engineers! It is possible to dodge enemy bombers with your engineers to buy time to kill the bomber and save your engineer. The enemy will have to adjust their bomber to either ground fire and kill your engi that way (Positive APM investment on your end), or the bomber idles on your engineer because they can't kill it (loss of efficiency). This can be troublesome to learn, but once mastered provides a valuable tool to counter early bomber aggression.
 - Counterattack the enemy! The enemy in this instance will likely only have an air factory, therefore they cannot defend their own expansion engineers. With this advantage in land, you should aim to counter-attack and keep it equal, if not turning the pressure to your favour. 
+- Remain calm and focused! An early bomber can incite a lot of strong emotions such as stress and anger, but this creates mistake they can exploit, leading to their bomber possibly winning the game by default, or at least gaining more value. Instead, play calmly and use these tips to minimise any damage.
 
 
 ### Defending against LAB raids
