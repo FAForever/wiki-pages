@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T11:52:01.097Z
+date: 2026-01-29T12:13:57.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -80,7 +80,7 @@ There are several hotkeys we can recommend you use at this level to help with yo
 ### Defending against early bomber 
 The early bomber strategy is often a big roadblock for many players to adapt around and eventually beat, with it essentially being an all in gamble to destroy as many Engineers, Pgens and possibly even reclaim as they can before the defender can get a Mobile Anti Air out to kill it. Here's what we recommend when you come up against a player who uses early bomber:
 
-- Space our your Pgens! Early bombers will often target lines and clumped up Pgens quickly due to their volatile nature and how important scaling your energy is in your opener. Therefore spacing out your Pgens will prevnt them all exploding if one or two die, meaning that damage is not entirely avoided, but minimised, reducinf the effectiveness of the bomber.
+- Space out your Pgens! Early bombers will often target lines and clumped up Pgens quickly due to their volatile nature and how important scaling your energy is in your opener. Therefore spacing out your Pgens will prevnt them all exploding if one or two die, meaning that damage is not entirely avoided, but minimised, reducinf the effectiveness of the bomber.
 - Build two Mobile Anti Airs and a Scout when you see an enemy scout or bomber! The best counter to an earily bomber (provided you don't have an air factory yet) will be Mobile Anti Air which can right click the bomber and kill it before it does too much damage.
 - Dodge with your engineers! It is possible to dodge enemy bombers with your engineers to buy time to kill the bomber and save your engineer. The enemy will have to adjust their bomber to either ground fire and kill your engi that way (Positive APM investment on your end), or the bomber idles on your engineer because they can't kill it (loss of efficiency). This can be troublesome to learn, but once mastered provides a valuable tool to counter early bomber aggression.
 - Counterattack the enemy! The enemy in this instance will likely only have an air factory, therefore they cannot defend their own expansion engineers. With this advantage in land, you should aim to counter-attack and keep it equal, if not turning the pressure to your favour. 
