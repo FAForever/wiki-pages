@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2025-09-03T14:42:11.012Z
+date: 2026-01-29T11:22:57.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -78,6 +78,12 @@ There are several hotkeys we can recommend you use at this level to help with yo
 ## Early Aggression
 ## Early Aggression {.tabset}
 ### Defending against early bomber 
+The early bomber strategy is often a big roadblock for many players to adapt around and eventually beat, with it essentially being an all in gamble to destroy as many Engineers, Pgens and possibly even reclaim as they can before the defender can get a Mobile Anti Air out to kill it. Here's what we recommend when you come up against a player who uses early bomber:
+
+- Space our your Pgens! Early bombers will often target lines and clumped up Pgens quickly due to their volatile nature and how important scaling your energy is in your opener. Therefore spacing out your Pgens will prevnt them all exploding if one or two die, meaning that damage is not entirely avoided, but minimised, reducinf the effectiveness of the bomber.
+- Build two Mobile Anti Airs and a Scout when you see an enemy scout or bomber! 
+
+
 ### Defending against LAB raids
 ### When to make early bomber
 ### When to make LAB raids
