@@ -2,7 +2,7 @@
 title: Intermediate 1v1 Guide
 description: 
 published: true
-date: 2026-01-29T12:13:57.447Z
+date: 2026-01-30T11:06:16.066Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T18:06:29.481Z
@@ -98,7 +98,9 @@ The early bomber strategy is often a big roadblock for many players to adapt aro
 
 ## Unit Composition
 ## Unit Composition{.tabset}
-### 
+### Tier One
+### Tier Two
+### Tier Three
 
 ## T2 Air
 ## T2 Air {.tabset}
