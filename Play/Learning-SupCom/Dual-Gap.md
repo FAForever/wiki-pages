@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-01-31T08:56:26.899Z
+date: 2026-01-31T08:57:50.466Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -17,7 +17,6 @@ Introduction Text Here
 ## Early Game{.tabset}
 
 ### Tab One
-
 
 ### Tab Two
 
