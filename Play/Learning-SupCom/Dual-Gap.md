@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-01-31T08:57:50.466Z
+date: 2026-01-31T09:05:34.653Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -13,7 +13,7 @@ dateCreated: 2026-01-31T08:55:49.595Z
 Introduction Text Here
 
 ---
-## FAF Opening Build Orders
+## Dual Gap Beginner - (0-1000)
 ## Early Game{.tabset}
 
 ### Tab One
