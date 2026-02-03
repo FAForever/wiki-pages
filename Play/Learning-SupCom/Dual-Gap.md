@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T05:02:48.487Z
+date: 2026-02-03T09:46:59.448Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -69,7 +69,7 @@ Bottom Air is typically a t3 rush lane. But becareful for your opponents co-ordi
 All. Point Blank. No ifs or buts. Though it is nice to have the support of your team. If you cant see what the enemy is doing. You wont be able to react accordingly or abuse their weaknesses. Find times to scout appropriately through out the game. 
 
 ## Recommended Starter Faction
-When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage** (where you need to 'kite' with auroras, i.e. retreat them when in range of the enemy, and are punished more for not having land scouts with your army). **While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
+When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best. As said above, the faction differences are negligable with mostly different utilized stages. T1 aeon 
 ___
 
 ## Basic ACU Movement 
