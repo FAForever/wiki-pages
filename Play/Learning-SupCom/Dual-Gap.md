@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T11:26:14.770Z
+date: 2026-02-03T11:35:33.390Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -43,9 +43,16 @@ You will find, the higher you go in rank. The more you need to harrass. The more
 Gap is constantly changing. As of the current date, 03/02/26. We are up to version 14. There are certain map variations of gap, that arent ranked due to add items, different settings or mods.
 Gaps current meta change allowed the path ways though the middle of top mountain on either side, and the ramp coming from river up to bottom air base.
 As the image below shows the current competitive map choice.
+![gap_lobby_start.png](/dual gap/gap_lobby_start.png)
 
 ### Settings
-Typically start on default mode. There is a default button among the 
+Typically start on default mode. There is a default button in the photo below with the ** symbol. Using fullshare is a choice, though isnt the competitive choice. Can make the game go on for hours on end. Assassination is the way to go. Union control is also a good idea while network troubles are happening. But you need to make sure youre with people who are trust worthy not to ruin the game with selecting and playing as someone else. Just allows the base and com to stay through a desync. Though its not needed. Comes in handy. From the grapevine, I am hearing a change in union control to fix the abuse of it, while people are still in the game. 03/02/26
+
+### Sim Mods and UI Mods
+Sim mods will 100% derank a game. It is fun, but its not competitive. 
+Ui Mods how ever. They dont derank and are in fact encouraged to be used. Just need to becareful as some mods can conflict with one another cause a plethera of problems including but not soley, DESYNCING... To avoid issues, i have some UI Mods i use, that should be conflict free. 
+Insanity's UI Mods below.
+![ui_mods.png](/dual gap/ui_mods.png)
 
 ## Map positions and importance
 ## Roles{.tabset}
