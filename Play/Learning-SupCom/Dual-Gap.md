@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T11:35:33.390Z
+date: 2026-02-03T11:44:33.008Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -87,7 +87,14 @@ Bottom Air is typically a t3 rush lane. But becareful for your opponents co-ordi
 All. Point Blank. No ifs or buts. Though it is nice to have the support of your team. If you cant see what the enemy is doing. You wont be able to react accordingly or abuse their weaknesses. Find times to scout appropriately through out the game. 
 
 ## Recommended Starter Faction
-When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best. As said above, the faction differences are negligable with mostly different utilized stages. T1 aeon 
+When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best. As said above, the faction differences are negligable with mostly different utilized stages. T1 aeon is one of the units that can be punished hard if it doesnt stay out of range of the other tanks. As is is weaker in hp then the others. But with a scout, you can see the units at max range of the aurora allowing it to fire with out being fired at. 
+Alot of units in the game act similar in each faction allowing advantages and disadvantages. 
+- Cybran Stealth upgrades and units
+- UEFs T2 Mobile Shields and t3 Mobile Missile Launchers
+- Aeon T1 Auroras and T2 Mobile Shields (While there are others they are also great in other roles such as T2 swifties for air)
+- Seraphim T3 Mobile Anti Air and T3 Mobile Shields
+
+Have fun with the learning stage, but the higher you go up in rank. The more you need to start changing roles and even playing random to become less predictable before the game starts.
 ___
 
 ## Basic ACU Movement 
