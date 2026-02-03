@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T11:47:20.134Z
+date: 2026-02-03T11:53:28.214Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -122,9 +122,7 @@ Where your ACU moves is going to depend on the map. ***Generally speaking, you w
 
 In the images below, the bisecting lines that were mentioned earlier are drawn in cyan and the potential places where you can send your ACU are highlighted in yellow:
 
-![acu_movement_where_example1.png](/beginner-1v1-guide/acu_movement_where_example1.png)![acu_movement_where_example2.png](/beginner-1v1-guide/acu_movement_where_example2.png)
-![acu_movement_where_example3.png](/beginner-1v1-guide/acu_movement_where_example3.png)![acu_movement_where_example4.png](/beginner-1v1-guide/acu_movement_where_example4.png)
-![acu_movement_where_example5.png](/beginner-1v1-guide/acu_movement_where_example5.png)
+![gap_map.png](/dual gap/gap_map.png)
 
 For the maps where there are two or more possible locations to send your ACU, you can usually take the safer approach and head towards the POI that is closer to your half of the map so that you can protect the position with your ACU. On the other hand, an early offensive move towards the enemy’s POI on their half of the map is usually too risky, especially if their ACU is already there with some of their own tanks. However, this can be an effective move if they are too slow to secure their own contested POI which is usually the case for lower rated 1v1 players. 
 
