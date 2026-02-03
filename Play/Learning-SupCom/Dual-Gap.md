@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-01-31T09:05:34.653Z
+date: 2026-02-03T05:02:48.487Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -10,19 +10,63 @@ dateCreated: 2026-01-31T08:55:49.595Z
 
 # Dual Gap
 
-Introduction Text Here
+Ahhhh... The map everyone loves to hate! GAP! We are here to help you traverse the bumpy road of noobhood, to become the gap pro you were always meant to be. 
 
 ---
-## Dual Gap Beginner - (0-1000)
-## Early Game{.tabset}
+## Dual Gaps Mentality and Understanding - For All
+## The Necessities{.tabset}
 
-### Tab One
+### The most hated map and a guide on how to traverse it!
+Keep in mind, this guide is not a surefire way to win games. But its more to help you understand what to look out for and what to do pending those situations occur. 
+Think of Gap as a game of chess. Certain moves are quite detrimental to a game causing you to lose key positions and units you otherwise need. Blunders are a tough one to manage, so here, I will make you so clarvoyant to your surroundings! Your enemys will think you are cheating!
 
-### Tab Two
+### Gap is boring?!
+Gap is not for everone. It is tedious and slow at times, whilst also typically ending in using a game ender to settle mid to late game draws upon other positions. But that does not mean this map can not use other game modes/map strategies! In fact... I ENDORSE IT! Go learn all the maps. Bring back what you have learnt and show the other commanders what true fear really is!
+You will find, the more you add the t1 and t2 stage in and harrass. There is a way to really dominate games within 15 minutes within all the roles. 
+Though keep in mind. Because there are 8 mexes in your core base that are quite safe. You might find T1 and T2 stages can sometimes, with very specific stragies be skipped. 
 
-### Tab Three
+### Mentality
+Gap is more then just a video game map! Its a way of life.. A way of psychology and superioty!
+Gap can be quite competetive and easily skewed to being toxic and hard to play with people. But with a rock solid mentality. You too can read between the lines and find victory! 
+Ignore the people who are trying to bring you down, get in your head mid game or simply finding out information they are yet to possess. 
+It is very important to realise, even though you are but one person. You can carry games. Especially the lower rank you are. Being over looked due to the complacency via the feeling of superioty is a weakness you can always abuse.
 
-### Tab Four
+### Understanding the Map
+Though you may find to be safe within the confines of 8 mass extractors and hydro in the core base. You are not! Map control is key to any map and game mode, very specifically to gap though.
+Giving up positions and control can quite often result in losses. Not always, but very often.
+You will find, the higher you go in rank. The more you need to harrass. The more you need to find ways around your opponents strengths and abuse their weaknesses. Can be hard some times with dedicated roles, players being so close together and what feels like needle like holes to squeeze through just to be able to pull some strategies off. But I guarantee you. The more you practice what to look for, use and abuse those weaknesses. The more you will start winning.
+
+## Map positions and importance
+## Roles{.tabset}
+
+### Top Air
+Air is a very important role in all maps, especially gap. You not only have 1, but you have 2 dedicated roles for air. It is very important to communicate plans as you start the game, whilst also leading up to key parts of the game. 
+Top air is in control of early game domincance and leads, whilst trying to snowball for mid to late game. They also need to try and eco enough earlier, so they can keep in time with nukes. YOU MUST BUILD AN SMD (Strategic Missile Defence). You are the protector of both top and bottom land.
+Of course, as top air you will be fighting land and airs early engagements, so finding oppurtune times to counter or engage is a must. 
+You do have more reclaim in base as bottom air to counteract the need for early units and eco whilst keeping up with times to develop late game air.
+
+### Top Land
+You are an early support role for land, whilst also developing your eco and mid to late game structure. Though not all strategies lean that way, as you can be very easily overrun early, if all you do is develop eco. That is the core of your role. T2 and t3 stage, are very prevelant for you to be able to hold the entirity of land mid once mid to late game starts.
+The mexes upon the front line are very important to hold. It is very easy to snowball a game into an almost guaranteed win via controlling the entirety of the economy mid.
+
+### Bottom Land
+Typically a rush player. Your core job is to rush mid as soon as possible with as many units as possible, to hold the early to mid game of mid. You need to contain and capture the rocks mid whilst also trying to deny your opponent of theirs. Even delaying them can lead to a small snowball. Once you hit the end of early game. Your role then typically shifts into a 2nd navy roll. Though you dont have to. It is important to understand the flow and control of the lanes beside you. Circumstances will apply in team games, where you have to make the tough call to sacrafice one or the other for long term gain.
+
+### Navy
+Navy is a very core part of map control. Incredibly easy to snowball and take control, whilst also being very difficult to end early due to air or the land shifting to navy. Keep in mind. Navy is very mass dependent. Losing the expanding 5 mexes and reclaim. Can result in a very difficult mid to late game. While you feel the tension of losing your position. So will your team via the lack of map control. This can lose you mid with navy hitting land and also deny you vision of the entire bottom side of the map with aa units across the river.
+T3 mexes early on navy are the enemy. While its always nice to be ahead eco wise. You typically want to get to full t2 mex while still having control with units. Then pumping out t2 navy till death to you apart. Once you have killed their navy and siezed the mass upon the other side and maybe even take their front mexes. Allowing you to then have what is 2 bases to their 1 in mex count. At that point, you can transition to t3 mexes and navy. Not all strategies include this ideology, but as a fundemental idea towards navy. It will greatly help you understand how to dominate mid to late games.
+
+### Economy
+The bane to Gap! Everyones favourite position till you play it 1000 times. The position that you find will give you the least action and typically be called the afk slot. BUT THE FUTURE IS NOW, OLD MAN! You are now considered a third air slot, at least early to mid game you are. Land factory upgrades or full t3 acu with engineering stations are an almost guaranteed loss for you and more importantly your team.
+You are no longer the afk for 25 minutes and have a game ender up. Your core role is to harrass the opponent with air early to mid game, hopefully allowing an early snow ball in other lanes. This will allow your team to smoothly sail through their game whilst also causing your opponents to viciously rip their eco players brain apart. Not only does this cause stress on the team slightly. But can also lead to early air wins with the right co-ordination. 
+The other main role you have, is to keep the bottom island safe from nukes early. Much like top air. BUILD THE SMD! It is very important to scout yourself and counter your opponent.
+Late game is a spinwheel of options once you have begun the snowball. Find your opponents weaknesses and abuse them. Ecoing up only, allows the enemy to harrass or regain their footing after they were harrassed. 
+
+### Bottom Air
+Bottom Air is typically a t3 rush lane. But becareful for your opponents co-ordination. You might find yourself 1 v 2 with the enemy eco harassing you or your team early to mid game. You are typically the carry for the air position. Scout and counter your opponent, whilst mantaining a lead in asf count. The bottom ramp leading up to your base, can be typically used to experimental abuse if you lose naval control. Make sure with scouting, you zoom out and look at all positions accordingly. 
+
+### Who's Role Scouts?
+All. Point Blank. No ifs or buts. Though it is nice to have the support of your team. If you cant see what the enemy is doing. You wont be able to react accordingly or abuse their weaknesses. Find times to scout appropriately through out the game. 
 
 ## Recommended Starter Faction
 When starting a game, you can choose between 4 different factions, each with their own advantages and disadvantages. In general feel free to play whatever faction suits you the best, ***but be aware that especially Aeon comes with some downsides such as a very micro intense T1 stage** (where you need to 'kite' with auroras, i.e. retreat them when in range of the enemy, and are punished more for not having land scouts with your army). **While the faction choice won't be the reason you'll lose games, it can impact your improvement speed if you're picking Aeon.***
