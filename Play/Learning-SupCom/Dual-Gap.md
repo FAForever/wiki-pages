@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T09:46:59.448Z
+date: 2026-02-03T11:26:14.770Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -35,6 +35,17 @@ It is very important to realise, even though you are but one person. You can car
 Though you may find to be safe within the confines of 8 mass extractors and hydro in the core base. You are not! Map control is key to any map and game mode, very specifically to gap though.
 Giving up positions and control can quite often result in losses. Not always, but very often.
 You will find, the higher you go in rank. The more you need to harrass. The more you need to find ways around your opponents strengths and abuse their weaknesses. Can be hard some times with dedicated roles, players being so close together and what feels like needle like holes to squeeze through just to be able to pull some strategies off. But I guarantee you. The more you practice what to look for, use and abuse those weaknesses. The more you will start winning.
+
+## Creating A Lobby
+## Map Type and Settings{.tabset}
+
+### Map Type
+Gap is constantly changing. As of the current date, 03/02/26. We are up to version 14. There are certain map variations of gap, that arent ranked due to add items, different settings or mods.
+Gaps current meta change allowed the path ways though the middle of top mountain on either side, and the ramp coming from river up to bottom air base.
+As the image below shows the current competitive map choice.
+
+### Settings
+Typically start on default mode. There is a default button among the 
 
 ## Map positions and importance
 ## Roles{.tabset}
