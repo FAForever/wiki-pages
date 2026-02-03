@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T11:44:33.008Z
+date: 2026-02-03T11:47:07.121Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -104,7 +104,8 @@ ___
 ### Why?
 
 ***Your Armored Command Unit (ACU) is one of the strongest offensive tools available to you in the game.*** Although there are some statline differences between the ACUs of different factions, this is not important for you when starting out. Instead, understand that without factoring in upgrades, Overcharge usage, or veterancy: An ACU has approximately the HP of 40 T1 tanks and the DPS of 4 T1 tanks. This is why it is important to learn how to use your ACU offensively in the frontlines instead of relegating it to a mere engineer in your home base. Otherwise, you are at a severe disadvantage in 1v1s if your opponent knows how to use their ACU as a weapon and you don’t. 
-
+While it is important to push your com out on the front line for early defence. Consider changing strategies from time to time, so that you random hard rush with t1 units and a com before upgrading your com. Sometimes it catches them off guard, and even allowing you to push them out of mid completely. 
+Keep in mid, any pushes you do with your com. Comes at a risk. Make sure you calculate it, scout and make plans according the the scenario at hand.
 ### When?
 
 ***At a basic level, your ACU should move out of spawn when your initial storage of mass is depleted*** and before you start stalling mass. The exact timing in which this occurs can be different depending on the availability of nearby reclaim and the number of mexes within the ACU’s build range. So keep an eye on your mass bar so that you don’t move the ACU too early or too late. Once your ACU starts moving out, your T1 engineers at home can take over the responsibility of building factories and power generators.
