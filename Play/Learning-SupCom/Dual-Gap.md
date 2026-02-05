@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-03T11:53:28.214Z
+date: 2026-02-05T10:40:08.029Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -138,5 +138,26 @@ In this second illustration, both ACUs are posturing against each other with the
 
 This is obviously a potentially dangerous move as your ACU can be overwhelmed if there are too many opposing tanks. But understanding the limits of what your ACU can do at different stages of the game is a critical component for improving in the game. So do not be afraid to throw your ACU into danger if you think you can win the engagement. If you were correct, then you took a calculated risk and reaped the benefits. If you were wrong and lost the game, then you gained experience and should understand what went wrong so you can avoid making the same mistake in the future. 
 
+## Playstyles And Strategies
+## {.tabset}
 
+### The most hated map and a guide on how to traverse it!
+Keep in mind, this guide is not a surefire way to win games. But its more to help you understand what to look out for and what to do pending those situations occur. 
+Think of Gap as a game of chess. Certain moves are quite detrimental to a game causing you to lose key positions and units you otherwise need. Blunders are a tough one to manage, so here, I will make you so clarvoyant to your surroundings! Your enemys will think you are cheating!
+
+### Gap is boring?!
+Gap is not for everone. It is tedious and slow at times, whilst also typically ending in using a game ender to settle mid to late game draws upon other positions. But that does not mean this map can not use other game modes/map strategies! In fact... I ENDORSE IT! Go learn all the maps. Bring back what you have learnt and show the other commanders what true fear really is!
+You will find, the more you add the t1 and t2 stage in and harrass. There is a way to really dominate games within 15 minutes within all the roles. 
+Though keep in mind. Because there are 8 mexes in your core base that are quite safe. You might find T1 and T2 stages can sometimes, with very specific stragies be skipped. 
+
+### Mentality
+Gap is more then just a video game map! Its a way of life.. A way of psychology and superioty!
+Gap can be quite competetive and easily skewed to being toxic and hard to play with people. But with a rock solid mentality. You too can read between the lines and find victory! 
+Ignore the people who are trying to bring you down, get in your head mid game or simply finding out information they are yet to possess. 
+It is very important to realise, even though you are but one person. You can carry games. Especially the lower rank you are. Being over looked due to the complacency via the feeling of superioty is a weakness you can always abuse.
+
+### Understanding the Map
+Though you may find to be safe within the confines of 8 mass extractors and hydro in the core base. You are not! Map control is key to any map and game mode, very specifically to gap though.
+Giving up positions and control can quite often result in losses. Not always, but very often.
+You will find, the higher you go in rank. The more you need to harrass. The more you need to find ways around your opponents strengths and abuse their weaknesses. Can be hard some times with dedicated roles, players being so close together and what feels like needle like holes to squeeze through just to be able to pull some strategies off. But I guarantee you. The more you practice what to look for, use and abuse those weaknesses. The more you will start winning.
 ___
