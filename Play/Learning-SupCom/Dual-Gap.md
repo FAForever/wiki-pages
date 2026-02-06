@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-06T06:22:57.555Z
+date: 2026-02-06T06:34:26.478Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -168,5 +168,6 @@ Simple Example would be if someone is building a nuke. You know economy position
 
 While there is no right default answer on how to play. There are key pointers in each section that you need to keep an eye on. The end goal is to be able to eco faster than your opponent, while harassing and adapting to what comes at you. Though as a human it is impossible to be perfect. The ability to diagnose the game state and figure out which one of the 3 you need to do at that specific time, is what will set you apart from the Average. The ability to not only do that for yourself. But for all others and get a grand picture of the game state, is what will make you one of the greats! 
 
+### Strategies
 
 ___
