@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-06T04:06:56.512Z
+date: 2026-02-06T04:32:04.743Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -149,23 +149,24 @@ This is obviously a potentially dangerous move as your ACU can be overwhelmed if
 ## Playstyles And Strategies
 ## {.tabset}
 
-### The most hated map and a guide on how to traverse it!
-Keep in mind, this guide is not a surefire way to win games. But its more to help you understand what to look out for and what to do pending those situations occur. 
-Think of Gap as a game of chess. Certain moves are quite detrimental to a game causing you to lose key positions and units you otherwise need. Blunders are a tough one to manage, so here, I will make you so clarvoyant to your surroundings! Your enemys will think you are cheating!
+### Playstyles
+While there is an infite way to describe different ways to play. It simply comes down to 3 very simple topics.
+- Ecoing
 
-### Gap is boring?!
-Gap is not for everone. It is tedious and slow at times, whilst also typically ending in using a game ender to settle mid to late game draws upon other positions. But that does not mean this map can not use other game modes/map strategies! In fact... I ENDORSE IT! Go learn all the maps. Bring back what you have learnt and show the other commanders what true fear really is!
-You will find, the more you add the t1 and t2 stage in and harrass. There is a way to really dominate games within 15 minutes within all the roles. 
-Though keep in mind. Because there are 8 mexes in your core base that are quite safe. You might find T1 and T2 stages can sometimes, with very specific stragies be skipped. 
+Learning how to comfortably eco fast without sacraficing your position. Going pure eco can typically lead you to you or your teams demise. Though learning to pure eco as fast as possible is a good idea. Doing it in an actual match against decent players is not. 
+Typically you want to be able to produce the minimum units you need to hold while ecoing in the background using the reclaim available. Specifically after big engagements. 
+- Harrass
 
-### Mentality
-Gap is more then just a video game map! Its a way of life.. A way of psychology and superioty!
-Gap can be quite competetive and easily skewed to being toxic and hard to play with people. But with a rock solid mentality. You too can read between the lines and find victory! 
-Ignore the people who are trying to bring you down, get in your head mid game or simply finding out information they are yet to possess. 
-It is very important to realise, even though you are but one person. You can carry games. Especially the lower rank you are. Being over looked due to the complacency via the feeling of superioty is a weakness you can always abuse.
+Harrassing your opponent is always a good option pending you have the ability to do it safely without just donating the opponent with mass. The fact you have more units should automatically scare your opponent to building more, sometimes even over building a specific stage to compensate for your harrassing. 
+The goal is to make sure you can take as many units/structures of theres with minimal dmg to yours. More specifically. You want to do greater mass value damage compared to the cost of the units you build. While also wasting their apm on dealing with your harrassing. Therefore putting them behind in other areas or overlooking other positions. 
+- Adapting
 
-### Understanding the Map
-Though you may find to be safe within the confines of 8 mass extractors and hydro in the core base. You are not! Map control is key to any map and game mode, very specifically to gap though.
-Giving up positions and control can quite often result in losses. Not always, but very often.
-You will find, the higher you go in rank. The more you need to harrass. The more you need to find ways around your opponents strengths and abuse their weaknesses. Can be hard some times with dedicated roles, players being so close together and what feels like needle like holes to squeeze through just to be able to pull some strategies off. But I guarantee you. The more you practice what to look for, use and abuse those weaknesses. The more you will start winning.
+Adaptation as self explanitory as it is. A lot of people confuse it for trying to do everything and adapt to everything. It simply means. Dont just do what your role is. Dont play linear. You need to scout, see what potentional threats are coming. Either ping them, or have reactive precautions in place. Though it doesnt mean start putting 40k mass worth of pd, aa and tmd everywhere or build 100 interceptors early. It means to scout and understand certain time frames that certain strategies might come in play. Look out for them and react when you see their plan coming into fruition. 
+Simple Example would be if someones building a nuke. You know economy position tends to build them. It doesnt mean you build one on t2 mexes or as soon as you have t3. It means to scout and build one when you see them starting a nuke. While having no smd at 30 minutes is potentially detrimental due to the ability of scouting becomes harder the longer the game goes on. There are set time frames that will induce certain strategies better. 
+
+- Understanding of the 3
+
+While there is no right default answer on how to play. There is key pointers in each section that you need to keep an eye on. The end goal is to be able to eco faster then your opp, while harrassing and adapting to what comes at you. Though as a human its impossible to be perfect. The ability to diagnose the game state and figure out which one of the 3 you need to do at that specific time, is what will set you apart from the Average. The ability to not only do that for yourself. But for all others and get a grand picture of the game state, is what will make you one of the greats! 
+
+
 ___
