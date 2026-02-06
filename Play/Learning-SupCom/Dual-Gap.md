@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-06T04:32:04.743Z
+date: 2026-02-06T04:38:06.854Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -22,13 +22,13 @@ Think of Gap as a game of chess. Certain moves are quite detrimental to a game c
 
 ### Gap is boring?!
 Gap is not for everone. It is tedious and slow at times, whilst also typically ending in using a game ender to settle mid to late game draws upon other positions. But that does not mean this map can not use other game modes/map strategies! In fact... I ENDORSE IT! Go learn all the maps. Bring back what you have learnt and show the other commanders what true fear really is!
-You will find, the more you add the t1 and t2 stage in and harrass. There is a way to really dominate games within 15 minutes within all the roles. 
-Though keep in mind. Because there are 8 mexes in your core base that are quite safe. You might find T1 and T2 stages can sometimes, with very specific stragies be skipped. 
+You will find, the more you add the t1 and t2 stage in and harrass. There is a way to really dominate games within 15 minutes within all the roles.
+Though keep in mind. Because there are 8 mexes in your core base that are quite safe. You might find T1 and T2 stages can sometimes, with very specific stragies be skipped.
 
 ### Mentality
 Gap is more then just a video game map! Its a way of life.. A way of psychology and superioty!
-Gap can be quite competetive and easily skewed to being toxic and hard to play with people. But with a rock solid mentality. You too can read between the lines and find victory! 
-Ignore the people who are trying to bring you down, get in your head mid game or simply finding out information they are yet to possess. 
+Gap can be quite competetive and easily skewed to being toxic and hard to play with people. But with a rock solid mentality. You too can read between the lines and find victory!
+Ignore the people who are trying to bring you down, get in your head mid game or simply finding out information they are yet to possess.
 It is very important to realise, even though you are but one person. You can carry games. Especially the lower rank you are. Being over looked due to the complacency via the feeling of superioty is a weakness you can always abuse.
 
 ### Understanding the Map
@@ -49,8 +49,8 @@ As the image below shows the current competitive map choice.
 Typically start on default mode. There is a default button in the photo below with the ** symbol. Using fullshare is a choice, though isnt the competitive choice. Can make the game go on for hours on end. Assassination is the way to go. Union control is also a good idea while network troubles are happening. But you need to make sure youre with people who are trust worthy not to ruin the game with selecting and playing as someone else. Just allows the base and com to stay through a desync. Though its not needed. Comes in handy. From the grapevine, I am hearing a change in union control to fix the abuse of it, while people are still in the game. 03/02/26
 
 ### Sim Mods and UI Mods
-Sim mods will 100% derank a game. It is fun, but its not competitive. 
-Ui Mods how ever. They dont derank and are in fact encouraged to be used. Just need to becareful as some mods can conflict with one another cause a plethera of problems including but not soley, DESYNCING... To avoid issues, i have some UI Mods i use, that should be conflict free. 
+Sim mods will 100% unrank a game. It is fun, but it's not competitive.
+Ui Mods however. They don't unrank games and are in fact encouraged to be used. Just need to be careful as some mods can conflict with one another cause a plethora of problems including but not solely, DESYNCING... To avoid issues, i have some UI Mods i use, that should be conflict free.
 Insanity's UI Mods below.
 ![ui_mods.png](/dual gap/ui_mods.png)
 
