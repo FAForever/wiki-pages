@@ -2,13 +2,13 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-07T22:46:42.149Z
+date: 2026-02-07T22:47:04.150Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
 ---
 
-# Dual Gap
+# Dual-Gap
 
 Ahhhh... The map everyone loves to hate! GAP! We are here to help you traverse the bumpy road of noobhood, to become the gap pro you were always meant to be. 
 
