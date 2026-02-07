@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-06T06:34:26.478Z
+date: 2026-02-07T01:56:02.358Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -169,5 +169,27 @@ Simple Example would be if someone is building a nuke. You know economy position
 While there is no right default answer on how to play. There are key pointers in each section that you need to keep an eye on. The end goal is to be able to eco faster than your opponent, while harassing and adapting to what comes at you. Though as a human it is impossible to be perfect. The ability to diagnose the game state and figure out which one of the 3 you need to do at that specific time, is what will set you apart from the Average. The ability to not only do that for yourself. But for all others and get a grand picture of the game state, is what will make you one of the greats! 
 
 ### Strategies
+As there are many strategies in gap you need to be wary of. These are a few topics every single game you need to understand.
 
+**- Eco Balancing**
+This is a topic that very easily gets overlooked and ruled, as the best way to play among lower ranks. While ecoing is great, especially during down times for other units, like transports flying or bomber runs, raids and com walks. It can particularily hinder you, if the only thing you do is eco. T3 Mass Extractors don't win games. Units do. So recognising when to eco up and maintain a strong unit lead is extremely important. 
+In saying all that. While at standstill, as long as youre safe to do so. Harrassing as stated in the tab before is always preferable. 
+While you are fighting, reclaim will be made. Units will die mid fight and you will have the opportunity to reclaim that pending you win. Always have a couple engs behind your army, so that you can reclaim or build a T1 factory for reclaim. 
+Once you have won the fight and have a comfortable lead. Your opposition will typically panic and build more units to try and counteract the fact they lost all of theirs from the fight. At this time, as long as you have a sufficient amount to secure the reclaim and hold. You can t3 mex and be greedy while the focus on unit spam instead of mexes. 
+If they went to upg mexes themselves and dont have units. You can just harass them and take over their position, as they will have less units then you. As long as you dont mass dump into their defences, you will catch up and secure a lead via reclaim and map control.
+
+**- Scouting**
+As I have said in a previous tab above. It is not 1 persons job to scout. It is everyones. Especially if you want map control and understanding at a certain point. Having your own air factory will help you in the long term. Understanding how to counter and what you're dealing with, is a major component in this game. Especially if someones is just ecoing. You havent scouted to see they have no units. Then you let them get to far ahead without punishing them.
+
+**- APM Taxing (Cancer Spam)**
+Though im sure most of you have done it once or twice. Understand when and where to raid or spam units to distract is vital. Wasting apm of dealing with something else, instead of being able to focus on ecoing or dealing with another threat. Forces people to disregard certain fundementals of the game, whilst also causing them to panic. You need a cool head to be able to play this game at a high level. If youre panicing. You can barely see whats in front of you. 
+If you notice a fire base, go around it. If you see no radar, send a few units to the back and harass. Early raids with labs are great for killing drops mid. Also great for breaking trees, which slows their eco down. t1 bombers are great early for harass and apm taxing. But keep in mind to have stuff running in the back ground, whether its upgrading mexes or building more units with a decent way point. The bomber will also tax your own apm. You want to maximise the annoyance/damage you do to them while minimising the impact it has on yourself.
+Other ways to apm tax, is to force a decision. With air players, you can send a couple torps navy, bombers mid and some to their main base. Though it requires some pre planning and defending against scouts. If you can pull it off. It can deal some heavy damage on all 3 fronts. 
+
+- Annoyance and 2nd guessing 
+- Actual destruction to key units or eco 
+- Making them panic and overbuilding or disregarding their own eco
+
+**- Attacking**
+I personally know quite a few players they struggle to understand army layouts, positioning and unit composition.
 ___
