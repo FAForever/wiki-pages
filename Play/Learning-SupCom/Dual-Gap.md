@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-07T03:15:04.309Z
+date: 2026-02-07T22:46:42.149Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -124,13 +124,13 @@ Where your ACU moves is going to depend on the map. ***Generally speaking, you w
 In the images below, are places where you can send your ACU that are highlighted in green:
 
 For Navy Com Placement
-![navy_com_placement.png](/dual gap/navy_com_placement.png)
+![navy_com_placement.png](/dual-gap/navy_com_placement.png)
 
 For Front Land Com Placement
-![gap_com_movement.png](/dual gap/gap_com_movement.png)
+![gap_com_movement.png](/dual-gap/gap_com_movement.png)
 
 Top Land Com Placement
-![top_land_com_placement.png](/dual gap/top_land_com_placement.png)
+![top_land_com_placement.png](/dual-gap/top_land_com_placement.png)
 
 With Gap, going towards your positions with your com early and gaining protection from your strongest unit early game is always good. Just make sure you are not sacrificing your ability to continue stead growth in your base while you are walking. An early offensive move towards the enemy’s POI on their half of the map is usually too risky, especially if their ACU is already there with some of their own tanks. However, this can be an effective move if they are too slow to secure their own contested POI which is usually the case for lower rated players. As they will not have a radar or direct vision of what is coming early.
 
