@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-07T02:17:01.802Z
+date: 2026-02-07T03:15:04.309Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -203,4 +203,9 @@ Unit Positions. It’s a difficult topic. But the gist of it is simple. You want
 So, taking on fights and understanding how to engage is particularly important. Mixture of unit composition is also important in these matters.
 
 Army layouts across the map and pinpointing choke points are important. Not necessarily holding the points. But having vision and understanding how my damage certain raids can do while also recognising a way to prevent it or minimise the threat without wasting too much mass on it. You never want to pre-emptively block off paths. You want too reactively do it. Less mass waste, more time and mass on upgrades/units. But that can be quite APM intensive. So having a t1 pd to block off chokepoints early, is not bad per sae. But it definitely hinders your ability to eco and build more units if they never send anything that way. 
+
+### Race Dominance
+While its no suprise that certain races dominate the game in certain aspects, this is just to pin point some important impacts each race tends to have on gap specifically. 
+- Seraphim
+They are quite tthe race for early agression and late game abuse. Though the seige tank is weaker via having less range then all the other races. Its t2 stage is very strong. T2 bombers are the best point blank for taking out Mass Extractors, T2 Power Generators and Experimentals. 
 ___
