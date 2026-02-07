@@ -2,7 +2,7 @@
 title: Dual Gap
 description: 
 published: true
-date: 2026-02-07T01:56:02.358Z
+date: 2026-02-07T02:17:01.802Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -161,8 +161,8 @@ Harassing your opponent is always a good option pending you have the ability to 
 The goal is to make sure you can take as many units/structures of theirs with minimal dmg to yours. More specifically. You want to do greater mass value damage compared to the cost of the units you build. While also wasting their APM on dealing with your harassing. Therefore, putting them behind in other areas or overlooking other positions. 
 - Adapting
 
-Adaptation as self-explanatory as it is. A lot of people confuse it for trying to do everything and adapt to everything. It simply means. Don’t just do what your role is. Do not play linear. You need to scout, see what potential threats are coming. Either ping them or have reactive precautions in place. Though it doesn’t mean start putting 40k mass worth of Point Defence, Anti Air Towers or Tactical Missile Defence everywhere or build 100 interceptors early. It means to scout and understand certain time frames that certain strategies might come in play. Look out for them and react when you see their plan coming into fruition. 
-Simple Example would be if someone is building a nuke. You know economy position tends to build them. It does not mean you build one on t2 Mass Extractors or as soon as you have t3. It means to scout and build one when you see them starting a nuke. While having no SMD at 30 minutes is potentially detrimental due to the ability of scouting becomes harder the longer the game goes on. There are set time frames that will induce certain strategies better. 
+Adaptation as self-explanatory as it is. A lot of people confuse it for trying to do everything and adapt to everything. It simply means. Do not just do what your role is. Do not play linear. You need to scout, see what potential threats are coming. Either ping them or have reactive precautions in place. Though it does not mean start putting 40k mass worth of Point Defence, Anti Air Towers or Tactical Missile Defence everywhere or build 100 interceptors early. It means to scout and understand certain time constraints that certain strategies might come in play. Look out for them and react when you see their plan coming into fruition. 
+Simple Example would be if someone is building a nuke. You know economy position tends to build them. It does not mean you build one on t2 Mass Extractors or as soon as you have t3. It means to scout and build one when you see them starting a nuke. While having no SMD at 30 minutes is potentially detrimental due to the ability of scouting becomes harder the longer the game goes on. There are set periods that will induce certain strategies better. 
 
 - Understanding of the 3
 
@@ -172,24 +172,35 @@ While there is no right default answer on how to play. There are key pointers in
 As there are many strategies in gap you need to be wary of. These are a few topics every single game you need to understand.
 
 **- Eco Balancing**
-This is a topic that very easily gets overlooked and ruled, as the best way to play among lower ranks. While ecoing is great, especially during down times for other units, like transports flying or bomber runs, raids and com walks. It can particularily hinder you, if the only thing you do is eco. T3 Mass Extractors don't win games. Units do. So recognising when to eco up and maintain a strong unit lead is extremely important. 
-In saying all that. While at standstill, as long as youre safe to do so. Harrassing as stated in the tab before is always preferable. 
-While you are fighting, reclaim will be made. Units will die mid fight and you will have the opportunity to reclaim that pending you win. Always have a couple engs behind your army, so that you can reclaim or build a T1 factory for reclaim. 
-Once you have won the fight and have a comfortable lead. Your opposition will typically panic and build more units to try and counteract the fact they lost all of theirs from the fight. At this time, as long as you have a sufficient amount to secure the reclaim and hold. You can t3 mex and be greedy while the focus on unit spam instead of mexes. 
-If they went to upg mexes themselves and dont have units. You can just harass them and take over their position, as they will have less units then you. As long as you dont mass dump into their defences, you will catch up and secure a lead via reclaim and map control.
+This is a topic that very easily gets overlooked and ruled, as the best way to play among lower ranks. While ecoing is great, especially during down times for other units, like transports flying or bomber runs, raids and com walks. It can particularly hinder you if the only thing you do is eco. T3 Mass Extractors do not win games. Units do. So, recognising when to eco up and maintain a strong unit lead is extremely important. 
+In saying all that. While at standstill, if you are safe to do so. Harassing as stated in the tab before is always preferable. 
+While you are fighting, reclaim will be made. Units will die mid fight, and you will have the opportunity to reclaim that pending you win. Always have a couple engineers behind your army, so that you can reclaim or build a T1 factory for reclaim. 
+Once you have won the fight and have a comfortable lead. Your opposition will typically panic and build more units to try and counteract the fact they lost all of theirs from the fight. Currently, as long as you have enough to secure the reclaim and hold. You can upgrade to T3 Mass Extractor and be greedy while they focus on unit spam instead of Mass Extractors. 
+If they went to upgrade their Mass Extractors and do not have units. You can just harass them and take over their position, as they will have less units than you. If you do not mass dump into their defences, you will catch up and secure a lead via reclaim and map control.
 
 **- Scouting**
-As I have said in a previous tab above. It is not 1 persons job to scout. It is everyones. Especially if you want map control and understanding at a certain point. Having your own air factory will help you in the long term. Understanding how to counter and what you're dealing with, is a major component in this game. Especially if someones is just ecoing. You havent scouted to see they have no units. Then you let them get to far ahead without punishing them.
+As I have said in a previous tab above. It is not 1 person’s job to scout. It is everyone’s. Especially if you want map control and understanding at a certain point. Having your own air factory will help you in the long term. Understanding how to counter and what you are dealing with, is a major component in this game. Especially if someone’s just ecoing. You have not scouted to see they have no units. Then you let them get to far ahead without punishing them.
 
 **- APM Taxing (Cancer Spam)**
-Though im sure most of you have done it once or twice. Understand when and where to raid or spam units to distract is vital. Wasting apm of dealing with something else, instead of being able to focus on ecoing or dealing with another threat. Forces people to disregard certain fundementals of the game, whilst also causing them to panic. You need a cool head to be able to play this game at a high level. If youre panicing. You can barely see whats in front of you. 
-If you notice a fire base, go around it. If you see no radar, send a few units to the back and harass. Early raids with labs are great for killing drops mid. Also great for breaking trees, which slows their eco down. t1 bombers are great early for harass and apm taxing. But keep in mind to have stuff running in the back ground, whether its upgrading mexes or building more units with a decent way point. The bomber will also tax your own apm. You want to maximise the annoyance/damage you do to them while minimising the impact it has on yourself.
-Other ways to apm tax, is to force a decision. With air players, you can send a couple torps navy, bombers mid and some to their main base. Though it requires some pre planning and defending against scouts. If you can pull it off. It can deal some heavy damage on all 3 fronts. 
+Though I’m sure most of you have done it once or twice. Understand when and where to raid or spam units to distract is vital. Wasting APM of dealing with something else, instead of being able to focus on ecoing or dealing with another threat. Forces people to disregard certain fundamentals of the game, whilst also causing them to panic. You need a cool head to be able to play this game at a high level. If you are panicking. You can barely see what is in front of you. 
+If you notice a fire base, go around it. If you see no radar, send a few units to the back and harass. Early raids with labs are great for killing drops mid. Also great for breaking trees, which slows their eco down. t1 bombers are great early for harass and APM taxing. But keep in mind to have stuff running in the background, whether its upgrading Mass Extractors or building more units with a decent way point. The bomber will also tax your own APM. You want to maximise the annoyance/damage you do to them while minimising the impact it has on yourself.
+Other ways to APM tax, is to force a decision. With air players, you can send a couple of torps navy, bombers mid and some to their main base. Though it requires some pre planning and defending against scouts. If you can pull it off. It can deal some heavy damage on all 3 fronts. 
 
-- Annoyance and 2nd guessing 
+- Annoyance and second guessing 
 - Actual destruction to key units or eco 
 - Making them panic and overbuilding or disregarding their own eco
 
 **- Attacking**
-I personally know quite a few players they struggle to understand army layouts, positioning and unit composition.
+I personally know quite a few players they struggle to understand army layouts, positioning, and unit composition. 
+Much like 1v1's unit compositions are still fairly important in gap. The more weaknesses you have, the more you can be abused and lose your advantage. 
+AA is an especially important one. While you do not want too much aa in your army, especially early, because they lose to tanks. If you do not that them. You will just get bombed, ghetto gunned or gun shipped. Scouting to see what the enemy has and is willing to do, will help you with that composition. Same with Mobile Missile Launchers/Cruisers, shield bots/boats, stealth bots/boats your Armoured Command Unit. 
+There are many units that are great for each different aspect of the game. There will be a compiled list of units and uses in the document below. 
+> "LINK HERE"
+{.is-info}
+
+It doesn’t stop with just land though, as you have seen. Interactions and differences across all units change how you play each faction aggressively. 
+Unit Positions. It’s a difficult topic. But the gist of it is simple. You want more of your units hitting theirs, while less of yours are being hit. Try and take on their army from the side, of minimise distances of your own units to concentrate fire their units. Navy is particularly important for this. As the t2 stage is a predominant factor on how the game plays out. You can single handedly win mid and your own lane, while securing 5 Mass Extractors for yourself, 17 Mass Extractors mid and access to bot air’s base via the ramp. 
+So, taking on fights and understanding how to engage is particularly important. Mixture of unit composition is also important in these matters.
+
+Army layouts across the map and pinpointing choke points are important. Not necessarily holding the points. But having vision and understanding how my damage certain raids can do while also recognising a way to prevent it or minimise the threat without wasting too much mass on it. You never want to pre-emptively block off paths. You want too reactively do it. Less mass waste, more time and mass on upgrades/units. But that can be quite APM intensive. So having a t1 pd to block off chokepoints early, is not bad per sae. But it definitely hinders your ability to eco and build more units if they never send anything that way. 
 ___
