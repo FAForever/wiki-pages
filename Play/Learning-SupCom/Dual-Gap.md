@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-02-07T22:48:22.958Z
+date: 2026-02-08T04:44:36.345Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -127,7 +127,7 @@ For Navy Com Placement
 ![navy_com_placement.png](/dual-gap/navy_com_placement.png)
 
 For Front Land Com Placement
-![gap_com_movement.png](/dual-gap/gap_com_movement.png)
+![bottom_land_com_placement.png](/dual-gap/bottom_land_com_placement.png)
 
 Top Land Com Placement
 ![top_land_com_placement.png](/dual-gap/top_land_com_placement.png)
