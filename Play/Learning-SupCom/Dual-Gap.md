@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-02-09T09:39:07.435Z
+date: 2026-02-10T05:17:59.713Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -195,7 +195,7 @@ I personally know quite a few players they struggle to understand army layouts, 
 Much like 1v1's unit compositions are still fairly important in gap. The more weaknesses you have, the more you can be abused and lose your advantage. 
 AA is an especially important one. While you do not want too much aa in your army, especially early, because they lose to tanks. If you do not that them. You will just get bombed, ghetto gunned or gun shipped. Scouting to see what the enemy has and is willing to do, will help you with that composition. Same with Mobile Missile Launchers/Cruisers, shield bots/boats, stealth bots/boats your Armoured Command Unit. 
 There are many units that are great for each different aspect of the game. There will be a compiled list of units and uses in the document below. 
-> "LINK HERE"
+> "https://docs.google.com/spreadsheets/d/1yztosgMN9co9oJTrDUjc593meuHTSgG6NmXZtyEkhGE/edit?usp=sharing"
 {.is-info}
 
 It doesn’t stop with just land though, as you have seen. Interactions and differences across all units change how you play each faction aggressively. 
