@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2026-03-05T11:44:55.098Z
+date: 2026-03-05T11:49:16.201Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -192,14 +192,10 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 | **Glow** | The glow texture. Reads brightness values: `black` = strong glow, `white` = no glow. |
 | **MidRgbColor** | Legacy parameter. All values must be `0` or the game will crash. |
 
-## Planets & Texture Mapping
-
+### Planets & Texture Mapping
 > The term **"Planet"** is misleading. Each entry does not represent an astronomical object — it defines **where** a portion of the albedo texture is placed on the skybox, at what **size** and **rotation**.
 
----
-
-## Entry Structure
-
+### Entry Structure
 ```json
 {
     "Position": {
@@ -221,23 +217,19 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 }
 ```
 
----
-
-## Parameters
-
-### Position
+### Parameters
+#### Position
 Places the entry at a point in 3D world space on the skybox dome.
-
 | Key | Description |
 |---|---|
 | `x` | horizontal position |
 | `y` | vertical position |
 | `z` | depth position |
 
-### Rotation
+#### Rotation
 Rotates the texture around its center. The value is in **radians**, ranging from `0` to `2π` (≈ 6.2832) for a full rotation.
 
-### Scale
+#### Scale
 Defines the size of the rendered texture patch.
 
 | Key | Description |
@@ -245,13 +237,10 @@ Defines the size of the rendered texture patch.
 | `x` | width (left / right) |
 | `y` | height (up / down) |
 
-### Uv
+#### Uv
 Defines **which region** of the albedo texture to display. See the section below for a full explanation.
 
----
-
-## Understanding UV Coordinates
-
+### Understanding UV Coordinates
 UV coordinates select a rectangular crop from the albedo texture. Instead of using pixel values, UVs always work on a normalized `0.0 – 1.0` grid — independent of the texture's actual resolution:
 
 ```
@@ -285,9 +274,8 @@ top    = 0.0 + 0.5 = 0.5
 
 This selects the **bottom-right quarter** of the texture.
 
----
 
-## Texture Atlas Workflow
+### Texture Atlas Workflow
 
 Because each planet entry can reference any region of the albedo texture, a single texture file can contain multiple elements — planets, moons, suns — arranged as a grid (called a **texture atlas**):
 
