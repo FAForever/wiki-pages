@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2025-04-08T21:35:55.539Z
+date: 2026-03-05T11:20:51.213Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -177,8 +177,80 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 {.links-list}
 
 ## Skyboxes
+# Skybox Documentation
 
-Todo
+## General Parameters
+
+| Parameter | Description |
+|---|---|
+| **Position / Scale** | Legacy parameters — no effect on the game. Automatically determined by map size. |
+| **SubtractHeight** | `0` = perfect half-circle dome. Increase to flatten the globe. Typical range: `1.0 – 1.3` |
+| **SubdivisionAxis / SubdivisionHeight** | Number of subdivisions used to construct the dome geometry. Low values produce a pyramid-like shape; high values produce a smooth globe. |
+| **HorizonHeight** | Defines where the horizon starts. In cinematic mode the camera looks slightly downward — a value of `0` may expose black at the bottom edge. Recommended range: `-30` to `-60` |
+| **ZenithHeight** | The game renders a smooth gradient from horizon to zenith. This value sets the point where the gradient ends and only the zenith color is shown. Optimal value depends on map size. |
+| **HorizonColor / ZenithColor** | RGB color values on a scale of `0 – 2`. Defines the colors displayed at the horizon and zenith. |
+| **DecalGlowMultiplier** | Controls the strength of the glow effect. Only visible when bloom is enabled in the rendering settings. |
+| **Albedo** | The albedo texture — the 2D texture displayed on the skybox surface. |
+| **Glow** | The glow texture. Reads brightness values: `black` = strong glow, `white` = no glow. |
+| **MidRgbColor** | Legacy parameter. All values must be `0` or the game will crash. |
+
+---
+
+## Planets
+
+> Note: "Planet" is a misleading name. Each entry defines where a portion of the 2D albedo texture is placed on the skybox, at what scale and rotation.
+
+```json
+{
+    "Position": {
+        "x": -2156.92,   // x-position of the texture on the skybox
+        "y": 606.83,     // y-position of the texture on the skybox
+        "z": 4730.18     // z-position of the texture on the skybox
+    },
+    "Rotation": 3.362,   // rotation in radians (range: 0 – 2π ≈ 6.2832)
+    "Scale": {
+        "x": 20.23,      // width of the texture (left / right)
+        "y": 20.23       // height of the texture (up / down)
+    },
+    "Uv": {
+        "x": 0.5,        // UV start coordinate (horizontal)
+        "y": 0.0,        // UV start coordinate (vertical)
+        "z": 0.5,        // added to x → defines UV end coordinate horizontally (e.g. 0.5 + 0.5 = 1.0)
+        "w": 0.5         // added to y → defines UV end coordinate vertically   (e.g. 0.0 + 0.5 = 0.5)
+    }
+}
+```
+
+---
+
+## Cirrus Cloud Layers
+
+The cirrus system renders **4 independent cloud layers** on top of each other using the same texture but with different movement, scale, and direction per layer.
+
+### Per-Layer Parameters
+
+| Parameter | Type | Description |
+|---|---|---|
+| **frequency** | float2 (x, y) | Controls the tiling scale of the cloud texture. Higher values → texture repeats more → clouds appear smaller and denser. |
+| **speed** | float | How fast the layer moves across the sky. Multiplied with the direction vector to determine movement per tick. |
+| **direction** | float2 (x, y) | Wind direction of the layer along the X/Z axis. Gets normalized internally. Example: `(1, 0)` = moves along the X axis. |
+
+### Global Cirrus Parameters
+
+| Parameter | Type | Description |
+|---|---|---|
+| **cirrusMultiplier** | float | Master opacity and intensity for all cirrus layers combined. |
+| **cirrusColor** | float3 (r, g, b) | RGB tint color applied to the cirrus clouds. |
+
+### How the Layers Combine
+
+Each of the 4 layers samples the same cirrus texture with independently computed UV coordinates (based on position, direction, speed and time). The alpha values of all 4 layers are **multiplied together**:
+
+```
+alpha = cirrusMultiplier × layer0 × layer1 × layer2 × layer3
+```
+
+Because all four values are multiplied, clouds only appear where **all layers overlap** — this naturally produces the sparse, wispy appearance characteristic of cirrus clouds.
 
 ## Markers
 Every map contains places for players to spawn, spots where mass extractors can be built, and often spots for hydro generators as well. To place these on your map, the editor uses markers. There are specific markers for spawn locations and resources, and more advanced markers that help  AI opponents understand how your map should be played.
