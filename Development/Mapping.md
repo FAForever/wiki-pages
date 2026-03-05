@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2026-03-05T11:32:00.417Z
+date: 2026-03-05T11:42:57.475Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -192,29 +192,125 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 | **Glow** | The glow texture. Reads brightness values: `black` = strong glow, `white` = no glow. |
 | **MidRgbColor** | Legacy parameter. All values must be `0` or the game will crash. |
 
-### Planets
-> Note: "Planet" is a misleading name. Each entry defines where a portion of the 2D albedo texture is placed on the skybox, at what scale and rotation.
+# Skybox — Planets & Texture Mapping
+
+> The term **"Planet"** is misleading. Each entry does not represent an astronomical object — it defines **where** a portion of the albedo texture is placed on the skybox, at what **size** and **rotation**.
+
+---
+
+## Entry Structure
 
 ```json
 {
     "Position": {
-        "x": -2156.92,   // x-position of the texture on the skybox
-        "y": 606.83,     // y-position of the texture on the skybox
-        "z": 4730.18     // z-position of the texture on the skybox
+        "x": -2156.92,
+        "y": 606.83,
+        "z": 4730.18
     },
-    "Rotation": 3.362,   // rotation in radians (range: 0 – 2π ≈ 6.2832)
+    "Rotation": 3.362,
     "Scale": {
-        "x": 20.23,      // width of the texture (left / right)
-        "y": 20.23       // height of the texture (up / down)
+        "x": 20.23,
+        "y": 20.23
     },
     "Uv": {
-        "x": 0.5,        // UV start coordinate (horizontal)
-        "y": 0.0,        // UV start coordinate (vertical)
-        "z": 0.5,        // added to x → defines UV end coordinate horizontally (e.g. 0.5 + 0.5 = 1.0)
-        "w": 0.5         // added to y → defines UV end coordinate vertically   (e.g. 0.0 + 0.5 = 0.5)
+        "x": 0.5,
+        "y": 0.0,
+        "z": 0.5,
+        "w": 0.5
     }
 }
 ```
+
+---
+
+## Parameters
+
+### Position
+Places the entry at a point in 3D world space on the skybox dome.
+
+| Key | Description |
+|---|---|
+| `x` | horizontal position |
+| `y` | vertical position |
+| `z` | depth position |
+
+### Rotation
+Rotates the texture around its center. The value is in **radians**, ranging from `0` to `2π` (≈ 6.2832) for a full rotation.
+
+### Scale
+Defines the size of the rendered texture patch.
+
+| Key | Description |
+|---|---|
+| `x` | width (left / right) |
+| `y` | height (up / down) |
+
+### Uv
+Defines **which region** of the albedo texture to display. See the section below for a full explanation.
+
+---
+
+## Understanding UV Coordinates
+
+UV coordinates select a rectangular crop from the albedo texture. Instead of using pixel values, UVs always work on a normalized `0.0 – 1.0` grid — independent of the texture's actual resolution:
+
+```
+(0,1) ──────────── (1,1)
+  │                  │
+  │    texture       │
+  │                  │
+(0,0) ──────────── (1,0)
+```
+
+- `U` = horizontal axis (left → right)  
+- `V` = vertical axis (bottom → top)
+
+In SupCom, the four UV values work as **start position + size**:
+
+| Key | Role | Description |
+|---|---|---|
+| `x` | start U | left edge of the crop |
+| `y` | start V | bottom edge of the crop |
+| `z` | size U | added to `x` → defines the right edge |
+| `w` | size V | added to `y` → defines the top edge |
+
+**Example** — `x: 0.5, y: 0.0, z: 0.5, w: 0.5`:
+
+```
+left   = 0.5
+right  = 0.5 + 0.5 = 1.0
+bottom = 0.0
+top    = 0.0 + 0.5 = 0.5
+```
+
+This selects the **bottom-right quarter** of the texture.
+
+---
+
+## Texture Atlas Workflow
+
+Because each planet entry can reference any region of the albedo texture, a single texture file can contain multiple elements — planets, moons, suns — arranged as a grid (called a **texture atlas**):
+
+```
+┌──────────┬──────────┐
+│  Star C  │  Star D  │  ← V: 0.5 – 1.0
+├──────────┼──────────┤
+│  Star A  │  Star B  │  ← V: 0.0 – 0.5
+└──────────┴──────────┘
+  U: 0–0.5   U: 0.5–1
+```
+
+Each planet entry then simply points to a different region:
+
+| Object | x | y | z | w |
+|---|---|---|---|---|
+| Star A | 0.0 | 0.0 | 0.5 | 0.5 |
+| Star B | 0.5 | 0.0 | 0.5 | 0.5 |
+| Star C | 0.0 | 0.5 | 0.5 | 0.5 |
+| Star D | 0.5 | 0.5 | 0.5 | 0.5 |
+
+This keeps the number of texture files low while allowing full flexibility in how many and which elements appear on the skybox.
+
 ### Cirrus Cloud Layers
 The cirrus system renders **4 independent cloud layers** on top of each other using the same texture but with different movement, scale, and direction per layer.
 
