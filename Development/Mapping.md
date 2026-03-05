@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2026-03-05T11:20:51.213Z
+date: 2026-03-05T11:32:00.417Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -177,9 +177,7 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 {.links-list}
 
 ## Skyboxes
-# Skybox Documentation
-
-## General Parameters
+### General Parameters
 
 | Parameter | Description |
 |---|---|
@@ -194,10 +192,7 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 | **Glow** | The glow texture. Reads brightness values: `black` = strong glow, `white` = no glow. |
 | **MidRgbColor** | Legacy parameter. All values must be `0` or the game will crash. |
 
----
-
-## Planets
-
+### Planets
 > Note: "Planet" is a misleading name. Each entry defines where a portion of the 2D albedo texture is placed on the skybox, at what scale and rotation.
 
 ```json
@@ -220,33 +215,26 @@ Aside from light settings, other settings include those for Fog and the skybox, 
     }
 }
 ```
-
----
-
-## Cirrus Cloud Layers
-
+### Cirrus Cloud Layers
 The cirrus system renders **4 independent cloud layers** on top of each other using the same texture but with different movement, scale, and direction per layer.
 
-### Per-Layer Parameters
-
+#### Per-Layer Parameters
 | Parameter | Type | Description |
 |---|---|---|
 | **frequency** | float2 (x, y) | Controls the tiling scale of the cloud texture. Higher values → texture repeats more → clouds appear smaller and denser. |
 | **speed** | float | How fast the layer moves across the sky. Multiplied with the direction vector to determine movement per tick. |
 | **direction** | float2 (x, y) | Wind direction of the layer along the X/Z axis. Gets normalized internally. Example: `(1, 0)` = moves along the X axis. |
 
-### Global Cirrus Parameters
-
+#### Global Cirrus Parameters
 | Parameter | Type | Description |
 |---|---|---|
 | **cirrusMultiplier** | float | Master opacity and intensity for all cirrus layers combined. |
 | **cirrusColor** | float3 (r, g, b) | RGB tint color applied to the cirrus clouds. |
 
-### How the Layers Combine
-
+#### How the Layers Combine
 Each of the 4 layers samples the same cirrus texture with independently computed UV coordinates (based on position, direction, speed and time). The alpha values of all 4 layers are **multiplied together**:
 
-```
+```lua
 alpha = cirrusMultiplier × layer0 × layer1 × layer2 × layer3
 ```
 
@@ -301,8 +289,6 @@ More advanced techniques use [custom decals](#CA), some of which include decals 
 - [Creating a map: Decals pt.1*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=YhDyCTf8cyI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=6)
 - [Creating a map: Decals pt.2*Part of the official video tutorial series on mapmaking*](https://www.youtube.com/watch?v=vRAvQIP3NoI&list=PL0nxuIUIjpFvM-lU3h6ROtWsoC_ikkaAs&index=7)
 {.links-list}
-
-
 
 ## Units and wrecks
 Similar to props, you can bring extra detail and reclaim to your map by including units and wrecks. Units placed on the map are generally placed as either neutral or hostile civilians. Neutral civilian buildings can be captured or reclaimed by players with little effort. In contrast, any offensive unit or building, such as tanks or point deffence, belonging to hostile civilians will shoot all players that enter their range. By default, none of the civilian units will move, although this behaviour can be modified by scripts.
