@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2026-03-05T11:42:57.475Z
+date: 2026-03-05T11:44:49.733Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -192,7 +192,7 @@ Aside from light settings, other settings include those for Fog and the skybox, 
 | **Glow** | The glow texture. Reads brightness values: `black` = strong glow, `white` = no glow. |
 | **MidRgbColor** | Legacy parameter. All values must be `0` or the game will crash. |
 
-# Skybox — Planets & Texture Mapping
+## Planets & Texture Mapping
 
 > The term **"Planet"** is misleading. Each entry does not represent an astronomical object — it defines **where** a portion of the albedo texture is placed on the skybox, at what **size** and **rotation**.
 
