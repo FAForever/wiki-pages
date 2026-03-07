@@ -2,7 +2,7 @@
 title: Association
 description: 
 published: true
-date: 2026-01-25T19:20:28.851Z
+date: 2026-03-07T20:06:20.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
@@ -31,13 +31,13 @@ Details of how to apply to join the FAForever association as a member are [avail
 
 As of March 2025 the members of the FAForever board are:
 
-* Jip (President)
-* BlackYps
+* Strydxr (President)
 * Fichom
 * Deribus
+* Magge
 * Tagada
 * Giebmasse
-* Mizer
+* Nuggets
 
 ## Links to resources
 
