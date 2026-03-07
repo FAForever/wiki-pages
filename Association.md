@@ -2,7 +2,7 @@
 title: Association
 description: 
 published: true
-date: 2026-03-07T20:06:20.203Z
+date: 2026-03-07T20:36:07.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-28T16:26:31.711Z
@@ -29,7 +29,7 @@ Details of how to apply to join the FAForever association as a member are [avail
 
 ## Board
 
-As of March 2025 the members of the FAForever board are:
+As of March 2026 the members of the FAForever board are:
 
 * Strydxr (President)
 * Fichom
