@@ -2,7 +2,7 @@
 title: Matchmaker team
 description: 
 published: true
-date: 2026-03-16T01:37:38.631Z
+date: 2026-03-16T01:38:38.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T08:07:39.205Z
@@ -18,11 +18,11 @@ Welcome to the documentation of the matchmaker team! You can learn more about th
 
 The statutes of the matchmaker team. It describes the various roles that are necessary to keep the matchmaker team going in the future.
 
-### [Game mechanics](matchmaker-team/game-mechanics)
+### [Game mechanics](/matchmaker-team/game-mechanics)
 
 Supreme Commander: Forged Alliance is surprisingly complicated. There are a lot of mechanics in this game. In this section we define mechanics that are meaningful to a map author. Understand these mechanics can help you reason about maps and map designs in advance.
 
-### [Jargon](matchmaker-team/jargon)
+### [Jargon](/matchmaker-team/jargon)
 
 There's a lot of terms and definitions that are used to help describe topology. In this section we define and discuss some of the terms. By doing so we create a common vocabulary. Through this vocabulary it becomes easier to reason about how the topology of the terrain may impact various gameplay mechanics of Supreme Commander: Forged Alliance. 
 
