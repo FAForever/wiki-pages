@@ -2,7 +2,7 @@
 title: Creating UI Mods
 description: How to create a mod for the User Interface
 published: true
-date: 2026-03-20T09:44:01.969Z
+date: 2026-03-20T20:58:16.378Z
 tags: modding
 editor: markdown
 dateCreated: 2026-03-20T09:08:55.909Z
@@ -197,9 +197,12 @@ With knowledge of where to hook and how to get data, you now just need to put th
 UI elements are made up of Controls, which are pretty much boxes of various types with a defined height, width, and position. There are various classes that also add text or images.
 
 ### Some visual designs:
-- Dialogs
-- Unit Overlays
-- In-game HUD
+- Dialogs: Options menu, unit rename dialog
+- Unit Overlays: Often used by mods to draw icons on units
+- In-game HUD: Most of what you see in-game; construction bar, economy bar, score board, multifunction bar
+- Cursor Reticle: UI attached to the cursor; [Teleport and Capture cost reticles](https://github.com/FAForever/fa/blob/develop/lua/ui/controls/reticles)
+- In-world meshes: [Aircraft altitude](https://github.com/FAForever/fa/blob/develop/lua/ui/game/cursor/hover.lua) and [build height](https://github.com/FAForever/fa/blob/develop/lua/ui/controls/reticles) indicators
+- In-world rendering: [Render Shape classes](https://github.com/FAForever/fa/blob/develop/lua/ui/game/shapes), [Map drawing](https://github.com/FAForever/fa/blob/develop/lua/ui/game/painting/BrushStroke.lua), and newer range ring mods.
 
 Choose a UI element you like as an example, but be wary of old code styles.
 
@@ -214,7 +217,7 @@ A lot of FAF's UI is outdated so the code style is not good. One up-to-date UI e
 {.links-list}
 
 ### LazyVars
-LazyVars are common and used to dynamically calculate UI elements so that they can update when they are moved around or resized. They can also be used to manage state.
+LazyVars are common (even created by the engine) and used to dynamically calculate UI elements so that they can update when they are moved around, resized, or have text input/changed. They can also be used to manage state.
 They are difficult to debug. Setting `ExtendedErrorMessages` to true in [lazyvar.lua](https://github.com/FAForever/fa/blob/develop/lua/lazyvar.lua) can help slightly. The most common lazyvar error comes from uninitialized position/height/width of a Control.
 
 ### Structuring UI layout code
@@ -226,7 +229,8 @@ There exist hotkeys to cycle skins.
 - [skins.lua *Hook to add in your own skin data*](https://github.com/FAForever/fa/blob/develop/lua/skins/skins.lua)
 {.links-list}
 
-## Hotkeys
+## Keyboard/Mouse input
+### Hotkeys
 You can add a hotkey (called a key action in the code) for your mod by using the keymapper to permanently save it in the user key actions (a table in the preferences file).
 ```lua
     local SetUserKeyAction = import("/lua/keymap/keymapper.lua").SetUserKeyAction
@@ -248,11 +252,52 @@ local keymapper = import("/lua/keymap/keymapper.lua")
 local current = keymapper.GetCurrentKeyBinding("ModdedAction1")
 keymapper.SetUserKeyMapping("Ctrl-Shift-Alt-M", current, "ModdedAction1")
 ```
+#### Key maps
+To create a custom key mapping system, you should use `IN_AddKeyMapTable`, `IN_RemoveKeyMapTable`, and `IN_ClearKeyMap`. It would be a fundamental UI change, any improvements would be welcomed as contributions to the game repository.
 
+### Key Input
+Besides the aforementioned hotkeys:
+- global function `IsKeyDown`
+- `uimain.lua` function `SetEscapeHandler` for the escape key
+- The [`Edit` class](https://github.com/FAForever/fa/blob/develop/lua/maui/edit.lua) implements a text editor, but it can be used to capture all keyboard input.
+
+The engine uses arrow keys for camera translation, spacebar for camera rotation, and `alt + ~` (in EN locale) for `ToggleConsole`.
+
+### Mouse Input
+- `uimain.lua` functions `AddOnMouseClickedFunc` and `RemoveOnMouseClickedFunc`.
+- global function `PostDragger` to assign a Dragger object as the active one.
+- Controls have a [`HandleEvent` function](https://github.com/FAForever/fa/blob/e16b829ee2603450988f283e7ee1776026c53061/lua/maui/control.lua#L62) that is called when the mouse moves over or clicks on the control. The return value of the function determines if anything happens to the underlying Control.
+  - This can be used to interact with the behavior of the mouse in the world view.
 
 ## Localization
 If you want to support multiple languages, you can use the `LOC` function to localize text inputs (although most UI util functions elements already localize internally) and hook the `strings_db.lua` file in the folder of the corresponding language.
 - [`loc` folder in the game repository*all language folder names and a short translation guidelines document*](https://github.com/faforever/fa/tree/develop/loc)
+{.links-list}
+
+## Console Commands
+Many engine capabilities are not available as global engine functions, instead they are available through console commands. Many of the older/more basic hotkeys and game settings use console commands directly instead of scripting their behavior.
+
+You can invoke commands by passing a string to the function `ConExecute` and you can read the output by adding a function using `AddConsoleOutputReciever` (remove it after you're done with `RemoveConsoleOutputReciever`).
+
+- [Wiki Page for Console Commands*A list of commands and their usage*](/Development/Console_Commands)
+{.links-list}
+
+## Working with Unit Selections
+To get information about units, you need to get the unit object first. This is done by selecting units, which can be done by the user by clicking in the world view or scripted with engine functions or console commands.
+
+Whenever the selection is changed, the function [`OnSelectionChanged` in `gamemain.lua`](https://github.com/FAForever/fa/blob/33ef66dc35887bd9fa2051b183927533bc1b3ed4/lua/ui/game/gamemain.lua#L613) is called. This includes selection changes done both by the user clicking in the world view and engine functions/console commands selecting something. 
+To avoid running the callback when your code changes selection, you can use the function [`Hidden` from `selection.lua`](https://github.com/FAForever/fa/blob/9e2ef9a72c091d54f89818dc83eaede6255c017a/lua/ui/game/selection.lua#L47) or [`SetIgnoreSelection` from `gamemain.lua`](https://github.com/FAForever/fa/blob/33ef66dc35887bd9fa2051b183927533bc1b3ed4/lua/ui/game/gamemain.lua#L40). `Hidden` is a callback code style, where you pass your function that selects something and operates on it into `Hidden`. `SetIgnoreSelection` is a toggle, and your code has to manually indicate when to start and stop ignoring selection changes.
+
+To work the selection in code, you can use `UISelectionByCategory` to select new units, `SelectUnits` and `AddSelectUnits` to select units you previously saved in a variable, and `GetSelectedUnits` to get the current selection.
+
+### Selecting What Units a Transport Drops
+When the user issues a transport drop order, the engine checks the "Session Extra Select List" to determine what units to drop. You can interact with this list using `AddToSessionExtraSelectList`, `RemoveFromSessionExtraSelectList`, and `ClearSessionExtraSelectList`.
+
+You can get transport-related data with `GetAttachedUnitsList` and `UserUnit:HasUnloadCommandQueuedUp`.
+
+## Icon Mods
+You can replace icons programmatically using a function or by blueprint ID using a table.
+- [Strategic Icon Replacement*Documentation in the game repository*](https://github.com/FAForever/fa/blob/942680fa3f9953cc9c19d77675406491548fd8a7/lua/MODS.LUA#L332)
 {.links-list}
 
 ## Further Information
