@@ -2,7 +2,7 @@
 title: Creating UI Mods
 description: How to create a mod for the User Interface
 published: true
-date: 2026-03-20T09:08:55.909Z
+date: 2026-03-20T09:44:01.969Z
 tags: modding
 editor: markdown
 dateCreated: 2026-03-20T09:08:55.909Z
@@ -224,6 +224,35 @@ Just like the code style, a lot of FAF's UI is old and difficult to understand o
 There exist hotkeys to cycle skins.
 
 - [skins.lua *Hook to add in your own skin data*](https://github.com/FAForever/fa/blob/develop/lua/skins/skins.lua)
+{.links-list}
+
+## Hotkeys
+You can add a hotkey (called a key action in the code) for your mod by using the keymapper to permanently save it in the user key actions (a table in the preferences file).
+```lua
+    local SetUserKeyAction = import("/lua/keymap/keymapper.lua").SetUserKeyAction
+    local keyAction = {
+        action = "UI_Lua import('/mods/yourmod/modules/file.lua').DoMyHotkey()", -- console command to run
+        category = "MyMod",  -- category under which the action will be grouped in the hotkeys menu (F1)
+    }
+    SetUserKeyAction("ModdedAction1" -- Name of action used for display and searching
+			, keyAction)
+```
+If you want to give your key action a better display name you can use key descriptions. This supports localization.
+```lua
+    local keyDescriptions = import('/lua/keymap/keydescriptions.lua').keyDescriptions
+    keyDescriptions.ModdedAction1 = '<LOC key_ModdedAction1>Perform action from my mod'
+```
+If you want to assign a key to an action you can use the keymapper's `SetUserKeyMapping` function.
+```lua
+local keymapper = import("/lua/keymap/keymapper.lua")
+local current = keymapper.GetCurrentKeyBinding("ModdedAction1")
+keymapper.SetUserKeyMapping("Ctrl-Shift-Alt-M", current, "ModdedAction1")
+```
+
+
+## Localization
+If you want to support multiple languages, you can use the `LOC` function to localize text inputs (although most UI util functions elements already localize internally) and hook the `strings_db.lua` file in the folder of the corresponding language.
+- [`loc` folder in the game repository*all language folder names and a short translation guidelines document*](https://github.com/faforever/fa/tree/develop/loc)
 {.links-list}
 
 ## Further Information
