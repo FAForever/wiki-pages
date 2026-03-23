@@ -2,7 +2,7 @@
 title: Console Commands
 description: 
 published: true
-date: 2026-03-23T03:51:55.067Z
+date: 2026-03-23T03:52:28.339Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T08:55:22.059Z
@@ -17,7 +17,7 @@ To understand this table, you'll need to know how to read the `Syntax` column of
 | `<value_name>` | A required value that you provide |
 | `[value_name]` | Everything inside is optional |
 | `[value_name...]` | This value is repeatable |
-| `value_name \| value_name` |	The left or right side are valid |
+| `value_name | value_name` |	The left or right side are valid |
 
 
 
