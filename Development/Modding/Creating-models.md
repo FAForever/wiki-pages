@@ -2,7 +2,7 @@
 title: Creating Models
 description: Specs for Sup Com models
 published: true
-date: 2025-01-25T22:54:15.958Z
+date: 2026-03-27T08:30:41.629Z
 tags: modding, models, unit
 editor: markdown
 dateCreated: 2022-03-13T12:01:05.252Z
@@ -24,8 +24,7 @@ Blender manual can be found in help menu
   
 [paint.net](https://www.getpaint.net/)  
   
-[Supcom addon for blender](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender/tree/Blender2.80)  
-  
+[Supcom Import/Export plugin](https://github.com/Exotic-Retard/SupCom_Import_Export_Blender/)  for Blender v4.1+
 
 # Method 
 
