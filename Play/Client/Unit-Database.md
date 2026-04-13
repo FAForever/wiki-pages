@@ -2,7 +2,7 @@
 title: Unit Database
 description: 
 published: true
-date: 2024-03-04T13:32:14.422Z
+date: 2026-04-13T16:04:16.088Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:45:40.961Z
@@ -11,7 +11,7 @@ dateCreated: 2021-08-31T09:45:40.961Z
 Statistics for every unit in FAF can be found in both of the following unit databases:
 - [Spooky](https://spooky.github.io/unitdb/#/)
 - [Offical](https://unitdb.faforever.com/)
-
+- [ETFreeman](https://faforever.github.io/etfreeman-db/)
 ## How to Use it
 - Click on the name of a unit to see their detailed stats on a new page
 - Click on the box of the unit and then on the box of up to 3 other units to select multiple units
