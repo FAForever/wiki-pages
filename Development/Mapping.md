@@ -2,7 +2,7 @@
 title: Mapping
 description: Map creation for Forged Alliance (Forever)
 published: true
-date: 2026-04-07T00:36:42.753Z
+date: 2026-04-22T21:24:40.674Z
 tags: mapping, basic
 editor: markdown
 dateCreated: 2023-06-30T13:08:23.704Z
@@ -130,9 +130,7 @@ If you made a water ramp that works well, please share it in a game dev channel 
 
 You can use higher quality wave textures by using the ones provided by FAF in the textures/engine directory. Either unpack the textures.nx2 archive or get them from [here](https://github.com/FAForever/fa/tree/deploy/fafdevelop/textures/engine)
 
-If you want the sun to be properly reflected in the water you need to set the sun direction for the water to the sun direction the rest of the map uses. Set the sun color to Pi (3.14...) times the sun color you defined for the terrain. (For point lights the light intensity has to be multiplied with Pi to get correct reflection results in our shading model. Without going into details, there is a mathematical reason for this. In the terrain shader we can do it in the shader code, but because the water shader is the same for all maps, you have to do it manually here.)
-Lastly, you should adjust the SunShininess to a greater value to make the reflection sharper.
-As the map editor doesn't allow you to edit these values, you have to export the water settings, change the appropriate values and import the file again.
+If you want the sun to be properly reflected in the water you need to activate the `Calculate from light settings tab` checkbox. You should also adjust the SunShininess to a greater value (e.g. 80) to make the reflection sharper.
 
 - [About water: Introduction*Pt.1 of the forum post series on water by Jip*](https://forum.faforever.com/topic/59/about-water-introduction)
 - [About water: Water settings*Pt.2 of the forum post series on water by Jip*](https://forum.faforever.com/topic/64/about-water-settings)
