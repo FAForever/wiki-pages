@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-05-05T07:44:32.640Z
+date: 2026-05-05T07:45:23.030Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -43,7 +43,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 ![coop-missions.png](/coop-missions.png)
 
 ## Missions List
-### GPG Original Campaigns & AI Difficulty
+### GPG Original Campaigns & Difficulty
 
 | # | SupCom - UEF          | AIx Modifier | SupCom - Aeon         | AIx Modifier | SupCom - Cybran      | AIx Modifier |
 |---|-----------------------|--------------|-----------------------|--------------|----------------------|--------------|
@@ -54,7 +54,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 5 | Forge                 | 0.5          | Shining Star          | 0.7          | Unlock               | 0.6          |
 | 6 | Stone Wall (remastered) | 0.5        | Beginnings            | 0.6          | Freedom (remastered) | 2.3          |
 
-### Forged Alliance Campaign Mission & AI Difficulty
+### Forged Alliance Campaign Mission & Difficulty
 
 | # | Forged Alliance Mission | AIx Modifier |
 |---|--------------------------|--------------|
@@ -66,7 +66,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 6 | Overlord                 | 1.3          |
 
 
-### Seraphim FAF Campaigns & AI Difficulty
+### Seraphim FAF Campaigns & Difficulty
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
 
 | # | Seraphim Campaign       | AIx Modifier | Coalition Campaign  | AIx Modifier |
