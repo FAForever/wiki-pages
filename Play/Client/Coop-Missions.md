@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-05-06T10:57:54.101Z
+date: 2026-05-12T18:22:28.787Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -47,7 +47,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 
 | # | SupCom - UEF          | AIx Modifier | SupCom - Aeon         | AIx Modifier | SupCom - Cybran      | AIx Modifier |
 |---|-----------------------|--------------|-----------------------|--------------|----------------------|--------------|
-| 1 | Black Earth           | 0.1          | Joust                 | <=0.5          | Liberation           | <=0.5          |
+| 1 | Black Earth           | 0.1          | Joust                 | <=0.5          | Liberation           | 0.1          |
 | 2 | Snow Blind            | 0.6          | Machine Purge         | <=0.5          | Artifact             | <=0.5          |
 | 3 | Metal Shark           | 0.5          | High Tide             | 0.6          | Defrag               | <=0.5          |
 | 4 | Vaccine               | 0.1          | Entity                | 0.6          | Mainframe Tango      | <=0.5          |
