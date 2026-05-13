@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-01-29T13:12:24.855Z
+date: 2026-05-13T18:58:41.685Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -47,7 +47,7 @@ These are the current Team Leaders:
 	>	**Brutus5000**
   
 - **Campaign Team Leader**
-	> **Rezy-Noob**
+	> **greenkiller56**
 
 ## The Teams
 
