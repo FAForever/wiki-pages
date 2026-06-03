@@ -2,13 +2,13 @@
 title: Rating-System
 description: 
 published: true
-date: 2024-10-03T19:45:59.491Z
+date: 2026-06-03T20:23:12.205Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:47.976Z
 ---
 
-# **Why choose Trueskill over Elo ?**
+# **Why choose Trueskill over Elo?**
 
 The Elo rating system has some weaknesses that can make it unsuited to Forged Alliance. For example, ELO is unable to rate anything but 1 vs 1 matches.
 
