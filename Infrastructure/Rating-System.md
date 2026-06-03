@@ -2,7 +2,7 @@
 title: Rating-System
 description: 
 published: true
-date: 2026-06-03T20:23:12.205Z
+date: 2026-06-03T20:27:07.240Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:44:47.976Z
@@ -142,10 +142,9 @@ Your deviation is decreasing after each game, no matter what (maybe a lot, maybe
 
 **After 30-40 games, the system "learns" you, and your rating starts to make sense.**
 
-## External links
+### External links
 
-„\[<http://www.moserware.com/2010/03/computing-your-skill.html>\|
-Computing Your Skill\]“ – Moserware
+[Computing Your Skill](https://www.moserware.com/2010/03/computing-your-skill.html) – Moserware
 
 # **Game balance index**
 
