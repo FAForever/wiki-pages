@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-04T06:25:06.354Z
+date: 2026-06-04T06:27:04.246Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -77,7 +77,7 @@ Similarly to the original campaigns, these are linked in the story, and it is ad
 | 4 | Ioz-Shavoh-Kael         | 1.5          | Rebel's Rest        | 5.5          |
 | 5 | Overlord Surth-Velsok   | 2.1          | Red Revenge         | 5.4          |
 
-*Note: The AIx modifier for "Operation Tha-Atha-Aez" failed with a 10.0 AIx modifier on this mission due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base. Without this issue, the AIx modifier is estimated at 2.3 for this mission (meaning a human player is likely to find some of the other maps harder than this mission).
+*Note: M28AI failed "Operation Tha-Atha-Aez" with a 10.0 AIx modifier due to the order it targets enemy bases, resulting in a near-impossible challenge to protect SACUs that walk straight into an enemy base. Without this issue, the AIx modifier is estimated at 2.3 for this mission (meaning a human player is likely to find some of the other missions harder).
 
 ### FAForever Custom Scenarios
 These missions are single scenarios, meaning they are not linked to larger campaigns or other single scenarios and don't need to be played in a particular order.
