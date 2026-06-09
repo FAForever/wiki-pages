@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-09T07:37:47.890Z
+date: 2026-06-09T07:38:44.450Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -51,9 +51,10 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 2 | Snow Blind            | 0.6          | Machine Purge         | 0.6          | Artifact             | 0.4          |
 | 3 | Metal Shark           | 0.5          | High Tide             | 1.0          | Defrag               | 0.3          |
 | 4 | Vaccine               | 0.1          | Entity                | 0.7          | Mainframe Tango      | 0.2          |
-| 5 | Forge                 | 0.5          | Shining Star          | 0.7          | Unlock               | 0.5          |
-| 6 | Stone Wall (remastered) | 0.3        | Beginnings            | 0.6          | Freedom (remastered) | 1.3          |
+| 5 | Forge                 | 0.5          | Shining Star          | 0.7*          | Unlock               | 0.5          |
+| 6 | Stone Wall (remastered) | 0.3        | Beginnings            | 0.6*          | Freedom (remastered) | 1.3          |
 
+*(last checked using M28AI v97 or earlier)
 ### Forged Alliance Campaign Mission & Difficulty
 
 | # | Forged Alliance Mission | AIx Modifier |
