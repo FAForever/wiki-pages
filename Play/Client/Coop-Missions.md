@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-09T07:37:18.796Z
+date: 2026-06-09T07:37:47.890Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -39,7 +39,7 @@ The interface is mostly self-explanatory, but we'll document it here anyway:
 - View the best times for selected missions. These can provide valuable insights on how to beat a mission if you're struggling.
 - Qualification: A mission must be cleared on 'hard' difficulty to qualify for the leaderboard. Difficulty can be changed in the lobby through the usual mission options.
 
-The tables also provide an AIx modifier. This is intended to give a rough indication of mission difficulty by showing the AIx modifier needed for M28AI to complete the indicated campaign mission solo (either via a single M28AI teammate with an afk human player, or using the 'combined armies' functionality to give M28 control of the human player). This offers an objective measure of the difficulty of a campaign mission, although human players' experiences may vary significantly.  The modifiers were done primarily on v91-v97 of M28AI, with the UEF original campaign updated to reflect v295 of M28AI.
+The tables also provide an AIx modifier. This is intended to give a rough indication of mission difficulty by showing the AIx modifier needed for M28AI to complete the indicated campaign mission solo (either via a single M28AI teammate with an afk human player, or using the 'combined armies' functionality to give M28 control of the human player). This offers an objective measure of the difficulty of a campaign mission, although human players' experiences may vary significantly.  The modifiers were done primarily on v91-v97 of M28AI, with the UEF, Cybran and most of the Aeon original campaign updated to reflect v295-v304 of M28AI.
 ![coop-missions.png](/coop-missions.png)
 
 ## Missions List
