@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-08T07:06:24.460Z
+date: 2026-06-09T07:37:18.796Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -50,7 +50,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 1 | Black Earth           | 0.1          | Joust                 | 0.1          | Liberation           | 0.1          |
 | 2 | Snow Blind            | 0.6          | Machine Purge         | 0.6          | Artifact             | 0.4          |
 | 3 | Metal Shark           | 0.5          | High Tide             | 1.0          | Defrag               | 0.3          |
-| 4 | Vaccine               | 0.1          | Entity                | 0.6          | Mainframe Tango      | 0.2          |
+| 4 | Vaccine               | 0.1          | Entity                | 0.7          | Mainframe Tango      | 0.2          |
 | 5 | Forge                 | 0.5          | Shining Star          | 0.7          | Unlock               | 0.5          |
 | 6 | Stone Wall (remastered) | 0.3        | Beginnings            | 0.6          | Freedom (remastered) | 1.3          |
 
