@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-13T19:58:40.944Z
+date: 2026-06-22T20:14:23.035Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -59,18 +59,19 @@ The below difficulties were last checked on v97 of M28AI or earlier, using M28 a
 
 | # | Forged Alliance Mission | AIx Modifier |
 |---|--------------------------|--------------|
-| 1 | Black Day                | 1.3          |
-| 2 | Dawn                     | <=0.5          |
-| 3 | Red Flag                 | <=0.5          |
-| 4 | Meltdown                 | 0.7          |
-| 5 | Mind Games               | 0.7          |
-| 6 | Overlord                 | 1.3          |
+| 1 | Black Day                | 1.0          |
+| 2 | Dawn                     | <=0.5*          |
+| 3 | Red Flag                 | <=0.5*          |
+| 4 | Meltdown                 | 0.7*          |
+| 5 | Mind Games               | 0.7*          |
+| 6 | Overlord                 | 1.3*          |
 
+*These difficulties were last checked on v97 of M28AI or earlier, using M28 as a teammate:
 
 ### Seraphim FAF Campaigns & Difficulty
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
 
-| # | Seraphim Campaign       | AIx Modifier | Coalition Campaign  | AIx Modifier |
+| # | Seraphim Campaign       | AIx Modifier* | Coalition Campaign  | AIx Modifier* |
 |---|-------------------------|--------------|---------------------|--------------|
 | 1 | Yath-Aez                | 1.8          | Blockade            | 2.2          |
 | 2 | Operation Tha-Atha-Aez  | >10.0*       | Holy Raid           | 1.5          |
