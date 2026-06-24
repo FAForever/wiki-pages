@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-22T20:14:23.035Z
+date: 2026-06-24T06:30:34.839Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -60,7 +60,7 @@ The below difficulties were last checked on v97 of M28AI or earlier, using M28 a
 | # | Forged Alliance Mission | AIx Modifier |
 |---|--------------------------|--------------|
 | 1 | Black Day                | 1.0          |
-| 2 | Dawn                     | <=0.5*          |
+| 2 | Dawn                     | 0.5          |
 | 3 | Red Flag                 | <=0.5*          |
 | 4 | Meltdown                 | 0.7*          |
 | 5 | Mind Games               | 0.7*          |
