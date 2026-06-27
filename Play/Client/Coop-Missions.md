@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-27T07:49:09.559Z
+date: 2026-06-27T07:49:24.729Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -54,7 +54,6 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 5 | Forge                 | 0.5          | Shining Star          | 0.4          | Unlock               | 0.5          |
 | 6 | Stone Wall (remastered) | 0.3        | Beginnings            | 0.5          | Freedom (remastered) | 1.3          |
 
-The below difficulties were last checked on v97 of M28AI or earlier, using M28 as a teammate:
 ### Forged Alliance Campaign Mission & Difficulty
 
 | # | Forged Alliance Mission | AIx Modifier |
