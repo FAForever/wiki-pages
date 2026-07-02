@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-06-27T07:49:24.729Z
+date: 2026-07-02T19:15:15.148Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -62,7 +62,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 | 2 | Dawn                     | 0.5          |
 | 3 | Red Flag                 | 0.4          |
 | 4 | Meltdown                 | 1.0          |
-| 5 | Mind Games               | 0.7*          |
+| 5 | Mind Games               | 0.7          |
 | 6 | Overlord                 | 1.3*          |
 
 *These difficulties were last checked on v97 of M28AI or earlier, using M28 as a teammate:
