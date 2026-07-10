@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-07-10T05:13:46.810Z
+date: 2026-07-10T05:14:31.275Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -45,7 +45,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 ## Missions List
 ### GPG Original Campaigns & Difficulty
 
-| # | SupCom - UEF          | AIx Modifier | SupCom - Aeon         | AIx Modifier | SupCom - Cybran      | AIx Modifier |
+| # | SupCom - UEF          | Difficulty rating (AIx Modifier) | SupCom - Aeon         | Difficulty rating (AIx Modifier) | SupCom - Cybran      | Difficulty rating (AIx Modifier) |
 |---|-----------------------|--------------|-----------------------|--------------|----------------------|--------------|
 | 1 | Black Earth           | 0.1          | Joust                 | 0.1          | Liberation           | 0.1          |
 | 2 | Snow Blind            | 0.6          | Machine Purge         | 0.6          | Artifact             | 0.4          |
@@ -56,7 +56,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 
 ### Forged Alliance Campaign Mission & Difficulty
 
-| # | Forged Alliance Mission | AIx Modifier |
+| # | Forged Alliance Mission | Difficulty rating (AIx Modifier) |
 |---|--------------------------|--------------|
 | 1 | Black Day                | 1.0          |
 | 2 | Dawn                     | 0.5          |
@@ -69,7 +69,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 ### Seraphim FAF Campaigns & Difficulty
 Similarly to the original campaigns, these are linked in the story, and it is advised they be played in order.
 
-| # | Seraphim Campaign       | AIx Modifier* | Coalition Campaign  | AIx Modifier* |
+| # | Seraphim Campaign       | Difficulty rating (AIx Modifier)* | Coalition Campaign  | Difficulty rating (AIx Modifier)* |
 |---|-------------------------|--------------|---------------------|--------------|
 | 1 | Yath-Aez                | 1.8          | Blockade            | 2.2          |
 | 2 | Operation Tha-Atha-Aez  | >10.0**       | Holy Raid           | 1.5          |
