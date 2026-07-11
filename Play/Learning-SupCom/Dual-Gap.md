@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-07-10T11:36:21.388Z
+date: 2026-07-11T10:41:41.783Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -204,14 +204,41 @@ So, taking on fights and understanding how to engage is particularly important. 
 
 Army layouts across the map and pinpointing choke points are important. Not necessarily holding the points. But having vision and understanding how my damage certain raids can do while also recognising a way to prevent it or minimise the threat without wasting too much mass on it. You never want to pre-emptively block off paths. You want too reactively do it. Less mass waste, more time and mass on upgrades/units. But that can be quite APM intensive. So having a t1 pd to block off chokepoints early, is not bad per sae. But it definitely hinders your ability to eco and build more units if they never send anything that way. 
 
-### Race Dominance
-While its no suprise that certain races dominate the game in certain aspects, this is just to pin point some important impacts each race tends to have on gap specifically. 
-- Seraphim
-They are quite the race for early agression and late game abuse. Though the seige tank is weaker via having less range then all the other races. Its t2 stage is very strong. T2 bombers are the best point blank for taking out Mass Extractors, T2 Power Generators and Experimentals. 
+## Race Dominance
+## {.tabset}
 
-- Cybran
+While its no suprise that certain races dominate the game in certain aspects, this is just to pin point some important impacts each race tends to have.  
+
+### Seraphim
+- Overall
+Seraphim are a solid faction for all areas of the game except for t3 compared to the other factions. Though still holding comparably well. Seraphim tend to lack some of the other factions Overwhelming qualitys in the t3 stage in sacrafice for small gimmicks.
+- T1
+T3 land is hindered slightly with the current spec meta on their tanks. But still have a solid army composition with t3 mobile shield, lightning tanks and sniper bots. Chickens (t3 land exp) and the awasha (t4 air exp) are quite valuable experimentals when microd appropriately. 
+- T2
+Its t2 stage is very strong. T2 bombers are the best point blank for taking out Mass Extractors, T2 Power Generators and Experimentals.
+- T3
+T3 land is hindered slightly with the current spec meta on their t3 seige tanks having less range and . But still have a solid army composition with t3 mobile shield, lightning tanks and sniper bots.
+- T4
+### Cybran
+
+- Overall
+- T1
 Stealth is a large predetermining factor in how cybran win lanes. The idea is to decieve and keep at range with minimal vision. Especially in navy as there is nothing that shows stealthed units in navy, within the early stages of a game. Omni and direct vision are the only 2 vision perameters that show stealth. While also aiming radars and spy planes to invalidate any intel they can gather. You want to use the max range of your units within stealth to hit theirs. They will most likely run, but the higher rank you go, will tend to base their decisions off what they can see. 
+- T2
+- T3
+- T4
 
-- Aeon
-Aeon's early game is 50/50 with micro ability and max range. Mid game t2 stage is where aeon really shines within gap outside of navy. T2 land with blazer rushes and obsidian pushes. T2 air with Swifties snowballing defence into offence or just maintaining a solid defence with reclaim of enemy air pushes to eco with. T3 comes with harbingers as a solid t3 tank
-- UEF
+### Aeon
+- Overall
+- T1
+Aeon's early game is 50/50 with micro ability and max range. Mid game t2 stage is where aeon really shines within gap outside of navy. T2 land with blazer rushes and obsidian pushes. T2 air with Swifties snowballing defence into offence or just maintaining a solid defence with reclaim of enemy air pushes to eco with. T3 comes with harbingers as a solid t3 tank while having a mixture of t2 mobile bubble shields and mobile flak/sams. Depending on the unit composition, sniper bots are quite valuable especially with the speed being the same as a chicken (t4 sera land exp).
+- T2
+- T3
+- T4
+
+### UEF
+- Overall
+- T1
+- T2
+- T3
+- T4
