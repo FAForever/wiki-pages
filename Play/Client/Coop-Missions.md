@@ -2,7 +2,7 @@
 title: Co-op Missions
 description: 
 published: true
-date: 2026-07-10T05:14:31.275Z
+date: 2026-07-15T06:10:05.801Z
 tags: client
 editor: markdown
 dateCreated: 2021-08-31T09:42:43.854Z
@@ -44,6 +44,7 @@ The tables also provide an AIx modifier. This is intended to give a rough indica
 
 ## Missions List
 ### GPG Original Campaigns & Difficulty
+Difficulty ratings are using the default hard difficulty
 
 | # | SupCom - UEF          | Difficulty rating (AIx Modifier) | SupCom - Aeon         | Difficulty rating (AIx Modifier) | SupCom - Cybran      | Difficulty rating (AIx Modifier) |
 |---|-----------------------|--------------|-----------------------|--------------|----------------------|--------------|
