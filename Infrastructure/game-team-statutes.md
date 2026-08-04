@@ -2,7 +2,7 @@
 title: Game team statutes
 description: Represents the statutes of the game team
 published: true
-date: 2024-07-01T04:57:29.636Z
+date: 2026-08-04T18:53:42.094Z
 tags: game, game team, team, governance, statutes, game team statutes
 editor: markdown
 dateCreated: 2024-06-27T18:50:07.702Z
@@ -22,7 +22,6 @@ dateCreated: 2024-06-27T18:50:07.702Z
 - [Clyf](https://github.com/clyfordv)
 - [Relent0r](https://github.com/relent0r)
 - Nomander ([lL1l1 on Github](https://github.com/lL1l1))
-- Jip ([Garanas on Github](https://github.com/Garanas))
 
 # Policies:
 Every team in the FAF community is required to have a mission statement. This was made mandatory at the general meeting of the 6th of March, 2022 when the `Governance structure` proposal was accepted. The mission statement the game development team describes:
