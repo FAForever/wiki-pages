@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-05-13T18:58:41.685Z
+date: 2026-08-04T18:53:47.335Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -258,7 +258,6 @@ For more information, see the following page:
 - Archsimkat
 - Nomander
 - Sainse
-- JaggedAppliance
 
 #### Associates
 
