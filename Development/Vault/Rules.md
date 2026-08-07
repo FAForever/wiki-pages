@@ -2,7 +2,7 @@
 title: Vault Rules
 description: The current rules for both the map and mod vaults.
 published: true
-date: 2026-08-07T16:38:05.819Z
+date: 2026-08-07T16:39:20.981Z
 tags: modding, mapping, rules
 editor: markdown
 dateCreated: 2021-12-12T09:46:02.410Z
@@ -16,7 +16,7 @@ These are the current vault rules. Violations will result in the uploader being 
 * Content must use the [FAF vault license](https://content.faforever.com/tos/vault-license.html) or a more permissive license.
 * Content must follow naming conventions, and have proper attribution and disclosures.
 * No GPG maps or variants thereof without approval.
-* No content that could be wholly and consistently recreated from minimal data such a seed; notably raw [Neroxis Map Generator](https://github.com/FAForever/Neroxis-Map-Generator) output.
+* No content that could be wholly and consistently recreated from minimal data such a seed; notably the raw output of [Neroxis Map Generator](https://github.com/FAForever/Neroxis-Map-Generator).
 
 ## Legal requirements:
 Content must not breach international laws or the national/federal laws of the vaults' host country(s). This notably includes but is not limited to:
