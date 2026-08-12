@@ -2,13 +2,13 @@
 title: Vault Guidelines
 description: Quality and content guidelines for vault maps and mods.
 published: true
-date: 2026-08-11T17:43:05.914Z
+date: 2026-08-12T08:50:46.659Z
 tags: modding, mapping, rules
 editor: markdown
 dateCreated: 2023-03-16T15:59:09.647Z
 ---
 
-These are guidelines for vault maps and mods. Content that violates these may be hidden from the vault, however, they are not rules, and violations against them will not incur sanctions upon the uploader.
+These are guidelines for maps and mods to be uploaded to the vault. Content that violates these may be hidden, however, they are not rules, and violations against them alone will not incur sanctions upon the uploader.
 
 ## General
 * Names and descriptions should not be misleading, and should reasonably describe the content.
