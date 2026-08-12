@@ -2,7 +2,7 @@
 title: Creating UI Mods
 description: How to create a mod for the User Interface
 published: true
-date: 2026-03-20T20:58:16.378Z
+date: 2026-08-12T01:39:31.512Z
 tags: modding
 editor: markdown
 dateCreated: 2026-03-20T09:08:55.909Z
@@ -139,15 +139,32 @@ There are two ways to get data from the Sim: Engine functions and the Sync table
 
 ### Engine Functions
 Engine functions give relatively simple data about units in your own army.
-This includes: "Rollover info" (blueprint id, resource consumption/production, health, shields, fuel, work progress, focused unit, kills stat, ammunition stats, custom name, and army index), command capabilities (what orders can be given), build capabilities, build rate, assisting units, attached units (for transports), pause state, fire state, auto-build mode, auto-surface mode, submerge state, overcharge availability, command queue, unit creator, unit position, unit's completion progress, and unit blueprint.
+This includes: 
+- "Rollover info": blueprint id, resource consumption/production, health, shields, fuel, work progress, focused unit, kills stat, ammunition stats, custom name, and army index
+- command capabilities (what orders can be given)
+- build capabilities
+- build rate
+- assisting units
+- attached units (for transports)
+- pause state
+- fire state
+- auto-build mode
+- auto-surface mode
+- submerge state
+- overcharge availability
+- command queue
+- unit creator
+- unit position
+- unit's completion progress
+- unit blueprint.
 
-> Rollover info can be given about units outside your army by calling `GetRolloverInfo()` when mousing over the unit, but info about resources, shields, fuel, work progress, focus, ammo, and kills is removed.
-{.is-info}
+For units *outside* your army, you have to use `GetRolloverInfo()` when mousing over the unit. The function's output for other armies' units is limited to blueprint id, health (vision), custom name, and army index.
 
-There are also a few engine functions that give information about the game, including: scenario info, game speed, game tick/time, mouse world pos,
+There are also a few engine functions that give information about the game, including: scenario info, game speed, game tick/time, mouse world pos, focus army, and alliance status.
 
 - [User.lua *Documentation of global UI functions*](https://github.com/FAForever/fa/blob/develop/engine/User.lua)
 - [UserUnit.lua *Documentation of UI unit functions*](https://github.com/FAForever/fa/blob/develop/engine/User/UserUnit.lua)
+- [Core.lua *Documentation of global UI+Sim functions*](https://github.com/FAForever/fa/blob/develop/engine/Core.lua)
 {.links-list}
 
 #### Unit Script Bits
@@ -187,6 +204,10 @@ function GetUnitWepPriorityName(userUnit)
 	return UnitData[id].WepPriority
 end
 ```
+
+### Mass and Hydrocarbon deposits
+A FAF engine patche add a new Core function `GetDepositsAroundPoint`. You can see the documentation [here](https://github.com/FAForever/fa/blob/b14d712426fbf2a461e036bd9981c849d51d4b54/engine/Core.lua#L605).
+
 -----
 > The following sections are brief and could be expanded into their own pages.
 {.is-info}
