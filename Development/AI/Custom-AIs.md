@@ -2,7 +2,7 @@
 title: Custom AIs
 description: 
 published: true
-date: 2025-08-15T09:47:00.870Z
+date: 2026-09-05T21:18:00.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T22:17:51.972Z
@@ -60,16 +60,6 @@ AI is aimed at players wanting to learn 1v1 gameplay. It provides an avenue to p
 
 AI Variants: RNG Standard, RNG Standard Experimental.  RNG Standard is suggested as the more competitive of these variants.
 
-### AI-Uveso
-![uvesoai.jpg](/uvesoai.jpg)
-*Author: Uveso*
-Other mods required: None
-This AI is a turtle-focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
-
-The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain another custom AI (as of writing, March 2023, AI-Swarm,  Marlo's Sorian Edit, and Sorian AI).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
-
-AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
-
 ## AI not under active development
 
 Although no longer receiving updates, the following AI should still work in FAF.
@@ -82,6 +72,17 @@ Other mods required: None
 Adaptive AI, intended for both 1v1 and team games.  Provides a competitive player-like experience, with an estimated rank of 800-1100 (i.e. better than the average FAF player).  While largely superceded by M28AI, it will play differently and can beat M28AI on some maps.  Although not actively developed it is still occasionally updated to ensure it remains compatible with the latest FAF releases.
 
 Further details on M27AI are available on its [forum thread](https://forum.faforever.com/topic/2373/ai-development-guide-and-m27ai-v70-devlog), including a detailed [devlog of the AI's progress](https://docs.google.com/document/d/1uQlEoN-kti7G2MnhwD60uaaHwVevPNYH/edit?usp=share_link&ouid=100973959280546778272&rtpof=true&sd=true).
+
+### AI-Uveso
+![uvesoai.jpg](/uvesoai.jpg)
+*Author: Uveso*
+Last updated: March 2025
+Other mods required: None
+This AI is a turtle-focused AI that is designed mainly for 10km maps.  It supports Nomads and other unit mods.
+
+The AI-Uveso mod also allows for the generation of 'map markers', which are used by the default AI and certain another custom AI (as of writing, March 2023, AI-Swarm,  Marlo's Sorian Edit, and Sorian AI).  I.e. enabling AI-Uveso with these other AI mods can improve their performance. 
+
+AI Variants: Easy, Rush, Adaptive, Experimentals, Overwhelm.  Uveso Rush is suggested as the more competitive of these variants.
 
 ### Marlo's Sorian Edit
 ![sorianedit.bmp](/sorianedit.bmp)
