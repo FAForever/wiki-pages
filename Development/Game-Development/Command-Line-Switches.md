@@ -2,7 +2,7 @@
 title: Command Line Switches
 description: Command line switches let you run Forged Alliance with extra options and settings.
 published: true
-date: 2026-09-15T10:51:04.592Z
+date: 2026-09-15T10:51:34.209Z
 tags: modding, development
 editor: markdown
 dateCreated: 2021-08-31T09:42:35.315Z
@@ -94,7 +94,7 @@ Set game speed ("normal", "fast" or "adjustable")
 | `/purgecache`                 | Clears out the shader cache in `%localappdata%/Gas Powered Games/Supreme Commander Forged Alliance/cache` at startup. |
 | `/replay <replay_file>`     | Plays the given replay file. Example: `/replay "C:\\My Replays\\Me vs The Bad Guys.SupremeCommanderReplay"` or `/replay "C:/ProgramData/FAForever/cache/temp.scfareplay"`|
 | `/savereplay <replay_file>` | Save the replay to the given file. Does not work for skirmishes started with /map *map_folder* - you have to hook *lua/SinglePlayerLaunch.lua* and edit sessionInfo.createReplay = true (in function SetupCommandLineSkirmish) for this to work. |
-| `/scenario <map_scenario_file`                   | Equivalent to `/map` |
+| `/scenario <map_scenario_file>`                   | Equivalent to `/map` |
 | `/showlog`                   | Shows the log window at startup                                                                                                                                                                                                                  |
 | `/size <X> <Y>`               | Sets the main window's size |
 | `/softwareinstancing`         | Force software instancing for mesh batches. Also accessible in-game with `mesh_Rebatch` console command. |
