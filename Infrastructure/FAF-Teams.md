@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-08-04T18:53:47.335Z
+date: 2026-09-17T12:25:33.378Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -250,13 +250,13 @@ For more information, see the following page:
 ### Balance Team
 #### Team Lead
 
-- Rhaelya
+- Nomander
 
 #### Members
 
 - Tagada
 - Archsimkat
-- Nomander
+- Rhaelya
 - Sainse
 
 #### Associates
