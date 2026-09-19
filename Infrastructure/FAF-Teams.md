@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-09-17T12:25:33.378Z
+date: 2026-09-19T05:10:09.223Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -32,7 +32,7 @@ These are the current Team Leaders:
 	>	**Archsimkat**
 
 - **Balance Team Leader:** 
-	>	**Rhaelya**
+	>	**Nomander**
 
 - **Games Team Leader:** 
 	>	**BlackYps**
@@ -313,7 +313,6 @@ For more information, see the following page:
 ##### Team Members
 - CaptainKlutz
 - Dragun101
-- Jip
 - MadMax
 - Sheikah
 - Jammer
