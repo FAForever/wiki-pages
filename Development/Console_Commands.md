@@ -2,7 +2,7 @@
 title: Console Commands
 description: 
 published: true
-date: 2026-09-21T07:13:29.993Z
+date: 2026-09-21T07:37:09.282Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T08:55:22.059Z
@@ -287,7 +287,7 @@ To understand this table, you'll need to know how to read the `Syntax` column of
 | `rule_Paranoid` | Paranoid mode for RULE system, print all error messages. |
 | `SallyShears` | Reveal entire map. |
 | `SC_AntiAliasingSamples` |  |
-| `SC_CameraScaleLOD` |  |
+| `SC_CameraScaleLOD <0|1|2>` | Adjusts level of detail for the default cameras the game shipped with. Runs `cam_DefaultLOD` and `cam_SetLOD` with arguments 0.9, 1.0, and 1.2 respectively. `cam_SetLOD` uses camera names `WorldCamera`, `WorldCamera2`, and `CameraHead2`. |
 | `SC_CreateEntityDialog` | Create object editing box for the primary selected unit |
 | `sc_FrameTimeClamp` | Minimum time between frames, in milliseconds |
 | `SC_LuaDebugger` | Open Lua debugger window |
