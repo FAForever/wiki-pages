@@ -2,7 +2,7 @@
 title: Console Commands
 description: 
 published: true
-date: 2026-09-21T07:09:37.191Z
+date: 2026-09-21T07:13:29.993Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T08:55:22.059Z
@@ -59,7 +59,7 @@ To understand this table, you'll need to know how to read the `Syntax` column of
 | `cam_NearPitch [<num>]` | Pitch of camera at nearest zoom, in degrees |
 | `cam_NearZoom [<num>]` | Closest mouse can zoom in to terrain |
 | `cam_PanSpeed [<num>]` | How fast the camera pans. |
-| `cam_SetLOD [<num>]` | Set the lod scale factor for a camera |
+| `cam_SetLOD <num> <camName>` | Set the lod scale factor for a camera |
 | `cam_ShakeMult [<num>]` | How much camera shake to allow. |
 | `cam_SpinSpeed [<num>]` | How fast mouse spins camera, in degrees across screen size |
 | `cam_TrackProjectileTimeout [<num>]` | Delay after tracking a projectile. |
