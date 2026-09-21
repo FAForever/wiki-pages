@@ -2,7 +2,7 @@
 title: Console Commands
 description: 
 published: true
-date: 2026-03-23T03:52:28.339Z
+date: 2026-09-21T07:09:37.191Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T08:55:22.059Z
@@ -422,7 +422,7 @@ To understand this table, you'll need to know how to read the `Syntax` column of
 | `UI_ShowRenameDialog` | Display the rename unit dialog during a game |
 | `ui_StrategicIconBlinkDuration` | How long to blink icon when unit is damage |
 | `ui_StrategicIconBlinkRate` | Blink timer scale for strategic icons on damage |
-| `UI_StrategicProjectileLOD` | At what LODMetric do we draw projectile pixels on strategic view |
+| `UI_StrategicProjectileLOD [<num>]` | At what LODMetric do we draw projectile pixels on strategic view |
 | `UI_ToggleGamePanels` | Hide/show the UI panels in game, and expands the world view to fill the screen when panels are hidden. |
 | `UI_TrackUnit` | track selected units. |
 | `ui_WaypointLineScale` | Scale applied to the calculated waypoint line size |
