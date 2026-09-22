@@ -2,13 +2,14 @@
 title: Playing FAF Offline
 description: 
 published: true
-date: 2021-12-27T08:25:15.585Z
+date: 2026-09-22T07:34:21.406Z
 tags: 
 editor: markdown
-dateCreated: 2021-12-27T08:25:15.585Z
+dateCreated: 2021-11-02T18:22:18.621Z
 ---
 
 # How to Play FAF Offline
+## Windows
 All you need to play the FAF offline is to create a shortcut to
 
 `C:\ProgramData\FAForever\bin\ForgedAlliance.exe`
@@ -16,3 +17,17 @@ All you need to play the FAF offline is to create a shortcut to
 and run it. If the game crashes, you may have to run `C:\\ProgramData\\FAForever\\bin\\ForgedAlliance.exe` as administrator (this comes with a security risk, especially if you obtained FAForever from an untrusted source). If you run the game offline you will not have access to some features such as autodownload of missing maps/mods from the vault or automated replay saving.
 
 If you want to play a coop mission in single player you need to "host" it first, so that it downloads the relevant files. Once you get to the in-game lobby you can close the game. You need to do this once for each mission you want to play. Every time you want to play singleplayer: Start the game with the /init init_coop.lua command line switch or shortcut. Begin the mission from the **skirmish** screen. Resume saved progress from the campaign screen.
+
+For an example of command line switches, the following will open FAF offline, disable the intro movies, show the 'moho log' window, and create a log (offlineDev.log) in the same folder:
+`C:\ProgramData\FAForever\bin\ForgedAlliance.exe /init init_faf.lua /EnableDiskWatch /showlog /nomovie /log  offlineDev.log`
+
+## Linux
+Locate the "run-offline" file in the faf-linux folder, and run this.
+
+You can also edit this to add command line switches, similarly to a windows shortcut. For example, the following code will open FAF offline, disable the intro movies, show the 'moho log' window, and create a log (offlineDev.log) in the same folder:
+
+
+`#!/usr/bin/env bash`
+
+`basedir=$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")`
+`"$basedir/launchwrapper" ~/.faforever/bin/ForgedAlliance.exe /init "${@:-init_faf.lua}" /EnableDiskWatch /showlog /nomovie /log offlineDev.log`
