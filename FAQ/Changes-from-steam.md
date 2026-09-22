@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2023-07-06T06:25:45.684Z
+date: 2026-09-22T07:44:47.503Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -67,13 +67,12 @@ In original balance overlapping shields are extremely powerful, since you have t
 For details, refer to the unit database. Most important balance changes
 are listed below:
 
-- Most of the atrociously unbalanced units were fixed:
-	- Restorers' AA capacity was greatly nerfed.
-	- T2 mobile missile launcher rockets no longer home in on their         targets.
-	- Other changes that the author no longer remembers.
-- T1 transports can no longer transport ACUs. This insane change was introduced in the Steam version.
+
+- The amount of reclaim dropped by units is reduced for later tier units and experimentals
+- Restorers' anti-air (AA) was greatly nerfed.
+- Tech 2 (T2) mobile missile launcher rockets no longer home in on their targets.
+- T1 transports can no longer transport ACUs.
 - T1 air scouts are much cheaper. They also have radar and sonar.
-- T1 bombers were tweaked to remove hoverbombing. In exchange, T1 bombers were buffed.
 - ACU upgrades were rebalanced across the board.
 - Support ACUs were rebalanced to be more useful in the field.
 - ACU explosion damage was reduced to 2500 to reduce the number of draws.
