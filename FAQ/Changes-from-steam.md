@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-09-22T07:55:07.550Z
+date: 2026-09-22T07:55:57.313Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -64,7 +64,7 @@ In original balance overlapping shields are extremely powerful, since you have t
 
 ## Balance changes
 
-For details, refer to the unit database. Most important balance changes
+For details, refer to the unit database. Examples of more significant balance changes
 are listed below:
 
 
