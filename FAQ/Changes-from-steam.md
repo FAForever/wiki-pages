@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-09-22T07:44:47.503Z
+date: 2026-09-22T07:50:26.062Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -73,12 +73,13 @@ are listed below:
 - Tech 2 (T2) mobile missile launcher rockets no longer home in on their targets.
 - T1 transports can no longer transport ACUs.
 - T1 air scouts are much cheaper. They also have radar and sonar.
-- ACU upgrades were rebalanced across the board.
+- ACU upgrades were rebalanced across the board, including Cybran receiving a new nanorepair upgrade, and some upgrades such as the UEF bubble shield upgrade no longer having a pre-requisite upgrade.
 - Support ACUs were rebalanced to be more useful in the field.
 - ACU explosion damage was reduced to 2500 to reduce the number of draws.
 - Mobile T3 AA units were added to each faction. This makes late game experimental pushes less susceptible to enemy air.
 - Static T3 anti-air is much cheaper.
 - Air staging stations can now be built by T1 engineers.
+- Mobile units that can build other units (eg fatboy, aircraft carriers) can build while moving
 - Czar has a shield and reasonable anti-air attack
 
 ## Other changes
