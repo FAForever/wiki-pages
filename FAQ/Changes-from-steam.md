@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-09-22T07:51:02.097Z
+date: 2026-09-22T07:55:07.550Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -78,10 +78,12 @@ are listed below:
 - ACU explosion damage was reduced to 2500 to reduce the number of draws.
 - Mobile T3 AA units were added to each faction. This makes late game experimental pushes less susceptible to enemy air.
 - Static T3 anti-air is much cheaper.
+- Static t2 arti have a reduced range and are less accurate
 - Air staging stations can now be built by T1 engineers.
 - Mobile units that can build other units (eg fatboy, aircraft carriers) can build while moving
-- mercy does a small amount of damage over time in an area
+- Mercy does a small amount of damage over time in an area
 - Czar has a shield and reasonable anti-air attack
+- Novax fires a beam for a few seconds before recharging its attack
 
 ## Other changes
 
