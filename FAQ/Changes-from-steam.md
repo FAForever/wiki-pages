@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-09-22T07:50:26.062Z
+date: 2026-09-22T07:51:02.097Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -80,6 +80,7 @@ are listed below:
 - Static T3 anti-air is much cheaper.
 - Air staging stations can now be built by T1 engineers.
 - Mobile units that can build other units (eg fatboy, aircraft carriers) can build while moving
+- mercy does a small amount of damage over time in an area
 - Czar has a shield and reasonable anti-air attack
 
 ## Other changes
