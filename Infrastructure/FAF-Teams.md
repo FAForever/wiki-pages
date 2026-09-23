@@ -2,7 +2,7 @@
 title: FAF Teams
 description: 
 published: true
-date: 2026-09-19T05:10:09.223Z
+date: 2026-09-23T07:36:43.981Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:45:45.963Z
@@ -368,7 +368,7 @@ The moderation team’s mission is to keep the community a healthy and pleasant 
 - Chosen by the moderation team, with a 12 month cooldown period during normal circumstances
 
 #### Team Membership
-- Interested candidates may send an application to the team lead
+- Interested candidates may send an application to the team via discord. The [main FAF discord](https://discord.gg/mXahVSKGVb) has a looking for volunteers channel which [has more details](https://discordapp.com/channels/197033481883222026/1335853138984566856), and users can submit an application using the moderation support ticket system in discord.
 - Applicants are discussed and voted for within the team, with the team lead having the final say regarding new team members
 - Team members can be dropped from the team due to long inactivity or being deemed no longer suitable for the position
 - Moderators split their attention between FAF reports, the FAF discord, Aeolus IRC, and the forum
