@@ -2,7 +2,7 @@
 title: Playing FAF Offline
 description: 
 published: true
-date: 2026-09-24T06:58:33.567Z
+date: 2026-09-24T07:24:37.582Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T18:22:18.621Z
@@ -33,7 +33,7 @@ You can also edit this to add command line switches, similarly to a windows shor
 `"$basedir/launchwrapper" ~/.faforever/bin/ForgedAlliance.exe /init "${@:-init_faf.lua}" /EnableDiskWatch /showlog /nomovie /log offlineDev.log`
 
 The following are examples of potential locations for the offline replay folder:
-`/home/[username]/Documents/Games/Forged Alliance/faf-linux/prefix/drive_c/users/steamuser/Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance/replays/[profile name]`
+`/home/[username]/Documents/faf-linux/prefix/drive_c/users/steamuser/Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance/replays/[profile name]`
 
 
 `/home/[username]/.steam/steam/steamapps/compatdata/9420/pfx/drive_c/users/steamuser/Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance/replays/[profile name]`
