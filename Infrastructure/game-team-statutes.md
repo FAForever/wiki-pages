@@ -2,7 +2,7 @@
 title: Game team statutes
 description: Represents the statutes of the game team
 published: true
-date: 2026-08-04T18:53:42.094Z
+date: 2026-10-03T21:31:45.745Z
 tags: game, game team, team, governance, statutes, game team statutes
 editor: markdown
 dateCreated: 2024-06-27T18:50:07.702Z
@@ -16,7 +16,6 @@ dateCreated: 2024-06-27T18:50:07.702Z
 
 - [Madmax](https://github.com/MadMaxFAF)
 - [Hdt80bro](https://github.com/Hdt80bro)
-- [4z0t](https://github.com/4z0t)
 - [BlackYps](https://github.com/BlackYps)
 - [Cheeseberry](https://github.com/ChessBerry)
 - [Clyf](https://github.com/clyfordv)
