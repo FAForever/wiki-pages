@@ -2,7 +2,7 @@
 title: Command Line Switches
 description: Command line switches let you run Forged Alliance with extra options and settings.
 published: true
-date: 2026-09-15T10:51:34.209Z
+date: 2026-10-03T04:25:20.713Z
 tags: modding, development
 editor: markdown
 dateCreated: 2021-08-31T09:42:35.315Z
@@ -61,13 +61,13 @@ Set game speed ("normal", "fast" or "adjustable")
 | `/EnableDiskWatch`            | The game engine will monitor all files on the disk, and if it detects a change, it will attempt to re-load that file immediately, if possible. This allows instant in-game updates of things like unit blueprints.                               |
 | `/edit`                       | Opens the Moho Log at startup. Unknown difference from `/showlog`, which is typically used instead. |
 | `/exitongameover`             | Application will exit when the game is over                                                                                                                                                                                                      |
-| `/file`                       | Unkown |
+| `/file`                       | Unknown |
 | `/framerate <fps>`                  | Sets max framerate at startup. |
 | `/gameoptions [<option_key>:<value>...]` | Allows setting individual game options like so: `/gameoptions CheatsEnabled:true GameSpeed:adjustable` |
 | `/genpath`                  | Enables path generation debug logging. |
 | `/gpgnet <address>`              | Connects to gpgnet |
 | `/gpgnetdev`                  | Uses a gpgnet client in the directory `C:/work/rts/main/code/src/Multiplayer/MultiplayerClient/bin/Debug/MultiplayerClient.exe` |
-| `/hook`                     |    Unkown |
+| `/hook`                     |    Unknown |
 | `/hostgame <protocol> <port> <player_name> <game_name> <map_file>`| Launches the game using `StartHostLobbyUI` in `/lua/ui/uimain.lua` |
 | `/init <initFile>`          |  Defines init file that mounts game content and, in FAF, adjusts process priority. |
 | `/interlocked`                | Force the sim and UI threads to run interlocked at startup. Equivalent to game console command `sim_Interlocked` |
