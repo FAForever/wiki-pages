@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-09-22T07:55:57.313Z
+date: 2026-10-05T06:12:02.444Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -84,6 +84,9 @@ are listed below:
 - Mercy does a small amount of damage over time in an area
 - Czar has a shield and reasonable anti-air attack
 - Novax fires a beam for a few seconds before recharging its attack
+- Repairing costs 25% less mass (e.g. repairing 100% of a unit's health costs 75% of its mass cost, outside of air staging where there is no mass cost)
+- Anti-air missiles (e.g. SAMs) will retarget other nearby air units within range of the anti-air unit if the original target dies
+- An Aeon TMD can only stop up to 3 missiles at a time, while other TMD are better at targeting different missiles to avoid being overwhelmed when having large numbers of TMD to defend large numberes of missiles
 
 ## Other changes
 
