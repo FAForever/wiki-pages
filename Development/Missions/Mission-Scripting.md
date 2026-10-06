@@ -2,11 +2,14 @@
 title: Mission Scripting
 description: 
 published: true
-date: 2025-07-06T11:05:17.916Z
+date: 2026-10-06T07:15:07.954Z
 tags: mapping
 editor: markdown
 dateCreated: 2021-08-31T09:44:25.458Z
 ---
+
+## Co-op missions
+For information about co-op missions, including hosting games, features, and adding harder AI, refer to the separate [co-op missions section of the wiki](https://wiki.faforever.com/en/Play/Client/Coop-Missions).
 
 Maps avaliable as mentioned in Jip Campagin Development are listed [here](/Development/Mapping/campaign-ready-maps)
 
