@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-10-05T06:16:37.804Z
+date: 2026-10-09T23:47:36.502Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -46,7 +46,7 @@ In original FA balance, the optimal way to make T2 and T3 units was to massively
 The first T2 factory you build is an "HQ" factory. It has high mass cost just like in original balance, but once built, it allows you to build support factories of the same level. A support factory has slightly less buildpower and is much cheaper, allowing for mass production of higher tier units. If you lose your HQ factory, your support factories lose the  ability to produce units and can only build high tier engineers.
 
 ### Overcharge
-- Starting energy storage was reduced to 4000, while overcharge requires at least 5000 energy to fire. An energy storage has to be built before overcharge can be used.
+- Starting energy storage was reduced to 4000, while overcharge requires at least 7500 energy to fire. An energy storage has to be built before overcharge can be used.
 - Overcharge was tweaked to require more energy in order to deal more damage. This makes T3 units more effective versus an ACU, since more energy is required to kill them.
 - An auto-overcharge was added to ACUs. When enabled, ACUs will automatically overcharge best targets when possible.
 
