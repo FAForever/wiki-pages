@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T09:32:26.665Z
+date: 2026-10-14T09:39:11.982Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -274,9 +274,13 @@ Chicken (Who wrote the gap strategies)
 ## Replays from Pros to watch and Learn
 ## {.tabset}
 ### Live Games
-#27943592 (Insanity vs Moy Top Land)
-#26117400 - Bot Land Coming back from losing position (Before tml Snipe) (Real Game)
+#27943592 - (Insanity vs Moy Top Land)
+#26117400 - (Insanity Vs Moy Bot Land)
+
 ### Solo Practice (Basic)
+These Replays are just basic builds for you to practice. They aren't perfectly microd, or executed builds... you definitely can speed these builds up a touch with practice. Again, they are skeleton builds. You want to learn these, use them as a skeleton build, adapt to threats and win conditions, then go back to the skeleton build. Its just to give a baseline as to how you're suppose to play.
+For eco, just do an air build. T3 engs are better then hives and kennels for mass/bp. Plus air factory upgrade as eco, is better for adapting to threats or harrassing. While also costing less mass to upgrade the factory itself. 
+
 #26119644 - Balanced Top Land Build
 #26116972 - T1 sub spam - t2 normal navy onwards
 #26113913 - Normal Navy Build 
