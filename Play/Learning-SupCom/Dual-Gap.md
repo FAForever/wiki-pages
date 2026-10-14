@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T11:03:34.933Z
+date: 2026-10-14T11:07:56.257Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -46,7 +46,7 @@ As the image below shows the current competitive map choice.
 ![gap_lobby_start.png](/dual-gap/gap_lobby_start.png)
 
 ### Settings
-Typically start on default mode. There is a default button in the photo below with the ** symbol. Using full share is a choice, though is not the competitive choice. Can make the game go on for hours on end. Assassination is the way to go. Union control is also an innovative idea while network troubles are happening. But you need to make sure you are with people who are trustworthy not to ruin the game with selecting and playing as someone else. Just allows the base and com to stay through a desync. Though it is not needed. Comes in handy. From the grapevine, I am hearing a change in union control to fix the abuse of it, while people are still in the game. 03/02/26
+Typically start on default mode. There is a default button in the photo below with the ** symbol. Using full share is a choice, though is not the competitive choice. Can make the game go on for hours on end. Assassination is the way to go. Union control upon disconnect is also an innovative idea while network troubles are happening. But you need to make sure you are with people who are trustworthy not to ruin the game with selecting and playing as someone else. Just allows the base and com to stay through a desync. Though it is not needed. Comes in handy. From the grapevine, I am hearing a change in union control to fix the abuse of it, while people are still in the game. 03/02/26
 
 ### Sim Mods and UI Mods
 Sim mods will 100% unrank a game. It is fun, but it is not competitive.
