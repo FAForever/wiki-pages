@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T08:15:47.105Z
+date: 2026-10-14T09:32:26.665Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -246,7 +246,7 @@ Aeon's early game is 50/50 with micro ability and max range. Mid game t2 stage i
 ## Players To Watch and Learn
 ## {.tabset}
 
-Though each of the players below have changed there names constantly. Most higher ranked gaps will tend to have at least one of us. There are a few honourable mentions who have alot to learn thought they have contended with any of us in the past.
+Though each of the players below have changed there names constantly. Most higher ranked gaps will tend to have at least one of us. There are a few honourable mentions who have alot to learn even though they have contended with any of us in the past.
 
 ### Moyard
 The German Monk. Moyard is a consistantly decent player. Doesn't hold back and has this ability to adapt to whats needed within the instant. He's been one of the top contenders for gap for years now. He has many names. Peaked at 2442.
@@ -272,6 +272,14 @@ Chicken (Who wrote the gap strategies)
 
 
 ## Replays from Pros to watch and Learn
-### Replays Numbers
+## {.tabset}
+### Live Games
 #27943592 (Insanity vs Moy Top Land)
-
+#26117400 - Bot Land Coming back from losing position (Before tml Snipe) (Real Game)
+### Solo Practice (Basic)
+#26119644 - Balanced Top Land Build
+#26116972 - T1 sub spam - t2 normal navy onwards
+#26113913 - Normal Navy Build 
+#26113632 - Top Air Build (T2 bomber spam into t3)
+#27211090 - Fast nuke eco build 
+#26111344 - Bot Air Build (Little bit of t1 - t3)
