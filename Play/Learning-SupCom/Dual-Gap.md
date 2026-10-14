@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T19:00:31.613Z
+date: 2026-10-14T19:04:44.217Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -56,7 +56,7 @@ Insanity's UI Mods below.
 
 ### FAF Client
 
-Seraphim noob and nory have spent a large portion of the 6 months developing and improving the old client. Now the rust client has come out. Not only does it give people the chance to enjoy the QoL of updated services, but it also added some new features such as the training tab. Many other features are still being ironed out to show case their hard work and dedication to improving the faf community. I highly suggest at least giving the client a go! Yes. It still plays in conjunction with the old client.
+Over the past six months, Seraphim-Noob and Nory have put a tremendous amount of work into developing and improving the new Rust Client. Not only brings it many QoL improvements, but it also added many new features such as the training tab. Many other features are still being ironed out to achieve the best FAF experience. I highly recommend giving it a try and seeing what it has to offer! And don't worry, the Rust Client works alongside with all other clients.
 https://github.com/FAForeverRustClient/FAForeverRustClient/releases/latest
 
 ## Map positions and importance
