@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T18:56:14.614Z
+date: 2026-10-14T19:00:31.613Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -125,6 +125,7 @@ Where your ACU moves is going to depend on the map. ***Generally speaking, you w
 - Concentrated clusters of Mass Extractors
 - Reclaim piles
 - Chokepoints
+- Avoid walking through trees
 
 In the images below, are places where you can send your ACU that are highlighted in green:
 
