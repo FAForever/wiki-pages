@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T09:39:11.982Z
+date: 2026-10-14T11:02:16.275Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -255,7 +255,7 @@ Australian God. The best player ever. Ignore everyone else. Peaked at 4k in my d
 ### Starly
 A Veteran Russian GAF Player who transferred to FAF. Paving his way to the upper ranks within record breaking times. Though he doesn't play gap as much these days. He certainly has a unique way of adapting and playing. Peaked at 2750.
 ### Prophet
-An American Warlord whos followed the footsteps of the great rogue_toaster. Causing a storm throughout peak european times back in 22. While he is currently coming back up this year, he IS constantly changing his playstyle to match his opponents. Peaked at 2188.
+An Canadian Warlord whos followed the footsteps of the great rogue_toaster. Causing a storm throughout peak european times back in 22. While he is currently coming back up this year, he IS constantly changing his playstyle to match his opponents. Peaked at 2188.
 ### Popiska
 The Russian Veteran. Popiska has been a long standing figure in the gap community for the europeans. While he helps teach and muck around with the lower ranks, he still can decimate the higher ranks in a head to head with his perfected knowledge of how to eco and combat his opponents. Peaked at 2589. 
 ### Rogue_Toaster (retired, but still valuable replays to watch)
