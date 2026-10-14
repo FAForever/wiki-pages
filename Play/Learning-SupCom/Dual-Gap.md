@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T11:02:16.275Z
+date: 2026-10-14T11:03:34.933Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -276,6 +276,7 @@ Chicken (Who wrote the gap strategies)
 ### Live Games
 #27943592 - (Insanity vs Moy Top Land)
 #26117400 - (Insanity Vs Moy Bot Land)
+#27953339 - (Insanity Vs Husky Navy)
 
 ### Solo Practice (Basic)
 These Replays are just basic builds for you to practice. They aren't perfectly microd, or executed builds... you definitely can speed these builds up a touch with practice. Again, they are skeleton builds. You want to learn these, use them as a skeleton build, adapt to threats and win conditions, then go back to the skeleton build. Its just to give a baseline as to how you're suppose to play.
