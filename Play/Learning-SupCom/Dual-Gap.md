@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-07-11T10:41:41.783Z
+date: 2026-10-14T08:15:47.105Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -241,4 +241,37 @@ Aeon's early game is 50/50 with micro ability and max range. Mid game t2 stage i
 - T1
 - T2
 - T3
-- T4
+- T4 
+
+## Players To Watch and Learn
+## {.tabset}
+
+Though each of the players below have changed there names constantly. Most higher ranked gaps will tend to have at least one of us. There are a few honourable mentions who have alot to learn thought they have contended with any of us in the past.
+
+### Moyard
+The German Monk. Moyard is a consistantly decent player. Doesn't hold back and has this ability to adapt to whats needed within the instant. He's been one of the top contenders for gap for years now. He has many names. Peaked at 2442.
+### Insanity
+Australian God. The best player ever. Ignore everyone else. Peaked at 4k in my dreams.
+### Starly
+A Veteran Russian GAF Player who transferred to FAF. Paving his way to the upper ranks within record breaking times. Though he doesn't play gap as much these days. He certainly has a unique way of adapting and playing. Peaked at 2750.
+### Prophet
+An American Warlord whos followed the footsteps of the great rogue_toaster. Causing a storm throughout peak european times back in 22. While he is currently coming back up this year, he IS constantly changing his playstyle to match his opponents. Peaked at 2188.
+### Popiska
+The Russian Veteran. Popiska has been a long standing figure in the gap community for the europeans. While he helps teach and muck around with the lower ranks, he still can decimate the higher ranks in a head to head with his perfected knowledge of how to eco and combat his opponents. Peaked at 2589. 
+### Rogue_Toaster (retired, but still valuable replays to watch)
+The true German General. One of the original high ranks for gap. Paving the way for most if not all the names above and more. Most adaptations of builds and placestyles have been from his replays. Though he isn't with us anymore. His ability to predict and adapt to his opponents weaknesses, was truly astonishing. 
+### Honourable Mentions (Reached 2k on Gap)
+Skeptical Husky
+Str1ke
+Illumiti
+Seraphim-Noob (Setons Goat)
+Dushka
+Rogerstalker
+Hoschmosch
+Chicken (Who wrote the gap strategies)
+
+
+## Replays from Pros to watch and Learn
+### Replays Numbers
+#27943592 (Insanity vs Moy Top Land)
+
