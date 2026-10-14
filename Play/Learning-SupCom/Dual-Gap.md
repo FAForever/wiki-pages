@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-14T11:16:03.451Z
+date: 2026-10-14T18:56:14.614Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -53,6 +53,11 @@ Sim mods will 100% unrank a game. It is fun, but it is not competitive.
 Ui Mods however. They do not unrank games and are in fact encouraged to be used. Just need to be careful as some mods can conflict with one another cause a plethora of problems including but not solely, DESYNCING... To avoid issues, I have some UI Mods I use, that should be conflict free.
 Insanity's UI Mods below.
 ![ui_mods.png](/dual-gap/ui_mods.png)
+
+### FAF Client
+
+Seraphim noob and nory have spent a large portion of the 6 months developing and improving the old client. Now the rust client has come out. Not only does it give people the chance to enjoy the QoL of updated services, but it also added some new features such as the training tab. Many other features are still being ironed out to show case their hard work and dedication to improving the faf community. I highly suggest at least giving the client a go! Yes. It still plays in conjunction with the old client.
+https://github.com/FAForeverRustClient/FAForeverRustClient/releases/latest
 
 ## Map positions and importance
 ## Roles{.tabset}
