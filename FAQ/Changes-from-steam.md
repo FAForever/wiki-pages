@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-10-09T23:47:36.502Z
+date: 2026-10-24T16:23:57.426Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -36,6 +36,7 @@ Some changes to commands were made to reduce annoyances:
 - Holding Ctrl+Shift shows mass reclaim values on the map.
 - It's possible to queue up multiple building and ACU upgrades.
 - Mass/energy overflow is automatically transferred to teammates.
+- Paint tool to draw to communicate with teammates (hold down right mouse button to draw)
 
 ## Changes to gameplay mechanics
 
@@ -47,7 +48,7 @@ The first T2 factory you build is an "HQ" factory. It has high mass cost just li
 
 ### Overcharge
 - Starting energy storage was reduced to 4000, while overcharge requires at least 7500 energy to fire. An energy storage has to be built before overcharge can be used.
-- Overcharge was tweaked to require more energy in order to deal more damage. This makes T3 units more effective versus an ACU, since more energy is required to kill them.
+- Overcharge deals 6 damage per energy to most mobile units including SACUs, to a maximum of 15k damage (for 90k energy). Overcharge deals a fixed, reduced amount of damage to ACUs and buildings.
 - An auto-overcharge was added to ACUs. When enabled, ACUs will automatically overcharge best targets when possible.
 
 ### Veterancy
