@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-10-24T16:23:57.426Z
+date: 2026-10-24T16:24:11.939Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -49,7 +49,7 @@ The first T2 factory you build is an "HQ" factory. It has high mass cost just li
 ### Overcharge
 - Starting energy storage was reduced to 4000, while overcharge requires at least 7500 energy to fire. An energy storage has to be built before overcharge can be used.
 - Overcharge deals 6 damage per energy to most mobile units including SACUs, to a maximum of 15k damage (for 90k energy). Overcharge deals a fixed, reduced amount of damage to ACUs and buildings.
-- An auto-overcharge was added to ACUs. When enabled, ACUs will automatically overcharge best targets when possible.
+- An auto-overcharge was added to ACUs. When enabled, ACUs will automatically overcharge best targets when possible, but with a longer cooldown than manually overcharging.
 
 ### Veterancy
 
