@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-10-24T16:30:05.805Z
+date: 2026-10-24T16:48:44.027Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -88,11 +88,11 @@ are listed below:
 
 ### Tech 3
 - Restorers' anti-air (AA) was greatly nerfed.
-- Support ACUs were rebalanced to be more useful in the field.
+- Support ACUs were rebalanced to be more useful in the field, and gateways can build SACUs with certain preset enhancement combinations.
 - Mobile T3 AA units were added to each faction, which are better against strategic bombers than T2 flak.
 - Static T3 anti-air is much cheaper.
-- Aircraft carriers can build while moving
 - Anti-air missiles (e.g. SAMs) will retarget other nearby air units within range of the anti-air unit if the original target dies
+- Aircraft carriers can build while moving
 
 ### Experimental
 - The amount of reclaim dropped by units is reduced for later tier units and experimentals
