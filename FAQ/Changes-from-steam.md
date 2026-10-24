@@ -2,7 +2,7 @@
 title: Changes-from-steam
 description: 
 published: true
-date: 2026-10-24T16:24:57.400Z
+date: 2026-10-24T16:30:05.805Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-31T09:42:24.933Z
@@ -68,26 +68,37 @@ In original balance overlapping shields are extremely powerful, since you have t
 For details, refer to the unit database. Examples of more significant balance changes
 are listed below:
 
+### General
+- Repairing costs 25% less mass (e.g. repairing 100% of a unit's health costs 75% of its mass cost, outside of air staging where there is no mass cost)
 
-- The amount of reclaim dropped by units is reduced for later tier units and experimentals
-- Restorers' anti-air (AA) was greatly nerfed.
-- Tech 2 (T2) mobile missile launcher rockets no longer home in on their targets.
+### ACUs
+- ACU explosion damage was reduced to 2500 to reduce the number of draws.
+- ACU upgrades were rebalanced across the board, including Cybran receiving a new nanorepair upgrade, some upgrades such as the UEF bubble shield upgrade no longer having a pre-requisite upgrade, and Aeon having two separate range upgrades.
+
+### Tech 1
 - T1 transports can no longer transport ACUs.
 - T1 air scouts are much cheaper. They also have radar and sonar.
-- ACU upgrades were rebalanced across the board, including Cybran receiving a new nanorepair upgrade, and some upgrades such as the UEF bubble shield upgrade no longer having a pre-requisite upgrade.
-- Support ACUs were rebalanced to be more useful in the field.
-- ACU explosion damage was reduced to 2500 to reduce the number of draws.
-- Mobile T3 AA units were added to each faction. This makes late game experimental pushes less susceptible to enemy air.
-- Static T3 anti-air is much cheaper.
-- Static t2 arti have a reduced range and are less accurate
 - Air staging stations can now be built by T1 engineers.
-- Mobile units that can build other units (eg fatboy, aircraft carriers) can build while moving
+
+### Tech 2
+- Tech 2 (T2) mobile missile launcher rockets no longer home in on their targets.
+- Static t2 arti have a reduced range and are less accurate
 - Mercy does a small amount of damage over time in an area
+- An Aeon TMD can only stop up to 3 missiles at a time, while other TMD are better at targeting different missiles to avoid being overwhelmed when having large numbers of TMD to defend large numbers of missiles
+
+### Tech 3
+- Restorers' anti-air (AA) was greatly nerfed.
+- Support ACUs were rebalanced to be more useful in the field.
+- Mobile T3 AA units were added to each faction, which are better against strategic bombers than T2 flak.
+- Static T3 anti-air is much cheaper.
+- Aircraft carriers can build while moving
+- Anti-air missiles (e.g. SAMs) will retarget other nearby air units within range of the anti-air unit if the original target dies
+
+### Experimental
+- The amount of reclaim dropped by units is reduced for later tier units and experimentals
+- Mobile units that can build other units (eg fatboy, atlantis) can build while moving, except for the megalith.
 - Czar has a shield and reasonable anti-air attack
 - Novax fires a beam for a few seconds before recharging its attack
-- Repairing costs 25% less mass (e.g. repairing 100% of a unit's health costs 75% of its mass cost, outside of air staging where there is no mass cost)
-- Anti-air missiles (e.g. SAMs) will retarget other nearby air units within range of the anti-air unit if the original target dies
-- An Aeon TMD can only stop up to 3 missiles at a time, while other TMD are better at targeting different missiles to avoid being overwhelmed when having large numbers of TMD to defend large numbers of missiles
 
 ## Other changes
 
