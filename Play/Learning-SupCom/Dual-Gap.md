@@ -2,7 +2,7 @@
 title: Dual-Gap
 description: 
 published: true
-date: 2026-10-23T17:26:23.151Z
+date: 2026-10-27T08:09:36.425Z
 tags: guide, dual gap, team games
 editor: markdown
 dateCreated: 2026-01-31T08:55:49.595Z
@@ -216,53 +216,53 @@ Army layouts across the map and pinpointing choke points are important. Not nece
 ## Race Dominance
 ## {.tabset}
 
-While its no suprise that certain races dominate the game in certain aspects, this is just to pin point some important impacts each race tends to have.  
+While it’s no surprise that certain races dominate the game in certain aspects, this is just to pinpoint some important impacts each race tends to have.  
 
 ### Seraphim
 
 - Tech 1
 
 T1 Land:
-The T1 Land of the seraphim is very strong. It stands out because of its Tank + Scout combination which is able to defeat every other tank + scout combination which means that it is especially good in early game raids. Therefore it lacks of a dedicated lab and has only the scout which has higher dps than the other scouts. The t1 arty is very strong but costs more.
+The T1 Land of the seraphim is very strong. It stands out because of its Tank + Scout combination which can defeat every other tank + scout combination. This means that it is especially good in early game raids. Because of the deadly combo, it lacks a dedicated lab and has only the scout but, it outranges labs and has higher DPS than the other scouts. The T1 arty is very strong but costs more.
 
 T1 Air: 
-The seraphim bomber is because of its large aoe very good for killing engies,  which are the main target of a T1 bomber and the air scout has the ability to remain the vision for a few seconds after it got shot down. The transport is able to load 2 more t1 units than any other transport.
+The seraphim bomber is great because of its large AOE very good for killing engineers,  which are the main target of a T1 bomber and the air scout can reveal the vision for a few seconds after it got shot down. The transport is capable of loading 2 more T1 units than any other transport.
 
 T1 Navy: 
-The frigate is a mediocre unit. It doesnt shine in any category but its also not the worse in any category. so its a solid unit but nothing you should base your game on.  The sub i comparatively weak as it lacks hp but gains torpdeo defense in exchange. however the torpedo defense doesnt neglect the lack of hp 
+The frigate is a mediocre unit. It doesn’t shine in any category even though it’s not the worst in any category. It is a solid unit but nothing you should base your game on.  The sub is comparatively weak as it lacks HP but gains torpedo defence in exchange. However, the torpedo defence doesn’t neglect the lack of hp 
 
 - Tech 2
 
 T2 Land: 
-The T2 Land of Seraphim is pretty strong. Ilshies are T2.5 units. They cost quite  a lot and are slower but have high hp and good dps and a good range. The yenzyne is arguably the best hover tank and also the flak can hover which can be very important when you want to use them against navy or you want to raid on a map with a lot of smaller ponds.
+The T2 Land of Seraphim is strong comparably. Ilshies (T2 Tank) are T2.5 units. They cost quite  a lot and are slower but have high HP and good DPS and a good range. The Yenzyne (T2 Hover Tank) is arguably the best hover tank! The Flak (T2 AA) can also hover which is a very important detail to remember when you want to use them in navy against incoming torpedo bombers while the hover tanks raid on a map with a lot of smaller ponds or help assist fighting navy.
 
 T2 Air: 
-The notha is a good bomber. It can be very efficient at targeting building but is easy to dodge. so acu snipes or experimentals can avoid the damage often. The vulthoo (T2 Gunship) is a good gunship if you know how to use it. It is very tanky, expensive gunship with a lot of hp and dps. it is designed to be a t2.5 gunship. If youre using it its important that you dont just "throw them away" - protect them and repair them on airstaging to keep them alive and dont throw them as a small cheap cancer unit away as you would do with the T2 Gunship of UEF. Also the T2 Transport of Seraphim can carry (just as its lower tech unit) more untis than all the other t2 transports
+The notha ( T2 Fighter Bomber) is a decent bomber. Notha’s are typically used to aim structures, resources or buildings as they are very easy to dodge. The vulthoo (T2 Gunship) is a good gunship if you know how to use it. It is very tanky, expensive gunship with a lot of HP and DPS. Since Seraphim don’t have a T3 Gunship, it is designed to be the middle ground of the 2 techs. It’s important that you don’t just "throw them away" - protect them and repair them on an air staging to keep them alive and don’t throw them as a small cheap spam unit, as you would do with the T2 Gunship of UEF. The T2 Transport of Seraphim can carry (just as its lower tech unit) more units than all the other T2 transports
 
 T2 Navy:
-The destroyer can be the worse or the best destroyer in the game. It fully depends on the micro. If you can abuse its speed to avoid the shots of the enemy destroyer it will be super good as you can dodge its laser and this advantage doesnt exist for the enemy. But therefore its stats are on paper (dps and so on) worse than all the other destroyers. The destroyer is the best in low numbers as the microing and dodging is easier/more reliable in smaller numbers. However their torpedos are relatively bad and can be easily coutnered by t2 subs. thats the reason why you always need to add torpedo bombers to your gameplay to coutner those subs. otherwise you will lose the destroyers in all cases. the t2 cruiser is with its tactical missles super strong. it is also due to its aoe a very good coutner to t3 gunships while other crusiers have their problems to counter those. but therefore they are bad at dealing with fast aircrafts like scouts or asf as they miss most of their shots.
+The destroyer can be the worse or the best destroyer in the game. It fully depends on the micro. If you can abuse its speed to avoid the shots of the enemy destroyer, it will be the best T2 destroyer if you can dodge incoming fire while your lasers are unable to be dodged. But therefore its stats are on paper (DPS, HP and so on) worse than all the other destroyers. The destroyer is the best in low numbers as the microing and dodging is easier/more reliable in smaller numbers. However. Their torpedoes are relatively bad and can be easily countered by T2 subs. Which would cause you to need to add T2 Torp bombers into your build, to counter seraphim destroyers’ biggest weakness. The T2 cruiser is very strong with its tactical missiles. Since the cruiser has flak instead of a homing missile like the other 3 cruisers, it is very good against stacking air units. Such as all T2 air and T3 Gunships. But therefore, they are bad at dealing with fast aircrafts like scouts, ASF or T3 Bombers as they miss most of their shots.
 
 - Tech 3
 
 T3 Land:
-The T3 Land of the seraphim are a bit more complicated and your unit composition has to be thought through. THe othuums have a small range but as soon as they come into range they win vs any other t3 tank. To get into the range of those units the seraphim have a T3 mobile shield which can prevent all the tanks dying before getting into range. on top of that the seraphim have a very good sniper bot. so you shoudl really (on maps that are bigger and allow the use of sniper bots) have snipers, that outrange the enemy, to constantly damage those units. when the enemy decides to move in to kill the snipers you have to push forward with your othuums so that you can decrease the distance between your othuums and the enemy tanks. the t3 maa is a very good unit and can substitute flaks for the most part.
+The T3 Land of the seraphim are a bit more complicated, and your unit composition must be thought through. The othuums have a small range but as soon as they come into range, they win vs any other T3 tank. To get into the range of those units the seraphim have a T3 mobile shield which can prevent all the tanks dying before getting into range. on top of that the seraphim have a very good sniper bot. so you should really (on maps that are bigger and allow the use of sniper bots) have snipers, that outrange the enemy, to constantly damage those units. when the enemy decides to move in to kill the snipers you must push forward with your othuums so that you can decrease the distance between your othuums and the enemy tanks. the T3 maa is a very good unit and can substitute flaks for the most part.
 
 T3 Air:
-It has a real weak spot of the seraphims. they lack a t3 gunship. they have to use the strategic bomber which needs to be microed more intensly than gunships and has way less hp. so the real issue of seraphim is abusing their air advantage. 
+It has a real weak spot of the seraphim. they lack a T3 gunship. They must use the strategic bomber which needs to be microed more intensely than gunships and has way less HP. so the real issue of seraphim is abusing their air advantage. 
 
 T3 Navy:
-The Battleship of serpahim is okay. it has nothing where it shines and nothing where it super bad. But: it can launch nukes that allow you to abuse a won pond instantly. However: you must consider that you always pay for having the ability to make a nuke. which means that it lacks in other aspects and isnt really good anywhere. it ahs nothing really going on for it. The t3 sub is a good unit. It can (especially in noob games) cause real horrors for the enmy as they dont know how to counter them. The aircraft carrier has also a tac missle just like its t2 counter part with an even bigger range.
+The Battleship of seraphim is okay. It has nothing where it shines and nothing where it super bad. But it can launch nukes that allow you to abuse a won pond instantly. However, you must consider that you always pay for having the ability to make a nuke. which means that it lacks in other aspects and isn’t good anywhere. It’s nothing really going on for it. The T3 sub is a good unit. It can (especially in noob games) cause real horrors for the enemy as they don’t know how to counter them. The aircraft carrier has also a tac missile just like its T2 counterpart with an even bigger range.
 
 - Tech 4
 
 T4 Land:
-Mediocre. It has the benefit of being able to deal with clumped up units really well as it has aoe weapons. Comparibly to the Galactic Collossus. The Ythotha just has less hp which is why it would always lose in a 1v1 Ythotha (Chicken) and Galactic Collossus. +
+Mediocre. It has the benefit of being able to deal with clumped up units really well as it has AOE weapons. Comparably to the Galactic Colossus. The Ythotha just has less hp which is why it would always lose in a 1v1 Ythotha (Chicken) and Galactic Colossus. +
 
 T4 Air:
-With the Ahwassa. The seraphim airplayer gets its ability to actually abuse the air win. It's an extremely strong unit that has a large aoe/damage and it can lockdown very big t3 Land/t2 navy pushes if you micro properly. After dropping the bomb you have to immediately give it a waypoint behind it so that it doesnt fly over the enemy Anti Air. With the micro included, you can wipe bases and snowball your lead very easily.
+With the Ahwassa. The seraphim air player gets its ability to abuse the air win. It's an extremely strong unit that has a large AOE/Damage and it can lockdown very big T3 Land/T2 navy pushes if you micro properly. After dropping the bomb, you must immediately give it a waypoint behind it so that it doesn’t fly over the enemy Anti Air. With the micro included, you can wipe bases and snowball your lead very easily.
 
-T4 Gameender:
-The yolo is a gameender that is very strong if unscouted but not so strong if it is scouted early. If it is scouted early the enemy has enough time to prepare smd's (Strategic Missile Defences) to counter the nukes. But unprepared. The yolo can win the game on the spot as the enemy doesnt have the preparation time to load their smd's.
+T4 Game Ender:
+The yolo is a game ender that is very strong if it hasn’t been scouted. Not so strong, if it is scouted early. If it is scouted early the enemy has enough time to prepare Strategic Missile Defences to counter the nukes. But unprepared. The yolo can win the game on the spot as the enemy doesn’t have the preparation time to load their SMD.
 
 ### Cybran
 
